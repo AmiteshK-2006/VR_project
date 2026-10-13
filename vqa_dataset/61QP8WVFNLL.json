@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9e/9e7b6636.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout and organization of the presented nutritional information, what is the primary orientation of the text within the box?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Focusing on the textual elements, what is the prominent font style used for the 'Nutrition Facts' heading?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Observing the color palette, what is the predominant background color of the nutritional information panel?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the primary color used for the text within the nutritional information section?",
+        "answer": "Black"
+      },
+      {
+        "question": "Examining the structure, what is the organizational method employed for the dietary components, such as fat, carbohydrates, and protein?",
+        "answer": "tabular"
+      },
+      {
+        "question": "Analyzing the data presentation, what unit of measurement is consistently used for expressing the quantity of various nutrients?",
+        "answer": "grams"
+      },
+      {
+        "question": "Based on the visual arrangement of data, what is the type of measurement that complements the quantity of each nutrient?",
+        "answer": "percentage"
+      },
+      {
+        "question": "Considering the context and information presented, what is the overall topic described in the box?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Given the visible numerical values in the table, what is the general subject of these numbers?",
+        "answer": "quantity"
+      },
+      {
+        "question": "In terms of text hierarchy, what word is the most prominent?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the overall shape of the information box?",
+        "answer": "rectangular"
+      },
+      {
+        "question": "What is the apparent texture of the background?",
+        "answer": "smooth"
+      },
+      {
+        "question": "Considering the visible data, what is the type of food this nutritional information refers to?",
+        "answer": "unknown"
+      },
+      {
+        "question": "What is the style of the border around the information box?",
+        "answer": "none"
+      },
+      {
+        "question": "What is the general tone of the text and overall visual appearance?",
+        "answer": "informative"
+      }
+    ]
+  }
+]

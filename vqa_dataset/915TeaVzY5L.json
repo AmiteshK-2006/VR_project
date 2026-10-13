@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/56/56b28144.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the item inside the box?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What appears to be the primary material of the product?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "What is the overall shape of the product contained within?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What kind of packaging is the product shipped in?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Describe the texture of the external packaging material.",
+        "answer": "Corrugated"
+      },
+      {
+        "question": "What is the apparent color of the cardboard box?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Is the product inside the box sealed in any additional packaging?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What appears to be the material of the secondary packaging?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on the image, what is the product's form factor?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Does the product appear to have any visible markings or designs?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering its packaging, how would you describe the product's size?",
+        "answer": "Large"
+      },
+      {
+        "question": "What is the condition of the product's packaging?",
+        "answer": "Opened"
+      },
+      {
+        "question": "Describe the type of seams on the cardboard box.",
+        "answer": "Folded"
+      },
+      {
+        "question": "Considering the materials, what might be the product's general use?",
+        "answer": "Protective"
+      },
+      {
+        "question": "What kind of opening mechanism does the box seem to have?",
+        "answer": "Lid"
+      }
+    ]
+  }
+]

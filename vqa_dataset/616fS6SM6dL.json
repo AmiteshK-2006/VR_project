@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/cc/cccee13c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the product's packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What dominant color is prominently displayed on the packaging?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the apparent texture of the packaging's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What type of printing is used for the text on the packaging?",
+        "answer": "Offset"
+      },
+      {
+        "question": "What is the primary language of the text visible on the packaging?",
+        "answer": "English"
+      },
+      {
+        "question": "Judging by the image, what is the material of the packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Can you describe the overall design style of the product's packaging?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Are there any noticeable symbols or icons present on the packaging?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the information provided, what is the product category?",
+        "answer": "Hair"
+      },
+      {
+        "question": "What shade of gray is the most frequently used on the box?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Does the packaging show any visible seams or perforations?",
+        "answer": "No"
+      },
+      {
+        "question": "Based solely on the visual, does the box appear glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the approximate aspect ratio of the packaging box?",
+        "answer": "Tall"
+      },
+      {
+        "question": "Is the text on the box primarily uppercase or lowercase?",
+        "answer": "Mixed"
+      },
+      {
+        "question": "Describe the font style used for the primary text on the packaging.",
+        "answer": "Sans-serif"
+      }
+    ]
+  }
+]

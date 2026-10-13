@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d3/d37d3525.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the container's lid, as visually apparent in the product image?",
+        "answer": "Orange"
+      },
+      {
+        "question": "Judging by the image, what is the primary material used for the product's outer casing?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on the visual appearance, what is the overall shape of the product container?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What kind of product does the container's label explicitly state it holds?",
+        "answer": "Gel"
+      },
+      {
+        "question": "Describe the texture of the container's surface, as visible in the image.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What design elements are prominently featured around the container's body, as shown in the picture?",
+        "answer": "Stripes"
+      },
+      {
+        "question": "Is there a visible secondary cover under the main lid, according to the image?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the image, what material seems to constitute the secondary cover?",
+        "answer": "Aluminum"
+      },
+      {
+        "question": "What is the primary function of the product as shown in its label?",
+        "answer": "Freshening"
+      },
+      {
+        "question": "Does the image show any explicit indication of the product's scent?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the main intended use location for this product, as stated on the label?",
+        "answer": "Car"
+      },
+      {
+        "question": "Based on the visible label, what is the brand name associated with this product?",
+        "answer": "Solimo"
+      },
+      {
+        "question": "Judging only by the image, what is the color scheme of the label design on the container?",
+        "answer": "White"
+      },
+      {
+        "question": "Does the image clearly reveal any significant textural differences between the lid and the container?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall size of the container, according to the visual assessment?",
+        "answer": "Small"
+      }
+    ]
+  }
+]

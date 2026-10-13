@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ea/eab241d0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the base, as observed in the provided image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary material used in the construction of this item, based on visual inspection?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Considering the image, what is the overall shape of the depicted product?",
+        "answer": "Square"
+      },
+      {
+        "question": "Based on the image, how many distinct sections or compartments make up this product?",
+        "answer": "Two"
+      },
+      {
+        "question": "Judging by the image, what type of handles are visible on the sides of this product?",
+        "answer": "Carrying"
+      },
+      {
+        "question": "Does the image show any visible stitching or seams on the exterior of the item?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What seems to be the apparent texture of the outer surface of the product, based on the provided image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent function of the central opening present on the item, as visually evident?",
+        "answer": "Pole"
+      },
+      {
+        "question": "Based purely on visual observation of the picture, what is the suggested weight-bearing purpose of this product?",
+        "answer": "Base"
+      },
+      {
+        "question": "Does the image display any visible logos or branding elements on the product itself?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on visual observation, what is the approximate size relation of this item?",
+        "answer": "Large"
+      },
+      {
+        "question": "What is the general appearance of the seams based on visual inspection of the image?",
+        "answer": "Neat"
+      },
+      {
+        "question": "Does the image clearly depict any visible zippers or closures on the item shown?",
+        "answer": "No"
+      },
+      {
+        "question": "What type of fabric is suggested in the image based on the product's texture and appearance?",
+        "answer": "Canvas"
+      },
+      {
+        "question": "Observing the image, are there any noticeable reinforcing elements used in the product's construction?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b1/b1cc4cda.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the container's label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of the product container?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What material appears to constitute the product container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the primary text color on the container's label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the container's lid, what is its color?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the image, what type of closure does the container have?",
+        "answer": "Screw-top"
+      },
+      {
+        "question": "Describe the texture of the container's surface, based on its appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the general design style of the product label?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Observing the label closely, does it display any logos or symbols?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is there any discernible pattern on the container's label?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the visible orientation of the nutrition facts?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Considering the font style on the label, what is its general type?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Does the container exhibit any noticeable markings aside from text?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What seems to be the primary function or purpose of this container?",
+        "answer": "Packaging"
+      },
+      {
+        "question": "Judging by its appearance, is this a single-use or reusable container?",
+        "answer": "Reusable"
+      }
+    ]
+  }
+]

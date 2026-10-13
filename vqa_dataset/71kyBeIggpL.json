@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/98/98175ce1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the product packaging, considering its three-dimensional form and how it tapers from top to bottom?",
+        "answer": "Triangular"
+      },
+      {
+        "question": "What primary color dominates the product's packaging, ignoring minor text or design elements?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the apparent material of the flexible product packaging, based on its visual texture and how light reflects off its surface?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Disregarding the text, what is the most prominent graphic element visible on the package, depicting an action or process related to food preparation?",
+        "answer": "Hands"
+      },
+      {
+        "question": "Based on the visible text and design elements, what is the likely intended use or type of food associated with the product?",
+        "answer": "Seeds"
+      },
+      {
+        "question": "Describe the visual texture of the primary packaging material, taking note of any visible creases or folds as hints to its feel.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the overall design and text, which word or short phrase conveys the product's most important characteristic or benefit?",
+        "answer": "Sliced"
+      },
+      {
+        "question": "What color is prominently featured in the smaller text and design accents located at the bottom of the package?",
+        "answer": "Purple"
+      },
+      {
+        "question": "Describe the overall design style of the packaging, noting if it is minimalist, ornate, rustic, modern, etc.",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What type of seal or closure is suggested by the visible top of the packaging, indicating how the product is sealed?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Based on the visible graphic elements, what is implied about the product's origin or source, referring only to visual cues?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the general appearance of any visible product inside the packaging (e.g., granular, solid, etc.), considering image quality limitations?",
+        "answer": "Granular"
+      },
+      {
+        "question": "What is the implied method of accessing the product within the package, based solely on the visible features of its structure?",
+        "answer": "Pouring"
+      },
+      {
+        "question": "Are there any noticeable markings or patterns on the packaging besides text, such as logos or illustrations?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the visual state of the product packaging, whether it is crumpled, pristine, or somewhere in between?",
+        "answer": "Pristine"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b7/b7b5f56a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form and structure, what is the predominant shape of this beverage container?",
+        "answer": "Bottle"
+      },
+      {
+        "question": "Focusing on the cap's hue, what single word best describes its color?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "Describe the main body's color, ignoring any labels or markings.",
+        "answer": "Green"
+      },
+      {
+        "question": "Based on its appearance, what material seems to have been used for the bottle's construction?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Observing the texture of the liquid inside, what is its visual state?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the general design style conveyed by the bottle's form and labeling?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Examining the base of the bottle, describe its shape.",
+        "answer": "Curved"
+      },
+      {
+        "question": "Looking at the label, what is one word describing its background color?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the texture of the bottle's surface, ignoring the label?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Inspecting the cap's form, how would you describe its overall structure?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Considering the visual transparency, can you describe the liquid's clarity?",
+        "answer": "Transparent"
+      },
+      {
+        "question": "What color is the text on the label primarily?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What design element separates the main label area from the cap?",
+        "answer": "Neck"
+      },
+      {
+        "question": "Describe the style of the lettering on the label, relative to the bottle design.",
+        "answer": "Elegant"
+      },
+      {
+        "question": "Judging by the image, what is the apparent condition of the bottle?",
+        "answer": "Full"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/10/10a63231.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall structure, what is the primary format of the presented information regarding nutritional values?",
+        "answer": "Table"
+      },
+      {
+        "question": "Focusing on the visual layout, what is the dominant text alignment style used throughout the nutritional information?",
+        "answer": "Left"
+      },
+      {
+        "question": "Observing the textual content, what language is predominantly used to present the nutritional data?",
+        "answer": "English"
+      },
+      {
+        "question": "In terms of visual design, what is the type of lines used to separate the different categories in the presented data?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Analyzing the visual presentation, what is the primary font style employed for the nutritional values?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Regarding the visual organization, what is the method used to distinguish between the nutrient name and its corresponding value?",
+        "answer": "Columns"
+      },
+      {
+        "question": "Looking at the overall visual appearance, what is the dominant color scheme used in the provided nutritional data?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the visual prominence, what is the unit of measurement that is predominantly associated with the energy value?",
+        "answer": "kJ"
+      },
+      {
+        "question": "Regarding the visual representation of quantity, what is the unit of measurement that is consistently used for the fat content?",
+        "answer": "g"
+      },
+      {
+        "question": "In terms of visual emphasis, what is the unit of measurement primarily used for the carbohydrate content?",
+        "answer": "g"
+      },
+      {
+        "question": "Focusing on the visual presentation of data, what is the unit of measurement used for the sugar content?",
+        "answer": "g"
+      },
+      {
+        "question": "Observing the numerical data presentation, what is the unit of measurement associated with the fiber content?",
+        "answer": "g"
+      },
+      {
+        "question": "Considering the visual context, what is the unit of measurement that is consistently associated with the protein content?",
+        "answer": "g"
+      },
+      {
+        "question": "From a visual standpoint, what is the unit of measurement for the salt content?",
+        "answer": "g"
+      },
+      {
+        "question": "Looking at the visual representation of the data, what is the overall weight measure used in the table?",
+        "answer": "100g"
+      }
+    ]
+  }
+]

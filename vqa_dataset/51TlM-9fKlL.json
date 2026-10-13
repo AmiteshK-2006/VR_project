@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/93/935fa819.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color of these baked goods, as shown in the image?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What appears to be the primary shape of each individual unit within this packaged food item?",
+        "answer": "Oval"
+      },
+      {
+        "question": "Based on the image alone, what seems to be the most prominent texture evident on the surface of the rolls?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging only by what is visually apparent, what kind of food product is presented in the given image?",
+        "answer": "Rolls"
+      },
+      {
+        "question": "Given the visual information, what is the apparent structural arrangement of the multiple units within the packaging?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Considering the image, what kind of packaging material seems to be encasing the food product?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What appears to be the general size of the food item, relative to typical meal components?",
+        "answer": "Small"
+      },
+      {
+        "question": "From a purely visual inspection, can you determine if there are visible markings or patterns on the surface of the rolls?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent number of individual units of baked goods shown within the packaging?",
+        "answer": "Three"
+      },
+      {
+        "question": "Based on visual cues alone, what seems to be the probable cooking method used for these goods?",
+        "answer": "Baked"
+      },
+      {
+        "question": "In terms of visual appeal, what is the general impression of the overall food presentation in the image?",
+        "answer": "Plain"
+      },
+      {
+        "question": "What is the most obvious component or element that encloses the food items shown in the image?",
+        "answer": "Wrapper"
+      },
+      {
+        "question": "From the visible elements, can you identify any additional ingredients or toppings on the surface?",
+        "answer": "None"
+      },
+      {
+        "question": "Given the image, what is the implied state of the food – is it raw or cooked?",
+        "answer": "Cooked"
+      },
+      {
+        "question": "Based on visible characteristics, what is the likely level of sweetness, considering the appearance alone?",
+        "answer": "Mild"
+      }
+    ]
+  }
+]

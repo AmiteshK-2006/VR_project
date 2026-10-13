@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c4/c48bfc29.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the product's packaging?",
+        "answer": "White"
+      },
+      {
+        "question": "What appears to be the overall shape of the item inside?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material is predominantly used for the packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the apparent texture of the packaging material?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What color is the logo visible on the packaging?",
+        "answer": "DarkGrey"
+      },
+      {
+        "question": "What type of printing is used for the information on the packaging?",
+        "answer": "Black"
+      },
+      {
+        "question": "Is there a hanging hole at the top of the packaging?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Can you identify any noticeable barcodes or identifiers?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent finish of the product's surface (as seen through the packaging)?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the packaging indicate any specific safety or warning symbols?",
+        "answer": "Yes"
+      },
+      {
+        "question": "How many sides of the packaging are visible in the image?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the general style of the packaging design?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Is there any visible text other than the logo and barcodes?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent size of the packaging relative to a hand?",
+        "answer": "Small"
+      },
+      {
+        "question": "Does the image show any clear depiction of the product's contents?",
+        "answer": "No"
+      }
+    ]
+  }
+]

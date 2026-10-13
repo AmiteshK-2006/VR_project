@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/55/55479874.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the primary shape of the product depicted in the provided image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the dominant color of the main body of the product, as visually observed?",
+        "answer": "White"
+      },
+      {
+        "question": "Disregarding any text, what is the most prominent secondary color along a vertical stripe on the product's packaging?",
+        "answer": "Green"
+      },
+      {
+        "question": "Based on visual inspection, what seems to be the primary material used for the product's packaging?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Does the image show any noticeable texture on the surface of the product's packaging?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by appearance, is there a noticeable seal or closure mechanism visible on the product's packaging?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Observing the image, can you identify any type of graphic design or illustration on the packaging?",
+        "answer": "None"
+      },
+      {
+        "question": "From visual inspection, is any sort of branding or logo apparent on the product's package?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Regarding the package's overall condition, does it appear to be fully intact and unopened?",
+        "answer": "Unopened"
+      },
+      {
+        "question": "What is the apparent orientation of the product as presented in this image?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "In terms of packaging style, how would you characterize the product's container based on visual assessment?",
+        "answer": "Pouch"
+      },
+      {
+        "question": "In the image, does the product appear to contain any visible contents?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on visual observation, does the packaging display any visible warnings or cautionary information?",
+        "answer": "No"
+      },
+      {
+        "question": "Looking at the image, can any noticeable perforations or tear lines be identified on the product's packaging?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image, what seems to be the size of the product relative to a standard object like a hand or a standard ruler?",
+        "answer": "Small"
+      }
+    ]
+  }
+]

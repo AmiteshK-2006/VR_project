@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fb/fbc9199f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the presented fabric item?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the primary apparent texture of the displayed textile?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the folds, what is the implied drape or flexibility of the material?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Based on its visual appearance, what is the likely material composition?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "What is the overall shape of the folded rectangular fabric item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What seems to be the visible construction or type of this textile?",
+        "answer": "Sheet"
+      },
+      {
+        "question": "Judging by the visual presentation, what is the item's apparent condition?",
+        "answer": "New"
+      },
+      {
+        "question": "Does the product show any visible pattern or print on its surface?",
+        "answer": "None"
+      },
+      {
+        "question": "Observing the edges, how would you describe the visible finishing of the textile?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Considering its form, what is the likely intended use for this product?",
+        "answer": "Sleeping"
+      },
+      {
+        "question": "Does the image show any visible damage to this fabric product?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from its appearance, what is the item's overall apparent quality?",
+        "answer": "High"
+      },
+      {
+        "question": "Does the item's visual presentation suggest any visible seams or stitching?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on visual characteristics, is the material seemingly opaque or transparent?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What is the apparent level of sheen or glossiness observed on the fabric's surface?",
+        "answer": "Matte"
+      }
+    ]
+  }
+]

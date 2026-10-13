@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/58/58625ad1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the depicted food packaging, as visibly apparent in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the overall shape, what geometric form best approximates the contour of the sealed product package?",
+        "answer": "Oval"
+      },
+      {
+        "question": "What appears to be the primary material composing the flexible outer layer of the food product's packaging?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on visual inspection, what seems to be the general texture of the product's packaging surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Are there any noticeable markings or prints discernible on the exterior surface of the food package, apart from any text?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Disregarding any textual information, what is the most striking design element present on the packaging, based on visual observation?",
+        "answer": "Seal"
+      },
+      {
+        "question": "What seems to be the structural configuration of this product's package in relation to its contents?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Observing the image, does the package suggest any specific method of opening or access for the consumer?",
+        "answer": "Tear"
+      },
+      {
+        "question": "Considering its appearance, is the product package designed for single-use or multiple uses by the consumer?",
+        "answer": "Single"
+      },
+      {
+        "question": "From a visual perspective, does the package's design convey any particular qualities or characteristics of the enclosed food product?",
+        "answer": "Fresh"
+      },
+      {
+        "question": "In terms of its apparent physical characteristics, what would you describe the form of the package as?",
+        "answer": "Pouch"
+      },
+      {
+        "question": "Does the packaging exhibit any form of apparent opacity or translucency, based on the provided image?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Judging by its appearance, how would you characterize the overall condition of the product's outer packaging?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Based solely on what is visible, does this product's packaging use any distinctive colored accents or highlights?",
+        "answer": "No"
+      },
+      {
+        "question": "By considering the visual clues alone, what might you infer about the likely contents' form within the packaging?",
+        "answer": "Powder"
+      }
+    ]
+  }
+]

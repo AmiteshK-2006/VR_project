@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/34/3483aed7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the detailed text displayed, what specific ingredient is prominently listed first?",
+        "answer": "Powdered"
+      },
+      {
+        "question": "Based on the visible text, what type of cocoa is explicitly mentioned in the ingredient list?",
+        "answer": "Organic"
+      },
+      {
+        "question": "According to the clearly presented text, what natural additive is included in the product's composition?",
+        "answer": "Flavor"
+      },
+      {
+        "question": "As shown in the text, which type of gum is explicitly mentioned as part of the ingredients?",
+        "answer": "Xanthan"
+      },
+      {
+        "question": "What additional type of gum is listed among the product's ingredients, as clearly visible in the text?",
+        "answer": "Guar"
+      },
+      {
+        "question": "The visible text indicates which non-nutritive sweetener is used in the product?",
+        "answer": "Stevia"
+      },
+      {
+        "question": "What specific component of stevia extract is mentioned as being included in the product, per the visible text?",
+        "answer": "Rebaudioside"
+      },
+      {
+        "question": "What certification is clearly indicated on the visible text concerning the product's sourcing?",
+        "answer": "Fair"
+      },
+      {
+        "question": "According to the visible text, what specific type of nut processing is mentioned regarding production?",
+        "answer": "Tree"
+      },
+      {
+        "question": "The detailed text reveals processing in a facility that handles which additional grain?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "The visible text mentions the processing facility also handles which other common allergen?",
+        "answer": "Soy"
+      },
+      {
+        "question": "From the text, which major milk-based allergen is listed as being possibly present?",
+        "answer": "Milk"
+      },
+      {
+        "question": "Based on the text provided, what major egg-based ingredient is explicitly stated?",
+        "answer": "Egg"
+      },
+      {
+        "question": "What specific part of the egg is named within the detailed ingredient list shown?",
+        "answer": "Whites"
+      },
+      {
+        "question": "The clearly presented text mentions which plant-derived emulsifier is used?",
+        "answer": "Lecithin"
+      }
+    ]
+  }
+]

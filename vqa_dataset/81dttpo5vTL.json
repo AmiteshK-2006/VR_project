@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a4/a47514cc.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what is the dominant color scheme of the nutritional information label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the primary font style used for the label's textual information, considering its weight and overall appearance?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Examining the layout, what organizational structure is employed to display the nutritional components and their values?",
+        "answer": "tabular"
+      },
+      {
+        "question": "What is the type of measurement units used for the serving size, as visibly shown on the label?",
+        "answer": "milliliters"
+      },
+      {
+        "question": "Based on the visual structure, what is the specified unit of measurement for the 'Calories' value displayed prominently?",
+        "answer": "calories"
+      },
+      {
+        "question": "What single-word descriptor best captures the overall design aesthetic of this product's nutritional information label?",
+        "answer": "minimalist"
+      },
+      {
+        "question": "Judging by the visual appearance, what is the shape of the provided nutritional facts label?",
+        "answer": "rectangular"
+      },
+      {
+        "question": "Based on the image, what is the background color or shade of the label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the visual texture of the nutritional information shown on the label?",
+        "answer": "smooth"
+      },
+      {
+        "question": "Describe the visual contrast between the text and the background of the nutritional information label.",
+        "answer": "high"
+      },
+      {
+        "question": "Considering the visual arrangement, what is the method of data presentation used for the nutritional facts?",
+        "answer": "listed"
+      },
+      {
+        "question": "Based on visual inspection, what is the apparent material of the label's surface?",
+        "answer": "paper"
+      },
+      {
+        "question": "What is the dominant textual format used for expressing numerical values on the nutritional label?",
+        "answer": "Arabic"
+      },
+      {
+        "question": "What is the general orientation of the provided nutritional facts label?",
+        "answer": "vertical"
+      },
+      {
+        "question": "Describe the visual style of the numbers depicting the nutritional values on the label.",
+        "answer": "bold"
+      }
+    ]
+  }
+]

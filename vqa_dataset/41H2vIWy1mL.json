@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c1/c131fff4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the highest energy efficiency rating displayed on the label?",
+        "answer": "A++"
+      },
+      {
+        "question": "What is the overall shape of the energy efficiency label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What color is the bar representing the highest energy efficiency rating?",
+        "answer": "Green"
+      },
+      {
+        "question": "What color is the bar representing the lowest energy efficiency rating?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the unit of energy consumption shown on the label?",
+        "answer": "kWh"
+      },
+      {
+        "question": "What is the numerical value of energy consumption per 1000 hours?",
+        "answer": "2.1"
+      },
+      {
+        "question": "What language is used in addition to English on this label?",
+        "answer": "Greek"
+      },
+      {
+        "question": "What is the dominant color scheme used in the efficiency rating scale?",
+        "answer": "Rainbow"
+      },
+      {
+        "question": "What type of label is this, visually judging by its contents?",
+        "answer": "Energy"
+      },
+      {
+        "question": "What is the format of the energy consumption value display?",
+        "answer": "Decimal"
+      },
+      {
+        "question": "What is the orientation of the efficiency rating bars?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Is the background of the label primarily white or colored?",
+        "answer": "White"
+      },
+      {
+        "question": "Is the text on the label primarily dark or light colored?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Does the label contain any alphanumeric identification codes?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the graphic elements, what is the overall style of this label?",
+        "answer": "Informative"
+      }
+    ]
+  }
+]

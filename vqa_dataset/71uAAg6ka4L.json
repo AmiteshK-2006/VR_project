@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f7/f725c283.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the image?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the drape and folds, what is the apparent texture of the material?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image, does the fabric appear to have a noticeable sheen or gloss?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the way the fabric folds, what is its likely weight or thickness?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Does the fabric in the image display any visible patterns or prints?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the folds, does the fabric seem to have any noticeable stiffness?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall visual impression of the fabric's surface; rough or refined?",
+        "answer": "Refined"
+      },
+      {
+        "question": "Considering the image, is the fabric transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "From the image, can you assess if the fabric is woven or knit?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Based purely on visual observation, what is the general appearance of the fabric?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Does the image suggest the fabric is likely to be stretchy or rigid?",
+        "answer": "Rigid"
+      },
+      {
+        "question": "Judging by the folds, what is the likely drape of the fabric; stiff or flowing?",
+        "answer": "Flowing"
+      },
+      {
+        "question": "Based on the image's visual cues, what is the apparent fiber content of this textile?",
+        "answer": "Unknown"
+      },
+      {
+        "question": "Does the image reveal any visible imperfections or irregularities in the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "From a visual perspective, how would you characterize the visual uniformity of the fabric?",
+        "answer": "Uniform"
+      }
+    ]
+  }
+]

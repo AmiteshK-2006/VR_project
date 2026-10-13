@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9e/9e57d60c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual appearance, what is the primary color scheme dominating the product's label?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Based on the visual texture and design elements, what is the predominant material of the product's label?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Judging by the visual appearance, what language(s) are used for the product's ingredient list?",
+        "answer": "English"
+      },
+      {
+        "question": "Examining the label's layout, what is the style of the typography used for the ingredient list?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the label's visual characteristics, what is the overall format of the presented information?",
+        "answer": "List"
+      },
+      {
+        "question": "Focusing on the visual details, what is the overall shape of the label itself?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "From the visual presentation, can you determine if the product's ingredients are listed in alphabetical order?",
+        "answer": "No"
+      },
+      {
+        "question": "Based solely on what's visually evident, what is the language of the allergy information section?",
+        "answer": "French"
+      },
+      {
+        "question": "Observing the label, what type of information is prominently displayed in a separate section?",
+        "answer": "Allergens"
+      },
+      {
+        "question": "Considering the visual structure, how many distinct ingredient sections are visually apparent on the label?",
+        "answer": "Two"
+      },
+      {
+        "question": "Considering the design, is there any distinct visual separation between the English and French text?",
+        "answer": "Yes"
+      },
+      {
+        "question": "From the visual details, what is the case of the letters in the main ingredient list?",
+        "answer": "Upper"
+      },
+      {
+        "question": "Based on the visual elements, is there any visual indication of certification or labels present?",
+        "answer": "No"
+      },
+      {
+        "question": "From the label's visual components, is there any noticeable use of bolding or highlighting?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Observing the label's visual presentation, what is the relative size of the text in the ingredient list?",
+        "answer": "Small"
+      }
+    ]
+  }
+]

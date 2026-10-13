@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2c/2c60d153.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular layout and textual information presented, what is the primary function of this item, as visually evident?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the dominant color palette used throughout the labeling of this food product?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Observing the textual arrangement, what is the most prominent numerical value displayed on the product's labeling?",
+        "answer": "140"
+      },
+      {
+        "question": "Considering the visual prominence of different nutritional components, which component has the highest percentage value?",
+        "answer": "65"
+      },
+      {
+        "question": "What is the primary font style used in the labeling design of the food item's nutritional information?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the visible text, what unit of measurement is consistently used for the quantity of each nutritional component?",
+        "answer": "g"
+      },
+      {
+        "question": "What is the shape of the container that this nutritional information label is affixed to, as inferred from the dimensions and layout of the text?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What type of information is primarily conveyed by the labeled text shown in this food item's display?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the material that the labeling appears to be printed on?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Disregarding the nutritional details, how many lines of text are present in the section labeled 'Serving size'?",
+        "answer": "Two"
+      },
+      {
+        "question": "Based on the visible text, what is the total number of servings indicated per container?",
+        "answer": "Five"
+      },
+      {
+        "question": "What is the relative position of the 'Calories' information to the other nutritional information?",
+        "answer": "Top"
+      },
+      {
+        "question": "Focusing on the arrangement of nutritional facts, what is the listed serving size in milliliters?",
+        "answer": "80"
+      },
+      {
+        "question": "Focusing on the textual information, what is the unit of measurement used for the serving size?",
+        "answer": "mL"
+      },
+      {
+        "question": "In the context of the entire label, what is the textual description for the dietary information provided?",
+        "answer": "Facts"
+      }
+    ]
+  }
+]

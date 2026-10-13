@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/cf/cf5aa105.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the leather upper visible in the provided image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the stitching detail, what is the apparent construction style of the shoe?",
+        "answer": "Mocassin"
+      },
+      {
+        "question": "Based on the visual texture, what material appears to be used for the shoe's primary exterior?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Judging by the image, what is the overall shape of the shoe's toe?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What is the visual appearance of the sole's texture, considering its pattern?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Does the shoe visually present a slip-on or lace-up design?",
+        "answer": "Slip-on"
+      },
+      {
+        "question": "Considering the visible heel, what is its height relative to the shoe?",
+        "answer": "Low"
+      },
+      {
+        "question": "What is the color of the visible interior lining or insole?",
+        "answer": "Tan"
+      },
+      {
+        "question": "Observing the stitching on the upper, what color is it?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What appears to be the material of the shoe's sole, based on visual inspection?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Based on the image, how many seams are visible along the sole's edge?",
+        "answer": "One"
+      },
+      {
+        "question": "Describe the overall style of the shoe as seen in the image.",
+        "answer": "Casual"
+      },
+      {
+        "question": "From the image, what type of closure system does the shoe utilize?",
+        "answer": "Slip"
+      },
+      {
+        "question": "Does the shoe's upper show any visible perforations or decorative holes?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the visible portion, does the shoe have a pointed or round toe?",
+        "answer": "Rounded"
+      }
+    ]
+  }
+]

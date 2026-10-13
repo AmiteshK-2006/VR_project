@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a2/a22ac2f7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the provided text, what is the primary ingredient visually indicated in the product's description?",
+        "answer": "Cheese"
+      },
+      {
+        "question": "Based on the textual information, what dairy product is explicitly mentioned as a component?",
+        "answer": "Milk"
+      },
+      {
+        "question": "According to the visible text, what citrus-derived ingredient is used in the product's preparation?",
+        "answer": "Juice"
+      },
+      {
+        "question": "As per the label's textual content, what is listed as an additive in the product's formulation?",
+        "answer": "Salt"
+      },
+      {
+        "question": "The text shows what kind of substance, typically used in cheese production, among the ingredients?",
+        "answer": "Enzymes"
+      },
+      {
+        "question": "What is specified in the visible text regarding the caloric content per kilogram of product?",
+        "answer": "3215kcal"
+      },
+      {
+        "question": "According to the text, what's the approximate calorie content of a single serving of this item?",
+        "answer": "228kcal"
+      },
+      {
+        "question": "The image shows a textual element that indicates the serving size is what based on calorie content?",
+        "answer": "Treat"
+      },
+      {
+        "question": "What unit is used to measure the calorie content per kilogram of the food item, shown on the label?",
+        "answer": "kcal"
+      },
+      {
+        "question": "What is mentioned in the textual description of the food item that indicates the presence of milk?",
+        "answer": "Contains"
+      },
+      {
+        "question": "Looking at the image, what is the text color predominantly used in the product's description?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the visual text, what is the type of information predominantly presented in the image provided?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What does the text in the image signify by use of the term (ME, Calculated) following 'Calorie Content'?",
+        "answer": "Calculated"
+      },
+      {
+        "question": "Based on the visible text, what is the product labeling primarily concerned with?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What kind of text is primarily visible in the image of the product label shown?",
+        "answer": "Label"
+      }
+    ]
+  }
+]

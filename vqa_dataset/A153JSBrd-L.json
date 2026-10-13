@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d0/d0b389a7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the depicted rectangular object?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visual texture, what material is the item seemingly made of?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on the image, what is the overall shape of the presented product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the surface pattern visible on the object's top side.",
+        "answer": "Woven"
+      },
+      {
+        "question": "Judging by the appearance, what is the apparent thickness of the item?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Does the product's surface seem smooth or rough to the touch?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What is the apparent degree of glossiness or matte finish on the product?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Observing the item's edges, what is their overall appearance?",
+        "answer": "Straight"
+      },
+      {
+        "question": "What is the uniformity of the pattern across the item's surface?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "In the visual representation, what is the visible number of distinct colors?",
+        "answer": "One"
+      },
+      {
+        "question": "Judging by its texture and appearance, what is the item's probable function?",
+        "answer": "Protective"
+      },
+      {
+        "question": "Considering the material, what is the product's likely flexibility?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "What is the apparent overall size of the item compared to average objects?",
+        "answer": "Large"
+      },
+      {
+        "question": "Based solely on its appearance, what is the item's likely weight?",
+        "answer": "Light"
+      },
+      {
+        "question": "What kind of visual imperfections or defects are apparent on the item?",
+        "answer": "None"
+      }
+    ]
+  }
+]

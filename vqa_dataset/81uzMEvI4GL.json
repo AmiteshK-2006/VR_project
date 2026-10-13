@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/df/df785160.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color dominating the product's label?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the overall shape of the product container?",
+        "answer": "Cylinder"
+      },
+      {
+        "question": "What material appears to constitute the product container?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the main ingredient explicitly stated on the container?",
+        "answer": "Psyllium"
+      },
+      {
+        "question": "What form of psyllium is specified on the packaging?",
+        "answer": "Husk"
+      },
+      {
+        "question": "What descriptive term is used for the psyllium flakes?",
+        "answer": "Whole"
+      },
+      {
+        "question": "What kind of graphic elements are present on the label besides text?",
+        "answer": "Checkmarks"
+      },
+      {
+        "question": "What is the predominant texture of the label's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the brand name prominently displayed on the container?",
+        "answer": "365"
+      },
+      {
+        "question": "What is the type of product indicated within the brand name?",
+        "answer": "Everyday"
+      },
+      {
+        "question": "Is the label primarily matte or glossy in appearance?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What unit of weight is used to indicate the net weight?",
+        "answer": "Ounces"
+      },
+      {
+        "question": "What additional text describes the psyllium flakes?",
+        "answer": "Flakes"
+      },
+      {
+        "question": "What is the numerical value for the net weight?",
+        "answer": "12"
+      },
+      {
+        "question": "What small graphic symbol is present near the weight?",
+        "answer": "Star"
+      }
+    ]
+  }
+]

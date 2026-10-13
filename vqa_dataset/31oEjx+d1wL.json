@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ef/ef0ad626.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what single word best describes the style of the text shown in the image?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Based on the visual layout, what is the dominant orientation of the text presented in the image?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the apparent textual color, as visually observed in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Judging by the image, what is the main topic conveyed through the text's content?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the predominant typeface or font style used for the textual information?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "From the image, what seems to be the general size of the font employed?",
+        "answer": "Small"
+      },
+      {
+        "question": "Considering the image as a whole, what word best reflects the overall visual density of the text?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Based on the image's visual elements, what is the style of the text's capitalization?",
+        "answer": "Sentence"
+      },
+      {
+        "question": "What single word best describes the visual clarity of the text depicted in the image?",
+        "answer": "Clear"
+      },
+      {
+        "question": "From the image alone, what word would describe the text's alignment?",
+        "answer": "Left"
+      },
+      {
+        "question": "What is the visual arrangement of the information in the image (e.g., lines, paragraphs)?",
+        "answer": "Paragraphs"
+      },
+      {
+        "question": "What visual characteristic best describes the spacing between lines of text in the image?",
+        "answer": "Close"
+      },
+      {
+        "question": "What is the visual state of the text (e.g., bold, italics, underlined)?",
+        "answer": "Plain"
+      },
+      {
+        "question": "If you were to describe the texture of the image, ignoring the content, what would it be?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the single word to best describe the background of the image?",
+        "answer": "White"
+      }
+    ]
+  }
+]

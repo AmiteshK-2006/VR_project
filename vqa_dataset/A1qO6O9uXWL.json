@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d2/d242e132.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant visual texture of the displayed fabric sample?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Considering the visible weave and color variations, what is the overall fabric appearance?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Based on the image, what is the most apparent color family of this fabric?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Judging by the visible fibers, what is the likely construction method of this fabric?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Can you describe the visual density of the fabric's weave, considering the closeness of the threads?",
+        "answer": "Tight"
+      },
+      {
+        "question": "Describe the color variation within the fabric sample, observing the subtle shifts in tone.",
+        "answer": "Subtle"
+      },
+      {
+        "question": "What is the overall visual impression of the uniformity of the fabric's color and texture?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Given the image, what is the implied nature of this fabric's surface, smooth or rough?",
+        "answer": "SlightlyRough"
+      },
+      {
+        "question": "If one were to touch this fabric, what would be a general adjective describing the feeling?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Based on visual analysis, what is the overall tone of the fabric sample's color?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "What is the apparent direction of the visible weave lines in the provided image?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Considering the image's detail, would you characterize the threads' visibility as prominent or faint?",
+        "answer": "Faint"
+      },
+      {
+        "question": "Describe the color saturation of the fabric depicted in the provided image sample.",
+        "answer": "Low"
+      },
+      {
+        "question": "How would you visually characterize the visual pattern within the fabric's weave?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Describe the visual homogeneity of color and texture across the displayed fabric area.",
+        "answer": "Homogenous"
+      }
+    ]
+  }
+]

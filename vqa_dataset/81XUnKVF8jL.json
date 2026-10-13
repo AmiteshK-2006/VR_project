@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1e/1e0e69e6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the depicted item?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of the visible object?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material appears to constitute the product's surface?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Considering the visible text, what brand is prominently displayed?",
+        "answer": "Amazon"
+      },
+      {
+        "question": "What specific product category does the text suggest this item belongs to?",
+        "answer": "Screen"
+      },
+      {
+        "question": "Does the image display any certifications or seals of approval?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What type of text dominates the majority of the object's surface?",
+        "answer": "Descriptive"
+      },
+      {
+        "question": "What is the visible texture of the product\u2019s surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Is there any indication of a barcode present on the item?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent condition of the product displayed in the image?",
+        "answer": "New"
+      },
+      {
+        "question": "Are there any noticeable logos on the item besides the brand name?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the dominant style of the text layout on the item?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What language(s) are used in the text printed on the product?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "What is the apparent weight of the object based on its appearance?",
+        "answer": "Light"
+      },
+      {
+        "question": "Based on the visible text, for what device is the product intended?",
+        "answer": "Nintendo"
+      }
+    ]
+  }
+]

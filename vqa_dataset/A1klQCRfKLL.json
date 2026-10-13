@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3c/3c39db72.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant visual texture observed across the entire surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the subtle variations in tone, what is the overall shade of the material?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Based on the visual characteristics, what is the most likely material type?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Describing the visual appearance, what is the overall visual uniformity of the material?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "What is the predominant visual direction of the faint textural lines?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Judging from the image, how would you describe the sheen or luster of the surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the material exhibit any noticeable patterns or designs visible in the photograph?",
+        "answer": "None"
+      },
+      {
+        "question": "In terms of color saturation, how would you characterize the presented swatch?",
+        "answer": "Low"
+      },
+      {
+        "question": "Based on the visual data, what kind of finish is depicted on the item’s surface?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Considering the absence of other visual details, what is the visual form presented?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Is there any visual evidence of any added elements like seams or markings?",
+        "answer": "No"
+      },
+      {
+        "question": "From a purely visual analysis, how would you classify the material's density?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Considering the lack of visual depth, is the surface visually flat or three-dimensional?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Does the image show any visual signs of visible fibers or woven structures?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by its appearance, is the material visually transparent or opaque?",
+        "answer": "Opaque"
+      }
+    ]
+  }
+]

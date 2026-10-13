@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d3/d3eb8c94.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the bottle's body, as shown in the image?",
+        "answer": "Amber"
+      },
+      {
+        "question": "What primary material appears to constitute the bottle's structure?",
+        "answer": "Glass"
+      },
+      {
+        "question": "What is the overall shape of the container depicted in the provided image?",
+        "answer": "Round"
+      },
+      {
+        "question": "Considering the base, what is the texture around the bottle's bottom edge?",
+        "answer": "Ribbed"
+      },
+      {
+        "question": "Based on visual observation, what is the apparent weight of the contents, indicated on the bottle?",
+        "answer": "100g"
+      },
+      {
+        "question": "What is the manufacturing lot number visible on the bottle's bottom?",
+        "answer": "ER2019521U"
+      },
+      {
+        "question": "What type of marking is present which appears to represent an expiration date?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the color of the text indicating the lot number and expiration date?",
+        "answer": "Gold"
+      },
+      {
+        "question": "What is the overall finish of the visible glass surface, considering its shine or matte properties?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Observing the bottom, what is the design feature seen around the circumference?",
+        "answer": "Dots"
+      },
+      {
+        "question": "What is the shape of the embossed marking on the bottle's base?",
+        "answer": "Circular"
+      },
+      {
+        "question": "Considering the text clarity, what is the overall legibility of the printed information?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Judging from the image, what appears to be the purpose of the embossed markings on the base?",
+        "answer": "Decoration"
+      },
+      {
+        "question": "What is the relative height of the bottle, considering the size depicted in the image?",
+        "answer": "Short"
+      },
+      {
+        "question": "Based solely on visual inspection, what is the apparent thickness of the bottle's glass?",
+        "answer": "Moderate"
+      }
+    ]
+  }
+]

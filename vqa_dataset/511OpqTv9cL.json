@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/eb/eb9335f1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary ingredient prominently displayed on the label?",
+        "answer": "Turkey"
+      },
+      {
+        "question": "What liquid ingredient is listed alongside the turkey breast?",
+        "answer": "Water"
+      },
+      {
+        "question": "Which thickening agent is mentioned among the listed ingredients?",
+        "answer": "Starch"
+      },
+      {
+        "question": "What type of salt is included in the product's composition?",
+        "answer": "Sea"
+      },
+      {
+        "question": "What powdered ingredient is used as a flavor enhancer or preservative?",
+        "answer": "Vinegar"
+      },
+      {
+        "question": "What kind of flavors are used to enhance the taste of the product?",
+        "answer": "Natural"
+      },
+      {
+        "question": "What is the overall shape of the visible text block on the label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the font style used for the word 'INGREDIENTS'?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the color of the text on the ingredient label?",
+        "answer": "Grey"
+      },
+      {
+        "question": "What is the case of the text used throughout the ingredient list?",
+        "answer": "Lower"
+      },
+      {
+        "question": "What is the overall background color of the label?",
+        "answer": "White"
+      },
+      {
+        "question": "What punctuation marks separate each ingredient on the list?",
+        "answer": "Commas"
+      },
+      {
+        "question": "How many lines of text are used to display the entire ingredient list?",
+        "answer": "Four"
+      },
+      {
+        "question": "What is the text alignment of the ingredient list?",
+        "answer": "Left"
+      },
+      {
+        "question": "Is the label text in bold or regular weight?",
+        "answer": "Regular"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/92/925c5d17.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color dominating the side panel of this coffee package?",
+        "answer": "Red"
+      },
+      {
+        "question": "What color is the majority of the back panel of the coffee packaging?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the coffee product's packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the material of the coffee package's outer layer?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the dominant finish of the primary-color panel, matte or glossy?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Is there any visible text besides the barcode on the dark-colored side?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the image, what is the approximate weight of the coffee, in grams?",
+        "answer": "250"
+      },
+      {
+        "question": "What kind of graphic design elements are visible on the red side?",
+        "answer": "Text"
+      },
+      {
+        "question": "Considering the visible text, what is the apparent brand of this coffee?",
+        "answer": "Lavazza"
+      },
+      {
+        "question": "What is the overall texture implied by the packaging material shown?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the packaging suggest the coffee is whole bean or ground?",
+        "answer": "Ground"
+      },
+      {
+        "question": "What is the orientation of the barcode on the black panel?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Besides text, are there other discernible design elements on the packaging?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent style of the font used on the packaging?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Does the packaging include any visible seals or tamper-evident features?",
+        "answer": "No"
+      }
+    ]
+  }
+]

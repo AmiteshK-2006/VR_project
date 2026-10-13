@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/57/57a8d9ba.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the displayed nutritional information?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the primary textual element displayed prominently on the top of the label?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the secondary textual element located below the primary one, indicating the purpose of the label?",
+        "answer": "Facts"
+      },
+      {
+        "question": "What numerical value represents the number of servings contained within a single package of this food item, according to the label?",
+        "answer": "12"
+      },
+      {
+        "question": "What unit of measurement is used to express the quantity of a single serving of this food product, as seen on the label?",
+        "answer": "Egg"
+      },
+      {
+        "question": "What numerical value, expressed in grams, denotes the weight of a single serving of the product?",
+        "answer": "50"
+      },
+      {
+        "question": "What unit is used for measuring the caloric content shown on the label?",
+        "answer": "Calories"
+      },
+      {
+        "question": "What numerical value indicates the total number of calories per serving of the product, as specified on the label?",
+        "answer": "70"
+      },
+      {
+        "question": "What is the textual design style used for the primary and secondary text elements on the nutrition label?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the overall shape of this nutritional information panel?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the layout style of the nutritional information presented on this label?",
+        "answer": "tabular"
+      },
+      {
+        "question": "What type of information is presented in the left-hand column of the nutritional information table?",
+        "answer": "Amount"
+      },
+      {
+        "question": "What type of information is presented in the right-hand column of the nutritional information table?",
+        "answer": "Percent"
+      },
+      {
+        "question": "What is the texture of the background of the nutritional information panel?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent material of the nutrition label?",
+        "answer": "Paper"
+      }
+    ]
+  }
+]

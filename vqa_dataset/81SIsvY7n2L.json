@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b9/b97cced8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form of the container, what is the most precise geometrical description of this bottle's shape?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What is the most prominent color of the liquid visibly contained within the bottle?",
+        "answer": "Amber"
+      },
+      {
+        "question": "Based on the visual characteristics of the container and its contents, what is the product's likely state?",
+        "answer": "Liquid"
+      },
+      {
+        "question": "What material primarily constitutes the bottle, based on visual inspection alone?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describing the surface texture of the bottle, is it predominantly smooth or textured?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the dominant color of the label affixed to the bottle, ignoring any text or graphics?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the principal design element embellishing the upper portion of the bottle's body, excluding labels?",
+        "answer": "Ribs"
+      },
+      {
+        "question": "What is the type of closure utilized for the container, as visually apparent in the image?",
+        "answer": "Cap"
+      },
+      {
+        "question": "Given the overall appearance, which word best encapsulates the container's overall design style?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What kind of text is primarily displayed on the label, describing the product's main characteristic?",
+        "answer": "Unsweetened"
+      },
+      {
+        "question": "What additional descriptor appears prominently in conjunction with 'Unsweetened' on the label?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the single word describing the type of beverage, shown on the main label?",
+        "answer": "Tea"
+      },
+      {
+        "question": "Excluding text, what is the prevalent illustrative pattern featured on the label?",
+        "answer": "Floral"
+      },
+      {
+        "question": "What is the brand name that is most visibly displayed on the label, according to the image?",
+        "answer": "365"
+      },
+      {
+        "question": "What single word describes the certification displayed on the label?",
+        "answer": "Organic"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3a/3a7e855a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the USB adapter, as shown in the provided image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the overall shape of the USB-C to USB-A adapter depicted in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the image, what type of USB connector does the adapter feature on its input side?",
+        "answer": "USB-C"
+      },
+      {
+        "question": "Based on the provided image, what is the visible material of the external casing of the device?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the type of USB connector on the device's output side, as evident in the picture?",
+        "answer": "USB-A"
+      },
+      {
+        "question": "Describe the surface texture of the USB adapter as visually apparent in the provided image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Is there any branding or logo visible on the external surface of the adapter shown?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent orientation of the visible text on the adapter's surface?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What appears to be the size of the adapter in relation to the provided reference object?",
+        "answer": "Small"
+      },
+      {
+        "question": "Does the image show any noticeable damage or wear on the adapter's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image, what appears to be the main function of this device?",
+        "answer": "Adapter"
+      },
+      {
+        "question": "What is the apparent gender of the USB-A connector on this adapter?",
+        "answer": "Female"
+      },
+      {
+        "question": "What is the apparent gender of the USB-C connector on the adapter shown?",
+        "answer": "Male"
+      },
+      {
+        "question": "Does the image show any visible screws or other fasteners on the device?",
+        "answer": "No"
+      },
+      {
+        "question": "Based solely on the image, what is the color of the lettering on the adapter?",
+        "answer": "White"
+      }
+    ]
+  }
+]

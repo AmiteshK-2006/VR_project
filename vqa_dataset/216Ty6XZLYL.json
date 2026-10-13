@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/39/395de32c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color observed on the product packaging?",
+        "answer": "Purple"
+      },
+      {
+        "question": "What is the overall shape of the product packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the primary material of the product packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What kind of design pattern is visible on the product's packaging?",
+        "answer": "Chevron"
+      },
+      {
+        "question": "Considering the packaging, what does the product seem to be?",
+        "answer": "Tape"
+      },
+      {
+        "question": "Describe the apparent texture of the visible packaging surface.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What color is secondary to the primary color on the packaging?",
+        "answer": "White"
+      },
+      {
+        "question": "Is there any text visible on the product's packaging?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the general orientation of the product on the surface?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Based on its appearance, is the product likely single-use or multi-use?",
+        "answer": "Multi-use"
+      },
+      {
+        "question": "Does the packaging suggest the product is intended for industrial or household use?",
+        "answer": "Household"
+      },
+      {
+        "question": "What seems to be the size comparison to the human silhouette?",
+        "answer": "Small"
+      },
+      {
+        "question": "What other color aside from the primary and secondary, is visible?",
+        "answer": "Grey"
+      },
+      {
+        "question": "Does the packaging show any warning symbols?",
+        "answer": "No"
+      },
+      {
+        "question": "Is the product packaging sealed or open-ended?",
+        "answer": "Sealed"
+      }
+    ]
+  }
+]

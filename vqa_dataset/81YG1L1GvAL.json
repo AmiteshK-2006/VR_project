@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b7/b775cb34.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall shape and dimensions, what is the primary geometric form of this product container?",
+        "answer": "Cylinder"
+      },
+      {
+        "question": "What color is the dominant hue of the bottle's main body, as observed from the provided image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Examining the bottle's cap, what material appears to have been used in its construction?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on the visible text, what nutritional supplement does this container hold?",
+        "answer": "CoQ10"
+      },
+      {
+        "question": "Disregarding the text, focusing only on the label, what color predominantly features on the product label?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the apparent texture of the container, assessing it based on visible characteristics?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From the visual inspection, what type of seal or closure does the bottle have at its top?",
+        "answer": "Screw"
+      },
+      {
+        "question": "What is the most prominent label feature indicating a sustainability effort?",
+        "answer": "Recycle"
+      },
+      {
+        "question": "What material is explicitly labeled as recyclable on the container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Referring to the labeling, what is one word that describes the dietary attributes of this product?",
+        "answer": "Vegan"
+      },
+      {
+        "question": "What is the predominant visual representation on the label, besides text?",
+        "answer": "Image"
+      },
+      {
+        "question": "Based on the image alone, what is the suggested usage of this product?",
+        "answer": "Supplement"
+      },
+      {
+        "question": "What is the color of the text primarily used on the label?",
+        "answer": "White"
+      },
+      {
+        "question": "What does the visible GMP label on the container indicate?",
+        "answer": "Manufacturing"
+      },
+      {
+        "question": "What is the overall visual state or condition of the container presented?",
+        "answer": "Sealed"
+      }
+    ]
+  }
+]

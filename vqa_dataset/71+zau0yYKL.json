@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/82/8295fe28.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the container visible in the provided image?",
+        "answer": "Round"
+      },
+      {
+        "question": "What appears to be the primary color of the label on the product container?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering the label's typography, what would you describe its overall style as?",
+        "answer": "Classic"
+      },
+      {
+        "question": "Based on the visible text, what type of information is predominantly displayed on the label?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the apparent texture of the label, based on its visual appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What kind of material appears to be used for the label on the container?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Observing the label's design, is there an image or graphic prominently featured?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent finish of the label's surface, is it glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the font used on the label, what is its approximate size?",
+        "answer": "Small"
+      },
+      {
+        "question": "Judging by the text's arrangement, how would you characterize the label's layout?",
+        "answer": "Organized"
+      },
+      {
+        "question": "What color is the background of the nutritional information panel?",
+        "answer": "White"
+      },
+      {
+        "question": "What seems to be the main language used for the text on the product's label?",
+        "answer": "English"
+      },
+      {
+        "question": "From a visual perspective, how legible is the text printed on the label?",
+        "answer": "High"
+      },
+      {
+        "question": "Considering the nutritional information's presentation, does it follow a standardized format?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the orientation of the text on the label, is it vertical or horizontal?",
+        "answer": "Horizontal"
+      }
+    ]
+  }
+]

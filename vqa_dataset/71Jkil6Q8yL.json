@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/70/70c6c9aa.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout and typography, what is the primary purpose of this rectangular product, as visually apparent?",
+        "answer": "Information"
+      },
+      {
+        "question": "What is the dominant textual color used throughout this nutritional information label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based solely on visual inspection, what is the most prominent numerical value presented on this product?",
+        "answer": "35"
+      },
+      {
+        "question": "Observing the text blocks, what is the primary unit of measurement repeatedly used for quantities?",
+        "answer": "g"
+      },
+      {
+        "question": "What is the descriptive term prominently displayed at the very top of the displayed information panel?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the descriptive term which is visually apparent as being supplementary to the main header?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Judging by the visual style, what is the likely context or industry for this piece of information?",
+        "answer": "Food"
+      },
+      {
+        "question": "Considering the visual presentation, to what category of food information does this refer, as clearly displayed?",
+        "answer": "Facts"
+      },
+      {
+        "question": "What word precedes the quantity of servings as visually evident in this information panel?",
+        "answer": "About"
+      },
+      {
+        "question": "What is the specified unit of measurement for serving size, as clearly shown?",
+        "answer": "Tbsp"
+      },
+      {
+        "question": "What term precedes the displayed 'Added Sugars' value in the presented nutritional facts?",
+        "answer": "Includes"
+      },
+      {
+        "question": "Based on visual cues, what specific nutrient category has a value of '0%' indicated adjacent to it?",
+        "answer": "Fat"
+      },
+      {
+        "question": "What is the visual appearance of the background of this nutritional facts label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the visual pattern of the text arrangement throughout the nutritional information panel?",
+        "answer": "Columnar"
+      },
+      {
+        "question": "What is the overall visual shape of the product that is clearly evident?",
+        "answer": "Rectangle"
+      }
+    ]
+  }
+]

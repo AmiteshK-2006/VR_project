@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/7b/7b19526e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular layout and the detailed nutritional information presented in a tabular format, what is the primary function of this object?",
+        "answer": "Label"
+      },
+      {
+        "question": "Observing the prominent textual elements, predominantly in uppercase and bold font, what is the category of information displayed?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Focusing on the color palette used for the text and background, what is the dominant color scheme?",
+        "answer": "Black"
+      },
+      {
+        "question": "Analyzing the textual structure, which specific nutritional component is given the highest prominence, indicated by its size and positioning?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Examining the detailed numerical data provided, what is the total calorie count per serving?",
+        "answer": "140"
+      },
+      {
+        "question": "Based on the information provided regarding fats, what is the amount of total fat present in grams?",
+        "answer": "3.5"
+      },
+      {
+        "question": "Considering the data on carbohydrates, how many grams of total carbohydrate are present?",
+        "answer": "25"
+      },
+      {
+        "question": "Referring to the dietary fiber information, what quantity of fiber, in grams, is included?",
+        "answer": "1g"
+      },
+      {
+        "question": "Based on the sugar content information, what is the total amount of sugars present, in grams?",
+        "answer": "12"
+      },
+      {
+        "question": "From the protein data, what is the quantity of protein in grams?",
+        "answer": "2g"
+      },
+      {
+        "question": "Observing the layout of the data, how many servings are contained in the item?",
+        "answer": "6"
+      },
+      {
+        "question": "Considering the serving size information, what is the weight of one serving in grams?",
+        "answer": "37"
+      },
+      {
+        "question": "What is the shape of this item's label or packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary material that this label appears to be printed on?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Considering the overall visual presentation, is the design simple or complex?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

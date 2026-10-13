@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3d/3d97fe37.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the presented square item?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the overall texture, what is the apparent surface feel?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by its dimensions and form, what is the primary shape of the object?",
+        "answer": "Square"
+      },
+      {
+        "question": "What material appears to be used in the construction of this object?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Based on the image, does the object show any visible patterns or designs?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the object's surface exhibit any noticeable degree of sheen or glossiness?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the overall visual impression of the object's thickness or weight?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Given its appearance, what is the most probable intended use of this product?",
+        "answer": "Cleaning"
+      },
+      {
+        "question": "Observing the edges, are they neatly trimmed or roughly cut?",
+        "answer": "Neat"
+      },
+      {
+        "question": "Does the item present any obvious folds or creases across its surface area?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging from the image, is the item transparent or opaque in nature?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Does the image show any discernible markings, logos, or labels?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image, is the product seemingly disposable or reusable?",
+        "answer": "Disposable"
+      },
+      {
+        "question": "Considering its size and form, what is the object's likely primary function?",
+        "answer": "Wiping"
+      },
+      {
+        "question": "What is the apparent condition of the presented object, considering its visual integrity?",
+        "answer": "New"
+      }
+    ]
+  }
+]

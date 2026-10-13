@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6f/6fb31fd2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the dominant geometric shape exhibited by this item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the most apparent color uniformly displayed across the entire item?",
+        "answer": "White"
+      },
+      {
+        "question": "Judging by the image's visual texture, what is the apparent surface quality of the item?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on visual assessment, what material does the item seem to be predominantly composed of?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Observing the folded edges, what is the approximate number of layers apparent in this item?",
+        "answer": "Two"
+      },
+      {
+        "question": "Does the item appear to possess any noticeable patterns, markings, or embroidery?",
+        "answer": "No"
+      },
+      {
+        "question": "Analyzing the image closely, are there any visible seams or stitching details?",
+        "answer": "No"
+      },
+      {
+        "question": "From the visual presentation, what is the inferred primary function of this item?",
+        "answer": "Cover"
+      },
+      {
+        "question": "Focusing on the item's dimensions, what term best describes its overall size?",
+        "answer": "Large"
+      },
+      {
+        "question": "What is the inferred level of surface gloss or sheen based solely on the visual evidence?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the creases visible, what can be inferred about the item's flexibility?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Judging by the folds and uniformity, is the item noticeably thick or thin?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Based on visual assessment, is the surface of the item uniformly colored or variegated?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Considering the image's sharpness and clarity, is the product's texture visibly coarse or fine?",
+        "answer": "Fine"
+      },
+      {
+        "question": "Based on the visible edges, does the item appear to have a fringe, border, or decorative edging?",
+        "answer": "No"
+      }
+    ]
+  }
+]

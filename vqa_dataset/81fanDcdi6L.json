@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e9/e93b7879.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the boxes shown in the image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What appears to be the primary material used in the construction of these boxes?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Considering the overall shape, what geometric form best describes these containers?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging by the visual texture, what is the surface finish of these boxes?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on the image, do the boxes appear to have any noticeable decorative patterns or designs?",
+        "answer": "No"
+      },
+      {
+        "question": "Focusing on the lids, what style of closure is visible on these boxes?",
+        "answer": "Overlap"
+      },
+      {
+        "question": "Considering the image's perspective, how many different sizes of boxes are depicted?",
+        "answer": "Five"
+      },
+      {
+        "question": "Describe the arrangement of the boxes in the product image.",
+        "answer": "Stacked"
+      },
+      {
+        "question": "From the image, are the boxes' corners visibly reinforced or rounded?",
+        "answer": "Squared"
+      },
+      {
+        "question": "Are there any visible markings, logos, or printed text on the boxes' surfaces?",
+        "answer": "No"
+      },
+      {
+        "question": "In terms of depth, how would you describe the boxes' overall profile?",
+        "answer": "Shallow"
+      },
+      {
+        "question": "What is the apparent weight of the boxes judging by their visual appearance?",
+        "answer": "Lightweight"
+      },
+      {
+        "question": "What is the suggested primary function of the boxes based on their design?",
+        "answer": "Packaging"
+      },
+      {
+        "question": "Do the boxes appear to have any sort of handles or carrying features?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the visual appearance, are the boxes seemingly sturdy and well-constructed?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

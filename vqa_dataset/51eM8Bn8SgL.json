@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1c/1cd7f18c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color prominently displayed on the label of this pharmaceutical product?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What is the overall shape of the label containing the drug facts and purpose information?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the text, what is the main function suggested by the label, as a pain reliever?",
+        "answer": "Analgesic"
+      },
+      {
+        "question": "Based on the label, what is the medicinal ingredient indicated for cough relief?",
+        "answer": "Dextromethorphan"
+      },
+      {
+        "question": "What is the format of the information presented on the label, is it organized in sections?",
+        "answer": "tabular"
+      },
+      {
+        "question": "What color is the background of the active ingredients section of the label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the word used to describe the function of the ingredient, Phenylephrine?",
+        "answer": "Decongestant"
+      },
+      {
+        "question": "What is the unit of measurement used to describe the quantity of each active ingredient?",
+        "answer": "Milligrams"
+      },
+      {
+        "question": "What is the typeface or font style used for the text on this label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the color of the text denoting 'Drug Facts' on the label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What word describes the purpose Acetaminophen serves?",
+        "answer": "Analgesic"
+      },
+      {
+        "question": "What is the background color of the 'Purpose' section of the label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall design style of the label?",
+        "answer": "Informative"
+      },
+      {
+        "question": "What is the text's alignment within the boxes on the label?",
+        "answer": "Left"
+      },
+      {
+        "question": "Does the label have a noticeable border or frame?",
+        "answer": "No"
+      }
+    ]
+  }
+]

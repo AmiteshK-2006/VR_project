@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2f/2f5e3375.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the visible surface texture?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the overall texture of the interlocking tile's top surface?",
+        "answer": "Fuzzy"
+      },
+      {
+        "question": "What is the visible shape of the individual interlocking floor tile?",
+        "answer": "Square"
+      },
+      {
+        "question": "What appears to be the material of the tile's top visible layer?",
+        "answer": "Foam"
+      },
+      {
+        "question": "What is the visible color of the tile's back or underside?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What seems to be the material of the tile's back or underside?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Describe the visible edge profile of each individual tile piece.",
+        "answer": "Interlocking"
+      },
+      {
+        "question": "What is the apparent pattern of the top surface's textural design?",
+        "answer": "Speckled"
+      },
+      {
+        "question": "Considering the visible features, what is the tile's likely intended function?",
+        "answer": "Floor"
+      },
+      {
+        "question": "Does the top visible surface exhibit any noticeable gloss or sheen?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the visible thickness of a single tile, relative to the image scale?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Considering the design, is the tile likely suitable for high-traffic areas?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent size of the interlocking edge pieces on each tile?",
+        "answer": "Small"
+      },
+      {
+        "question": "What type of visible connection system is evident between each tile?",
+        "answer": "Puzzle"
+      },
+      {
+        "question": "Considering visual attributes, what is the overall style of these tiles?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

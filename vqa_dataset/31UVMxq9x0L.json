@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ad/adfbf03b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's visual characteristics, what is the overall font style employed for the ingredients and allergen information?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the primary color used for the text describing the ingredients and potential allergens on this product's label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the image, what is the background color of the area containing the ingredient and allergen information?",
+        "answer": "White"
+      },
+      {
+        "question": "Focusing solely on the visual presentation, what is the case of the lettering used in the provided text?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Regarding the visual layout, how many distinct sections or blocks of text are presented in this image?",
+        "answer": "Two"
+      },
+      {
+        "question": "Describe the visual arrangement of the ingredient list. Is it arranged vertically or horizontally?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "From a visual standpoint, what word best describes the text's spacing or kerning?",
+        "answer": "Standard"
+      },
+      {
+        "question": "What is the visual appearance of the text's weight or thickness (bold, light, etc.)?",
+        "answer": "Regular"
+      },
+      {
+        "question": "Is there any visual indication of an itemized list format, such as bullet points, used in the text?",
+        "answer": "No"
+      },
+      {
+        "question": "If present, what type of visual delimiters (e.g., commas, semicolons) separate the individual items listed?",
+        "answer": "Commas"
+      },
+      {
+        "question": "What is the apparent alignment of the text blocks, left, center, or right?",
+        "answer": "Left"
+      },
+      {
+        "question": "Regarding the texture, is there a noticeable visual variation in text appearance (e.g., embossed, indented)?",
+        "answer": "No"
+      },
+      {
+        "question": "What visual effect, if any, distinguishes the 'Ingredients' label from the rest of the text?",
+        "answer": "None"
+      },
+      {
+        "question": "Focusing on the visual presentation, what single word best describes the overall visual clarity of the text?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Observing only the image, is the text presented in a single or multiple columns?",
+        "answer": "Single"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8e/8e5764f6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color displayed prominently on the food label, considering the overall visual presentation?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the textual layout, what is the most visually dominant element in terms of size and placement?",
+        "answer": "Calories"
+      },
+      {
+        "question": "What is the shape of the individual nutritional fact sections, based on their visual boundaries within the label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the primary material of the food label, based on its visual texture and reflectivity?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Considering the font and style of the textual elements, what is the overall visual impression of the label's design?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Based on visual inspection, what unit is used to quantify the serving size of the product?",
+        "answer": "Slice"
+      },
+      {
+        "question": "What is the visual presentation of the numerical values displayed throughout the label concerning nutritional content?",
+        "answer": "Bold"
+      },
+      {
+        "question": "From a visual standpoint, what is the orientation of the text on the nutritional facts label?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Examining the layout, what is the visual organization method for the different nutritional components listed?",
+        "answer": "Columns"
+      },
+      {
+        "question": "Based on the visual elements, what is the predominant type of information visually presented on the label?",
+        "answer": "Numerical"
+      },
+      {
+        "question": "Describe the visual appearance of the lines separating the different sections of the nutritional information.",
+        "answer": "Thin"
+      },
+      {
+        "question": "Judging by visual appearance, what is the overall visual clarity of the nutritional facts presented?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the visual arrangement of the “% Daily Value” column relative to the other nutritional information?",
+        "answer": "Aligned"
+      },
+      {
+        "question": "What is the visual style used for the heading 'Nutrition Facts' in terms of its size and prominence?",
+        "answer": "Large"
+      },
+      {
+        "question": "Based on visual inspection, what is the visual style of the numbers indicating the daily value percentage?",
+        "answer": "Smaller"
+      }
+    ]
+  }
+]

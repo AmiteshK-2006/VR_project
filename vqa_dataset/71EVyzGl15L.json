@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5e/5ef17fd2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the shirt, ignoring the stain?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary color of the stain displayed on the shirt?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the overall shape of the garment presented in the image?",
+        "answer": "T-shirt"
+      },
+      {
+        "question": "What appears to be the sleeve type of the shirt shown?",
+        "answer": "Short"
+      },
+      {
+        "question": "Considering the visible fabric, what is the apparent texture of the shirt?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the general style of the neckline visible on the t-shirt?",
+        "answer": "Crew"
+      },
+      {
+        "question": "Based solely on the image, what is the apparent material of the shirt?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Describe the form of the stain on the right half of the shirt?",
+        "answer": "Blob"
+      },
+      {
+        "question": "What kind of stain is prominently displayed on the shirt?",
+        "answer": "Ink"
+      },
+      {
+        "question": "What is the apparent condition of the left half of the shirt shown?",
+        "answer": "Clean"
+      },
+      {
+        "question": "What is the design pattern of the stain on the shirt?",
+        "answer": "Irregular"
+      },
+      {
+        "question": "How many sleeves are visibly present on the displayed garment?",
+        "answer": "Two"
+      },
+      {
+        "question": "What seems to be the fit of the t-shirt shown in the image?",
+        "answer": "Regular"
+      },
+      {
+        "question": "What is the nature of the advertisement shown with the garment?",
+        "answer": "Detergent"
+      },
+      {
+        "question": "What is the overall state of the shirt displayed (excluding the stain)?",
+        "answer": "Clean"
+      }
+    ]
+  }
+]

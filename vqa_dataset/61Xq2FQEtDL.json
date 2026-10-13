@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a2/a2c3100b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the presented object, considering its prominent circular profile and flat surfaces?",
+        "answer": "Round"
+      },
+      {
+        "question": "Considering the item's surface characteristics, what is the most apparent textural quality?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on visual inspection, what color is the primary visible component of this item?",
+        "answer": "White"
+      },
+      {
+        "question": "What appears to be the predominant material used in the construction of this object, based on its visual appearance?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Are there any discernible markings or symbols present on the surface of this item?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the item's form, can you describe its three-dimensional profile, specifically in terms of its depth?",
+        "answer": "Shallow"
+      },
+      {
+        "question": "Disregarding any markings, what is the general finish quality of the main surface area?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the apparent size and number of the noticeable indentations or moldings on the visible surface?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "Considering the images, are the markings present on the item raised or recessed relative to the main surface?",
+        "answer": "Recessed"
+      },
+      {
+        "question": "Does the item display any noticeable variation in color across its visible surfaces?",
+        "answer": "No"
+      },
+      {
+        "question": "Based solely on the visual information, does the object seem transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Judging from its visual characteristics, what is the likely function of the object's design features?",
+        "answer": "Closure"
+      },
+      {
+        "question": "What is the apparent quality of the visible edges of the object; are they defined or indistinct?",
+        "answer": "Defined"
+      },
+      {
+        "question": "What is the overall visual impression of the item; is it ornate or simple?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Considering the object's visual features, is it designed with a high or low profile?",
+        "answer": "Low"
+      }
+    ]
+  }
+]

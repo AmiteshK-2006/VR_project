@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a7/a75ca899.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the fabric shown in the image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visible texture, what is the likely fabric type?",
+        "answer": "Linen"
+      },
+      {
+        "question": "Based on the image, what is the overall visual appearance of the fabric?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Describe the shape of the folded fabric edges, specifically where the folds meet?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Considering the weave, what is the apparent nature of the fabric's construction?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Judging by the image, how would you characterize the overall feel of the fabric?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What subtle pattern is visible in the fabric's weave, if any?",
+        "answer": "Grid"
+      },
+      {
+        "question": "Describe the visual uniformity of the fabric's color throughout the image.",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Considering the fabric's drape, what is the impression regarding its weight?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the apparent sheen or luster of the fabric, visible in the image?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging from the image, what is the visible condition of the fabric?",
+        "answer": "New"
+      },
+      {
+        "question": "Are there any visible defects or imperfections in the fabric based on this image?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the displayed arrangement of the fabric shown?",
+        "answer": "Folded"
+      },
+      {
+        "question": "Based on its appearance, what is the fabric's apparent level of softness?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Considering the visible details, what is the fabric's apparent thickness?",
+        "answer": "Moderate"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/54/54025029.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary ingredient explicitly mentioned on the label, describing the product's core component?",
+        "answer": "Oil"
+      },
+      {
+        "question": "Considering the label's text, what specific type of seed is the oil derived from, indicating its origin?",
+        "answer": "Grapeseed"
+      },
+      {
+        "question": "Based on the label's description, what is the oil's processing method, specifying the extraction technique?",
+        "answer": "Pressed"
+      },
+      {
+        "question": "What is the overall color of the background on which the product information is printed, describing its visual tone?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the color of the text providing details about the product's composition and production, specifying its shade?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the rectangular product label, noting its basic geometric form?",
+        "answer": "Rectangle"
+      },
+      {
+        "question": "What is the font style used for the words detailing the product and its manufacturing, describing its textual characteristics?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the text alignment employed for the information printed on the product's label, characterizing its layout?",
+        "answer": "Left"
+      },
+      {
+        "question": "Describing the label's surface texture, what is the overall feel or visual appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the word appearing before 'Pressed' in the description, referencing a specific oil extraction process?",
+        "answer": "Expeller"
+      },
+      {
+        "question": "What adjective qualifies 'Pressed' in the product description, indicating a step in oil refinement?",
+        "answer": "Refined"
+      },
+      {
+        "question": "What is the word preceding 'seed oil' on the label, indicating the type of oil shown?",
+        "answer": "Grapeseed"
+      },
+      {
+        "question": "What word describes the type of information provided on the label, denoting its function?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What punctuation mark ends the product description on the label, indicating completeness?",
+        "answer": "Period"
+      },
+      {
+        "question": "What is the overall visual style of the label's typography, describing its aesthetic?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

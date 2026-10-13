@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b5/b5d21b61.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme employed in the presentation of the nutritional information?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the text's layout, what is the primary organizational structure used to categorize the nutritional components?",
+        "answer": "Columns"
+      },
+      {
+        "question": "Based on the visual presentation, what is the primary unit of measurement for the serving size of the product?",
+        "answer": "Rings"
+      },
+      {
+        "question": "What specific numerical value is prominently displayed, representing a dietary measure per serving?",
+        "answer": "160"
+      },
+      {
+        "question": "What is the textual descriptor assigned to the section outlining the various macro-nutrients?",
+        "answer": "Calories"
+      },
+      {
+        "question": "What is the unit of measurement consistently used for the 'Total Fat' value and other similar nutritional elements?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What term, immediately following 'Total Sugars', denotes the absence of artificial sweeteners?",
+        "answer": "Added"
+      },
+      {
+        "question": "What is the specific mineral indicated, with its corresponding quantity, near the conclusion of the nutritional breakdown?",
+        "answer": "Potassium"
+      },
+      {
+        "question": "What is the unit of measurement utilized to express the cholesterol content per serving of the product?",
+        "answer": "Mg"
+      },
+      {
+        "question": "What concise descriptor is applied to the overall composition of these textual elements related to food intake?",
+        "answer": "Facts"
+      },
+      {
+        "question": "What unit of measurement follows the numerical value representing the serving size of this food product?",
+        "answer": "Rings"
+      },
+      {
+        "question": "Considering the visual format, what textual element serves as a headline for the entire provided nutrition information?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the word that precedes 'Value' in the header of the percentages listed on the right side of the nutrition table?",
+        "answer": "Daily"
+      },
+      {
+        "question": "Observing the textual layout, which of the listed nutrients is presented with a value less than 1 gram?",
+        "answer": "Fiber"
+      },
+      {
+        "question": "In the context of dietary fiber, what symbol precedes the quantity, indicating an approximate range rather than a precise value?",
+        "answer": "<"
+      }
+    ]
+  }
+]

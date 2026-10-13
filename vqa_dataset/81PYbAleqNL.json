@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c3/c3c400da.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the liquid inside the bottle, as shown in the image?",
+        "answer": "Amber"
+      },
+      {
+        "question": "What is the primary material of the bottle containing the liquid?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Considering the image, what is the overall shape of the product's container?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Based solely on visual observation, what type of closure does the bottle have?",
+        "answer": "Cap"
+      },
+      {
+        "question": "What is the apparent color of the bottle's cap, as seen in the product image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the texture of the label on the bottle, apparent from the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging from the image, what appears to be the material of the bottle's label?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What color is the majority of the text on the bottle's label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Does the bottle's label contain any noticeable graphic elements besides text?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the overall visual impression of the label's design style?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the apparent level of fill of the liquid within the bottle?",
+        "answer": "Full"
+      },
+      {
+        "question": "Considering the image, what kind of barcode is present on the label?",
+        "answer": "UPC"
+      },
+      {
+        "question": "What is the general appearance of the liquid's clarity or transparency?",
+        "answer": "Translucent"
+      },
+      {
+        "question": "Based on visual inspection, what is the apparent condition of the bottle?",
+        "answer": "New"
+      },
+      {
+        "question": "What is the general color of the graphic element on the label besides the text?",
+        "answer": "Green"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2a/2a5aab2d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the fabric shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the folded fabric piece?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on its appearance, what is the likely texture of the material?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the folds, what is the apparent thickness of the fabric?",
+        "answer": "Moderate"
+      },
+      {
+        "question": "Does the fabric appear to have any noticeable patterns or designs?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by its visual characteristics, what is the fabric's likely material?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "What is the apparent level of sheen or glossiness on the fabric surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the fabric exhibit any visible fraying or damage along the edges?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent drape or how does the fabric fall when folded?",
+        "answer": "Even"
+      },
+      {
+        "question": "Considering the folds, is the fabric stiff or pliable?",
+        "answer": "Pliable"
+      },
+      {
+        "question": "Does the image show any visible stitching, seams, or binding?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent weight or density of the folded fabric shown?",
+        "answer": "Light"
+      },
+      {
+        "question": "Are there any visible watermarks or other markings on the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the appearance, how tightly is the fabric woven or knitted?",
+        "answer": "Tightly"
+      },
+      {
+        "question": "What is the apparent degree of transparency of the fabric shown?",
+        "answer": "Opaque"
+      }
+    ]
+  }
+]

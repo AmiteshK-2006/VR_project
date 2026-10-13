@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2c/2c7b280e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the packaging's primary background, as seen in the image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the apparent shape of the food product's packaging, considering its overall form?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging by the image, what appears to be the primary material used for the product's packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Based on the visible text, what brand is associated with this packaged food item?",
+        "answer": "Wholefoods"
+      },
+      {
+        "question": "What kind of textual information is prominently displayed on the product's packaging, concerning its nutritional content?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the primary color of the prominent text describing the food's nutritional values, as depicted in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the visible textual information, what is the approximate calorie count per serving of the product shown in the image?",
+        "answer": "180"
+      },
+      {
+        "question": "What is the color of the small logo present at the bottom right corner of the image?",
+        "answer": "Green"
+      },
+      {
+        "question": "Observing the provided image, what type of food item does the packaging suggest it contains?",
+        "answer": "Bread"
+      },
+      {
+        "question": "Considering the visible design elements, what overall style can be attributed to the product's packaging design?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the texture of the packaging visible in the provided image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the color of the top part of the package?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the format of the nutritional facts?",
+        "answer": "Table"
+      },
+      {
+        "question": "Is the packaging glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Describe the font used for the main text, considering its style.",
+        "answer": "Sans-serif"
+      }
+    ]
+  }
+]

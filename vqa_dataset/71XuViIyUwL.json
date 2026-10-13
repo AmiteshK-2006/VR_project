@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c4/c432275b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the textual information provided, what is the primary protein source visibly indicated in the ingredients?",
+        "answer": "Tilapia"
+      },
+      {
+        "question": "Based on the provided text, which dairy product is explicitly listed among the ingredients?",
+        "answer": "Cheese"
+      },
+      {
+        "question": "What is the main grain component evident in the composition of the product, as detailed in the text?",
+        "answer": "Corn"
+      },
+      {
+        "question": "According to the visible text, what specific type of pepper is included in the ingredients?",
+        "answer": "Serrano"
+      },
+      {
+        "question": "As per the ingredients list, what common culinary herb is included?",
+        "answer": "Cilantro"
+      },
+      {
+        "question": "What is the type of tortilla used as indicated in the textual information?",
+        "answer": "Corn"
+      },
+      {
+        "question": "Judging by the textual information, which spice, widely used in Mexican cuisine, is an ingredient?",
+        "answer": "Paprika"
+      },
+      {
+        "question": "Referring to the ingredients, what creamy dairy-based condiment is used?",
+        "answer": "Sour"
+      },
+      {
+        "question": "What common vegetable, often used in salads, is included according to the ingredients list?",
+        "answer": "Cabbage"
+      },
+      {
+        "question": "As per the visible ingredient list, what type of avocado is used in this product?",
+        "answer": "Hass"
+      },
+      {
+        "question": "What ingredient is mentioned as a binding agent, commonly used in food processing, as shown in the text?",
+        "answer": "Gum"
+      },
+      {
+        "question": "What type of oil is identified as one of the components of the mayonnaise, as per the text?",
+        "answer": "Soybean"
+      },
+      {
+        "question": "Based on the given text, what type of cheese is incorporated into this recipe?",
+        "answer": "Parmesan"
+      },
+      {
+        "question": "What is indicated as a main ingredient used for maintaining natural color, as per the provided text?",
+        "answer": "Chloride"
+      },
+      {
+        "question": "According to the list of ingredients, what type of spice blend is featured in the recipe?",
+        "answer": "Cajun"
+      }
+    ]
+  }
+]

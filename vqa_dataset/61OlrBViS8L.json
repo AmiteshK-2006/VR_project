@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ad/ade63182.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color scheme of the provided text and table?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the primary typeface utilized for the headings within the feeding guide?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Examining the textual layout, what is the organizational style employed to present the dog weight and treat quantity information?",
+        "answer": "Table"
+      },
+      {
+        "question": "Based on the visual structure, what is the textual element used to clearly delineate the various sections and information within the guide?",
+        "answer": "Headings"
+      },
+      {
+        "question": "What is the general visual tone or style conveyed by the font choices and layout?",
+        "answer": "Clean"
+      },
+      {
+        "question": "What is the formatting used to differentiate the 'Dog Weight' and 'Treats Per Day' columns?",
+        "answer": "Alignment"
+      },
+      {
+        "question": "What is the predominant method for organizing information in the feeding guide?",
+        "answer": "Rows"
+      },
+      {
+        "question": "Observing the numbers presented, what is the numerical system used to represent quantities?",
+        "answer": "Arabic"
+      },
+      {
+        "question": "Regarding the visual style, what descriptor would best fit the overall look of the guide?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the visual characteristic of the text's arrangement within the guide?",
+        "answer": "Linear"
+      },
+      {
+        "question": "What kind of units are used to represent the dog's weight?",
+        "answer": "Pounds"
+      },
+      {
+        "question": "What is the visual characteristic of the text's size concerning the heading and body?",
+        "answer": "Variable"
+      },
+      {
+        "question": "Describe the visual presentation of the data within the table (e.g., aligned, scattered)",
+        "answer": "Aligned"
+      },
+      {
+        "question": "What is the shape of the text boxes containing the information?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the overall visual impression of the feeding guide's clarity and readability?",
+        "answer": "Clear"
+      }
+    ]
+  }
+]

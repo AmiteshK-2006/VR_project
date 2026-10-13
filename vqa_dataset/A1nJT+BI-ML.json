@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c7/c7ce76d9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the folded fabric shown in the image?",
+        "answer": "Green"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent material of this product?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Based on its folded state, what is the overall three-dimensional shape of the item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging by its visual appearance, what is the likely primary function of this item?",
+        "answer": "Cover"
+      },
+      {
+        "question": "Describe the visible surface texture of the folded fabric, apparent in the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the fabric exhibit a visible pattern or design element in the image?",
+        "answer": "No"
+      },
+      {
+        "question": "From the image, what is the approximate number of layers visible in the folded fabric?",
+        "answer": "Two"
+      },
+      {
+        "question": "Given the image, is there visible evidence of any seams or stitching on the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the level of sheen or glossiness observable on the surface of the folded fabric?",
+        "answer": "Slight"
+      },
+      {
+        "question": "Judging from the folded edges, is the fabric stiff or pliable in its nature?",
+        "answer": "Pliable"
+      },
+      {
+        "question": "What is the apparent thickness of the folded fabric judging from the provided image?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Does the image show any visible markings, logos, or branding on the item?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on its appearance, does the fabric seem waterproof or water-resistant?",
+        "answer": "Unknown"
+      },
+      {
+        "question": "Considering the image, does the product appear to be densely or loosely woven?",
+        "answer": "Unknown"
+      },
+      {
+        "question": "Based on its appearance in the image, does the fabric appear to be of heavy or light weight?",
+        "answer": "Light"
+      }
+    ]
+  }
+]

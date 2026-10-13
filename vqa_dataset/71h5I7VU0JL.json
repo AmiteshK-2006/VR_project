@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9f/9fd07491.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the bottle's cap, as visibly depicted in the provided image?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the overall shape of the bottle, what geometric term best describes its form?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Based on the image, what appears to be the primary material used for the product's container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Does the bottle's label display any noticeable text, and if so, what is the general color of that text?",
+        "answer": "Black"
+      },
+      {
+        "question": "What seems to be the overall texture of the product's container, judging from the image alone?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the label closely, does it feature any distinctive design elements or graphics, beyond the text?",
+        "answer": "Floral"
+      },
+      {
+        "question": "What is the apparent color of the product inside the plastic bottle, based on the image?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the bottle's design, what is its primary function or intended use?",
+        "answer": "Container"
+      },
+      {
+        "question": "Does the bottle exhibit any visible markings or patterns beyond its label, and if so, what is their general nature?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the visible features, is the bottle's design minimalistic or complex in nature?",
+        "answer": "Minimalistic"
+      },
+      {
+        "question": "From a visual perspective, what is the approximate size of the bottle relative to common household items?",
+        "answer": "Large"
+      },
+      {
+        "question": "Considering the shape and proportions, what is the approximate ratio of the bottle's height to its width?",
+        "answer": "Tall"
+      },
+      {
+        "question": "Does the image reveal any additional components or parts beyond the bottle itself and its cap?",
+        "answer": "None"
+      },
+      {
+        "question": "Judging solely from the image, what appears to be the level of transparency of the plastic used?",
+        "answer": "Translucent"
+      },
+      {
+        "question": "Based on the product's visual attributes, is it likely suitable for storage or dispensing of liquid products?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

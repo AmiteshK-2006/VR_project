@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6e/6e345f28.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color temperature depicted in the leftmost panel, suggesting a warm ambiance?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What color temperature is shown in the central panel, representing a balanced light?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "What color temperature is depicted in the rightmost panel, suggesting a cool and bright environment?",
+        "answer": "Daylight"
+      },
+      {
+        "question": "What type of light fixture is shown, casting light across the kitchen scene in all three panels?",
+        "answer": "Pendant"
+      },
+      {
+        "question": "What is the overall shape of the light fixture's glass shade, visible in all three panels?",
+        "answer": "Globe"
+      },
+      {
+        "question": "What is the apparent material of the light fixture's glass shade, based on its translucence?",
+        "answer": "Glass"
+      },
+      {
+        "question": "What is the color of the metallic components of the light fixture, as seen in the fixture's base and hanging mechanism?",
+        "answer": "Dark"
+      },
+      {
+        "question": "What is the setting depicted in each panel, in which the light fixture illuminates a similar scene?",
+        "answer": "Kitchen"
+      },
+      {
+        "question": "What style of kitchen is shown in each panel, with a kitchen island and modern appliances?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What type of surface is prominently displayed in the foreground of each panel, reflecting the light from the fixture?",
+        "answer": "Countertop"
+      },
+      {
+        "question": "What is the general color scheme of the kitchen shown in each panel, including cabinets and countertops?",
+        "answer": "White"
+      },
+      {
+        "question": "What kind of light is illuminated in the leftmost panel, suggesting a soft glow for bedrooms and living rooms?",
+        "answer": "Vintage"
+      },
+      {
+        "question": "What kind of light is shown in the central panel, suggested for household kitchens and offices?",
+        "answer": "Household"
+      },
+      {
+        "question": "What kind of light is shown in the rightmost panel, suggested for commercial use such as garages?",
+        "answer": "Commercial"
+      },
+      {
+        "question": "What is the overall visual impression created by the three panels, showcasing the light fixture's varied applications?",
+        "answer": "Versatile"
+      }
+    ]
+  }
+]

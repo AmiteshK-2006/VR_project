@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/99/9964bcce.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the textual information presented on the label, what primary ingredient is predominantly used in the manufacturing of this product?",
+        "answer": "Popcorn"
+      },
+      {
+        "question": "Based on the label's content, what secondary ingredient, apart from popcorn, is visibly mentioned as a key component?",
+        "answer": "Sunflower"
+      },
+      {
+        "question": "Observing the label, what is the additional oil type mentioned in the ingredient list, possibly used in the product's preparation?",
+        "answer": "Safflower"
+      },
+      {
+        "question": "From the label, what common seasoning or additive is explicitly indicated as one of the product's constituents?",
+        "answer": "Salt"
+      },
+      {
+        "question": "According to the label's precautionary statement, what legume is potentially present as an allergen?",
+        "answer": "Peanuts"
+      },
+      {
+        "question": "As indicated on the label, what type of nut could potentially be included, posing a possible allergen risk?",
+        "answer": "Tree"
+      },
+      {
+        "question": "What dairy product is listed among the potential allergens on the product's label?",
+        "answer": "Milk"
+      },
+      {
+        "question": "What poultry-related allergen is named in the warning statement found on the packaging?",
+        "answer": "Eggs"
+      },
+      {
+        "question": "Based on the allergen warning, what grain-based product is possibly present as a trace ingredient?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "Which legume-related allergen is mentioned among the other potential allergens in the warning section?",
+        "answer": "Soy"
+      },
+      {
+        "question": "What is the textual style employed for the 'Ingredients' label, indicating its importance?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the overall shape of the text blocks on the given label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the general color of the text on the food label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the background color of the product's label as observed in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall orientation of the text on the label relative to the viewer?",
+        "answer": "Horizontal"
+      }
+    ]
+  }
+]

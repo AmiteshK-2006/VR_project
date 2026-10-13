@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/26/2618b37b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the bread's crust, as visually apparent in the provided image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the image, what is the overall shape of the bread loaf presented?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based solely on visual inspection, what type of bread is depicted in the image?",
+        "answer": "WholeWheat"
+      },
+      {
+        "question": "Describe the apparent texture of the bread's outer surface, as shown in the image.",
+        "answer": "Rough"
+      },
+      {
+        "question": "What packaging material appears to encase the bread loaf, according to the image?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Judging by the image, is the bread sliced or unsliced?",
+        "answer": "Unsliced"
+      },
+      {
+        "question": "From the image, what seems to be the primary ingredient of this bread?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "Does the bread show any visible seeds or grains on its surface?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent size of the loaf relative to a typical sandwich loaf?",
+        "answer": "Standard"
+      },
+      {
+        "question": "Based on the image, does the bread appear to be fresh or stale?",
+        "answer": "Fresh"
+      },
+      {
+        "question": "What kind of label is visible on the bread's packaging?",
+        "answer": "Brand"
+      },
+      {
+        "question": "What is the main word that describes the type of bread?",
+        "answer": "Sprouted"
+      },
+      {
+        "question": "Is the bread wrapped tightly or loosely in its packaging?",
+        "answer": "Tightly"
+      },
+      {
+        "question": "What is the visual condition of the bread's packaging?",
+        "answer": "Intact"
+      },
+      {
+        "question": "Judging by the provided image, what is the overall visual appeal of the product?",
+        "answer": "Appealing"
+      }
+    ]
+  }
+]

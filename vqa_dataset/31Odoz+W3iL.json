@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/67/6722e73f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text displayed prominently on the label, what single ingredient is definitively identified as the product's primary component?",
+        "answer": "Nutmeg"
+      },
+      {
+        "question": "What is the overall color scheme observed throughout the entirety of the provided label image?",
+        "answer": "White"
+      },
+      {
+        "question": "Observing the text's characteristics, what specific typeface is predominantly utilized in the label's textual content?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based solely on visual inspection of the label's text, what is the primary font color utilized for the word 'INGREDIENTS'?",
+        "answer": "Gray"
+      },
+      {
+        "question": "From a visual standpoint, describe the text's orientation relative to the label's horizontal axis.",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Judging from the image's visual details, what kind of surface texture does the label appear to possess?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the image's visual elements, what shape best defines the label's overall form?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent material composition of the label depicted in the provided image?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Based purely on the image, what seems to be the general style of the label's textual presentation?",
+        "answer": "Simple"
+      },
+      {
+        "question": "In analyzing the label's visual attributes, what is the apparent overall size in relation to common household items?",
+        "answer": "Small"
+      },
+      {
+        "question": "If considering the visible text only, what is the case of the lettering used?",
+        "answer": "Upper"
+      },
+      {
+        "question": "What is the apparent visual weight of the word 'INGREDIENTS' relative to the word 'NUTMEG'?",
+        "answer": "Bold"
+      },
+      {
+        "question": "From a visual perspective, describe the spacing between the words 'INGREDIENTS' and 'NUTMEG'.",
+        "answer": "Medium"
+      },
+      {
+        "question": "Analyzing the visual characteristics of the text, is the font used in the label serif or sans-serif?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Describe the overall visual clarity of the text present on the label.",
+        "answer": "Clear"
+      }
+    ]
+  }
+]

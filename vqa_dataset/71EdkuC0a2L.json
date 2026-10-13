@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3f/3f284609.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what best describes the shoe's primary shape as shown in the image?",
+        "answer": "Oval"
+      },
+      {
+        "question": "Observing the sole's texture, what prominent pattern is visibly present across the majority of its surface?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Focusing on the sole's color, ignoring any potential shadows or reflections, what single word best describes it?",
+        "answer": "White"
+      },
+      {
+        "question": "Based solely on the visible portion, what material appears to constitute the majority of the shoe's sole?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "What is the predominant color observed on the small visible section of the shoe's upper?",
+        "answer": "Black"
+      },
+      {
+        "question": "Examining the texture of the sole, what tactile impression does the pattern predominantly convey?",
+        "answer": "Ridged"
+      },
+      {
+        "question": "Considering the overall design, does the shoe's sole appear to be significantly textured or minimally textured?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Judging from the image, is the sole design seemingly simplistic or complex in its pattern?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Does the visible portion of the shoe's upper exhibit a smooth or a textured surface?",
+        "answer": "Textured"
+      },
+      {
+        "question": "In terms of its construction, does the sole appear to be seamlessly integrated with the upper of the shoe or separated?",
+        "answer": "Separated"
+      },
+      {
+        "question": "Given the image, how would you describe the overall finish of the shoe's visible sole in terms of its glossiness?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging by the visible section, how would you describe the pattern on the shoe's upper in terms of its regularity?",
+        "answer": "Regular"
+      },
+      {
+        "question": "Considering the design, does the sole provide evidence of apparent wear or damage based on the image?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the visible components, is the shoe primarily designed for indoor or outdoor use based on the sole?",
+        "answer": "Outdoor"
+      },
+      {
+        "question": "Based on the image, does the shoe's sole seem to be flexible or rigid?",
+        "answer": "Flexible"
+      }
+    ]
+  }
+]

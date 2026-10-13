@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f5/f5518b50.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the beverage can's primary label?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the overall shape of the product container?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What appears to be the material of the product's packaging?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What is the type of closure visible on the top of the can?",
+        "answer": "Pull-tab"
+      },
+      {
+        "question": "Considering the image, what is the text prominently displayed on the can?",
+        "answer": "BOSMO"
+      },
+      {
+        "question": "Based on the visual, what kind of beverage does the can contain?",
+        "answer": "Drink"
+      },
+      {
+        "question": "What secondary color is present on the can's label design?",
+        "answer": "Black"
+      },
+      {
+        "question": "Describe the texture implied by the can's metallic surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent finish of the can's metallic surface?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Does the can's label incorporate any graphic design elements?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What shape is the graphic element on the can's label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Is the can's label design primarily text-based or image-based?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the style of font used in the primary label text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Judging by the image, what is the approximate size of the can?",
+        "answer": "Tall"
+      },
+      {
+        "question": "What is implied by the word 'Energy' on the can's label?",
+        "answer": "Stimulant"
+      }
+    ]
+  }
+]

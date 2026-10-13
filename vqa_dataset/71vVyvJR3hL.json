@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/84/84a4d48f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the primary function of this depicted item?",
+        "answer": "Label"
+      },
+      {
+        "question": "What is the dominant color used for the text displayed on this product label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the background color of the label shown in the provided image?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the visual appearance, what is the primary text format employed throughout the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Observing the image closely, what is the typeface weight used for the text on the label?",
+        "answer": "Regular"
+      },
+      {
+        "question": "Does the label text appear to exhibit any noticeable stylistic variation like bolding or italics?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the arrangement of the textual information on the label, is it organized or scattered?",
+        "answer": "Organized"
+      },
+      {
+        "question": "What is the overall visual texture of the displayed label in terms of smoothness or roughness?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Is there any obvious visual hierarchy among the different sections of text on the label?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging from the visual aspect, what type of surface is the label printed on, paper or plastic?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Does the image show any evidence of visible markings or graphic elements beyond the text?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image, is there any clear indication of the brand name or logo on the label?",
+        "answer": "No"
+      },
+      {
+        "question": "What can be visually observed regarding the general cleanliness and condition of the label?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Does the label display any type of special effects, like embossing or gradients?",
+        "answer": "No"
+      },
+      {
+        "question": "Regarding the overall visual design, is the label minimalistic or heavily decorated?",
+        "answer": "Minimalistic"
+      }
+    ]
+  }
+]

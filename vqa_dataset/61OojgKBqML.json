@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d2/d2902751.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall textual layout of the nutritional information presented?",
+        "answer": "tabular"
+      },
+      {
+        "question": "What is the primary color used for the text in the nutritional information?",
+        "answer": "black"
+      },
+      {
+        "question": "What is the background color of the nutritional information panel?",
+        "answer": "white"
+      },
+      {
+        "question": "What is the font style predominantly used for the nutritional information?",
+        "answer": "serif"
+      },
+      {
+        "question": "Considering the font size, what is the size scale of the text?",
+        "answer": "small"
+      },
+      {
+        "question": "What is the overall shape of the presented nutritional information block?",
+        "answer": "rectangular"
+      },
+      {
+        "question": "What is the type of information conveyed in the presented block?",
+        "answer": "nutritional"
+      },
+      {
+        "question": "What is the predominant unit of measurement used in values?",
+        "answer": "grams"
+      },
+      {
+        "question": "What is the textual style of the heading \"Nutritional Information\"?",
+        "answer": "bold"
+      },
+      {
+        "question": "Is the nutritional information presented in a structured or unstructured manner?",
+        "answer": "structured"
+      },
+      {
+        "question": "Are there any lines or borders separating sections of nutritional values?",
+        "answer": "yes"
+      },
+      {
+        "question": "What is the alignment of the values in each column of the table?",
+        "answer": "right"
+      },
+      {
+        "question": "What is the main language used to describe the nutritional values?",
+        "answer": "English"
+      },
+      {
+        "question": "Based on the textual layout, is the design minimalist or elaborate?",
+        "answer": "minimalist"
+      },
+      {
+        "question": "Does the information include details about the energy content (kcal and kJ)?",
+        "answer": "yes"
+      }
+    ]
+  }
+]

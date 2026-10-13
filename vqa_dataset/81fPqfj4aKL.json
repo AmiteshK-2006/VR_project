@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d3/d3cd260f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form and dimensions, what is the primary shape of the depicted item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visual texture and weave, what material seems to comprise the product's surface?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "What is the most prominent and visually dominant color displayed across the item's entirety?",
+        "answer": "Red"
+      },
+      {
+        "question": "Judging from the image, what is the apparent surface finish or texture of this rectangular object?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Does the surface of the item exhibit any discernible pattern or design element?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Observing the object's edges, what is the general nature of its profile; rounded or sharp?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Can you identify any visible markings, logos, or branding present on the item's surface?",
+        "answer": "Logo"
+      },
+      {
+        "question": "Based on the visual representation, what would you describe the overall visual weight or density?",
+        "answer": "Light"
+      },
+      {
+        "question": "From the visual aspects shown, what is the item's general aesthetic or style?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the product's visual thickness; relatively thin or thick?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Judging by the appearance alone, what is the implied flexibility of this item?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Considering the object's form, what might be its intended purpose or function?",
+        "answer": "Mat"
+      },
+      {
+        "question": "Considering the visual features, is the color uniform throughout the object?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the image, what is the visible state of the product; new or used?",
+        "answer": "New"
+      },
+      {
+        "question": "Based on the image, what is the overall visual appeal or aesthetic of this product?",
+        "answer": "Plain"
+      }
+    ]
+  }
+]

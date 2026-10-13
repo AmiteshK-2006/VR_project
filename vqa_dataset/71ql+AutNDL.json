@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a5/a550b832.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the folded textile item shown?",
+        "answer": "LightBlue"
+      },
+      {
+        "question": "Considering the visible texture, what is the likely material of this item?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Based on its size and shape, what is the most probable use for this folded item?",
+        "answer": "Towel"
+      },
+      {
+        "question": "Describe the overall visual texture of the folded fabric shown in the image.",
+        "answer": "Soft"
+      },
+      {
+        "question": "What is the general shape of the folded textile item, observed in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging from its folded state, what is the approximate thickness of this item?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Does the visible surface of the fabric appear to have any discernible patterns?",
+        "answer": "Yes"
+      },
+      {
+        "question": "If unfolded, what would be the dominant visual characteristic of its surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the visual details, what is the likely absorbency of this fabric?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the apparent visual quality of the fabric's manufacturing?",
+        "answer": "Good"
+      },
+      {
+        "question": "Considering the image, what is the likely weight of this textile item?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "Does the image suggest the presence of any visible seams or stitching?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the primary visual characteristic of the folded edges?",
+        "answer": "Neat"
+      },
+      {
+        "question": "Describe the overall visual impression created by the item's presentation.",
+        "answer": "Clean"
+      },
+      {
+        "question": "Based solely on the visual appearance, what is the likely condition of this item?",
+        "answer": "New"
+      }
+    ]
+  }
+]

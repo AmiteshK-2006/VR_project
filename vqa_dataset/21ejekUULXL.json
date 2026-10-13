@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0e/0e6e746e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the rectangular storage container shown?",
+        "answer": "White"
+      },
+      {
+        "question": "What appears to be the primary material used in constructing this container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the overall form, what is the best geometric description of the container's shape?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the image, are there any visible handles or carrying mechanisms present on the container?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging from the image, does the container's surface appear to have a matte or glossy finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Can you describe the texture of the outer surface, based solely on visual inspection?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the edges, are they sharp, rounded, or something else entirely?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Are there any noticeable design elements or patterns imprinted on the container's exterior?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering its form and features, what is the most likely intended use of this container?",
+        "answer": "Storage"
+      },
+      {
+        "question": "Does the image suggest the presence of any lids or covers associated with this container?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the image provided, is the container transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What is the apparent condition of the container; is it new or used?",
+        "answer": "New"
+      },
+      {
+        "question": "Considering the overall build, would you consider this container lightweight or heavy?",
+        "answer": "Lightweight"
+      },
+      {
+        "question": "Are there any visible seams, joints, or mold lines apparent on the container's surface?",
+        "answer": "Yes"
+      },
+      {
+        "question": "From the picture, is there any evidence of branding, logos, or markings on the container?",
+        "answer": "No"
+      }
+    ]
+  }
+]

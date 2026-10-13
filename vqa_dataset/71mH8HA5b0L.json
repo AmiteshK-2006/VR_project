@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/95/9582242a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant textual element depicted across the entire image, conveying key product information?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Considering the arrangement, what is the primary format employed to present the detailed nutritional breakdown?",
+        "answer": "Table"
+      },
+      {
+        "question": "In terms of visual structure, what is the overall shape of the presented information panel?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the color palette predominantly used for the text and data entries within the nutritional information?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the background color of the Nutrition Facts panel, providing visual contrast to the text?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the textual style applied for the main header, 'Nutrition Facts', in terms of size and weight?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Based on visual cues, what unit of measurement is consistently used to denote the serving size in the table?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the predominant font type used throughout the nutritional information display, in terms of its overall style?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering visual hierarchy, what is the most prominent numerical value displayed related to the food's calorie content?",
+        "answer": "Sixty"
+      },
+      {
+        "question": "What is the design pattern used to categorize and visually separate different nutritional components in the table?",
+        "answer": "Rows"
+      },
+      {
+        "question": "What is the visual style of the percentage values displayed next to each nutrient, indicating daily intake?",
+        "answer": "Numerical"
+      },
+      {
+        "question": "What is the visual element used to separate the different nutritional categories into distinct blocks?",
+        "answer": "Lines"
+      },
+      {
+        "question": "What is the general visual clarity and readability of the presented nutritional information on the panel?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the visual aspect of the table layout—simple, complex, or something else?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the overall visual aesthetic of the presented nutritional fact panel—modern, traditional, or other?",
+        "answer": "Modern"
+      }
+    ]
+  }
+]

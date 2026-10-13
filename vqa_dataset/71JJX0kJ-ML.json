@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/63/63a4a894.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the bottle's main label, as observed in the provided image?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering the bottle's shape, what would be the most appropriate geometrical term to describe it?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What is the apparent primary material used in the construction of the bottle?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What color is the cap on the top of the bottle, as visually apparent?",
+        "answer": "Green"
+      },
+      {
+        "question": "Based on the image, what kind of food product is shown on the bottle's label?",
+        "answer": "Syrup"
+      },
+      {
+        "question": "Considering the text on the label, what flavor is the syrup that this bottle contains?",
+        "answer": "Chocolate"
+      },
+      {
+        "question": "What is the word that describes the manufacturing process as indicated on the label?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What kind of image is prominently displayed on the lower portion of the label?",
+        "answer": "Icecream"
+      },
+      {
+        "question": "Considering the label's design, what is the overall style that the label represents?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the brand name or identifier written prominently on the bottle?",
+        "answer": "365"
+      },
+      {
+        "question": "What text describes a feature of the syrup as shown on the label?",
+        "answer": "Fair"
+      },
+      {
+        "question": "What is the texture of the syrup as suggested by the image on the label?",
+        "answer": "Viscous"
+      },
+      {
+        "question": "What is the shape of the ice cream shown on the label?",
+        "answer": "Scooped"
+      },
+      {
+        "question": "What is the color of the syrup shown being poured onto the ice cream?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the general appearance of the bottle's design; minimalistic, ornate, or other?",
+        "answer": "Minimalistic"
+      }
+    ]
+  }
+]

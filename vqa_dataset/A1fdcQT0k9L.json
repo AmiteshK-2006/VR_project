@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/15/15a853ec.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the fabric shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent material of this item?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Based on the image, what kind of pattern does the fabric exhibit?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Describe the visual directionality of the lines in the fabric's pattern.",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Judging from the image, what is the overall appearance of the fabric's surface?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What is the visual impression of the fabric's surface in terms of shine or lack thereof?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "What would you say best describes the visual thickness of the lines comprising the pattern?",
+        "answer": "Thin"
+      },
+      {
+        "question": "How would you characterize the visual density of the lines present in the provided image?",
+        "answer": "High"
+      },
+      {
+        "question": "Does the image suggest a uniform or variegated distribution of the linear pattern?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What seems to be the most notable visual characteristic of the lines in this fabric?",
+        "answer": "Parallelism"
+      },
+      {
+        "question": "If you were to describe the overall visual impression of the fabric in one word, what would it be?",
+        "answer": "Sleek"
+      },
+      {
+        "question": "What is the visual impression of the level of contrast between the light and dark elements?",
+        "answer": "Low"
+      },
+      {
+        "question": "What is the most apparent aesthetic quality suggested by the fabric's texture?",
+        "answer": "Smoothness"
+      },
+      {
+        "question": "If you had to describe the visual effect of the pattern in a single word, what would it be?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "Considering the image only, does the fabric appear to have a noticeable grain?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

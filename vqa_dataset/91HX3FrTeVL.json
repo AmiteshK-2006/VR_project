@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ad/ad4cb845.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color displayed prominently on the packaging?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the overall shape of the food product's packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What kind of text is predominantly used on the package for instructions?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the texture implied by the image of the food product (based on appearance)?",
+        "answer": "Dry"
+      },
+      {
+        "question": "What type of material seems to constitute the packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Considering the product's nature, what is the implied state of the food (before baking)?",
+        "answer": "Dry"
+      },
+      {
+        "question": "What is the general format of the information displayed on the package (aside from text)?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the main visual element on the left side of the packaging?",
+        "answer": "Image"
+      },
+      {
+        "question": "What color are the depicted eggs on the ingredient section?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the color of the measuring cup depicted in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the form of cooking instructions presented?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the form of nutritional data provided?",
+        "answer": "Table"
+      },
+      {
+        "question": "What type of data is provided besides the cooking instructions?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the style of font primarily used on the box?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the main purpose of the text on the package?",
+        "answer": "Instruction"
+      }
+    ]
+  }
+]

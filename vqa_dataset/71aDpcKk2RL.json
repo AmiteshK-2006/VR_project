@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ee/ee2d97dc.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color displayed prominently on the product's label?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the overall shape of the visible product packaging?",
+        "answer": "Circular"
+      },
+      {
+        "question": "What kind of text is predominantly featured on the label's surface?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the primary material of the visible portion of the packaging?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Considering the label's design, what is its primary function?",
+        "answer": "Informative"
+      },
+      {
+        "question": "What is the apparent texture of the label's surface, based on the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the style of the typeface used for the label's prominent text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Does the label contain any pictorial elements beyond the text itself?",
+        "answer": "No"
+      },
+      {
+        "question": "What unit of measurement is consistently used for the nutritional values?",
+        "answer": "Grams"
+      },
+      {
+        "question": "In terms of the nutritional information, what is the highlighted component?",
+        "answer": "Sodium"
+      },
+      {
+        "question": "What is the overall tone or mood evoked by the label's design?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "Is the information on the label presented in a structured or unstructured format?",
+        "answer": "Structured"
+      },
+      {
+        "question": "Considering the size of the text, what is the target audience?",
+        "answer": "Consumers"
+      },
+      {
+        "question": "What type of information is presented in a tabular format?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the primary language used on the product label?",
+        "answer": "English"
+      }
+    ]
+  }
+]

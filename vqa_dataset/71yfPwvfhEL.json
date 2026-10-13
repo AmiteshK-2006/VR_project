@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8d/8d056937.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the most apparent texture of the displayed fabric?",
+        "answer": "Fuzzy"
+      },
+      {
+        "question": "Considering the pile height and density, what is the overall feel of the material?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What is the apparent fiber type composing the majority of this fabric?",
+        "answer": "Synthetic"
+      },
+      {
+        "question": "Based on its visual appearance, what is the probable weight of the textile?",
+        "answer": "Light"
+      },
+      {
+        "question": "Judging by the image, what is the general nature of the fabric's surface?",
+        "answer": "Plush"
+      },
+      {
+        "question": "What is the primary visual impression regarding the material's thickness?",
+        "answer": "Thick"
+      },
+      {
+        "question": "How would you describe the arrangement of fibers in this particular cloth?",
+        "answer": "Looped"
+      },
+      {
+        "question": "Considering its appearance, what is the likely drape of the shown material?",
+        "answer": "Drapey"
+      },
+      {
+        "question": "What is the overall impression regarding the visual density of this fabric?",
+        "answer": "Dense"
+      },
+      {
+        "question": "From the image alone, how would one characterize the fabric's visual uniformity?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Judging from the image's details, what is the level of sheen of the fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering its texture, what kind of warmth does the textile seem to offer?",
+        "answer": "Warm"
+      },
+      {
+        "question": "Based purely on its visual appearance, is this fabric likely to be transparent?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "In terms of its feel, what is the apparent level of softness of the material?",
+        "answer": "High"
+      }
+    ]
+  }
+]

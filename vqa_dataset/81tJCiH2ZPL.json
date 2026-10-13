@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bd/bdf1035f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color observed across the entire visible surface?",
+        "answer": "Green"
+      },
+      {
+        "question": "Considering the image's texture, what is the apparent surface finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on visual texture, what material seems most likely?",
+        "answer": "Suede"
+      },
+      {
+        "question": "Does the material exhibit any noticeable patterns or designs?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the visual uniformity, is the texture consistent?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the overall visual tone, is the color dark or light?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Observing the image, is there any visible sheen or gloss?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the depicted material show any obvious signs of damage?",
+        "answer": "No"
+      },
+      {
+        "question": "From the image, is the color fully saturated or somewhat muted?",
+        "answer": "Muted"
+      },
+      {
+        "question": "If it were to be described, what kind of texture does the surface have?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall visual impression of the depicted surface?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Is there any visible grain or fibrous structure in the material?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on visual inspection, is the material thick or thin?",
+        "answer": "Unknown"
+      },
+      {
+        "question": "Is the color presented as a single solid tone across the surface?",
+        "answer": "Yes"
+      },
+      {
+        "question": "In visual terms, how would you describe the depth of the color?",
+        "answer": "Rich"
+      }
+    ]
+  }
+]

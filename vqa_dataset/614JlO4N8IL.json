@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/40/40ffe3f5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape and the text's alignment, what is the primary function suggested by the object's visual design?",
+        "answer": "Label"
+      },
+      {
+        "question": "Based on the text's font style, what kind of information is predominantly conveyed by this rectangular item?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Observing the color palette of the item, what is the dominant background hue?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "What is the primary method of text presentation used to display the product details, given the clear visual appearance?",
+        "answer": "Printing"
+      },
+      {
+        "question": "Judging by the size and arrangement of the printed text, what is the most probable intended use of this rectangular component?",
+        "answer": "Packaging"
+      },
+      {
+        "question": "Given the visible text and its content, what specific type of food product does this item describe, according to the image?",
+        "answer": "Pasta"
+      },
+      {
+        "question": "What is the principal text color used to convey essential product information, based on visual observation?",
+        "answer": "Black"
+      },
+      {
+        "question": "Describe the text's visual presentation, considering the uniformity of font and character size used in the given image.",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Analyzing the text's composition and structure, which word is notably repeated to describe ingredient-related information?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "Judging from the image, what is the texture of the material on which the text appears to be printed?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the style of the text, and the appearance of the object as a whole, what is its general visual style?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Considering the layout of the text on the item, what would be the most accurate description of its orientation?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Considering the overall design, what is the overall shape of the primary component in this visual?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What kind of information is contained within the textual content, regarding the production process of the product?",
+        "answer": "Allergens"
+      },
+      {
+        "question": "Based on the visible text, what is the type of wheat specified for the product’s main ingredient?",
+        "answer": "Durum"
+      }
+    ]
+  }
+]

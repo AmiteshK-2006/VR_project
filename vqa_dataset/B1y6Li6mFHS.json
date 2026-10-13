@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9a/9a714ef7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed fabric sample?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the apparent texture of the fabric, considering its visual appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image, what type of material is suggested by the fabric's look?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Describing the visual pattern, what kind of design is present on the fabric?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Considering the visible fibers, what is the overall direction of the fabric weave?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Judging from the image, how would you characterize the visible sheen of the material?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "What is the overall visual impression regarding the fabric's softness or coarseness?",
+        "answer": "Fine"
+      },
+      {
+        "question": "Observing the image closely, what is the general tone or hue of the fabric sample?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "What is the apparent visual density of the weave structure in the provided sample?",
+        "answer": "Tight"
+      },
+      {
+        "question": "Does the fabric seem to have any discernible irregularities or imperfections?",
+        "answer": "None"
+      },
+      {
+        "question": "From the image, does the fabric display any noticeable grain or directionality?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the visible level of translucence or opacity of the fabric sample?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Considering the image, what could be the suggested use of this type of fabric?",
+        "answer": "Upholstery"
+      },
+      {
+        "question": "What is the main visual characteristic of the presented fabric sample?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Based on the image, what is the implied weight or thickness of the fabric?",
+        "answer": "Medium"
+      }
+    ]
+  }
+]

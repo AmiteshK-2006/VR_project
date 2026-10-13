@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/42/427ebd52.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color observed across the entire surface?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the visual texture, what material is predominantly suggested?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Describe the surface texture, focusing on the visible grain and inconsistencies.",
+        "answer": "Grained"
+      },
+      {
+        "question": "Based on the image, what is the apparent finish of the material?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the material display any noticeable sheen or glossiness?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall visual impression of the color depth?",
+        "answer": "Deep"
+      },
+      {
+        "question": "Are there any visible patterns or designs imprinted on the material's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the visual texture, how would you describe the material's tactile quality?",
+        "answer": "Rough"
+      },
+      {
+        "question": "From the image, can you identify any visible imperfections or irregularities?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging by the visual texture, is this material likely natural or synthetic?",
+        "answer": "Synthetic"
+      },
+      {
+        "question": "Based on the image, is the color uniform across the visible area?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the image show any type of stitching or seams within the material?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the dominant visual element present in the image?",
+        "answer": "Texture"
+      },
+      {
+        "question": "Considering the visible irregularities, is the material's surface smooth or uneven?",
+        "answer": "Uneven"
+      },
+      {
+        "question": "Based on the image, is the material seemingly rigid or flexible?",
+        "answer": "Flexible"
+      }
+    ]
+  }
+]

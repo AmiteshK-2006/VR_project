@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/be/bece3ccc.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary ingredient conspicuously displayed on the product label?",
+        "answer": "Flour"
+      },
+      {
+        "question": "Considering the ingredients listed, what is a key flavor profile suggested by the spices?",
+        "answer": "Spicy"
+      },
+      {
+        "question": "Based on the ingredient list, what type of flour is predominantly used?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "What specific type of oil is mentioned among the ingredients?",
+        "answer": "Soybean"
+      },
+      {
+        "question": "What acidic ingredient is included in the product's composition?",
+        "answer": "Vinegar"
+      },
+      {
+        "question": "Which type of starch is explicitly listed within the ingredients?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "What kind of chile powder is used, as stated in the ingredient list?",
+        "answer": "Chipotle"
+      },
+      {
+        "question": "According to the label, what common baking agent is present?",
+        "answer": "Bakingpowder"
+      },
+      {
+        "question": "What granulated spice is listed among the ingredients?",
+        "answer": "Garlic"
+      },
+      {
+        "question": "What spice, known for its earthy flavor, is included in the recipe?",
+        "answer": "Cumin"
+      },
+      {
+        "question": "What is the status of the wheat flour used, as declared in the ingredients?",
+        "answer": "Unbleached"
+      },
+      {
+        "question": "Does the label indicate any potential allergens present?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What other grain is mentioned alongside wheat flour in the ingredients?",
+        "answer": "Barley"
+      },
+      {
+        "question": "What is the production method for the oil mentioned in the ingredient list?",
+        "answer": "Expeller"
+      },
+      {
+        "question": "Is the soybean oil utilized organically produced, according to the ingredient list?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

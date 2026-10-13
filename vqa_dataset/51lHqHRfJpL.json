@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a0/a02797c2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the background on which the product information is printed?",
+        "answer": "Red"
+      },
+      {
+        "question": "Considering the typeface and style, what can be inferred about the overall design aesthetic of the product's label?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Based on the text's presentation, what is the primary function of this product's label?",
+        "answer": "Informative"
+      },
+      {
+        "question": "What is the primary ingredient listed that the product contains, according to the label?",
+        "answer": "Almonds"
+      },
+      {
+        "question": "What additional ingredient is mentioned as a flavor component in the product's composition?",
+        "answer": "Vanilla"
+      },
+      {
+        "question": "What specific term indicates that the ingredients list includes substances that are not artificial?",
+        "answer": "Natural"
+      },
+      {
+        "question": "What type of salt is included among the listed ingredients of this product?",
+        "answer": "Sea"
+      },
+      {
+        "question": "What specific vitamin is mentioned in the ingredients list, identified by its chemical symbol?",
+        "answer": "D"
+      },
+      {
+        "question": "What is the name of the gum used as an ingredient, as indicated by the text on the label?",
+        "answer": "Gellan"
+      },
+      {
+        "question": "In terms of text formatting, what method is used to separate individual items in the list of ingredients?",
+        "answer": "Commas"
+      },
+      {
+        "question": "Considering the visual arrangement, how are the 'Ingredients' and 'Contains' sections differentiated on the label?",
+        "answer": "Sections"
+      },
+      {
+        "question": "What is the specific type of lecithin indicated as an ingredient in the product?",
+        "answer": "Sunflower"
+      },
+      {
+        "question": "Considering the visual presentation, what is the text's orientation in relation to the label's surface?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the font style used to display the text on the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the capitalization style of the words 'Ingredients' and 'Contains'?",
+        "answer": "Title"
+      }
+    ]
+  }
+]

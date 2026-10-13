@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4a/4a1b19d2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the provided image?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering the visual texture, what is the overall feel of the fabric?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Based on the image's visual details, what kind of material is depicted?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Analyzing the image, what is the primary visual pattern of the fabric?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Judging by the image, what is the apparent texture of the displayed fabric?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What is the apparent weave structure visible in the detailed fabric image?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Describing the visual appearance, how would you characterize the fabric's sheen?",
+        "answer": "Matte"
+      },
+      {
+        "question": "From a visual inspection, what is the fabric's apparent weight or density?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Considering the image's visual details, what is the fiber type suggested by the fabric?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "Based solely on visual observation, what is the overall visual tone of the fabric?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "What visual impression of the fabric is given, in terms of softness or roughness?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the image suggest a subtle pattern or is it consistently uniform?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What is the main visual characteristic suggested by the weave's appearance?",
+        "answer": "Close"
+      },
+      {
+        "question": "Considering the visual details, how would you describe the color variation?",
+        "answer": "Slight"
+      },
+      {
+        "question": "Based on visual analysis, what is the implied drape of this fabric type?",
+        "answer": "Soft"
+      }
+    ]
+  }
+]

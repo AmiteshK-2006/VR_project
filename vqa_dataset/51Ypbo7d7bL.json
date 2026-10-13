@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ae/ae5c3209.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what is the dominant color scheme of the product label?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the visual appearance, what is the primary format of the nutritional information?",
+        "answer": "Table"
+      },
+      {
+        "question": "Judging from the image, what is the text style used for the 'Supplement Facts' heading?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the shape of the outlined area containing the nutritional information?",
+        "answer": "Rectangle"
+      },
+      {
+        "question": "From the visual characteristics, what appears to be the general font style of the text on the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the image, what unit is used for measuring 'Total Carbohydrates'?",
+        "answer": "Grams"
+      },
+      {
+        "question": "According to the visual representation, what is the specified serving size?",
+        "answer": "Gummies"
+      },
+      {
+        "question": "What is the number of servings stated per container, as depicted in the image?",
+        "answer": "100"
+      },
+      {
+        "question": "What is the text orientation of the label's main content?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Observing the label, what measurement unit is used for the 'Sodium' content?",
+        "answer": "Milligrams"
+      },
+      {
+        "question": "What is the term used to describe the displayed nutritional information?",
+        "answer": "Values"
+      },
+      {
+        "question": "Considering the image's visual attributes, what is the style of the numbers in the nutritional information?",
+        "answer": "Arabic"
+      },
+      {
+        "question": "What is the word used to indicate the active components in this product?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the style of the text describing active ingredients, given its visual representation?",
+        "answer": "Regular"
+      },
+      {
+        "question": "Based on the image, what is the classification of the provided information?",
+        "answer": "Facts"
+      }
+    ]
+  }
+]

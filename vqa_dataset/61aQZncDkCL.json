@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5d/5d061028.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the visible surface of the textile?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the stitching pattern, what is the dominant geometrical shape used in its construction?",
+        "answer": "Square"
+      },
+      {
+        "question": "Based on the image's texture, what is the most likely material of the item?",
+        "answer": "Down"
+      },
+      {
+        "question": "Observing the surface, what is the overall texture of the visible fabric?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent structural design of the textile's surface, defined by its stitching?",
+        "answer": "Boxy"
+      },
+      {
+        "question": "Judging from the image's texture, how would you describe the softness of the item's appearance?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Based on the stitching pattern, what is the primary characteristic of this textile's design?",
+        "answer": "Structured"
+      },
+      {
+        "question": "Considering the image, what is the overall style of the item's visible design?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Observing the uniformity, how would you describe the distribution of the filling in the item?",
+        "answer": "Even"
+      },
+      {
+        "question": "Analyzing the stitching, how would you describe the spacing between the stitching lines?",
+        "answer": "Regular"
+      },
+      {
+        "question": "What is the apparent three-dimensional form of the depicted textile?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Based on the image's visual cues, what is the inferred use of the displayed textile?",
+        "answer": "Covering"
+      },
+      {
+        "question": "Judging from the overall appearance, what is the implied weight of this textile item?",
+        "answer": "Light"
+      },
+      {
+        "question": "What is the apparent thickness of the textile shown in the provided image?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Based on the stitching, what type of craftsmanship does the image suggest?",
+        "answer": "Machine"
+      }
+    ]
+  }
+]

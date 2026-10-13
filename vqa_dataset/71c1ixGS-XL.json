@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/65/65565780.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the baked good shown in the product image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the overall shape, what kind of baked good is depicted?",
+        "answer": "Bagel"
+      },
+      {
+        "question": "What seems to be the primary visible ingredient sprinkled on the surface?",
+        "answer": "Seeds"
+      },
+      {
+        "question": "Based on the image, what is the apparent texture of the bagel's surface?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Judging by the image, what type of packaging encloses the product?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the shape of the hole in the center of the baked good.",
+        "answer": "Round"
+      },
+      {
+        "question": "What is the general tone or shade of the baked good's color?",
+        "answer": "Light"
+      },
+      {
+        "question": "What small colored squares are visible on the packaging near the bottom?",
+        "answer": "Cyan"
+      },
+      {
+        "question": "What is the apparent state of the baked good; fresh or stale?",
+        "answer": "Fresh"
+      },
+      {
+        "question": "What is the general visual impression of the bagel's surface?",
+        "answer": "Speckled"
+      },
+      {
+        "question": "How many visible colored squares are prominently displayed?",
+        "answer": "Four"
+      },
+      {
+        "question": "What is the approximate size of the bagel shown in the image?",
+        "answer": "Large"
+      },
+      {
+        "question": "What is the overall visual presentation of the product?",
+        "answer": "Neat"
+      },
+      {
+        "question": "Based on visual inspection, does the bagel appear evenly baked?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Describe the visibility of the ingredients on the bagel's surface.",
+        "answer": "Visible"
+      }
+    ]
+  }
+]

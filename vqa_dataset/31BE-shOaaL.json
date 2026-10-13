@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e2/e20c6235.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the product's packaging, as observed in the provided image?",
+        "answer": "Green"
+      },
+      {
+        "question": "Considering the overall shape of the product's container, what geometric term best describes it?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the image, what appears to be the primary material used in the construction of the product's container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Observing the product label, what unit of volume is prominently displayed, indicating the product's quantity?",
+        "answer": "Liter"
+      },
+      {
+        "question": "What type of textual information is predominantly featured on the back of the product's packaging, providing details about the product?",
+        "answer": "Instructions"
+      },
+      {
+        "question": "What kind of graphic symbol is present near the bottom of the product's label, commonly used for recycling information?",
+        "answer": "Triangle"
+      },
+      {
+        "question": "In the bottom section of the label, is a linear series of numbers presented vertically and horizontally to identify the product?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "What kind of symbol, typically indicating caution or hazard, is situated near the top of the label, denoting specific warnings?",
+        "answer": "Warning"
+      },
+      {
+        "question": "Judging from the image, what is the overall texture of the product's outer packaging, smooth or rough?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the container have any noticeable embossing or debossing patterns that are visible in the image?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the label, are there any specific images illustrating the use of the product?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the general appearance of the textual elements on the label—primarily block letters or a more stylized script?",
+        "answer": "Block"
+      },
+      {
+        "question": "Does the product packaging use any specific color scheme, such as two-tone color distribution on its surface?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging from the image, are there any clear, transparent parts to this product container, allowing visibility of the contents?",
+        "answer": "No"
+      },
+      {
+        "question": "Is there any visible text detailing the product's brand or manufacturer?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

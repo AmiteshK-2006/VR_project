@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/96/9639f693.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout and organization, what is the primary subject depicted in the provided image?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Examining the text's arrangement, what specific dietary information does the image prominently display?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Focusing on the numerical data presented, what is the total fat content per serving, as indicated in grams?",
+        "answer": "5g"
+      },
+      {
+        "question": "Based on the text's structure, what is the stated serving size in ounces?",
+        "answer": "1oz"
+      },
+      {
+        "question": "Analyzing the nutritional breakdown, what is the quantity of saturated fat present per serving, in grams?",
+        "answer": "3.5g"
+      },
+      {
+        "question": "Observing the quantitative details, what is the cholesterol amount per serving expressed in milligrams?",
+        "answer": "20mg"
+      },
+      {
+        "question": "According to the text, how many servings are contained within the package?",
+        "answer": "11"
+      },
+      {
+        "question": "Referring to the caloric information, what is the total number of calories per serving?",
+        "answer": "70"
+      },
+      {
+        "question": "Based on the provided text, what is the amount of sodium in milligrams per serving?",
+        "answer": "115mg"
+      },
+      {
+        "question": "Observing the nutritional details, what is the protein content per serving listed in grams?",
+        "answer": "5g"
+      },
+      {
+        "question": "From the textual data, what is the total carbohydrate content per serving, expressed in grams?",
+        "answer": "1g"
+      },
+      {
+        "question": "What is the percentage of the daily value for total fat as indicated in the nutrition facts?",
+        "answer": "8%"
+      },
+      {
+        "question": "What is the percentage of the daily value for saturated fat as indicated in the nutrition facts?",
+        "answer": "18%"
+      },
+      {
+        "question": "According to the image, what is the percentage of the daily value for cholesterol?",
+        "answer": "7%"
+      },
+      {
+        "question": "What is the percentage of the daily value for sodium as indicated in the nutrition facts?",
+        "answer": "5%"
+      }
+    ]
+  }
+]

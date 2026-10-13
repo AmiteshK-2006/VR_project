@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bb/bb907bd9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the can's label, excluding the images and text?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary shape of the container holding the olives?",
+        "answer": "Cylinder"
+      },
+      {
+        "question": "Considering the visible olives, what is their apparent color?",
+        "answer": "Green"
+      },
+      {
+        "question": "What material appears to constitute the main body of the container?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Describe the overall texture of the can's surface, visible in the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What kind of food product does the can seemingly contain, judging from the image?",
+        "answer": "Olives"
+      },
+      {
+        "question": "What is the most noticeable shape recurring as a design element on the label?",
+        "answer": "Oval"
+      },
+      {
+        "question": "What colors compose the small shapes scattered across the can's label?",
+        "answer": "Multicolored"
+      },
+      {
+        "question": "Describe the overall style of the product label's design, based solely on the visual elements?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What type of packaging is used for the product, considering the form of the product container?",
+        "answer": "Can"
+      },
+      {
+        "question": "Does the label contain any textual information about the product's name?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging from the label, what appears to be the product's main ingredient?",
+        "answer": "Olives"
+      },
+      {
+        "question": "What is the apparent size of the olives depicted on the can's label, relative to the overall product?",
+        "answer": "Small"
+      },
+      {
+        "question": "Considering the style of the text and graphics, how would you characterize the label's overall aesthetic?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Based on the visual elements on the label, what is implied about the olive preparation method?",
+        "answer": "Packed"
+      }
+    ]
+  }
+]

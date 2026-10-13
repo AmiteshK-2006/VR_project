@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2a/2a7b1738.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the bottle's body, as shown in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary material visibly composing the container of the supplement?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What shape best describes the overall form of the product's packaging?",
+        "answer": "Cylinder"
+      },
+      {
+        "question": "What type of closure mechanism is present on the top of the supplement bottle?",
+        "answer": "Screw-top"
+      },
+      {
+        "question": "Considering the image, what is the apparent size of the printed text on the supplement label?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the color of the printed text on the supplement's label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the image, what appears to be the texture of the bottle's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent condition of the seal on the bottle's cap, judging by the provided image?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Does the image clearly show any significant damage to the product's packaging?",
+        "answer": "No"
+      },
+      {
+        "question": "What kind of information is visibly displayed on the bottle's label, according to the image?",
+        "answer": "Text"
+      },
+      {
+        "question": "Are there any noticeable graphics or illustrations printed on the product container in the image?",
+        "answer": "No"
+      },
+      {
+        "question": "From the visual inspection, does the bottle show any signs of discoloration?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the image show the presence of any tamper-evident features on the product?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging by the image, what is the relative transparency of the bottle's material?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Based solely on the image, what appears to be the finish of the bottle's plastic?",
+        "answer": "Matte"
+      }
+    ]
+  }
+]

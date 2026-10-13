@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f9/f9eb16ae.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the light bulb shown in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of the bulb's light-emitting portion?",
+        "answer": "Dome"
+      },
+      {
+        "question": "What material appears to constitute the majority of the bulb's body?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What kind of base does this light bulb possess, as visually apparent?",
+        "answer": "Screw"
+      },
+      {
+        "question": "Considering the image, what is the apparent finish of the bulb's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging by the visual appearance, what seems to be the size of the light bulb?",
+        "answer": "Small"
+      },
+      {
+        "question": "Based on the image, what is the visible texture of the bulb's exterior?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the bulb exhibit any visible markings or branding, as seen?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent metal type of the base connector on the bulb?",
+        "answer": "Silver"
+      },
+      {
+        "question": "What is the general form factor of the presented light bulb?",
+        "answer": "R"
+      },
+      {
+        "question": "What is the visible light-emitting area's relative size to the entire bulb?",
+        "answer": "Large"
+      },
+      {
+        "question": "Does the provided image show any visible damage to the bulb itself?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the image, does the bulb appear to be fully assembled and intact?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent physical state of the light bulb\u2014new or used?",
+        "answer": "New"
+      },
+      {
+        "question": "Considering the image, is the provided bulb designed for indoor or outdoor use?",
+        "answer": "Indoor"
+      }
+    ]
+  }
+]

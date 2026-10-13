@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ca/caa8bcba.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's legibility and clarity, what best describes the overall visual quality of the provided image?",
+        "answer": "Blurry"
+      },
+      {
+        "question": "Based on the visible text, what primary ingredient is prominently featured in this product?",
+        "answer": "Flour"
+      },
+      {
+        "question": "Examining the textual elements, what is the apparent state of the listed ingredient?",
+        "answer": "Unbleached"
+      },
+      {
+        "question": "Judging from the visible words, what descriptor is used to characterize the enriched wheat flour?",
+        "answer": "Enriched"
+      },
+      {
+        "question": "Analyzing the text's arrangement, what is the displayed format of the ingredient information?",
+        "answer": "List"
+      },
+      {
+        "question": "Considering the image resolution and clarity, what is the overall visual appeal of this product description?",
+        "answer": "Poor"
+      },
+      {
+        "question": "From the visible text, what additional ingredient is mentioned along with the wheat flour?",
+        "answer": "Water"
+      },
+      {
+        "question": "Observing the font type, what stylistic choices appear to have been made regarding the text?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Based on the visible text, what appears to be the second component in the ingredient list?",
+        "answer": "Nacin"
+      },
+      {
+        "question": "Judging from the text's layout, what is the general orientation of the ingredient information?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Based on the image, what is the apparent texture of the content shown?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Analyzing the apparent formatting, what would you describe as the text's visual presentation?",
+        "answer": "Plain"
+      },
+      {
+        "question": "In terms of readability, what would you classify as the text's visual clarity?",
+        "answer": "Low"
+      },
+      {
+        "question": "Regarding the type of writing used, what would you call the image's writing style?",
+        "answer": "Printed"
+      },
+      {
+        "question": "Judging by the darkness and contrast of the image, what would you say about the photo's lighting?",
+        "answer": "Dark"
+      }
+    ]
+  }
+]

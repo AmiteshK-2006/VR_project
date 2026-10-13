@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bb/bb171a81.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color visible on the main body of this object?",
+        "answer": "White"
+      },
+      {
+        "question": "What secondary color is subtly interwoven throughout the object's surface?",
+        "answer": "Gold"
+      },
+      {
+        "question": "Considering the visible texture, what material is most likely used in the construction of this item?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Describe the overall textural appearance of the object's visible surface, considering the grain and finish?",
+        "answer": "Linen"
+      },
+      {
+        "question": "Based on the image, what is the general shape of the object depicted?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What type of finish is evident on the surface, considering the subtle variations in tone and sheen?",
+        "answer": "Distressed"
+      },
+      {
+        "question": "Does the surface pattern appear to be uniformly applied or show random variations in density?",
+        "answer": "Random"
+      },
+      {
+        "question": "What is the nature of the visible grain pattern—is it parallel, swirling, or something else?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Considering the image, is the object primarily smooth or rough in texture?",
+        "answer": "Rough"
+      },
+      {
+        "question": "How would you describe the visual effect created by the interplay of white and gold tones?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "Observing the visible area, are there any prominent markings or engravings on the surface?",
+        "answer": "None"
+      },
+      {
+        "question": "What could you conclude about the potential weight of this object, based on the visible material?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "Does the visible surface appear matte, glossy, or semi-gloss?",
+        "answer": "Matte"
+      },
+      {
+        "question": "If this were a fabric, what would be the most likely weave type, based on the visual pattern?",
+        "answer": "Plain"
+      },
+      {
+        "question": "What is the overall visual impression given by the item's color and texture?",
+        "answer": "Rustic"
+      }
+    ]
+  }
+]

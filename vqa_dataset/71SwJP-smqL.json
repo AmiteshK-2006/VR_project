@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6c/6c76d8aa.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the item's packaging?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What appears to be the primary material of the item inside the box?",
+        "answer": "Wood"
+      },
+      {
+        "question": "What is the overall shape of the item contained within the packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the packaging, what is the item's apparent length relative to its width?",
+        "answer": "Long"
+      },
+      {
+        "question": "What seems to be the texture of the exterior of the cardboard box?",
+        "answer": "Corrugated"
+      },
+      {
+        "question": "Based on the image, what is the apparent condition of the packaging?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Judging by the image, what is the overall shape of the cardboard container?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What color is the item's visible surface, as shown inside the box?",
+        "answer": "Light"
+      },
+      {
+        "question": "Does the packaging show any visible signs of damage or wear?",
+        "answer": "No"
+      },
+      {
+        "question": "What type of material seems to be used for the item's packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Considering the length, what might be the potential use of the item?",
+        "answer": "Structural"
+      },
+      {
+        "question": "What is the visible surface finish of the item inside the box?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the item appear to be pre-assembled or in components?",
+        "answer": "Single"
+      },
+      {
+        "question": "How many items are visibly contained within the packaging?",
+        "answer": "One"
+      },
+      {
+        "question": "What kind of label or marking is visible on the packaging?",
+        "answer": "Small"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9d/9db0075e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's overall presentation, what is the dominant visual characteristic of the product's information display?",
+        "answer": "Text"
+      },
+      {
+        "question": "Based on the font style, what is the overall aesthetic impression conveyed by the product's textual information?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Focusing on the text's arrangement, what is the primary organizational method employed to present the product information?",
+        "answer": "List"
+      },
+      {
+        "question": "Observing the text's color palette, what is the predominant hue used to convey the product's ingredient information?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the background color against which the product's ingredient list is displayed?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the text's density and layout, what is the perceived reading level of the product information?",
+        "answer": "Easy"
+      },
+      {
+        "question": "Judging by the typography, what is the overall tone communicated through the product's textual information?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Looking at the visual hierarchy, what is the most prominent element in the presented product information?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Considering the text's visual weight, what is the implied importance of the 'other ingredients' section?",
+        "answer": "High"
+      },
+      {
+        "question": "Observing the formatting choices, what organizational principle is employed to distinguish different types of information within the product description?",
+        "answer": "Sections"
+      },
+      {
+        "question": "Judging from the length of the text, what level of detail is provided regarding the product's composition?",
+        "answer": "High"
+      },
+      {
+        "question": "Based on the visual prominence, what information is prioritized in the presentation of the product's details?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Considering the text's style, what type of audience does the product information appear to be designed for?",
+        "answer": "Consumers"
+      },
+      {
+        "question": "From the visual arrangement, what can be said about the accessibility of the product information to the average consumer?",
+        "answer": "Good"
+      },
+      {
+        "question": "What is the overall visual style of the product information display, considering font and layout?",
+        "answer": "Clean"
+      }
+    ]
+  }
+]

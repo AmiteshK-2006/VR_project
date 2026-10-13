@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/76/767d5f9e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the visible surface of the product?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary material used in the product's construction?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the product's overall form, what geometric shape best describes it?",
+        "answer": "Circular"
+      },
+      {
+        "question": "Judging by the image, does the product possess a visibly textured or smooth surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on its appearance, what is the likely intended function of this product?",
+        "answer": "Lid"
+      },
+      {
+        "question": "Does the product exhibit any discernible patterns or designs on its surface?",
+        "answer": "None"
+      },
+      {
+        "question": "Observing the edge of the item, is it uniformly thick or does the thickness vary?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "From the image, what kind of finish does the surface of the product appear to have?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Does the central part of the product show any signs of a different texture or material?",
+        "answer": "No"
+      },
+      {
+        "question": "Based solely on visual observation, what is the approximate diameter of the product?",
+        "answer": "Large"
+      },
+      {
+        "question": "Considering the image, what is the overall condition of the product's exterior?",
+        "answer": "Clean"
+      },
+      {
+        "question": "What is the apparent reflectivity of the product's surface, given the image?",
+        "answer": "High"
+      },
+      {
+        "question": "Does the product's edge seem to be sharp or rounded in profile?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "From the visual evidence, can the product be described as opaque or translucent?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "In the provided image, is the product shown in its entirety or partially?",
+        "answer": "Entirety"
+      }
+    ]
+  }
+]

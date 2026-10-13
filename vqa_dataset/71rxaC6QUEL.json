@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/43/43a75745.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape and the presence of detailed nutritional information, what type of printed material is depicted?",
+        "answer": "Label"
+      },
+      {
+        "question": "Observing the prominent font style and capitalization, what is the primary heading displayed at the top of this rectangular item?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Focusing on the textual content, what specific dietary aspect is extensively detailed across multiple rows, expressed in grams and percentages?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Examining the layout, what is the unit used to measure the serving size, as indicated numerically near the top of the nutritional information?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Looking at the numerical data, what is the approximate total calorie count provided per prepared serving, as explicitly stated in the table?",
+        "answer": "160"
+      },
+      {
+        "question": "Based on the provided data, what is the approximate amount of total fat present in a single prepared serving, expressed as a numerical value?",
+        "answer": "5"
+      },
+      {
+        "question": "According to the values presented, what is the approximate amount of total carbohydrates per serving, indicated numerically within the listed nutritional breakdown?",
+        "answer": "25"
+      },
+      {
+        "question": "By analyzing the nutritional data, what is the approximate quantity of dietary fiber provided by one serving, shown numerically in the composition chart?",
+        "answer": "1"
+      },
+      {
+        "question": "Referencing the listed nutritional values, what is the approximate sugar content per serving of this food item, expressed numerically in grams?",
+        "answer": "15"
+      },
+      {
+        "question": "Based on the values provided, what is the approximate protein content per serving of this food product, numerically indicated as a less than value?",
+        "answer": "1"
+      },
+      {
+        "question": "According to the nutritional information, what is the approximate percentage of the daily recommended value of calcium provided by a single serving?",
+        "answer": "15"
+      },
+      {
+        "question": "Examining the nutritional data, what is the approximate percentage of the daily recommended intake of iron contained within a single serving?",
+        "answer": "6"
+      },
+      {
+        "question": "Looking at the provided data, what is the approximate percentage of the recommended daily sodium intake in a single serving, as numerically presented?",
+        "answer": "6"
+      },
+      {
+        "question": "Analyzing the textual content, what is the specified amount, in grams, of the total package size of the product indicated as the starting measure?",
+        "answer": "28"
+      },
+      {
+        "question": "Focusing on the description at the bottom, what dietary component is specifically mentioned as reduced within the context of the provided serving instructions?",
+        "answer": "Milk"
+      }
+    ]
+  }
+]

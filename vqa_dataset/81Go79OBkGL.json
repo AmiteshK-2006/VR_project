@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/64/6453311c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the detailed visual presentation, what is the primary subject depicted in the image, focusing on its informational role?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Examining the textual elements, what specific food item's nutritional data is prominently displayed?",
+        "answer": "Cookie"
+      },
+      {
+        "question": "Based on the provided visual data, what numerical value represents the total caloric content per serving?",
+        "answer": "130"
+      },
+      {
+        "question": "Focusing on the quantitative data provided, what is the amount of total fat, in grams, per serving?",
+        "answer": "7"
+      },
+      {
+        "question": "What is the quantity of saturated fat, represented in grams, as shown in the image's data?",
+        "answer": "3.5"
+      },
+      {
+        "question": "According to the visual data, how many grams of total carbohydrates are present per serving?",
+        "answer": "19"
+      },
+      {
+        "question": "From the image's numerical data, what is the amount, in grams, of total sugars per serving?",
+        "answer": "12"
+      },
+      {
+        "question": "Based on the visual information, what is the amount of added sugars, in grams, per serving?",
+        "answer": "12"
+      },
+      {
+        "question": "What is the quantity of protein, represented in grams, according to the visual data provided?",
+        "answer": "1"
+      },
+      {
+        "question": "Analyzing the visual data, what is the amount of sodium, in milligrams, per serving?",
+        "answer": "55"
+      },
+      {
+        "question": "Based on the visual information, what is the serving size of the product depicted?",
+        "answer": "Cookie"
+      },
+      {
+        "question": "From the visual data, what is the number of servings included in the container?",
+        "answer": "8"
+      },
+      {
+        "question": "What is the weight, in grams, of a single serving as visually depicted?",
+        "answer": "28"
+      },
+      {
+        "question": "Considering the textual information, what unit is used for measuring the serving size weight?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the overall style of the provided textual information, in terms of its visual layout and typography?",
+        "answer": "Table"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e1/e1c85a17.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant visual texture of the item shown in the package?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall shape of the food product inside the packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the primary color of the item contained within the plastic wrap?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Judging by the image, what seems to be the material of the outer packaging?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the apparent consistency of the product based solely on its visual appearance?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Based on its visual appearance in the package, what is the food product's likely form?",
+        "answer": "Frozen"
+      },
+      {
+        "question": "What is the general lightness or darkness of the product's visible surface?",
+        "answer": "Light"
+      },
+      {
+        "question": "Considering only its visual aspects, what is the apparent translucence of the product itself?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Disregarding any labels, what is the visible surface texture of the packaged item?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What is the main visible characteristic of the product's overall coloring?",
+        "answer": "Pale"
+      },
+      {
+        "question": "Based on the image, what appears to be the product's physical state?",
+        "answer": "Frozen"
+      },
+      {
+        "question": "What type of packaging is enclosing the food product displayed?",
+        "answer": "Vacuum"
+      },
+      {
+        "question": "What is the apparent homogeneity of the product's visible surface?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What is the visual appearance of the item's edges within its packaging?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What is the visual impression of the product's surface based solely on the provided image?",
+        "answer": "Soft"
+      }
+    ]
+  }
+]

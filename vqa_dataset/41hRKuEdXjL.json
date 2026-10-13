@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/67/6754bfb2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the visual layout and the font style, what is the primary purpose of the text shown in the image?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Based on the arrangement and size of the text, what is the most important piece of information conveyed?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Given the visual characteristics, what is the type of text displayed concerning the product?",
+        "answer": "List"
+      },
+      {
+        "question": "What is the predominant color used for the text in this product image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Judging by the visual presentation, is the text displayed in a vertical or horizontal orientation?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "If you analyze the visual design, is the text presented in a single or multiple columns?",
+        "answer": "Single"
+      },
+      {
+        "question": "What is the apparent style of the typeface used based on the overall visual appearance?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Does the text have any visual embellishments or decorative features?",
+        "answer": "None"
+      },
+      {
+        "question": "Judging by the visual appearance, what is the approximate size of the text compared to other labeling elements?",
+        "answer": "Large"
+      },
+      {
+        "question": "Considering the overall visual presentation, how would you describe the text's readability?",
+        "answer": "Clear"
+      },
+      {
+        "question": "From a visual perspective, does the image contain any other forms of graphics or illustrations besides the text?",
+        "answer": "No"
+      },
+      {
+        "question": "Based purely on the visual aspect, does the text seem to indicate a comprehensive list or a partial one?",
+        "answer": "Comprehensive"
+      },
+      {
+        "question": "Considering the visual characteristics, does the text provide detailed information or just general info?",
+        "answer": "Detailed"
+      },
+      {
+        "question": "Considering the visual style and font, does the text appear formal or informal?",
+        "answer": "Formal"
+      },
+      {
+        "question": "From a visual assessment, is the text's arrangement neat or cluttered?",
+        "answer": "Neat"
+      }
+    ]
+  }
+]

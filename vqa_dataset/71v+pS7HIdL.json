@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/cf/cfabf1b9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the sheets depicted in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the overall arrangement, what is the apparent shape of each individual sheet?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on visual texture, what is the likely surface finish of the plain sheets?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the patterned sheets, what kind of design is visible on their surface?",
+        "answer": "Diagonal"
+      },
+      {
+        "question": "Judging by the image, what appears to be the material of these sheets?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Focusing on the patterned sheets, what color is the pattern printed on them?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the stack, what is the implied thickness of each individual sheet?",
+        "answer": "Thin"
+      },
+      {
+        "question": "From the image alone, what is the apparent overall quantity of sheets?",
+        "answer": "Many"
+      },
+      {
+        "question": "Judging by the edges, are the sheets shown cut precisely or roughly?",
+        "answer": "Precisely"
+      },
+      {
+        "question": "Considering the image, are the sheets uniformly sized or varied in dimensions?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "By visual inspection, is there a visible adhesive component on any sheets?",
+        "answer": "Yes"
+      },
+      {
+        "question": "From visual observation, do the sheets seem stiff, soft or flexible?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "What appears to be the state of the sheets - creased or flat?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Observing the image, is the surface of the sheets glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based solely on the visual, is the surface of any of the sheets textured or plain?",
+        "answer": "Both"
+      }
+    ]
+  }
+]

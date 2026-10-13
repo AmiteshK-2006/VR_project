@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/53/53d993ad.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color visible on the displayed side of the product?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the secondary color shown on the folded-over portion?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "Considering the overall appearance, what is the apparent material of this item?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Based on its visual form, what is the most accurate description of the product's shape?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Observing the image closely, is there any noticeable texture on the surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging from the image, how many distinct sides does this product possess?",
+        "answer": "Two"
+      },
+      {
+        "question": "Does the item exhibit any visible patterns, designs, or markings?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the product's flexibility, is it likely pliable or rigid?",
+        "answer": "Pliable"
+      },
+      {
+        "question": "Given its appearance and the fold, what is the implied function of this product?",
+        "answer": "Placemat"
+      },
+      {
+        "question": "From the image, what is the general apparent thickness of the product?",
+        "answer": "Thin"
+      },
+      {
+        "question": "What is the overall aesthetic impression of this product's color scheme?",
+        "answer": "Bicolour"
+      },
+      {
+        "question": "Does the material appear to have a glossy or matte finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging by the image, how would you describe the product's edges?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Considering its visual characteristics, could it be described as a single layer or multilayer item?",
+        "answer": "Double"
+      },
+      {
+        "question": "Does the image provide any indication of the product's weight or heaviness?",
+        "answer": "Light"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d5/d5ef805d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular layout and the prominent use of bold lettering for key nutritional information, what is the primary format of this displayed data?",
+        "answer": "Table"
+      },
+      {
+        "question": "Observing the text's consistent font style and size, aside from the title, what is the nature of the typography used throughout the nutritional information?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Focusing on the left-aligned column, what term specifies the amount of each nutrient shown per serving?",
+        "answer": "Amount"
+      },
+      {
+        "question": "Looking at the right-aligned numerical values, what unit is consistently used to measure the quantity of 'Total Fat', 'Cholesterol', and 'Sodium'?",
+        "answer": "Milligrams"
+      },
+      {
+        "question": "Examining the parenthetical expressions next to each nutrient value, what percentage-based dietary reference is referenced within these values?",
+        "answer": "DV"
+      },
+      {
+        "question": "Focusing on the 'Calories' entry, what numerical value is specified for each serving?",
+        "answer": "120"
+      },
+      {
+        "question": "Looking at the 'Protein' entry, what unit of measurement is shown for the protein content of each serving?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Examining the 'Total Sugars' and 'Added Sugars' entries, what unit of measurement is consistently used?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Focusing on the textual components, what color is predominantly used for the lettering?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the visual layout, what is the overall color scheme of this nutritional label?",
+        "answer": "Monochromatic"
+      },
+      {
+        "question": "Observing the background of the label, what is the overall visual texture?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the visual organization of information, what is the primary method employed to structure nutritional facts?",
+        "answer": "Columns"
+      },
+      {
+        "question": "Observing the label, what is the overall style of the presented nutritional information?",
+        "answer": "Tabular"
+      },
+      {
+        "question": "Considering the layout's structure, what is the shape of the nutritional facts label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the font weight of the titles, what descriptive word best fits the font style of the main headings?",
+        "answer": "Bold"
+      }
+    ]
+  }
+]

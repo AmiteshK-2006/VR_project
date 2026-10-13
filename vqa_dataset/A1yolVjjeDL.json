@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b7/b725e466.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the image?",
+        "answer": "Green"
+      },
+      {
+        "question": "Considering the visible texture, what is the most likely material?",
+        "answer": "Fleece"
+      },
+      {
+        "question": "Based on the image, what is the overall appearance of the fabric's surface?",
+        "answer": "Fuzzy"
+      },
+      {
+        "question": "Describe the shade of green present in the provided fabric sample.",
+        "answer": "Dark"
+      },
+      {
+        "question": "From the image, what is the apparent texture of the fabric?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What kind of visual impression does the fabric's pile give?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Considering its appearance, how would you describe the fabric's nap?",
+        "answer": "Short"
+      },
+      {
+        "question": "What is the overall visual uniformity of the fabric's color?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Does the image suggest a sheen or gloss to the fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Observing the image, what is the apparent density of the fabric?",
+        "answer": "High"
+      },
+      {
+        "question": "How would you describe the visual depth of the fabric's texture?",
+        "answer": "Deep"
+      },
+      {
+        "question": "What term best describes the lack of significant patterning on the fabric?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Judging by its appearance, what is the general feel of the fabric?",
+        "answer": "Plush"
+      },
+      {
+        "question": "What is the apparent visual weight of the fabric based on the image?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "In terms of visual characteristics, how would you classify the fabric?",
+        "answer": "Woven"
+      }
+    ]
+  }
+]

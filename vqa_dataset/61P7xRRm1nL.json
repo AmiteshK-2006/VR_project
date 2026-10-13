@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/86/861aee63.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary textile composition of this fabric, as visibly indicated on the label?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "What is the secondary textile composition of this fabric, as visibly indicated on the label?",
+        "answer": "Polyamide"
+      },
+      {
+        "question": "Considering the label's text, what percentage constitutes the main fabric component?",
+        "answer": "Ninety"
+      },
+      {
+        "question": "Based on the label's text, what percentage makes up the secondary fabric component?",
+        "answer": "Ten"
+      },
+      {
+        "question": "What is the overall appearance of the visible label text, considering its style and font?",
+        "answer": "Printed"
+      },
+      {
+        "question": "What is the background color of the surface on which the text label is printed?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe the label's physical form, as evident in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent texture of the background surface where the label is placed?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "In terms of its alignment, how is the text on the label arranged?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the overall color scheme of the text on the label?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Considering the image, describe the texture of the printed text on the label?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "If considering the size relative to other objects, how would you describe the size of the label?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the apparent style of the typeface used for the label's text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering its format, what type of information does the visible label primarily present?",
+        "answer": "Composition"
+      },
+      {
+        "question": "Based on the image's clarity, how is the label's legibility?",
+        "answer": "Clear"
+      }
+    ]
+  }
+]

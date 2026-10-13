@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/05/051be19a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the background of the nutritional information panel, as displayed in the provided image?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the overall design, what is the primary visual style of the nutritional facts label shown?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the formatting style used for the numerical data presented on the nutrition facts panel?",
+        "answer": "tabular"
+      },
+      {
+        "question": "What is the text color of the 'Nutrition Facts' header, as clearly visible in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the presented nutritional information panel section of the product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on visual inspection, what seems to be the font type used for the majority of the text on the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Observing the image closely, what is the primary material implied by the nutritional label's appearance?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What kind of graphic elements, if any, are incorporated into the design of this nutritional label?",
+        "answer": "Lines"
+      },
+      {
+        "question": "What is the overall tone or feeling conveyed by the visual presentation of the nutritional information panel?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Describe the texture suggested by the appearance of the nutritional information panel in the given image.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the general layout or arrangement of the information presented on this nutrition facts label?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Does the nutritional label include any symbols or certifications aside from text?",
+        "answer": "Yes"
+      },
+      {
+        "question": "In terms of text size, how would you describe the size of the calorie count on the nutrition label?",
+        "answer": "Large"
+      },
+      {
+        "question": "Based solely on what is shown in the image, can you identify any specific brands or logos on the panel?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What color is the bottom border of the product packaging shown in the provided image?",
+        "answer": "Red"
+      }
+    ]
+  }
+]

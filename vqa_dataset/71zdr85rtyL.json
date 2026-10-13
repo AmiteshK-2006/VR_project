@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/33/3352cc2d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall hue and saturation, what single word best describes the liquid's color as visibly apparent in the bottle?",
+        "answer": "Amber"
+      },
+      {
+        "question": "What is the most prominent shape of the product container, ignoring minor details such as the cap?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Based on the visible texture at the bottom of the bottle, what is the apparent consistency of the contained product?",
+        "answer": "Viscous"
+      },
+      {
+        "question": "Disregarding any labels or markings, what material seems to constitute the main body of the product container?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Observing the cap's noticeable features, what color is predominantly displayed on top?",
+        "answer": "Red"
+      },
+      {
+        "question": "Focusing on the bottle's structural components, what is the primary design used for the closure?",
+        "answer": "Screw"
+      },
+      {
+        "question": "What is the apparent material of the bottle cap, given its visual appearance and texture?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "In terms of transparency, how would you describe the bottle's ability to let light pass through the liquid?",
+        "answer": "Translucent"
+      },
+      {
+        "question": "Based on visual appearance alone, what seems to be the primary functional purpose of the item shown?",
+        "answer": "Packaging"
+      },
+      {
+        "question": "Considering the text visible on the product's label, what type of information is predominantly featured there?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the general style of the font used for printing information on the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Observing the small particles visible near the bottom, what seems to be included in the product?",
+        "answer": "Sediment"
+      },
+      {
+        "question": "Considering the overall presentation, is this product mainly intended for commercial use or household use?",
+        "answer": "Household"
+      },
+      {
+        "question": "What seems to be the general form factor of the product, in relation to its usage method?",
+        "answer": "Liquid"
+      },
+      {
+        "question": "What is the primary visual identifier of the product as opposed to the label?",
+        "answer": "Bottle"
+      }
+    ]
+  }
+]

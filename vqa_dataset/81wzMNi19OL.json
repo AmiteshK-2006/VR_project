@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5a/5a165870.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color scheme used throughout the nutritional information panel?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the primary typeface used for displaying the 'Nutrition Facts' heading, exhibiting a clear visual hierarchy?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the image's visual structure, what is the arrangement of the nutritional information, whether it's vertical, horizontal, or another pattern?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Examining the visual layout, what textual element stands out with a significantly larger font size, visually grabbing attention?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Observing the provided nutritional data, what unit is consistently used for measuring quantities of fat, carbohydrates, and other nutrients?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Judging by the visual presentation, what symbol is repeatedly used after each nutrient's quantity to show the percentage of daily value?",
+        "answer": "Percent"
+      },
+      {
+        "question": "What is the texture of the background on which the nutritional information is printed, observed visually?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall shape of this nutritional fact panel, as apparent from the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "By observing the image, is the text aligned to the left, right, center, or justified?",
+        "answer": "Left"
+      },
+      {
+        "question": "Visually inspecting the image, what is the apparent weight or thickness of the lines used to separate different categories of nutritional information?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Judging by the visual clarity and contrast, what is the overall readability of the text presented within the nutrition facts panel?",
+        "answer": "High"
+      },
+      {
+        "question": "From a visual standpoint, how is the 'Nutrition Facts' title visually separated or highlighted from the rest of the content?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the visual appearance of the text's style, in terms of whether it's italicized, underlined, or presented in a regular style?",
+        "answer": "Regular"
+      },
+      {
+        "question": "Considering the visual design, what is the overall style of the text in terms of its visual appearance (e.g., formal, informal, modern, etc.)?",
+        "answer": "Formal"
+      },
+      {
+        "question": "Based on visual cues, what is the apparent position of the information regarding the serving size, relative to other parts of the panel?",
+        "answer": "Top"
+      }
+    ]
+  }
+]

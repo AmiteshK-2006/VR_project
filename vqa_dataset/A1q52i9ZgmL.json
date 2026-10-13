@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/da/da39a26c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the displayed fabric?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the visual texture, what is the fabric's apparent weave type?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Based on the image, what is the overall visual impression of the fabric's surface?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Judging by the image, what is the general appearance of the fabric's fibers?",
+        "answer": "Linear"
+      },
+      {
+        "question": "From the image alone, what is the apparent finish or treatment of the fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the fabric seem to possess a noticeably smooth or rough tactile quality?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the primary visual characteristic of the fabric's color?",
+        "answer": "Deep"
+      },
+      {
+        "question": "Judging solely from its appearance, what is the apparent density of the fabric?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Does the fabric show any visible pattern besides the weave structure?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the suggested overall visual weight or heaviness of the fabric?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "Based on the image, is the fabric's appearance primarily uniform or varied?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Does the displayed textile exhibit any noticeable sheen or gloss?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the main visual impression regarding the fabric's color saturation?",
+        "answer": "Rich"
+      },
+      {
+        "question": "Considering the image, how would you describe the color's brightness?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Based on appearance, is the fabric visibly transparent or opaque?",
+        "answer": "Opaque"
+      }
+    ]
+  }
+]

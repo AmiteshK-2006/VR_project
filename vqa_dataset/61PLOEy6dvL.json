@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/da/daffe0bb.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form factor, what is the dominant shape of the presented item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the primary color of the main body of the object shown?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Based on visual inspection, what seems to be the texture of the item's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the color of the prominent graphic design element on the item's face.",
+        "answer": "Orange"
+      },
+      {
+        "question": "What is the apparent material from which the main body of the object is constructed?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Focusing on the side profile, what color is the thin, vertical strip visible?",
+        "answer": "Black"
+      },
+      {
+        "question": "Characterize the style of the orange graphic design on the item; is it abstract or representational?",
+        "answer": "Abstract"
+      },
+      {
+        "question": "What seems to be the general condition of the object presented, considering any signs of wear?",
+        "answer": "New"
+      },
+      {
+        "question": "What is the apparent size of the object relative to common household items, for example, a smartphone?",
+        "answer": "Larger"
+      },
+      {
+        "question": "What would you classify the object as in terms of its general use or purpose, based on its form?",
+        "answer": "Container"
+      },
+      {
+        "question": "In the presented image, is the graphic design uniformly distributed or locally concentrated?",
+        "answer": "Concentrated"
+      },
+      {
+        "question": "What kind of visual effect does the contrast between the gray and orange create?",
+        "answer": "High"
+      },
+      {
+        "question": "Considering the presence of the black strip, is there any sign of mechanism or moving parts?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging solely from the image, does the object appear to have any noticeable markings aside from the design?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the overall impression, what is the most likely function of this object?",
+        "answer": "Storage"
+      }
+    ]
+  }
+]

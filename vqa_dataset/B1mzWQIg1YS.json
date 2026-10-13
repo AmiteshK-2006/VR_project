@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f5/f5b44a1f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric covering the visible portion of the object?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the overall textural appearance of the fabric?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Describing the visible portion, what is the primary geometric form of the object?",
+        "answer": "Cuboid"
+      },
+      {
+        "question": "What seems to be the main material used in the construction of the visible part?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Considering the visible seam and edges, what is the apparent construction method?",
+        "answer": "Stitched"
+      },
+      {
+        "question": "Based on the visible weave, what is the apparent density of the fabric?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the visual impression regarding the softness or firmness of the fabric?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What secondary color is subtly interwoven within the fabric's main color?",
+        "answer": "Black"
+      },
+      {
+        "question": "Observing the edges, what is the appearance regarding the fabric's finish?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Considering the image's resolution, what level of detail is visible in the weave?",
+        "answer": "High"
+      },
+      {
+        "question": "What does the uniformity of the fabric's color suggest regarding its dyeing?",
+        "answer": "Even"
+      },
+      {
+        "question": "Based on the image, is there any visible pattern in the fabric weave beyond texture?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the nature of the visible seams, are they straight or irregular?",
+        "answer": "Straight"
+      },
+      {
+        "question": "Based on the image quality, how sharply defined are the edges and corners?",
+        "answer": "Sharp"
+      },
+      {
+        "question": "What is the implied level of craftsmanship indicated by the visible stitching?",
+        "answer": "Fine"
+      }
+    ]
+  }
+]

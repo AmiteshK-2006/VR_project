@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/78/78ff3c32.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary text displayed prominently across the top of the nutrition facts label?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Considering the overall structure, what type of information is presented in the rectangular sections?",
+        "answer": "Facts"
+      },
+      {
+        "question": "What is the numerical value indicated for the serving size in grams, as clearly visible on the label?",
+        "answer": "6.8g"
+      },
+      {
+        "question": "What is the numerical value for calories per serving, prominently displayed near the top right?",
+        "answer": "20"
+      },
+      {
+        "question": "Considering the text and values present, what is the unit of measurement for sodium content shown?",
+        "answer": "mg"
+      },
+      {
+        "question": "In the context of this label, what is the unit of measurement for total fat content?",
+        "answer": "g"
+      },
+      {
+        "question": "What is the percentage daily value shown for total fat, based on the label's information?",
+        "answer": "1%"
+      },
+      {
+        "question": "What is the numerical value presented for the total carbohydrate content per serving?",
+        "answer": "4g"
+      },
+      {
+        "question": "What is the unit of measurement utilized for dietary fiber, as indicated on the label?",
+        "answer": "g"
+      },
+      {
+        "question": "What is the numerical value associated with the percentage daily value for dietary fiber?",
+        "answer": "4%"
+      },
+      {
+        "question": "Referring to the label's information, what is the unit of measurement for protein content?",
+        "answer": "g"
+      },
+      {
+        "question": "Based on the label, what is the unit of measurement shown for vitamin D content?",
+        "answer": "mcg"
+      },
+      {
+        "question": "What is the numerical value indicating the percentage daily value for vitamin D shown?",
+        "answer": "0%"
+      },
+      {
+        "question": "What is the unit of measurement used for iron content as displayed on the label?",
+        "answer": "mg"
+      },
+      {
+        "question": "What is the percentage daily value indicated for iron, as clearly shown on the label?",
+        "answer": "4%"
+      }
+    ]
+  }
+]

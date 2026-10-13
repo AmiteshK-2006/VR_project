@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/93/9314ce5a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color observed across the entire surface?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent surface material?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Based on the image, what is the overall visual texture of the material?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Judging by the image, what kind of finish does the surface appear to have?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Can you describe the visual grain or pattern visible on the surface?",
+        "answer": "Linear"
+      },
+      {
+        "question": "What is the most apparent visual characteristic of the material's surface?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Considering its visual appearance, what is the surface's apparent density?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Does the material's texture suggest any level of softness or harshness?",
+        "answer": "Rough"
+      },
+      {
+        "question": "From the image, how would you describe the visual uniformity of the texture?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Considering the visible surface characteristics, what is the apparent material weight?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "Based on visual inspection, is the material's texture visually even or uneven?",
+        "answer": "Even"
+      },
+      {
+        "question": "Does the visual texture indicate any discernible sheen or glossiness?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the overall visual impression of the material's surface treatment?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Based solely on visual analysis, is the material transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Considering the visual appearance, is the fabric pattern visibly distinct?",
+        "answer": "Subtle"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8d/8dfa89df.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the apparent texture of the upholstery material?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Describe the overall pattern or design of the fabric's surface?",
+        "answer": "Channel"
+      },
+      {
+        "question": "What kind of stitching or seams are visible on the fabric?",
+        "answer": "Button"
+      },
+      {
+        "question": "Based on the image, what is the likely material of the displayed item?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Does the image show any visible imperfections or marks on the fabric?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the image alone, what is the general shape of the object?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent visual quality of the fabric's surface finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging from the image only, what is the overall style of the product?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Does the image reveal any additional details about its design?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the degree of variation in the shading of the fabric?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "Does the image indicate if the fabric is potentially plush or thin?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Can you describe the visual density of the fabric's weave?",
+        "answer": "Tight"
+      },
+      {
+        "question": "What appears to be the main function of the visual component?",
+        "answer": "Upholstery"
+      },
+      {
+        "question": "Are there any noticeable patterns besides the horizontal channels?",
+        "answer": "No"
+      }
+    ]
+  }
+]

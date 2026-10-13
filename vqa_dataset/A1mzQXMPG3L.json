@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9e/9eaa33c5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the object depicted in the provided close-up image?",
+        "answer": "Gold"
+      },
+      {
+        "question": "Considering the visible texture, what is the apparent finish of the object's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on the visible edges and corners, what geometric shape best describes the object's form?",
+        "answer": "Cuboid"
+      },
+      {
+        "question": "Observing the image, what material appears to constitute the main body of the object?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Judging from the image's detail, what is the overall textural quality of the object's surface?",
+        "answer": "Rough"
+      },
+      {
+        "question": "From the visible grain and color variations, what type of wood seems to be used in its construction?",
+        "answer": "Pine"
+      },
+      {
+        "question": "Does the image reveal any noticeable imperfections or signs of wear on the object's surface?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent state of the object's surface – polished, unfinished, or something else?",
+        "answer": "Unfinished"
+      },
+      {
+        "question": "Can you describe the type of visible edges found on the object in the provided image?",
+        "answer": "Sharp"
+      },
+      {
+        "question": "What is the apparent manufacturing process suggested by the visible textures and edges?",
+        "answer": "Handcrafted"
+      },
+      {
+        "question": "Considering the uniformity of color, is the object's finish consistent across its visible surfaces?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the image show any clear signs of distressing or artificial aging techniques applied?",
+        "answer": "No"
+      },
+      {
+        "question": "From the detailed view provided, what can be said about the object's overall visual weight or presence?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "Given the image's close-up, what would you describe as the prevailing shade of the item's color?",
+        "answer": "Mustard"
+      },
+      {
+        "question": "What is the visual impact conveyed by the object's textured surface and overall hue?",
+        "answer": "Rustic"
+      }
+    ]
+  }
+]

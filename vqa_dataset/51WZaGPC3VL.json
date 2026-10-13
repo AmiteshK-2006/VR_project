@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0d/0dfb44ef.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the box's primary label?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What is the overall shape of the product's packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material appears to constitute the main packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the color of the box's main body?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What specific spice is indicated on the product label?",
+        "answer": "Onion"
+      },
+      {
+        "question": "What is the form of the spice inside the packaging?",
+        "answer": "Granules"
+      },
+      {
+        "question": "What is the texture of the main packaging surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is depicted on the label alongside the text?",
+        "answer": "Circles"
+      },
+      {
+        "question": "What color are the small circular design elements on the label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall style of the product label design?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Does the packaging appear to have any noticeable seams or joints?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is the text on the label primarily uppercase or lowercase?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "What kind of font style is used in the product's text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the illustrations, is the design playful or serious?",
+        "answer": "Playful"
+      },
+      {
+        "question": "What is the overall impression of the packaging design?",
+        "answer": "Clean"
+      }
+    ]
+  }
+]

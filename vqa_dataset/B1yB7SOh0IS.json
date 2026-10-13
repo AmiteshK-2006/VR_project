@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f9/f9060e59.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the overall texture of the fabric depicted in the provided image?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Considering the image's visual details, what material seems to be primarily used?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Based solely on visual inspection, what is the apparent weave type of the textile?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Does the fabric in the image exhibit a consistent pattern throughout?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging from the visual representation, what is the apparent density of the weave?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the most noticeable visual feature present in this fabric sample?",
+        "answer": "Texture"
+      },
+      {
+        "question": "Describe the visual appearance of the individual fibers in the fabric shown.",
+        "answer": "Intertwined"
+      },
+      {
+        "question": "Observing the image closely, how even is the color distribution throughout the fabric?",
+        "answer": "Even"
+      },
+      {
+        "question": "What kind of visual impression does the image's fabric's surface give off?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the image's visual characteristics, is the fabric's appearance matte or shiny?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on visual analysis, how would you describe the overall visual style of the fabric?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Based on visual characteristics, what is the level of visible glossiness?",
+        "answer": "Low"
+      },
+      {
+        "question": "Judging from visual inspection, how uniform is the fabric's color and texture?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Does the provided image of the fabric show any noticeable irregularities in its weave?",
+        "answer": "No"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/05/053722d4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall design, what is the primary function of this rectangular item, clearly showing nutritional information structured in columns and rows?",
+        "answer": "Label"
+      },
+      {
+        "question": "What is the dominant color used for the text indicating the nutritional values, sharply contrasting the white background?",
+        "answer": "Black"
+      },
+      {
+        "question": "Observing the text's arrangement, what is the general layout used to display the information in a clear and organized manner?",
+        "answer": "Table"
+      },
+      {
+        "question": "Focusing on the text's font style, what type of font is used, appearing clean and easy to read from a distance?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the visual appearance, what is the texture of the surface on which this information is printed?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Regarding the visual hierarchy, which nutritional component is highlighted most prominently through its size and positioning?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Observing the units used for various nutritional values, what unit is used most frequently to measure the quantity of various components?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Based on the presented data, what is the name of the element which indicates the percentage of the daily value?",
+        "answer": "DV"
+      },
+      {
+        "question": "In the context of the nutritional information displayed, what unit is employed to quantify the amount of cholesterol present?",
+        "answer": "Mg"
+      },
+      {
+        "question": "What is the shape of the outlined area where nutritional information is presented, which is clearly visible against a contrasting backdrop?",
+        "answer": "Rectangle"
+      },
+      {
+        "question": "Considering the nutritional information provided in the image, what is the name of the vitamin listed at the bottom of the table?",
+        "answer": "Potassium"
+      },
+      {
+        "question": "What is the primary material of this item that clearly holds the provided nutritional information?",
+        "answer": "Paper"
+      },
+      {
+        "question": "In the context of the data presented, what nutrient is denoted using the abbreviation 'Sugars'?",
+        "answer": "Sugars"
+      },
+      {
+        "question": "What is the descriptive term used to refer to the serving size, as indicated in the top section of the image?",
+        "answer": "Pieces"
+      },
+      {
+        "question": "Based on the visual elements, what is the term used to denote the total amount per packaging, as shown within the information structure?",
+        "answer": "Package"
+      }
+    ]
+  }
+]

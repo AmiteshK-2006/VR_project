@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a1/a1d44e17.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the top sheet, based purely on visual observation?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the apparent texture of the fabric, judging solely from the image's visual details?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering only the visual evidence, what is the apparent color of the bottom sheet?",
+        "answer": "Pink"
+      },
+      {
+        "question": "Based on what is visually apparent, what seems to be the material of the sheets?",
+        "answer": "Linen"
+      },
+      {
+        "question": "What is the shape of the visible portion of each sheet, judging from the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Examining the image, what type of branding or marking is present on the top sheet?",
+        "answer": "Logo"
+      },
+      {
+        "question": "What color is the branding/logo on the top sheet, as seen in the image?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Does the image show any visible seams or stitching details on the sheets?",
+        "answer": "Yes"
+      },
+      {
+        "question": "From the visual details alone, how many sheets are shown in the image?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the overall visual impression of the sheets' appearance\u2014considering only the image?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Describe the visual arrangement of the sheets in the provided image.",
+        "answer": "Layered"
+      },
+      {
+        "question": "Considering only visual appearance, what is the apparent finish or sheen of the fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the image show any visible patterns or prints on the sheets?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on visual characteristics, what is the overall aesthetic style of these sheets?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Are the folds in the sheets sharp or soft, judging only by visual appearance?",
+        "answer": "Soft"
+      }
+    ]
+  }
+]

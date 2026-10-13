@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/86/8643fcf4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color scheme of this product's label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary textual element used to convey information about this product's nutritional content?",
+        "answer": "Black"
+      },
+      {
+        "question": "Judging from the visual layout, what is the main organizational structure used to present the nutritional facts?",
+        "answer": "Table"
+      },
+      {
+        "question": "Based on the visual prominence, what is the most critical piece of information highlighted on this label?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Observing the visual design, what type of font is predominantly used throughout the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What visual element separates the different nutritional components from one another on the label?",
+        "answer": "Lines"
+      },
+      {
+        "question": "What is the visual representation of the amount per serving of this product?",
+        "answer": "Numbers"
+      },
+      {
+        "question": "Based on the visual information provided, what is the unit of measurement for the serving size?",
+        "answer": "Ounces"
+      },
+      {
+        "question": "What is the visual element used to indicate the percentage of daily value for each nutrient?",
+        "answer": "Percentages"
+      },
+      {
+        "question": "Based on visual observation, what specific nutritional component has the highest percentage of daily value?",
+        "answer": "Sugar"
+      },
+      {
+        "question": "What visual cue indicates the total number of servings in the product's container?",
+        "answer": "Numerals"
+      },
+      {
+        "question": "What is the visual indicator showing the gram weight of a single serving?",
+        "answer": "Numbers"
+      },
+      {
+        "question": "What visual element denotes the term 'Nutrition Facts' prominently on the label?",
+        "answer": "Text"
+      },
+      {
+        "question": "What visual style is used to display the daily value percentages?",
+        "answer": "Numbers"
+      },
+      {
+        "question": "Judging from the visual aspects, what is the overall shape of the label shown?",
+        "answer": "Rectangle"
+      }
+    ]
+  }
+]

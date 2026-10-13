@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/7a/7ab9d742.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the displayed item, as shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent surface finish of the product?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based solely on the image, what seems to be the overall shape of the object presented?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging from the image's visual details, what material appears to be used in the product's construction?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Does the image reveal any noticeable patterns or designs on the surface of the item?",
+        "answer": "None"
+      },
+      {
+        "question": "From the visual inspection, is the item depicted showing any visible seams or stitching?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on visual assessment, what is the apparent thickness or depth of the displayed item?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Considering the image's visual evidence, does the item appear to have any folds or creases?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the image display any visible branding, logos, or markings on the product?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the level of sheen or glossiness observed on the surface of the object in the picture?",
+        "answer": "Low"
+      },
+      {
+        "question": "Based on the picture alone, does the item appear to be soft or rigid to the touch?",
+        "answer": "Soft"
+      },
+      {
+        "question": "From a purely visual examination, is the object's color uniform across the visible area?",
+        "answer": "Yes"
+      },
+      {
+        "question": "According to the visual information available, is there any discernible texture variation on the surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the visual details, is the item shown in the image displaying any embellishments?",
+        "answer": "No"
+      },
+      {
+        "question": "Based only on the image's visual data, does the item appear to have any perforations or holes?",
+        "answer": "No"
+      }
+    ]
+  }
+]

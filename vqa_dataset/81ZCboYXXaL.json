@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1d/1d231a9a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall structure, what is the dominant geometric form of this nutritional information panel?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary color used for the background of this food label?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Examining the font style of the 'Nutrition Facts' heading, what design characteristic does it primarily exhibit?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Observing the text, what is the prevalent color of the numeric data displayed?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the visual texture, what type of material appears to be used for this food product label?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Focusing on the data presentation, what is the dominant method employed to organize the nutritional values?",
+        "answer": "Tabular"
+      },
+      {
+        "question": "In terms of visual hierarchy, which nutritional information category stands out the most?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Considering the visual cues, what is the apparent manufacturing technique used for the label's printing?",
+        "answer": "Offset"
+      },
+      {
+        "question": "Analyzing the textual elements, what is the overall writing style of the information presented on this label?",
+        "answer": "Formal"
+      },
+      {
+        "question": "What is the relative size of the text used for the 'Calories' value compared to the other values?",
+        "answer": "Larger"
+      },
+      {
+        "question": "What is the apparent surface finish of this nutritional information panel?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the level of detail in the text, what is the level of clarity and legibility of the printed nutritional information?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the visual alignment of the columns within the tabular nutritional data?",
+        "answer": "Left"
+      },
+      {
+        "question": "Judging by the arrangement and density of text, what is the overall visual impression created by the label?",
+        "answer": "Organized"
+      },
+      {
+        "question": "What is the relative weight (visual thickness) of the lines separating the various data categories within the table?",
+        "answer": "Thin"
+      }
+    ]
+  }
+]

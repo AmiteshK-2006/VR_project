@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/37/37d4b89d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the packaging visible in the provided image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the overall form, what is the primary shape of the product's package?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the image's visual cues, what appears to be the material of the product's outer wrapper?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Observing the packaging, what kind of finish does the surface appear to possess?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the product packaging display any noticeable text or labels on its exterior?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging by the visual details, what is the apparent texture of the packaging's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From the image, what is the general condition of the product's packaging depicted?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Focusing on the edges, what shape is the visible closure or seal of the package?",
+        "answer": "Triangular"
+      },
+      {
+        "question": "Can you describe the overall style of the product's packaging design?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Judging by the image, are there any noticeable graphic elements or designs on the packaging?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the packaging exhibit any visible signs of damage or wear?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the relative size of the printed text on the packaging compared to the overall dimensions?",
+        "answer": "Small"
+      },
+      {
+        "question": "Is the packaging primarily opaque, translucent, or transparent in terms of light transmission?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Based solely on visual analysis, what type of product seems to be contained within the package?",
+        "answer": "Wipes"
+      },
+      {
+        "question": "Considering the image, how many distinct sides of the package are clearly visible?",
+        "answer": "Two"
+      }
+    ]
+  }
+]

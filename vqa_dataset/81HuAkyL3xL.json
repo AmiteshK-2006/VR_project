@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f0/f00ab285.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout and textual content, what is the primary function of this product's packaging?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Observing the prominent numerical data presented, what is the approximate calorie count per prepared serving?",
+        "answer": "400"
+      },
+      {
+        "question": "Based on the visual hierarchy and font sizes, what is the most emphasized nutritional information?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Focusing on the detailed breakdown of nutrients, what is the dominant color used for highlighting key values?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Regarding the textual organization, what is the primary organizational pattern used to present the nutritional data?",
+        "answer": "Table"
+      },
+      {
+        "question": "Examining the overall color scheme of the packaging, what is the most frequently used color?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the visual elements, what is the overall shape of the packaging being depicted?",
+        "answer": "Rectangle"
+      },
+      {
+        "question": "Analyzing the textual content, what is the unit of measurement used for 'Serving size'?",
+        "answer": "Cup"
+      },
+      {
+        "question": "Considering the font styles employed, what is the general typeface used throughout the nutritional information?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Judging by the visual prominence and context of the text, what specific nutritional component is shown in the greatest quantity?",
+        "answer": "Sodium"
+      },
+      {
+        "question": "From the visual presentation of values, what nutrient is indicated as having a percentage value of '22%'?",
+        "answer": "Carbs"
+      },
+      {
+        "question": "Analyzing the textual presentation, what unit of measure is employed for the 'Protein' content?",
+        "answer": "Grams"
+      },
+      {
+        "question": "From the distinct visual cues, what is the format employed for presenting the percentage daily values of nutrients?",
+        "answer": "Percent"
+      },
+      {
+        "question": "Based on the visual prominence of the text, what is the specified number of servings contained within the product's packaging?",
+        "answer": "Three"
+      },
+      {
+        "question": "Observing the visual cues, what is the specified weight in grams of a single dry serving?",
+        "answer": "90"
+      }
+    ]
+  }
+]

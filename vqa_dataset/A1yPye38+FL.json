@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/aa/aa8d10b3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the textile shown in the provided image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the primary textural characteristic visually apparent in the image?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Considering the image, what kind of material composition is predominantly suggested?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Based on visual inspection, what is the overall pattern exhibited by the textile?",
+        "answer": "Linear"
+      },
+      {
+        "question": "What is the most prominent visual effect created by the arrangement of fibers?",
+        "answer": "Striped"
+      },
+      {
+        "question": "Judging from the image alone, what is the apparent fiber thickness within the textile?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Describe the visual density of the fibers as shown in the picture?",
+        "answer": "Dense"
+      },
+      {
+        "question": "From the picture, what is the visual impression of the textile's finish?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What type of visual contrast is observed between the threads in the image?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "What is the general appearance of the fibers' uniformity in the image provided?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Describe the visible direction of the textile's fibers, as shown in the image.",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "If you were to touch the product, what would be its predicted surface feel based solely on image?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What is the visual impression of the level of sheen on the product in the photograph?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on visual analysis of the image, is the design of the textile simple or complex?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Does the textile in the image show a high degree of visual intricacy in its pattern?",
+        "answer": "No"
+      }
+    ]
+  }
+]

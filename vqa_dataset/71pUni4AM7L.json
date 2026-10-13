@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1f/1fe78201.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the bottom sheet, judging by its visible surface area?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What color is the sheet directly above the yellow one, considering its exposed portion?",
+        "answer": "Orange"
+      },
+      {
+        "question": "Disregarding any slight shadowing, what color is the topmost sheet?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Based on the visible parts, what is the color of the sheet directly under the blue one?",
+        "answer": "Green"
+      },
+      {
+        "question": "What color is the sheet positioned between the orange and green sheets?",
+        "answer": "Red"
+      },
+      {
+        "question": "Considering their visible edges, what appears to be the overall texture of the sheets?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the image, what is the approximate shape of each individual sheet?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "From the visible portion of the stack, what is the apparent material of these sheets?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Considering the image, how many individual sheets are visibly present in the stack?",
+        "answer": "Five"
+      },
+      {
+        "question": "Do the sheets appear to be folded, crumpled, or otherwise non-flat?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Based on the visible edges, what is the apparent thickness of each sheet?",
+        "answer": "Thin"
+      },
+      {
+        "question": "What is the overall arrangement or organization of the sheets in the image?",
+        "answer": "Stacked"
+      },
+      {
+        "question": "Ignoring slight variations, are the sheets uniform in terms of visible size and shape?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Describe the overall visible pattern or design present across the sheet surfaces.",
+        "answer": "Solid"
+      },
+      {
+        "question": "Are there any noticeable markings, writing, or images on the visible surfaces of the sheets?",
+        "answer": "No"
+      }
+    ]
+  }
+]

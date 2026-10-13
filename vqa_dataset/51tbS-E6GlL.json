@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/96/96617882.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color observed across the entire visible surface?",
+        "answer": "Green"
+      },
+      {
+        "question": "Considering the image's visual texture, what is the apparent surface feel?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based solely on the visual evidence, what material is suggested by the image's appearance?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Judging from the visual uniformity, what is the overall pattern on the product?",
+        "answer": "Solid"
+      },
+      {
+        "question": "From a visual perspective, what is the overall shape of the displayed item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the subtle variations in tone, what is the general visual depth of the color?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Does the image show any distinct visual markings or discernible designs?",
+        "answer": "None"
+      },
+      {
+        "question": "Judging by the visual characteristics, what is the apparent level of sheen or gloss?",
+        "answer": "Slight"
+      },
+      {
+        "question": "Based on the visible surface, is the texture consistent or inconsistent across the product?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "What is the apparent visual weight or density of the material presented in the image?",
+        "answer": "Light"
+      },
+      {
+        "question": "Considering the visible surface, is there any noticeable grain or weave pattern present?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "If a tactile assessment were made, what would be the apparent softness of the material?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Does the image suggest any degree of transparency or opacity in the material shown?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What is the visual impression of the product's overall finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering only visual features, what would be the perceived drape of this material?",
+        "answer": "Drapey"
+      }
+    ]
+  }
+]

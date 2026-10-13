@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ff/ff5a1a5e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape and dimensions, what is the most prominent geometric attribute of this product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Observing the packaging's primary color scheme, which hue is most visually dominant on the surface area?",
+        "answer": "LightBlue"
+      },
+      {
+        "question": "Based on the visible text, which type of information dominates the larger part of the package?",
+        "answer": "Descriptive"
+      },
+      {
+        "question": "What is the most easily discernible feature used for tracking and identification on the package?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "What material appears to be used for the product's main structural component?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the visual format of the text used for conveying product details and instructions?",
+        "answer": "Print"
+      },
+      {
+        "question": "Focusing on the textual elements, can you describe the general size and style of the font used?",
+        "answer": "Small"
+      },
+      {
+        "question": "What color is the secondary band or section of the package, visible along the bottom?",
+        "answer": "Offwhite"
+      },
+      {
+        "question": "Regarding the packaging's surface texture, would you describe it as smooth, rough, or another texture?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Looking at the overall design, what is the primary function of the package's structure?",
+        "answer": "Protective"
+      },
+      {
+        "question": "Considering the content's orientation, how is the text primarily arranged on the packaging?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the dominant language of the information printed on the packaging?",
+        "answer": "English"
+      },
+      {
+        "question": "Observing the packaging, what color is the small text indicating warnings or precautions?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the general aesthetic style of the packaging; for instance, modern, vintage, minimalist?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What appears to be the most detailed section of the product's packaging?",
+        "answer": "Textual"
+      }
+    ]
+  }
+]

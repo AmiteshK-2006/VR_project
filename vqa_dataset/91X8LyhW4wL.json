@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/31/316c2724.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the pizza's topping visible on the box?",
+        "answer": "Green"
+      },
+      {
+        "question": "What kind of oven is specified for cooking this pizza, as shown on the box?",
+        "answer": "Wood-fired"
+      },
+      {
+        "question": "Based on the image, what is one of the main toppings of this frozen pizza?",
+        "answer": "Kale"
+      },
+      {
+        "question": "What is the other prominent topping visible on the pizza shown on the packaging?",
+        "answer": "Hummus"
+      },
+      {
+        "question": "What shape is the pizza depicted on the product's packaging?",
+        "answer": "Round"
+      },
+      {
+        "question": "What brand is explicitly mentioned on this pizza box's rear panel?",
+        "answer": "WholeFoods"
+      },
+      {
+        "question": "Considering the image, what is the overall color scheme of the product's packaging?",
+        "answer": "Green"
+      },
+      {
+        "question": "What type of food product is depicted on the provided product packaging image?",
+        "answer": "Pizza"
+      },
+      {
+        "question": "Describe the texture of the pizza's crust as visually suggested on the box.",
+        "answer": "Crispy"
+      },
+      {
+        "question": "What kind of preparation is implied by the words on the pizza box regarding the pizza?",
+        "answer": "Frozen"
+      },
+      {
+        "question": "What ingredient is mentioned in the description as being included for drizzling?",
+        "answer": "Olive"
+      },
+      {
+        "question": "What cooking instruction is highlighted for this pizza, according to the packaging?",
+        "answer": "Bake"
+      },
+      {
+        "question": "What culinary term describes how the pizza's crust is prepared, based on the packaging?",
+        "answer": "Fired"
+      },
+      {
+        "question": "What type of preparation is suggested in the cooking instructions for this product?",
+        "answer": "Baking"
+      },
+      {
+        "question": "What is the serving suggestion explicitly stated on the product box, referring to the hummus?",
+        "answer": "Optional"
+      }
+    ]
+  }
+]

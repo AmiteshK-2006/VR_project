@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e8/e81f7f9e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the text detailing the product's ingredients, as displayed on the provided label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the overall presentation, what is the most prominent word featured on the label?",
+        "answer": "INGREDIENTS"
+      },
+      {
+        "question": "Based on the visual information, what is the text's apparent font style, considering its overall design and characteristics?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Examining the text's arrangement, what is the most apparent way the text is organized on this label?",
+        "answer": "List"
+      },
+      {
+        "question": "What single word precedes the enumerated list of ingredients shown on the food label?",
+        "answer": "INGREDIENTS"
+      },
+      {
+        "question": "Judging solely from the visual appearance, what is the general background color of the label featuring the ingredient list?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the case of the lettering used in the word 'INGREDIENTS' on this product label?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Considering the visual attributes, what seems to be the most apparent text size used on the label?",
+        "answer": "Small"
+      },
+      {
+        "question": "Observing the label closely, what seems to be the general texture of the label's surface that displays this information?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What appears to be the style of the punctuation marks used in the ingredient list, considering their visual details?",
+        "answer": "Standard"
+      },
+      {
+        "question": "Is there any noticeable visual indication of a specific brand name or logo present on this label?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the label closely, what's the most discernible shape of the label in which the ingredient list is presented?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What does the visual representation indicate as the format or style of the ingredient list?",
+        "answer": "Paragraph"
+      },
+      {
+        "question": "Considering the given visual, what is the dominant layout direction of the text's presentation on the product label?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What can you visually determine as the language used on this product label for displaying its ingredients?",
+        "answer": "English"
+      }
+    ]
+  }
+]

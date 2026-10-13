@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/65/651dabfe.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout and organization, what is the primary purpose of this rectangular product, as visually evident?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the dominant color scheme used in the background of this rectangular nutritional facts label?",
+        "answer": "White"
+      },
+      {
+        "question": "Observing the text's visual characteristics, what is the font style predominantly used for the nutritional information?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Focusing on the visual hierarchy, what is the most prominent textual element displayed in this food label?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Based on the visual presentation of the text, what type of information is provided in the detailed list near the bottom of the label?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Judging from the visual appearance, what is the general size and shape of the nutrition facts panel?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "From a visual perspective, what is the format of the nutritional data presented in this product label, such as for fat or sodium?",
+        "answer": "Table"
+      },
+      {
+        "question": "Disregarding any textual content, describe the visual texture of the label's surface based on the image.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on visual observation alone, what is the apparent material of this product's label?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Looking solely at the visual design, what is the apparent weight or thickness of the nutrition information panel?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Considering the overall visual presentation, how would you describe the visual style of the design of this product's nutritional label?",
+        "answer": "Simple"
+      },
+      {
+        "question": "From a purely visual standpoint, can you describe the overall visual clarity of the information provided on the label?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the visual format used to separate the different nutritional components in the label?",
+        "answer": "Columns"
+      },
+      {
+        "question": "What is the apparent visual density of the information presented in the label?",
+        "answer": "High"
+      },
+      {
+        "question": "In terms of its visible design, what is the visual aesthetic of the label's design?",
+        "answer": "Functional"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2a/2accd835.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the air filters shown in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of each individual air filter?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the primary material used in the construction of these filters?",
+        "answer": "Fiber"
+      },
+      {
+        "question": "Describe the pattern visible on the filter's surface, considering its regularity and structure.",
+        "answer": "Grid"
+      },
+      {
+        "question": "Considering the stack of filters, how many filters are presented in this product?",
+        "answer": "Six"
+      },
+      {
+        "question": "Based on the visible markings, what size are the air filters?",
+        "answer": "14x20x1"
+      },
+      {
+        "question": "Considering the image, what is the texture of the filter surface (smooth, rough, etc.)?",
+        "answer": "Plisse"
+      },
+      {
+        "question": "Observing the edges of the filter, what is their general appearance?",
+        "answer": "Neat"
+      },
+      {
+        "question": "What color is the text printed on the air filter packaging?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What appears to be the function of the product shown in this image?",
+        "answer": "Filtration"
+      },
+      {
+        "question": "Describe the visible pattern on the filter's surface; use a single word for the pattern's visual arrangement.",
+        "answer": "Diamond"
+      },
+      {
+        "question": "What is the relative depth or thickness of each individual filter?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Based on the image, what is the general condition of the filters (e.g., new, used)?",
+        "answer": "New"
+      },
+      {
+        "question": "Considering the packaging arrangement, how are the filters stacked?",
+        "answer": "Neatly"
+      },
+      {
+        "question": "What kind of product is displayed?",
+        "answer": "Filters"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0a/0a3e3c01.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the liquid visible through the bottle?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the overall shape of the product's container?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What material appears to compose the primary container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the general form factor of this product?",
+        "answer": "Bottle"
+      },
+      {
+        "question": "Describe the cap's apparent material and finish?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What type of closure is present on the bottle's opening?",
+        "answer": "Flip-top"
+      },
+      {
+        "question": "Is the label on the bottle predominantly opaque or transparent?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What is the texture of the bottle's surface appear to be?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the printing, what kind of information is displayed prominently?",
+        "answer": "Text"
+      },
+      {
+        "question": "Based on the visual details, what might this product be intended for?",
+        "answer": "Shampoo"
+      },
+      {
+        "question": "Does the bottle show any noticeable discoloration or stains?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the appearance of the text on the product's label.",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the apparent state of the liquid within the bottle?",
+        "answer": "Liquid"
+      },
+      {
+        "question": "What is the apparent color of the bottle's cap?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the text, does the bottle present a barcode?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d4/d44317d4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the shoe's exterior, as visually apparent from the provided image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the overall visual appearance, what is the most apparent material composing the shoe's upper?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Based on the image, what is the most descriptive single word to describe the shape of the shoe's toe?",
+        "answer": "Round"
+      },
+      {
+        "question": "What is the visible style or type of the shoe depicted in the provided image?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Examining the image, what is the visible overall design of the shoe; is it adorned with patterns or embellishments?",
+        "answer": "Plain"
+      },
+      {
+        "question": "What visual characteristic best describes the texture of the shoe's surface, apparent from the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From the image alone, what is the apparent height of the shoe's heel, in relation to the sole?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Judging by the visible construction, what type of shoe closure is present on the shoe?",
+        "answer": "Slip-on"
+      },
+      {
+        "question": "What is the most apparent visible color of the shoe's interior lining, according to the provided image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Describe the visible shape of the shoe's sole from the provided image, using a single word.",
+        "answer": "Flat"
+      },
+      {
+        "question": "What is the apparent visual finish of the shoe's leather; is it glossy, matte, or another texture?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the visual appearance of the shoe's stitching or seams, if any, based on the provided image?",
+        "answer": "Hidden"
+      },
+      {
+        "question": "Based on the visual features, what is the apparent gender for whom this shoe design seems intended?",
+        "answer": "Women's"
+      },
+      {
+        "question": "Considering the overall visual impression, what is the single word that best describes the shoe's style?",
+        "answer": "Classic"
+      },
+      {
+        "question": "Describe the shoe's visible sole's flexibility and stiffness apparent in the image.",
+        "answer": "Flexible"
+      }
+    ]
+  }
+]

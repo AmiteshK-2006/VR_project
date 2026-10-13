@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/da/da542f16.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the textual information prominently displayed, what single ingredient is explicitly listed as a component of this product?",
+        "answer": "Parsley"
+      },
+      {
+        "question": "Based on the clearly visible text, in what type of facility was this product manufactured, as indicated by a processing note?",
+        "answer": "Facility"
+      },
+      {
+        "question": "Referring to the provided text, can you identify a specific tree-based product that this manufacturing facility also processes?",
+        "answer": "Nuts"
+      },
+      {
+        "question": "What dairy product is mentioned in the text describing the manufacturing facility’s processing capabilities?",
+        "answer": "Milk"
+      },
+      {
+        "question": "According to the text, which cereal grain is handled by the facility where this product was made?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "From the text indicating cross-contamination potential, what legume is processed in the same facility as this item?",
+        "answer": "Soy"
+      },
+      {
+        "question": "What is the primary text style utilized to present the product information, namely the ingredients and processing details?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Describe the overall color scheme employed in the presentation of the ingredients and processing information.",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the case of the text used to list the ingredients and processing information?",
+        "answer": "Upper"
+      },
+      {
+        "question": "What is the approximate font size of the 'Ingredients' and 'Produced in' labels in relation to the list that follows?",
+        "answer": "Larger"
+      },
+      {
+        "question": "What punctuation mark is visible at the end of the line stating the ingredient of this product?",
+        "answer": "Period"
+      },
+      {
+        "question": "Considering the layout, how many lines of text are used to convey the ingredients and processing information?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the style of the text indicating potential allergens within the manufacturing facility?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Observing the text's presentation, is the typeface of the label uniform throughout the entire information section?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the context, the presence of capitalized words ('Ingredients', 'Produced') suggests what type of text?",
+        "answer": "Label"
+      }
+    ]
+  }
+]

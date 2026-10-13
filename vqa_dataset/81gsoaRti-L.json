@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/cd/cdb5aa49.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall dominant color scheme visually apparent on this nutrition facts label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the text's visual presentation, what is the primary font weight used throughout the label?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Based on visual inspection, what is the primary organizational structure of the nutritional information presented?",
+        "answer": "Table"
+      },
+      {
+        "question": "Observing the image, what is the apparent orientation of the presented nutrition facts?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Judging by the visual appearance, what is the style of the numerical data in the label (e.g., numerals, words)?",
+        "answer": "Numerals"
+      },
+      {
+        "question": "From the visual observation, what measurement unit is predominantly used for the quantity values shown?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the visual appearance of the text's alignment within the individual data cells?",
+        "answer": "Right"
+      },
+      {
+        "question": "Considering the visual presentation of the daily values, what symbol is used to represent percentage?",
+        "answer": "Percent"
+      },
+      {
+        "question": "Based solely on visual observation of the provided image, what is the background texture of the nutrition label?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Judging from the image, what is the visual style of the heading \"Nutrition Facts\"?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Visually assessing the label, what is the overall visual texture of the label?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From the image, how many distinct columns of data are visually present in this nutrition label?",
+        "answer": "Two"
+      },
+      {
+        "question": "Observing the nutritional data visually, what is the largest numerical value displayed in the 'Amount per Serving' section?",
+        "answer": "90"
+      },
+      {
+        "question": "What is the visual appearance of the lines separating different nutritional data entries in the provided image?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Judging from the visual characteristics, what type of label is depicted in the image?",
+        "answer": "Nutritional"
+      }
+    ]
+  }
+]

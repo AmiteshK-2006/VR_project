@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/93/930ccde2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the product's packaging, as depicted in the provided image?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of the product's packaging, considering its form and dimensions?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material appears to constitute the primary packaging of this product, based on its visual characteristics?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Describing the texture of the packaging, is it smooth or does it exhibit any visible surface irregularities?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the packaging exhibit a matte finish or a glossy, reflective surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the packaging's design, does it primarily feature text or imagery, or both?",
+        "answer": "Text"
+      },
+      {
+        "question": "Focusing on the textual content, what is the dominant color of the printed text on the packaging?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based solely on visual observation, what specific type of food product is suggested by the packaging?",
+        "answer": "Candy"
+      },
+      {
+        "question": "From the visible textual information, what specific flavor variety is indicated on the package?",
+        "answer": "Cherry"
+      },
+      {
+        "question": "Does the packaging include any prominent brand name or logo that is clearly visible?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is there a barcode or any other identification markings present on the packaging?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on visual assessment, what is the apparent size of the product's packaging relative to common household objects?",
+        "answer": "Small"
+      },
+      {
+        "question": "Does the packaging display any nutritional information or ingredient details?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is the packaging sealed or open, based on its visual state in the provided image?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Considering the overall design aesthetic, would you describe the packaging as simple or elaborate?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c7/c7ed13b3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the primary item depicted?",
+        "answer": "Envelope"
+      },
+      {
+        "question": "What color is the majority of the visible envelope?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What appears to be the material of the envelope?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the shape of the label affixed to the envelope?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the texture of the envelope's surface.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What color is the label attached to the envelope?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary function of the item shown?",
+        "answer": "Mailing"
+      },
+      {
+        "question": "Is the envelope depicted open or closed?",
+        "answer": "Closed"
+      },
+      {
+        "question": "Considering the visible portion, how many flaps does the envelope possess?",
+        "answer": "One"
+      },
+      {
+        "question": "What kind of text is present on the label?",
+        "answer": "Address"
+      },
+      {
+        "question": "Does the envelope show any visible perforations or seams?",
+        "answer": "No"
+      },
+      {
+        "question": "Is the image showing the inside or outside of the envelope?",
+        "answer": "Outside"
+      },
+      {
+        "question": "Describe the overall tone of the envelope's color.",
+        "answer": "Light"
+      },
+      {
+        "question": "Does the label appear to be printed or handwritten?",
+        "answer": "Printed"
+      },
+      {
+        "question": "What is the primary design element of the envelope?",
+        "answer": "Plain"
+      }
+    ]
+  }
+]

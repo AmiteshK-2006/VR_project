@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/be/becb19e2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the container's lid, as shown in the provided image?",
+        "answer": "Purple"
+      },
+      {
+        "question": "Considering the image, what primary shape best describes the product's container?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Based on visual observation of the image, what appears to be the material of the container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the pattern printed on the container's label, as clearly visible in the image.",
+        "answer": "Geometric"
+      },
+      {
+        "question": "What color is the dominant background color of the label's pattern, as shown in the product image?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the prominent secondary color within the geometric pattern on the container's label?",
+        "answer": "Pink"
+      },
+      {
+        "question": "Focusing solely on the provided image, what is the texture of the container's lid?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the label closely, what kind of text is predominantly displayed on the container?",
+        "answer": "Informative"
+      },
+      {
+        "question": "What is the overall visual aesthetic or style of the product packaging, based on the image?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What appears to be the net weight of the product, as shown on the label in the image?",
+        "answer": "40g"
+      },
+      {
+        "question": "Judging from the image, what is the primary function of the labeling on the container?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Describe the style of the font used on the container's label, based on the image.",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based solely on the image, does the container have any visible handles or protrusions?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent condition of the product container, as shown in the image?",
+        "answer": "New"
+      },
+      {
+        "question": "What is the shape of the individual elements within the geometric pattern on the container?",
+        "answer": "Triangular"
+      }
+    ]
+  }
+]

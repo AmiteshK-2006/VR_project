@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b5/b5cf244a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual appearance, what is the dominant color of the product contained within the jar?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What is the apparent texture of the substance visible inside the transparent jar?",
+        "answer": "Granular"
+      },
+      {
+        "question": "Based on the jar's shape and construction, what would you describe its overall form?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What material seems to compose the primary container holding the product?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Observing the top of the jar, what material is the lid seemingly made of?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Judging by its visual consistency, what could be the likely state of the contents?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Examining the labeling, what seems to be the primary purpose or function of this item?",
+        "answer": "Sprinkles"
+      },
+      {
+        "question": "Considering the visual presentation, how would you characterize the overall size of the container?",
+        "answer": "Small"
+      },
+      {
+        "question": "Based on the color and texture, what is the likely nature of this product's use?",
+        "answer": "Culinary"
+      },
+      {
+        "question": "What type of closure mechanism does the jar appear to utilize?",
+        "answer": "Screw"
+      },
+      {
+        "question": "Considering the overall visual aspects, how would you classify its packaging?",
+        "answer": "Jar"
+      },
+      {
+        "question": "Judging from the clarity of the jar, is the interior content clearly visible?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the label's design, is it primarily focused on factual information or visual appeal?",
+        "answer": "Factual"
+      },
+      {
+        "question": "Based on its physical form and labeling, is the product intended for individual or bulk consumption?",
+        "answer": "Individual"
+      },
+      {
+        "question": "Can you identify any additional markings or symbols present on the jar's labeling?",
+        "answer": "Barcode"
+      }
+    ]
+  }
+]

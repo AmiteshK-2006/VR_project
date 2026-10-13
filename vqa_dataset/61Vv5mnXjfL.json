@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f2/f250cbc6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what is the dominant color scheme of this food product's nutritional information panel?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the primary font style used for the 'Nutrition Facts' heading, and other main headings on this label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the visual appearance, what is the overall shape of this nutrition facts label section?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging by the visual texture, what is the surface finish of the area where the nutritional information is printed?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the size and arrangement of the textual elements, what is the overall visual layout of the nutritional data on this food packaging?",
+        "answer": "Tabular"
+      },
+      {
+        "question": "What is the visual pattern or arrangement of the numerical values representing the nutritional components shown?",
+        "answer": "Columnar"
+      },
+      {
+        "question": "What is the style of the lines that separate the various components and their values in the presented data?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Examining the text closely, what is the type of unit used to represent the amount of 'Total Fat' in the provided nutritional data?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the predominant font weight of the calorie values that are explicitly displayed on this nutrition facts label?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Considering the visual context, what is the unit of measurement used to denote the quantity for 'Sodium' in this nutrition information?",
+        "answer": "Milligrams"
+      },
+      {
+        "question": "What is the font style and appearance of the percentage values shown next to each nutrient component?",
+        "answer": "Regular"
+      },
+      {
+        "question": "What style of visual representation is used to showcase the percentage of daily value for each nutrient?",
+        "answer": "Numerical"
+      },
+      {
+        "question": "In terms of visual prominence, what is the relative size and visual hierarchy of the 'Calories' value compared to other nutritional components?",
+        "answer": "Large"
+      },
+      {
+        "question": "Observing the structure of the provided information, what is the visual organization scheme used to distinguish between 'dry mix' and 'prepared' values?",
+        "answer": "Columns"
+      },
+      {
+        "question": "What is the visual characteristic of the text indicating the serving size and the corresponding weight information presented?",
+        "answer": "Italic"
+      }
+    ]
+  }
+]

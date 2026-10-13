@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/34/345f009a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the primary shape of this product shown in the image?",
+        "answer": "Oval"
+      },
+      {
+        "question": "Based on the visual texture, what material appears to be used for the product's sole?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Describe the dominant color presented across the entire surface of this item shown in the image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the general design pattern imprinted on the underside of the product shown?",
+        "answer": "Pebbled"
+      },
+      {
+        "question": "Judging from the image, what is the apparent finish or texture of the product's visible surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the image, can you describe the apparent flexibility of the depicted object?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Does the product exhibit any visible markings beyond the main design pattern?",
+        "answer": "No"
+      },
+      {
+        "question": "From this image alone, is there evidence of any stitching or seams on the item?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the picture, can you specify any other noticeable color besides the main one?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the overall thickness of the product shown in the image, considering only what can be visually assessed?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Observing the edges, what is the overall profile of this depicted item?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Judging by the image, does the product exhibit any signs of wear or damage?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the image provide enough information about the product's construction?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image, does the product appear to be hard or soft to the touch?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Based on what you see, what is the apparent purpose or function of this product?",
+        "answer": "Sole"
+      }
+    ]
+  }
+]

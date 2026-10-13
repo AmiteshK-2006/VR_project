@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/78/78fc820d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the product's packaging, primarily observed on the main label area?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the primary text describing the food product featured on the packaging?",
+        "answer": "Onions"
+      },
+      {
+        "question": "Considering the packaging material, what is the type of container used for this product?",
+        "answer": "Can"
+      },
+      {
+        "question": "What is the shape of the container holding the food product, ignoring any label details?",
+        "answer": "Cylinder"
+      },
+      {
+        "question": "Based on the text on the packaging, what specific preparation method does this product suggest?",
+        "answer": "Crispy"
+      },
+      {
+        "question": "What is the textual indication of the product's certification status regarding gluten content?",
+        "answer": "Free"
+      },
+      {
+        "question": "What additional flavoring is mentioned for the product on the container?",
+        "answer": "Salted"
+      },
+      {
+        "question": "What is the descriptive term used to specify the form of the onions in the product?",
+        "answer": "Pieces"
+      },
+      {
+        "question": "What is the term indicating the farming practice used for producing the main ingredient?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the brand name prominently displayed on the product's packaging?",
+        "answer": "365"
+      },
+      {
+        "question": "What is the general color of the illustrated onions on the label?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "Observing the graphical elements, what additional ingredients are subtly suggested by the illustrations?",
+        "answer": "Spices"
+      },
+      {
+        "question": "What is the unit of measurement specified for the net weight of the product on the label?",
+        "answer": "Oz"
+      },
+      {
+        "question": "What is the numerical value of the net weight in grams as indicated on the label?",
+        "answer": "170"
+      },
+      {
+        "question": "What is the small text indicating a certification related to the product's ingredients?",
+        "answer": "GF"
+      }
+    ]
+  }
+]

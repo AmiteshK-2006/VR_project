@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/64/6465888a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual layout, what is the dominant orientation of the provided text?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the primary font style used for the header 'INGREDIENTS'?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the visual presentation, what is the text's primary color?",
+        "answer": "Black"
+      },
+      {
+        "question": "Judging by the visual appearance, what kind of background is present on the label?",
+        "answer": "White"
+      },
+      {
+        "question": "Observing the text blocks, what type of listing is employed for the ingredients?",
+        "answer": "Bulleted"
+      },
+      {
+        "question": "Considering the size and prominence, which ingredient appears to be most emphasized?",
+        "answer": "Almonds"
+      },
+      {
+        "question": "Based on visual characteristics, what is the text's overall alignment style?",
+        "answer": "Left"
+      },
+      {
+        "question": "Analyzing the text blocks, what is the apparent font weight of the main headings?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Considering the visual density, how would you characterize the overall text layout?",
+        "answer": "Dense"
+      },
+      {
+        "question": "By assessing the text's visual appearance, what is the apparent font size variation throughout?",
+        "answer": "Varied"
+      },
+      {
+        "question": "Looking at the visual structure, does the label include any warnings or advisories?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent casing (uppercase/lowercase) for the 'INGREDIENTS' label?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Based on visual cues, does the label include a non-GMO declaration?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging by visual presentation, are parenthesis used for any ingredient components?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the visual style, is there any use of bolding or italicizing for emphasis?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d3/d3c82b9e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the presented object?",
+        "answer": "Round"
+      },
+      {
+        "question": "What dominant color is prominently displayed on the item's surface?",
+        "answer": "Pink"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent surface finish of the object?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on its visual appearance, what is the likely material composition of the object?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Judging by the image, is there any visible pattern or design on the object's surface?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the image scale, what is the approximate size of the item?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the predominant color of the background against which the item is presented?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Does the object exhibit any visible markings, such as text or symbols?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the item's visual characteristics, is its surface glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the apparent overall dimension of the displayed object in centimeters?",
+        "answer": "One"
+      },
+      {
+        "question": "Does the object appear to be translucent or opaque based on its visual properties?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What is the visual uniformity of the object's color across its surface area?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Judging from the provided image, does the object possess any visible internal structure?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the provided visual information, does the item appear to be composed of multiple parts?",
+        "answer": "No"
+      },
+      {
+        "question": "Is there any visible damage or imperfection observable on the surface of the item?",
+        "answer": "No"
+      }
+    ]
+  }
+]

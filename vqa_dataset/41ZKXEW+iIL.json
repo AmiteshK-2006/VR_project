@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0c/0cc28de2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's font, what is the overall style of the lettering displayed prominently on the product?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the primary color of the text visible in the provided product image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the visible text, what is one of the main ingredients used in the product's production?",
+        "answer": "Tomatoes"
+      },
+      {
+        "question": "Examining the text, which acid is mentioned as an ingredient in the product?",
+        "answer": "Citric"
+      },
+      {
+        "question": "According to the label, in what type of facility was this item produced?",
+        "answer": "Milk-processing"
+      },
+      {
+        "question": "What is the chemical compound explicitly listed as a component of this product?",
+        "answer": "Chloride"
+      },
+      {
+        "question": "What adjective describes the tomatoes listed as an ingredient on the product's label?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What type of label is shown in the image, based on its content and appearance?",
+        "answer": "Ingredient"
+      },
+      {
+        "question": "Focusing on the textual information, what is the juice used in manufacturing the product?",
+        "answer": "Tomato"
+      },
+      {
+        "question": "Considering the arrangement of the text, what is the overall alignment used on the label?",
+        "answer": "Left"
+      },
+      {
+        "question": "Considering the product description, what is the state of the tomatoes used?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the texture of the visible text on the presented product?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the visual elements, what is the color of the background where the text is printed?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the form of the information presented on this product?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the overall case of the lettering found on the visible label?",
+        "answer": "Uppercase"
+      }
+    ]
+  }
+]

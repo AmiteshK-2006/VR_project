@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/17/175bb530.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color displayed prominently across the entire surface of the presented text?",
+        "answer": "Green"
+      },
+      {
+        "question": "Considering the overall visual presentation, what is the primary textual content depicted in this image?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What specific food ingredient is explicitly mentioned in the text, known for its vibrant green hue and origin from tea leaves?",
+        "answer": "Matcha"
+      },
+      {
+        "question": "Based on the visual appearance of the text, what would you describe the typeface style as, considering its overall weight and proportions?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What single word best describes the apparent texture of the text in the presented image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the image closely, what is the general arrangement of the text, considering the organization of its elements?",
+        "answer": "Linear"
+      },
+      {
+        "question": "What is the implied characteristic of the text's color, given its shade and intensity?",
+        "answer": "Bright"
+      },
+      {
+        "question": "Considering the image's focus, what is the primary purpose of the text displayed?",
+        "answer": "Informative"
+      },
+      {
+        "question": "From the appearance of the lettering, what level of contrast is observed between the characters and their background?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the apparent form of the text, regarding its physical presentation and layout?",
+        "answer": "Block"
+      },
+      {
+        "question": "Considering the visual presentation, what is the style of lettering used, in terms of its formal or informal character?",
+        "answer": "Formal"
+      },
+      {
+        "question": "What is the apparent state of the text, with regards to its visual clarity and legibility?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Given the overall visual impression, what term best describes the image's quality in terms of resolution and sharpness?",
+        "answer": "Sharp"
+      },
+      {
+        "question": "What single word describes the visual style of the text, based on its consistent spacing and alignment?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "If you were to describe the text's visual style in one word, emphasizing its aesthetic quality, what would that word be?",
+        "answer": "Clean"
+      }
+    ]
+  }
+]

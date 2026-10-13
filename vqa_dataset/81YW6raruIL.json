@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e3/e3f33cee.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual layout, what is the primary organizational structure employed to present the nutritional information?",
+        "answer": "tabular"
+      },
+      {
+        "question": "What is the dominant typographical style used throughout the nutrition facts panel, considering both weight and typeface?",
+        "answer": "sans-serif"
+      },
+      {
+        "question": "Observing the text's visual characteristics, what language is predominantly used in the nutritional information display?",
+        "answer": "English"
+      },
+      {
+        "question": "Examining the visual presentation, what metric unit is primarily utilized for quantifying the nutritional content?",
+        "answer": "grams"
+      },
+      {
+        "question": "Based on the visible text and its formatting, what is the total number of servings indicated as contained within the product's packaging?",
+        "answer": "sixteen"
+      },
+      {
+        "question": "Focusing on the textual arrangement, what is the specific designation used to introduce the quantitative nutritional data sections?",
+        "answer": "per"
+      },
+      {
+        "question": "What is the prominent visual cue that differentiates the values for 100g and 130g serving sizes?",
+        "answer": "columns"
+      },
+      {
+        "question": "Given the visual representation, how many different nutritional components are listed?",
+        "answer": "eight"
+      },
+      {
+        "question": "Judging by the text's appearance, what is the predominant color used to display the text?",
+        "answer": "black"
+      },
+      {
+        "question": "Based solely on the text's visual attributes, does the nutritional information panel contain any graphical elements?",
+        "answer": "no"
+      },
+      {
+        "question": "Observing the visual attributes of the text, is there any use of boldface or italicized text?",
+        "answer": "yes"
+      },
+      {
+        "question": "In terms of the text's visual presentation, is there any visible hierarchy in terms of font sizes?",
+        "answer": "yes"
+      },
+      {
+        "question": "What is the overall visual impression of the nutritional information’s arrangement?",
+        "answer": "organized"
+      },
+      {
+        "question": "Based on visual inspection, what is the approximate size of the nutritional information panel?",
+        "answer": "small"
+      },
+      {
+        "question": "Considering the visual layout, is the text left-aligned, right-aligned, or centered?",
+        "answer": "left"
+      }
+    ]
+  }
+]

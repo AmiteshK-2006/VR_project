@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a0/a0f8010e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the text displayed on the product's label?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the overall shape of the visible portion of the product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent texture of the product's label surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the primary subject of the information on the product's label?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the style of lettering used on the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the background color of the label, as seen in the image?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering the visual elements, what is the product type indicated by the label?",
+        "answer": "Food"
+      },
+      {
+        "question": "Based on the label's text, what is the main ingredient explicitly listed?",
+        "answer": "Chicken"
+      },
+      {
+        "question": "What type of information is provided in parentheses below the main ingredient?",
+        "answer": "Details"
+      },
+      {
+        "question": "What is indicated in the text regarding the production facility?",
+        "answer": "Processing"
+      },
+      {
+        "question": "What is the appearance of the text in terms of boldness or weight?",
+        "answer": "Regular"
+      },
+      {
+        "question": "What can be visually observed regarding the alignment of the text on the label?",
+        "answer": "Left"
+      },
+      {
+        "question": "Is there any visible imagery or logo besides the text on the label?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall visual impression of the labeling regarding its clarity?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What kind of information, in addition to the ingredients, is present on the label?",
+        "answer": "Warning"
+      }
+    ]
+  }
+]

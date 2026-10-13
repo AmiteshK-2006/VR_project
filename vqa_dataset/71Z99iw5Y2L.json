@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ad/adf4d1d2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the supplement facts label, as shown in the provided image?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the font style used for the primary label heading 'Supplement Facts', considering its visual characteristics?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Based on the image, what is the primary shape of the individual supplement units indicated on the label?",
+        "answer": "Capsule"
+      },
+      {
+        "question": "Observing the image, what is the text color used for the 'Supplement Facts' heading, judging from its visual appearance?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the specified serving size, as clearly indicated on the supplement label in the image?",
+        "answer": "Two"
+      },
+      {
+        "question": "What unit of measurement is used to denote the amount of fenugreek per serving, as visually evident on the label?",
+        "answer": "mg"
+      },
+      {
+        "question": "Based on the image, what is the numerical value representing the milligrams of Fenugreek per serving?",
+        "answer": "1200"
+      },
+      {
+        "question": "What is the stated number of servings contained within a single container of this supplement, based on the label image?",
+        "answer": "90"
+      },
+      {
+        "question": "Considering the image, what is the specified number of capsules that constitute a single serving of the supplement?",
+        "answer": "Two"
+      },
+      {
+        "question": "What term is used to describe the nature of the cellulose used as an ingredient in the supplement, as shown on the label?",
+        "answer": "Modified"
+      },
+      {
+        "question": "What specific type of plant seed is listed as an ingredient of the supplement in the image?",
+        "answer": "Fenugreek"
+      },
+      {
+        "question": "Judging by the image, what is the Latin name given for Fenugreek, as listed on the supplement label?",
+        "answer": "Trigonella"
+      },
+      {
+        "question": "What is the visual appearance of the text regarding the daily value (DV) of the supplement's components?",
+        "answer": "Italicized"
+      },
+      {
+        "question": "Based on the image, what kind of nut is mentioned in the warning about potential allergens?",
+        "answer": "Tree"
+      },
+      {
+        "question": "What other allergen besides tree nuts is specifically mentioned in the product warning, as depicted in the image?",
+        "answer": "Fish"
+      }
+    ]
+  }
+]

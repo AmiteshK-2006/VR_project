@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8c/8c857f88.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color scheme of the nutrition label depicted in the provided image?",
+        "answer": "White"
+      },
+      {
+        "question": "Focusing on the textual elements, what is the primary font style used throughout the nutrition information?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the visual layout, what is the primary organizational structure of the nutritional data presented in the image?",
+        "answer": "tabular"
+      },
+      {
+        "question": "Analyzing the image, what is the primary unit of measurement used for the various nutritional components?",
+        "answer": "grams"
+      },
+      {
+        "question": "Observing the visual design, what is the primary method of indicating percentage daily values for each nutrient?",
+        "answer": "numeric"
+      },
+      {
+        "question": "Considering the image, what is the predominant visual weight given to the 'Calories per serving' information?",
+        "answer": "high"
+      },
+      {
+        "question": "What is the visual style used to distinguish the headings from the data values in the nutrition facts label?",
+        "answer": "bold"
+      },
+      {
+        "question": "Describe the visual texture of the paper background on which the nutrition information is printed.",
+        "answer": "smooth"
+      },
+      {
+        "question": "Regarding the layout, what is the visual arrangement of the 'Serving Size' and 'Calories per serving' sections?",
+        "answer": "vertical"
+      },
+      {
+        "question": "What is the visual format used for the values representing the amount of each nutrient component?",
+        "answer": "numerical"
+      },
+      {
+        "question": "How would you describe the visual appearance of the overall nutritional label information in terms of legibility?",
+        "answer": "clear"
+      },
+      {
+        "question": "What visual cue indicates the daily value percentages of the listed nutrients?",
+        "answer": "percent"
+      },
+      {
+        "question": "Considering the visual structure, what is the shape of the overall nutrition facts section?",
+        "answer": "rectangular"
+      },
+      {
+        "question": "Based solely on visual inspection, what is the overall visual tone conveyed by the nutrition label's design?",
+        "answer": "informative"
+      },
+      {
+        "question": "From the visual information available, what is the apparent size of the nutrition facts label relative to a standard page?",
+        "answer": "small"
+      }
+    ]
+  }
+]

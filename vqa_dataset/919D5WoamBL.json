@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bf/bf480f4a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the leather wallet's exterior?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What material appears to be used for the wallet's construction?",
+        "answer": "Leather"
+      },
+      {
+        "question": "What is the overall shape or form factor of the displayed wallet?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What kind of closure mechanism is visible on the wallet?",
+        "answer": "Snap"
+      },
+      {
+        "question": "How many visible card slots are clearly present within the wallet?",
+        "answer": "Six"
+      },
+      {
+        "question": "What type of pocket, if any, is designed to hold identification documents?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Is there a noticeable texture to the leather of the wallet?",
+        "answer": "Grained"
+      },
+      {
+        "question": "Describe the apparent condition of the leather, new or used?",
+        "answer": "New"
+      },
+      {
+        "question": "What color is the light that indicates RFID scanning failure?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the apparent material of the RFID blocking device?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What is the shape of the RFID blocking device?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the color of the RFID blocking device?",
+        "answer": "Gray"
+      },
+      {
+        "question": "How many visible LED indicator lights are there on the RFID device?",
+        "answer": "One"
+      },
+      {
+        "question": "Does the wallet display any visible stitching details?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the interior of the wallet show any visible lining material?",
+        "answer": "No"
+      }
+    ]
+  }
+]

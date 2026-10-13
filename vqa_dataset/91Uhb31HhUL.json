@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a7/a7ae21d5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color scheme of this nutrition facts panel?",
+        "answer": "White"
+      },
+      {
+        "question": "Examining the text blocks, what language is predominantly used to present nutritional information?",
+        "answer": "English"
+      },
+      {
+        "question": "Focusing on the textual layout, what is the primary method employed to organize the data presented?",
+        "answer": "Columns"
+      },
+      {
+        "question": "Considering the typography, what type of font is primarily used in the nutrition facts panel?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Analyzing the textual arrangement, what units of measurement are utilized for nutritional values?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Based on the visual structure, what is the primary unit of measurement for energy values?",
+        "answer": "Kilojoules"
+      },
+      {
+        "question": "Focusing on the numerical values, what is the unit of measurement for calories?",
+        "answer": "Kilocalories"
+      },
+      {
+        "question": "Considering the formatting of the numbers, how many significant figures are typically used for each nutritional value?",
+        "answer": "Three"
+      },
+      {
+        "question": "Analyzing the textual content, what is the name of the first macro-nutrient listed in the table?",
+        "answer": "Energy"
+      },
+      {
+        "question": "Examining the bottom section of the panel, what is the approximate number of servings per pack mentioned?",
+        "answer": "Thirty-three"
+      },
+      {
+        "question": "Looking at the textual details, what is the weight of a single serving in grams?",
+        "answer": "Thirty"
+      },
+      {
+        "question": "From the visual details, what is the size of the text in relation to the size of the nutrition facts panel itself?",
+        "answer": "Small"
+      },
+      {
+        "question": "Considering the layout design, what is the relative vertical position of the 'Serving Size' details?",
+        "answer": "Bottom"
+      },
+      {
+        "question": "Analyzing the language used, what is the word used to denote the total number of servings?",
+        "answer": "Servings"
+      },
+      {
+        "question": "Observing the textual content, what is the word that specifies the weight of food?",
+        "answer": "Grams"
+      }
+    ]
+  }
+]

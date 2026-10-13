@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1d/1dcdff40.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the storage container shown in the image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What appears to be the primary material used in the construction of this storage unit?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Considering the overall form, what geometric shape best describes this storage item's structure?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on visual inspection, what is the apparent texture of the container's outer surface?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Observing the image, are there any visible fasteners or closure mechanisms present on the item?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging from the image, how many distinct seams are visibly present on the top of this storage item?",
+        "answer": "Two"
+      },
+      {
+        "question": "From the image provided, can you describe the apparent stiffness or flexibility of the storage unit?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Does the provided image show any discernible patterns or designs printed on the storage container's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "What seems to be the intended purpose of this item judging from its form and features?",
+        "answer": "Storage"
+      },
+      {
+        "question": "According to the image, what is the general size or scale of the product in relation to typical household items?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Based on what is visible, what is the overall condition of the storage unit presented?",
+        "answer": "New"
+      },
+      {
+        "question": "Considering the image, are there visible handles or grips to facilitate lifting or carrying?",
+        "answer": "No"
+      },
+      {
+        "question": "From the image alone, what can you say about the construction quality of this item?",
+        "answer": "Good"
+      },
+      {
+        "question": "Considering its shape and apparent size, what could be stored inside this container based on the provided image?",
+        "answer": "Clothes"
+      },
+      {
+        "question": "From the image, what is the visible depth of the storage container relative to its width?",
+        "answer": "Shallow"
+      }
+    ]
+  }
+]

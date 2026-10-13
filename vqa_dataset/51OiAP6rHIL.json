@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/78/783c7ffb.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the text displayed on the product's packaging?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the visible product packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the primary material of the product's container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describing the texture of the packaging, is it glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the style of the lettering used for the 'INGREDIENTS' label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the size of the text, would you describe it as large or small?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the orientation of the text on the product's label?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Does the label include any graphical elements besides the text?",
+        "answer": "No"
+      },
+      {
+        "question": "Is the background of the label predominantly patterned or solid?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Focusing on the list, what is the primary language of the labeling?",
+        "answer": "English"
+      },
+      {
+        "question": "What is the overall density of information presented on the label?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the visual appearance of the listed ingredients?",
+        "answer": "Textual"
+      },
+      {
+        "question": "Is the visual style of the text simple or ornate?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Considering the packaging, is there a visible brand logo or imagery?",
+        "answer": "No"
+      },
+      {
+        "question": "Is the text predominantly uppercase, lowercase, or mixed case?",
+        "answer": "Mixed"
+      }
+    ]
+  }
+]

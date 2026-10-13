@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ae/ae998728.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the font style and overall presentation, what is the primary purpose of this rectangular product's textual information?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the dominant color used for the text displaying the product's contents and other details?",
+        "answer": "Black"
+      },
+      {
+        "question": "Observing the text's arrangement, is there a clear distinction between the main product's components and supplementary details?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the text's arrangement, can you describe the format used to present the various components or elements?",
+        "answer": "List"
+      },
+      {
+        "question": "Looking at the text closely, what is the overall tone or style of the language used?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Does the text indicate any precautionary information related to the ingredients or potential allergens?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Focusing on the typography, is the font type used for the title 'INGREDIENTS' noticeably different from the ingredient list?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the structure, is the information about allergens and other ingredients presented as a distinct section?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the visual characteristic that separates the title section from the ingredient list itself?",
+        "answer": "Spacing"
+      },
+      {
+        "question": "Based on the text's visual layout, does the product's composition seem relatively simple or complex?",
+        "answer": "Complex"
+      },
+      {
+        "question": "Is the text's orientation predominantly horizontal or vertical?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the overall visual impression of the text's alignment, consistent or inconsistent?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Considering the text density, does it appear to be densely packed or spaced out?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Regarding the text's formatting, what is the general style of capitalization used in the list of ingredients?",
+        "answer": "Sentence"
+      },
+      {
+        "question": "From the visible text, what type of ingredient is notably emphasized among the others?",
+        "answer": "Tomatoes"
+      }
+    ]
+  }
+]

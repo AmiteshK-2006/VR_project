@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3d/3dc28ee9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the product's label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of the container holding the product?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What appears to be the material of the product's container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the texture of the label's design elements, based on visual observation.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What kind of printing is visible on the product's label?",
+        "answer": "Text"
+      },
+      {
+        "question": "Does the container have any noticeable markings besides text and graphics?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent closure type of the container shown in the image?",
+        "answer": "Screw-top"
+      },
+      {
+        "question": "What color are the primary design elements on the label apart from the text?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the visual style of the label design\u2014considering its patterns and color palette?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Considering its size and shape, for what purpose is this container likely intended?",
+        "answer": "Packaging"
+      },
+      {
+        "question": "Is there any indication of recycling symbols on the container?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What type of seal or tamper-evident feature is visible on the container?",
+        "answer": "None"
+      },
+      {
+        "question": "Does the image show any noticeable scratches or damage to the container?",
+        "answer": "No"
+      },
+      {
+        "question": "Is there any clear visual indication of the product's net weight or volume?",
+        "answer": "No"
+      },
+      {
+        "question": "Based purely on visuals, what is the estimated size of the product container relative to average household items?",
+        "answer": "Medium"
+      }
+    ]
+  }
+]

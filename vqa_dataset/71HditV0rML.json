@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/37/37eeea7e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the visual presentation, what is the primary textual content depicted in the image?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Based on the image, what is the overall style of the textual arrangement, considering its structure and formatting?",
+        "answer": "List"
+      },
+      {
+        "question": "What is the font style used for the main heading, considering its weight and typeface?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the predominant color of the text presented within the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Focusing solely on the image, does the text display any noticeable variations in font size or style?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the case used for the word 'Ingredients' at the beginning of the text block?",
+        "answer": "Title"
+      },
+      {
+        "question": "In the image, are there any noticeable indications of an ingredient's quantity or weight?",
+        "answer": "No"
+      },
+      {
+        "question": "What method of text organization is used in presenting the ingredient list, such as bullet points or numbering?",
+        "answer": "Paragraph"
+      },
+      {
+        "question": "Describe the visual arrangement of the text concerning its alignment within the image?",
+        "answer": "Left"
+      },
+      {
+        "question": "Are there any noticeable symbols or icons present alongside the textual content in the image?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the text in the image appear to contain any specific product information beyond ingredient details?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the main language used to present information in the provided image?",
+        "answer": "English"
+      },
+      {
+        "question": "Does the image contain any visible markings or notations indicating specific warnings, certifications, or dates?",
+        "answer": "No"
+      },
+      {
+        "question": "Is there any noticeable difference in the visual style between the main heading and the rest of the text?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging solely by the image, does the text follow a consistent format across the provided information?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

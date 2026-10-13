@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d6/d632e188.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the dominant shape of this item, as depicted in the provided image?",
+        "answer": "Oval"
+      },
+      {
+        "question": "What color is predominantly observed across the entire surface area of the object shown?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on visual assessment of the object's surface, what appears to be its primary material?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Observing the handle's texture, what descriptive term best captures its apparent surface quality?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Examining the spoon's bowl, what is its apparent design characteristic most evident from its silhouette?",
+        "answer": "Round"
+      },
+      {
+        "question": "Judging solely by visual characteristics, what is the item's most likely intended function?",
+        "answer": "Spoon"
+      },
+      {
+        "question": "In terms of its construction, how many distinct parts or sections does the product seem to possess?",
+        "answer": "Two"
+      },
+      {
+        "question": "From the visual data, does this object display any notable patterns or textural variations?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image, does the object exhibit any kind of visible markings or engravings?",
+        "answer": "No"
+      },
+      {
+        "question": "Regarding the overall visual impression, how would you describe the spoon's style?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Considering the apparent build, what level of apparent detail is present in this utensil?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "From visual inspection, is the object's surface glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Assessing the spoon's bowl, is it shallow or deep in profile?",
+        "answer": "Shallow"
+      },
+      {
+        "question": "Based on visual observation, does the handle show any form of ornamentation?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging solely from the image, what is the apparent weight or heft of this product?",
+        "answer": "Light"
+      }
+    ]
+  }
+]

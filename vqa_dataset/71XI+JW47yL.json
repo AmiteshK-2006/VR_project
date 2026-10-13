@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c3/c3975002.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the food product's visible surface?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What appears to be the overall shape of the packaged food item?",
+        "answer": "Oval"
+      },
+      {
+        "question": "What kind of packaging material seems to encase the product?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the texture, how would you describe the product's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Is there any visible text or labeling on the product's packaging?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What seems to be the general nature of the product inside the packaging?",
+        "answer": "Meat"
+      },
+      {
+        "question": "Are there any noticeable color variations or patterns on the product itself?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image, what might be the product's form or presentation?",
+        "answer": "Roast"
+      },
+      {
+        "question": "From the packaging's appearance, does it appear to be pre-cooked or raw?",
+        "answer": "Cooked"
+      },
+      {
+        "question": "Based on the packaging, does it suggest any particular type of meat?",
+        "answer": "Turkey"
+      },
+      {
+        "question": "Does the packaging indicate any particular brand or producer?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Can you identify any visible seals, markings, or other signs of processing?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the packaging provide clues about the product's weight or size?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the visible portion of the product suggest any visible fat or marbling?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the packaging use any discernible color coding or graphics?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

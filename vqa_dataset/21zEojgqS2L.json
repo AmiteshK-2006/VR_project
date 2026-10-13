@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b8/b8c0bb75.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary substance explicitly identified in the product's ingredients as visually presented on the label?",
+        "answer": "Milk"
+      },
+      {
+        "question": "Considering the visual presentation of the label, what specific type of milk is predominantly used as an ingredient?",
+        "answer": "Reduced"
+      },
+      {
+        "question": "Based on the visible label, what additional vitamin, besides vitamin D3, is listed as an ingredient in the product?",
+        "answer": "A"
+      },
+      {
+        "question": "What is the chemical form of the vitamin A listed in the product's visible ingredient list?",
+        "answer": "Palmitate"
+      },
+      {
+        "question": "What is the numerical designation or suffix for the vitamin D listed among the visible ingredients?",
+        "answer": "3"
+      },
+      {
+        "question": "Examining the label's text, what word immediately precedes the first listed ingredient?",
+        "answer": "Fat"
+      },
+      {
+        "question": "According to the label's visible text, what is the main component found in this item?",
+        "answer": "Milk"
+      },
+      {
+        "question": "What word on the label visually precedes the list of components?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the format of information presented on this label, concerning its composition?",
+        "answer": "List"
+      },
+      {
+        "question": "What word on the label visually indicates what components potentially cause allergic reactions?",
+        "answer": "Contains"
+      },
+      {
+        "question": "Observing the label, what is the overall visual layout of the information provided?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the color of the text that provides information about the product components?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the label, what is the general style of the text used to display the ingredients?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the visual size of the text on the food label, relatively speaking?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the overall tone of the label's visible text, concerning its style and design?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

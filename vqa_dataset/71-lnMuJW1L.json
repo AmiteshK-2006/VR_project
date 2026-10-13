@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/80/805633e1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual content displayed, what language is predominantly used in this product's description?",
+        "answer": "Japanese"
+      },
+      {
+        "question": "Based on the visual representation, what is the most apparent characteristic of the text's presentation style?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Focusing on the textual elements, describe the visual arrangement of the writing across the image.",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Observing the text closely, what can be inferred regarding the size of the text elements?",
+        "answer": "Small"
+      },
+      {
+        "question": "With respect to the typography, what would you characterize the overall style of the text?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Considering the visual presentation, how would you describe the density of the textual content within the image?",
+        "answer": "High"
+      },
+      {
+        "question": "In terms of visual perception, what color best describes the textual content in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "In terms of visual attributes, what is the primary form or shape of the text elements in the image?",
+        "answer": "Curved"
+      },
+      {
+        "question": "If considering the visual representation, what would you describe as the text's visual appearance?",
+        "answer": "Dense"
+      },
+      {
+        "question": "From a visual standpoint, describe the contrast between the text and the background of the image.",
+        "answer": "Sharp"
+      },
+      {
+        "question": "Describe the visual state or condition of the textual content presented within the image.",
+        "answer": "Clear"
+      },
+      {
+        "question": "Visually assessing the text, characterize the text's legibility and ease of reading.",
+        "answer": "Difficult"
+      },
+      {
+        "question": "Focusing on the visual details, what type of font is predominantly used?",
+        "answer": "Unknown"
+      },
+      {
+        "question": "From a visual perspective, how would you describe the length of the textual content shown in the image?",
+        "answer": "Long"
+      },
+      {
+        "question": "By visually inspecting the text, what style of writing is most commonly seen?",
+        "answer": "Script"
+      }
+    ]
+  }
+]

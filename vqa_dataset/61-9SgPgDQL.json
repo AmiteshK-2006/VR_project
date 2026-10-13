@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5a/5a98facb.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the text on the ingredient label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the presented ingredient list?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary material that the ingredient list is printed on?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Considering the font style, what is the overall impression of the label's design?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the primary text style used for the 'INGREDIENTS' heading?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the format in which the ingredients are listed?",
+        "answer": "List"
+      },
+      {
+        "question": "What type of information is conveyed within the rectangular area?",
+        "answer": "Text"
+      },
+      {
+        "question": "Considering the text's arrangement, what is the label's orientation?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the general background color of the ingredient label?",
+        "answer": "White"
+      },
+      {
+        "question": "What kind of font is used for the detailed ingredient list?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Is the text in the ingredient list predominantly uppercase or lowercase?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Considering the content, what is the label's function?",
+        "answer": "Informative"
+      },
+      {
+        "question": "What is the overall texture of the surface carrying the ingredient list?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the style and content, what is the intended audience for this label?",
+        "answer": "Consumers"
+      },
+      {
+        "question": "What is the visual appearance of the text?",
+        "answer": "Clear"
+      }
+    ]
+  }
+]

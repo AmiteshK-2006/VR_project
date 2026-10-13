@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/77/770c4525.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the image?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the overall textural appearance of the fabric sample presented?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Considering the weave and color, what is the likely material of this textile?",
+        "answer": "Linen"
+      },
+      {
+        "question": "Based on visual inspection, is the fabric's surface smooth or rough?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Describe the visual impression of the threads' density in the fabric sample?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Does the fabric image exhibit a noticeable pattern or print?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent uniformity of color across the fabric shown?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Considering the image, what is the implied weight of the fabric?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Observing the image, is there any sheen or shine visible on the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "From the visual, is the fabric's weave visibly loose or tight?",
+        "answer": "Tight"
+      },
+      {
+        "question": "What is the overall visual impression of the presented fabric sample?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Judging solely by its look, what is the fabric's implied drape?",
+        "answer": "Structured"
+      },
+      {
+        "question": "Can you describe the visual clarity of the fabric's weave?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Is the color of the fabric shown consistent across the whole image?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent finish of the fabric (e.g., matte, glossy)?",
+        "answer": "Matte"
+      }
+    ]
+  }
+]

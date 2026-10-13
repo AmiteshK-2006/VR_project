@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fa/fa243486.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the depicted items?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary material composition of these objects?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering their form, what is the overall shape of each individual unit?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Based on the image, how many individual items are visibly present in the picture?",
+        "answer": "Two"
+      },
+      {
+        "question": "What design feature is evident along the upper surface of each item?",
+        "answer": "Ribbed"
+      },
+      {
+        "question": "Observing the base, what type of connector or attachment point is visible?",
+        "answer": "Slot"
+      },
+      {
+        "question": "Describing the surface texture, is it glossy or matte in appearance?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging from their shape and design, what is the likely function of these parts?",
+        "answer": "Covers"
+      },
+      {
+        "question": "Looking closely, are there any noticeable markings or logos on the items?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the overall build, would you classify the construction as simple or complex?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the apparent size relative to a standard household object?",
+        "answer": "Small"
+      },
+      {
+        "question": "Based on the visual details, what is the manufacturing technique likely to be?",
+        "answer": "Molding"
+      },
+      {
+        "question": "What is the visible degree of surface finish on these parts?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From the image, is there evidence of any internal components?",
+        "answer": "No"
+      },
+      {
+        "question": "Do the objects appear to be symmetrical or asymmetrical in design?",
+        "answer": "Symmetrical"
+      }
+    ]
+  }
+]

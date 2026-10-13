@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a2/a254539e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the text displayed on the product's label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the label containing the product's ingredient list?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the typeface used, what style best describes the text on the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the apparent texture of the background surface behind the product's ingredient list?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by its visual appearance, what material is the label seemingly printed on?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Based on the label's appearance, what is the apparent finish of the label's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the orientation of the text in relation to the vertical axis of the container?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Describe the spacing between individual lines of text on the label, what is it?",
+        "answer": "Close"
+      },
+      {
+        "question": "Considering the visual density, how much space does the text occupy on the label?",
+        "answer": "Most"
+      },
+      {
+        "question": "Describe the general size of the font used for the ingredients' list, large or small?",
+        "answer": "Small"
+      },
+      {
+        "question": "Does the text on the label seem to use any visual formatting like bolding or italics?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the visual characteristics, is the label color uniform or varied?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What's the visual prominence of any decorative elements on the visible label?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the text arrangement, is it aligned to one side, centered, or justified?",
+        "answer": "Left"
+      },
+      {
+        "question": "What is the visual consistency of the font size throughout the ingredient list?",
+        "answer": "Consistent"
+      }
+    ]
+  }
+]

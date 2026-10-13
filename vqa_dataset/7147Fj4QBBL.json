@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f5/f5be76df.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the depicted phone case?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the dominant material of the phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the image, what is the overall shape of the phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging by the image, what is the surface texture of the phone case?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on visual inspection, does the case appear to have a matte or glossy finish?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What prominent logo is visible on the back of the phone case?",
+        "answer": "Apple"
+      },
+      {
+        "question": "What is the apparent level of thickness or slimness of the phone case?",
+        "answer": "Slim"
+      },
+      {
+        "question": "Does the phone case show any visible buttons or cutouts for ports?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is the case design intricate or minimalist in its visual presentation?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Judging from the image, how many layers or parts does the phone case seem to have?",
+        "answer": "One"
+      },
+      {
+        "question": "Considering the image, what is the overall style of the phone case's design?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Does the phone case seem to provide a raised edge or lip for screen protection?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on visual observation, is the case completely transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "From the image, does the phone case look flexible or rigid in its construction?",
+        "answer": "Rigid"
+      },
+      {
+        "question": "Considering visual details, is the case's color uniform or does it feature patterns?",
+        "answer": "Uniform"
+      }
+    ]
+  }
+]

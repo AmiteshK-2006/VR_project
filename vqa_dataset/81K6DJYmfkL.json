@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/68/68d1f0e9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular layout and textual information presented, what is the primary function of this item, as visually apparent?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Observing the prominent header at the top, what crucial information category does this rectangular item convey regarding food consumption?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Based on the visual arrangement of the data, what is the unit of measurement consistently used for quantifying various nutritional components?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Focusing on the numerical values alongside each nutrient, what metric is employed to indicate the daily intake percentage of each listed component?",
+        "answer": "Percent"
+      },
+      {
+        "question": "What is the color palette mainly used for the text on the label, differentiating it from the background and providing readability?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Examining the structure of the label, how many servings are indicated per container of the product described?",
+        "answer": "Twelve"
+      },
+      {
+        "question": "What specific unit is specified as the serving size of the food product described on the label?",
+        "answer": "Ounces"
+      },
+      {
+        "question": "Looking at the presented data, what is the total amount of calories per serving of the food product, as visually confirmed?",
+        "answer": "110"
+      },
+      {
+        "question": "What is the major nutrient category that occupies the most significant portion of the presented label, judging by the visual space allocation?",
+        "answer": "Fat"
+      },
+      {
+        "question": "Considering the text, what nutrient listed shows a percentage value higher than others indicating a more significant component?",
+        "answer": "Saturated"
+      },
+      {
+        "question": "What specific nutrient is labeled with a value of less than 1 gram, suggesting a relatively low quantity in the serving?",
+        "answer": "Fiber"
+      },
+      {
+        "question": "What macronutrient is listed prominently at the bottom of the label, and what is the amount indicated per serving?",
+        "answer": "Protein"
+      },
+      {
+        "question": "What mineral is shown with a value of 150mg, signifying a notable concentration per serving, according to this visual data?",
+        "answer": "Calcium"
+      },
+      {
+        "question": "Based on the visual layout, what is the overall shape or format of the nutritional information presented on the product's label?",
+        "answer": "Rectangle"
+      },
+      {
+        "question": "Disregarding the actual values, what is the general typographic style of the text used on the label, judging by its design and appearance?",
+        "answer": "Sans-serif"
+      }
+    ]
+  }
+]

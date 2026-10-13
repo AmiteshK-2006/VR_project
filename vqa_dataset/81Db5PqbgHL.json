@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/78/78c61ae1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what is the primary visual element dominating the provided image?",
+        "answer": "Text"
+      },
+      {
+        "question": "Based on the visual layout and textual organization, what is the apparent function or purpose of the presented information?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the dominant language used in the visual presentation of the information?",
+        "answer": "English"
+      },
+      {
+        "question": "Considering the font styles, are there any notable variations in font weight or size within the image?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the general color scheme of the text and background elements?",
+        "answer": "Black"
+      },
+      {
+        "question": "Are there any visual elements besides the text present in the image?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the organizational structure of the text, such as columns or rows?",
+        "answer": "Columns"
+      },
+      {
+        "question": "Are there any noticeable visual cues to separate different categories of information?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the style of the numbers presented in the visual data?",
+        "answer": "Arabic"
+      },
+      {
+        "question": "Considering the layout, what is the orientation of the text: horizontal or vertical?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Does the text appear to use any specific formatting such as bolding or italics?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the presentation, does the text seem to use any visual separators between items?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the overall visual density of the textual information presented?",
+        "answer": "High"
+      },
+      {
+        "question": "Is there evidence of any visual indicators like headers or titles?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the visible details, does the text appear to be digitally generated or manually written?",
+        "answer": "Digital"
+      }
+    ]
+  }
+]

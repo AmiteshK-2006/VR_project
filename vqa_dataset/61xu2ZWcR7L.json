@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1d/1df5c1d1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what single word best describes the text's formatting?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Based on the prominent word at the top, what is the primary subject of this text?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Observing the text's case, what is the capitalization style used for each ingredient?",
+        "answer": "Sentence"
+      },
+      {
+        "question": "Disregarding punctuation, what is the predominant visual characteristic of the text's appearance?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the visual style of the text's font, suggesting its purpose and context?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the visual density, how would you describe the text's arrangement on the page?",
+        "answer": "Compact"
+      },
+      {
+        "question": "Judging by the typography, what is the overall tone and style conveyed by the text?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Considering the spacing and arrangement, how would you describe the visual hierarchy of the ingredients list?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Focusing solely on the visual aspects, what is the text's length in terms of vertical space?",
+        "answer": "Long"
+      },
+      {
+        "question": "From a purely visual perspective, what is the predominant color palette used in the text?",
+        "answer": "Monochromatic"
+      },
+      {
+        "question": "Considering the visual composition, what is the implied format of this text section on a product?",
+        "answer": "Label"
+      },
+      {
+        "question": "In terms of visual style, what is the general appearance of the text's font weight?",
+        "answer": "Regular"
+      },
+      {
+        "question": "What is the visual texture implied by the smooth and even presentation of the text?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From a visual perspective, how many distinct sections can you identify in the text?",
+        "answer": "One"
+      },
+      {
+        "question": "Describe the visual kerning of the text based on the spacing between letters and words",
+        "answer": "Consistent"
+      }
+    ]
+  }
+]

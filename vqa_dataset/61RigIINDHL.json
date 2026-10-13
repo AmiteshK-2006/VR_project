@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/17/17312234.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the device's outer casing?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall geometric shape of the main docking station unit?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material appears to constitute the primary body of the dock?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "How many USB ports are visibly present on the device's exterior?",
+        "answer": "Four"
+      },
+      {
+        "question": "What type of connector is visibly present at the end of the attached cable?",
+        "answer": "USB-C"
+      },
+      {
+        "question": "Is there an HDMI port evident on the device's visible side?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Can you identify a VGA port among the visible ports on the device?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What type of network port is observable on the device's outer surface?",
+        "answer": "Ethernet"
+      },
+      {
+        "question": "Describe the texture of the device's visible surface; is it glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the cable's length, would you describe it as short or long?",
+        "answer": "Short"
+      },
+      {
+        "question": "What is the apparent finish of the device's casing; is it smooth or textured?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the device appear to have any noticeable branding or logos visible?",
+        "answer": "No"
+      },
+      {
+        "question": "Is the device's height notably larger or smaller than its width?",
+        "answer": "Smaller"
+      },
+      {
+        "question": "Are the ports positioned symmetrically on the docking station's sides?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the ports and cable, what is the probable function of this device?",
+        "answer": "Docking"
+      }
+    ]
+  }
+]

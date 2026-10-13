@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/cd/cd70b934.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the picture frame's outer border?",
+        "answer": "Black"
+      },
+      {
+        "question": "What color is the thin inner border of the frame, contrasting with the outer border?",
+        "answer": "Silver"
+      },
+      {
+        "question": "What appears to be the material of the picture frame, judging by its appearance?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the overall shape of the presented picture frame?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the visible texture, what is the likely surface finish of the frame?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What color is the backing material visible inside the frame?",
+        "answer": "Tan"
+      },
+      {
+        "question": "Based on the image, how many visible borders does the frame have?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the apparent style of the picture frame, considering its simplicity?",
+        "answer": "Modern"
+      },
+      {
+        "question": "Describe the visible width of the frame's outer border relative to its inner border?",
+        "answer": "Wider"
+      },
+      {
+        "question": "What seems to be the primary function of this object based on its structure?",
+        "answer": "Framing"
+      },
+      {
+        "question": "What kind of surface does the inner backing material show in the picture?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging by the image, is the frame design ornate or minimalist?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What can be inferred about the material's reflectivity from its appearance?",
+        "answer": "Low"
+      },
+      {
+        "question": "Does the frame appear to have any visible embellishments or patterns?",
+        "answer": "No"
+      },
+      {
+        "question": "Is the overall visual impression of the frame heavy or light?",
+        "answer": "Light"
+      }
+    ]
+  }
+]

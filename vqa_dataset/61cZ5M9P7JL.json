@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/de/dee3844c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color depicted in the provided care instructions label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the font style used, what is the overall textual appearance?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the primary language used in the presented text?",
+        "answer": "English"
+      },
+      {
+        "question": "Based on the symbols, what drying method is explicitly recommended?",
+        "answer": "Tumble"
+      },
+      {
+        "question": "What is the maximum washing temperature in Celsius, as indicated by the label?",
+        "answer": "40"
+      },
+      {
+        "question": "Does the label recommend ironing the item; yes or no?",
+        "answer": "No"
+      },
+      {
+        "question": "According to the label, should bleaching be used during laundering?",
+        "answer": "No"
+      },
+      {
+        "question": "What country of origin is specified on the care instructions?",
+        "answer": "India"
+      },
+      {
+        "question": "What is the suggested treatment for dark-colored items when washing?",
+        "answer": "Separate"
+      },
+      {
+        "question": "Describing the overall layout, what is the arrangement of the textual information?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the visual style of the symbols accompanying the text?",
+        "answer": "Geometric"
+      },
+      {
+        "question": "Excluding text, what is the visual element on the bottom left of the label?",
+        "answer": "Symbols"
+      },
+      {
+        "question": "Considering the content, what is the overall theme of the presented information?",
+        "answer": "Laundry"
+      },
+      {
+        "question": "What is the suggested drying location according to the care instruction?",
+        "answer": "Shade"
+      },
+      {
+        "question": "Regarding the label's visual design, is it highly ornamented or minimally designed?",
+        "answer": "Minimal"
+      }
+    ]
+  }
+]

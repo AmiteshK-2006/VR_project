@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fe/fe1a00a8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the presented nutrition facts label, considering its rectangular structure and the arrangement of its textual content within clearly defined sections?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the visual presentation, what is the dominant color palette used for the background of this nutrition label, primarily observing the shades and tones?",
+        "answer": "White"
+      },
+      {
+        "question": "What primary textual element dominates the upper portion of the nutrition label, indicating its core purpose?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Based on visual observation, what is the primary font style employed in the major headings of this nutritional information label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What numerical value, prominently displayed, represents the total caloric content per serving as shown in the provided image?",
+        "answer": "130"
+      },
+      {
+        "question": "What measurement unit is consistently used to quantify the amounts of various nutrients listed in this nutrition facts section?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the color of the text used for the values next to the nutrients listed on this nutrition facts label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the text style used for the numbers indicating percentage daily values in this nutrition facts label?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Visually assessing the layout, how many distinct sections are clearly delineated within the main body of the nutrition information?",
+        "answer": "Eight"
+      },
+      {
+        "question": "What is the visual texture or appearance of the surface of the nutrition facts label, considering its apparent smoothness and printing characteristics?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent material of the nutrition label, based on visual observation of its surface and overall presentation?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Based on visual assessment, what is the overall style of the typography used for the 'Nutrition Facts' header text, including its case and typeface?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Observing the layout, what is the visual alignment of the textual data within each nutritional component row on the nutrition facts label?",
+        "answer": "Left"
+      },
+      {
+        "question": "What is the general tone of the textual content in terms of color, avoiding descriptive language such as 'dark' or 'light'?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the nutritional information presented, what is the general style of layout used to organize and present the nutritional values for easy visual comprehension?",
+        "answer": "Tabular"
+      }
+    ]
+  }
+]

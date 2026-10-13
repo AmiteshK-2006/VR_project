@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/91/91d064dd.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's visual characteristics, what single word best describes the overall font style employed?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the image, what color is predominantly used for the text describing the ingredients?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Judging from the visual appearance, what is the case of the letters used in 'INGREDIENTS'?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "What single word describes the visual alignment of the text blocks in the image?",
+        "answer": "Left"
+      },
+      {
+        "question": "From a visual perspective, what is the text's orientation on the surface?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Visually assessing the text, what single word captures its general formatting?",
+        "answer": "Block"
+      },
+      {
+        "question": "Considering the spacing between lines, how would you visually characterize the line spacing?",
+        "answer": "Single"
+      },
+      {
+        "question": "Based solely on the visual characteristics, what single word best describes the background's color?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the visual texture of the background depicted in the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the visual arrangement, what is the single-word description of the label's format?",
+        "answer": "List"
+      },
+      {
+        "question": "Considering the visual style of the text, what single word best describes its appearance?",
+        "answer": "Plain"
+      },
+      {
+        "question": "If you were to visually describe the text's weight, what one word would you use?",
+        "answer": "Regular"
+      },
+      {
+        "question": "What single word describes the visual appearance of the ingredients' listing?",
+        "answer": "Detailed"
+      },
+      {
+        "question": "From a visual standpoint, how many major text sections are present in the image?",
+        "answer": "One"
+      },
+      {
+        "question": "Based on the visual information, what single word describes the text's density?",
+        "answer": "Compact"
+      }
+    ]
+  }
+]

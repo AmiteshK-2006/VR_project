@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a5/a5c4ed0c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary substance explicitly mentioned as an ingredient in this product's label?",
+        "answer": "Gelatin"
+      },
+      {
+        "question": "What additive is listed as being used in the production of this item?",
+        "answer": "Silicon"
+      },
+      {
+        "question": "What other additive appears in this product's ingredient list?",
+        "answer": "Magnesium"
+      },
+      {
+        "question": "According to this label, what shellfish type is contained within this product?",
+        "answer": "Shrimp"
+      },
+      {
+        "question": "Besides shrimp, what other type of shellfish is listed as an ingredient?",
+        "answer": "Crab"
+      },
+      {
+        "question": "What other crustacean is stated to be present in this product?",
+        "answer": "Crayfish"
+      },
+      {
+        "question": "What type of nut might be present due to the manufacturing process?",
+        "answer": "Tree"
+      },
+      {
+        "question": "What dairy product's presence is indicated by this label?",
+        "answer": "Milk"
+      },
+      {
+        "question": "What protein source is mentioned due to the shared processing facility?",
+        "answer": "Eggs"
+      },
+      {
+        "question": "What type of seafood is mentioned as possibly present due to cross-contamination?",
+        "answer": "Fish"
+      },
+      {
+        "question": "What grain product might have been handled in the production facility?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "What legume is mentioned in relation to potential cross-contamination?",
+        "answer": "Soy"
+      },
+      {
+        "question": "What is the overall color scheme or tone of the text displayed on this label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the background color of this product's ingredient label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall style or format of the text on the product label?",
+        "answer": "Block"
+      }
+    ]
+  }
+]

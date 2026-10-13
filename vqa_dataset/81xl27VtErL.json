@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/01/01a76680.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what is the primary color scheme of the nutrition facts panel?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the dominant textual element, visually representing the product's caloric content?",
+        "answer": "Calories"
+      },
+      {
+        "question": "What is the shape of the nutrition facts panel's container, as indicated by its boundaries within the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What kind of visual design feature is utilized to separate different nutritional components in the nutritional information?",
+        "answer": "Lines"
+      },
+      {
+        "question": "What is the textual format used to express numerical values, such as those related to nutrients?",
+        "answer": "Digits"
+      },
+      {
+        "question": "Describing the overall visual layout, what organizational method is applied to present the various nutritional data points?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the apparent text size, relative to the dimensions of the nutrition facts panel?",
+        "answer": "Small"
+      },
+      {
+        "question": "In terms of visual elements, what type of font is used for the heading 'Nutrition Facts'?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the visual representation of the unit of measurement used for serving size?",
+        "answer": "Cup"
+      },
+      {
+        "question": "What graphical element is utilized to signify percentage values in relation to the daily recommended intake?",
+        "answer": "Percent"
+      },
+      {
+        "question": "What is the visual style used for presenting the numerical data, such as those for carbohydrates or sugars?",
+        "answer": "Numeric"
+      },
+      {
+        "question": "What is the general appearance of the text in terms of visual clarity and legibility?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the visual texture of the background of the panel?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the contrast between the text and the background, is the textual information easily readable?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the visual material type, that the nutritional information is printed on?",
+        "answer": "Paper"
+      }
+    ]
+  }
+]

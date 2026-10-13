@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a1/a18e200b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the depicted milk jug?",
+        "answer": "White"
+      },
+      {
+        "question": "What material appears to constitute the milk jug container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the shape of the presented milk jug?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What type of milk does the label clearly specify?",
+        "answer": "Whole"
+      },
+      {
+        "question": "What vitamin is explicitly mentioned on the milk jug label?",
+        "answer": "D"
+      },
+      {
+        "question": "Describe the cap's color affixed to the top of the milk jug.",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the overall texture of the milk jug's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What design element is prominently displayed on the label?",
+        "answer": "Circular"
+      },
+      {
+        "question": "Is there a handle incorporated into the jug's design?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent size of this container of milk?",
+        "answer": "Gallon"
+      },
+      {
+        "question": "What is the color of the text on the milk jug label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Does the jug have any noticeable markings beyond the label?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the shape of the handle on the milk jug?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What is the dominant color of the brand logo?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What kind of information is detailed on the label's bottom section?",
+        "answer": "Nutrition"
+      }
+    ]
+  }
+]

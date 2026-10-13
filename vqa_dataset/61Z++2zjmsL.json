@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/56/56249e9e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout and textual organization, what is the primary purpose of this product's visual element?",
+        "answer": "Information"
+      },
+      {
+        "question": "What is the dominant color scheme employed across the entire visual presented?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the typography and text alignment, what is the intended style of the presented information?",
+        "answer": "Formal"
+      },
+      {
+        "question": "What type of visual elements are primarily used to present the product details?",
+        "answer": "Tables"
+      },
+      {
+        "question": "Considering the visual hierarchy, what is the most prominent text element showcased?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Judging by the visual structure, what specific dietary information is prominently displayed?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the visual format chosen for representing the nutrient quantities?",
+        "answer": "Numerical"
+      },
+      {
+        "question": "What kind of measurement units are predominantly used in representing the product attributes?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Judging from the visual style of the data, what is the implied audience for this product information?",
+        "answer": "Consumers"
+      },
+      {
+        "question": "What kind of text is used to present the information related to serving sizes?",
+        "answer": "Descriptive"
+      },
+      {
+        "question": "What kind of data is represented in the tabular columns labeled 'as packaged' and 'as prepared'?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the primary method employed to display the percentage values of the nutrients?",
+        "answer": "Numeric"
+      },
+      {
+        "question": "What is the overall tone conveyed by the visual presentation of the information?",
+        "answer": "Informative"
+      },
+      {
+        "question": "What is the visual style that is used to separate the different nutrient categories in the visual?",
+        "answer": "Lines"
+      },
+      {
+        "question": "What visual elements are used to present the numerical values associated with each nutrient?",
+        "answer": "Digits"
+      }
+    ]
+  }
+]

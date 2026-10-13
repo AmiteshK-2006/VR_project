@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/32/32c4ff5c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the dominant shape exhibited by the product container?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What is the primary color of the container, considering its overall appearance?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on visual inspection, what material seems to constitute the bottle?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Observing the closure, what type of cap does the container have?",
+        "answer": "Flip-top"
+      },
+      {
+        "question": "Focusing on the surface, what would you describe the texture of the bottle as?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Examining the labeling, what is the primary color used for the text?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the presentation, what is the overall style of the product's label?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Judging by the image, is the bottle transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What is the apparent volume or size of the container, judging from its visible dimensions?",
+        "answer": "Large"
+      },
+      {
+        "question": "Looking at the labeling, what kind of font is predominantly used for the text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the design elements on the label, what kind of imagery is included?",
+        "answer": "Abstract"
+      },
+      {
+        "question": "Based solely on the visuals, what is the implied function of the bottle?",
+        "answer": "Container"
+      },
+      {
+        "question": "Based on its shape, what is the most likely orientation of the product when used?",
+        "answer": "Upright"
+      },
+      {
+        "question": "From the visual cues, what kind of finish does the plastic appear to have?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the bottle appear to be single-use or reusable?",
+        "answer": "Reusable"
+      }
+    ]
+  }
+]

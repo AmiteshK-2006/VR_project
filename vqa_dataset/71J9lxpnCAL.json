@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/18/18624fc3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall shape, what geometrical form best describes the product's packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the dominant color scheme of the product's packaging, as visibly depicted?",
+        "answer": "White"
+      },
+      {
+        "question": "What primary material appears to constitute the product packaging?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Based on the visible text, what is the primary ingredient indicated on the package?",
+        "answer": "Seaweed"
+      },
+      {
+        "question": "Discerning the textual style, what descriptive term characterizes the typography used?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Observing the text layout, how would you categorize the arrangement of the ingredient list?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Examining the visible text, what word is prominently featured, suggesting the product's nature?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Focusing on the text's visual attributes, what adjective best describes the font's weight or boldness?",
+        "answer": "Regular"
+      },
+      {
+        "question": "Analyzing the package's overall presentation, what is the overall impression of its visual style?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Considering the textual content, what specific term denotes the type of seasoning included?",
+        "answer": "Wasabi"
+      },
+      {
+        "question": "Based on the label's visual cues, what word indicates the product's cultivation method?",
+        "answer": "Organic"
+      },
+      {
+        "question": "From the visible texture, what would best describe the surface of the product's packaging?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Focusing on the label's visual properties, what term describes the presence or absence of images?",
+        "answer": "Text-only"
+      },
+      {
+        "question": "Observing the packaging's details, are there any noticeable design embellishments or borders?",
+        "answer": "None"
+      },
+      {
+        "question": "Analyzing the label's visual characteristics, what word describes the overall visual clarity of the text?",
+        "answer": "Clear"
+      }
+    ]
+  }
+]

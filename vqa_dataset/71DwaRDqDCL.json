@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a5/a597dd50.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the stack of sheets?",
+        "answer": "Green"
+      },
+      {
+        "question": "What appears to be the primary material of these sheets?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Considering the overall dimensions, what is the approximate shape of each sheet?",
+        "answer": "Square"
+      },
+      {
+        "question": "Judging from the image, what is the texture of the surface of a sheet?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the neat stack, how would you describe the sheets' thickness?",
+        "answer": "Thin"
+      },
+      {
+        "question": "What is the apparent finish of the sheets' surface (matte or glossy)?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging by the image, how many sheets are visibly stacked together?",
+        "answer": "Thirty"
+      },
+      {
+        "question": "Does the image show any visible markings or patterns on the sheets?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the presentation, what is the likely intended use of these sheets?",
+        "answer": "Crafting"
+      },
+      {
+        "question": "Observing the edges, how would you describe the uniformity of the sheets?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What is the apparent opacity level of the individual sheets?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "From the image, are the sheets visibly perforated or pre-scored?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the image reveal any adhesive properties of the sheets?",
+        "answer": "No"
+      },
+      {
+        "question": "From the visual stack, what is the aspect ratio of each sheet?",
+        "answer": "One"
+      },
+      {
+        "question": "Judging by the image's light reflection, what is the surface sheen?",
+        "answer": "Low"
+      }
+    ]
+  }
+]

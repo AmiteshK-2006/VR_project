@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d0/d04782b9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall design, what is the primary visual characteristic of this product's packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visible text, what is the most prominent ingredient listed on the product?",
+        "answer": "Rice"
+      },
+      {
+        "question": "What appears to be the background color of the main label area?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "What is the dominant color of the text on this food label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Judging by the typography and arrangement, what is the style of the text used on the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What word is capitalized, signifying a key component?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Regarding the text, what is the general size of the font used on the label?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the apparent texture of the packaging material based on the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the format of the ingredient list, in terms of its presentation?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Does the label primarily use uppercase or lowercase letters?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Is the label's text evenly spaced, or is there any visible variation in spacing?",
+        "answer": "Even"
+      },
+      {
+        "question": "Does the packaging contain any noticeable images or graphics beyond text?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the material, does the packaging appear glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What word indicates potential presence of an allergen?",
+        "answer": "Milk"
+      },
+      {
+        "question": "What type of information does the text primarily convey?",
+        "answer": "Ingredients"
+      }
+    ]
+  }
+]

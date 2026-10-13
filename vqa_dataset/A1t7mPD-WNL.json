@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d2/d237f0ea.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color observed across the entire surface of the displayed material sample?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visible texture, what is the most prominent surface characteristic of this material?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Based on visual inspection, what appears to be the primary material composition of the sample?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Describe the visual impression of the texture; is it smooth, rough, or something else?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Observing the parallel lines, how would you characterize the directionality of the surface pattern?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Does the material appear to possess a sheen or luster? Describe the visual surface quality.",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging by the visual consistency, is the material's texture uniform or does it show variations?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Considering the image's resolution, how would you describe the fineness or coarseness of the texture?",
+        "answer": "Fine"
+      },
+      {
+        "question": "What is the overall visual impression of the color saturation – is it vibrant, muted, or something else?",
+        "answer": "Muted"
+      },
+      {
+        "question": "Based on the image, is the surface of the material reflective or non-reflective?",
+        "answer": "Non-reflective"
+      },
+      {
+        "question": "What is the apparent thickness of the material sample in the provided image?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Judging by the visual details, is the material's surface visibly patterned or plain?",
+        "answer": "Patterned"
+      },
+      {
+        "question": "Considering the color, how would you describe the visual tone: warm, cool, or neutral?",
+        "answer": "Cool"
+      },
+      {
+        "question": "From the image alone, does the material show any visible imperfections or irregularities?",
+        "answer": "None"
+      },
+      {
+        "question": "If this material were used for clothing, what might its drape or feel be like based on this close-up?",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

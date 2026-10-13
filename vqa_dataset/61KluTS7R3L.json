@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d4/d4d9539f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color scheme of this food label?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Focusing on the textual elements, what is the primary font style employed throughout the nutrition facts panel?",
+        "answer": "Serif"
+      },
+      {
+        "question": "Based on the image, what kind of food product does this label describe, as indicated by both text and the overall style?",
+        "answer": "Eggs"
+      },
+      {
+        "question": "Observing the layout, what is the organizational structure used to present the nutritional information?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the texture of the paper or material upon which this nutrition label is printed, as visibly apparent?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Judging by the visual clarity, what is the general condition or state of preservation of this printed label?",
+        "answer": "Used"
+      },
+      {
+        "question": "Considering the color saturation, describe the level of color intensity in the printed text and background elements.",
+        "answer": "Low"
+      },
+      {
+        "question": "From a design perspective, what is the overall visual style or aesthetic of this nutritional label?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Examining the typography, what is the size of the font used for the prominent nutritional values like calories and fat?",
+        "answer": "Large"
+      },
+      {
+        "question": "What is the apparent level of detail in the presentation of the nutritional information, considering the completeness and precision?",
+        "answer": "High"
+      },
+      {
+        "question": "Considering the visual arrangement, is the information presented in a structured or disorganized manner?",
+        "answer": "Structured"
+      },
+      {
+        "question": "What is the visual prominence of the 'Ingredients' section compared to other parts of the label?",
+        "answer": "Low"
+      },
+      {
+        "question": "Based on the visual cues, is the background of the nutritional label uniformly colored or textured?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Considering the visual style, what is the overall impression conveyed by the font choices and layout?",
+        "answer": "Classic"
+      },
+      {
+        "question": "Judging by the visible elements, is this label primarily designed to communicate detailed nutritional information or marketing messages?",
+        "answer": "Nutritional"
+      }
+    ]
+  }
+]

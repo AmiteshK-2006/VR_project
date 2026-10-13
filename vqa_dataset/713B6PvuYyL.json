@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/64/64d81bda.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout and textual content, what type of document is predominantly displayed in the provided image?",
+        "answer": "Recipe"
+      },
+      {
+        "question": "Focusing on the central recipe, what is the main protein featured in the dish depicted in the image?",
+        "answer": "Chicken"
+      },
+      {
+        "question": "Analyzing the image of the cooked dish, what color is the primary sauce coating the chicken pieces?",
+        "answer": "Red"
+      },
+      {
+        "question": "Observing the pasta dish presentation, what type of pasta is shown alongside the chicken in the final dish?",
+        "answer": "Noodles"
+      },
+      {
+        "question": "Based on the image of the cooking process, what type of cookware is utilized for the preparation of the chicken?",
+        "answer": "Skillet"
+      },
+      {
+        "question": "Examining the detailed steps, what is the primary cooking method indicated for the preparation of the chicken?",
+        "answer": "Saut\u00e9"
+      },
+      {
+        "question": "Referring to the image showing breading, what appears to be the coating applied to the chicken pieces before cooking?",
+        "answer": "Breadcrumbs"
+      },
+      {
+        "question": "Regarding the sauce preparation stage, what type of vegetable is noticeably present in the sauce?",
+        "answer": "Tomatoes"
+      },
+      {
+        "question": "Observing the final plate presentation, what culinary term best describes the chicken dish featured in the image?",
+        "answer": "Parmigiana"
+      },
+      {
+        "question": "Based on visual details in the egg preparation step, what is the consistency of the egg mixture?",
+        "answer": "Whisk"
+      },
+      {
+        "question": "Considering the presentation of the cooked dish, what seems to be the texture of the sauce?",
+        "answer": "Creamy"
+      },
+      {
+        "question": "Inspecting the image of the finished dish, what is the approximate color of the pasta?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "Focusing on the images of the raw ingredients, what is the approximate shape of the chicken breasts?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Observing the final product's presentation, describe the garnish that can be seen.",
+        "answer": "Parsley"
+      },
+      {
+        "question": "Considering the image showing the finished dish, which specific herb is visible?",
+        "answer": "Basil"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/79/79a903bf.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary ingredient conspicuously displayed on this food product label?",
+        "answer": "Corn"
+      },
+      {
+        "question": "What secondary sweetener is explicitly listed among the ingredients?",
+        "answer": "Sugar"
+      },
+      {
+        "question": "Considering the label's text, what specific type of sugar is used?",
+        "answer": "Cane"
+      },
+      {
+        "question": "What natural mineral additive is mentioned as part of the ingredients?",
+        "answer": "Salt"
+      },
+      {
+        "question": "According to the label's caution, which grain might be present as a contaminant?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "Based on the label's statement, which nut could be a cross-contaminant?",
+        "answer": "Peanuts"
+      },
+      {
+        "question": "Does the label indicate processing in a facility that handles tree nuts?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What adjective describes the corn employed in the product's formulation?",
+        "answer": "Milled"
+      },
+      {
+        "question": "What word describes the corn's agricultural status, as shown on the label?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What descriptor is used to qualify the cane sugar's origin?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What term describes the nature of the salt utilized in this product?",
+        "answer": "Sea"
+      },
+      {
+        "question": "What is the general style of the font used in this product label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What color is the background of this particular product label?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What color is the text on this product label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the product label shown in the image?",
+        "answer": "Rectangular"
+      }
+    ]
+  }
+]

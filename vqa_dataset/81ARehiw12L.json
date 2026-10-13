@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f9/f9a313f2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall shape and dimensions, what best describes the container's form factor?",
+        "answer": "Bottle"
+      },
+      {
+        "question": "What is the dominant color of the liquid inside the container, as perceived visually?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What material appears to constitute the primary packaging of this product?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on the visible text, what is the primary fruit ingredient?",
+        "answer": "Mango"
+      },
+      {
+        "question": "What is the apparent texture of the bottle's surface, judging by its visual characteristics?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What color is the cap affixed to the top of the plastic bottle?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the visible label, what seems to be the product's overall state or preparation?",
+        "answer": "Juice"
+      },
+      {
+        "question": "Describing the shape of the bottle, ignoring the cap, what is its most apparent form?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Observing the label's design, what is the prevalent color scheme used in its visual elements?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the apparent style of the labeling, minimalist or highly detailed?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the visible brand name or logo presented on the product's label?",
+        "answer": "Whole"
+      },
+      {
+        "question": "Considering the visual cues on the bottle, is it likely to be refrigerated?",
+        "answer": "Yes"
+      },
+      {
+        "question": "From what can be visually observed, is this a single serving or multi-serving container?",
+        "answer": "Multi"
+      },
+      {
+        "question": "From the visible textual information, what is the approximate calorie count per serving?",
+        "answer": "120"
+      },
+      {
+        "question": "Based on the visual characteristics of the label, what is the main flavor implied?",
+        "answer": "Tropical"
+      }
+    ]
+  }
+]

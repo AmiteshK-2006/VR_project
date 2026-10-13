@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ef/efa36daa.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme employed in the visual presentation of this product's nutritional information?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary text style used to display the nutritional data headings on the label?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the typeface used for the 'Nutrition Facts' heading at the top of the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What measurement units are used to express the quantity of 'Total Carbohydrate' and 'Sugars' in this product?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What term is used to describe the total amount of energy contained within a single serving of this product?",
+        "answer": "Calories"
+      },
+      {
+        "question": "What is the numerical value presented as the quantity of 'Dietary Fiber' in grams per serving, according to the information provided on the label?",
+        "answer": "3g"
+      },
+      {
+        "question": "What category of nutrients is listed directly below 'Total Fat' and 'Saturated Fat' in the given data?",
+        "answer": "Trans"
+      },
+      {
+        "question": "What specific nutrient is represented by the abbreviation 'Chol' in the displayed nutritional data?",
+        "answer": "Cholesterol"
+      },
+      {
+        "question": "What unit of measure is utilized to quantify the quantity of sodium present in a single serving, as indicated in the nutritional information?",
+        "answer": "mg"
+      },
+      {
+        "question": "What is the percentage daily value for 'Vitamin C' shown on the nutritional label for a single serving?",
+        "answer": "0%"
+      },
+      {
+        "question": "What percentage of the daily recommended intake of iron is provided by a single serving, according to the label's data?",
+        "answer": "6%"
+      },
+      {
+        "question": "What is the numerical value provided for the amount of protein, in grams, contained in one serving of this product?",
+        "answer": "4g"
+      },
+      {
+        "question": "What is the total number of servings contained within this particular package of the product?",
+        "answer": "8"
+      },
+      {
+        "question": "In what units is the serving size expressed on the nutrition label?",
+        "answer": "Packets"
+      },
+      {
+        "question": "What is the weight of one serving, as indicated on the nutrition label?",
+        "answer": "80g"
+      }
+    ]
+  }
+]

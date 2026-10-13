@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0c/0c8de728.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the textual information presented in the image, what is the primary ingredient listed?",
+        "answer": "Sugar"
+      },
+      {
+        "question": "Based on the visible text, what type of syrup is included in this product's composition?",
+        "answer": "Tapioca"
+      },
+      {
+        "question": "According to the image's text, what is one of the natural flavors used in this product?",
+        "answer": "Pomegranate"
+      },
+      {
+        "question": "What acid is mentioned as an ingredient in the provided textual data?",
+        "answer": "Citric"
+      },
+      {
+        "question": "As indicated by the text, what vegetable extract is used to add color?",
+        "answer": "Turmeric"
+      },
+      {
+        "question": "What is the oil mentioned among the ingredients in the given text?",
+        "answer": "Palm"
+      },
+      {
+        "question": "Based on the textual data, which fruit is mentioned as a flavor component?",
+        "answer": "Strawberry"
+      },
+      {
+        "question": "According to the textual content, what is another flavor used besides pomegranate and strawberry?",
+        "answer": "Lemonade"
+      },
+      {
+        "question": "What additive is listed to improve texture, often found in candies?",
+        "answer": "Cornstarch"
+      },
+      {
+        "question": "What chemical compound is mentioned, often used as a preservative?",
+        "answer": "Citrate"
+      },
+      {
+        "question": "What simple sugar is listed as an ingredient?",
+        "answer": "Dextrose"
+      },
+      {
+        "question": "What is one of the food sources mentioned in the allergen statement?",
+        "answer": "Peanuts"
+      },
+      {
+        "question": "What type of nut is included in the allergen warning text?",
+        "answer": "Tree"
+      },
+      {
+        "question": "Based solely on the visible text, what dairy product is mentioned in the allergen statement?",
+        "answer": "Milk"
+      },
+      {
+        "question": "What is the other ingredient listed in the ingredients section besides the ones above?",
+        "answer": "Water"
+      }
+    ]
+  }
+]

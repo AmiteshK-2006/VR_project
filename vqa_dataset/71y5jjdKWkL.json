@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/31/31ba30c4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the text detailing the ingredients?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the background color of the ingredient list panel?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of the presented ingredient information?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the font, what is the style of the text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the texture of the visible surface on which the text is printed?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent material of the surface bearing the text?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Describing the textual layout, what is the organization?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Considering capitalization, what is the style of ingredient names?",
+        "answer": "Title"
+      },
+      {
+        "question": "Based on the font size variation, what is the hierarchy?",
+        "answer": "Hierarchical"
+      },
+      {
+        "question": "What is the visual emphasis given to 'Contains Wheat and Soy Ingredients'?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the overall visual tone of the displayed information?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Observing the text density, how would you characterize its compactness?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Considering the number of ingredients listed, what is the quantity?",
+        "answer": "Many"
+      },
+      {
+        "question": "What is the case of most words in the ingredient list?",
+        "answer": "Title"
+      },
+      {
+        "question": "What is the type of information presented on this label?",
+        "answer": "Ingredients"
+      }
+    ]
+  }
+]

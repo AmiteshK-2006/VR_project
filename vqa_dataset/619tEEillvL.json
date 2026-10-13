@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/10/10360ba5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the beverage in the glass?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What appears to be the primary ingredient or flavor profile, judging by the color?",
+        "answer": "Citrus"
+      },
+      {
+        "question": "What is the apparent texture of the ice cubes in the drink?",
+        "answer": "Cloudy"
+      },
+      {
+        "question": "Describe the shape of the drinking glass holding the beverage?",
+        "answer": "Tall"
+      },
+      {
+        "question": "What material seems to compose the drinking glass?",
+        "answer": "Glass"
+      },
+      {
+        "question": "What is the apparent overall state of the beverage (liquid or solid)?",
+        "answer": "Liquid"
+      },
+      {
+        "question": "What additional elements are visibly present within the beverage?",
+        "answer": "Ice"
+      },
+      {
+        "question": "Is the liquid in the glass noticeably carbonated or still?",
+        "answer": "Still"
+      },
+      {
+        "question": "Considering the image, is the glass completely filled to the brim?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the glass show any visible markings or patterns?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the approximate transparency level of the glass?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the apparent level of chill in the beverage (cold, room temperature, etc.)?",
+        "answer": "Cold"
+      },
+      {
+        "question": "What is the general form of ice used in the drink (cubes, crushed, etc.)?",
+        "answer": "Cubes"
+      },
+      {
+        "question": "Based on the image, is the drink visibly thick or thin in consistency?",
+        "answer": "Thin"
+      },
+      {
+        "question": "What is the apparent overall clarity or murkiness of the beverage?",
+        "answer": "Clear"
+      }
+    ]
+  }
+]

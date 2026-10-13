@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3f/3f22a0ab.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what is the dominant text color on the ingredient list?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the apparent text font style used for the prominent 'INGREDIENTS' heading?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the image, what is the case of the lettering used for ingredient descriptions?",
+        "answer": "Title"
+      },
+      {
+        "question": "Disregarding any specific ingredients, what is the general arrangement of the text on the label?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the background color of the label section visible in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "Judging from the visual, what is the overall shape of the visible portion of the ingredient list?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Observing the text, what is the apparent weight or boldness of the 'INGREDIENTS' heading?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What appears to be the text size of the individual ingredients listed, relative to the main heading?",
+        "answer": "Smaller"
+      },
+      {
+        "question": "In the visible area, what is the formatting style used for separating ingredient groups (e.g., protein blend)?",
+        "answer": "Parentheses"
+      },
+      {
+        "question": "If you were to describe the overall visual texture of the text, ignoring the content, what would it be?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the text, what is the general layout of the ingredient list (e.g., single, double column)?",
+        "answer": "Single"
+      },
+      {
+        "question": "Focusing solely on the image's visual elements, what is the overall visual density of the text on the label?",
+        "answer": "High"
+      },
+      {
+        "question": "From the perspective of the visual elements, what is the predominant style of the typography?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the perceived clarity and legibility of the text on the ingredient label?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the apparent contrast between the text color and the background color of the label section?",
+        "answer": "High"
+      }
+    ]
+  }
+]

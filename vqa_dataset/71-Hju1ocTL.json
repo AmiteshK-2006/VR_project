@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a9/a9d23c79.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the presented food container?",
+        "answer": "Square"
+      },
+      {
+        "question": "What dominant color characterizes the exterior of this food container?",
+        "answer": "White"
+      },
+      {
+        "question": "What appears to be the primary material used in the construction of this container?",
+        "answer": "Paperboard"
+      },
+      {
+        "question": "Describing the texture, is the surface of this food container smooth or ridged?",
+        "answer": "Ridged"
+      },
+      {
+        "question": "Considering the design, does this container feature a hinged lid or a separate lid?",
+        "answer": "Separate"
+      },
+      {
+        "question": "Does the container exhibit any noticeable patterns on its visible surfaces?",
+        "answer": "Lines"
+      },
+      {
+        "question": "What is the apparent depth or height of the container's walls?",
+        "answer": "Shallow"
+      },
+      {
+        "question": "Observing the base, is it flat or does it have any distinct features?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Considering the corners, are they rounded or sharply angled?",
+        "answer": "Angled"
+      },
+      {
+        "question": "Does the container display any visible markings or branding elements?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the general impression of the container's overall construction: sturdy or flimsy?",
+        "answer": "Sturdy"
+      },
+      {
+        "question": "Regarding the lid's fit, is it snug or loose based on the image?",
+        "answer": "Snug"
+      },
+      {
+        "question": "Considering the design, what seems to be the intended use of this container?",
+        "answer": "Food"
+      },
+      {
+        "question": "Observing the edges, do they appear sharp or rounded?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What is the apparent size of the container relative to a typical hand?",
+        "answer": "Small"
+      }
+    ]
+  }
+]

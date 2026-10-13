@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e5/e5a9efca.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall color of the depicted item, considering its dominant shade?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the most apparent text on the item, based on visual inspection?",
+        "answer": "PT05"
+      },
+      {
+        "question": "Considering the visual texture, does the item appear smooth or rough to the touch?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the general shape of the product, assuming a 2D projection?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Observing the image carefully, what is the apparent material of the product?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Based solely on the provided image, is there any visible pattern or design on the item?",
+        "answer": "None"
+      },
+      {
+        "question": "Does the product's surface exhibit a noticeable sheen or matte finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging from the visual appearance, is the item thick or thin?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Considering the visual aspects, what is the general size category of this item?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the number indicated on the image, based solely on visual observation?",
+        "answer": "05"
+      },
+      {
+        "question": "Considering the image's visual clarity, what is the overall visual quality of the product?",
+        "answer": "Simple"
+      },
+      {
+        "question": "From what is visible, does the product show any signs of wear or damage?",
+        "answer": "None"
+      },
+      {
+        "question": "Examining the provided image, is the product's surface glossy or non-glossy?",
+        "answer": "Non-glossy"
+      },
+      {
+        "question": "Does the item appear to have any additional features beyond what's initially visible?",
+        "answer": "None"
+      },
+      {
+        "question": "Based on the image, does the product have any visible perforations or cutouts?",
+        "answer": "None"
+      }
+    ]
+  }
+]

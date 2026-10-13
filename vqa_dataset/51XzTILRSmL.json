@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0e/0e1c6e6c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the presented square object?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the object's edges, what is its apparent overall shape?",
+        "answer": "Square"
+      },
+      {
+        "question": "Based on its visual appearance, what seems to be the primary material used?",
+        "answer": "Ceramic"
+      },
+      {
+        "question": "Observing the surface, what is the apparent texture of the item shown?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the object exhibit any visible patterns, markings, or designs?",
+        "answer": "None"
+      },
+      {
+        "question": "Judging by the image, how many distinct components make up this item?",
+        "answer": "One"
+      },
+      {
+        "question": "What is the apparent thickness or depth of the shown square piece?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Does the object appear reflective, matte, or glossy in the provided image?",
+        "answer": "Matte"
+      },
+      {
+        "question": "From the image, what is the general level of transparency exhibited?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Considering its dimensions and shape, what would this object most likely be used for?",
+        "answer": "Tile"
+      },
+      {
+        "question": "Judging from the image, is the surface of the object even or uneven?",
+        "answer": "Even"
+      },
+      {
+        "question": "What is the general condition of the visible surface, such as damaged or pristine?",
+        "answer": "Pristine"
+      },
+      {
+        "question": "Does the object have any visible seams or joins in its construction?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the object appear to have any visible bevels or chamfers on its edges?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the object display any apparent gloss or sheen on its surface?",
+        "answer": "No"
+      }
+    ]
+  }
+]

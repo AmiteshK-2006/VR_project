@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/26/268d8b3d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the text on the supplement facts label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the shape of the container implied by the label's dimensions?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What type of capsule is specified in the serving size description?",
+        "answer": "Vegan"
+      },
+      {
+        "question": "What is the main ingredient listed on the supplement facts label?",
+        "answer": "Turmeric"
+      },
+      {
+        "question": "What is the form of the Turmeric extract as described on the label?",
+        "answer": "Extract"
+      },
+      {
+        "question": "What plant part is the Turmeric extract derived from as indicated on the label?",
+        "answer": "Root"
+      },
+      {
+        "question": "What is the secondary ingredient listed on the supplement facts label?",
+        "answer": "BlackPepper"
+      },
+      {
+        "question": "What plant part is the Black Pepper extract derived from as indicated on the label?",
+        "answer": "Fruit"
+      },
+      {
+        "question": "What is the unit of measurement used for the amount of Turmeric extract per serving?",
+        "answer": "mg"
+      },
+      {
+        "question": "What is the unit of measurement used for the amount of Black Pepper extract per serving?",
+        "answer": "mg"
+      },
+      {
+        "question": "What is the percentage of Curcuminoids present in the Turmeric extract?",
+        "answer": "95"
+      },
+      {
+        "question": "What is the scientific name for Turmeric as stated on the label?",
+        "answer": "Curcuma"
+      },
+      {
+        "question": "What is the scientific name for Black Pepper as stated on the label?",
+        "answer": "Piper"
+      },
+      {
+        "question": "What phrase indicates the lack of established daily value for listed ingredients?",
+        "answer": "DailyValue"
+      },
+      {
+        "question": "What is the type of information presented on the label?",
+        "answer": "Supplement"
+      }
+    ]
+  }
+]

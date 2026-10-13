@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ce/ce703369.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color of the food item depicted in the image?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Based on the image, what appears to be the primary shape of the individual food units in the bag?",
+        "answer": "Round"
+      },
+      {
+        "question": "Judging solely by the visual texture evident in the image, what is the apparent surface texture of the food items?",
+        "answer": "Rough"
+      },
+      {
+        "question": "From a purely visual assessment, what seems to be the chief material composition of the packaged food?",
+        "answer": "Dough"
+      },
+      {
+        "question": "Considering the visual details, what kind of food item is primarily shown within the plastic packaging?",
+        "answer": "Bagels"
+      },
+      {
+        "question": "What small, visible elements are scattered across the surface of the bagels, based on the image's visual information?",
+        "answer": "Seeds"
+      },
+      {
+        "question": "What type of packaging is used for containing and presenting the food item, as per the image?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "In the image, what is the apparent arrangement or stacking configuration of the food items in the package?",
+        "answer": "Stacked"
+      },
+      {
+        "question": "Considering the visual clues in the image, what is the general size of the individual food items relative to one another?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Based on visual appearance alone, what is the approximate number of food items visibly present within the packaging?",
+        "answer": "Eight"
+      },
+      {
+        "question": "Based on the image, what is the general condition or freshness of the packaged food items?",
+        "answer": "Fresh"
+      },
+      {
+        "question": "Judging solely from the visual evidence, what kind of seal is used to close the food packaging?",
+        "answer": "Twist"
+      },
+      {
+        "question": "Based on visual assessment, is there any significant variation in the color or texture amongst the various food items?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "Considering the image, is there any visible damage or defect present on any of the food items within the bag?",
+        "answer": "No"
+      },
+      {
+        "question": "According to visual details, what is the visible aspect of the packaging's transparency level?",
+        "answer": "Clear"
+      }
+    ]
+  }
+]

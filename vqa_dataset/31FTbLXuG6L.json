@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c0/c020e3c5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's visual presentation, what is the primary color of the printed label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the image's visual details, what is the overall font style of the text on the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Judging by the text's visual characteristics, what is the case of the lettering?",
+        "answer": "Upper"
+      },
+      {
+        "question": "If we focus on the visual presentation, what single word is prominently displayed at the start of the label?",
+        "answer": "INGREDIENTS"
+      },
+      {
+        "question": "Observing the text in the image, what is the single-word ingredient mentioned?",
+        "answer": "Rosemary"
+      },
+      {
+        "question": "From a visual standpoint, what adjective describes the rosemary mentioned?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Examining the label, what single word describes the facility where it is produced?",
+        "answer": "Facility"
+      },
+      {
+        "question": "Based on the image's visual information, what is one type of nut processed in the facility?",
+        "answer": "Tree"
+      },
+      {
+        "question": "Visually analyzing the label, what dairy product is mentioned in the manufacturing process?",
+        "answer": "Milk"
+      },
+      {
+        "question": "Looking at the label, what animal product was processed in the facility?",
+        "answer": "Eggs"
+      },
+      {
+        "question": "What is the single word describing another ingredient processed, as seen on the label?",
+        "answer": "Soy"
+      },
+      {
+        "question": "What preposition is visually apparent on the label, located between facility and processes?",
+        "answer": "In"
+      },
+      {
+        "question": "What preposition is visually present in the second line, between 'a' and 'facility'?",
+        "answer": "In"
+      },
+      {
+        "question": "What conjunction is visibly present on the label, located between 'nuts' and 'milk'?",
+        "answer": "And"
+      },
+      {
+        "question": "What punctuation mark ends both lines of text shown on the label?",
+        "answer": "Period"
+      }
+    ]
+  }
+]

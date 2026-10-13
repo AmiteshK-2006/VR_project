@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/dd/dd3f10b4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the image?",
+        "answer": "Mauve"
+      },
+      {
+        "question": "What is the apparent texture of the displayed textile?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall shape of the draped fabric in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the sheen, what is the likely material of the product?",
+        "answer": "Silk"
+      },
+      {
+        "question": "Based on the drape and sheen, what is the likely finish of the fabric?",
+        "answer": "Satin"
+      },
+      {
+        "question": "Describing the folds, what is the appearance of the fabric's surface?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Judging from the image, what is the overall feel of the textile?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What is the implied weight or density of the draped fabric?",
+        "answer": "Light"
+      },
+      {
+        "question": "Does the fabric exhibit a uniform color or variations in shade?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What type of luster does the fabric in the image display?",
+        "answer": "High"
+      },
+      {
+        "question": "From the image, is the fabric showing any visible patterns or prints?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the general condition of the fabric's appearance?",
+        "answer": "Clean"
+      },
+      {
+        "question": "What is the drape of the fabric as shown in the product image?",
+        "answer": "Fluid"
+      },
+      {
+        "question": "Does the image show any visible seams or stitching on the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image, is the fabric primarily opaque or sheer?",
+        "answer": "Opaque"
+      }
+    ]
+  }
+]

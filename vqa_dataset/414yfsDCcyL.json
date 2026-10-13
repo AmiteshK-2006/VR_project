@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/35/35dbbb01.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the phone case, as observed in the provided image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the image, what appears to be the primary material used in the construction of this phone case?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Based on the image, what is the overall shape of the presented phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Does the phone case shown in the image appear to have a noticeable texture, and if so, what is it?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging from the provided image, is there any visible branding or logo on the phone case?",
+        "answer": "No"
+      },
+      {
+        "question": "From the image, can you describe the style of the phone case, in terms of its overall design?",
+        "answer": "Simple"
+      },
+      {
+        "question": "According to the image, does the phone case seem to offer any type of protective covering for the phone's camera?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What style of phone case is depicted, based on its visible mechanism for closure?",
+        "answer": "Flip"
+      },
+      {
+        "question": "Based on the image, what appears to be the mechanism by which this phone case closes?",
+        "answer": "Magnetic"
+      },
+      {
+        "question": "Judging from the image, how many visible cut-outs are present in the case to accommodate phone features?",
+        "answer": "Three"
+      },
+      {
+        "question": "In observing the provided image, does the phone case show any noticeable damage or defects?",
+        "answer": "No"
+      },
+      {
+        "question": "Based solely on visual inspection of the image, does the phone case appear to be slim or bulky?",
+        "answer": "Slim"
+      },
+      {
+        "question": "Does the image indicate any significant embellishments or decorative elements on the case?",
+        "answer": "No"
+      },
+      {
+        "question": "From what is shown in the image, what seems to be the primary function of the phone case?",
+        "answer": "Protection"
+      },
+      {
+        "question": "Based on the image, what is the apparent finish of the outer surface of the case?",
+        "answer": "Matte"
+      }
+    ]
+  }
+]

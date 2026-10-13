@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/42/4221c54a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the provided image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What textile standard certification label is visibly attached to the fabric sample?",
+        "answer": "Oeko-Tex"
+      },
+      {
+        "question": "Based on the visible care instructions, what is the primary fabric composition?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "Judging by the image, what is the apparent texture of the fabric?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the image, what is the overall shape of the fabric piece presented?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What brand label is displayed prominently on the fabric sample?",
+        "answer": "Amazonbasics"
+      },
+      {
+        "question": "Observing the care label, what washing temperature is indicated for this fabric?",
+        "answer": "40"
+      },
+      {
+        "question": "What type of care symbol is visible beside the temperature suggestion, representing drying instructions?",
+        "answer": "Tumble"
+      },
+      {
+        "question": "What is the apparent finish or treatment of the fabric's edges?",
+        "answer": "Seamed"
+      },
+      {
+        "question": "Does the fabric appear to have any noticeable patterns or prints?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the fabric seem to have a sheen or glossy effect?",
+        "answer": "Slight"
+      },
+      {
+        "question": "What appears to be the overall weight or thickness of the fabric?",
+        "answer": "Light"
+      },
+      {
+        "question": "What is the visible type of the label attached to the sample?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Based on the visible image, what is the apparent opacity of the fabric?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What is the apparent drape or flexibility of the fabric based on its visual presentation?",
+        "answer": "Soft"
+      }
+    ]
+  }
+]

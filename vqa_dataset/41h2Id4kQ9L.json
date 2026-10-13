@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/58/58244f5f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape and the text layout, what is the primary function suggested by the visual design of this item?",
+        "answer": "Label"
+      },
+      {
+        "question": "Based on the prominent text at the top, what critical information is presented on this rectangular item?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the color of the background on which the black text is predominantly displayed?",
+        "answer": "White"
+      },
+      {
+        "question": "Describing the texture, is the surface of this rectangular item smooth, rough, or something else?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the general color scheme used for the text on the item?",
+        "answer": "Black"
+      },
+      {
+        "question": "Observing the text font, how would you describe the overall style: serif, sans-serif, or something else?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the information presented, what is the main focus or topic of the information displayed?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Looking at the visual organization, what is the dominant formatting style of the presented data?",
+        "answer": "Table"
+      },
+      {
+        "question": "Judging by its appearance and information content, what kind of product is this label most likely attached to?",
+        "answer": "Food"
+      },
+      {
+        "question": "Describe the apparent condition of the label: is it completely intact or does it show signs of wear?",
+        "answer": "Creased"
+      },
+      {
+        "question": "Considering the small print, what kind of units are mainly used for the numerical data in this label?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Describe the physical integrity of the visible portion: is it whole or are there any defects?",
+        "answer": "Torn"
+      },
+      {
+        "question": "Given the context of the text, what dietary aspect is this information directly related to?",
+        "answer": "Health"
+      },
+      {
+        "question": "Based on the visible measurements, what can be deduced about the size of this label relative to a standard sheet of paper?",
+        "answer": "Small"
+      },
+      {
+        "question": "Considering the image, how would you describe the overall visual style of the label: modern, vintage, or other?",
+        "answer": "Modern"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/aa/aa492696.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the primary textual element dominating this image?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What numerical value, prominently displayed, likely represents the caloric content?",
+        "answer": "200"
+      },
+      {
+        "question": "Based on the prominent text, what is the subject matter or nutritional profile this image concerns itself with?",
+        "answer": "Facts"
+      },
+      {
+        "question": "What unit of measurement is frequently used in the context of the detailed numerical data presented?",
+        "answer": "g"
+      },
+      {
+        "question": "Given the context of the numbers and labels, what food category or concept is likely being described?",
+        "answer": "Food"
+      },
+      {
+        "question": "What is the visual style or format adopted for presenting the nutritional breakdown of the food product?",
+        "answer": "Table"
+      },
+      {
+        "question": "What kind of information are the percentage values next to many of the nutritional components representing?",
+        "answer": "DV"
+      },
+      {
+        "question": "What is the serving size indicated for this food product in terms of both the number of items and the mass?",
+        "answer": "Bar"
+      },
+      {
+        "question": "In terms of the textual content, what is the dominant color of the presented nutritional information?",
+        "answer": "Black"
+      },
+      {
+        "question": "In the context of the text's layout and structure, what is the primary font type used for the textual content?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Given the visual context, what kind of visual element is predominantly utilized in the layout of the nutritional facts?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the general orientation or position of the nutritional information with respect to the viewer?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the background tone or shade that the nutrition information is overlaid on or contrasted with?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the text's readability, what is the overall visual clarity or legibility of the nutritional information?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Based on the text's visual attributes, what is the apparent font size used for the most prominent information?",
+        "answer": "Large"
+      }
+    ]
+  }
+]

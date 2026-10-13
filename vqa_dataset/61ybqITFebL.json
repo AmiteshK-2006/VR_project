@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/28/28205e46.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout and textual arrangement, what is the predominant function implied by this image's visual elements?",
+        "answer": "Informative"
+      },
+      {
+        "question": "What is the principal textual style used to display the quantitative nutritional data?",
+        "answer": "Tabular"
+      },
+      {
+        "question": "Observing the color palette, what is the most frequent color used in the textual content?",
+        "answer": "Black"
+      },
+      {
+        "question": "Examining the typography, what is the overall visual weight or boldness of the font used throughout the image?",
+        "answer": "Regular"
+      },
+      {
+        "question": "Focusing on the structural aspects, how is the information organized on the visual plane?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Considering the graphic design, what visual element is prominently featured at the very top of the image?",
+        "answer": "Title"
+      },
+      {
+        "question": "Looking at the image's content, what specific type of food product does the detailed nutritional information pertain to?",
+        "answer": "Food"
+      },
+      {
+        "question": "Given the context, what is the primary unit of measurement used for the quantity of nutrients?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Based on the visual content, what is the expressed unit for serving size?",
+        "answer": "Slice"
+      },
+      {
+        "question": "Observing the fine details, what is the style of the numerical values presented in the tables?",
+        "answer": "Arabic"
+      },
+      {
+        "question": "Disregarding the numerical data, what is the most noticeable visual characteristic of the background?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the visual details, what is the textual format employed for percentage values?",
+        "answer": "Numeric"
+      },
+      {
+        "question": "In terms of the image's composition, what is the primary orientation of the text?",
+        "answer": "Portrait"
+      },
+      {
+        "question": "Considering the entire visual field, what is the overall visual texture of the textual content?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Examining the visual design, what is the dominant graphic style used to highlight key data points?",
+        "answer": "Bold"
+      }
+    ]
+  }
+]

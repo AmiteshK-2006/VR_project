@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ba/ba799738.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what is the primary format of the provided information?",
+        "answer": "Text"
+      },
+      {
+        "question": "Disregarding any specific content, what is the dominant color scheme visually apparent in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Focusing solely on the textual elements, what is the primary language used throughout the document?",
+        "answer": "French"
+      },
+      {
+        "question": "Given the extensive use of text blocks and paragraph formatting, what is the likely purpose of this document?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Based on the visual structure of the text and its arrangement, what type of document is this most likely?",
+        "answer": "Leaflet"
+      },
+      {
+        "question": "Considering the text density and layout, what is the general reading level suggested by the document's design?",
+        "answer": "Detailed"
+      },
+      {
+        "question": "Judging by the overall visual style of the text blocks, how is the information presented in terms of its organization?",
+        "answer": "Structured"
+      },
+      {
+        "question": "Observing the visual structure of the sections, what visual features are used to separate distinct topics or subsections?",
+        "answer": "Headings"
+      },
+      {
+        "question": "Based on the uniform font and spacing, what can be inferred about the document's intended presentation?",
+        "answer": "Formal"
+      },
+      {
+        "question": "Looking at the visual arrangement, what design feature promotes readability and section separation within the text?",
+        "answer": "Margins"
+      },
+      {
+        "question": "Observing the font style, describe the font type used in the document visually?",
+        "answer": "Serif"
+      },
+      {
+        "question": "From the image, is there any indication of the document's intended audience based on its complexity?",
+        "answer": "Experts"
+      },
+      {
+        "question": "Based on the visual uniformity, what characteristic defines the general style of the text presentation?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Does the visual presentation of the text suggest a specific tone for the information being relayed?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "Considering the text's visual density, does the design convey a sense of urgency or importance?",
+        "answer": "No"
+      }
+    ]
+  }
+]

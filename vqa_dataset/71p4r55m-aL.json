@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6d/6d376675.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the connector types, what is the primary function of this device, as visually apparent from its design?",
+        "answer": "Adapter"
+      },
+      {
+        "question": "What color is the casing of the primary body of this adapter, as observed in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on its physical structure and connector types, what specific video interface standard does the adapter support?",
+        "answer": "Mini-DisplayPort"
+      },
+      {
+        "question": "What is the dominant color of the connector, which appears to be the output of the adapter?",
+        "answer": "Grey"
+      },
+      {
+        "question": "Examining the cable's material, what is the apparent texture or consistency of its surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Focusing on the output connector, what kind of connector is it, based on its observable shape and pin arrangement?",
+        "answer": "VGA"
+      },
+      {
+        "question": "What is the shape of the main body of the adapter, excluding the connectors and cable?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the material of the cable's outer sheath, based on its visual appearance in the image?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the overall visual aesthetic of the adapter, how would you classify its design style?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the discernible shape of the input connector on the adapter, based on the image?",
+        "answer": "Trapezoidal"
+      },
+      {
+        "question": "Judging by its appearance, what kind of material does the main body of the adapter appear to be constructed from?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the observable finish of the external surface of the adapter's body?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Focusing on the cable's flexibility, what is the apparent degree of bendability based on its shape?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Based on the image, what is the overall length of the cable, in comparison to the size of the adapter body?",
+        "answer": "Short"
+      },
+      {
+        "question": "Disregarding connectors, what is the visible overall size or form factor of the device, as a whole?",
+        "answer": "Compact"
+      }
+    ]
+  }
+]

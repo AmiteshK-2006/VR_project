@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/39/399e0392.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape and the presence of text and a barcode, what is the primary function suggested by the item's visual attributes?",
+        "answer": "Packaging"
+      },
+      {
+        "question": "Observing the color scheme, what is the predominant color displayed on the visible surface of the item?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the visual texture, what kind of surface finish does the main area of the item appear to have?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Focusing on the textual elements, what language(s) are predominantly used on the item's surface?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "Examining the barcode present, what purpose does this visual element likely serve in a retail context?",
+        "answer": "Identification"
+      },
+      {
+        "question": "Judging by the appearance of the text, what is the likely intended use of the detailed information printed on the item?",
+        "answer": "Instruction"
+      },
+      {
+        "question": "Considering the size and shape of the printed text blocks, what design principle seems to be guiding the layout?",
+        "answer": "Organized"
+      },
+      {
+        "question": "In terms of the color contrast, how does the smaller light blue area stand out against the primary color?",
+        "answer": "Accent"
+      },
+      {
+        "question": "Examining the print quality and style of the text, what is the overall impression of the design aesthetic?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Considering the presence of both text and numbers, what type of information is predominantly communicated visually?",
+        "answer": "Data"
+      },
+      {
+        "question": "Based on the uniform appearance of the print, what printing method was most likely used for the item's labeling?",
+        "answer": "Digital"
+      },
+      {
+        "question": "Looking at the detailed information, what is the likely subject matter of the longer text blocks?",
+        "answer": "Details"
+      },
+      {
+        "question": "Considering the weight specification mentioned, in what units is the product's weight expressed?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Observing the overall style, does the item's visual design suggest a premium or budget-oriented approach?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "Based on the layout and content, what kind of product is this package likely designed to contain?",
+        "answer": "Food"
+      }
+    ]
+  }
+]

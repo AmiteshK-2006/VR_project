@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/30/303bfb79.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what single word best describes the product's shape as presented in the image?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the dominant color of the visible end caps of this packaged product?",
+        "answer": "Green"
+      },
+      {
+        "question": "Based on visual texture alone, what material seems to be the primary component of the core product?",
+        "answer": "Powder"
+      },
+      {
+        "question": "Disregarding any text, what color best represents the majority of the visible product packaging?",
+        "answer": "Beige"
+      },
+      {
+        "question": "From a purely visual standpoint, what seems to be the primary purpose or function of this item, based only on its appearance?",
+        "answer": "Supplement"
+      },
+      {
+        "question": "Ignoring any textual information, describe the general visual texture of the product's contents as depicted within the packaging?",
+        "answer": "Grainy"
+      },
+      {
+        "question": "Focusing solely on the visual presentation, what is the apparent state of the item—solid, liquid, or another form?",
+        "answer": "Solid"
+      },
+      {
+        "question": "What is the most apparent visual characteristic of the packaging's side, neglecting any text or labels?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image alone, what seems to be the structural integrity of the product packaging?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "From a visual perspective, disregarding text, how would you best describe the product's general appearance in terms of uniformity?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Based only on visible characteristics, is the product's packaging glossy or matte in its presentation?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the overall visible design, what adjective describes the product's style or aesthetic?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the most prominent visual feature, aside from color, on the packaging, disregarding any text?",
+        "answer": "Seam"
+      },
+      {
+        "question": "Judging from visible characteristics alone, what is the apparent size and scale of the product relative to common household objects?",
+        "answer": "Small"
+      },
+      {
+        "question": "Disregarding any textual elements or branding, what is the general visual impression of the overall product presentation?",
+        "answer": "Clean"
+      }
+    ]
+  }
+]

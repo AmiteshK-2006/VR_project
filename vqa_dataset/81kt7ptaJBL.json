@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e9/e90d16d3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the necktie, as observed in the provided image?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the overall shape of the necktie, considering its pointed end and length?",
+        "answer": "Triangular"
+      },
+      {
+        "question": "What type of pattern is visibly present across the surface of the necktie?",
+        "answer": "Repeating"
+      },
+      {
+        "question": "What is the secondary color used in the repeating pattern, shown distinctly against the main color?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the apparent texture or weave of the fabric, indicated by the visible lines on the necktie?",
+        "answer": "Woven"
+      },
+      {
+        "question": "What is the material of the tie, based solely on its visual characteristics?",
+        "answer": "Silk"
+      },
+      {
+        "question": "Considering the small, repeating pattern, what is its general shape or motif?",
+        "answer": "Geometric"
+      },
+      {
+        "question": "Describing the overall visual style of the tie, what is its character?",
+        "answer": "Formal"
+      },
+      {
+        "question": "In terms of the pattern, what is the degree of density, considering the spacing of the pattern units?",
+        "answer": "Sparse"
+      },
+      {
+        "question": "What is the visual effect that the reddish secondary color provides to the necktie\u2019s overall look?",
+        "answer": "Contrast"
+      },
+      {
+        "question": "Judging from the image, is the tie's surface glossy, matte, or something else?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the design style of the repeating pattern on the necktie, regarding its visual simplicity?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Based on visual appearance alone, what is the likely overall width of the necktie?",
+        "answer": "Standard"
+      },
+      {
+        "question": "Considering the image, what is the sharpness of the edges along the tie's sides and points?",
+        "answer": "Defined"
+      },
+      {
+        "question": "Regarding the necktie's length, how would you describe it in terms of typical necktie lengths?",
+        "answer": "Regular"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5e/5ecf2b3b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the dominant three-dimensional shape of this object, as visually depicted in the provided image?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Based on the visible surface texture, what is the most accurate descriptor of the object's tactile quality?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Disregarding any markings, what single word best describes the color of the item, as presented in the provided image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary material used in the construction of this object based solely on visual inspection?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Focusing on the side, what design feature is visible along the length of this object, providing a textural contrast?",
+        "answer": "Ribbed"
+      },
+      {
+        "question": "What is the apparent overall finish of the object, considering its visual properties and the uniformity of color?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Ignoring markings, focusing solely on visual form, what is the most apparent geometric characteristic of the item's main body?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Observing the image closely, what is the apparent manufacturing technique suggested by the object's uniform appearance?",
+        "answer": "Molded"
+      },
+      {
+        "question": "Examining the visible text, what word, appearing multiple times, suggests the manufacturer or brand?",
+        "answer": "MC"
+      },
+      {
+        "question": "What is the apparent condition of the object, considering the state of its surface and the absence of visible damage?",
+        "answer": "New"
+      },
+      {
+        "question": "Looking at the markings, what word, seemingly indicating a type or model, is visible on the surface?",
+        "answer": "Cap"
+      },
+      {
+        "question": "From the visual appearance of this object, what is the most likely primary function of this cylindrical component?",
+        "answer": "Protective"
+      },
+      {
+        "question": "Examining the markings, identify the additional word presented, specifying something about the item's dimensions?",
+        "answer": "52mm"
+      },
+      {
+        "question": "Considering the visible markings, what word is visible, implying a function related to this object?",
+        "answer": "Filter"
+      },
+      {
+        "question": "Based on the appearance, what single word best describes the object's apparent overall style?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

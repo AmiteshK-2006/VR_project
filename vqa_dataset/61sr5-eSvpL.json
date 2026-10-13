@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/eb/ebe04b27.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape and packaging design, what is the primary form of the product shown?",
+        "answer": "Box"
+      },
+      {
+        "question": "Observing the text printed on the package, what specific kind of pizza is contained inside?",
+        "answer": "Pizza"
+      },
+      {
+        "question": "Based on the visible text, what is the brand name associated with the product?",
+        "answer": "365"
+      },
+      {
+        "question": "Focusing on the textual description of the crust, what particular type of crust does this pizza have?",
+        "answer": "Rising"
+      },
+      {
+        "question": "Looking closely at the descriptive text on the packaging, how many kinds of cheese are mentioned?",
+        "answer": "Four"
+      },
+      {
+        "question": "Considering the color palette of the packaging design, what is the dominant background color of the box?",
+        "answer": "White"
+      },
+      {
+        "question": "Analyzing the visual characteristics of the text, what color is the main text on the package?",
+        "answer": "Black"
+      },
+      {
+        "question": "Examining the edges and ends of the package, what material does the packaging appear to be made of?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "By observing the overall visual features of the packaging, what is the primary purpose or function of this product?",
+        "answer": "Food"
+      },
+      {
+        "question": "Concentrating on the smaller details of the package, what is the shape of the logo shown on the box?",
+        "answer": "Square"
+      },
+      {
+        "question": "In reference to the text on the packaging, what is the word that describes the texture of the pizza crust?",
+        "answer": "Rising"
+      },
+      {
+        "question": "By observing the color contrast on the box, what is the secondary color on the packaging, aside from white and black?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the design elements, is the text on the package primarily serif or sans-serif font?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Judging by the general appearance and labeling, what is the intended use of the item shown in this image?",
+        "answer": "Frozen"
+      },
+      {
+        "question": "Considering the size and form of the box, what is the most likely preparation method for this product?",
+        "answer": "Baking"
+      }
+    ]
+  }
+]

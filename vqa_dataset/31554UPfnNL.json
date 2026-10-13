@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/17/17d30ee0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant surface texture depicted across the entire product?",
+        "answer": "Pebbled"
+      },
+      {
+        "question": "What is the overall shape of the displayed product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the visible surface, what is the primary color of the item?",
+        "answer": "Light-blue"
+      },
+      {
+        "question": "Judging by its appearance, what material seems most likely to constitute the item?",
+        "answer": "Foam"
+      },
+      {
+        "question": "Based on the image, does the product exhibit any discernible patterns?",
+        "answer": "Yes"
+      },
+      {
+        "question": "From the visual data provided, what is the apparent thickness of this product?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Considering its visual features, what is the intended use of this product, likely?",
+        "answer": "Mattress"
+      },
+      {
+        "question": "Does the product in the image show any visible seams or stitching?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent visual state or condition of this product?",
+        "answer": "New"
+      },
+      {
+        "question": "Judging from the image, is there any noticeable gloss or shine on the surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Based solely on the provided picture, is the surface soft or hard?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What sort of visual design is predominantly present on the product's surface?",
+        "answer": "Abstract"
+      },
+      {
+        "question": "Considering its visual characteristics, what is the product's apparent overall weight?",
+        "answer": "Light"
+      },
+      {
+        "question": "Based purely on its appearance, does the item seem foldable or rigid?",
+        "answer": "Foldable"
+      },
+      {
+        "question": "Does the product showcase any clear branding, logos, or labels?",
+        "answer": "No"
+      }
+    ]
+  }
+]

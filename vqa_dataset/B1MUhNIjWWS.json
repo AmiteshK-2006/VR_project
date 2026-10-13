@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/be/bedc010b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the fabric shown in the image?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the overall texture of the displayed fabric sample?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Considering the visual details, what is the apparent material composition?",
+        "answer": "Textile"
+      },
+      {
+        "question": "Based on visual observation, what is the most noticeable surface characteristic?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Can you describe the visual pattern or design displayed on the fabric?",
+        "answer": "Plain"
+      },
+      {
+        "question": "What is the general visual appearance of the fabric's weave structure?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Does the image indicate any significant visual irregularities in the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "From the visual aspects, what is the likely type of fabric?",
+        "answer": "Cloth"
+      },
+      {
+        "question": "What is the general visual impression of the fabric's density?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Describe the subtle variations in shade across the fabric in the image",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Is there any visible sheen or glossiness apparent in the fabric's image?",
+        "answer": "Slight"
+      },
+      {
+        "question": "From a visual standpoint, is the weave of the fabric tight or loose?",
+        "answer": "Tight"
+      },
+      {
+        "question": "Judging from the visual appearance, what is the color family of the fabric?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "What type of visual finish does the fabric appear to have?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the fabric's visual appearance suggest any visible imperfections?",
+        "answer": "None"
+      }
+    ]
+  }
+]

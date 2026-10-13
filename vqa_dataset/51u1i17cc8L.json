@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/dc/dc743285.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the produce shown in the image?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What appears to be the shape of the individual produce items?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the apparent texture of the outer layer of the produce?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What type of packaging is visibly enclosing the produce?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the packaging, what is the likely form of the product's sale?",
+        "answer": "Pre-packaged"
+      },
+      {
+        "question": "What color are the visible sections of the packaging other than clear plastic?",
+        "answer": "Green"
+      },
+      {
+        "question": "Is there any visible branding or labeling on the produce or its packaging?",
+        "answer": "No"
+      },
+      {
+        "question": "What appears to be the general condition of the produce shown?",
+        "answer": "Fresh"
+      },
+      {
+        "question": "Based on visual characteristics, what type of produce is it likely to be?",
+        "answer": "Carrots"
+      },
+      {
+        "question": "What is the approximate number of produce items visible in the packaging?",
+        "answer": "Two"
+      },
+      {
+        "question": "Describe the apparent overall size and scale of the produce and packaging, relative to typical produce sizes?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Is the plastic wrapping tightly or loosely fitted around the produce?",
+        "answer": "Tightly"
+      },
+      {
+        "question": "Is there any evidence of damage to the produce shown in the packaging?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the general tone of the lighting in the image of the produce?",
+        "answer": "Bright"
+      },
+      {
+        "question": "What is the overall visual impression of the product's presentation?",
+        "answer": "Clean"
+      }
+    ]
+  }
+]

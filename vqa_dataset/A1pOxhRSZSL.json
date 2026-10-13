@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d9/d9bedf2e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant visual texture displayed across the entire fabric sample?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Considering the color palette, what single word best describes the shade of the textile?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Based on the visual appearance, what is the most likely material composition of this fabric?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "Judging solely from the image, what is the general weave pattern of this fabric?",
+        "answer": "Plain"
+      },
+      {
+        "question": "If you were to describe the visual surface quality of the fabric, what single word would you use?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent overall visual tone or feel of the fabric sample shown?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "Examining the image closely, can you determine if the weave is tightly or loosely structured?",
+        "answer": "Tight"
+      },
+      {
+        "question": "Considering the subtle variations in color, what single word describes the fabric's visual depth?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "What is the overall visual impression of the fabric's density, as seen in the sample?",
+        "answer": "Dense"
+      },
+      {
+        "question": "In terms of visual complexity, how would you best describe the fabric's pattern?",
+        "answer": "Simple"
+      },
+      {
+        "question": "From a purely visual standpoint, what is the apparent sheen or luster of this fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What single word characterizes the visual uniformity or consistency of the fabric's texture?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Analyzing the image, what is the predominant visual element in the fabric sample?",
+        "answer": "Weave"
+      },
+      {
+        "question": "Based on visual assessment, is the fabric's color uniform across the presented area?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the image only, what word best describes the fabric's visual weight?",
+        "answer": "Medium"
+      }
+    ]
+  }
+]

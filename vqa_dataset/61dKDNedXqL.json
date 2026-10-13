@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/02/02fab91e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the phone's casing, as visually apparent?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the phone's overall form, what geometric descriptor best fits its shape?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the primary material composing the phone's visible exterior?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Observing the screen's visual display, what color scheme is prominently featured?",
+        "answer": "Red"
+      },
+      {
+        "question": "Judging by the image, what seems to be the phone's screen orientation, landscape or portrait?",
+        "answer": "Portrait"
+      },
+      {
+        "question": "Based solely on visual inspection, what is the apparent finish of the phone's surface?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "From the provided image, what color are the phone's visible side bezels?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the apparent texture of the phone's back cover, smooth or rough?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the visible buttons, what color are those on the phone's side?",
+        "answer": "Silver"
+      },
+      {
+        "question": "What style of screen protector seems present or implied on the display, curved or flat?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Does the phone's casing show any evident text or branding, yes or no?",
+        "answer": "No"
+      },
+      {
+        "question": "What seems to be the visual state of the phone in the image, new or used?",
+        "answer": "New"
+      },
+      {
+        "question": "Judging by the image, is the phone shown in a protective case or sleeve?",
+        "answer": "No"
+      },
+      {
+        "question": "What appears to be the overall visual condition of the device; scratched or unscratched?",
+        "answer": "Unscratched"
+      },
+      {
+        "question": "Considering the visible components, does the phone seem to have a physical home button?",
+        "answer": "No"
+      }
+    ]
+  }
+]

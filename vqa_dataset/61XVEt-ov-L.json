@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1c/1c36090e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the bottle, as depicted in the provided image?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Considering the image, what primary color dominates the bottle's label?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the image, what appears to be the material of the bottle itself?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the predominant color of the text on the bottle's label, according to the visual?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Judging from the image, what seems to be the texture of the bottle's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the image show any noticeable floral designs on the product label?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What appears to be the general style or aesthetic of the product's label design?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Is the bottle depicted in the image transparent or opaque?",
+        "answer": "Transparent"
+      },
+      {
+        "question": "Observing the product image, is there a visible cap or lid on the bottle?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What appears to be the main color of the floral design on the label, based on visual inspection?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "Based on the image, what is the overall orientation of the product's label text?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "From the image, is the text on the label predominantly uppercase or lowercase?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Does the bottle in the image appear to be full or partially empty?",
+        "answer": "Full"
+      },
+      {
+        "question": "What is the apparent color of the liquid inside the transparent bottle, according to the image?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Based on the image, does the bottle feature any embossed or indented markings?",
+        "answer": "No"
+      }
+    ]
+  }
+]

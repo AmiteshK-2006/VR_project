@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/16/16edfad0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color displayed prominently on the product packaging, visually dominating the overall appearance?",
+        "answer": "Red"
+      },
+      {
+        "question": "Considering the rectangular shape of the product's container, what is the orientation of the nutrition facts panel relative to its overall geometry?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Observing the text on the product packaging, what specific dietary information is prominently featured, providing crucial details about its nutritional content?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the primary material of the product's packaging, determining its tactile properties and structural integrity?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Examining the design of the product's packaging, what is the primary style or category of text used for the nutritional information section?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the visual analysis, what is the overall shape of the product's packaging, defining its physical dimensions and appearance?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the textual elements on the product's packaging, which specific unit of measurement is used to indicate the serving size?",
+        "answer": "Burger"
+      },
+      {
+        "question": "Analyzing the typography used on the product's packaging, what is the font weight (boldness) of the 'Calories' label, emphasizing its significance?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Looking at the visual presentation of the nutrition facts, what numerical value is specified for the total amount of calories per serving?",
+        "answer": "140"
+      },
+      {
+        "question": "Examining the fine print, what is the grammatical number (singular or plural) of the word 'serving' in the phrase 'servings per container'?",
+        "answer": "Plural"
+      },
+      {
+        "question": "What is the type of food identified on the product packaging in relation to the nutritional information?",
+        "answer": "Burger"
+      },
+      {
+        "question": "Based on the visual presentation, what is the font style used to display the numerical data in the nutrition facts table?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the layout of the nutritional information, what is the alignment of the numerical values within the data columns?",
+        "answer": "Right"
+      },
+      {
+        "question": "What is the overall texture of the packaging material visible in the image; smooth or rough?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Analyzing the text on the packaging, what is the primary language used to convey the nutritional information?",
+        "answer": "English"
+      }
+    ]
+  }
+]

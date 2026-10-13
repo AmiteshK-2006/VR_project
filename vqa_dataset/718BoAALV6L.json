@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1f/1f43dfe7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the presented object, considering its visible contours?",
+        "answer": "Round"
+      },
+      {
+        "question": "Considering the image's lighting, what is the predominant color of the item?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on visual texture, what is the apparent surface finish of this item?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Disregarding any reflections, what material seems to have been used in its construction?",
+        "answer": "Ceramic"
+      },
+      {
+        "question": "Does the item's central area exhibit a noticeable difference in depth or elevation?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Observing the edge, is it uniformly curved or are there any irregularities?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Judging from the image's resolution, what is the visual appearance of the item's surface?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "From this perspective, are any patterns, markings, or designs apparent on the object?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering its size relative to the image frame, what would you estimate its general purpose to be?",
+        "answer": "Dish"
+      },
+      {
+        "question": "Is there any visible evidence of handles, feet, or other attached components?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the object's appearance suggest it's intended for single-serving or large portions?",
+        "answer": "Single"
+      },
+      {
+        "question": "Does the item's overall appearance suggest a rustic, modern, or other design aesthetic?",
+        "answer": "Modern"
+      },
+      {
+        "question": "Based on its size and shape, what kind of food might this item most commonly hold?",
+        "answer": "Sauce"
+      },
+      {
+        "question": "Judging by the image, is the object's base entirely flat and level to the surface?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the central depression appear shallow, moderate, or deep in depth?",
+        "answer": "Shallow"
+      }
+    ]
+  }
+]

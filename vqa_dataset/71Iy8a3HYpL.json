@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/82/82c6da08.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall design, what best describes the visual presentation of the nutritional information?",
+        "answer": "tabular"
+      },
+      {
+        "question": "What is the primary language used in the displayed nutritional facts?",
+        "answer": "Japanese"
+      },
+      {
+        "question": "Observing the text's appearance, what is the general font style used for the nutritional information?",
+        "answer": "sans-serif"
+      },
+      {
+        "question": "Based on the visual elements, what is the color scheme of the nutritional facts display?",
+        "answer": "grayscale"
+      },
+      {
+        "question": "What is the visual format used to present the numerical data values for the nutritional components?",
+        "answer": "aligned"
+      },
+      {
+        "question": "Focusing on the text's size and style, what can be inferred about the design's emphasis?",
+        "answer": "concise"
+      },
+      {
+        "question": "What is the visual representation of the unit for energy content (kcal) in the provided nutritional data?",
+        "answer": "numeric"
+      },
+      {
+        "question": "Based on the visual cues, what is the unit of measurement for 'protein' in the displayed nutritional data?",
+        "answer": "gram"
+      },
+      {
+        "question": "Considering the image, what is the unit of measurement for 'carbohydrate' content as visually presented?",
+        "answer": "gram"
+      },
+      {
+        "question": "What is the visual appearance of the lines separating rows in the nutrition facts table?",
+        "answer": "thin"
+      },
+      {
+        "question": "What is the visual formatting used for the total amount of salt equivalents in the provided nutritional data?",
+        "answer": "numeric"
+      },
+      {
+        "question": "What is the visual style of the header that introduces the nutritional fact components?",
+        "answer": "bold"
+      },
+      {
+        "question": "What is the shape of the nutritional information display box in the provided image?",
+        "answer": "rectangular"
+      },
+      {
+        "question": "Describe the visual texture of the background of the nutrition facts table.",
+        "answer": "smooth"
+      },
+      {
+        "question": "Considering the overall visual presentation, what is the relative size of the text used?",
+        "answer": "small"
+      }
+    ]
+  }
+]

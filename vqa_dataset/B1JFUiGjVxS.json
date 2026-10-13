@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/01/0173afb2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the overall texture of the fabric depicted?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Considering the visible fibers, what is the apparent weave type?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Describe the directionality of the visible fabric grain or lines?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Based on the image, what is the general appearance of the surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the image, is the fabric's surface glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the image reveal any discernible pattern in the weave?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "How would you describe the density of the weave?",
+        "answer": "Tight"
+      },
+      {
+        "question": "What is the predominant shade of the grey presented?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Considering the visual details, is the fabric plain or patterned?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Does the image show any noticeable variation in color intensity?",
+        "answer": "Slight"
+      },
+      {
+        "question": "Based solely on the image, what is the likely fiber type?",
+        "answer": "Unknown"
+      },
+      {
+        "question": "From this image, is it possible to determine a specific fabric weight?",
+        "answer": "No"
+      },
+      {
+        "question": "Can the image show us the exact dimensions or length of the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the visual quality of the image provided?",
+        "answer": "Clear"
+      }
+    ]
+  }
+]

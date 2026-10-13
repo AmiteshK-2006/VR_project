@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2f/2f84ceb9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color scheme of the food label?",
+        "answer": "Green"
+      },
+      {
+        "question": "Based on the text's font and style, what is the overall typeface used for the ingredient list?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Examining the text's arrangement, what is the primary organizational structure of the ingredients listing?",
+        "answer": "List"
+      },
+      {
+        "question": "Observing the textual information, what is the main subject indicated in the prominent heading?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Judging by the visual detail, what kind of information is being conveyed by this food label?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Analyzing the textual content, what is the predominant type of vegetable mentioned?",
+        "answer": "Mixed"
+      },
+      {
+        "question": "What specific vegetable is listed among the main components?",
+        "answer": "Carrots"
+      },
+      {
+        "question": "Based on the visual details, what liquid is listed as an ingredient in the product?",
+        "answer": "Water"
+      },
+      {
+        "question": "What specific seasoning or additive is mentioned for maintaining firmness?",
+        "answer": "Salt"
+      },
+      {
+        "question": "What type of oil is listed among the ingredients?",
+        "answer": "Onion"
+      },
+      {
+        "question": "What is the chemical compound listed for maintaining the product's texture?",
+        "answer": "Chloride"
+      },
+      {
+        "question": "What kind of beans are specifically mentioned in the ingredients?",
+        "answer": "Lima"
+      },
+      {
+        "question": "What type of corn is included among the listed ingredients?",
+        "answer": "Kernel"
+      },
+      {
+        "question": "What legumes are specified as being part of this mixed vegetable product?",
+        "answer": "Beans"
+      },
+      {
+        "question": "What small round vegetable is listed among the other vegetables?",
+        "answer": "Peas"
+      }
+    ]
+  }
+]

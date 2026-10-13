@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/67/67eb0fa3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual presentation, what is the primary color scheme of the label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the dominant font style used across the label's text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the visual layout, what is the primary function of the text on this label?",
+        "answer": "Informative"
+      },
+      {
+        "question": "What case is used predominantly for the ingredient names?",
+        "answer": "Title"
+      },
+      {
+        "question": "What is the general format of the ingredients' listing?",
+        "answer": "Bulleted"
+      },
+      {
+        "question": "Disregarding any specific names, what type of text is 'OTHER INGREDIENTS'?",
+        "answer": "Heading"
+      },
+      {
+        "question": "In what order are the ingredients generally listed?",
+        "answer": "Sequential"
+      },
+      {
+        "question": "Describing the visual elements only, what is the text alignment?",
+        "answer": "Left"
+      },
+      {
+        "question": "What punctuation is used to separate multiple ingredients within parentheses?",
+        "answer": "Comma"
+      },
+      {
+        "question": "What is the general shape of the text block?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the size of the text that describes the 'OTHER INGREDIENTS'?",
+        "answer": "Large"
+      },
+      {
+        "question": "Visually inspecting the typography, how is the text spacing?",
+        "answer": "Standard"
+      },
+      {
+        "question": "Ignoring the content, what is the overall texture of the label?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based purely on visual observation, what is the apparent finish of the label's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging purely from its look, what is the likely material of the label?",
+        "answer": "Paper"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e3/e3800a74.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the picture frame shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the cross-section, what material appears to constitute the frame?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Based on the image, what is the overall shape of the picture frame's profile?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Observing the corners, what type of joint is used in the frame's construction?",
+        "answer": "Mitered"
+      },
+      {
+        "question": "Judging by the image, what seems to be the finish of the wooden frame?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the frame's surface appear smooth or rough to the touch based on visual cues?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Examining the cross-section, what is the approximate width of the frame's profile?",
+        "answer": "Thick"
+      },
+      {
+        "question": "From the provided image, what is the visible grain direction of the wood in the cross-section?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the apparent depth of the rabbet visible in the cross-section of the frame?",
+        "answer": "Shallow"
+      },
+      {
+        "question": "What is the general appearance of the wood's color variation within the cross-section?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Considering the picture frame's profile, is it characterized by sharp or rounded edges?",
+        "answer": "Sharp"
+      },
+      {
+        "question": "Based on the image, how would you describe the style of the picture frame?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Is there any visible ornamentation or detailing on the frame's surface?",
+        "answer": "None"
+      },
+      {
+        "question": "Does the image suggest any visible signs of distressing or aging on the frame?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image, what is the frame's overall visual impression?",
+        "answer": "Clean"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/15/15853127.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual layout, what is the dominant orientation of the printed information on the label?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the primary color of the rectangular label's background against which the text is printed?",
+        "answer": "White"
+      },
+      {
+        "question": "Disregarding any minor imperfections, what is the most apparent geometrical shape of the presented label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on visual analysis only, what appears to be the primary function of this item, indicated by the visible text?",
+        "answer": "Informational"
+      },
+      {
+        "question": "What is the color of the ink used to print the ingredients and other details on this rectangular label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Observing the texture of the label's surface, what might best describe its general feel to the touch?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From a visual standpoint, how many clearly defined textual sections or paragraphs are noticeable on this item?",
+        "answer": "Three"
+      },
+      {
+        "question": "Focusing solely on the typography, what word stands out prominently as the first word of the label?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Inspecting the visual composition of the label, how would one describe its layout style?",
+        "answer": "Linear"
+      },
+      {
+        "question": "What is the apparent material of the surface where the information is printed, based on visual characteristics?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Considering the style of the typeface, what is the most notable characteristic?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "In the context of the entire label, what is the most significant term regarding sourcing mentioned?",
+        "answer": "FairTrade"
+      },
+      {
+        "question": "Given the information's arrangement, how could the label's informational content be characterized?",
+        "answer": "Descriptive"
+      },
+      {
+        "question": "What is the general visual tone conveyed by this item, considering the contrast and clarity?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "What word immediately follows the word \"Ingredients:\" on the label?",
+        "answer": "Chocolate"
+      }
+    ]
+  }
+]

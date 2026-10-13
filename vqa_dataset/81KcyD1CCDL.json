@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/86/86395c23.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the visible upper material of this shoe, as shown in the provided image?",
+        "answer": "Red"
+      },
+      {
+        "question": "Considering the image, what appears to be the primary material used for the shoe's upper?",
+        "answer": "Suede"
+      },
+      {
+        "question": "Based on the image, what is the overall shape or style of this particular shoe?",
+        "answer": "Casual"
+      },
+      {
+        "question": "From the image, what type of closure mechanism does this shoe employ?",
+        "answer": "Lace-up"
+      },
+      {
+        "question": "Judging from the provided image, what color is the shoe's sole, focusing only on the visible portion?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the apparent texture of the upper material of the shoe, as shown in the picture?",
+        "answer": "Fuzzy"
+      },
+      {
+        "question": "Based solely on visual inspection of the image, what is the visible design element present on the shoe's side?",
+        "answer": "Logo"
+      },
+      {
+        "question": "What color is the visible portion of the inner lining of the shoe, as depicted in the image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the image, what seems to be the construction of the shoe's sole—is it a single or layered structure?",
+        "answer": "Layered"
+      },
+      {
+        "question": "What is the apparent style of the lacing system visible on the shoe, as observed in the image?",
+        "answer": "Standard"
+      },
+      {
+        "question": "Based on the visual features in the provided image, what is the overall look of the shoe?",
+        "answer": "Simple"
+      },
+      {
+        "question": "From the image, what is the visible thickness of the shoe's sole—thin or thick?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Observing the image carefully, is the shoe's toe box pointed, round, or squared?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Based on the image, does the shoe exhibit a low, mid, or high-top design?",
+        "answer": "Low"
+      },
+      {
+        "question": "What is the apparent height of the shoe's heel, based on the provided image?",
+        "answer": "Flat"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/92/9236b676.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary textual element prominently displayed across the top of this nutrition label?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Considering the label's structure, what key nutritional information is presented in bold, large font, and clearly prioritized?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Based on the visual layout, what specific metric is given a quantitative value in grams (g) to indicate the fat content of a single serving?",
+        "answer": "Fat"
+      },
+      {
+        "question": "What is visually indicated as the amount of total fat, in grams, contained within a single serving, as per the information provided on the label?",
+        "answer": "14g"
+      },
+      {
+        "question": "Focusing solely on the visual appearance, what is the quantitative value, in grams (g), listed for saturated fat in a single serving, as shown on this nutritional label?",
+        "answer": "1g"
+      },
+      {
+        "question": "Regarding the visual representation of the data on this label, what is the numerical value, in grams (g), denoted for monounsaturated fat per serving?",
+        "answer": "11g"
+      },
+      {
+        "question": "What is the numerical value shown on this label, representing the amount of polyunsaturated fat, measured in grams, for each serving?",
+        "answer": "2g"
+      },
+      {
+        "question": "Examining the label visually, what specific value, measured in milligrams (mg), is listed for the cholesterol content of a single serving?",
+        "answer": "0mg"
+      },
+      {
+        "question": "According to the image, what is the numerical value, in milligrams (mg), indicated for the sodium content within a single serving, as displayed on the label?",
+        "answer": "0mg"
+      },
+      {
+        "question": "What is the numerical value, in grams (g), visually presented on the label to represent the total carbohydrate amount for a single serving?",
+        "answer": "0g"
+      },
+      {
+        "question": "Based on the visible information on this label, what is the numerical value given for the protein content of one serving, expressed in grams (g)?",
+        "answer": "0g"
+      },
+      {
+        "question": "What is the total number of servings, as a numerical value, indicated as being contained within the product's packaging, according to the visual information presented on the label?",
+        "answer": "33"
+      },
+      {
+        "question": "What is the serving size stated on the label, expressed numerically in both tablespoons (Tbsp) and milliliters (mL)?",
+        "answer": "1"
+      },
+      {
+        "question": "Observing the color scheme, what dominant color is predominantly used as a background for the overall nutritional information presented on the label?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering the overall visual design, what is the font style predominantly used for the textual elements and numerical data displayed on this label?",
+        "answer": "Sans-serif"
+      }
+    ]
+  }
+]

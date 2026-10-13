@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a4/a4237a14.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the disposable cup shown in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "What appears to be the main material used in the construction of this beverage container?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Considering the overall form, what geometric shape best describes the product's profile?",
+        "answer": "Cylinder"
+      },
+      {
+        "question": "Based on its size relative to the hand, is the cup best described as large or small in capacity?",
+        "answer": "Large"
+      },
+      {
+        "question": "Does the cup appear to possess any noticeable patterns or decorative elements on its surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the top edge, does the cup have a rolled or a sharp rim?",
+        "answer": "Rolled"
+      },
+      {
+        "question": "From the image, can you determine if the cup is designed for hot or cold beverages?",
+        "answer": "Cold"
+      },
+      {
+        "question": "Judging from the visual texture, is the surface of the cup smooth or rough to the touch?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the image provide any indication of a lining or coating inside the paper cup?",
+        "answer": "No"
+      },
+      {
+        "question": "Is the depicted cup single-use or designed for repeated usage?",
+        "answer": "Single"
+      },
+      {
+        "question": "Does the external surface of the cup display any form of branding or logo?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the overall style, would you classify the design as modern or traditional?",
+        "answer": "Modern"
+      },
+      {
+        "question": "Does the image clearly show any handles or additional features attached to the cup?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image, is the paper cup rigid or does it exhibit significant flexibility?",
+        "answer": "Rigid"
+      },
+      {
+        "question": "Does the presented image indicate any type of seal or lid included with the cup?",
+        "answer": "No"
+      }
+    ]
+  }
+]

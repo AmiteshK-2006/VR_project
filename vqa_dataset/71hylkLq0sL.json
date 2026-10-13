@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/df/df50bc16.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what best describes the product's shape, as seen in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material appears to primarily constitute the product's packaging, based on visual inspection?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Observing the image, what single color predominantly characterizes the product's container?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the image, what functional feature is most prominent for carrying or attaching the item?",
+        "answer": "Hook"
+      },
+      {
+        "question": "Examining the image, what type of text or graphic design is predominantly featured on the product's surface?",
+        "answer": "Label"
+      },
+      {
+        "question": "Judging from the image, what is the overall texture of the product's packaging, as visually assessed?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall visual condition of the product shown, apparent from the image?",
+        "answer": "New"
+      },
+      {
+        "question": "From the image, what is the apparent size of the product relative to everyday objects?",
+        "answer": "Small"
+      },
+      {
+        "question": "Focusing on the image, what is the general style of the product's presentation or packaging design?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Considering the visual details, what type of information is prominently displayed on the label?",
+        "answer": "Text"
+      },
+      {
+        "question": "Based on the visual appearance in the image, what is the apparent transparency of the product's container?",
+        "answer": "Translucent"
+      },
+      {
+        "question": "From the image, what is the apparent clarity of the product's contents?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Considering the visible details, is there any noticeable branding or logo present on the product?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent thickness of the product's container wall, according to visual inspection?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Based on the image, what is the overall visual impression of the product's design?",
+        "answer": "Functional"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e5/e50fbf4b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant textural characteristic of the upper material, as visually apparent in the image?",
+        "answer": "Fuzzy"
+      },
+      {
+        "question": "Considering the overall shape, what single-word descriptor best describes this footwear?",
+        "answer": "Slip-on"
+      },
+      {
+        "question": "What single color most accurately represents the predominant shade of the shoe's upper?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Based on its visual appearance, what material seems to constitute the majority of the shoe's upper?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "What is the apparent texture of the sole, visually evident from the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the most apparent design pattern across the shoe's upper, based solely on visual inspection?",
+        "answer": "Heathered"
+      },
+      {
+        "question": "Judging from the image, what would you describe the general form factor of the shoe as?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Observing the image, what material seems to compose the shoe's sole, according to visual cues?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "What is the apparent flexibility of the shoe's sole, as visually indicated by its form?",
+        "answer": "Bendy"
+      },
+      {
+        "question": "According to visual observation, what style of shoe is shown in the image?",
+        "answer": "Loafer"
+      },
+      {
+        "question": "Considering only visual details, what is the relative thickness of the sole, as observed in the image?",
+        "answer": "Thin"
+      },
+      {
+        "question": "What is the overall visual impression of the shoe's aesthetic, based purely on image observation?",
+        "answer": "Casual"
+      },
+      {
+        "question": "Visually inspecting the shoe's construction, how many distinct components are primarily visible?",
+        "answer": "Two"
+      },
+      {
+        "question": "Based on its visual look, what is the apparent comfort level of the shoe?",
+        "answer": "Cozy"
+      },
+      {
+        "question": "By visual inspection only, what is the apparent lightness or heaviness of the footwear?",
+        "answer": "Light"
+      }
+    ]
+  }
+]

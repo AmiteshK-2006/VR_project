@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e7/e7f136cf.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout and design, what best describes the visual presentation of the nutritional information?",
+        "answer": "tabular"
+      },
+      {
+        "question": "What is the primary color used for the text in the nutritional information panel?",
+        "answer": "black"
+      },
+      {
+        "question": "Based on the image, what language(s) appear in the nutrition facts?",
+        "answer": "multiple"
+      },
+      {
+        "question": "What is the background color surrounding the nutrition facts?",
+        "answer": "pink"
+      },
+      {
+        "question": "Describe the font style used for the 'NUTRITION' header.",
+        "answer": "bold"
+      },
+      {
+        "question": "What graphic elements are present outside the main nutrition panel?",
+        "answer": "leaves"
+      },
+      {
+        "question": "What is the color of the graphic elements surrounding the nutrition panel?",
+        "answer": "red"
+      },
+      {
+        "question": "Considering the shape and arrangement, how is the nutritional data structured?",
+        "answer": "columns"
+      },
+      {
+        "question": "What units of measurement are used for energy values?",
+        "answer": "kJ"
+      },
+      {
+        "question": "What units are used for the measurement of carbohydrates?",
+        "answer": "grams"
+      },
+      {
+        "question": "Describe the visual style of the text – is it serif or sans-serif?",
+        "answer": "sans-serif"
+      },
+      {
+        "question": "Is the text in the nutritional information predominantly uppercase or lowercase?",
+        "answer": "uppercase"
+      },
+      {
+        "question": "Considering the overall visual aesthetic, is the style modern or vintage?",
+        "answer": "modern"
+      },
+      {
+        "question": "Judging from the image, what appears to be the product's nutritional focus?",
+        "answer": "sugar"
+      },
+      {
+        "question": "In terms of visual density, is the information densely or sparsely presented?",
+        "answer": "dense"
+      }
+    ]
+  }
+]

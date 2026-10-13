@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/cd/cd0558f0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape and the presence of nutritional information organized in rows and columns, what is the primary function suggested by the visual design of this item?",
+        "answer": "Label"
+      },
+      {
+        "question": "Observing the detailed nutritional data presented, what is the primary purpose of this information conveyed on the item shown in the image?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Focusing on the color palette used throughout the rectangular label, predominantly what color is used for the text and the background?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the typeface style utilized for the prominent text elements of the label, such as 'Nutrition Facts' and the calorie count?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the size and prominence of the number '110', what specific nutritional value does it prominently represent for a single serving?",
+        "answer": "Calories"
+      },
+      {
+        "question": "What is the overall shape of the informational panel as shown in the provided image?",
+        "answer": "Rectangle"
+      },
+      {
+        "question": "Examining the texture of the label, what is the most prominent surface finish apparent in the image; is it glossy, matte, or something else?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on the visual information provided, what material seems to be used for the primary structural component of the presented item?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the dominant visual characteristic regarding the text layout on the label; is it horizontally oriented, vertically oriented, or something else?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the general arrangement of elements on the product, considering the position and arrangement of different textual sections?",
+        "answer": "Organized"
+      },
+      {
+        "question": "Observing the text 'Serving Size' adjacent to a measurement unit, what is the standard serving quantity as indicated on the product?",
+        "answer": "Cup"
+      },
+      {
+        "question": "Based on the information depicted on the item's surface, what unit of measurement is used to quantify 'Total Fat' and other nutritional components?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Considering the visual information provided, what is the predominant style and design of the product's label?",
+        "answer": "Informative"
+      },
+      {
+        "question": "What is the style of the text elements, considering aspects such as font weight and boldness across the label?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Observing the text elements, what is the general state of the text on the label; is it printed, stamped, or something else?",
+        "answer": "Printed"
+      }
+    ]
+  }
+]

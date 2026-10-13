@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f8/f8947b01.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the loaf's overall hue, what single word best describes its dominant color as seen in the image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the primary shape of this packaged food item, judging purely by its visible external form?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on its appearance, what is the most likely material comprising the bulk of the product within the packaging?",
+        "answer": "Bread"
+      },
+      {
+        "question": "Disregarding the packaging, what is the apparent texture of the food product visible through the plastic wrapping?",
+        "answer": "Crumbly"
+      },
+      {
+        "question": "Observing the external appearance, does the bread show signs of visible inclusions or additions that stand out in the main color?",
+        "answer": "Seeds"
+      },
+      {
+        "question": "What type of packaging primarily encloses the bread loaf as depicted in the provided image?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering only the visual aspects, what is the overall condition of the bread loaf's exterior, such as apparent freshness or staleness?",
+        "answer": "Fresh"
+      },
+      {
+        "question": "What is the apparent weight of this product purely on the basis of its size and shape, as shown in the image?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "Focusing solely on visual aspects, what is the visible orientation of the sliced bread, either horizontal or vertical?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Judging from the image, what is the number of slices apparent in the bread loaf's packaging?",
+        "answer": "Many"
+      },
+      {
+        "question": "Observing the visual characteristics, what kind of loaf style seems to be shown in this product picture?",
+        "answer": "Sliced"
+      },
+      {
+        "question": "What single word describes the appearance of the edges of the slices as visible in the image?",
+        "answer": "Crisp"
+      },
+      {
+        "question": "What is the overall visible structural integrity of the loaf, considering its shape, consistency, and containment within the packaging?",
+        "answer": "Intact"
+      },
+      {
+        "question": "Considering the visible elements, does the bread exhibit a uniformity of color and texture throughout the loaf?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the visual data, what is the visible level of moisture on the surface of the bread?",
+        "answer": "None"
+      }
+    ]
+  }
+]

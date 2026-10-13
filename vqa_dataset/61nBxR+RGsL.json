@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b6/b6c1b11e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color scheme of this food product's nutritional information panel?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Examining the textual layout, what language(s) are prominently used for labeling nutritional values?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "Focusing on the typography, what is the general font style used throughout the nutritional information section?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Observing the structure, how is the nutritional data arranged within the rectangular panel?",
+        "answer": "tabular"
+      },
+      {
+        "question": "Based on the visual appearance, what is the format of the quantitative values provided for the macro-nutrients?",
+        "answer": "Decimal"
+      },
+      {
+        "question": "Regarding the text's properties, what is the relative size of the 'Energy' value compared to other nutrient values?",
+        "answer": "Larger"
+      },
+      {
+        "question": "Analyzing the visual hierarchy, what is the level of contrast between the text and the background?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the visual texture of the background of this nutritional information panel?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the image, what is the shape of the nutritional information panel area?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the visual elements, are there any noticeable graphic design elements beyond text and numbers?",
+        "answer": "No"
+      },
+      {
+        "question": "Analyzing the visual details, is the text alignment left, right, or centered within its respective columns?",
+        "answer": "Left"
+      },
+      {
+        "question": "What is the apparent weight of the typography used for providing nutritional information?",
+        "answer": "Normal"
+      },
+      {
+        "question": "Observing the image, what is the visible pattern or design on the background of the panel?",
+        "answer": "None"
+      },
+      {
+        "question": "Based on what is visually evident, is the overall visual impression of the information panel clean and organized?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging by the visual style, would you classify the overall aesthetic of the panel as modern or traditional?",
+        "answer": "Modern"
+      }
+    ]
+  }
+]

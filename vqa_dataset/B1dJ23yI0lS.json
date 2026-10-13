@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/70/708ab204.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the fabric shown in the image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the overall texture of the fabric, considering its weave and appearance?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Considering the image, what kind of material does the fabric most closely resemble?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "Describe the visible pattern on the fabric in relation to its structure?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Judging from the visible weave, what is the general density of the fabric?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Based solely on the visual evidence, what is the apparent finish of the fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the fabric exhibit a noticeable sheen or glossiness in the provided image?",
+        "answer": "No"
+      },
+      {
+        "question": "How would you describe the visual uniformity of the fabric's color and texture?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Observing the image, is the fabric's surface smooth or rough to the touch?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall visual impression of the fabric's weight and drape?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Considering the image, does the fabric exhibit any distinct or visible imperfections?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "From the image, describe the nature of the visible threads within the fabric?",
+        "answer": "Fine"
+      },
+      {
+        "question": "What is the most apparent visual characteristic of the fabric's structure?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Based only on the visual evidence, how would you classify the fabric's style?",
+        "answer": "Casual"
+      },
+      {
+        "question": "Does the image suggest a specific type of fabric weave from its appearance?",
+        "answer": "Plain"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4e/4e0ff44f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed fabric sample?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the overall visual texture of the fabric shown?",
+        "answer": "Woven"
+      },
+      {
+        "question": "What kind of fiber or material is predominantly apparent in the image?",
+        "answer": "Linen"
+      },
+      {
+        "question": "Describing the visual appearance, how would you characterize the fabric's finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the visual details, what is the apparent weave type of the fabric?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Based solely on the image, what is the implied weight of this fabric?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Judging from the visual, what is the overall visual drape of this material?",
+        "answer": "Slight"
+      },
+      {
+        "question": "Can you describe the visual presence of sheen or luster in the fabric?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "What is the visible directionality of the fabric's weave pattern?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "From visual assessment, what is the level of perceived opacity of the material?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "How would you describe the visual uniformity of the fabric's color and texture?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "What is the apparent visual thickness or density of the fabric?",
+        "answer": "Moderate"
+      },
+      {
+        "question": "Based only on the image's visual cues, does the fabric show any visible patterns?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the visual details, does this fabric display any visible irregularities?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent visual softness or harshness of the fabric?",
+        "answer": "Medium"
+      }
+    ]
+  }
+]

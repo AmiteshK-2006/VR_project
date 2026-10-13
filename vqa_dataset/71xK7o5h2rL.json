@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6b/6b295b9d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the presented nutritional information panel?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the dominant color scheme used for the text and background?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the primary font style used throughout the nutritional information panel?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the primary method used for organizing the nutritional data?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the textual style used to emphasize the title of the panel?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Considering the layout, what is the general orientation of the information?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the main unit used for the measurement of Calories?",
+        "answer": "Number"
+      },
+      {
+        "question": "What textual element shows the amount of servings per container?",
+        "answer": "Number"
+      },
+      {
+        "question": "What is the textual style used for the 'Calories per serving' value?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the unit of measurement used for sodium content?",
+        "answer": "Mg"
+      },
+      {
+        "question": "What is the style of the lines separating the different nutritional facts?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What kind of information is presented within the detailed table?",
+        "answer": "Numbers"
+      },
+      {
+        "question": "Based on its visual presentation, what is the format of this information?",
+        "answer": "List"
+      },
+      {
+        "question": "What is the texture visually presented by the panel's appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall appearance of the presented nutritional information?",
+        "answer": "Clean"
+      }
+    ]
+  }
+]

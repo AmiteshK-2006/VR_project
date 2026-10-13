@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/30/30272081.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the device's visible surface, as shown in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the depicted device, what is its primary geometric shape?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the image, what appears to be the primary material used in the construction of the device's outer casing?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Examining the device's surface, what is the visual texture of the light-diffusing area?",
+        "answer": "Gridded"
+      },
+      {
+        "question": "What kind of connector is visibly attached to the power cord shown in the image?",
+        "answer": "USB"
+      },
+      {
+        "question": "From the image, what type of electrical connection is shown for the device’s AC power?",
+        "answer": "Plug"
+      },
+      {
+        "question": "What is the apparent configuration of the light emitting elements on the device’s top surface?",
+        "answer": "Array"
+      },
+      {
+        "question": "Based solely on the image, how many visible working modes does the device display?",
+        "answer": "Two"
+      },
+      {
+        "question": "Judging from the provided image, what is the overall design style of the device?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "From the image, what is the visible design of the front of the device?",
+        "answer": "Dotted"
+      },
+      {
+        "question": "In the provided image, what is the visible form factor of the power adapter?",
+        "answer": "Blocky"
+      },
+      {
+        "question": "Based on the image, what is the visible shape of the diffuser component itself?",
+        "answer": "Square"
+      },
+      {
+        "question": "Does the image show any obvious markings, labels or text on the device itself?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image, are there any visible mechanical moving parts in the device?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall apparent size of the device, based on the image provided?",
+        "answer": "Small"
+      }
+    ]
+  }
+]

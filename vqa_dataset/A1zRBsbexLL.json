@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1e/1e0219b9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the fabric shown in the image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent weave type of this fabric?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Based on the image, what is the overall visual texture of the fabric sample?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Judging from the image, what is the main material that appears to comprise this textile?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "Describing the appearance, what is the level of sheen exhibited by this fabric?",
+        "answer": "Slight"
+      },
+      {
+        "question": "From visual inspection, is there a noticeable pattern in the fabric's weave?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the general visual impression of the fabric's density?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Does the image suggest any visible imperfections in the fabric's structure?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the dominant shade or tone of the gray presented in the textile sample?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Based on visual analysis, how would you characterize the visual uniformity of this fabric?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What kind of finish does the fabric appear to possess based on the image provided?",
+        "answer": "Matte"
+      },
+      {
+        "question": "From the image, what seems to be the thickness of the fabric being shown?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Does the picture reveal any visible embellishments or extra details on the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the general visual impression regarding the drape or softness of this fabric?",
+        "answer": "Firm"
+      },
+      {
+        "question": "What is the apparent visual weight or hand feel of the fabric in the provided image?",
+        "answer": "Heavy"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/18/18f475ee.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form and structure, what is the dominant shape of this product container?",
+        "answer": "Bottle"
+      },
+      {
+        "question": "What primary color is prominently featured on the label, indicating the product type?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Based on the label's text, what is the main function or purpose of the beverage inside?",
+        "answer": "Drink"
+      },
+      {
+        "question": "Observing the material of the container, what substance appears to be used in its construction?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Judging by its appearance, what is the general condition of the product; is it new or used?",
+        "answer": "New"
+      },
+      {
+        "question": "What word is most prominently displayed, signaling the product's categorization?",
+        "answer": "Sports"
+      },
+      {
+        "question": "Looking at the top of the bottle, what kind of closure mechanism is apparent?",
+        "answer": "Cap"
+      },
+      {
+        "question": "What is the texture of the plastic bottle, is it smooth or rough to the touch?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the image, is the product container transparent or opaque?",
+        "answer": "Transparent"
+      },
+      {
+        "question": "What type of label is used, a sticker or directly printed on the bottle?",
+        "answer": "Label"
+      },
+      {
+        "question": "From the visual details, does the bottle show any noticeable signs of damage or wear?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the overall visual style of the product design; minimalist or elaborate?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Can you describe the color of the cap located at the top of the bottle?",
+        "answer": "White"
+      },
+      {
+        "question": "Analyzing the labeling, is the text primarily English or another language?",
+        "answer": "English"
+      },
+      {
+        "question": "What seems to be the approximate size of the bottle, small, medium, or large?",
+        "answer": "Small"
+      }
+    ]
+  }
+]

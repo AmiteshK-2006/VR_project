@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/86/8676d536.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color observed across the entire visible surface?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "Considering the visible texture, what is the apparent surface feel?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the visual grain, what material is predominantly suggested?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Judging from the image's grain patterns, what is the implied fiber direction?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Does the image exhibit any noticeable, significant color variations?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the overall visual pattern presented in the given image sample?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Considering the uniformity, is the material's texture consistent throughout?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Given the visual subtleties, is there a noticeable sheen or gloss present?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the visual texture and color, what would the material's drape likely be?",
+        "answer": "Soft"
+      },
+      {
+        "question": "From the visual texture, what type of weave is possibly indicated?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Observing the visible surface, are there any discernible patterns or prints?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image's subtle tones, is the color predominantly warm or cool?",
+        "answer": "Warm"
+      },
+      {
+        "question": "Describe the overall light reflection on the visible material surface.",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on visual texture, does it appear to be a thick or thin material?",
+        "answer": "Thin"
+      },
+      {
+        "question": "If this material were folded, what is the likely appearance of the crease?",
+        "answer": "Soft"
+      }
+    ]
+  }
+]

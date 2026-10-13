@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1c/1ce48742.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual presentation, what is the dominant color scheme of the displayed information?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the primary font style utilized for the detailed ingredient description?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the text's arrangement, what is the orientation of the presented product information?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the specific type of food product that this packaging label is describing?",
+        "answer": "Powder"
+      },
+      {
+        "question": "In terms of the food classification, what agricultural source is the powder derived from?",
+        "answer": "Plant"
+      },
+      {
+        "question": "Judging by the label's textual content, is there mention of potential allergens?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the overarching style of the labeling which provides ingredient information?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Disregarding any specific words, what is the textual layout of the information on the label?",
+        "answer": "Block"
+      },
+      {
+        "question": "In reference to the text's appearance, what is the general capitalization pattern of the product description?",
+        "answer": "Sentence"
+      },
+      {
+        "question": "What is the overall visual texture of the text displayed on this product label?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Ignoring any specific details, how is the informational text presented on the label?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Observing the text, is the overall appearance of the text sharp or blurred?",
+        "answer": "Sharp"
+      },
+      {
+        "question": "What style of punctuation is employed consistently throughout the product description?",
+        "answer": "Period"
+      },
+      {
+        "question": "Judging by the label, what is the key ingredient of the labeled product?",
+        "answer": "Maca"
+      },
+      {
+        "question": "What single word summarizes the labeling's function?",
+        "answer": "Ingredients"
+      }
+    ]
+  }
+]

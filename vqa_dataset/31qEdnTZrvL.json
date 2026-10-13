@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ee/ee5a8436.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the text displayed on the product's label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What language is used for the first ingredient listing on the label?",
+        "answer": "English"
+      },
+      {
+        "question": "What language is used for the secondary ingredient listing on the product label?",
+        "answer": "French"
+      },
+      {
+        "question": "What is the font style used for the words 'Ingredients' and 'Ingr\u00e9dients'?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the general shape or format of the text on the label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the background color of the label upon which the text is printed?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visual appearance, is the text on the label uppercase or lowercase?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "What is the listed ingredient in English on this product label?",
+        "answer": "Brussel"
+      },
+      {
+        "question": "What is the listed ingredient in French on this product label?",
+        "answer": "Choux"
+      },
+      {
+        "question": "What word precedes the ingredient listing in English on the label?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What word precedes the ingredient listing in French on the label?",
+        "answer": "Ingr\u00e9dients"
+      },
+      {
+        "question": "Describe the overall texture of the label itself, visually speaking?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Is the text on the label evenly spaced or unevenly spaced?",
+        "answer": "Evenly"
+      },
+      {
+        "question": "What is the apparent surface finish of the label (glossy, matte, etc.)?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the visual style, would you describe the label's design as simple or complex?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

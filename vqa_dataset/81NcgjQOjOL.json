@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8a/8a1c2e2a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the windshield sunshade, as visually apparent in the image?",
+        "answer": "Silver"
+      },
+      {
+        "question": "Judging solely from the image, what appears to be the primary material of the sunshade?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Based on the image alone, what is the overall shape of the deployed sunshade?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Does the sunshade, as shown in the image, appear to have any reflective properties?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering only the visual evidence, what seems to be the texture of the sunshade's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From the image, is the sunshade design primarily composed of solid panels or intricate patterns?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Does the image show any visible attachment mechanisms for securing the sunshade to the windshield?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What color is the visible portion of the car's dashboard, as shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the image, what appears to be the position of the sunshade relative to the dashboard?",
+        "answer": "Above"
+      },
+      {
+        "question": "Does the image show any logos, brands, or labels directly printed on the sunshade?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging solely from its visual appearance, how many distinct parts or panels does the sunshade seem to have?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the apparent condition of the sunshade in the presented image; new or used?",
+        "answer": "New"
+      },
+      {
+        "question": "Considering only visual details, what seems to be the level of transparency of the sunshade material?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "From the image, is the sunshade visibly folded or unfolded in its presented state?",
+        "answer": "Unfolded"
+      },
+      {
+        "question": "Based on the image, what is the approximate relative size of the sunshade compared to the vehicle's windshield?",
+        "answer": "Full"
+      }
+    ]
+  }
+]

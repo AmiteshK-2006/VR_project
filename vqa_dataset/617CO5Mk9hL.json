@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ac/acae6a05.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color scheme of the packaging, based on the visual appearance?",
+        "answer": "Black"
+      },
+      {
+        "question": "What flavor is explicitly indicated on the product's packaging, as shown in the image?",
+        "answer": "Banana"
+      },
+      {
+        "question": "Describe the primary graphic element featured prominently on the front of the package, ignoring text.",
+        "answer": "Triangle"
+      },
+      {
+        "question": "What type of protein is specified as the main ingredient, judging solely from the visual representation?",
+        "answer": "Whey"
+      },
+      {
+        "question": "Considering the image, what is the overall shape of the product's container?",
+        "answer": "Pouch"
+      },
+      {
+        "question": "What is the apparent texture of the primary packaging material, based solely on visual inspection?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What color is the secondary accent color used in the design, visible in the image?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "Based on the visual details, what is the apparent material of the product's container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What word describes the style of the brand logo visible on the packaging, considering the font and its arrangement?",
+        "answer": "Modern"
+      },
+      {
+        "question": "Considering the visible text, what is the brand name of the product, based only on the visual cues?",
+        "answer": "AMFIT"
+      },
+      {
+        "question": "What is the form in which the protein product is presented, based solely on the provided image?",
+        "answer": "Powder"
+      },
+      {
+        "question": "What descriptive word best reflects the overall visual aesthetic of the product packaging?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Based on the image, what nutritional claim is visibly emphasized on the packaging design?",
+        "answer": "Low"
+      },
+      {
+        "question": "What does the visible text on the package indicate about the product's nutritional value?",
+        "answer": "Sugars"
+      },
+      {
+        "question": "Describe the design of the package's seal, referring specifically to its visual characteristics.",
+        "answer": "Metallic"
+      }
+    ]
+  }
+]

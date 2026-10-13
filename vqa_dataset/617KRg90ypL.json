@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/7b/7b7ee963.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the lampshade, as observed in the provided image?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of the lampshade, judging from its visible profile?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Considering the visual texture, what material appears to constitute the lampshade?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Based on the image, does the lampshade exhibit any noticeable patterns or designs?",
+        "answer": "None"
+      },
+      {
+        "question": "Observing the image, is the fabric of the lampshade smooth or textured?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the image, what is the approximate height-to-diameter ratio of the cylindrical shade?",
+        "answer": "Tall"
+      },
+      {
+        "question": "Does the provided image reveal any visible seams or stitching on the lampshade?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent level of sheen or glossiness of the lampshade\u2019s surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "From the visual evidence, is the bottom edge of the lampshade finished or raw?",
+        "answer": "Finished"
+      },
+      {
+        "question": "Is there any discernible fringe, trim, or embellishment along the shade's edges?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the image reveal any color variations or inconsistencies in the lampshade\u2019s color?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image, does the lampshade appear to be made from a single piece of fabric?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging by the image, how would you describe the overall visual style of the lampshade?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the visible state of the lampshade; is it creased or uncreased?",
+        "answer": "Uncreased"
+      },
+      {
+        "question": "Considering the image, is the color of the lampshade uniformly distributed across its surface?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

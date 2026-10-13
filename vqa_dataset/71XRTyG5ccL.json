@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4a/4a7e5d48.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's visual characteristics, what is the primary font style employed for the ingredient list?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the image, what is the predominant color used for the text detailing the ingredients?",
+        "answer": "Black"
+      },
+      {
+        "question": "Judging from the text's appearance, what is the overall case of the lettering used to list the ingredients?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "In terms of text alignment, how is the ingredient list arranged on the packaging?",
+        "answer": "Left"
+      },
+      {
+        "question": "What is the apparent background color of the section that displays the ingredients?",
+        "answer": "White"
+      },
+      {
+        "question": "Observing the textual layout, what is the visual pattern separating the 'Ingredients' label from the list itself?",
+        "answer": "Colon"
+      },
+      {
+        "question": "What is the visual style used to separate individual ingredients within the list?",
+        "answer": "Comma"
+      },
+      {
+        "question": "What term is visibly used to indicate the potential presence of wheat in the product?",
+        "answer": "May"
+      },
+      {
+        "question": "What additional ingredient is visually indicated as potentially present due to the production facility?",
+        "answer": "Soy"
+      },
+      {
+        "question": "Judging solely by the image, what other substance besides wheat is explicitly stated as a potential contaminant?",
+        "answer": "Milk"
+      },
+      {
+        "question": "Based on the visual elements, what is the word preceding 'White Quinoa' in the list?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What descriptor precedes 'Brown Jasmine Rice' in the list of ingredients?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What descriptive term modifies the chickpeas in the provided list of ingredients?",
+        "answer": "Cracked"
+      },
+      {
+        "question": "Observing the textual layout, what is the formatting used to denote the end of the ingredients list?",
+        "answer": "Period"
+      },
+      {
+        "question": "What word appears after 'Produced in a facility that'?",
+        "answer": "Processes"
+      }
+    ]
+  }
+]

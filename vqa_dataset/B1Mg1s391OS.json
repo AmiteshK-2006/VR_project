@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f7/f720381b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed fabric swatch?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the overall textural impression conveyed by the fabric's weave?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Considering the visual weave, what is the likely material composition?",
+        "answer": "Linen"
+      },
+      {
+        "question": "Based on its appearance, what is the fabric's apparent weight or density?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Judging by the image, what is the finish of the fabric's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the fabric exhibit a discernible pattern or print?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the visual texture, how would you describe the fabric's drape?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent level of sheen or glossiness present on the fabric?",
+        "answer": "Low"
+      },
+      {
+        "question": "What is the implied fiber direction implied by the fabric's weave?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Describe the uniformity of the color throughout the sample's visible area.",
+        "answer": "Consistent"
+      },
+      {
+        "question": "From the image, is the fabric's weave tightly or loosely constructed?",
+        "answer": "Tightly"
+      },
+      {
+        "question": "Does the image suggest the presence of any visible flaws or imperfections?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall visual impression of the fabric's color saturation?",
+        "answer": "Muted"
+      },
+      {
+        "question": "Describe the visual clarity and definition of the fabric's weave structure.",
+        "answer": "Clear"
+      },
+      {
+        "question": "Based on the visual texture, what is the fabric’s likely hand-feel?",
+        "answer": "Soft"
+      }
+    ]
+  }
+]

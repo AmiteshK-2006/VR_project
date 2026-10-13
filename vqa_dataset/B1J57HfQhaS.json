@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9b/9bfdc738.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color displayed across the entire visible surface?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the visible texture, what is the apparent material of this item?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Based on the image, what kind of finish does the surface appear to have?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Describe the overall visual texture presented by the surface's appearance.",
+        "answer": "Grainy"
+      },
+      {
+        "question": "What is the apparent nature of the surface's coloring, considering its uniformity?",
+        "answer": "Solid"
+      },
+      {
+        "question": "What is the general impression of the surface's smoothness or roughness?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Judging by the visible patterns, what is the surface's apparent grain direction?",
+        "answer": "Random"
+      },
+      {
+        "question": "Does the material appear to have any noticeable or distinct sheen?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the implied weight or density of the apparent material, judging by the image?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "Can you visually identify any obvious marks, scratches, or imperfections?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is the material shown in the image characterized by any visible stitching?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent level of surface reflectivity shown in the image?",
+        "answer": "Low"
+      },
+      {
+        "question": "Based on visible characteristics, does the material look artificially treated?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the image show any clear evidence of the material being embossed?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the color variation, is the shade uniform across the entire surface?",
+        "answer": "No"
+      }
+    ]
+  }
+]

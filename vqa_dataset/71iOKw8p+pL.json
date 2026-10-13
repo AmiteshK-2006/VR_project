@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/da/da402021.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the nutrition label's text?",
+        "answer": "Black"
+      },
+      {
+        "question": "What language is primarily used on the nutrition label?",
+        "answer": "French"
+      },
+      {
+        "question": "What is the overall shape of the nutrition information panel?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the background color of the nutrition information panel?",
+        "answer": "White"
+      },
+      {
+        "question": "Does the label include details about serving sizes?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the format of the nutritional information presented?",
+        "answer": "Table"
+      },
+      {
+        "question": "Is there a 'Best Before' date displayed on the label?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What type of information is prominently featured on this label?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What units are used to measure energy values on the label?",
+        "answer": "Kcal"
+      },
+      {
+        "question": "Are both grams and kilograms used for measurements?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the label specify the number of servings per package?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the orientation of the text on the nutrition label?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Are there any warnings or special storage instructions on the label?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the label feature any logos or brand names?",
+        "answer": "No"
+      },
+      {
+        "question": "Is the text on the label primarily in uppercase or lowercase?",
+        "answer": "Uppercase"
+      }
+    ]
+  }
+]

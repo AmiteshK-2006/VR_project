@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9d/9d9dc15a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what single word best describes the product's shape, as visually apparent in the image?",
+        "answer": "Conical"
+      },
+      {
+        "question": "What is the primary color dominating the majority of the product's visible surface?",
+        "answer": "White"
+      },
+      {
+        "question": "Based purely on visual inspection, what appears to be the main material composing the product's outer layer?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Focusing on the lower section, what is the most prominent color of the depicted food items, disregarding any text or branding?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What appears to be the texture of the depicted food, specifically focusing on the visible parts?",
+        "answer": "Crisp"
+      },
+      {
+        "question": "What is the most apparent type of food depicted in the lower section of the package?",
+        "answer": "Vegetable"
+      },
+      {
+        "question": "What kind of imagery is predominantly shown at the bottom of the packaging, supporting the product's content?",
+        "answer": "Illustrative"
+      },
+      {
+        "question": "Looking at the upper portion, what kind of design element is used prominently on the top half of the bag?",
+        "answer": "Textural"
+      },
+      {
+        "question": "Considering the graphic design at the bottom, are the vegetables shown in a natural or stylized presentation?",
+        "answer": "Stylized"
+      },
+      {
+        "question": "What is the overall visual impression given by the color scheme of the entire package?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Is the print on the bag primarily focused on information or branding, judged by the visual prominence?",
+        "answer": "Information"
+      },
+      {
+        "question": "Disregarding text, what is the main visual element in the bottom part of the package?",
+        "answer": "Vegetables"
+      },
+      {
+        "question": "What could be the implied intended use of this product, based purely on visual observation?",
+        "answer": "Snack"
+      },
+      {
+        "question": "Is the depiction of the food on the bag realistic or more like an artistic representation?",
+        "answer": "Artistic"
+      },
+      {
+        "question": "What color is the band across the bottom of the package, featuring more prominent visual elements?",
+        "answer": "Red"
+      }
+    ]
+  }
+]

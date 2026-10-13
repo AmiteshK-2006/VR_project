@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/de/de67241e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the jar's contents, as shown through the transparent glass?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the overall shape of the product container, ignoring the lid?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Considering the visible portion, what material appears to constitute the majority of the product packaging?",
+        "answer": "Glass"
+      },
+      {
+        "question": "What is the general texture of the sauce visible through the glass, considering the image's resolution?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What color is the prominent label design element on the jar, near the nutrition facts?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What shape is the main label design on the jar's side, disregarding the text?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging by the image, what kind of closure does the jar seem to possess on top?",
+        "answer": "Screw-on"
+      },
+      {
+        "question": "What is the apparent material of the lid affixed to the jar's opening?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Based on the visible text, what is the product primarily composed of?",
+        "answer": "Tomatoes"
+      },
+      {
+        "question": "What is the color of the lettering on the label, predominantly?",
+        "answer": "White"
+      },
+      {
+        "question": "What shape is the visible barcode area on the back of the jar?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent state of the jar's contents\u2014liquid or solid?",
+        "answer": "Liquid"
+      },
+      {
+        "question": "What is the general condition of the product's labeling; neat, creased, or damaged?",
+        "answer": "Neat"
+      },
+      {
+        "question": "Does the jar appear to be full, partially full, or empty?",
+        "answer": "Full"
+      },
+      {
+        "question": "Considering the visible details, is there any obvious damage or imperfection on the jar?",
+        "answer": "No"
+      }
+    ]
+  }
+]

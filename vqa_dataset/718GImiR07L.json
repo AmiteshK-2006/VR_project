@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9a/9a51600c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form factor, what is the predominant shape of the depicted product?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the primary color of the product's main body, as observed in the image?",
+        "answer": "Pink"
+      },
+      {
+        "question": "Based on visual inspection, what appears to be the material of the product's label?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Focusing on the label, what is the most prominent color of the text and graphics?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the texture of the product's surface, indicated by visual observation?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Examining the image, is there any evidence suggesting the product is made of plastic?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the product's label contain any discernible graphic design elements?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Observing the label, what type of information is primarily presented?",
+        "answer": "Text"
+      },
+      {
+        "question": "What seems to be the purpose of the barcode, as clearly evident on the product?",
+        "answer": "Identification"
+      },
+      {
+        "question": "Is there any visible indication of text on the white portion of the product?",
+        "answer": "Yes"
+      },
+      {
+        "question": "According to the image, what seems to be the overall condition of the product?",
+        "answer": "New"
+      },
+      {
+        "question": "Focusing solely on the image, is the product's finish glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What appears to be the size of the product, considering the visible proportions?",
+        "answer": "Small"
+      },
+      {
+        "question": "Examining the image, what is the visible style of the packaging?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the clarity of the text and graphics printed on the product's label?",
+        "answer": "Clear"
+      }
+    ]
+  }
+]

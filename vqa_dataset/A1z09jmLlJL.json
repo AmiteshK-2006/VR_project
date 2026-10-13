@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9e/9e6e36c1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed fabric sample?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the overall visual texture of the fabric shown in the image?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Considering the weave, what is the apparent material composition of this textile?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "Describe the most apparent visual characteristic of the fabric's weave pattern?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Based on visual analysis, what is the general density of the fabric's weave?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Judging by the image, what is the predominant shade variation in the fabric?",
+        "answer": "Heathered"
+      },
+      {
+        "question": "Can you describe the visual uniformity of color and weave across the sample?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "What is the appearance of the individual threads in relation to each other?",
+        "answer": "Interlaced"
+      },
+      {
+        "question": "How would you characterize the visual 'weight' or thickness of this fabric?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Does the fabric appear to have any discernible patterns beyond its weave?",
+        "answer": "None"
+      },
+      {
+        "question": "Based purely on the image, does the fabric seem smooth or rough to the touch?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the image show any visible imperfections or irregularities in the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent finish of the fabric's surface as shown in the picture?",
+        "answer": "Matte"
+      },
+      {
+        "question": "How would you describe the level of sheen or gloss exhibited by the fabric?",
+        "answer": "Low"
+      },
+      {
+        "question": "Does the sample display a noticeable pile or nap on its visible surface?",
+        "answer": "No"
+      }
+    ]
+  }
+]

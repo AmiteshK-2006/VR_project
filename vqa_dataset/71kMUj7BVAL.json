@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/26/261d6047.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the text on the product's label, as visibly apparent?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the label's visual design, what is the overall typeface style used for the prominent text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the label's visual appearance, what is the primary language used in the product's ingredient list?",
+        "answer": "English"
+      },
+      {
+        "question": "What is the background color of the label, as directly observed in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the text formatting of the 'INGREDIENTS' heading on the product label, as visually apparent?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Judging from the visual layout, what is the style of the text presentation on the product label?",
+        "answer": "List"
+      },
+      {
+        "question": "Considering the label image, what is the general texture of the label's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based solely on the provided image, what is the shape of the text block describing the product's ingredients?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent material of the label from a visual perspective, as observed directly?",
+        "answer": "Paper"
+      },
+      {
+        "question": "From the image, what is the overall visual impression given by the font size and weight used?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Based only on the visual information provided, what is the style of the small text regarding processing facility?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Judging from the visual clarity, how is the text's contrast against the label background?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the visual appearance of the overall style of the text's arrangement?",
+        "answer": "Organized"
+      },
+      {
+        "question": "Based on the image, how would you describe the arrangement of the ingredients within the list?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Judging by the image, what is the visual format of the allergen statement at the bottom?",
+        "answer": "Sentence"
+      }
+    ]
+  }
+]

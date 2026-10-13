@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d0/d0b270cc.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual design, what is the dominant color scheme of the nutrition facts label?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the primary font style used for the 'Nutrition Facts' heading?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Observing the text layout, what is the primary alignment of the numerical data values?",
+        "answer": "Right"
+      },
+      {
+        "question": "Examining the compositional elements, what is the shape of the individual data entries within the table?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on visual observation, what is the text's weight (boldness) for nutrient names?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the visual texture of the label's background, taking into account any apparent patterns or finishes?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Regarding the visual hierarchy, what is the size of the 'Servings' value relative to other numerical values?",
+        "answer": "Large"
+      },
+      {
+        "question": "Considering the font attributes, what is the style of the asterisk (*) marking the daily values footnote?",
+        "answer": "Superscript"
+      },
+      {
+        "question": "What is the visual prominence of the 'Calories' value compared to other nutritional information presented?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the overall layout style of the nutrition facts table?",
+        "answer": "Tabular"
+      },
+      {
+        "question": "In terms of visual organization, how many columns are present in the nutrition facts table?",
+        "answer": "Four"
+      },
+      {
+        "question": "Based on the visual appearance, what is the contrast between the text and background colors?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the visual weight given to the 'Percent Daily Values' section?",
+        "answer": "Moderate"
+      },
+      {
+        "question": "What is the typeface of the brand declarations at the top, indicating grade and processing?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Judging from visual characteristics alone, what is the material the label is printed on?",
+        "answer": "Paper"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5e/5e951de0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall shape and dimensions of this product, what is its primary geometrical form?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the predominant color of the label displayed on the product container?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary material from which the container of this item seems to be constructed?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Observing the label, what type of information is prominently featured in a highly structured manner?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the overall texture of the product's container as visually perceived?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the color of the text used to display the product's nutritional content?",
+        "answer": "Black"
+      },
+      {
+        "question": "Can you describe the font style used for the main text on the label (e.g., sans-serif, serif)?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the predominant visual element on the label besides the text?",
+        "answer": "Table"
+      },
+      {
+        "question": "Are there any discernible images or symbols present on the product packaging?",
+        "answer": "None"
+      },
+      {
+        "question": "What style of labeling is used for the nutritional data (e.g., paragraph, list, table)?",
+        "answer": "Table"
+      },
+      {
+        "question": "Is the label's surface matte or glossy?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the general appearance of the label's layout (e.g., cluttered, organized, simple)?",
+        "answer": "Organized"
+      },
+      {
+        "question": "Describing the size and clarity of the text on the label, what would you say?",
+        "answer": "Small"
+      },
+      {
+        "question": "Does the container have any visible seals, markings, or tamper evidence?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the visual information, is this product mainly designed for human consumption or other purpose?",
+        "answer": "Human"
+      }
+    ]
+  }
+]

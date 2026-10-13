@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4d/4d2e9957.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the depicted surface?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the apparent texture of the displayed material?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the visual characteristics, what material is likely?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Based on the image, what is the overall finish of the surface?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What is the general appearance of the shown surface's sheen?",
+        "answer": "Dull"
+      },
+      {
+        "question": "Describe the uniformity of the color across the entire surface.",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Does the surface exhibit any noticeable patterns or designs?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image, how would you describe the visual grain?",
+        "answer": "Fine"
+      },
+      {
+        "question": "Based on the image, how would you characterize the visual depth?",
+        "answer": "Flat"
+      },
+      {
+        "question": "What is the general visual impression of the surface's smoothness?",
+        "answer": "SlightlyRough"
+      },
+      {
+        "question": "Considering the visual features, is the surface reflective?",
+        "answer": "No"
+      },
+      {
+        "question": "If you were to touch this surface, what would you expect to feel?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the image reveal any marks or imperfections on the surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the visual presentation suggest a painted or natural finish?",
+        "answer": "Painted"
+      },
+      {
+        "question": "What might be an appropriate description of the color's intensity?",
+        "answer": "Dark"
+      }
+    ]
+  }
+]

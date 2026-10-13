@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b2/b230487c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the dominant three-dimensional shape of the product as presented in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent primary color of the product's main body, based on visual observation alone?",
+        "answer": "Peach"
+      },
+      {
+        "question": "Disregarding packaging, what appears to be the most noticeable surface texture of the product itself?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based solely on the image, what material seems to be used for the outer layer encasing the product?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Judging by the visual presentation, does the product appear to be solid, semi-solid, or liquid in its state?",
+        "answer": "Semi-solid"
+      },
+      {
+        "question": "Considering its visible features, what is the most likely function or purpose of this product, solely based on the image?",
+        "answer": "Food"
+      },
+      {
+        "question": "Observing its visual structure, is the item homogeneous in terms of its color and texture throughout?",
+        "answer": "Yes"
+      },
+      {
+        "question": "In terms of the packaging, what is the material type of the visible containment?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the general visual impression or condition of the product's packaging, such as its cleanliness?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Examining the product's edge from this image, what could be an accurate assessment of its overall thickness?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Looking at the product closely, are there any noticeable patterns or designs on the main component?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the predominant shade of the product's color, excluding any packaging effects?",
+        "answer": "Pale"
+      },
+      {
+        "question": "Considering only the product's shape and size within its package, what is its approximate form factor?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Based solely on visual observation, is the product's surface matte or glossy in appearance?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Regarding the item's visual presentation, does it exhibit any signs of damage or significant imperfections?",
+        "answer": "No"
+      }
+    ]
+  }
+]

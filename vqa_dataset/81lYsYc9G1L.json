@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/98/980d3103.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the depicted automotive component?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary material used in the construction of this item?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Considering the overall form, what geometric descriptor best suits this object's shape?",
+        "answer": "Irregular"
+      },
+      {
+        "question": "Describe the texture displayed across the surface of this vehicle part, based solely on visual inspection?",
+        "answer": "Ribbed"
+      },
+      {
+        "question": "What is the most apparent design feature that runs vertically across the whole component?",
+        "answer": "Stripes"
+      },
+      {
+        "question": "Focusing on the edges, what kind of profile is observable around this car part's perimeter?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Based on its appearance, what is the most likely intended function of this automotive item?",
+        "answer": "Protection"
+      },
+      {
+        "question": "Considering the presence of small holes, what is their probable purpose on the item's surface?",
+        "answer": "Fastening"
+      },
+      {
+        "question": "What is the overall visual impression of the finish on this part, matte or glossy?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging from the image, how many visible fastening holes are present on this object?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the apparent thickness of the material used in this automotive accessory?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Describe the orientation of the most prominent design element relative to the object's overall layout?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Considering the item's form, is its overall profile better described as flat or three-dimensional?",
+        "answer": "Three-dimensional"
+      },
+      {
+        "question": "Based on visual inspection, is the surface of this component smooth or textured?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What is the general condition of the item shown in the provided image?",
+        "answer": "New"
+      }
+    ]
+  }
+]

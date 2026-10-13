@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ea/eaab4ae6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the ramp, judging solely from its visual appearance?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering only the visible texture, what is the surface of the ramp like?",
+        "answer": "Striped"
+      },
+      {
+        "question": "Based on the image, what appears to be the primary material used in the construction of the ramp?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the overall shape of the accessory displayed in the image, ignoring any cage context?",
+        "answer": "Ramp"
+      },
+      {
+        "question": "Judging by visual inspection, does the ramp exhibit any noticeable patterns?",
+        "answer": "Yes"
+      },
+      {
+        "question": "From the provided image, what is the orientation of the ramp relative to the cage?",
+        "answer": "Angled"
+      },
+      {
+        "question": "What seems to be the apparent function of the object depicted in the image?",
+        "answer": "Access"
+      },
+      {
+        "question": "What is the visible condition of the surface on the ramp, based solely on image analysis?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the ramp's construction include any visible fasteners or attachments?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering only the visible features, is the ramp's design simple or ornate?",
+        "answer": "Simple"
+      },
+      {
+        "question": "In terms of its length and width, is the ramp a long or short addition to the cage?",
+        "answer": "Long"
+      },
+      {
+        "question": "From the visual information provided, does the ramp have a solid or open structure?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Based on the image, is the ramp's surface flat or does it have a pronounced slope?",
+        "answer": "Sloped"
+      },
+      {
+        "question": "Does the ramp show any obvious signs of damage or wear based on the visual information?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering only the ramp's visual attributes, what is its overall style?",
+        "answer": "Functional"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/99/9976165e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the image, what is the primary connector type visibly present on one end of the cable?",
+        "answer": "HDMI"
+      },
+      {
+        "question": "Observing the image carefully, what is the secondary connector type displayed on the opposite end of the cable?",
+        "answer": "DVI"
+      },
+      {
+        "question": "Based on visual inspection of the image, what appears to be the dominant color of the cable's outer sheathing?",
+        "answer": "Gray"
+      },
+      {
+        "question": "From the provided image, what material seems to be used for the connector housings at both ends of the cable?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the apparent shape of the connector housing at the HDMI end of the cable, as shown in the provided image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Focusing on the image, what is the apparent shape of the connector housing at the DVI end of the cable?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "As shown in the image, what seems to be the overall texture of the cable's outer sheath?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based solely on the image, what is the apparent finish of the DVI connector's metal pins?",
+        "answer": "Gold"
+      },
+      {
+        "question": "What seems to be the visible color of the HDMI connector's pins, as shown in the image?",
+        "answer": "Silver"
+      },
+      {
+        "question": "From the image, what appears to be the construction of the cable itself?",
+        "answer": "Braided"
+      },
+      {
+        "question": "Based on the image, what is the apparent condition of the cable and connectors?",
+        "answer": "New"
+      },
+      {
+        "question": "According to the image, are there any visible markings on the cable besides the connectors?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent overall length of the cable shown in the image?",
+        "answer": "Unknown"
+      },
+      {
+        "question": "Judging by the image, does the cable appear to be flexible or rigid?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Focusing on the image, are there any visible signs of damage to the cable or connectors?",
+        "answer": "No"
+      }
+    ]
+  }
+]

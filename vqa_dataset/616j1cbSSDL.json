@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/39/390892c8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary textual element depicted, concerning the product's composition?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Considering the textual content, what is a notable ingredient explicitly mentioned?",
+        "answer": "Molasses"
+      },
+      {
+        "question": "Based on the text, what specific type of gum is listed among the ingredients?",
+        "answer": "Acacia"
+      },
+      {
+        "question": "What type of wax is identified within the ingredient list?",
+        "answer": "Carnuba"
+      },
+      {
+        "question": "What chemical compound is listed as an ingredient, often used as an anti-caking agent?",
+        "answer": "Silicon"
+      },
+      {
+        "question": "According to the text, what is the origin of the maltodextrin?",
+        "answer": "Tapioca"
+      },
+      {
+        "question": "What specific type of lecithin is mentioned among the components?",
+        "answer": "Sunflower"
+      },
+      {
+        "question": "What kind of oil, derived from plants, is listed as an ingredient?",
+        "answer": "Palm"
+      },
+      {
+        "question": "What additional type of gum is included in the product's composition?",
+        "answer": "Guar"
+      },
+      {
+        "question": "What type of facility is the product manufactured in, regarding potential allergens?",
+        "answer": "Shared"
+      },
+      {
+        "question": "Considering the allergen warning, what nut type is mentioned?",
+        "answer": "Tree"
+      },
+      {
+        "question": "In the allergen statement, what dairy product is specified?",
+        "answer": "Milk"
+      },
+      {
+        "question": "According to the warning, what poultry product should be noted?",
+        "answer": "Eggs"
+      },
+      {
+        "question": "What type of seafood is mentioned in the allergy statement?",
+        "answer": "Shellfish"
+      },
+      {
+        "question": "What grain is listed in the allergen advisory?",
+        "answer": "Wheat"
+      }
+    ]
+  }
+]

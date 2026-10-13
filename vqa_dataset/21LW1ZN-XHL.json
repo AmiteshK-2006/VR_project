@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b5/b5695466.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall dominant color of the presented item?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the item's form, what geometric shape best describes it?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on visual texture, how would you describe the surface of the object?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What material appears to constitute the primary component of this product?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Examining the image closely, are there any visible markings or patterns on the item's surface?",
+        "answer": "None"
+      },
+      {
+        "question": "Does the object exhibit a glossy or matte finish, judging from its visual appearance?",
+        "answer": "Matte"
+      },
+      {
+        "question": "From the image, can you discern any noticeable perforations or holes in the item?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the product's visual characteristics, is it transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Considering its form, what is the most likely primary function of this product?",
+        "answer": "Packaging"
+      },
+      {
+        "question": "In relation to the human hand in the image, approximately what size is this object?",
+        "answer": "Large"
+      },
+      {
+        "question": "Does the object's appearance suggest flexibility or rigidity of material?",
+        "answer": "Rigid"
+      },
+      {
+        "question": "Observing the edges of the item, what is their general appearance?",
+        "answer": "Straight"
+      },
+      {
+        "question": "From the photograph, does the item appear to have any noticeable seams or folds?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering its size and apparent material, is this item likely heavy or lightweight?",
+        "answer": "Lightweight"
+      },
+      {
+        "question": "Based purely on visual assessment, what is the thickness of the item?",
+        "answer": "Thin"
+      }
+    ]
+  }
+]

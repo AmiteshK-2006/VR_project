@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/60/60ede33a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the packaging, indicating a possible flavor profile or brand identity?",
+        "answer": "Purple"
+      },
+      {
+        "question": "Considering the overall form factor, what is the most likely product category that this item falls into?",
+        "answer": "Snack"
+      },
+      {
+        "question": "Based on the shape and dimensions, what is the most probable physical form of the edible product within?",
+        "answer": "Bar"
+      },
+      {
+        "question": "What appears to be the primary material used for the outer wrapping, suggesting its purpose and practicality?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Observing the surface texture, describe the feel of the outer wrapper, implying its manufacturing process.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is visible on the back panel, providing essential information for consumers according to regulations?",
+        "answer": "Labels"
+      },
+      {
+        "question": "What kind of code is present on the side, enabling efficient tracking and management within supply chains?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "Describing the packaging's overall design style, what is the general aesthetic conveyed visually?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Considering the seals and folds, what is the primary method of packaging preservation?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "What is the shape of the packaging design, implying a likely product conformation?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging from the subtle design elements, what style of product packaging is predominantly used?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the general condition of the packaging in this image, suggesting its status for sale?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Based on the visual clarity, is the labeling on the packaging easily legible or unclear?",
+        "answer": "Legible"
+      },
+      {
+        "question": "What is the prominent feature on the side of the packaging, crucial for consumer identification?",
+        "answer": "Text"
+      },
+      {
+        "question": "What aspect of the packaging design seems to be consistent across the entire surface?",
+        "answer": "Color"
+      }
+    ]
+  }
+]

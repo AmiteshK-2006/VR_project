@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/75/7589ccc8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the visible surface of the product?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What kind of texture is predominantly visible on the product's top surface?",
+        "answer": "Speckled"
+      },
+      {
+        "question": "Considering the visible portion, what is the overall shape of the product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the primary material used in the construction of this object?",
+        "answer": "Concrete"
+      },
+      {
+        "question": "Describe the finish of the product's visible surfaces, considering its visual appearance.",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on the visible edges, what can be inferred about the product's construction method?",
+        "answer": "Moulded"
+      },
+      {
+        "question": "What is the general appearance of the visible grain or pattern in the material?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Considering the visible portion, is the product's design minimalist or ornate?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Describe the visible edges' sharpness or roundness on this product?",
+        "answer": "Sharp"
+      },
+      {
+        "question": "Does the visible surface exhibit any noticeable patterns or markings beyond the texture?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image, what is the apparent thickness of the top surface of the product?",
+        "answer": "Thick"
+      },
+      {
+        "question": "What kind of visual impression does the overall color and texture create?",
+        "answer": "Industrial"
+      },
+      {
+        "question": "What seems to be the general condition of the visible surfaces of the product?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the relative homogeneity of the color across the visible area of the product?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Based on the image, does the product appear to be made of a single material or multiple materials?",
+        "answer": "Single"
+      }
+    ]
+  }
+]

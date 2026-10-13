@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fa/fab68d74.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed material sample?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the apparent texture of the surface shown in the image?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Considering the visual appearance, what material is most likely being shown?",
+        "answer": "Faux"
+      },
+      {
+        "question": "Based on the image, what is the overall visual finish of this material?",
+        "answer": "Distressed"
+      },
+      {
+        "question": "Describe the pattern that is visible across the material's surface?",
+        "answer": "Grained"
+      },
+      {
+        "question": "What is the apparent visual depth and dimensionality of the surface texture?",
+        "answer": "Embossed"
+      },
+      {
+        "question": "How would you describe the tone or shade of the brown color presented?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Considering the visible properties, what is the implied material type?",
+        "answer": "Synthetic"
+      },
+      {
+        "question": "Does the material show any significant regularity in its surface pattern?",
+        "answer": "No"
+      },
+      {
+        "question": "What level of visual uniformity is present throughout the material sample?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "How would you characterize the visual sheen or gloss of the material shown?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Is the surface of the material sample visibly smooth or rough to the touch?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Does the sample's texture visually convey any sense of softness or hardness?",
+        "answer": "Hard"
+      },
+      {
+        "question": "Considering the subtle variations, what visual characteristic is most prominent?",
+        "answer": "Texture"
+      },
+      {
+        "question": "What is the general shape of the presented material sample area?",
+        "answer": "Rectangular"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e1/e123c644.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the product's label, based on the visible design?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the primary material that seems to constitute the bottle of the product?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the shape, what kind of container is this product packaged in?",
+        "answer": "Bottle"
+      },
+      {
+        "question": "What is the overall shape of the product container, disregarding the label?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What type of closure or dispenser is visible on the top of the container?",
+        "answer": "Pump"
+      },
+      {
+        "question": "Describe the texture of the label's design, focusing on its visual pattern?",
+        "answer": "Geometric"
+      },
+      {
+        "question": "What is the apparent texture of the product's bottle itself?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What prominent word or brand name is featured on the label?",
+        "answer": "SOLMO"
+      },
+      {
+        "question": "Considering the context, what is the product category suggested by the image?",
+        "answer": "Haircare"
+      },
+      {
+        "question": "What is the visual style of the product\u2019s label design (e.g., minimalist, ornate)?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What is the implied state of the product based on the surrounding water imagery?",
+        "answer": "Liquid"
+      },
+      {
+        "question": "Based on the visible text, what is the product's size or volume?",
+        "answer": "250ml"
+      },
+      {
+        "question": "What design element seems to divide the label\u2019s main body into distinct visual sections?",
+        "answer": "Lines"
+      },
+      {
+        "question": "In terms of visual features, does the label show signs of any apparent embossing or raised text?",
+        "answer": "No"
+      },
+      {
+        "question": "Disregarding the brand name, are any other words visible on the label?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

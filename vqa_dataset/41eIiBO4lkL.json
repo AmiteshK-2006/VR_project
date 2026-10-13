@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/43/439b685b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the textual information presented, what is the primary ingredient explicitly mentioned in the provided image?",
+        "answer": "Rice"
+      },
+      {
+        "question": "Based on the image's textual details, what specific variety of rice is indicated as the origin of the product?",
+        "answer": "Rice"
+      },
+      {
+        "question": "According to the visible text, where is the single-origin rice in the image sourced from geographically?",
+        "answer": "Hokkaido"
+      },
+      {
+        "question": "What is the brand name of the rice product clearly shown in the provided image?",
+        "answer": "Yuumei"
+      },
+      {
+        "question": "Judging from the textual data in the picture, what is the apparent nature of the rice's origin, as described?",
+        "answer": "Single"
+      },
+      {
+        "question": "If we interpret the visible text, what language does the text in the image appear to be written in?",
+        "answer": "Japanese"
+      },
+      {
+        "question": "What type of information does the provided text mostly convey, as far as we can visually determine?",
+        "answer": "Metadata"
+      },
+      {
+        "question": "In reference to the presented image only, what seems to be the main subject being described in the text?",
+        "answer": "Product"
+      },
+      {
+        "question": "Considering solely the visible text, what kind of information is included in the second row of the image?",
+        "answer": "Origin"
+      },
+      {
+        "question": "Based on the image's text, can we define the product type through visual examination?",
+        "answer": "Food"
+      },
+      {
+        "question": "From a visual standpoint of the text alone, is the description primarily focused on taste or origin?",
+        "answer": "Origin"
+      },
+      {
+        "question": "If we consider the text in the picture, is there any visible indication of processing methods mentioned?",
+        "answer": "No"
+      },
+      {
+        "question": "Referring only to the image, what type of text is used, based on its visual presentation and context?",
+        "answer": "Label"
+      },
+      {
+        "question": "What seems to be the most prominent visual attribute of the presented textual information?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall visual arrangement of the information shown in the image's text?",
+        "answer": "Tabular"
+      }
+    ]
+  }
+]

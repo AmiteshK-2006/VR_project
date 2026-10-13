@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0f/0f81e761.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the depicted object's surface?",
+        "answer": "Red"
+      },
+      {
+        "question": "Considering the water droplet, what is the apparent surface texture?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Based on the water behavior, what is the apparent surface property?",
+        "answer": "Waterproof"
+      },
+      {
+        "question": "Describe the overall shape of the visible product portion.",
+        "answer": "Curved"
+      },
+      {
+        "question": "What is the dominant pattern visible on the object's surface?",
+        "answer": "Linear"
+      },
+      {
+        "question": "What appears to be the material of this product, judging by its appearance?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Characterize the surface pattern's visual arrangement on the object.",
+        "answer": "Repeating"
+      },
+      {
+        "question": "Considering the droplet's form, what can be said about the surface's smoothness?",
+        "answer": "Uneven"
+      },
+      {
+        "question": "What is the apparent finish of the product's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the image, does the object exhibit any glossiness?",
+        "answer": "No"
+      },
+      {
+        "question": "Can you describe the form of the visible water droplet on the surface?",
+        "answer": "Convex"
+      },
+      {
+        "question": "What seems to be the manufacturing process reflected in its surface?",
+        "answer": "Molded"
+      },
+      {
+        "question": "Describe the directionality of the visible lines on the product's surface.",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Considering the water's behavior, what might the surface be composed of?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering its appearance, what is the general condition of the product?",
+        "answer": "New"
+      }
+    ]
+  }
+]

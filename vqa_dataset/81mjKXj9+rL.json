@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1a/1a62a0bf.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the product packaging, as visually apparent?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What type of food product does the packaging primarily advertise?",
+        "answer": "Sausage"
+      },
+      {
+        "question": "Besides chicken, what other flavor is prominently featured on the packaging?",
+        "answer": "Maple"
+      },
+      {
+        "question": "What is the overall shape of the depicted product container?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the material of the product's outer packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Considering the text and imagery, what is the apparent brand of this item?",
+        "answer": "365"
+      },
+      {
+        "question": "What kind of text is used for the product's name, describing its style?",
+        "answer": "Serif"
+      },
+      {
+        "question": "Describe the texture of the product packaging based solely on its visual appearance.",
+        "answer": "SlightlyRough"
+      },
+      {
+        "question": "What is the orientation of the packaging in the provided image, based on its shape?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Does the packaging show any noticeable additional logos apart from the main brand?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the packaging's design, what is the implied size of the contained product?",
+        "answer": "Small"
+      },
+      {
+        "question": "Based on the text on the box, what time of day is this food intended for?",
+        "answer": "Breakfast"
+      },
+      {
+        "question": "Describe the color scheme of the small rectangular logo on the box.",
+        "answer": "Multicolored"
+      },
+      {
+        "question": "What is the primary form of communication used on the product's packaging?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the overall visual impression of the packaging's design aesthetic?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

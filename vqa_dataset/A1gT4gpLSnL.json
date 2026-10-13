@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8f/8f6f4cd1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed textile sample?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the overall visual appearance, what is the texture of the fabric?",
+        "answer": "Fuzzy"
+      },
+      {
+        "question": "Based on its visual characteristics, what is the likely material of this sample?",
+        "answer": "Fleece"
+      },
+      {
+        "question": "Judging from the image, how would you describe the surface feel of the material?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Considering the image, what is the overall visual appearance of the material?",
+        "answer": "Solid"
+      },
+      {
+        "question": "What is the apparent thickness of the presented textile sample?",
+        "answer": "Thick"
+      },
+      {
+        "question": "What is the visual impression of the fabric's surface in terms of uniformity?",
+        "answer": "Even"
+      },
+      {
+        "question": "From a purely visual perspective, how would you characterize the fabric's pile?",
+        "answer": "Short"
+      },
+      {
+        "question": "What is the visual impression conveyed by the density of the fabric?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Based on the visible details, how would you describe the drape of this material?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "What is the apparent sheen or glossiness of the textile in the image?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the image, what is the most prominent visual characteristic of this material?",
+        "answer": "Texture"
+      },
+      {
+        "question": "How would you describe the visual clarity and definition of the fabric's fibers?",
+        "answer": "Soft"
+      },
+      {
+        "question": "From the image, how would you describe the color saturation of the textile sample?",
+        "answer": "Low"
+      },
+      {
+        "question": "Does the image suggest the presence of any patterns or designs on the fabric?",
+        "answer": "None"
+      }
+    ]
+  }
+]

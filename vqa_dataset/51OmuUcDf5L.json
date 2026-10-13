@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b6/b67df660.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape and the text's alignment, what is the predominant visual characteristic of this product?",
+        "answer": "Label"
+      },
+      {
+        "question": "Based on the text's clarity and style, what is the apparent purpose of this printed information?",
+        "answer": "Informative"
+      },
+      {
+        "question": "What is the apparent background color of the primary visual area of this product?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the text's typography, what is the primary font color used in the provided image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the specific type of milk indicated as being present in the product, as printed on the label?",
+        "answer": "Nonfat"
+      },
+      {
+        "question": "As indicated on the label, what vitamin is present in this product, in its palmitate form?",
+        "answer": "A"
+      },
+      {
+        "question": "What is the other vitamin explicitly mentioned on the label as a constituent of this product?",
+        "answer": "D3"
+      },
+      {
+        "question": "What is the overall format of the textual information presented on the product's visible part?",
+        "answer": "List"
+      },
+      {
+        "question": "Judging from the image's quality, what is the probable method used to apply the text onto this item?",
+        "answer": "Printing"
+      },
+      {
+        "question": "Based on the visual structure of the text, what is the overall arrangement of the different sections of this product label?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "In terms of the text's appearance, what is the dominant style of the lettering, such as bold or italics?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the overall texture of the surface where the text is printed, as shown in the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the size of the text compared to the entire area where it is displayed?",
+        "answer": "Small"
+      },
+      {
+        "question": "From the visual attributes of the text, how many lines of text are there on the label?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the material that the label appears to be printed on?",
+        "answer": "Paper"
+      }
+    ]
+  }
+]

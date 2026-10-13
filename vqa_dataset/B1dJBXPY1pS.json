@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/40/40f47d87.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the image?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the apparent texture of the displayed fabric sample?",
+        "answer": "Woven"
+      },
+      {
+        "question": "What is the overall visual impression of the fabric's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the image, what kind of weave does the fabric appear to have?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Does the fabric display a noticeable pattern or print?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image, what is the fabric's general appearance?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Describing the color's depth, is it light, medium, or dark?",
+        "answer": "Light"
+      },
+      {
+        "question": "Does the fabric show any visible sheen or luster?",
+        "answer": "Slight"
+      },
+      {
+        "question": "What is the predominant visual quality of the fabric's surface?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Can any distinct fibers be individually identified in the image?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the image reveal any irregularities in the fabric's weave?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image, what is the density of the fabric's weave?",
+        "answer": "Medium"
+      },
+      {
+        "question": "From the visual inspection, how would you describe the fabric's finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "In the image, what is the overall visual tone projected by the fabric?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "Based on the image, is the fabric's structure visibly dense or loose?",
+        "answer": "Dense"
+      }
+    ]
+  }
+]

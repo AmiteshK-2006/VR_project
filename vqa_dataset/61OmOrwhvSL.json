@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/7b/7bc12334.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color scheme of the packaging, as perceived from the visible portions?",
+        "answer": "Pink"
+      },
+      {
+        "question": "Based on the image, what appears to be the primary material composition of the contained product?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "What is the shape and form of the product packaging, as visually presented in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the pattern displayed on the visible portion of the product packaging and/or the product itself,  in a single word.",
+        "answer": "Striped"
+      },
+      {
+        "question": "Observing the packaging, what is the textual descriptor that denotes the product's intended function?",
+        "answer": "Pads"
+      },
+      {
+        "question": "What is the brand name visibly printed on the product packaging?",
+        "answer": "SOLMO"
+      },
+      {
+        "question": "What type of packaging material seems to be used for the outer layer of the product, based solely on visual inspection?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the product's visual features, what is the suggested texture of the cotton pads based on image interpretation?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What is the overall visual impression of the product packaging's design aesthetic, considering its simplicity and color choices?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Based purely on the visuals, what is the apparent density or compactness of the cotton pads inside their packaging?",
+        "answer": "Compact"
+      },
+      {
+        "question": "Considering the packaging's design, what word best describes the layout style of the brand name and product description?",
+        "answer": "Clean"
+      },
+      {
+        "question": "From visual inspection alone, what word best summarizes the visual arrangement of the cotton pads within the packaging?",
+        "answer": "Ordered"
+      },
+      {
+        "question": "Analyzing the image, what is the visible state of the product's packaging (sealed or open)?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Focusing only on the visible part, what is the general lightness or darkness of the dominant color used in the packaging?",
+        "answer": "Light"
+      },
+      {
+        "question": "What single word captures the apparent level of detail in the design of the product's packaging?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

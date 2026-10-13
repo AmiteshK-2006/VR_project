@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a2/a205c260.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the text on the food label, as visually apparent?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the overall visual design, what is the primary text orientation on this food label?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Based on the visual appearance, what is the background color of the food label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the visual style of the typography used for the 'INGREDIENTS' heading?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Does the visual layout of the ingredient list use any visual separators between ingredient groups?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the label, is the text primarily composed of uppercase or lowercase letters?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Judging from the image, what is the visual format of the listed ingredients?",
+        "answer": "List"
+      },
+      {
+        "question": "What is the apparent texture of the food label's surface, considering what is visible in the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on its visual characteristics, does the text appear to be printed or handwritten?",
+        "answer": "Printed"
+      },
+      {
+        "question": "Examining the image, what is the visual size of the text relative to the overall label?",
+        "answer": "Small"
+      },
+      {
+        "question": "Does the label visually exhibit any noticeable damage or wear?",
+        "answer": "No"
+      },
+      {
+        "question": "From the visual perspective, does the label incorporate any images or graphics aside from the text?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image, what is the apparent visual density of the text on the label?",
+        "answer": "High"
+      },
+      {
+        "question": "Based on what is visually present, what is the overall visual shape of the label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging by its visual presentation, what style of font is used for the warning statements at the bottom?",
+        "answer": "Sans-serif"
+      }
+    ]
+  }
+]

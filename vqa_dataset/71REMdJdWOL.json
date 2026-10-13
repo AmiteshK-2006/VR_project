@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/11/118f5cf8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the main backpack compartment, as visibly apparent in the provided image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Describe the color of the accent trim present around the main compartment of the backpack, clearly visible in the image.",
+        "answer": "Red"
+      },
+      {
+        "question": "Based on visual observation, what appears to be the primary material used in the construction of this backpack?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "Considering the image, what is the overall shape of the backpack presented, ignoring straps and minor details?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the visible texture of the backpack's outer material, as can be observed from the image provided?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging from the visual evidence, how many main compartments are visibly present on this backpack?",
+        "answer": "One"
+      },
+      {
+        "question": "What is the apparent type of closure system used for the primary backpack compartment, as visually determined from the image?",
+        "answer": "Zipper"
+      },
+      {
+        "question": "Observing the image, does the backpack display any notable branding or logos visible to the viewer?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the provided image, are there any additional external pockets or compartments visibly present on this backpack?",
+        "answer": "No"
+      },
+      {
+        "question": "From the image, can you identify if the straps of the backpack appear padded or non-padded?",
+        "answer": "Padded"
+      },
+      {
+        "question": "What is the visual appearance of the backpack's straps in terms of their width; are they thin or relatively wide?",
+        "answer": "Wide"
+      },
+      {
+        "question": "According to the image, what is the style of the backpack straps; are they adjustable or fixed?",
+        "answer": "Adjustable"
+      },
+      {
+        "question": "Judging only from what's visible in the image, what appears to be the overall size of this backpack; small, medium, or large?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Considering the image, is there any noticeable pattern on the main body of the backpack?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the provided image, what is the visible condition of the backpack; new or used?",
+        "answer": "New"
+      }
+    ]
+  }
+]

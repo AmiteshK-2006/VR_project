@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d3/d3aff62e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the visible textile?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the apparent texture of the fabric, based on the image?",
+        "answer": "Loop"
+      },
+      {
+        "question": "Considering the weave, what is the most likely material?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "What is the overall shape of the visible portion of the textile?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visual appearance, what is the apparent weight of the fabric?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "Are there any visible patterns or designs on the towel?",
+        "answer": "Stripes"
+      },
+      {
+        "question": "What is the apparent absorbency of the towel (inferred from its look)?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the overall appearance of the towel\u2019s edges?",
+        "answer": "Finished"
+      },
+      {
+        "question": "Judging from the image, how soft does the fabric seem to the touch?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Does the visible portion of the textile show any visible defects?",
+        "answer": "None"
+      },
+      {
+        "question": "What kind of care instructions are indicated on the visible tag?",
+        "answer": "Machine"
+      },
+      {
+        "question": "What is the orientation of the visible stripes on the textile?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Is the fabric's weave dense or loose (inferred from the image)?",
+        "answer": "Dense"
+      },
+      {
+        "question": "What type of tag is attached to the product?",
+        "answer": "Care"
+      },
+      {
+        "question": "What is the apparent thickness of the fabric in millimeters (visually estimated)?",
+        "answer": "Thick"
+      }
+    ]
+  }
+]

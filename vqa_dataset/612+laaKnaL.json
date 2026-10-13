@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0d/0dacc6b1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme visually apparent on the packaging of this product?",
+        "answer": "Green"
+      },
+      {
+        "question": "Considering the visual layout, what is the primary function indicated for this product?",
+        "answer": "Laundry"
+      },
+      {
+        "question": "Based on the image, what is the approximate weight of the product contained within the packaging?",
+        "answer": "2.6kg"
+      },
+      {
+        "question": "What type of cautionary symbol is prominently displayed on the product's packaging?",
+        "answer": "Hazard"
+      },
+      {
+        "question": "Judging by the image, what is the overall physical form of the product?",
+        "answer": "Powder"
+      },
+      {
+        "question": "From the visual presentation, what language is predominantly used on the product labeling?",
+        "answer": "English"
+      },
+      {
+        "question": "Observing the package design, what kind of information is conveyed below 'Storage Instructions'?",
+        "answer": "Care"
+      },
+      {
+        "question": "What is the textual heading found directly below 'Care Instructions' on the packaging?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Based on the visual elements, what is the overall shape of the packaging container?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary color of the border around the text on the product packaging?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the text format of the product's weight designation in the image?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the style of the text used for the product weight and other important information?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What kind of information is predominantly found at the bottom of the product packaging?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the format of the listed ingredients on the product package?",
+        "answer": "List"
+      },
+      {
+        "question": "What is visually depicted as the primary use for this product, based on the package's imagery?",
+        "answer": "Cleaning"
+      }
+    ]
+  }
+]

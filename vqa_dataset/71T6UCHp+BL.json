@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e1/e1128f17.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the predominant shape of the container?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the primary color of the bottle's body, excluding any labels?",
+        "answer": "White"
+      },
+      {
+        "question": "Observing the label, what appears to be the dominant color of the graphical elements?",
+        "answer": "LightBlue"
+      },
+      {
+        "question": "Based on the image, what material seems to constitute the container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Focusing on the cap, what is its overall shape, ignoring specific design details?",
+        "answer": "Round"
+      },
+      {
+        "question": "What is the apparent primary color of the text on the label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What seems to be the text on the label which is partially visible?",
+        "answer": "Cleaner"
+      },
+      {
+        "question": "Regarding the graphical design, what are the shapes representing droplets of liquid?",
+        "answer": "Teardrops"
+      },
+      {
+        "question": "What appears to be the texture of the plastic bottle itself?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the label's bottom, what is depicted indicating recycling information?",
+        "answer": "Symbols"
+      },
+      {
+        "question": "What type of code is present at the bottom of the bottle?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "What is the visible type of text information on the label apart from product name?",
+        "answer": "Instructions"
+      },
+      {
+        "question": "Considering the design's overall style, what would describe it?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Based on the image, what type of closure is present on the container?",
+        "answer": "Snap"
+      },
+      {
+        "question": "Judging by the overall design and packaging, what is the probable product type?",
+        "answer": "Liquid"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0b/0b03f216.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the bottle's label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the predominant shape of the product container?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What type of medication is prominently displayed on the label?",
+        "answer": "Ibuprofen"
+      },
+      {
+        "question": "What is the dosage of the ibuprofen tablets indicated on the label?",
+        "answer": "200mg"
+      },
+      {
+        "question": "What is the apparent material of the product's container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the overall color scheme of the label design?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the text indicating the form of the medication?",
+        "answer": "Tablets"
+      },
+      {
+        "question": "What brand name is visible on the product label?",
+        "answer": "Basic"
+      },
+      {
+        "question": "What is the texture of the bottle shown in the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is depicted as a graphic element on the label?",
+        "answer": "Pill"
+      },
+      {
+        "question": "Is the cap of the bottle visible and what color is it?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the style of the font used for the product name?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the size relative to a hand, is the bottle large or small?",
+        "answer": "Small"
+      },
+      {
+        "question": "Are there nutritional facts visible on the label?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What other language is visible, besides English?",
+        "answer": "French"
+      }
+    ]
+  }
+]

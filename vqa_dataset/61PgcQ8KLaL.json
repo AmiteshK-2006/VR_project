@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/03/03ee33b7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color displayed on the product's label, providing a visual cue for its branding or identity?",
+        "answer": "Green"
+      },
+      {
+        "question": "Considering the label's text, what primary ingredient is visibly highlighted, suggesting the product's main component or flavor profile?",
+        "answer": "Matcha"
+      },
+      {
+        "question": "Based on the label's design, what type of text font is predominantly used, conveying a specific brand image or style?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Observing the text on the label, what is the overall case used for the words, indicating a formal or informal approach?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "What is the arrangement of text on the label, describing the structure of the information presented?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Looking at the text's alignment, how is the information positioned on the label, indicating a balanced or directional approach?",
+        "answer": "Left"
+      },
+      {
+        "question": "What is the apparent texture of the label, suggesting the material or printing technique used?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From the image of the label, what appears to be the color of the text, differentiating the information from the background?",
+        "answer": "White"
+      },
+      {
+        "question": "Judging from the clarity of the text on the label, what is the overall readability of the information provided?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What seems to be the general visual tone or style of the labeling on the product, reflecting the brand's aesthetic?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Considering the label's elements, what is the overall visual impression of the product's branding or design?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Judging by the image, what kind of visual elements are used beyond plain text on the label, indicating additional design choices?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the apparent level of detail on the product's labeling in the image, suggesting a minimalistic or elaborate style?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "From the label's style, what is the implied target audience or market segment for this product, given the visual cues?",
+        "answer": "General"
+      },
+      {
+        "question": "Based solely on what's visibly present on the label, what is the number of words or phrases that make up the ingredient list?",
+        "answer": "Six"
+      }
+    ]
+  }
+]

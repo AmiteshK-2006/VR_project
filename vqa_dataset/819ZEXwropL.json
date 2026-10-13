@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c4/c482963a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the label on this supplement bottle, visually prominent and easily discernible?",
+        "answer": "Red"
+      },
+      {
+        "question": "Considering the overall shape, what geometric form best describes this product's container?",
+        "answer": "Cylinder"
+      },
+      {
+        "question": "Based on the visible texture, what material is the bottle primarily constructed from, as seen in the image?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the color of the bottle cap, which is noticeably distinct from the label's hue?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the visible text on the label, what is the primary purpose or function of the product inside, as directly stated?",
+        "answer": "Supplement"
+      },
+      {
+        "question": "Discerning the label's visual design, what is the main phrase or term used to emphasize the product's benefit?",
+        "answer": "Support"
+      },
+      {
+        "question": "Observing the label's graphics, what is the visual element positioned near the bottom-right that conveys the quantity?",
+        "answer": "Number"
+      },
+      {
+        "question": "What is the prominent type of markings displayed on the label, providing product information or details?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the visible text on the top of the cap, suggesting a potential feature or process?",
+        "answer": "Protection"
+      },
+      {
+        "question": "What is the distinct visual element that denotes a safety seal or tamper evidence on the bottle?",
+        "answer": "Band"
+      },
+      {
+        "question": "What is the visible format of the information presented on the label for product identification?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "What is the general style of typography used for the main text on the label, based on the visual impression?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Observing the label, what section prominently displays the manufacturer's or brand's name?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the visual format of the graphics displayed on the lower right of the bottle's label?",
+        "answer": "Image"
+      },
+      {
+        "question": "What is the visible shape of the bottom of the bottle container, in relation to the overall shape?",
+        "answer": "Circular"
+      }
+    ]
+  }
+]

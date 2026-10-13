@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/89/894604a0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color scheme used throughout the nutrition facts panel, considering the background, text, and any accents?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering the overall layout, what is the primary organizational method used to present the nutritional information?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the font style primarily used for the textual content within the nutrition facts panel?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the specific unit of measurement consistently used to quantify the serving size of the food product?",
+        "answer": "Cup"
+      },
+      {
+        "question": "What is the numerical value representing the total amount of calories per serving, as clearly indicated on the label?",
+        "answer": "130"
+      },
+      {
+        "question": "What is the textual descriptor indicating the quantitative amount of total fat per serving, in grams?",
+        "answer": "5g"
+      },
+      {
+        "question": "What is the textual descriptor representing the amount of saturated fat contained in a single serving, in grams?",
+        "answer": "3g"
+      },
+      {
+        "question": "In the provided nutrition facts, what is the numerical value representing the milligrams of cholesterol per serving?",
+        "answer": "20mg"
+      },
+      {
+        "question": "What is the numerical value representing the total amount of carbohydrates present in a single serving of the food product, in grams?",
+        "answer": "12g"
+      },
+      {
+        "question": "What is the numerical value, given in milligrams, that corresponds to the sodium content in a serving?",
+        "answer": "120mg"
+      },
+      {
+        "question": "According to the label, what is the quantitative amount of protein found in one serving, in grams?",
+        "answer": "8g"
+      },
+      {
+        "question": "What is the numerical value indicating the amount of dietary fiber contained in a single serving, expressed in grams?",
+        "answer": "0g"
+      },
+      {
+        "question": "What is the numerical value, expressed in milligrams, that reflects the amount of calcium present in a single serving?",
+        "answer": "200mg"
+      },
+      {
+        "question": "Based on the label's information, what is the numerical value indicating the amount of potassium in milligrams contained within one serving?",
+        "answer": "360mg"
+      },
+      {
+        "question": "What is the numerical value indicating the amount of vitamin A present in a single serving, in micrograms RAE?",
+        "answer": "190mcg"
+      }
+    ]
+  }
+]

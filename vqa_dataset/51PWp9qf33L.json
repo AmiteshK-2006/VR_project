@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/dc/dcaa75e9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the box's exterior?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What material appears to constitute the product's packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Describe the overall three-dimensional form of the presented item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What word is prominently displayed in a stylized font on the box?",
+        "answer": "StrongHold"
+      },
+      {
+        "question": "Considering the box's size relative to the human figure, what size is it?",
+        "answer": "Large"
+      },
+      {
+        "question": "What kind of printing technique is used for the text on the packaging?",
+        "answer": "Offset"
+      },
+      {
+        "question": "Can you describe the texture implied by the box's surface appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Are there any noticeable markings or labels besides the brand name?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the general orientation of the rectangular box in the image?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Based on visual cues, what is the apparent weight capacity of the box?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "Describe the color of the secondary text and branding elements?",
+        "answer": "Purple"
+      },
+      {
+        "question": "Is the surface of the box glossy or matte in appearance?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging by the image, is the box sealed or open?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "What is the apparent overall condition of the box shown?",
+        "answer": "Untouched"
+      },
+      {
+        "question": "Does the box exhibit any visible damage or imperfections?",
+        "answer": "No"
+      }
+    ]
+  }
+]

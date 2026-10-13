@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bc/bc9f8326.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the predominant color of the label?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "What is the most apparent textual characteristic of the label's appearance?",
+        "answer": "Printed"
+      },
+      {
+        "question": "Describe the shape and configuration of the item displayed in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based solely on the image, what seems to be the primary function of this product, considering its labeling?",
+        "answer": "Food"
+      },
+      {
+        "question": "What is the apparent text orientation relative to the longest axis of the item?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the visual quality of the print relative to the background?",
+        "answer": "Darker"
+      },
+      {
+        "question": "From a visual standpoint, how many distinct text lines are present on the item?",
+        "answer": "Two"
+      },
+      {
+        "question": "What single word best describes the visual texture of the label surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the visual uniformity in terms of text font across the label's text?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What is the apparent density of the text on the label, considering the available space?",
+        "answer": "Dense"
+      },
+      {
+        "question": "What is the general visual impression of the text's lettering style based on the image alone?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "In terms of visual communication, what is the purpose suggested by this labeled item?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Judging by the image, what would best describe the label's perceived material?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What best characterizes the visible textual arrangement of the label?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Judging only from the image's visual components, what is the size relative to a typical hand?",
+        "answer": "Small"
+      }
+    ]
+  }
+]

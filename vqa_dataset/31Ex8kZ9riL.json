@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2f/2f669480.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the product's primary label?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the overall shape of the container holding the product?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What material appears to constitute the main body of the container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the apparent texture of the product's container?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the primary color of the product's lid?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is depicted on the product's label aside from text?",
+        "answer": "Runner"
+      },
+      {
+        "question": "What is prominently displayed at the top of the product's label?",
+        "answer": "Recovery"
+      },
+      {
+        "question": "What flavor is indicated on the product's label?",
+        "answer": "Chocolate"
+      },
+      {
+        "question": "What type of product is implied by the labeling and imagery?",
+        "answer": "Protein"
+      },
+      {
+        "question": "What is the general size of the container relative to a human hand?",
+        "answer": "Large"
+      },
+      {
+        "question": "What appears to be the weight of the product?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "What is visible on the lower portion of the product's label?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the finish of the product's container?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is suggested about the product's intended use from the label?",
+        "answer": "Sport"
+      },
+      {
+        "question": "What is the overall impression of the product's packaging design?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

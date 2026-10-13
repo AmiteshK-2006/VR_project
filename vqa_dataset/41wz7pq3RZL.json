@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ea/eae8e78a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the textual content's overall visual presentation, what is the dominant color of the text?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the apparent font style used for the words 'INGREDIENTS' and 'CONTAINS MILK'?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Judging by the image, what is the background color on which the text is printed?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the visible text, what key ingredient is explicitly mentioned?",
+        "answer": "Milk"
+      },
+      {
+        "question": "Observing the text's arrangement, what is the orientation of the words on the surface?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What specific vitamin is listed as a component, as visually evident in the image?",
+        "answer": "D3"
+      },
+      {
+        "question": "If you were to describe the text's visual density, is it sparse or dense?",
+        "answer": "Sparse"
+      },
+      {
+        "question": "What is the apparent physical form of the textual information presented in the image?",
+        "answer": "Printed"
+      },
+      {
+        "question": "Based on the textual details, what type of milk is specified in the ingredients list?",
+        "answer": "Reduced"
+      },
+      {
+        "question": "What is the general state or condition of the visible text\u2014clear or unclear?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Does the image suggest a specific brand of the product mentioned in the text?",
+        "answer": "No"
+      },
+      {
+        "question": "What adjective describes the overall visual clarity of the text shown in the picture?",
+        "answer": "Legible"
+      },
+      {
+        "question": "What word precedes the detailed listing of the ingredients?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the visual size of the text relative to the overall area shown in the image?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the text's overall style, formal or informal?",
+        "answer": "Formal"
+      }
+    ]
+  }
+]

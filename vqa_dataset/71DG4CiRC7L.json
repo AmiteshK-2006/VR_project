@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/82/8270aaf8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape and the dense, organized text layout, what is the primary format of this item shown in the image?",
+        "answer": "Label"
+      },
+      {
+        "question": "What is the predominant color of the background on which the nutritional information is printed, visually observed in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the image, what language are the nutritional facts displayed in, considering the characters' unique appearance and style?",
+        "answer": "Japanese"
+      },
+      {
+        "question": "Examining the image closely, what is the overall texture of the surface on which the nutritional facts are printed, considering its smoothness or roughness?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging from the visual aspects, what is the primary type of information presented across the table in the product image?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Considering the visual presentation, how many distinct columns of information are displayed in the tabular arrangement, as seen in the product image?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the method used to organize and present the different nutritional components, such as vitamins and minerals, in the image?",
+        "answer": "Table"
+      },
+      {
+        "question": "Observing the visual elements in the image, what is the style of the font used to print the nutritional information, considering its thickness, or other properties?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Focusing on the image's visual data, what is the size of the serving specified in the nutritional information panel, in grams?",
+        "answer": "180"
+      },
+      {
+        "question": "Based on what is visible in the image, what is the unit of measurement used for energy content ('エネルギー'), visually confirmed in the image?",
+        "answer": "kcal"
+      },
+      {
+        "question": "What is the unit of measurement that follows most of the vitamin values provided in the image, as can be visually verified?",
+        "answer": "mg"
+      },
+      {
+        "question": "What is the unit of measurement used for the '葉酸' (folic acid) value in the image, visually confirmed?",
+        "answer": "µg"
+      },
+      {
+        "question": "Considering the visual presentation in the image, is the text orientation portrait or landscape?",
+        "answer": "Portrait"
+      },
+      {
+        "question": "Based on the clarity and sharpness, what would you describe the overall print quality of the visible text in the image?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Observing the image carefully, is there any visible logo, branding, or imagery apart from the text,  present?",
+        "answer": "No"
+      }
+    ]
+  }
+]

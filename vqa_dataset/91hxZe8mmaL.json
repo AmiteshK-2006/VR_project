@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/90/902bf0c6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the keyboard's casing and keys, as observed in the provided image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the image, what is the apparent layout style of the keyboard, based on its key arrangement?",
+        "answer": "QWERTY"
+      },
+      {
+        "question": "Based on the visual details, what material appears to constitute the primary construction of the keyboard?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Judging from the image alone, what is the overall shape or form factor of the presented keyboard?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "From the image, can you determine if the keyboard has a wired or wireless connection type?",
+        "answer": "Wired"
+      },
+      {
+        "question": "Observing the image, are the keys of the keyboard visibly concave, flat, or convex in shape?",
+        "answer": "Flat"
+      },
+      {
+        "question": "What appears to be the finish or texture of the keyboard's surface, as seen in the provided image?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the image reveal any visible branding or logos on the keyboard's outer casing?",
+        "answer": "Yes"
+      },
+      {
+        "question": "According to the image, does the keyboard seem to have any additional features beyond standard alphanumeric keys?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging by the image, what is the approximate size of the keyboard relative to typical desktop keyboards?",
+        "answer": "Standard"
+      },
+      {
+        "question": "Based on the image provided, what is the apparent condition of the keyboard — new, used, or damaged?",
+        "answer": "New"
+      },
+      {
+        "question": "From the image, what type of keys are predominantly present — chiclet, scissor-switch, or mechanical?",
+        "answer": "Chiclet"
+      },
+      {
+        "question": "Does the image display any noticeable wear, scratches, or discoloration on the keyboard's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the image, what seems to be the overall build quality of the keyboard—cheap, average, or premium?",
+        "answer": "Average"
+      },
+      {
+        "question": "What color are the key markings or legends on the keyboard, according to the visual evidence?",
+        "answer": "Gray"
+      }
+    ]
+  }
+]

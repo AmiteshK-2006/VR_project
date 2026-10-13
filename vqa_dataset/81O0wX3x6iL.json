@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f7/f7355399.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape of the container, what is its primary orientation in this image?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Observing the text's arrangement and font styles, what is the dominant text color on the label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Focusing on the nutritional information panel, what is the primary color used to highlight section titles?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the detailed ingredient list, what is the predominant ingredient of the sauce?",
+        "answer": "Coconut"
+      },
+      {
+        "question": "Regarding the product label, what type of text format is most frequently used for the ingredient list?",
+        "answer": "Italic"
+      },
+      {
+        "question": "Examining the background of the nutrition facts panel, what is the color predominantly visible behind the text?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the visual layout, which information section is visually dominant, nutrition facts or ingredients?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "By analyzing the font size variation, what section has the largest font size?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Based on the visual style, is the overall design style of the packaging modern or traditional?",
+        "answer": "Modern"
+      },
+      {
+        "question": "Inspecting the layout design, is the information presentation structured in rows or columns?",
+        "answer": "Columns"
+      },
+      {
+        "question": "Examining the ingredient list, what type of meat is specifically mentioned as being included?",
+        "answer": "Chicken"
+      },
+      {
+        "question": "Analyzing the visual hierarchy, what is the most visually prominent element on the label?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Considering the container's visible texture, is the surface of the package glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Looking at the nutritional information, which nutrient has the highest percentage daily value?",
+        "answer": "Sodium"
+      },
+      {
+        "question": "Considering the overall visual appearance, what is the general theme or style conveyed by the label design?",
+        "answer": "Informative"
+      }
+    ]
+  }
+]

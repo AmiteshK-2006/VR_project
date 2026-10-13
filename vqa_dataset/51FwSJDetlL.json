@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a1/a1a46abb.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the text on the supplement facts label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the shape of the individual supplement units as implied by the label?",
+        "answer": "Tablet"
+      },
+      {
+        "question": "What is the overall shape of the label, as it appears in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary font style used for the 'Supplement Facts' heading?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the label's layout, what is the general background color?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the text, what is one of the listed ingredients?",
+        "answer": "Potassium"
+      },
+      {
+        "question": "What is the stated serving size of the supplement, according to the label?",
+        "answer": "Tablet"
+      },
+      {
+        "question": "What is the material that the label appears to be printed on?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Observing the text's structure, what is the organization style employed?",
+        "answer": "tabular"
+      },
+      {
+        "question": "Judging by the image, what is the texture of the supplement facts label?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the color of the 'Supplement Facts' heading?",
+        "answer": "Black"
+      },
+      {
+        "question": "What unit of measurement is used for the potassium content?",
+        "answer": "mg"
+      },
+      {
+        "question": "What kind of information does the label primarily present?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the format of the information presented on the label?",
+        "answer": "List"
+      },
+      {
+        "question": "What type of product is described by the presented label?",
+        "answer": "Supplement"
+      }
+    ]
+  }
+]

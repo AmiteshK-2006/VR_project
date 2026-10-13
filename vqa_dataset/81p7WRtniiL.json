@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1e/1e4ed4c2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the topmost visible sheet?",
+        "answer": "Green"
+      },
+      {
+        "question": "Considering the visible stack, what is the overall shape of each sheet?",
+        "answer": "Square"
+      },
+      {
+        "question": "Based on the image, what appears to be the primary material of these sheets?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Observing the edges, what is the apparent texture of the sheets?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the visible stack, what is the most apparent color besides green?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What secondary color is visible among the stacked sheets?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "Judging by the image, what is the overall arrangement of the sheets?",
+        "answer": "Stacked"
+      },
+      {
+        "question": "What other pastel shade is subtly visible within the stack?",
+        "answer": "Cream"
+      },
+      {
+        "question": "Disregarding the top sheet, what is the most frequent color in the stack?",
+        "answer": "Pink"
+      },
+      {
+        "question": "Considering the color range, what is the overall color palette of the sheets?",
+        "answer": "Pastel"
+      },
+      {
+        "question": "Observing the edges closely, how would you describe the sheet thickness?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Based on visual observation, what is the apparent finish of the paper?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging from the neatness of the stack, how would you describe the sheets' condition?",
+        "answer": "Neat"
+      },
+      {
+        "question": "In the visible stack, can you observe any visible markings or patterns?",
+        "answer": "None"
+      },
+      {
+        "question": "Does the image display any visible folding or creasing on the sheets?",
+        "answer": "No"
+      }
+    ]
+  }
+]

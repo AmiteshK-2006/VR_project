@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/81/815f9282.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the picture frame's exterior?",
+        "answer": "Black"
+      },
+      {
+        "question": "What primary material seems to constitute the frame?",
+        "answer": "Wood"
+      },
+      {
+        "question": "What is the overall shape of the presented picture frame?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describing the surface texture, is the frame glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What color is the most prominent element within the displayed image?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the apparent style of the image depicted within the frame?",
+        "answer": "Photography"
+      },
+      {
+        "question": "Considering the back, what mechanism is visible for wall hanging?",
+        "answer": "Hook"
+      },
+      {
+        "question": "What is the visible material of the easel stand on the back?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What design feature is present at each corner of the frame?",
+        "answer": "Mitered"
+      },
+      {
+        "question": "Does the frame exhibit a visible, ornate embellishment?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image inside, what is depicted within it?",
+        "answer": "Phonebooth"
+      },
+      {
+        "question": "What is the apparent style of the image depicted inside?",
+        "answer": "Urban"
+      },
+      {
+        "question": "What is the orientation of the picture shown within the frame?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the general setting shown in the image within?",
+        "answer": "Street"
+      },
+      {
+        "question": "What kind of structural element supports the image within?",
+        "answer": "Mount"
+      }
+    ]
+  }
+]

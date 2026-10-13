@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4d/4dad2203.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the presented nutritional facts panel?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the textual layout, what is the primary method of data organization?",
+        "answer": "Columns"
+      },
+      {
+        "question": "What is the primary font style used throughout the nutritional information?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What specific unit of measurement is consistently employed for the serving size?",
+        "answer": "Units"
+      },
+      {
+        "question": "What is the total caloric count indicated per serving, according to the nutritional panel?",
+        "answer": "Sixty"
+      },
+      {
+        "question": "What is the textual descriptor prominently featured at the top of this nutritional panel?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What unit of measurement is used to express the amount of sodium per serving?",
+        "answer": "Milligrams"
+      },
+      {
+        "question": "How many servings are explicitly stated to be contained within a single package or container?",
+        "answer": "Six"
+      },
+      {
+        "question": "What is the weight of one serving, as numerically represented on the nutritional label?",
+        "answer": "113"
+      },
+      {
+        "question": "Which dietary element's quantity is presented with a percentage daily value of 4%?",
+        "answer": "Fiber"
+      },
+      {
+        "question": "What specific measurement unit is consistently utilized for the quantity of Total Sugars?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the indicated value for the total amount of carbohydrates per serving?",
+        "answer": "Fifteen"
+      },
+      {
+        "question": "What is the numerical value shown for the amount of protein contained in each serving?",
+        "answer": "Zero"
+      },
+      {
+        "question": "What is the numerical value representing the amount of cholesterol per serving of this product?",
+        "answer": "Zero"
+      },
+      {
+        "question": "What is the format style of the numerical data presented within the nutritional fact table?",
+        "answer": "Decimal"
+      }
+    ]
+  }
+]

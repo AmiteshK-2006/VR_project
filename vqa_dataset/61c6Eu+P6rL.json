@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/36/36177606.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the text detailing the product's ingredients, as depicted in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the image's presentation, what is the background color of the label showcasing the ingredients list?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the image, what is the overall font style used to list the ingredients of the product?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "In the provided image, what is the case of the lettering used for the word 'INGREDIENTS'?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Observing the image, what specific type of sweetener is prominently listed as an ingredient?",
+        "answer": "Sugar"
+      },
+      {
+        "question": "Judging from the image, what type of milk is mentioned among the product's ingredients?",
+        "answer": "Milk"
+      },
+      {
+        "question": "What additional ingredient is mentioned aside from sugar and milk based on the image?",
+        "answer": "Water"
+      },
+      {
+        "question": "From the image's text, what syrup is listed as an ingredient in this food product?",
+        "answer": "Syrup"
+      },
+      {
+        "question": "According to the image, what is one of the natural flavorings included in the product's composition?",
+        "answer": "Flavor"
+      },
+      {
+        "question": "As displayed in the image, what type of sweetener is included besides cane sugar?",
+        "answer": "Caramel"
+      },
+      {
+        "question": "Does the image indicate if any soy may be present in this product?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the text alignment of the ingredient list in the provided image?",
+        "answer": "Left"
+      },
+      {
+        "question": "Judging by the image, is there a warning about potential allergens?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What other ingredient besides milk is listed as a potential allergen?",
+        "answer": "Soy"
+      },
+      {
+        "question": "What is the font weight of the words 'INGREDIENTS' and 'CONTAINS'?",
+        "answer": "Bold"
+      }
+    ]
+  }
+]

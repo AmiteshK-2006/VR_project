@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/40/400be583.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the text on the product packaging, clearly visible against the background?",
+        "answer": "Black"
+      },
+      {
+        "question": "Observing the overall packaging, what is the primary color scheme used for the design elements aside from text?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the prominent rectangular shape of the container, what material appears to be used for the packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Focusing on the textual information, what is the specific type of data presented in a detailed tabular format?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Examining the graphic elements at the top and bottom, what shape are the smaller orange accents on the box?",
+        "answer": "Oval"
+      },
+      {
+        "question": "Considering the brand identification, what is the name of the company associated with this product, as depicted on the label?",
+        "answer": "Whole"
+      },
+      {
+        "question": "Given the context of the label, what is the single word descriptor of the product's nutritional information format?",
+        "answer": "Facts"
+      },
+      {
+        "question": "What single word describes the overall style of the information layout on the packaging?",
+        "answer": "tabular"
+      },
+      {
+        "question": "Based on the visual details of the labeling, what is the primary unit of measurement for serving size?",
+        "answer": "Teaspoon"
+      },
+      {
+        "question": "Referring to the design of the text on the label, what is the general typeface or font used for the main labels?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the logo, what additional word follows 'Whole' to complete the brand name?",
+        "answer": "Foods"
+      },
+      {
+        "question": "What is the single word describing the overall shape of the product packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the size and style of the text, what word describes the primary information shown on the label?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the single word that best describes the surface texture of the product packaging?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the color of the smaller, oval-shaped design elements on the packaging?",
+        "answer": "Orange"
+      }
+    ]
+  }
+]

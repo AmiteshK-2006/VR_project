@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/cb/cb8fcef6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color visibly present across the entire surface?",
+        "answer": "Orange"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent surface finish of the material?",
+        "answer": "Speckled"
+      },
+      {
+        "question": "Based on the image's visual details, what kind of material is predominantly shown?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Judging by the image's visual consistency, is the texture uniform throughout the visible area?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the general visual impression of the surface's texture, is it smooth or rough?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Describing the visible pattern, what kind of texture is displayed across the surface?",
+        "answer": "Granular"
+      },
+      {
+        "question": "Focusing on the subtle visual details, is the color consistent throughout the product?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What would you describe the visible shade of the product as, considering its overall tone?",
+        "answer": "Coral"
+      },
+      {
+        "question": "Considering the visual evidence, how would you describe the texture's overall appearance?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What is the predominant visual characteristic of the product's surface finish?",
+        "answer": "Hammered"
+      },
+      {
+        "question": "Based purely on the visual information, does the surface show any significant patterns?",
+        "answer": "Yes"
+      },
+      {
+        "question": "In reference to its visual appearance, what might be the likely material of the object?",
+        "answer": "Steel"
+      },
+      {
+        "question": "Considering the visible texture, is the surface glossy or matte in appearance?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Describe the minute details, what kind of pattern is exhibited across the material?",
+        "answer": "Stippled"
+      },
+      {
+        "question": "Considering the observable color variation, how uniform is the coloring?",
+        "answer": "Uniform"
+      }
+    ]
+  }
+]

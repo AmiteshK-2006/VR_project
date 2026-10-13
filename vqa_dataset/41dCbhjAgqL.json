@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8d/8d0ed9b9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the primary format of the provided information?",
+        "answer": "Text"
+      },
+      {
+        "question": "Disregarding any specific words, what is the dominant color scheme observed throughout the visual display?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Based on the visual style, what appears to be the intended purpose or context of the displayed text?",
+        "answer": "Informative"
+      },
+      {
+        "question": "From a visual standpoint, does the text appear to be handwritten, typed or printed?",
+        "answer": "Printed"
+      },
+      {
+        "question": "Describe the visual layout of the textual elements: are they arranged in paragraphs, lists, or a different structure?",
+        "answer": "List"
+      },
+      {
+        "question": "What is the apparent font size employed across the textual elements in the visual?",
+        "answer": "Small"
+      },
+      {
+        "question": "Judging from the visual appearance, what is the general typeface style used for the text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Observing the visual characteristics, is there any noticeable text decoration (e.g., bold, italics, underline)?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the visual presentation, is there any discernible branding or logo present in the provided image?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging solely by visual characteristics, is there any image or illustration to accompany the textual information?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the visual contrast between the text and the background based on what is seen.",
+        "answer": "High"
+      },
+      {
+        "question": "Considering only the visual information, what is the apparent visual density or spacing of the text?",
+        "answer": "Dense"
+      },
+      {
+        "question": "From a visual perspective, describe the overall readability of the textual components.",
+        "answer": "Good"
+      },
+      {
+        "question": "Based on visual assessment, does the text display any instances of misspellings or typographical errors?",
+        "answer": "No"
+      },
+      {
+        "question": "Visually, does the text utilize any special characters or symbols beyond standard letters and numbers?",
+        "answer": "No"
+      }
+    ]
+  }
+]

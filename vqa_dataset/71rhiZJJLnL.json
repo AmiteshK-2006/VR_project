@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/42/42e4a717.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what best describes the product's primary shape as depicted in the image?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What appears to be the dominant color of the product's visible surface?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Based on the image, what seems to be the main material used in the product's construction?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Observing the product's surface, what would you characterize its texture as?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From a visual perspective, how many distinct, separate structural elements comprise the object?",
+        "answer": "Three"
+      },
+      {
+        "question": "Judging by its appearance, what is the most likely intended function of this product?",
+        "answer": "Support"
+      },
+      {
+        "question": "Does the image suggest any noticeable patterns, engravings, or markings on the product's surface?",
+        "answer": "None"
+      },
+      {
+        "question": "Analyzing the object's form, what would best describe its design style as presented in the image?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Considering the visual elements, how would you describe the product's overall aesthetic?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What appears to be the general condition or state of the item as it is displayed in the image?",
+        "answer": "New"
+      },
+      {
+        "question": "Judging from the visual details, what is the relative thickness of the component parts of this object?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Based solely on the provided visual information, what is the predominant finish of the product?",
+        "answer": "Matte"
+      },
+      {
+        "question": "In the image, do the ends of the structural components appear to be deliberately finished or left unfinished?",
+        "answer": "Finished"
+      },
+      {
+        "question": "What seems to be the overall length of the complete product as depicted in the given image?",
+        "answer": "Long"
+      },
+      {
+        "question": "From the perspective of the image, how would you characterize the relative weight of the object?",
+        "answer": "Heavy"
+      }
+    ]
+  }
+]

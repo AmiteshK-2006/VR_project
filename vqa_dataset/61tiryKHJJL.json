@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/01/01ec1fd7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the bottle's label, excluding text?",
+        "answer": "Purple"
+      },
+      {
+        "question": "Considering the overall shape, what geometric form best describes the container?",
+        "answer": "Cylinder"
+      },
+      {
+        "question": "What material appears to constitute the primary packaging of the supplement?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the dominant color of the text on the supplement bottle's label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the texture of the bottle's surface, based on visual observation?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall shape of the bottle's lid, as seen from the top?",
+        "answer": "Round"
+      },
+      {
+        "question": "Considering the label design, what is the most prominent graphic element aside from text?",
+        "answer": "Lines"
+      },
+      {
+        "question": "What is the material that appears to be used for the bottle's cap?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describing the label's design, what is the main style choice regarding the text layout?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the general style or font of the brand name printed prominently on the bottle?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Does the bottle's label show any noticeable image or icon besides text and lines?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the color of the bottle's body, excluding the label?",
+        "answer": "White"
+      },
+      {
+        "question": "What word indicates the nature of the product contained within the bottle?",
+        "answer": "Supplement"
+      },
+      {
+        "question": "Based on the label, what is the indicated quantity of tablets contained within?",
+        "answer": "100"
+      },
+      {
+        "question": "What is the primary element visually communicating the brand name?",
+        "answer": "Text"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3a/3a471c2a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color scheme of the nutrition facts label?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the primary font style used for the 'Nutrition Facts' heading?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the background color of the nutrition facts panel?",
+        "answer": "LightBlue"
+      },
+      {
+        "question": "Considering the text layout, what is the overall orientation of the information presented?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the unit of measurement used for 'Serving Size'?",
+        "answer": "Ounces"
+      },
+      {
+        "question": "What is the numerical value shown for 'Calories' per serving?",
+        "answer": "Zero"
+      },
+      {
+        "question": "What is the unit of measurement for 'Total Fat'?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the numerical value provided for 'Sodium' in milligrams?",
+        "answer": "Zero"
+      },
+      {
+        "question": "What is the unit of measurement used for 'Total Carbohydrate'?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the numerical value listed for 'Protein' in grams?",
+        "answer": "Zero"
+      },
+      {
+        "question": "What is the type of information contained in the provided image?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the style of the text bordering the nutritional information?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Based on the text layout, what is the format of the information?",
+        "answer": "tabular"
+      },
+      {
+        "question": "Considering the overall presentation, what is the type of document displayed?",
+        "answer": "Label"
+      },
+      {
+        "question": "What is the numerical value indicating the approximate number of servings per container?",
+        "answer": "Sixteen"
+      }
+    ]
+  }
+]

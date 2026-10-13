@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ee/ee8592ea.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's overall visual presentation, what single word best describes the font style employed in the ingredients list?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the visual appearance of the text, what is the most apparent style of capitalization used throughout the ingredients list?",
+        "answer": "Sentence"
+      },
+      {
+        "question": "Examining the text's visual layout, what is the primary organizational structure used to present the ingredient information?",
+        "answer": "List"
+      },
+      {
+        "question": "What visual characteristic best describes the spacing between the lines of text in the provided ingredients list?",
+        "answer": "Single"
+      },
+      {
+        "question": "Focusing on the visual cues, what word best captures the general textual alignment of the ingredient information?",
+        "answer": "Left"
+      },
+      {
+        "question": "From a purely visual perspective, what is the predominant color of the text shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the overall visual characteristics, what word best describes the density of the text in the provided image?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Considering the visual presentation of the information, what word best describes the text's overall appearance?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Based solely on the image, what is the apparent length of the text block presented, using a single word?",
+        "answer": "Long"
+      },
+      {
+        "question": "What visual term accurately captures the vertical arrangement of the lines of text?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Judging from the text's visual style, what single word best describes the overall typeface weight?",
+        "answer": "Regular"
+      },
+      {
+        "question": "What single word best describes the general visual texture of the text block?",
+        "answer": "Solid"
+      },
+      {
+        "question": "What visual characteristic best captures the font's uniformity and evenness?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Considering the image, what single term describes the text's visual clarity?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What single word best describes the visual appearance of the individual letters?",
+        "answer": "Uniform"
+      }
+    ]
+  }
+]

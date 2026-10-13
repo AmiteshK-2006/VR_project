@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1e/1e4f704c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color scheme of the product label, predominantly featuring shades of green and white?",
+        "answer": "Green"
+      },
+      {
+        "question": "Observing the textual elements, what specific fruit is prominently highlighted as the primary ingredient of this packaged food item?",
+        "answer": "Pears"
+      },
+      {
+        "question": "Based on the clearly visible label information, what certification is explicitly stated to be associated with this product, implying compliance with certain standards?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Focusing on the container's shape as depicted, what is the most accurate geometrical description of the product's packaging form factor?",
+        "answer": "Tub"
+      },
+      {
+        "question": "Analyzing the label's textual content, what specific dietary information is prominently displayed, quantifying the energy content per serving in metric units?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Examining the label's design, what specific type of information is prominently featured, providing details about the nutritional composition of the product?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "From the text on the label, what is explicitly stated as one of the ingredients, in addition to the main fruit, that suggests flavor enhancement?",
+        "answer": "Lemon"
+      },
+      {
+        "question": "Observing the label's fine print, what instructions are provided concerning the product's handling post-opening, pertaining to its preservation and usage?",
+        "answer": "Refrigerate"
+      },
+      {
+        "question": "By examining the label's layout, what is the dominant font style primarily employed throughout the textual content across the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Analyzing the label's design elements, what shapes are prominently featured in the logo or text sections?",
+        "answer": "Rectangles"
+      },
+      {
+        "question": "Judging by the label's design, what kind of visual style is predominantly employed?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Focusing on the text, what unit is used to express the serving size?",
+        "answer": "Tub"
+      },
+      {
+        "question": "What is the measurement unit used for 'Serving Size'?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Observing the nutritional information, what is the value for total carbohydrates in grams per serving?",
+        "answer": "17g"
+      },
+      {
+        "question": "What is the stated weight of one serving in grams?",
+        "answer": "113g"
+      }
+    ]
+  }
+]

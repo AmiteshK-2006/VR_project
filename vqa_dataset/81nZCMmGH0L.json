@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/cc/ccf473e8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the keyboard and mouse?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the keyboard?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the material of the keyboard's surface?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the layout of the keyboard's keys, is it standard?",
+        "answer": "Standard"
+      },
+      {
+        "question": "Considering the mouse, what is its primary form factor?",
+        "answer": "Ambidextrous"
+      },
+      {
+        "question": "What type of connection is visible on the keyboard or mouse?",
+        "answer": "Wireless"
+      },
+      {
+        "question": "Does the keyboard have a numeric keypad, visually confirm?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging by the image, what is the style of the keyboard?",
+        "answer": "Sleek"
+      },
+      {
+        "question": "Considering the mouse, what is its apparent button count?",
+        "answer": "Three"
+      },
+      {
+        "question": "What kind of surface is the mouse resting on in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "Can you describe the keyboard's keycap profile visually?",
+        "answer": "Low"
+      },
+      {
+        "question": "Based on what's visible, is the keyboard backlit?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent size of the mouse relative to a hand?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the texture of the mouse's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Is there a visible logo on the keyboard?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e4/e48c3376.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the textual information provided in the image, what is the primary ingredient explicitly stated?",
+        "answer": "Sesame"
+      },
+      {
+        "question": "Based on the image's text, what additional food types were processed in the same facility?",
+        "answer": "Nuts"
+      },
+      {
+        "question": "What other food type is mentioned in the text as processed in the same manufacturing facility?",
+        "answer": "Milk"
+      },
+      {
+        "question": "According to the visible text, which cereal grain was processed alongside the main ingredient?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "What legume is named in the text as being processed in the same plant?",
+        "answer": "Soy"
+      },
+      {
+        "question": "What is the font style used for the word 'INGREDIENTS' in the image?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Describe the casing of the letters in the text, in terms of thickness?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What is the overall color scheme of the visible text on the packaging?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the background color of the text on the product's label?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe the orientation of the text on the product's packaging?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Considering the overall arrangement, what is the alignment of the text?",
+        "answer": "Left"
+      },
+      {
+        "question": "What is the type of text style used in the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Judging by the image's text, what is the description's language?",
+        "answer": "English"
+      },
+      {
+        "question": "Considering the capitalization of the text, how is the word 'Ingredients' displayed?",
+        "answer": "Capitalized"
+      },
+      {
+        "question": "What is the case of the letters in the words following 'Ingredients'?",
+        "answer": "Capitalized"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1f/1f84ebf1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant visual texture of the displayed fabric sample?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Considering the visual appearance, what is the most apparent color of this fabric?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Based solely on the image, what is the overall visual appearance of the fabric's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging from the image, what kind of weave pattern does the fabric seem to exhibit?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Considering the image, what is the general tone or shade of the fabric's color?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "If you were to describe the fabric's surface based on its visible texture, what term would best apply?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What is the predominant visual impression conveyed by the fabric's color in the provided image?",
+        "answer": "Subdued"
+      },
+      {
+        "question": "Does the fabric exhibit a visible pattern or design based solely on the provided visual data?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the general visual impression of the fabric's color saturation based on the provided image?",
+        "answer": "Low"
+      },
+      {
+        "question": "Based on the image, is the fabric's color uniform throughout the visible area?",
+        "answer": "Yes"
+      },
+      {
+        "question": "From the image, would you characterize the fabric's visual density as high or low?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the most prominent visual characteristic of the fabric's woven structure?",
+        "answer": "Evenness"
+      },
+      {
+        "question": "Judging solely from the image, would you describe the fabric's visual weight as heavy, light, or medium?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Based on visual analysis, does the fabric show any visible sheen or gloss?",
+        "answer": "No"
+      },
+      {
+        "question": "What kind of visual effect does the fabric's texture produce?",
+        "answer": "Subtle"
+      }
+    ]
+  }
+]

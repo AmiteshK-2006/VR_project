@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e7/e76cd9ce.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout, what is the dominant color scheme employed in this nutritional fact panel, primarily observed in the text and background?",
+        "answer": "White"
+      },
+      {
+        "question": "Focusing on the text detailing the calorie count, what numerical value is prominently displayed for each serving?",
+        "answer": "150"
+      },
+      {
+        "question": "Observing the section dedicated to carbohydrate information, what is the quantity of total carbohydrates listed per serving?",
+        "answer": "31g"
+      },
+      {
+        "question": "Examining the 'Total Sugars' section, what is the precise amount of added sugar present in one serving of the product, as indicated?",
+        "answer": "13g"
+      },
+      {
+        "question": "Based on the visual presentation of the information regarding fats, what is the total amount of fat, in grams, contained within a single serving?",
+        "answer": "1.5g"
+      },
+      {
+        "question": "Looking at the 'Protein' line, what is the amount of protein, in grams, indicated for each serving, based on the visual data?",
+        "answer": "3g"
+      },
+      {
+        "question": "What is the primary unit of measurement used consistently throughout the panel to express the quantities of various nutrients?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Observing the distinct visual structure of the panel, what is the term predominantly used to label each nutrient category?",
+        "answer": "Total"
+      },
+      {
+        "question": "If one considers the visual presentation, what word explicitly indicates the number of servings included within the package?",
+        "answer": "Servings"
+      },
+      {
+        "question": "According to the visual information, what unit of measurement does the label specify as the 'Serving size'?",
+        "answer": "Packet"
+      },
+      {
+        "question": "Focusing on the visual representation of the weight measurement, what numerical value is provided to denote the weight of a single serving?",
+        "answer": "40g"
+      },
+      {
+        "question": "What word is used to describe the overall nutritional details presented in this visual?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Based solely on the image, what is the type of food or product information presented?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "In the top-left corner, what is the clearly visible, capitalized label of the information provided?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the specific term visually presented to indicate the quantity per package?",
+        "answer": "Container"
+      }
+    ]
+  }
+]

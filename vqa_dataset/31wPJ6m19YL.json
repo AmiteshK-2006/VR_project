@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/19/19f71715.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what is the dominant textual characteristic of this product's visual representation?",
+        "answer": "Printed"
+      },
+      {
+        "question": "Observing the text's arrangement, what is the primary organizational style used to present the information?",
+        "answer": "List"
+      },
+      {
+        "question": "Based on the visible text, what specific type of information is predominantly displayed?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Focusing on the textual elements, what is the primary color used for the displayed text?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the typeface or font style primarily used in the textual display on the product?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Examining the textual details, what is the case (uppercase, lowercase, etc.) of the prominent text element?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Based on the text's appearance, what seems to be the apparent text size relative to the image frame?",
+        "answer": "Small"
+      },
+      {
+        "question": "Judging from the visual appearance, what is the substrate's apparent texture upon which the text is printed?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the contextual information visible, what is the general topic or subject matter conveyed?",
+        "answer": "Food"
+      },
+      {
+        "question": "From the visual layout, what appears to be the orientation of the text block within the frame?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Observing the visual clarity, what is the apparent level of detail in the text rendering?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the overall visual style of the text presentation (e.g., bold, italic, etc.)?",
+        "answer": "Plain"
+      },
+      {
+        "question": "What is the apparent visual condition of the printed text (e.g., faded, crisp, etc.)?",
+        "answer": "Crisp"
+      },
+      {
+        "question": "Considering the text's visual properties, what is the general tone or style of the text (e.g., formal, informal, etc.)?",
+        "answer": "Formal"
+      },
+      {
+        "question": "What seems to be the background color behind the ingredient list text?",
+        "answer": "White"
+      }
+    ]
+  }
+]

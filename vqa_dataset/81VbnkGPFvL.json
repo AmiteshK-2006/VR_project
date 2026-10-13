@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/42/4258eedc.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall shape and dimensions, what geometric term best describes this food product's form?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the predominant color of the meat visible through the packaging?",
+        "answer": "Pink"
+      },
+      {
+        "question": "Based on the visible texture and the product label, what type of cured pork product is this?",
+        "answer": "Bacon"
+      },
+      {
+        "question": "What appears to be the primary cooking method or treatment evident on the bacon's surface?",
+        "answer": "Smoked"
+      },
+      {
+        "question": "Describe the appearance of the fat layer visible on the meat, considering its texture and color.",
+        "answer": "Streaky"
+      },
+      {
+        "question": "What is the material primarily used for the product's immediate packaging, as visible in the image?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What kind of secondary packaging surrounds the plastic wrap, offering additional protection?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Given the overall presentation, what is the apparent intended purpose of the product?",
+        "answer": "Food"
+      },
+      {
+        "question": "What is the color of the label that provides product information on the packaging?",
+        "answer": "Green"
+      },
+      {
+        "question": "What specific wood type is mentioned in relation to the bacon's flavor profile on the label?",
+        "answer": "Hickory"
+      },
+      {
+        "question": "Describing the overall visual impression, what is the apparent state of the product?",
+        "answer": "Fresh"
+      },
+      {
+        "question": "Disregarding any text, what is the visual impression of the product's level of processing?",
+        "answer": "Cured"
+      },
+      {
+        "question": "Considering the visual details, what is the suggested preparation method for this product?",
+        "answer": "Cooking"
+      },
+      {
+        "question": "Based on its appearance, what is a likely method of consumption for this food item?",
+        "answer": "Eating"
+      },
+      {
+        "question": "Considering the visible qualities, what kind of meat is this?",
+        "answer": "Pork"
+      }
+    ]
+  }
+]

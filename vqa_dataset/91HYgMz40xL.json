@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c8/c8655fe1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the close-up product image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Based on the visual texture, what is the most likely fiber type of the shown fabric?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "What is the apparent size designation indicated on the product label?",
+        "answer": "Queen"
+      },
+      {
+        "question": "What brand name is prominently displayed on the visible product tag?",
+        "answer": "PINZON"
+      },
+      {
+        "question": "Considering the fabric's visual drape and sheen, what is its likely texture?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the visible label show any symbols suggesting machine-washable care?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the image show a woven or knitted fabric construction?",
+        "answer": "Woven"
+      },
+      {
+        "question": "What is the overall shape of the visible portion of the textile product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging from the image, does the fabric appear to have a pattern or print?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the visible part of the product display any noticeable flaws or imperfections?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image, what is the approximate length of the visible label?",
+        "answer": "Long"
+      },
+      {
+        "question": "What is the orientation of the visible text on the product's label?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Is the label's background a solid color, or does it have a pattern?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Is the main text on the label written in uppercase or lowercase letters?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "From the image, can you confirm the country of origin of the product?",
+        "answer": "China"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/43/4361dc9a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what dominant color is prominently displayed on the product's packaging?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the primary shape of the individual units of the product?",
+        "answer": "Round"
+      },
+      {
+        "question": "Examining the image closely, what is the apparent texture of the dominant component of the product?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the visible elements, what appears to be the most prominent ingredient used in this product?",
+        "answer": "Peanuts"
+      },
+      {
+        "question": "Judging from the image, what appears to be a secondary ingredient visibly present?",
+        "answer": "Chocolate"
+      },
+      {
+        "question": "Based on visual analysis, can you identify the type of text predominantly seen on the product?",
+        "answer": "Ingredient"
+      },
+      {
+        "question": "Analyzing the visuals, what appears to be the packaging material of this food item?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What type of format does the product ingredients information appear in?",
+        "answer": "List"
+      },
+      {
+        "question": "By visual inspection, what can be deduced about the size of the item relative to a human hand?",
+        "answer": "Small"
+      },
+      {
+        "question": "Based on the visible text, what brand is associated with the product?",
+        "answer": "M&M's"
+      },
+      {
+        "question": "From the image, what is the predominant color of any additional visible elements besides the main product?",
+        "answer": "White"
+      },
+      {
+        "question": "Based solely on the visual evidence, what seems to be the general type of food product displayed?",
+        "answer": "Candy"
+      },
+      {
+        "question": "What kind of secondary coating appears to be present on some components of this product?",
+        "answer": "None"
+      },
+      {
+        "question": "Based on visual inspection of the text, is the font used primarily serif or sans-serif?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Judging from the image, what seems to be the relative weight or density of the individual pieces of the product?",
+        "answer": "Light"
+      }
+    ]
+  }
+]

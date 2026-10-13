@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2a/2ad4667f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall textual orientation of the presented information, as visually observed in the image?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Considering the visual presentation, what is the dominant color scheme of the text against the background?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Based on the image, describe the apparent typeface or font style used for the textual content?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Judging from the image, what appears to be the approximate size of the text displayed?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Observing the image, does the text appear to be formatted in a single column or multiple columns?",
+        "answer": "Single"
+      },
+      {
+        "question": "According to visual inspection, what is the apparent weight or boldness of the text's typeface?",
+        "answer": "Normal"
+      },
+      {
+        "question": "From a purely visual assessment, what seems to be the text's alignment within its given space?",
+        "answer": "Left"
+      },
+      {
+        "question": "Considering the visual appearance, what's the overall tone or style of the text presentation?",
+        "answer": "Formal"
+      },
+      {
+        "question": "If you were to visually assess the spacing between lines of text in the given image, what would you describe it as?",
+        "answer": "Single"
+      },
+      {
+        "question": "Visually inspecting the image, what is the overall visual clarity and legibility of the displayed text?",
+        "answer": "High"
+      },
+      {
+        "question": "Analyzing the image, what language does the text visually appear to be written in?",
+        "answer": "Japanese"
+      },
+      {
+        "question": "What can be visually ascertained about the presence of any visible markings or symbols that are not part of the text itself?",
+        "answer": "None"
+      },
+      {
+        "question": "From visual observation, is there any evident use of color variation or highlighting within the text?",
+        "answer": "No"
+      },
+      {
+        "question": "Visually assessing the image, is there any noticeable variation in the font size or style within the text?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on visual inspection, describe any apparent text formatting features, such as italics or bolding?",
+        "answer": "None"
+      }
+    ]
+  }
+]

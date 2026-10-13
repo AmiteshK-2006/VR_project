@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ec/ec6256af.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color scheme of this nutrition facts panel?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the primary font style used for displaying the nutrition information on the panel, considering its weight and typeface?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Disregarding any numerical values, what is the most frequently recurring word or label within the nutritional information?",
+        "answer": "Fat"
+      },
+      {
+        "question": "Focusing on the section dedicated to essential nutrients, which specific nutrient is indicated alongside the micronutrient designation ‘Vit. D’?",
+        "answer": "Calcium"
+      },
+      {
+        "question": "Based on the visual layout, what is the unit of measurement consistently used for quantifying the various nutritional components?",
+        "answer": "Mg"
+      },
+      {
+        "question": "Observing the layout, what is the term used to refer to the prescribed quantity of food per serving?",
+        "answer": "Pieces"
+      },
+      {
+        "question": "What word precedes the numerical value representing the total amount of calories per serving?",
+        "answer": "Calories"
+      },
+      {
+        "question": "What descriptor is used to specify the unit of measurement for the serving size specified?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Observing the label closely, what is the specific type of sugar whose content is explicitly declared?",
+        "answer": "Sugars"
+      },
+      {
+        "question": "What is the term indicating the total amount of carbs specified on the label?",
+        "answer": "Carbohydrate"
+      },
+      {
+        "question": "What is the term that qualifies the fat content listed as 0g?",
+        "answer": "Total"
+      },
+      {
+        "question": "In relation to the total sugars, what term describes the amount of sugar added to the product?",
+        "answer": "Added"
+      },
+      {
+        "question": "What term describes the amount of dietary fiber listed?",
+        "answer": "Dietary"
+      },
+      {
+        "question": "What single word describes the kind of fact presented on the panel?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "In the context of the daily values, what single word is used to denote potassium?",
+        "answer": "Potas"
+      }
+    ]
+  }
+]

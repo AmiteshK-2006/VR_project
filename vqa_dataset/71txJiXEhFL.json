@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/80/8045d341.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color scheme observed on the nutrition facts label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the font style predominantly used for the nutritional information?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the shape of the nutritional information panel?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the general texture of the label's surface, as implied by the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the formatting, what is the implied material of the label?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the textual presentation of the serving size indicated on the label?",
+        "answer": "Numeric"
+      },
+      {
+        "question": "What metric unit is used to quantify the serving size of the product?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What numerical value represents the total calories per serving as shown?",
+        "answer": "130"
+      },
+      {
+        "question": "What is the type of fat that has a noticeably high percentage value shown?",
+        "answer": "Saturated"
+      },
+      {
+        "question": "What is the unit of measurement consistently used for the amounts of nutrients?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What term denotes the percentage of daily value for each nutrient?",
+        "answer": "DV"
+      },
+      {
+        "question": "What is the value shown for the total carbohydrate content per serving?",
+        "answer": "Zero"
+      },
+      {
+        "question": "What is the stated value for the protein content per serving on the label?",
+        "answer": "Zero"
+      },
+      {
+        "question": "Does the label state that the product is a significant source of cholesterol?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the approximate number of servings mentioned on this container?",
+        "answer": "Twenty-eight"
+      }
+    ]
+  }
+]

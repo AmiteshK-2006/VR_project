@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/12/122876d6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the background on which the product's information is displayed?",
+        "answer": "Pink"
+      },
+      {
+        "question": "Considering the text's visual characteristics, what font style is primarily used in this product's ingredient label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Observing the text's arrangement, what is the overall alignment style of the ingredient list on the product packaging?",
+        "answer": "Left"
+      },
+      {
+        "question": "Based on the appearance of the text, what color is used for the lettering of the ingredients?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the case (uppercase, lowercase, or title case) of the word 'INGREDIENTS' in the product information?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Judging from the text's legibility, what is the approximate size of the lettering relative to the background?",
+        "answer": "Large"
+      },
+      {
+        "question": "What is the visual appearance of the text's formatting considering spacing and punctuation?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Considering the style of text, how many lines of text are used to list the ingredients?",
+        "answer": "Two"
+      },
+      {
+        "question": "What kind of information is communicated through the text on the product's image?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Based solely on visual observation, what is the texture of the printed area on the product's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging from the text's layout, what is the primary method of information presentation on the product's packaging?",
+        "answer": "Listing"
+      },
+      {
+        "question": "What is the word immediately following the word 'Lowfat' in the ingredient list of the product?",
+        "answer": "Milk"
+      },
+      {
+        "question": "What is the word that appears before the word 'palmitate' in the ingredient list?",
+        "answer": "Vitamin"
+      },
+      {
+        "question": "What vitamin is mentioned after Vitamin A in the product's ingredient list?",
+        "answer": "D3"
+      },
+      {
+        "question": "What is the visual characteristic of the text, considering its boldness or lightness?",
+        "answer": "Bold"
+      }
+    ]
+  }
+]

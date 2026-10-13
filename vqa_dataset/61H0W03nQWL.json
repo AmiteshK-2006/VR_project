@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/37/379ba768.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual layout, what is the dominant color scheme of the product label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the prominent text, what type of food product is depicted on the label?",
+        "answer": "Syrup"
+      },
+      {
+        "question": "What specific flavor of syrup is clearly indicated on this product's label?",
+        "answer": "Chocolate"
+      },
+      {
+        "question": "What is the explicit size of the product as expressed in fluid ounces, as shown on the label?",
+        "answer": "48"
+      },
+      {
+        "question": "Observing the nutritional information, what is the approximate number of servings per container?",
+        "answer": "34"
+      },
+      {
+        "question": "According to the label, what is the primary artificial flavoring agent?",
+        "answer": "Vanillin"
+      },
+      {
+        "question": "What is the most prominent brand name displayed on this product's label?",
+        "answer": "Amazon"
+      },
+      {
+        "question": "Examining the label, what is one listed preservative used in the product?",
+        "answer": "Potassium"
+      },
+      {
+        "question": "What specific instruction is clearly given regarding post-opening storage?",
+        "answer": "Refrigerate"
+      },
+      {
+        "question": "According to the label, what is the approximate amount of added sugars in grams per serving?",
+        "answer": "18"
+      },
+      {
+        "question": "What is the shape of the container as indicated indirectly by the label design?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary material of the container based on the implied structure of the label?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Based on the overall style and composition of the label, what is the apparent style of the product packaging?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Considering the nutritional label's overall aesthetic, what is the predominant font type used?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the stated serving size in tablespoons, as shown on the nutrition facts?",
+        "answer": "2"
+      }
+    ]
+  }
+]

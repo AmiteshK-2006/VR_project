@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/12/124cc2fe.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form and proportions, what is the most accurate descriptor of the product's shape?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Based on its visual transparency and consistency, what is the most likely state of the product inside?",
+        "answer": "Liquid"
+      },
+      {
+        "question": "Judging by the hue, what single word best describes the dominant color of the product's contents?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What material is most evident in the construction of the primary container?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Observing the topmost component, what material seems to constitute the bottle cap?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Focusing on the bottle's surface, what textural quality is immediately apparent?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the most prominent graphic design element found on the label?",
+        "answer": "Text"
+      },
+      {
+        "question": "Considering the label's color scheme, what secondary color is most visible besides white?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What type of barcode is visibly printed on the label?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Excluding the label's primary text, what other noticeable printed element is present?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "Considering the overall presentation, what is the most likely purpose of this product?",
+        "answer": "Cosmetic"
+      },
+      {
+        "question": "What is the most visible text indicating the nature of the product?",
+        "answer": "Serum"
+      },
+      {
+        "question": "Disregarding the brand's logo, what word most clearly identifies the product type?",
+        "answer": "Vitamin"
+      },
+      {
+        "question": "What color is the relatively small rectangular area on the label containing text?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "Does the bottle have any noticeable engravings or embossing?",
+        "answer": "No"
+      }
+    ]
+  }
+]

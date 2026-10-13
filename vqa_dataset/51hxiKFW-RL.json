@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4e/4eb87ec8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color prominently displayed on the nutrition facts label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of the nutrition facts label panel?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the text color used for the 'Nutrition Facts' header?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the dominant texture of the label's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the material that appears to constitute the nutrition facts label?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the general formatting style of the nutritional information presented?",
+        "answer": "tabular"
+      },
+      {
+        "question": "What is the color of the text detailing the 'Calories per serving'?",
+        "answer": "Black"
+      },
+      {
+        "question": "What units are used for 'Total Fat' and other macronutrients?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What measurement system is used for the 'Serving size'?",
+        "answer": "Metric"
+      },
+      {
+        "question": "What style of font is primarily used throughout the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the predominant typeface weight used for the nutritional values?",
+        "answer": "Regular"
+      },
+      {
+        "question": "What percentage of the Daily Value (%DV) is provided by one serving for Vitamin D?",
+        "answer": "Ten"
+      },
+      {
+        "question": "What is the number of servings indicated per container?",
+        "answer": "Eight"
+      },
+      {
+        "question": "What is the total number of calories per serving as indicated on the label?",
+        "answer": "OneHundredTen"
+      },
+      {
+        "question": "Does the label clearly mention the grade of the product?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

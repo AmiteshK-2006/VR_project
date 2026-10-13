@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6c/6ca92a1b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed fabric sample?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the most apparent texture of the fabric shown in the image?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Considering the visual details, what material appears to constitute this fabric?",
+        "answer": "Linen"
+      },
+      {
+        "question": "Based on the image's visual information, what is the general appearance of the fabric's weave?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Judging by the image, how would you describe the overall visual tone of the fabric sample?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "What is the implied feel or surface characteristic of the fabric, based solely on visual analysis?",
+        "answer": "Coarse"
+      },
+      {
+        "question": "What is the apparent visual density of the fabric's weave structure as shown in the picture?",
+        "answer": "Tight"
+      },
+      {
+        "question": "Does the fabric exhibit any visibly discernible patterns or designs, according to visual inspection?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on visual inspection, what is the primary visual characteristic that defines this fabric's look?",
+        "answer": "Simplicity"
+      },
+      {
+        "question": "What is the apparent level of sheen or glossiness of the fabric in the presented image?",
+        "answer": "Matte"
+      },
+      {
+        "question": "According to the image, how uniform is the coloring and texture across the displayed fabric sample?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Judging from the image, how would you describe the visual weight or thickness of the fabric?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the overall visual impression conveyed by the image of the fabric's appearance?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "Based solely on visual inspection, what is the apparent visual opacity of this fabric sample?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What is the predominant visual element in the image, disregarding any background or context?",
+        "answer": "Fabric"
+      }
+    ]
+  }
+]

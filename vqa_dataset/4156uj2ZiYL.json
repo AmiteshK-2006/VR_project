@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/05/05994294.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary ingredient explicitly stated on the product's label, as visibly shown in the image?",
+        "answer": "Semolina"
+      },
+      {
+        "question": "Based on the visible text, what grain is mentioned as a component of the product shown?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "According to the image's visible text, what other type of flour is listed among the ingredients?",
+        "answer": "Durum"
+      },
+      {
+        "question": "What essential vitamin is explicitly listed amongst the ingredients, as visually depicted on the label?",
+        "answer": "Niacin"
+      },
+      {
+        "question": "Considering only the image's visible text, which nutrient, identified by its chemical name, is presented as an ingredient?",
+        "answer": "Thiamin"
+      },
+      {
+        "question": "What is the iron-containing compound mentioned within the ingredients list, as shown in the provided image?",
+        "answer": "Ferrous"
+      },
+      {
+        "question": "As visually displayed on the product's label, what B vitamin is included in the ingredient list?",
+        "answer": "Riboflavin"
+      },
+      {
+        "question": "Which vitamin is explicitly mentioned in the ingredients list as visibly presented in the image provided?",
+        "answer": "Folic"
+      },
+      {
+        "question": "Considering only the image, what single word is used to denote a potential allergen?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "What ingredient, other than wheat, might be found in the product due to the manufacturing location?",
+        "answer": "Eggs"
+      },
+      {
+        "question": "What is the word shown before the list of ingredients on the image?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the word shown before the specific allergen warning?",
+        "answer": "Contains"
+      },
+      {
+        "question": "What is the word that begins the statement about the manufacturing location?",
+        "answer": "Manufactured"
+      },
+      {
+        "question": "What is the single word used to describe the facility's use of a particular ingredient?",
+        "answer": "Uses"
+      },
+      {
+        "question": "What is the single word after 'in a facility that' on the label shown?",
+        "answer": "Uses"
+      }
+    ]
+  }
+]

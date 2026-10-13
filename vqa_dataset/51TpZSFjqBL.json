@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/99/995813c6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary ingredient explicitly stated on this food label, focusing on the type of fish?",
+        "answer": "Tuna"
+      },
+      {
+        "question": "Considering the text's description, what is the preparation style of the tuna depicted on this label?",
+        "answer": "Chunk"
+      },
+      {
+        "question": "Based solely on the label's wording, what adjective describes the color of the tuna?",
+        "answer": "White"
+      },
+      {
+        "question": "What additional ingredient, besides tuna, is prominently listed on the label among the primary ingredients?",
+        "answer": "Water"
+      },
+      {
+        "question": "According to the label, what common seasoning is used in this food product, as explicitly stated in the ingredients?",
+        "answer": "Salt"
+      },
+      {
+        "question": "What type of tuna is specified in detail, based on the explicit description on the label?",
+        "answer": "Albacore"
+      },
+      {
+        "question": "What is mentioned as another ingredient that is processed in the same facility as this product?",
+        "answer": "Eggs"
+      },
+      {
+        "question": "According to this label, what type of seafood is processed alongside this product in the same facility?",
+        "answer": "Shellfish"
+      },
+      {
+        "question": "Aside from the primary fish ingredient, what other type of fish is noted as being processed in the same facility?",
+        "answer": "Fish"
+      },
+      {
+        "question": "What grain is mentioned as being processed in the same facility where this product is made?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "What legume or similar plant is mentioned as being processed in the same facility?",
+        "answer": "Soy"
+      },
+      {
+        "question": "What is the overall format of the text presented on this food label's image?",
+        "answer": "List"
+      },
+      {
+        "question": "Considering the image, what is the primary mode of communication used on the label?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the general subject matter or purpose conveyed on this label in this image?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the overall color scheme of the text on the label, primarily?",
+        "answer": "Black"
+      }
+    ]
+  }
+]

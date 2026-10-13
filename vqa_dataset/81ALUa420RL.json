@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d0/d007db74.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant textual element displayed prominently on the product, indicating its nutritional composition?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Considering the overall design, what is the primary color scheme utilized in the text and labeling?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the shape of the nutritional information panel presented on the product packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visual layout, what is the general format or style used to present the nutritional information?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the texture of the background on which the nutritional information is printed?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent material of the surface displaying the nutritional information?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the style of the font used for the word 'Nutrition' on the product's label?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Considering the visual presentation, what is the overall tone or feel of the product's nutritional information display?",
+        "answer": "Informative"
+      },
+      {
+        "question": "What is the primary method used to structure the numerical values and descriptions on the panel, aiding in readability?",
+        "answer": "Columns"
+      },
+      {
+        "question": "Regarding the visual appeal, what is the general level of detail or visual complexity in the nutritional information layout?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the size of the font used for the value of calories per serving?",
+        "answer": "Large"
+      },
+      {
+        "question": "What are the units used to measure the 'Total Fat' content in the provided nutritional information?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Focusing on the visual elements, what is the format used to represent percentages of Daily Value for nutrients?",
+        "answer": "Numerical"
+      },
+      {
+        "question": "Observing the textual details, what is the term employed to describe the daily nutritional reference standard?",
+        "answer": "Daily"
+      },
+      {
+        "question": "Considering the provided nutritional information, which nutrient is highlighted as having the highest percentage of Daily Value?",
+        "answer": "Sugars"
+      }
+    ]
+  }
+]

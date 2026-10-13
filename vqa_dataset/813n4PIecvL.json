@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/79/790b7308.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the nutritional facts panel?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the primary font style used for the header 'Nutrition Facts'?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Considering the font size, which nutritional information is highlighted the most prominently?",
+        "answer": "Calories"
+      },
+      {
+        "question": "What is the shape of the overall nutritional information panel layout?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visual hierarchy, what is the second most prominent numerical value after 'Calories'?",
+        "answer": "130mg"
+      },
+      {
+        "question": "What is the background texture of the panel, specifically concerning smoothness or roughness?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Regarding the layout, how are the individual nutritional components arranged?",
+        "answer": "Columnar"
+      },
+      {
+        "question": "What is the text style of the individual nutritional element values (e.g., 80, 0%, 12g)?",
+        "answer": "Regular"
+      },
+      {
+        "question": "What is the overall style of the border surrounding the panel?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the various units of measurement used, which is most frequently repeated?",
+        "answer": "g"
+      },
+      {
+        "question": "What is the color of the text used for the 'Nutrition Facts' header?",
+        "answer": "Black"
+      },
+      {
+        "question": "What are the relative sizes of the 'serving size' description and its numerical value?",
+        "answer": "Similar"
+      },
+      {
+        "question": "Is there any notable visual graphic element besides the text and numbers?",
+        "answer": "No"
+      },
+      {
+        "question": "How many columns are visually apparent in the presentation of the nutritional data?",
+        "answer": "Two"
+      },
+      {
+        "question": "Describe the overall visual clarity and readability of the information displayed.",
+        "answer": "Clear"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1c/1c040439.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual layout, what is the dominant orientation of the presented information within this image?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Focusing on the typographic style, what kind of typeface is primarily used to convey the textual content?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Analyzing the textual composition, what is the primary purpose or function of the provided text in this visual?",
+        "answer": "Informative"
+      },
+      {
+        "question": "In terms of textual structure, how is the main body of text organized to improve readability and comprehension?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Observing the word formation, what language is predominantly used throughout the visible text in the image?",
+        "answer": "English"
+      },
+      {
+        "question": "Considering the image's content, what specific kind of information does the text provide regarding the product in question?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Examining the textual elements, what is the specific food product mentioned as the main ingredient?",
+        "answer": "Turkey"
+      },
+      {
+        "question": "Based on the listed components, which ingredient is categorized as a type of starch, likely used as a thickening agent?",
+        "answer": "Potato"
+      },
+      {
+        "question": "Among the mentioned ingredients, which one is a natural preservative often found in processed foods?",
+        "answer": "Carrageenan"
+      },
+      {
+        "question": "According to the list of ingredients, which ingredient is indicated as a source of flavor enhancement or color?",
+        "answer": "Cherry"
+      },
+      {
+        "question": "Considering the ingredients, which one is a common culinary herb used for its savory flavor profile?",
+        "answer": "Celery"
+      },
+      {
+        "question": "From the listed ingredients, what is the primary liquid component?",
+        "answer": "Water"
+      },
+      {
+        "question": "Among the ingredients, what common culinary additive is present and used for its salty taste?",
+        "answer": "Salt"
+      },
+      {
+        "question": "What food additive is listed, typically used to regulate acidity levels?",
+        "answer": "Vinegar"
+      },
+      {
+        "question": "What compound, often a source of potassium in food processing, appears in the ingredient list?",
+        "answer": "Chloride"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ee/ee8ee952.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the depicted phone case?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What appears to be the dominant material of the phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the image, what is the overall shape of the phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on visual observation, what seems to be the case's design style?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Does the phone case appear to have a noticeable texture, judging by the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging from the image, is there any visible pattern or print on the case?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the phone case appear to offer any sort of stand functionality?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What mechanism is shown for attaching or detaching the case?",
+        "answer": "Snap"
+      },
+      {
+        "question": "Considering the visual, how many visible parts comprise this case?",
+        "answer": "Two"
+      },
+      {
+        "question": "What seems to be the thickness of the phone case's material, visually speaking?",
+        "answer": "Thin"
+      },
+      {
+        "question": "From the picture, does the phone case fully encase the phone?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent condition of the depicted phone case?",
+        "answer": "New"
+      },
+      {
+        "question": "Judging by the visual, is the phone case's fit described as snug or loose?",
+        "answer": "Snug"
+      },
+      {
+        "question": "What is the visual impression of the case's overall design language?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Considering the image, how many visible buttons are on the phone within the case?",
+        "answer": "One"
+      }
+    ]
+  }
+]

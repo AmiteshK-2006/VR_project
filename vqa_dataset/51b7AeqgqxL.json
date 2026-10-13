@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/03/03a7fbe2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout and textual content, what kind of information is predominantly displayed on this product's packaging?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the primary color used for the prominent text and headings in the depicted nutritional information panel?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the numerical value prominently displayed representing the number of calories per serving?",
+        "answer": "160"
+      },
+      {
+        "question": "Based on the visual information, what is the serving size of the food item as indicated on the label?",
+        "answer": "Can"
+      },
+      {
+        "question": "What is the unit of measurement used for the serving size specified on the nutrition label, besides 'can'?",
+        "answer": "Milliliter"
+      },
+      {
+        "question": "Observing the nutrition facts, what is the total amount of carbohydrates indicated per serving?",
+        "answer": "40g"
+      },
+      {
+        "question": "What is the quantity of added sugars, in grams, that the label highlights within this product per serving?",
+        "answer": "35g"
+      },
+      {
+        "question": "According to the visual data, what is the percentage daily value of total fat per serving displayed on the label?",
+        "answer": "0%"
+      },
+      {
+        "question": "What is the amount of sodium, measured in milligrams, noted per serving in the nutrition information panel?",
+        "answer": "35mg"
+      },
+      {
+        "question": "Based solely on the visual details, what is the specified amount of protein, in grams, included in each serving?",
+        "answer": "0g"
+      },
+      {
+        "question": "What is the shape of the rectangular nutrition information panel presented in the given product image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the visual characteristic of the text font style used throughout the nutrition facts?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the visual presentation, what is the background color of the nutritional information area?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall style of the graphic design used to present the nutrition information on the label?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the general format of the information provided concerning vitamins and minerals listed at the bottom of the nutrition facts?",
+        "answer": "Table"
+      }
+    ]
+  }
+]

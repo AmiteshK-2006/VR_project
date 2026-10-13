@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b4/b4d31fbb.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the bottle containing the supplement?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What material appears to constitute the primary packaging of the product?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the overall shape, what geometrical form best describes the container?",
+        "answer": "Cylinder"
+      },
+      {
+        "question": "Describe the texture of the bottle's surface, based on visual inspection.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the color of the label prominently displayed on the bottle?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall size of the container relative to a standard hand?",
+        "answer": "Small"
+      },
+      {
+        "question": "Based on the image, what kind of closure does the bottle seem to possess?",
+        "answer": "Screw"
+      },
+      {
+        "question": "Is there any noticeable text visible on the label, irrespective of its content?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the general condition of the bottle, judging from its appearance?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Can you identify any markings or symbols aside from text on the bottle?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What appears to be the primary method of conveying product information?",
+        "answer": "Label"
+      },
+      {
+        "question": "Considering the overall aesthetic, would you characterize the packaging design as ornate or minimalist?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the apparent level of detail on the bottle's label?",
+        "answer": "High"
+      },
+      {
+        "question": "Does the visible text display a specific brand name, if any?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is the label affixed completely or partially on the surface of the bottle?",
+        "answer": "Completely"
+      }
+    ]
+  }
+]

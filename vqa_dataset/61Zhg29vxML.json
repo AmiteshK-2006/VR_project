@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3b/3bfe2604.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual appearance, what is the primary color of the depicted product?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Based on the image, what appears to be the dominant material used in the product's construction?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Judging from its form, what is the most accurate geometric descriptor of the product's shape?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Examining the image, what seems to be the product's intended function or purpose, suggested by its form and apparent use?",
+        "answer": "Protective"
+      },
+      {
+        "question": "From a purely visual perspective, what is the most obvious textural characteristic of this item?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Analyzing the image, what type of visible markings or design elements are present on the product itself?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the images, what is the overall thickness or dimensional profile of the product?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Given the visual evidence, what is the apparent degree of flexibility of the product, as shown by the bending in the illustration?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "In terms of its visual presentation, how many distinct layers or components appear to constitute the product?",
+        "answer": "One"
+      },
+      {
+        "question": "From the visual detail, does the product seem to have any visible adhesive elements, such as tape or backing?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging from its form, is the product designed to completely cover or partially cover a surface?",
+        "answer": "Complete"
+      },
+      {
+        "question": "Based on the illustrations, can the product be easily removed or applied without leaving residue?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering its structure, is this item designed for single-use or reusable applications?",
+        "answer": "Single"
+      },
+      {
+        "question": "What is the apparent level of transparency, considering its interaction with the underlying surface in the illustrations?",
+        "answer": "High"
+      },
+      {
+        "question": "Observing the product in the different stages of application, is there any visible change in its appearance during use?",
+        "answer": "No"
+      }
+    ]
+  }
+]

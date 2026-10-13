@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2c/2c3a8314.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the visible mesh fabric?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the texture, what is the apparent weave structure of the mesh?",
+        "answer": "Fine"
+      },
+      {
+        "question": "Based on the image, what material appears to constitute the drawstring?",
+        "answer": "Green"
+      },
+      {
+        "question": "Judging by the image, what is the overall shape of the laundry bag?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent overall texture of the mesh fabric depicted?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the primary function suggested by the bag's visible features?",
+        "answer": "Laundry"
+      },
+      {
+        "question": "What seems to be the material composition of the main fabric?",
+        "answer": "Mesh"
+      },
+      {
+        "question": "Does the image display any visible seams or stitching along the edges?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Describe the appearance of the drawstring, considering its thickness and width.",
+        "answer": "Thin"
+      },
+      {
+        "question": "What is the visible pattern of the mesh's weave in the provided image?",
+        "answer": "Diamond"
+      },
+      {
+        "question": "Judging solely by appearance, how would you describe the overall opacity of the mesh?",
+        "answer": "Translucent"
+      },
+      {
+        "question": "What color is the drawstring that is partially visible in the image?",
+        "answer": "LightGreen"
+      },
+      {
+        "question": "Based on the visual evidence, is the mesh fabric flexible or rigid?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "What is the visible shape of the item when being held in the hand?",
+        "answer": "Tubular"
+      },
+      {
+        "question": "Does the image show any noticeable embellishments or logos on the mesh fabric?",
+        "answer": "No"
+      }
+    ]
+  }
+]

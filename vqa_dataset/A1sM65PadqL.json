@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3b/3b40584a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the textile shown in the image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the weave and texture, what is the apparent material of the fabric?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "Based on the image, what is the overall texture of the fabric presented?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Describe the visual appearance of the fabric's surface, considering its uniformity?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the image, what kind of finish does the fabric seem to possess?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the fabric's visual structure suggest a plain or patterned weave?",
+        "answer": "Plain"
+      },
+      {
+        "question": "From the image, can you determine if the fabric has a visible pile or nap?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image's resolution, what is the discernible density of the fabric's weave?",
+        "answer": "High"
+      },
+      {
+        "question": "Is there any discernible sheen or glossiness evident in the fabric's appearance?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the most apparent color variation within the fabric's image?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the general visual impression of the color depth displayed by the fabric?",
+        "answer": "Dark"
+      },
+      {
+        "question": "What might be the inferred weight of the fabric sample, based on visual clues?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Considering the visual clarity, is there any noticeable pattern within the weave?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the image suggest the presence of any visible imperfections in the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from its visual characteristics, does this fabric appear to be tightly or loosely woven?",
+        "answer": "Tightly"
+      }
+    ]
+  }
+]

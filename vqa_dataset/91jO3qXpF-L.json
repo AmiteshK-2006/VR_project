@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1c/1c55838c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary flavor indicated on the ice cream container's label?",
+        "answer": "Vanilla"
+      },
+      {
+        "question": "What is the type of dairy product shown in the image?",
+        "answer": "Icecream"
+      },
+      {
+        "question": "What color is the outer rim of the ice cream container?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the size of the ice cream container as indicated on the label?",
+        "answer": "Pint"
+      },
+      {
+        "question": "What shape is the ice cream container?",
+        "answer": "Round"
+      },
+      {
+        "question": "What is the material of the container, based on visual appearance?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What certification mark is prominently displayed on the label?",
+        "answer": "USDA"
+      },
+      {
+        "question": "What specific type of vanilla is mentioned on the product label?",
+        "answer": "Bean"
+      },
+      {
+        "question": "What word describes the product's production method?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What instruction is given regarding the storage of the product?",
+        "answer": "Frozen"
+      },
+      {
+        "question": "What is the overall design style of the label?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the color scheme of the label, excluding the container rim?",
+        "answer": "Green"
+      },
+      {
+        "question": "What brand is mentioned prominently on the label?",
+        "answer": "365"
+      },
+      {
+        "question": "What is the textual description of the brand on the label?",
+        "answer": "Everyday"
+      },
+      {
+        "question": "What is the volume, in milliliters, mentioned on the container?",
+        "answer": "473"
+      }
+    ]
+  }
+]

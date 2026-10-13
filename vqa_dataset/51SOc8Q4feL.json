@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fc/fcc24787.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the visual prominence of the text, what is the primary information conveyed on this rectangular label?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the method of corn milling explicitly mentioned in the label's text?",
+        "answer": "Stone-ground"
+      },
+      {
+        "question": "Based on the label, what type of oil is used and what specific seed is mentioned first among them?",
+        "answer": "Expeller-pressed"
+      },
+      {
+        "question": "According to the label's text, what specific type of corn is used?",
+        "answer": "White"
+      },
+      {
+        "question": "In addition to sunflower seeds, what other organic seed is listed as an ingredient?",
+        "answer": "Safflower"
+      },
+      {
+        "question": "What alternative oil ingredient is noted in addition to the sunflower and safflower oils?",
+        "answer": "Canola"
+      },
+      {
+        "question": "What kind of salt is employed in the product's composition, as indicated by the label?",
+        "answer": "Sea"
+      },
+      {
+        "question": "What descriptor is consistently used before numerous ingredients, indicating their cultivation method?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the overall shape and visual format of the presented label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "In terms of visual properties, what is the overall background color or shade of the label?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "What is the apparent typeface or style of the text on the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the main word in the displayed text on the label, indicating what the list is?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the visual format of the text; is it presented in a list or paragraph form?",
+        "answer": "List"
+      },
+      {
+        "question": "Visually judging by the text's appearance, what is the general size of the label text, small or large?",
+        "answer": "Small"
+      },
+      {
+        "question": "Considering the label's visual clarity, what is the case of the lettering used in presenting the ingredients list?",
+        "answer": "Uppercase"
+      }
+    ]
+  }
+]

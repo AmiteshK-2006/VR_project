@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f7/f71a38a4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual appearance, what is the primary textual content depicted in the image?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Based on the provided text, what is one of the main ingredients explicitly mentioned?",
+        "answer": "Almonds"
+      },
+      {
+        "question": "What other nut, besides almonds, is clearly listed as a primary ingredient?",
+        "answer": "Cashews"
+      },
+      {
+        "question": "Observing the ingredients list, what dried fruit is included in the product?",
+        "answer": "Cranberries"
+      },
+      {
+        "question": "From the textual information, what type of oil is specified as an ingredient?",
+        "answer": "Canola"
+      },
+      {
+        "question": "According to the text, what sweetener is utilized in this food item?",
+        "answer": "Sugar"
+      },
+      {
+        "question": "What additional oil, besides canola, is identified in the ingredient list?",
+        "answer": "Sunflower"
+      },
+      {
+        "question": "What additive, besides oils and nuts, is explicitly mentioned in the list?",
+        "answer": "Salt"
+      },
+      {
+        "question": "In terms of potential allergens, what nut is specifically noted as being possibly present?",
+        "answer": "Peanuts"
+      },
+      {
+        "question": "Based on the visual text, what other potential allergen is indicated?",
+        "answer": "Milk"
+      },
+      {
+        "question": "Referring to the list of potential allergens, what grain is mentioned?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "What other ingredient, besides milk and wheat, poses a potential allergy risk?",
+        "answer": "Soy"
+      },
+      {
+        "question": "Judging from the image, what is the overall font style of the label text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the color of the text presented on the food label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the general background color of the label?",
+        "answer": "White"
+      }
+    ]
+  }
+]

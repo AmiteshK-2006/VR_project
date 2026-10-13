@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4b/4b228740.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the dominant shape of this footwear item, as visually apparent in the provided image?",
+        "answer": "Pointed"
+      },
+      {
+        "question": "Based on the image, what appears to be the primary color of the visible upper material of this shoe?",
+        "answer": "Red"
+      },
+      {
+        "question": "From a visual inspection of the sole, what material is prominently used in its construction?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Judging by the image, what texture best describes the look and feel of the shoe's upper material?",
+        "answer": "Suede"
+      },
+      {
+        "question": "Examining the provided image, what design element is noticeable around the edge of the sole?",
+        "answer": "Stitching"
+      },
+      {
+        "question": "As depicted in the image, what is the overall style of the shoe shown, based purely on its visual presentation?",
+        "answer": "Stiletto"
+      },
+      {
+        "question": "What is the apparent color of the insole's visible surface, as shown in the image?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Based on the image, what appears to be the material of the insole's primary construction?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Judging from the image, what is the construction of the heel area of this shoe?",
+        "answer": "Slim"
+      },
+      {
+        "question": "From visual observation of the image, is there any branding visible on the shoe?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based solely on the provided image, what is the gender most associated with this type of footwear?",
+        "answer": "Women"
+      },
+      {
+        "question": "Analyzing the image, what type of footwear does the image appear to depict?",
+        "answer": "Heels"
+      },
+      {
+        "question": "Judging from the image, what is the apparent condition of this shoe?",
+        "answer": "New"
+      },
+      {
+        "question": "From the visual details in the provided image, what kind of footwear is this?",
+        "answer": "Pump"
+      },
+      {
+        "question": "Based on the image, describe the material of the shoe's body using a single term.",
+        "answer": "Suede"
+      }
+    ]
+  }
+]

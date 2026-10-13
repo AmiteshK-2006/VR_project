@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/81/8142a364.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant overall shape of this textile item, considering its dimensions and form?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary color, considering the overall visual impression of the object?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the apparent texture of the fabric, based on the image's visual clues?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering its appearance, what material seems most likely to be used in construction?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "What is the apparent level of sheen or glossiness exhibited by the textile's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the apparent construction technique used to create this product, if one can be deduced from the image?",
+        "answer": "Seamed"
+      },
+      {
+        "question": "Does the item appear to have any distinct patterns or designs printed or woven onto it?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the object's form and likely function, what is its most probable use?",
+        "answer": "Pillow"
+      },
+      {
+        "question": "Can any visible seams or stitching lines be observed along the edges of the item?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based solely on visual observation, what does the item's overall visual presentation suggest?",
+        "answer": "Simple"
+      },
+      {
+        "question": "If the item were to be categorized by its structure, what would best describe its basic form?",
+        "answer": "Filled"
+      },
+      {
+        "question": "Is there any discernible variation in the color or tone across the surface of the object?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on its visual appearance, does the item suggest a high level of visual complexity?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent weight or density of the item, solely based on its appearance?",
+        "answer": "Light"
+      },
+      {
+        "question": "Does the object possess any noticeable decorative elements or embellishments?",
+        "answer": "No"
+      }
+    ]
+  }
+]

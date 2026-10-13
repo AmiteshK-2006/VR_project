@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d4/d416aac0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the dominant shape of the container, as depicted in the provided image?",
+        "answer": "Bottle"
+      },
+      {
+        "question": "Based on the visual appearance, what primary material seems to constitute this product's packaging?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What color best describes the majority of the visible surface of the product's container?",
+        "answer": "White"
+      },
+      {
+        "question": "Observing the top of the container, what type of closure or dispensing mechanism is apparent?",
+        "answer": "Flip-top"
+      },
+      {
+        "question": "Analyzing the image, is the bottle's surface predominantly smooth or does it show any noticeable texturing?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Looking at the labeling, what color is most prominent in the smaller text and design elements on the container?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the approximate overall height of the container in relation to typical household items?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Focusing on the base of the bottle, what is the shape of the bottom section?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Considering the visual texture, would you describe the container's surface as glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Examining the label, what appears to be the most noticeable style of the text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Judging from the image, is the bottle largely transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What type of lines or markings are seen on the label in the product image?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Observing the neck of the bottle, is it visibly thicker or thinner than the body?",
+        "answer": "Thicker"
+      },
+      {
+        "question": "Does the container appear to exhibit any significant curvature or does it maintain a relatively uniform shape?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Considering the overall packaging design, is the bottle's aesthetic minimalistic or ornate?",
+        "answer": "Minimalist"
+      }
+    ]
+  }
+]

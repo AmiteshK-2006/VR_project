@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/86/86c4c4f1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual layout, what is the predominant orientation of the visible text on the product's packaging?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Based on the font style and size variations, what can be inferred about the hierarchical structure of the textual information?",
+        "answer": "Hierarchical"
+      },
+      {
+        "question": "What is the overall background color of the main section where the ingredients are listed?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the text color used to write out the 'INGREDIENTS' heading, based purely on visual observation?",
+        "answer": "Black"
+      },
+      {
+        "question": "Examining the text closely, what is the font style used in the ingredient list, sans-serif or serif?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Describe the distinct visual characteristic of the text regarding its kerning or spacing between letters?",
+        "answer": "Even"
+      },
+      {
+        "question": "Given the visual appearance, what can you confirm about the overall style of the font? Is it bold, light, or regular?",
+        "answer": "Regular"
+      },
+      {
+        "question": "Disregarding any nutritional information, what term is prominently visible at the bottom of the label?",
+        "answer": "Violife"
+      },
+      {
+        "question": "Considering the textual elements, is the text presented in upper case, lower case, or a mixture of both?",
+        "answer": "Mixed"
+      },
+      {
+        "question": "Judging purely by the visual characteristics, is the text aligned to the left, right, or centered?",
+        "answer": "Left"
+      },
+      {
+        "question": "Considering the visual features, describe the overall density of the textual content on the label.",
+        "answer": "Dense"
+      },
+      {
+        "question": "From the visual inspection, what is the apparent visual weight of the font?",
+        "answer": "Light"
+      },
+      {
+        "question": "By examining the type of lettering used, what is the most appropriate description of its visual style: formal, informal or neutral?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "Based on visual analysis, what appears to be the primary function of the visible text on the packaging?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Judging purely by appearance, what could the visible text be classified as: narrative, descriptive, or instructional?",
+        "answer": "Descriptive"
+      }
+    ]
+  }
+]

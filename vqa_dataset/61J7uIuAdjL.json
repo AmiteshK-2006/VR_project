@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/aa/aaf85c0c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the information presented on the product label?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What is the primary stated purpose of the product as indicated on its label?",
+        "answer": "Laxative"
+      },
+      {
+        "question": "What is the active ingredient explicitly mentioned in the label's description?",
+        "answer": "Sennosides"
+      },
+      {
+        "question": "What is the unit of measurement used for the specified active ingredient quantity?",
+        "answer": "mg"
+      },
+      {
+        "question": "What numerical value represents the amount of active ingredient per tablet?",
+        "answer": "8.6"
+      },
+      {
+        "question": "What is the format of the text information provided on the product's label?",
+        "answer": "tabular"
+      },
+      {
+        "question": "What word describes the presentation style of the information on the label?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the text orientation on the label concerning the information presented?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the overall shape of the information block on the product label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the visual texture of the background area of the label?",
+        "answer": "Solid"
+      },
+      {
+        "question": "What is the relative size of the text indicating 'Active Ingredient'?",
+        "answer": "Large"
+      },
+      {
+        "question": "What is the visual style of the text font used on the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the overall style of the information label design?",
+        "answer": "Simple"
+      },
+      {
+        "question": "How many sections does the label design appear to be divided into?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the overall tone communicated by the label's design?",
+        "answer": "Informative"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1b/1bc9f1c1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the highest energy efficiency rating shown on the label?",
+        "answer": "A+"
+      },
+      {
+        "question": "What is the color of the highest energy efficiency rating indicator?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the lowest energy efficiency rating shown?",
+        "answer": "E"
+      },
+      {
+        "question": "What color is the lowest energy efficiency rating indicator?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the shape of the energy efficiency rating scale?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the overall shape of the label itself?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary color of the background of the label?",
+        "answer": "White"
+      },
+      {
+        "question": "What type of information does the label primarily display?",
+        "answer": "Energy"
+      },
+      {
+        "question": "What language(s) are used on the label?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "What unit of measurement is used for energy consumption?",
+        "answer": "kWh"
+      },
+      {
+        "question": "What is the numerical value of energy consumption shown?",
+        "answer": "3.5"
+      },
+      {
+        "question": "What is the style of the font used for the energy ratings?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the label's function, what is the label's likely purpose?",
+        "answer": "Informative"
+      },
+      {
+        "question": "What kind of scale is depicted for energy efficiency?",
+        "answer": "Letter"
+      },
+      {
+        "question": "Is the label primarily composed of images or text?",
+        "answer": "Text"
+      }
+    ]
+  }
+]

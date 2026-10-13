@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f0/f05c504e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the container's lid?",
+        "answer": "Purple"
+      },
+      {
+        "question": "What appears to be the primary material of the container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What shape best describes the overall form of the product?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the general texture of the container's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the size, what might be the product's typical contents?",
+        "answer": "Frozen"
+      },
+      {
+        "question": "What type of information is prominently displayed on the container?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What color is the primary text on the nutrition label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the image, is the container transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Does the container show any visible patterns or designs?",
+        "answer": "No"
+      },
+      {
+        "question": "What kind of seal or closure is on the container's top?",
+        "answer": "Lid"
+      },
+      {
+        "question": "What is the overall color scheme of the visible labeling?",
+        "answer": "Green"
+      },
+      {
+        "question": "Judging by the label, what might the product's usage be?",
+        "answer": "Food"
+      },
+      {
+        "question": "Is there a noticeable brand name or logo present?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Are there any pictures or illustrations visible on the packaging?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the likely method of serving the product's contents?",
+        "answer": "Scooping"
+      }
+    ]
+  }
+]

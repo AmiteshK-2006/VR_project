@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b8/b87705bb.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary shape of the depicted food item, as visually apparent on the packaging?",
+        "answer": "Round"
+      },
+      {
+        "question": "Considering the textual information, what is the main flour type used in the product's production?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "Based on the visual presentation, what is the overall color scheme of the product's labeling?",
+        "answer": "Grey"
+      },
+      {
+        "question": "Judging by the image, what appears to be the texture of the listed ingredients\u2014primarily the main component?",
+        "answer": "Soft"
+      },
+      {
+        "question": "According to the visible text, what additional oil is used besides wheat in the product?",
+        "answer": "Sunflower"
+      },
+      {
+        "question": "From the text, what ingredient is added to maintain the product's freshness?",
+        "answer": "Rosemary"
+      },
+      {
+        "question": "What is the form in which the sunflower oil is described on the label?",
+        "answer": "Pressed"
+      },
+      {
+        "question": "What type of salt is mentioned in the ingredient list shown on the packaging?",
+        "answer": "Sea"
+      },
+      {
+        "question": "Based on the visible text, what secondary flour type is included in the recipe?",
+        "answer": "Barley"
+      },
+      {
+        "question": "What type of sugar is explicitly named within the visible ingredients?",
+        "answer": "Cane"
+      },
+      {
+        "question": "What is described as being included in the sunflower seed oil for freshness preservation?",
+        "answer": "Extract"
+      },
+      {
+        "question": "What specific wheat-related ingredient is clearly mentioned in the provided textual list?",
+        "answer": "Gluten"
+      },
+      {
+        "question": "What leavening agent is listed as being part of the food product's ingredients?",
+        "answer": "Yeast"
+      },
+      {
+        "question": "What kind of processing facility is mentioned in the warning statement?",
+        "answer": "Milk"
+      },
+      {
+        "question": "Based on the ingredient list, what is the fundamental component this food item is made of?",
+        "answer": "Bread"
+      }
+    ]
+  }
+]

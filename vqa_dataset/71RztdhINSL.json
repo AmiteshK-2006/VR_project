@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f9/f9a48694.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape and the predominantly white background, what is the most prominent visual feature of this product?",
+        "answer": "Label"
+      },
+      {
+        "question": "Analyzing the label's typography, what descriptive term is most conspicuously displayed, indicating the product's purpose?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Focusing on the label's text, what specific dietary information is categorically presented, concerning the product's nutritional components?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Observing the label's layout, what style of text formatting is used for the key data presented in columns and rows, facilitating readability?",
+        "answer": "Table"
+      },
+      {
+        "question": "Examining the visual structure of the presented data, what measurement units are predominantly used, indicating the quantitative values?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Considering the color palette, what single color dominates the background of the presented label, contributing to its overall visual tone?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the visual characteristics of the text, what is the primary typeface used for the header and the body of the label’s information?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Regarding the overall presentation, what is the apparent format of the information displayed, reflecting the product's characteristics?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "From the visual appearance of the labeling, what is the implicit purpose of this product, inferred from the text presented?",
+        "answer": "Food"
+      },
+      {
+        "question": "Looking at the overall label, what type of information is given in the percentage values in the rightmost column?",
+        "answer": "Daily"
+      },
+      {
+        "question": "Considering the style of the data presentation, what is the apparent intended audience for this information, suggesting its practical usage?",
+        "answer": "Consumers"
+      },
+      {
+        "question": "By visually inspecting the label’s content, which primary nutrient's content is most emphasized, likely critical for health awareness?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Observing the detailed numeric data, which nutritional element is highlighted prominently, reflecting its dietary significance?",
+        "answer": "Sodium"
+      },
+      {
+        "question": "Considering the visual clarity of the data, what is the implicit purpose of including such specific quantitative data in this format?",
+        "answer": "Information"
+      },
+      {
+        "question": "Judging from the structure of the information presented, what is the overarching communicative aim of this product feature’s visual design?",
+        "answer": "Clarity"
+      }
+    ]
+  }
+]

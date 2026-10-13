@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4f/4f4e27d8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual layout, what is the primary function of this rectangular-shaped item, judging by its text and numerical data organization?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Based on the prominent text at the top, what specific dietary information is this item designed to convey?",
+        "answer": "Facts"
+      },
+      {
+        "question": "What is the predominant color scheme utilized in the background and text of this nutritional information panel?",
+        "answer": "White"
+      },
+      {
+        "question": "Observing the distinct sections and their corresponding details, what unit of measurement is consistently used for various nutritional components?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What numerical value, prominently displayed near the top, represents the caloric content per serving?",
+        "answer": "160"
+      },
+      {
+        "question": "What is the primary method of textual presentation used to display all the nutritional values?",
+        "answer": "Table"
+      },
+      {
+        "question": "Focusing on the textual details, what specific nutrient is listed prominently after 'Total Fat'?",
+        "answer": "Saturated"
+      },
+      {
+        "question": "Examining the numerical data, what percentage of the daily value for total fat is indicated in the listing?",
+        "answer": "18"
+      },
+      {
+        "question": "Looking at the dietary fiber listing, what specific value in grams is listed?",
+        "answer": "2"
+      },
+      {
+        "question": "What is the value provided for the amount of 'Total Carbohydrate' in grams?",
+        "answer": "3"
+      },
+      {
+        "question": "In examining the text relating to sugars, what is the quantity of added sugars present in each serving?",
+        "answer": "0"
+      },
+      {
+        "question": "Looking at the details for protein, what is the quantity of protein, in grams, contained within one serving?",
+        "answer": "8"
+      },
+      {
+        "question": "In considering the micronutrients, how much potassium, in milligrams, is indicated?",
+        "answer": "230"
+      },
+      {
+        "question": "What is the amount of magnesium indicated in milligrams per serving?",
+        "answer": "165"
+      },
+      {
+        "question": "What is the value of zinc, in milligrams, provided per serving?",
+        "answer": "1.8"
+      }
+    ]
+  }
+]

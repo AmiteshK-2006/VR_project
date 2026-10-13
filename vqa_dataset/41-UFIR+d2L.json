@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d4/d44bbbb2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color prominently displayed on the product's label, conveying a sense of vibrancy and energy?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the textual format used to present the product's ingredient list, ensuring readability and clarity?",
+        "answer": "List"
+      },
+      {
+        "question": "What specific term is repeatedly used in the ingredient list to describe the grains, signifying a particular preparation method?",
+        "answer": "Sprouted"
+      },
+      {
+        "question": "Considering the overall appearance, what is the descriptive term for the surface texture of the label material?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the general shape of the product label depicted in the provided image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What kind of font style is employed in the list of ingredients to enhance readability and visual appeal?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the image, what is the case of the lettering used to present the ingredients in the list?",
+        "answer": "Upper"
+      },
+      {
+        "question": "What is the predominant color of the text in the ingredients list, providing a contrast against the background?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the term used to describe the manner of presentation of the information pertaining to the ingredients?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the overall aesthetic impression the label design leaves, considering color choices and text format?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the type of information is primarily presented on the label in a structured manner?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What visual element is used to separate or organize the text on the product label to aid in reading?",
+        "answer": "Spacing"
+      },
+      {
+        "question": "What is the general visual style of the label design, characterized by the absence of complex adornments?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the overall orientation of the text blocks presented on the product's label, ensuring comfortable reading?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the state of the product packaging as visually represented in the image, implying its contents are sealed?",
+        "answer": "Closed"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/95/9585b2c0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the text detailing the product's ingredients and preparation information?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the rectangular area containing the ingredient and preparation details?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent texture of the background surface upon which the text is printed?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the text's arrangement, what is the primary method of information organization employed?",
+        "answer": "List"
+      },
+      {
+        "question": "What type of font style is predominantly used for the ingredient list's headings and body text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the visual style of the text, considering factors like font weight, spacing, and capitalization?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Based on the text's size and density, what is the overall readability of the ingredient information?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the orientation of the text on the label, relative to the edges of the container?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the visual hierarchy implied by the text's size and formatting; what information is prioritized?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Considering the overall design, what is the perceived purpose of this textual content?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Does the text exhibit any visual effects such as shadows, outlines, or gradients?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the primary language used in the presented textual information?",
+        "answer": "English"
+      },
+      {
+        "question": "What type of writing is predominantly employed: upper case, lower case, or a combination?",
+        "answer": "Mixed"
+      },
+      {
+        "question": "What is the overall tone conveyed by the text, considering its purpose and presentation?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "Are there any visual cues to indicate warnings or cautions related to allergens or preparation?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

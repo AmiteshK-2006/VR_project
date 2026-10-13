@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/00/00129c86.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's overall presentation, what single word best describes the font style employed?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the visual appearance, what is the primary language used in the larger text section?",
+        "answer": "English"
+      },
+      {
+        "question": "Observing the text's arrangement, what word best describes the alignment of the text?",
+        "answer": "Left"
+      },
+      {
+        "question": "Focusing on the text's visual characteristics, what term describes the text's case?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Given the text's visual properties, what is the predominant color of the printed text?",
+        "answer": "Black"
+      },
+      {
+        "question": "Looking at the text's visual characteristics, what single word describes the overall weight of the font?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Considering the visual characteristics of the text, what is the style of the capitalization presented?",
+        "answer": "Title"
+      },
+      {
+        "question": "Considering the visual structure of the text, what word best describes its format?",
+        "answer": "List"
+      },
+      {
+        "question": "Based on the textual content, what is the subject described in this visual?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Considering the prominent words, what agricultural product is identified as an ingredient?",
+        "answer": "Potatoes"
+      },
+      {
+        "question": "What adjective, based on visual cues, modifies the listed potato ingredient?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Observing the image, what word best describes the overall tone of the text?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Based on the image, what language is written below the primary English text?",
+        "answer": "French"
+      },
+      {
+        "question": "Describe the background's visual texture based on the image's visual features.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the overall presentation, what word describes the image's visual quality?",
+        "answer": "Clear"
+      }
+    ]
+  }
+]

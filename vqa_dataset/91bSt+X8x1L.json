@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/20/20eb5bd7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual design, what is the dominant visual element employed to present the nutritional information for each cheese type?",
+        "answer": "Boxes"
+      },
+      {
+        "question": "What color is predominantly used for the background of the nutrition facts panel?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe the text font style used to display the calorie information for each cheese variety?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the predominant color used for the text in the nutrition facts panel?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the visual layout, how many different cheese types are the nutritional facts presented for?",
+        "answer": "Four"
+      },
+      {
+        "question": "What is the format used to present the quantity of each nutritional component (e.g., fat, sodium)?",
+        "answer": "Numeric"
+      },
+      {
+        "question": "Considering the visual arrangement, how are the cheese types visually separated or distinguished from one another?",
+        "answer": "Columns"
+      },
+      {
+        "question": "What type of information is prominently displayed at the top of the nutritional facts panel?",
+        "answer": "Title"
+      },
+      {
+        "question": "What visual element is used to separate the different sections within the nutritional information (e.g., Total Fat, Sodium)?",
+        "answer": "Lines"
+      },
+      {
+        "question": "Describe the visual representation of the percentage daily value (%DV) for each nutrient?",
+        "answer": "Numeric"
+      },
+      {
+        "question": "Describe the style of the numerical values representing the amount of each nutrient per serving?",
+        "answer": "Arabic"
+      },
+      {
+        "question": "What visual cue indicates the serving size for the cheese?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the shape of the area containing the nutritional information for each cheese type?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the visual texture of the overall panel displaying the nutrition facts?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall visual arrangement of the nutrition facts panel?",
+        "answer": "Tabular"
+      }
+    ]
+  }
+]

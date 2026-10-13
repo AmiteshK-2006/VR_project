@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2e/2ec96a95.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the depicted object, considering the visible surface texture and subtle shading?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the image's resolution and lighting, what appears to be the primary textural characteristic of the visible surface?",
+        "answer": "Grainy"
+      },
+      {
+        "question": "Based on the visible surface features, what might be the material composition of the object, considering its appearance and possible manufacturing processes?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Judging from the visual uniformity and lack of distinct markings, what is the overall design style of the object presented in the image?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Considering the lighting and shading effects visible in the image, what is the apparent shape of the object depicted?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Does the surface exhibit any obvious patterns or textures apart from the subtle grain visible across the entire surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Given the overall visual impression and the lack of sharp edges or defined features, how would you describe the object's finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Observing the image carefully, are there any visible signs of branding, logos, or markings imprinted on the object's surface?",
+        "answer": "None"
+      },
+      {
+        "question": "In terms of its visible properties, how would you describe the overall reflectivity of the object's surface?",
+        "answer": "Low"
+      },
+      {
+        "question": "Based on the image alone, and ignoring any contextual information, what is the apparent overall condition of the object?",
+        "answer": "New"
+      },
+      {
+        "question": "Focusing solely on the visible area, what is the apparent size of the object relative to the image's dimensions?",
+        "answer": "Large"
+      },
+      {
+        "question": "What is the visible aspect ratio of the displayed object, taking into account the image's constraints?",
+        "answer": "Tall"
+      },
+      {
+        "question": "Considering the grayscale values and tonal range visible in the image, what is the apparent level of gloss on the object's surface?",
+        "answer": "None"
+      },
+      {
+        "question": "Examining the image closely, are there any visible seams, joints, or connecting parts evident on the object's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "From a purely visual perspective, is there any evidence of wear, scratches, or imperfections on the object's surface?",
+        "answer": "No"
+      }
+    ]
+  }
+]

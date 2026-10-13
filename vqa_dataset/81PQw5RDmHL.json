@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c5/c562f5b3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the primary color observed across the entire surface of the depicted item?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Based on the image's texture and grain patterns, what material seems to constitute the primary component of this object?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Judging by its elongated form and relatively uniform thickness, what is the most accurate single-word description of the object's overall shape?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Given the visual evidence, does the item exhibit a smooth or rough surface texture, considering the grain's visual prominence?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Observing the item's visual consistency, how would you describe the uniformity of its color across its entire surface area?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Analyzing the image, what is the most prominent visual pattern or feature consistently present across the object's surface?",
+        "answer": "Grain"
+      },
+      {
+        "question": "Based purely on the visual information, what is the apparent dimension of the object\u2014long, short, or medium, relative to typical everyday objects?",
+        "answer": "Long"
+      },
+      {
+        "question": "Does the image show any visible signs of artificial markings, such as writing, logos, or other intentional patterns?",
+        "answer": "None"
+      },
+      {
+        "question": "Focusing solely on what's visible, is the depicted item's color consistent throughout, or does it exhibit significant variations in shade?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Considering the image details, does the item appear to be naturally occurring or artificially manufactured?",
+        "answer": "Manufactured"
+      },
+      {
+        "question": "From the image, can we infer anything about the object's weight based solely on its appearance?",
+        "answer": "Light"
+      },
+      {
+        "question": "From a purely visual standpoint, what is the apparent finish of the item's surface\u2014glossy, matte, or something else?",
+        "answer": "Matte"
+      },
+      {
+        "question": "If you were to describe the object's visual appeal, using only one word, what would it be?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Considering the item's overall structure, is it solid or does it show signs of any internal cavities or layers?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Based on the visual information provided, is the depicted item translucent, opaque, or transparent?",
+        "answer": "Opaque"
+      }
+    ]
+  }
+]

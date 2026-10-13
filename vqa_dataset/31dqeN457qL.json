@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2a/2abadaf6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the food depicted on the can's label?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What is the primary shape of the product's container?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What material appears to constitute the product's packaging?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What type of fruit is prominently featured on the product label?",
+        "answer": "Mandarin"
+      },
+      {
+        "question": "What is the apparent texture of the fruit segments shown on the can?",
+        "answer": "Segmented"
+      },
+      {
+        "question": "What word describes the overall form of the container?",
+        "answer": "Can"
+      },
+      {
+        "question": "What is the color of the text on the product's label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What color is the circular logo visible on the can?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the apparent condition of the fruit pieces depicted?",
+        "answer": "Peeled"
+      },
+      {
+        "question": "What is the general state of the fruit (fresh, dried, etc.)?",
+        "answer": "Canned"
+      },
+      {
+        "question": "What is the apparent size of the fruit pieces shown?",
+        "answer": "Small"
+      },
+      {
+        "question": "Does the can show any visible dents or imperfections?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the color of the top of the can?",
+        "answer": "Silver"
+      },
+      {
+        "question": "Is the can depicted lying horizontally or vertically?",
+        "answer": "Vertically"
+      },
+      {
+        "question": "Describe the general design of the label's typography",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bb/bb5da66f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the provided text block, what is the overall textual orientation of the majority of the words?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Based on the image, what is the predominant color palette of the textual content presented?",
+        "answer": "Black"
+      },
+      {
+        "question": "Examining the textual content, what appears to be the primary font style utilized throughout the provided block?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "From the visual perspective, what is the approximate number of distinct lines of text visible in this image?",
+        "answer": "Five"
+      },
+      {
+        "question": "Judging by the visual appearance, what is the most frequently used character case within the textual content?",
+        "answer": "Lowercase"
+      },
+      {
+        "question": "What is the overall textual density observed throughout the image provided; how much space is taken up by the text?",
+        "answer": "Dense"
+      },
+      {
+        "question": "In observing the textual layout, what is the most used form of punctuation; how often does it appear?",
+        "answer": "Comma"
+      },
+      {
+        "question": "Regarding the image's content, what appears to be the overall level of contrast between the text and the background?",
+        "answer": "High"
+      },
+      {
+        "question": "Based on the image, does the text block seem to be sectioned or divided into logical units?",
+        "answer": "Yes"
+      },
+      {
+        "question": "From a visual assessment, what is the apparent text alignment primarily used in the displayed information?",
+        "answer": "Left"
+      },
+      {
+        "question": "Considering the content's appearance, does the text appear to be printed or handwritten?",
+        "answer": "Printed"
+      },
+      {
+        "question": "What is the apparent uniformity or variability of the font size in the text presented?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Judging from the visual data, is there any apparent text that appears noticeably bolder or emphasized?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the visual observation of the content, is the text generally legible and easy to read?",
+        "answer": "Yes"
+      },
+      {
+        "question": "From the visual data, is there an indication of any unique textual formatting elements?",
+        "answer": "No"
+      }
+    ]
+  }
+]

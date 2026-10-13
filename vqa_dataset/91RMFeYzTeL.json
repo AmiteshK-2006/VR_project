@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f1/f145a0e4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the rectangular item shown?",
+        "answer": "Red"
+      },
+      {
+        "question": "What appears to be the primary material used in this object's construction?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Describe the overall geometric pattern visible across the item's surface?",
+        "answer": "Grid"
+      },
+      {
+        "question": "What is the most prominent textural quality displayed across the item's surface?",
+        "answer": "Dotted"
+      },
+      {
+        "question": "Considering the image, what is the general shape of the presented object?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visual details, how would you describe the surface finish of the item?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What is the apparent level of gloss or sheen displayed on the item's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging by the image, what could be the possible functional use of this object?",
+        "answer": "Decorative"
+      },
+      {
+        "question": "Considering the scale in the image, what is the relative dimension of the shown object?",
+        "answer": "Long"
+      },
+      {
+        "question": "Based on visual appearance, does the object seem flexible or rigid?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "What is the overall visual impression of the item's color saturation?",
+        "answer": "Subdued"
+      },
+      {
+        "question": "What is the most striking visual characteristic of the pattern on the item?",
+        "answer": "Repetitive"
+      },
+      {
+        "question": "What type of edge finish is present along the visible sides of the object?",
+        "answer": "Clean"
+      },
+      {
+        "question": "What could be the overall style of the depicted item, judged visually?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Considering its visual characteristics, what might be the intended application of the object?",
+        "answer": "Homedecor"
+      }
+    ]
+  }
+]

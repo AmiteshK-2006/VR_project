@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1c/1c5691f4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the text on the packaging, considering the background?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the primary food item listed as an ingredient, indicated by its prominent placement?",
+        "answer": "Rice"
+      },
+      {
+        "question": "Considering the font style, what is the overall appearance of the text?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Judging by the word size and arrangement, what is the style of the ingredient list?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the general shape of the packaging section shown in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What kind of grain is explicitly mentioned as a key ingredient, based on the text?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the type of pasta explicitly mentioned, according to the visible text?",
+        "answer": "Orzo"
+      },
+      {
+        "question": "Based on the listed ingredients, what is one herb clearly present?",
+        "answer": "Paprika"
+      },
+      {
+        "question": "Based solely on the visible text, what is one spice that is included?",
+        "answer": "Cumin"
+      },
+      {
+        "question": "What is the texture implied by the description of the rice ingredient?",
+        "answer": "Long"
+      },
+      {
+        "question": "From the listed ingredients, what is one vegetable explicitly mentioned?",
+        "answer": "Garlic"
+      },
+      {
+        "question": "Based on the image, what is the style of the text's font on the food packaging?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Judging by the text's layout, what is the overall tone communicated in the product description?",
+        "answer": "Informative"
+      },
+      {
+        "question": "According to the text, what is one ingredient described as 'dehydrated'?",
+        "answer": "Garlic"
+      },
+      {
+        "question": "What is the word used to describe the type of rice used according to the image?",
+        "answer": "Parboiled"
+      }
+    ]
+  }
+]

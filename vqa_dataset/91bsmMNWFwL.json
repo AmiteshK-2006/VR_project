@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/df/df0bf2f9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the presented food serving plate?",
+        "answer": "Oval"
+      },
+      {
+        "question": "What dominant color characterizes the visible portion of the serving plate?",
+        "answer": "White"
+      },
+      {
+        "question": "What material appears to constitute the main body of the food plate?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Considering the visible edge, what is the apparent texture of the plate's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on visual inspection, does the plate exhibit any noticeable patterns or designs?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image, is the plate's construction seemingly rigid or flexible?",
+        "answer": "Rigid"
+      },
+      {
+        "question": "From the visual evidence, is there any sign of noticeable text or branding on the plate itself?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the rim, what is the approximate width or thickness of the plate's edge?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Judging from its visual appearance, is this plate designed for single or multiple servings?",
+        "answer": "Single"
+      },
+      {
+        "question": "Considering the size, how many food items are visibly presented on the plate?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "Does the plate appear to have a glossy or matte finish based on visual inspection?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Is the apparent depth of the plate shallow or relatively deep?",
+        "answer": "Shallow"
+      },
+      {
+        "question": "Based on the image, is the plate's surface notably porous or non-porous?",
+        "answer": "Non-porous"
+      },
+      {
+        "question": "Does the plate seem to be disposable or reusable by visual assessment alone?",
+        "answer": "Disposable"
+      },
+      {
+        "question": "What is the general impression of the plate's aesthetic \u2013 modern, rustic, or other?",
+        "answer": "Modern"
+      }
+    ]
+  }
+]

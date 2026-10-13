@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/da/da2ad09a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall shape and structure, what is the primary form factor of this packaged food item?",
+        "answer": "Carton"
+      },
+      {
+        "question": "Observing the dominant color palette across the entire packaging, what single color best describes it?",
+        "answer": "Green"
+      },
+      {
+        "question": "Focusing on the text, what type of broth is explicitly indicated on the packaging?",
+        "answer": "Vegetable"
+      },
+      {
+        "question": "Based on the textual information provided, what adjective describes the nature of the broth?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the prominent brand name displayed centrally on the packaging?",
+        "answer": "365"
+      },
+      {
+        "question": "Examining the bottom of the packaging, what identifying code is present for inventory management?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "Considering the packaging material, what is the likely type of material used for this container?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Describe the texture of the packaging surface, is it smooth, rough, glossy, or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the general shape of the top seal or closure on the package?",
+        "answer": "Triangular"
+      },
+      {
+        "question": "Considering the overall design aesthetics, how would you describe the style of the packaging's appearance?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the main functionality served by the product contained within the package?",
+        "answer": "Broth"
+      },
+      {
+        "question": "What descriptive word would best capture the tone or mood conveyed by the packaging design?",
+        "answer": "Natural"
+      },
+      {
+        "question": "Observing the structural design, what type of opening mechanism is suggested by the shape?",
+        "answer": "Resealable"
+      },
+      {
+        "question": "Based on the visual cues, what is the suggested use case for this product (culinary context)?",
+        "answer": "Cooking"
+      },
+      {
+        "question": "What aspect of the brand is suggested through the use of the number '365'?",
+        "answer": "Everyday"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b0/b0f6af29.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's visual presentation, what is the overall textual orientation of the product information displayed?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Based on the visual appearance, what is the primary language used for the product's ingredient information?",
+        "answer": "English"
+      },
+      {
+        "question": "Judging by the visual style, what is the overall font style utilized for the product's textual information?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the visual structure, does the text block appear to be a single, continuous unit, or is it divided into distinct sections?",
+        "answer": "Segmented"
+      },
+      {
+        "question": "From a visual perspective, what seems to be the primary purpose of the displayed text, considering its content and style?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Analyzing the visual characteristics, what is the approximate number of distinct sections comprising the text block?",
+        "answer": "Two"
+      },
+      {
+        "question": "Based on the visual attributes, what is the case of the lettering predominantly used in the textual content?",
+        "answer": "Upper"
+      },
+      {
+        "question": "Observing the visual presentation, what single punctuation mark is frequently used to separate items in the list?",
+        "answer": "Comma"
+      },
+      {
+        "question": "Regarding the visual presentation, what word is visually emphasized as the primary header?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "In terms of visual style, how would you describe the overall appearance of the text, such as bold, italic, etc?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Judging by the visual elements, is there any noticeable variation in font size used throughout the text?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the visual aspects, what specific term visually signals the listing of components?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Analyzing the visual presentation, what type of information is presented in the second block of text?",
+        "answer": "Cautionary"
+      },
+      {
+        "question": "From a visual standpoint, what word acts as a clear divider between the two sections of text?",
+        "answer": "Produced"
+      },
+      {
+        "question": "Observing the visual style, what term visually highlights the possibility of cross-contamination?",
+        "answer": "Processes"
+      }
+    ]
+  }
+]

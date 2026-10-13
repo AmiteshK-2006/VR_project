@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fe/fee05f37.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the soup within the container as shown in the image?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What appears to be the primary material composing the container holding the soup?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on the image, what is the overall shape of the soup container?",
+        "answer": "Round"
+      },
+      {
+        "question": "What is the style of lettering used for the product name on the container?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What specific type of soup is indicated on the product's label?",
+        "answer": "Chicken"
+      },
+      {
+        "question": "What is the weight of the soup container's contents, as indicated on the label?",
+        "answer": "24"
+      },
+      {
+        "question": "What is the second word in the soup's name, as presented on the product label?",
+        "answer": "Tikka"
+      },
+      {
+        "question": "What is the unit of weight used to describe the soup's net weight?",
+        "answer": "Oz"
+      },
+      {
+        "question": "What other descriptive term is paired with \"Masala\" in the soup's name?",
+        "answer": "Soup"
+      },
+      {
+        "question": "What is the prominent brand name displayed on the container's label?",
+        "answer": "Whole"
+      },
+      {
+        "question": "Describe the texture of the soup, as it appears in the image through the container?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What kind of instruction is clearly marked on the container near the bottom?",
+        "answer": "Heating"
+      },
+      {
+        "question": "Besides \"Whole Foods\", what other word is part of the label's brand name?",
+        "answer": "Market"
+      },
+      {
+        "question": "What is the overall condition of the soup container, based on its visible state?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "What type of warning is given on the label concerning the product's storage?",
+        "answer": "Refrigerated"
+      }
+    ]
+  }
+]

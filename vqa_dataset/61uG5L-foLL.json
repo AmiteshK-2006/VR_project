@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/af/afe94877.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color displayed on the product's packaging?",
+        "answer": "Red"
+      },
+      {
+        "question": "What type of information is prominently featured on the label?",
+        "answer": "Drug"
+      },
+      {
+        "question": "What is the stated primary purpose of the medication according to the label?",
+        "answer": "Pain"
+      },
+      {
+        "question": "Based on the label, what secondary effect does the medication offer?",
+        "answer": "Sleep"
+      },
+      {
+        "question": "What is the shape of the printed information block on the label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What term denotes the unit of medication as specified on the label?",
+        "answer": "Caplet"
+      },
+      {
+        "question": "What is one of the active ingredients listed in the product's description?",
+        "answer": "Acetaminophen"
+      },
+      {
+        "question": "What is the measurement unit used for the active ingredients?",
+        "answer": "Mg"
+      },
+      {
+        "question": "What adjective best describes the overall appearance of the label's text?",
+        "answer": "Printed"
+      },
+      {
+        "question": "What is the background color of the printed information on the label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the texture of the packaging that is visually apparent?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What word indicates a description of the pharmaceutical components?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What word describes the intended use of the medication, as indicated on the label?",
+        "answer": "Purpose"
+      },
+      {
+        "question": "What is the visual style of the text on the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the material that makes up the packaging?",
+        "answer": "Cardboard"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ba/ba2918a0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the text on the supplement facts label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the presented information panel?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the background color of the nutrition facts panel?",
+        "answer": "White"
+      },
+      {
+        "question": "What type of text is used for the 'Supplement Facts' heading?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the format of the nutritional information presented?",
+        "answer": "Table"
+      },
+      {
+        "question": "What unit of measurement is used for the Omega-3s quantities?",
+        "answer": "mg"
+      },
+      {
+        "question": "What is the font style for the ingredient names?",
+        "answer": "Regular"
+      },
+      {
+        "question": "What is the style of the percentage daily value indicators?",
+        "answer": "Italic"
+      },
+      {
+        "question": "What is the text style of the serving size description?",
+        "answer": "Regular"
+      },
+      {
+        "question": "What is the formatting of the 'Servings Per Container' information?",
+        "answer": "Regular"
+      },
+      {
+        "question": "What is the overall visual presentation style of the label?",
+        "answer": "Clean"
+      },
+      {
+        "question": "What is the type of information displayed prominently at the top?",
+        "answer": "Heading"
+      },
+      {
+        "question": "How many columns are present in the data table?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the color of the numbers indicating the daily values?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the visual characteristic of the asterisk indicating footnotes?",
+        "answer": "Superscript"
+      }
+    ]
+  }
+]

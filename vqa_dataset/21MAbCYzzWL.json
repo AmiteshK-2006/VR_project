@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ed/edaf8af4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed square object?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the image, what appears to be the primary material of the item?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Based on its visual appearance, what is the overall shape of the product?",
+        "answer": "Square"
+      },
+      {
+        "question": "Does the object exhibit a visibly textured or smooth surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging from the image, are there any discernible patterns or designs on the item?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the visual details, what is the apparent thickness of the object?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Does the image suggest any visible markings, labels, or branding on the product?",
+        "answer": "No"
+      },
+      {
+        "question": "Based solely on visual inspection, does the object appear rigid or flexible?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "From the image provided, can you estimate the number of distinct parts in the object?",
+        "answer": "One"
+      },
+      {
+        "question": "Does the image indicate any reflective or glossy properties of the item's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent condition of the object, new or used, based on the image?",
+        "answer": "New"
+      },
+      {
+        "question": "Judging from its appearance, is the item likely waterproof or water-resistant?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the approximate size of the object, expressed in centimeters?",
+        "answer": "Ten"
+      },
+      {
+        "question": "Given the provided visual information, is the object opaque or translucent?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Does the image suggest any metallic components or elements on the object?",
+        "answer": "No"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ea/ea788316.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary shape of each individual supplement unit, as depicted in the label's imagery?",
+        "answer": "Oval"
+      },
+      {
+        "question": "Considering the label's description, what is the predominant material composing the outer casing of the supplement?",
+        "answer": "Gelatin"
+      },
+      {
+        "question": "Based on the label's ingredient list, what oil is used in the formulation of this dietary supplement?",
+        "answer": "Safflower"
+      },
+      {
+        "question": "According to the supplement facts, what is the key active ingredient in each serving, as visibly presented on the label?",
+        "answer": "Astaxanthin"
+      },
+      {
+        "question": "What is the texture implied by the label's description of the supplement's form?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What is the color of the text providing the 'Supplement Facts' as shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the color of the background on which the 'Supplement Facts' are printed?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the general format of the information presented in the upper section of the label, concerning nutritional data?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the style of the font used in the 'Supplement Facts' section, as shown on the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the type of container implied by the label's description of the serving size as a single unit?",
+        "answer": "Softgel"
+      },
+      {
+        "question": "What is the form of the presented information regarding the supplement's ingredients?",
+        "answer": "List"
+      },
+      {
+        "question": "What word is used to describe the size of each supplement unit in the label?",
+        "answer": "Softgel"
+      },
+      {
+        "question": "What is the language that the 'Supplement Facts' section is written in, based on the label?",
+        "answer": "English"
+      },
+      {
+        "question": "Based on the label's warning, what ingredient does this product contain that requires disclosure?",
+        "answer": "Soy"
+      },
+      {
+        "question": "What is the visual style of the label's overall design, in relation to the text elements?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

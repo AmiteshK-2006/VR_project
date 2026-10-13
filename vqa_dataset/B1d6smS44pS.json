@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/40/4096a223.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the chair's perforated surface?",
+        "answer": "Green"
+      },
+      {
+        "question": "What material appears to constitute the majority of the chair's visible surface?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the texture of the visible chair surface area, considering its perforations?",
+        "answer": "Mesh"
+      },
+      {
+        "question": "Considering the pattern of the holes, what is the design style of the chair's surface?",
+        "answer": "Perforated"
+      },
+      {
+        "question": "Based on the visible structure, what is the overall shape of the chair back?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What is the visible finish of the plastic used in the chair's construction?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging by the image, how would you characterize the overall tone of the chair's color?",
+        "answer": "Muted"
+      },
+      {
+        "question": "Considering the regularity of the pattern, how would you classify the perforations?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Based on the visible component, what is the style of the chair’s back support?",
+        "answer": "Mesh"
+      },
+      {
+        "question": "Given the image, is the visible part of the chair's surface smooth or textured?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What is the apparent thickness of the material forming the chair's back?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Does the image show any significant visible seams in the chair's structure?",
+        "answer": "No"
+      },
+      {
+        "question": "How would you describe the visible surface's visual pattern created by the perforations?",
+        "answer": "Grid"
+      },
+      {
+        "question": "Based on the visible texture, how would you characterize the chair's apparent breathability?",
+        "answer": "High"
+      },
+      {
+        "question": "Does the visible part of the chair present a solid or open design?",
+        "answer": "Open"
+      }
+    ]
+  }
+]

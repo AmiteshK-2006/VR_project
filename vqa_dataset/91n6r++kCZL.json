@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b7/b70eb427.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the fabric shown in the image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the image's texture, what is the fabric's tactile quality?",
+        "answer": "Fuzzy"
+      },
+      {
+        "question": "Based on visual inspection, what type of fabric is depicted?",
+        "answer": "Suede"
+      },
+      {
+        "question": "What is the overall visual texture of the material presented?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Describing the surface, what is the fabric's visible pattern?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "From the image, what is the apparent pile direction of the fabric?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Judging by the picture, how dense is the pile of the fabric?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Observing the fibers, what is the apparent weave type?",
+        "answer": "Napped"
+      },
+      {
+        "question": "Considering the image, what is the shade of the displayed material?",
+        "answer": "Taupe"
+      },
+      {
+        "question": "What is the apparent softness or roughness of the fabric based on its appearance?",
+        "answer": "Plush"
+      },
+      {
+        "question": "Considering the image, what is the overall appearance of the fabric?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image alone, how does the fabric's surface feel to the touch?",
+        "answer": "Velvety"
+      },
+      {
+        "question": "What is the general grain direction of the fabric if we consider the fibers?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Does the fabric appear to have a noticeable sheen or luster in the image?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on its appearance, what type of finish does the fabric appear to have?",
+        "answer": "Brushed"
+      }
+    ]
+  }
+]

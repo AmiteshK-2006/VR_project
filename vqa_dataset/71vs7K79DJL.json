@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b0/b0ccf019.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color scheme of the displayed nutrition facts panel?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the font style, what is the overall aesthetic impression conveyed by the text?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the formatting style of the nutritional values presented in the image?",
+        "answer": "tabular"
+      },
+      {
+        "question": "What unit of measurement is consistently used for quantities of nutrients, excluding calories?",
+        "answer": "grams"
+      },
+      {
+        "question": "What is the specified serving size of the product in metric units?",
+        "answer": "milliliters"
+      },
+      {
+        "question": "What is the designated unit used to express the amount of energy in each serving?",
+        "answer": "Calories"
+      },
+      {
+        "question": "What is the background color of the nutrition facts label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the font weight primarily used for the text on the nutrition label?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What type of information does the label predominantly contain?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the overall orientation of the text displayed on the nutrition facts panel?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Does the label include information about vitamins or minerals?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the term used to refer to the percentage of daily value for each nutrient?",
+        "answer": "DV"
+      },
+      {
+        "question": "What unit is used to express the serving size in terms of volume?",
+        "answer": "Tbsp"
+      },
+      {
+        "question": "Based on the label, is the product a significant source of saturated fat?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the approximate number of servings contained within the product packaging?",
+        "answer": "33"
+      }
+    ]
+  }
+]

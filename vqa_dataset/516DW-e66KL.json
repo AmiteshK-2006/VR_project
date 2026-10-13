@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bd/bdab5484.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's multilingual nature, what primary language is predominantly used to describe the product's components?",
+        "answer": "English"
+      },
+      {
+        "question": "Focusing on the textual content, what is the main ingredient in this product, indicated by its percentage?",
+        "answer": "Tea"
+      },
+      {
+        "question": "Based on the ingredient list, what specific type of tea is used in the product's composition?",
+        "answer": "Black"
+      },
+      {
+        "question": "According to the text, what essential oil is listed as a secondary component of the product?",
+        "answer": "Bergamot"
+      },
+      {
+        "question": "What term is used to represent the added flavoring element in the product's formulation?",
+        "answer": "Flavouring"
+      },
+      {
+        "question": "Besides English, what other Romance language is visibly employed to describe the product's composition?",
+        "answer": "French"
+      },
+      {
+        "question": "In addition to English and French, what Germanic language is utilized to describe this product's contents?",
+        "answer": "German"
+      },
+      {
+        "question": "Apart from English, French, and German, which other Romance language is used in the product's description?",
+        "answer": "Italian"
+      },
+      {
+        "question": "What is the additional Romance language used, beyond English, French, Italian, and German, to describe the product?",
+        "answer": "Spanish"
+      },
+      {
+        "question": "What percentage of the total composition does the primary ingredient constitute, according to the textual information provided?",
+        "answer": "98"
+      },
+      {
+        "question": "Disregarding the percentage, what is the other word, in English, that describes the flavoring ingredient mentioned?",
+        "answer": "Aroma"
+      },
+      {
+        "question": "In the provided text, what is the word for 'oil' in the German description of the product components?",
+        "answer": "Öl"
+      },
+      {
+        "question": "What is the Italian equivalent of the word 'oil', as presented in the ingredient list?",
+        "answer": "Olio"
+      },
+      {
+        "question": "What is the Spanish word for 'oil', as found within the ingredient description of the product?",
+        "answer": "Aceite"
+      },
+      {
+        "question": "What is the word used in the French description of the product for the flavor addition?",
+        "answer": "Arôme"
+      }
+    ]
+  }
+]

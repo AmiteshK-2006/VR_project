@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fb/fbb980de.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape and the dense, highly organized textual layout, what best describes the primary form of this item?",
+        "answer": "Label"
+      },
+      {
+        "question": "Given the prominent display of 'Nutrition Facts' at the top, and the detailed breakdown of nutritional components, what is the most likely subject matter being described?",
+        "answer": "Food"
+      },
+      {
+        "question": "Observing the consistent font and typeface across the text, what would you describe the text's appearance as?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Examining the various numerical values alongside the nutritional components, what system of measurement is primarily utilized?",
+        "answer": "Metric"
+      },
+      {
+        "question": "Focusing on the distinct color contrast between the text and the background, what is the color of the primary text?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the textual organization within clearly defined rows and columns, what would best describe the arrangement of nutritional information?",
+        "answer": "tabular"
+      },
+      {
+        "question": "Given the presence of percentages alongside many nutritional values, what is the context of those percentages?",
+        "answer": "Daily"
+      },
+      {
+        "question": "Based on the units of measurement used for various nutritional components (mg, g, mcg), what is the overall theme of the information presented?",
+        "answer": "Quantitive"
+      },
+      {
+        "question": "If one were to assess the overall visual weight of the elements, what is the main focus of this piece of information?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Considering the numerous nutritional components listed, what is the type of analysis being conducted?",
+        "answer": "Dietary"
+      },
+      {
+        "question": "In observing the fine lines and details of the lettering, what is the general style of this information display?",
+        "answer": "Formal"
+      },
+      {
+        "question": "What is the background color of this item being presented?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the visual clarity and distinct labeling of different components, what is the information's overall legibility?",
+        "answer": "High"
+      },
+      {
+        "question": "Observing the detailed breakdown of various nutrients, what type of data is primarily being presented?",
+        "answer": "Numerical"
+      },
+      {
+        "question": "In terms of graphic design elements, what is noticeably absent from this item's layout?",
+        "answer": "Images"
+      }
+    ]
+  }
+]

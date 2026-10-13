@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bf/bf1d23e8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the bottle's body, as visibly displayed in the image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the image, what material appears to constitute the primary container for the product?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Based on the visual evidence, what is the overall shape of the product's packaging?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the apparent color of the visible cap or lid on top of the bottle?",
+        "answer": "Black"
+      },
+      {
+        "question": "Judging by the image, what type of closure mechanism does the container appear to have?",
+        "answer": "Screw"
+      },
+      {
+        "question": "What is the apparent texture of the bottle's surface, as depicted in the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the container show any visible markings or labels aside from text, as seen in the provided image?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What color is the primary text on the label as it appears in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What color is the secondary text and logo found on the label of the product?",
+        "answer": "Green"
+      },
+      {
+        "question": "Considering the image, is the label directly applied to the container or is there an intermediary layer?",
+        "answer": "Direct"
+      },
+      {
+        "question": "What is the visible overall design style of the product's label, as shown in the provided image?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "As seen in the image, what seems to be the primary way information about the product is conveyed?",
+        "answer": "Text"
+      },
+      {
+        "question": "Based on the visual provided, does the product's packaging appear to be sealed or tamper-evident?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based solely on the image, what is the apparent size of the product's packaging relative to a human hand?",
+        "answer": "Small"
+      },
+      {
+        "question": "Considering only the visual, does the product container seem transparent or opaque?",
+        "answer": "Opaque"
+      }
+    ]
+  }
+]

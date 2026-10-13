@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bd/bd2cdcbe.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the visible textile surface?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visible texture, what is the predominant textile weave style?",
+        "answer": "Ribbed"
+      },
+      {
+        "question": "Based on its appearance, what is the likely material composition of the item?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Judging by the image, what is the overall shape of the presented textile product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Does the textile show any visible pattern besides the ribbed texture?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the edges, does the textile seem to be finished or raw?",
+        "answer": "Finished"
+      },
+      {
+        "question": "What is the apparent thickness or density of the textile's weave?",
+        "answer": "Thick"
+      },
+      {
+        "question": "From the image, what is the general softness level of the textile's surface?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Considering the image's resolution, is the textile's surface visibly plush or flat?",
+        "answer": "Plush"
+      },
+      {
+        "question": "Based on the image's detail, is the product's color uniform across the entire surface?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the product show any visible seams or stitching in the provided image?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the visible texture, how absorbent would this textile likely be?",
+        "answer": "High"
+      },
+      {
+        "question": "Based solely on its appearance, is this item likely machine-washable or dry-clean only?",
+        "answer": "Washable"
+      },
+      {
+        "question": "Does the image show any embellishments or decorative elements on the textile?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the visual characteristics, what is the probable intended use of this item?",
+        "answer": "Towel"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8b/8b9cf4c8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the bottle's body, as seen in the provided image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What material appears to constitute the primary body of the container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the visible portion, what is the overall shape of the product container?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What color is the cap or lid affixed to the top of the bottle?",
+        "answer": "Silver"
+      },
+      {
+        "question": "Based on the image, what seems to be the texture of the bottle's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent material of the bottle's cap or lid?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What kind of label is prominently displayed on the bottle, providing product information?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What brand name is visible on the product's label, as shown in the image?",
+        "answer": "Whole"
+      },
+      {
+        "question": "What is the discernible shape of the individual supplements inside the bottle?",
+        "answer": "Capsule"
+      },
+      {
+        "question": "Is the text on the label primarily black or any other color?",
+        "answer": "Black"
+      },
+      {
+        "question": "Does the product's label include a barcode for product identification?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the image, is the bottle transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Can you identify any visible markings or imprints on the bottle besides labels?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the general appearance of the text on the product label.",
+        "answer": "Clear"
+      },
+      {
+        "question": "What type of seal appears to be present on the bottle's top?",
+        "answer": "None"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d6/d61c6a6f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape and the dense textual layout, what is the primary function suggested by the visual attributes of this product?",
+        "answer": "Label"
+      },
+      {
+        "question": "What is the primary color used for the text on the food label, given the high contrast against the background?",
+        "answer": "Black"
+      },
+      {
+        "question": "Observing the text's typeface and its consistent style across different sections of the label, what is the overall feel communicated by the typography?",
+        "answer": "Formal"
+      },
+      {
+        "question": "What is the predominant material that appears to be used for the label given the overall look and feel?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Considering the textual information, what category of data is being shown regarding a certain type of food?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the textual content predominantly focused on concerning the composition of a food product?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Analyzing the design, which textual section appears most prominently displayed, given its size and positioning?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Considering the alignment and organization of the numerical data, what is the organization of the information?",
+        "answer": "tabular"
+      },
+      {
+        "question": "What is the visual appearance of the boundaries separating different components of data within the overall framework?",
+        "answer": "Lines"
+      },
+      {
+        "question": "Given the visual composition and the layout of the different sections, what is the overall layout style being used?",
+        "answer": "Columnar"
+      },
+      {
+        "question": "Regarding the content within the provided rectangle, what kind of information is consistently presented using numerical values?",
+        "answer": "Quantities"
+      },
+      {
+        "question": "Considering the provided data, what types of units are shown for measuring the food product’s components?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the overall visual texture of the label's surface, taking into consideration the smoothness or roughness?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the data within, what information is included to explain the percentages shown along some numerical values?",
+        "answer": "DV"
+      },
+      {
+        "question": "Analyzing the text, what is the general term used to group several values representing nutrient components?",
+        "answer": "Facts"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f6/f6fd6608.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular structure and the dense textual layout, what is the primary shape of this food product's label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visual texture and the clear printing, what is the apparent surface texture of this item's packaging?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the color palette predominantly used in the design, what is the main color of the label background?",
+        "answer": "White"
+      },
+      {
+        "question": "Focusing on the typography and its style, what can be described as the overall font style used in the label's text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Given the presence of nutritional information, what is the clear functional purpose of this label?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Looking closely at the textual content, what is the key subject matter explicitly presented on this packaging?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Considering the layout's organization and style, what is the overall design style of this food label?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Analyzing the type of information provided, what is the primary category of details listed?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Based on the prominence of values and percentages, what is the principal data type shown on the label?",
+        "answer": "Quantitative"
+      },
+      {
+        "question": "From the visual presentation, what type of unit is repeatedly used for measurements throughout the label?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Examining the font size variations, what is the visual distinction between different sections of text?",
+        "answer": "Hierarchical"
+      },
+      {
+        "question": "Observing the label's construction, what is the implied material of the packaging itself?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Considering the visual layout, what is the general arrangement of information shown on the label?",
+        "answer": "Tabular"
+      },
+      {
+        "question": "Looking at the different text blocks, what is the prominent heading displayed at the very top of the label?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Considering the context of the text, what kind of product does this label correspond to?",
+        "answer": "Food"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/79/79457e8d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary text color prominently displayed on the ingredient label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the background color of the ingredient list?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of the information presented on the label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the font style used for the major ingredient headings?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the text density, what is the overall visual impression of the label?",
+        "answer": "Dense"
+      },
+      {
+        "question": "What is the text formatting style used for listing the ingredients?",
+        "answer": "List"
+      },
+      {
+        "question": "What is the orientation of the text on the ingredient label?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Judging from the visual details, what is the texture of the label's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the visual appearance of the label in terms of its visual clarity?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Based on visual characteristics, what is the likely material of the label?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the overall style of the typography used on this label?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Considering the size of the text, what is the label's intended readability?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the visual prominence of the 'Contains Wheat and Soy Ingredients' statement?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the case of the lettering style for the heading 'INGREDIENTS'?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Based on the image, what is the visual language employed in this label?",
+        "answer": "Informative"
+      }
+    ]
+  }
+]

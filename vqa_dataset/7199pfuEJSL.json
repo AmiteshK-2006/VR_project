@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/67/67b46c61.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the product's packaging?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What appears to be the material of the outer packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the overall shape of the product's container?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering its length, what might be the product type inside?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Describe the surface texture of the packaging container?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Is there any noticeable printing or labeling visible on the box?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What color is the small label near the center of the box?",
+        "answer": "White"
+      },
+      {
+        "question": "Does the box appear to be sealed or unopened?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Considering the box's dimensions, would you classify it as large or small?",
+        "answer": "Large"
+      },
+      {
+        "question": "Based on the image, is the box damaged or significantly worn?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the most prominent feature on the box's surface?",
+        "answer": "Label"
+      },
+      {
+        "question": "What seems to be the approximate length-to-width ratio of the package?",
+        "answer": "High"
+      },
+      {
+        "question": "Describe the general condition of the product's packaging?",
+        "answer": "Good"
+      },
+      {
+        "question": "What kind of markings or print appears on the far left of the box?",
+        "answer": "Text"
+      },
+      {
+        "question": "Can you identify any obvious signs of tampering or damage?",
+        "answer": "No"
+      }
+    ]
+  }
+]

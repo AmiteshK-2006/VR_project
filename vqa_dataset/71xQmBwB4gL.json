@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/74/74093789.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the prominent display and textual emphasis, what is the primary nutritional information conveyed regarding the product's energy content per serving?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Based on the visual structure, what is the total amount of fat, in grams, present in a single serving of the product?",
+        "answer": "7g"
+      },
+      {
+        "question": "Focusing on the saturated fat content, as displayed, how many grams are present in each serving?",
+        "answer": "4.5g"
+      },
+      {
+        "question": "Referring to the image, what is the quantitative measurement of total carbohydrates, expressed in grams, per serving?",
+        "answer": "16g"
+      },
+      {
+        "question": "What is the total amount of sugars, expressed in grams, per serving, as visibly indicated on the label?",
+        "answer": "15g"
+      },
+      {
+        "question": "From the visual data, what is the amount of added sugar in grams included in one serving of the product?",
+        "answer": "13g"
+      },
+      {
+        "question": "What is the protein content, presented in grams, per serving according to the visual information?",
+        "answer": "1g"
+      },
+      {
+        "question": "Based on the image's clear presentation, how many servings are present in the entire container of this product?",
+        "answer": "4"
+      },
+      {
+        "question": "What is the size of a single serving of the product as described using common units and a number in parenthesis?",
+        "answer": "2squares"
+      },
+      {
+        "question": "According to the label's visual data, what is the weight of a single serving in grams?",
+        "answer": "25g"
+      },
+      {
+        "question": "Observing the label, what is the amount of sodium in milligrams contained within a single serving?",
+        "answer": "30mg"
+      },
+      {
+        "question": "Based solely on the visual information, what is the amount of cholesterol, in milligrams, found in each serving?",
+        "answer": "<5mg"
+      },
+      {
+        "question": "What is the daily value percentage of total fat, as visually presented on the label?",
+        "answer": "9%"
+      },
+      {
+        "question": "What is the daily value percentage shown for saturated fat based on visual observation?",
+        "answer": "23%"
+      },
+      {
+        "question": "What is the visible unit of measurement used for the majority of the nutritional components displayed?",
+        "answer": "grams"
+      }
+    ]
+  }
+]

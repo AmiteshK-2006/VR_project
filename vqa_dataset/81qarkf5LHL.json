@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e1/e10c4219.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the food wrapper, as observed in the provided image?",
+        "answer": "Gold"
+      },
+      {
+        "question": "Considering the overall shape of the packaged food item, which geometric form best describes it?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visible packaging, what material appears to be used for the external wrapping?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the apparent texture of the food wrapper, as discernible from the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the text on the wrapper, what language(s) seem to be primarily utilized for the product labeling?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "What is the visible weight of the product, as indicated on the packaging?",
+        "answer": "60g"
+      },
+      {
+        "question": "Is there any visible pattern or design element on the main surface area of the product's packaging?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall visual condition of the product packaging—considering any visible damage or wear?",
+        "answer": "New"
+      },
+      {
+        "question": "Are there any visible seals or closures evident on the packaging to indicate product freshness?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the overall visual impression of the product packaging design: minimalist, ornate, or something else?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Describing the wrapper's finish, is it glossy, matte, or something else entirely?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the most prominent type of printing on the wrapper (e.g., text, images, etc.)?",
+        "answer": "Text"
+      },
+      {
+        "question": "Is there any notable embossing or debossing technique visibly applied to the product's packaging?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image, is the wrapper fully sealed, or is there any visible opening or tear?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Is there any noticeable branding or logo directly visible on the food product wrapper?",
+        "answer": "No"
+      }
+    ]
+  }
+]

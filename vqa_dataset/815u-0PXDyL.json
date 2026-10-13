@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1b/1b42a83d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the filament visible on the spool?",
+        "answer": "Black"
+      },
+      {
+        "question": "What material is explicitly stated on the label of this product?",
+        "answer": "PLA"
+      },
+      {
+        "question": "What is the overall shape of the object containing the filament?",
+        "answer": "Spool"
+      },
+      {
+        "question": "Describing the texture of the filament, is it glossy or matte?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What brand is prominently displayed on the spool's label?",
+        "answer": "Amazonbasics"
+      },
+      {
+        "question": "Considering the spool's construction, what material is the outer ring made of?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the apparent color of the spool's outer ring or base?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Judging by the image, what is the overall diameter of the entire spool?",
+        "answer": "Large"
+      },
+      {
+        "question": "What is the general form or style of the concentric circles on the spool?",
+        "answer": "Radial"
+      },
+      {
+        "question": "What seems to be the diameter of the central hole in the spool?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Based on visual cues, how much filament is still present on the spool?",
+        "answer": "Full"
+      },
+      {
+        "question": "In terms of thickness, how would you describe the filament coming out?",
+        "answer": "Thin"
+      },
+      {
+        "question": "What is the type of plastic used to package the filament?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Visually assessing the filament, is it smooth or rough?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the visible length of the filament's end?",
+        "answer": "Short"
+      }
+    ]
+  }
+]

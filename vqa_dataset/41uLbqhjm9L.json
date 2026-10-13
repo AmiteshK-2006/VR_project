@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b5/b57dc1a5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's overall presentation, what single word best describes the text's orientation on the surface?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the primary color of the text, which provides the ingredients list?",
+        "answer": "Black"
+      },
+      {
+        "question": "Focusing on the textual elements alone, what is the overall style of the font used?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Disregarding any specific words, what is the background color of the ingredient list?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the typeface and its uniformity, what single term best describes the font weight?",
+        "answer": "Regular"
+      },
+      {
+        "question": "What is the main subject conveyed by the textual information presented?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Based purely on visual characteristics, what is the text's approximate height?",
+        "answer": "Small"
+      },
+      {
+        "question": "Considering the image's details, what is the overall visual appearance of the text?",
+        "answer": "Clean"
+      },
+      {
+        "question": "What visual element separates the 'Ingredients' heading from the list itself?",
+        "answer": "Colon"
+      },
+      {
+        "question": "Does the text demonstrate any notable variations in font size, apart from the heading?",
+        "answer": "No"
+      },
+      {
+        "question": "If one were to assess the text's readability based on visual inspection, what word best describes it?",
+        "answer": "Legible"
+      },
+      {
+        "question": "From a purely visual standpoint, what does the text's alignment appear to be?",
+        "answer": "Left"
+      },
+      {
+        "question": "What type of capitalization is employed in each ingredient within the provided list?",
+        "answer": "Sentence"
+      },
+      {
+        "question": "Ignoring semantics, what visual characteristic does the text most noticeably exhibit?",
+        "answer": "Linearity"
+      },
+      {
+        "question": "What's the predominant visual pattern shown in the textual information provided?",
+        "answer": "Sequential"
+      }
+    ]
+  }
+]

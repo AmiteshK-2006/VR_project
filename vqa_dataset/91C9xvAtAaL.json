@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1d/1d5286d2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the wrench depicted in the image?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What primary metal is visibly composing the wrench's body?",
+        "answer": "Chrome"
+      },
+      {
+        "question": "Considering the wrench's surface, what is its apparent texture?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the color of the wrench, as directly observed in the image?",
+        "answer": "Silver"
+      },
+      {
+        "question": "What is the apparent finish of the wrench's metallic surface?",
+        "answer": "Shiny"
+      },
+      {
+        "question": "Based on the image, what type of wrench is shown?",
+        "answer": "Open-end"
+      },
+      {
+        "question": "Observing the wrench's ends, what shape are the wrenching surfaces?",
+        "answer": "Circular"
+      },
+      {
+        "question": "What is the general condition of the wrench, based on visible characteristics?",
+        "answer": "New"
+      },
+      {
+        "question": "Considering its dimensions, how would one best describe the wrench's size?",
+        "answer": "Standard"
+      },
+      {
+        "question": "What is the apparent material of the wrench, judging by its visual properties?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Judging by its visual characteristics, is the wrench's build sturdy or flimsy?",
+        "answer": "Sturdy"
+      },
+      {
+        "question": "Considering the image, are there any visible markings on the wrench's body?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the number of wrenching ends present on the shown tool?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the orientation of the wrench in the provided image?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What appears to be the function of the object depicted in this image?",
+        "answer": "Wrenching"
+      }
+    ]
+  }
+]

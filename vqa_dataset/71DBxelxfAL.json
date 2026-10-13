@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/70/70fc0d8d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color displayed prominently on the product's label, suggesting the main ingredient or flavor?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "Considering the cylindrical shape and sealed lid, what is the most likely packaging type for the product shown?",
+        "answer": "Container"
+      },
+      {
+        "question": "Based on the image, what appears to be the primary material used for the product's packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Observing the label design, what is the overall aesthetic style employed, characterized by its simplicity and use of color?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the shape of the graphic element representing the main ingredient on the product label, showing a stylized depiction?",
+        "answer": "Circular"
+      },
+      {
+        "question": "What appears to be the texture of the primary graphic element on the label, based on its visual representation?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What color are the secondary graphic elements on the product label, complementing the main yellow design?",
+        "answer": "Multicolored"
+      },
+      {
+        "question": "What is the visible format of the text on the container, offering product details and nutritional information?",
+        "answer": "Printed"
+      },
+      {
+        "question": "Judging by the image, what is the overall style of the typography on the label, considering its font and letter spacing?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What type of lid is visibly present on top of the product's container, suggesting a method for product preservation and dispensing?",
+        "answer": "Screw-on"
+      },
+      {
+        "question": "Looking at the label, what is the overall size of the text relative to the label area, taking into account readability and visual prominence?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the primary color of the product's container itself, aside from any labels or markings?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the information presented on the container, what is the likely intended use of the product depicted?",
+        "answer": "Culinary"
+      },
+      {
+        "question": "What is the material of the product's lid, based on its appearance and typical use in similar containers?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on the visual inspection, what is the apparent condition of the product's packaging, taking into account any visible damage or wear?",
+        "answer": "New"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f2/f240e541.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color prominently displayed on the product label?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What is the shape of the individual medication units indicated on the label?",
+        "answer": "Softgel"
+      },
+      {
+        "question": "Based on the label, what is one of the medication's intended purposes?",
+        "answer": "Pain"
+      },
+      {
+        "question": "What is the background color of the label, providing visual contrast?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What type of information does the label primarily present to the consumer?",
+        "answer": "Drug"
+      },
+      {
+        "question": "What is the textual formatting of the 'Active ingredients' section?",
+        "answer": "List"
+      },
+      {
+        "question": "What is the color of the text describing the active ingredients?",
+        "answer": "Black"
+      },
+      {
+        "question": "What kind of information is provided alongside the list of active ingredients?",
+        "answer": "Purpose"
+      },
+      {
+        "question": "What is the unit of measurement for the active ingredients dosages?",
+        "answer": "mg"
+      },
+      {
+        "question": "What is the general layout style of the information on the label?",
+        "answer": "Tabular"
+      },
+      {
+        "question": "What is the text style used in the header 'Drug Facts'?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Describe the visual contrast between the background and the text.",
+        "answer": "High"
+      },
+      {
+        "question": "What is the overall visual presentation style of the product label?",
+        "answer": "Informative"
+      },
+      {
+        "question": "What is the format of the active ingredients information?",
+        "answer": "Table"
+      },
+      {
+        "question": "What word is used to describe the form of the medication?",
+        "answer": "Softgel"
+      }
+    ]
+  }
+]

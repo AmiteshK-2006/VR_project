@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8a/8abcdd28.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the rectangular container's main body?",
+        "answer": "Navy"
+      },
+      {
+        "question": "What primary material appears to constitute the product's outer packaging?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Considering the overall form, what geometric shape best describes the container?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the image, what appears to be the primary method of sealing the container?",
+        "answer": "Seamed"
+      },
+      {
+        "question": "Is the surface of the container predominantly glossy or matte in appearance?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the container display any prominent embossed or debossed design elements?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the side panel, what type of text is predominantly present on the container?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What color is the small rectangular element visible near the top of the container?",
+        "answer": "Green"
+      },
+      {
+        "question": "Judging by the image, is the container's body uniformly colored, or does it have distinct sections?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Does the container show any signs of visible damage or imperfection?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent texture of the container\u2019s surface based solely on visual observation?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Can you identify any noticeable labels or markings aside from text on the container?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the image suggest that the container is transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Considering the image and its context, what is the probable function of the container?",
+        "answer": "Packaging"
+      },
+      {
+        "question": "Based on visual analysis, is the container depicted standing vertically or horizontally?",
+        "answer": "Vertically"
+      }
+    ]
+  }
+]

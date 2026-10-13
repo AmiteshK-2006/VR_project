@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/26/26cf0885.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color visually observed across the entire sample?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visual texture, what is the surface finish of the material?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Based on the image, what is the apparent material of this sample?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Judging by the visual grain, what is the texture of this material?",
+        "answer": "Granular"
+      },
+      {
+        "question": "What visual impression does the overall color uniformity provide?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Describe the visual appearance of the material's surface finish in detail.",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the image suggest any visible patterns or designs on the surface?",
+        "answer": "None"
+      },
+      {
+        "question": "From a visual standpoint, how would you characterize the material's sheen?",
+        "answer": "Slight"
+      },
+      {
+        "question": "Based on the visual texture, how would you describe the material's feel?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Judging from the image, what is the general visual tone of this sample?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Does the visual color suggest any specific color family?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "Does the image show any visible inconsistencies in the material's color?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent visual density of the material?",
+        "answer": "High"
+      },
+      {
+        "question": "What visual impression does the lack of visible pattern create?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Based solely on visual inspection, what is the overall visual weight of the material?",
+        "answer": "Heavy"
+      }
+    ]
+  }
+]

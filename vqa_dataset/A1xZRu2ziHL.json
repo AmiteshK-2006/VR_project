@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b6/b61bad20.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed fabric sample?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What appears to be the primary texture of the fabric shown?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the visual appearance, what is the likely material of this sample?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Based on the image, does the fabric show any significant pattern?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the image, how would you describe the overall finish of the fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the visual examination reveal any noticeable sheen or glossiness?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image, is the material consistent in its coloring throughout?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the overall impression of the fabric's visual weight or density?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "From the image, can any distinct markings or imperfections be observed?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the visual cues, what is the apparent grain direction of the material?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Based on the visual analysis, how would you describe the fabric's surface feel?",
+        "answer": "Soft"
+      },
+      {
+        "question": "If you were to touch it, would it seem rough or supple to the touch based on the image?",
+        "answer": "Supple"
+      },
+      {
+        "question": "Is there any visible evidence of stitching or seams in the image provided?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the image reveal any obvious irregularities in the fabric's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "From the image, is the fabric's color uniform across its visible area?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

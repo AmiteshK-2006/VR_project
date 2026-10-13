@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3d/3d2631aa.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant visual characteristic of the product's overall appearance?",
+        "answer": "Transparent"
+      },
+      {
+        "question": "Considering the product's form, what geometric term best describes its shape?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Based on its visual texture, what is the surface quality of the product's outer layer?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the image, what seems to be the primary material used in the product's construction?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What color best describes the majority of the product shown in the image?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Observing the product's dimensions, what is its general length?",
+        "answer": "Long"
+      },
+      {
+        "question": "Can you describe the product's packaging, if visible in the provided image?",
+        "answer": "Rolled"
+      },
+      {
+        "question": "What is the general state of the outer surface of the product, based on the image?",
+        "answer": "Unblemished"
+      },
+      {
+        "question": "Considering the product's features, what is its likely primary function?",
+        "answer": "Wrapping"
+      },
+      {
+        "question": "What is the apparent flexibility or rigidity of the product, as visually perceived?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "What can be inferred about the product's thickness based on visual assessment?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Based on its visual characteristics, is the product opaque or translucent?",
+        "answer": "Translucent"
+      },
+      {
+        "question": "From the image, is there any noticeable pattern or design on the product's surface?",
+        "answer": "None"
+      },
+      {
+        "question": "What seems to be the product's main physical attribute that helps in its function?",
+        "answer": "Length"
+      },
+      {
+        "question": "What is the product's apparent weight or density, considering its overall volume?",
+        "answer": "Light"
+      }
+    ]
+  }
+]

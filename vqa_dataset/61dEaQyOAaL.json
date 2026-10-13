@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f8/f8018dc7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the notebook's cover?",
+        "answer": "Lime"
+      },
+      {
+        "question": "What appears to be the primary material of the notebook's cover?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Describe the overall shape and form of the product shown?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Is the texture of the notebook cover smooth or rough?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What is the color of the small label affixed to the notebook?",
+        "answer": "White"
+      },
+      {
+        "question": "What kind of visual design element is present on the small label?",
+        "answer": "Logo"
+      },
+      {
+        "question": "Judging by the image, does the notebook appear to be hardbound or softbound?",
+        "answer": "Softbound"
+      },
+      {
+        "question": "Based on the image, does the notebook have any noticeable visible stitching?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the notebook's cover show any noticeable patterns or prints?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the image carefully, what is the apparent finish of the cover?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the cover display any visible embossing or debossing?",
+        "answer": "No"
+      },
+      {
+        "question": "From the image provided, what is the orientation of the label on the notebook?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Based solely on the provided image, is the notebook cover flexible or rigid?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "What is the general size and scale of the item pictured?",
+        "answer": "Small"
+      },
+      {
+        "question": "Based on visual evidence, is the notebook's spine visible in the image?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

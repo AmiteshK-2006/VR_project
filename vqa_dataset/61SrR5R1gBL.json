@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f8/f858def7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual layout and font styles, what is the dominant color scheme of the product label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Examining the font styles utilized in the ingredient list, what is the most prominent font weight used?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Focusing on the typography, what is the case used for the primary product title?",
+        "answer": "Upper"
+      },
+      {
+        "question": "Regarding the textual structure, what type of list organizes the ingredients?",
+        "answer": "Bulleted"
+      },
+      {
+        "question": "Based on the label's structure, how many distinct sections are there (ingredients, warnings etc.)?",
+        "answer": "Two"
+      },
+      {
+        "question": "Observing the text's alignment, how is the ingredient list arranged on the page?",
+        "answer": "Left"
+      },
+      {
+        "question": "Considering the text size variations, which section employs the largest font size?",
+        "answer": "Title"
+      },
+      {
+        "question": "Regarding the visual hierarchy, what is the color of the text describing ingredients?",
+        "answer": "Black"
+      },
+      {
+        "question": "Analyzing the spacing and line breaks, how is the text within the parentheses formatted?",
+        "answer": "Indented"
+      },
+      {
+        "question": "In terms of visual prominence, which element stands out most (ingredients, warnings)?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the font style utilized for the section regarding allergens?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Analyzing the visual weight, which section has larger font size: ingredients or warnings?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Regarding the text's visual appeal, what is the overall style (e.g., modern, classic)?",
+        "answer": "Classic"
+      },
+      {
+        "question": "Based on the visual density, what is the overall visual texture (e.g., busy, sparse)?",
+        "answer": "Busy"
+      },
+      {
+        "question": "Judging by the visual presentation, is the information presented in a concise manner?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

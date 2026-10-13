@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/80/8037e6e7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color scheme of the nutrition facts label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary font style used for the header 'Nutrition Facts'?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What type of information is prominently displayed in the largest font size?",
+        "answer": "Calories"
+      },
+      {
+        "question": "What unit of measurement is used for the serving size?",
+        "answer": "Ounces"
+      },
+      {
+        "question": "What is the approximate number of chips per serving, as indicated on the label?",
+        "answer": "Twenty-two"
+      },
+      {
+        "question": "What nutrient is listed in grams, and constitutes a significant portion of the label's content?",
+        "answer": "Fat"
+      },
+      {
+        "question": "What is the total amount of saturated fat (in grams) per serving, as shown on the label?",
+        "answer": "1.5"
+      },
+      {
+        "question": "What mineral's quantity (in milligrams) is highlighted among the other nutrients?",
+        "answer": "Sodium"
+      },
+      {
+        "question": "How many grams of total carbohydrates are present in one serving, according to the label?",
+        "answer": "Fifteen"
+      },
+      {
+        "question": "What is the amount of added sugars (in grams) indicated per serving on the label?",
+        "answer": "Zero"
+      },
+      {
+        "question": "How many grams of protein are contained in a single serving, as stated on the label?",
+        "answer": "One"
+      },
+      {
+        "question": "What vitamin is listed, and how much is present per serving (in micrograms)?",
+        "answer": "Vitamin D"
+      },
+      {
+        "question": "What mineral is listed and how much is present per serving (in milligrams)?",
+        "answer": "Potassium"
+      },
+      {
+        "question": "What is the approximate percentage of daily value for total fat in a serving?",
+        "answer": "Fourteen"
+      },
+      {
+        "question": "What is the shape of the overall nutrition label on the packaging?",
+        "answer": "Rectangular"
+      }
+    ]
+  }
+]

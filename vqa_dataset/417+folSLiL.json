@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8e/8e7887fc.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual layout and typography, what is the primary function of this item, as visibly depicted?",
+        "answer": "Label"
+      },
+      {
+        "question": "Observing the text's arrangement and the presence of a logo, what specific brand is prominently displayed?",
+        "answer": "WholeFoods"
+      },
+      {
+        "question": "Based on the detailed text visible, what specific geographic region is indicated as the origin of this product's manufacturing?",
+        "answer": "USA"
+      },
+      {
+        "question": "Analyzing the textual information, what type of dietary precaution or note is explicitly mentioned regarding usage?",
+        "answer": "Caution"
+      },
+      {
+        "question": "Based on the textual content, identify the specific type of product this label describes, concerning its purpose or usage?",
+        "answer": "Supplement"
+      },
+      {
+        "question": "Examining the textual details, what specific ingredient is explicitly stated to be potentially present, requiring an allergy alert?",
+        "answer": "Coconut"
+      },
+      {
+        "question": "Considering the multiple lines of textual information, specify the key descriptive aspect concerning where this product was manufactured?",
+        "answer": "Domestic"
+      },
+      {
+        "question": "Considering the style and structure of the presented text, what primary purpose does this labeling serve for the consumer?",
+        "answer": "Information"
+      },
+      {
+        "question": "Looking at the provided textual information, what manufacturing process is noted concerning potential cross-contamination?",
+        "answer": "Facility"
+      },
+      {
+        "question": "Based on the visible text regarding storage, how should the product be maintained to retain its quality?",
+        "answer": "Cool"
+      },
+      {
+        "question": "From the text, which type of evidence is mentioned to ensure product integrity against tampering?",
+        "answer": "Seal"
+      },
+      {
+        "question": "From the detailed text, determine the specified location for distribution of the product, as indicated by the label?",
+        "answer": "Austin"
+      },
+      {
+        "question": "What is the specified state associated with the product’s distribution, as explicitly visible on the label?",
+        "answer": "Texas"
+      },
+      {
+        "question": "What year is indicated in the copyright notice visible on the product's label?",
+        "answer": "2018"
+      },
+      {
+        "question": "According to the label's instructions, where should this product be stored for optimal preservation?",
+        "answer": "Place"
+      }
+    ]
+  }
+]

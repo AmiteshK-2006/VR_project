@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f9/f9f4e73a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what single word best describes the text's alignment on the label?",
+        "answer": "Left"
+      },
+      {
+        "question": "Based on the image, what is the primary color of the text displayed on the food label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the font style used for the word 'INGREDIENTS' in the provided image?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Disregarding punctuation, what is the first ingredient listed on the provided food label?",
+        "answer": "Plantains"
+      },
+      {
+        "question": "What is the second ingredient identified on the presented food label?",
+        "answer": "Palm"
+      },
+      {
+        "question": "Judging from the appearance, what appears to be the general texture of the label's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the capitalization, how is the word 'Ingredients' presented on the label?",
+        "answer": "Capitalized"
+      },
+      {
+        "question": "What is the case of lettering used in the rest of the ingredient list excluding 'INGREDIENTS'?",
+        "answer": "Lowercase"
+      },
+      {
+        "question": "What punctuation mark follows the word 'Plantains' in the ingredient list?",
+        "answer": "Comma"
+      },
+      {
+        "question": "What punctuation mark concludes the provided ingredient list?",
+        "answer": "Period"
+      },
+      {
+        "question": "What is the format of the information presented on the label?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the word used to introduce the list of ingredients?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Describing the background, what is its general color?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the general form of the label element shown in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the label's appearance, what is the primary function of the label?",
+        "answer": "Informative"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8e/8ede73d1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the textual information provided in the image, what is the primary material used in the product's composition?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Based on the visible text, what percentage of the product's composition is attributed to certified organic cotton?",
+        "answer": "82%"
+      },
+      {
+        "question": "What secondary material, as indicated by the text, contributes to the product's biodegradable nature?",
+        "answer": "Biopolymer"
+      },
+      {
+        "question": "Observing the image, what is the overall color palette of the displayed text?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Given the image's composition, what is the prevailing form of the presented text, in terms of its visual arrangement?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Describe the visual style of the font employed to render the text within the image.",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "According to the image's textual content, what certification does the cotton used in the product's composition hold?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What term describes the ecological property of the biopolymer material used in the item, as evident in the text?",
+        "answer": "Biodegradable"
+      },
+      {
+        "question": "Examining the visual presentation, what attribute describes the arrangement of the textual elements within the given image?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Considering the font, what would you describe the general weight or thickness of its characters?",
+        "answer": "Light"
+      },
+      {
+        "question": "Judging from the image, what term describes the degree of spacing between the words in the provided text?",
+        "answer": "Tight"
+      },
+      {
+        "question": "In terms of the overall presentation, how would you describe the texture of the text in the provided image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the visual presentation, what term best describes the style of the displayed text?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Describe the case (upper or lower) of the letters predominantly used within the textual content presented.",
+        "answer": "Upper"
+      },
+      {
+        "question": "Given the image, what is the primary method of communication used in the product's description?",
+        "answer": "Text"
+      }
+    ]
+  }
+]

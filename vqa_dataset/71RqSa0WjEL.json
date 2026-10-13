@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c7/c79eb76d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the text displayed on the product's packaging, as shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the visual appearance, what is the primary format of the presented information on the product?",
+        "answer": "List"
+      },
+      {
+        "question": "Based on the image's visual details, what kind of font is used for the text on the product packaging?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Observing the product image, what is the overall shape of the labeled area on the packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent texture of the surface where the ingredients list is printed?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the image, what is the background color of the ingredients list area on the packaging?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the visual presentation, what is the primary language used for text on the product packaging?",
+        "answer": "English"
+      },
+      {
+        "question": "From the image, what is the case of the lettering style used for the word 'INGREDIENTS'?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "What is the apparent size of the font used for the main heading 'INGREDIENTS' relative to the body text?",
+        "answer": "Larger"
+      },
+      {
+        "question": "Based on the visual clarity of the provided image, can the precise font style of the text be determined?",
+        "answer": "No"
+      },
+      {
+        "question": "Is there any visible logo or branding on the product packaging area visible in the provided image?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the image reveal any images, illustrations or graphics alongside the text?",
+        "answer": "No"
+      },
+      {
+        "question": "Based solely on visual assessment of the text layout, what is the overall style of the packaging design?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Is the text on the packaging primarily arranged in columns or rows?",
+        "answer": "Rows"
+      },
+      {
+        "question": "What seems to be the visual method used to separate the 'INGREDIENTS' section from the 'CONTAINS' section?",
+        "answer": "Spacing"
+      }
+    ]
+  }
+]

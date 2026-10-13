@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/15/150d1b4b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall text layout, what is the primary purpose of this visual element, as visually evident?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the dominant text color used to display the ingredient list in this image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based solely on visual observation, what is the most common type of capitalization used for words in the ingredient list?",
+        "answer": "Sentence"
+      },
+      {
+        "question": "What is the visual format in which the ingredient information is presented, as perceived in the image?",
+        "answer": "List"
+      },
+      {
+        "question": "Excluding punctuation, what is the textual format style used for the 'INGREDIENTS' heading, as directly visible?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Ignoring punctuation, how does the word 'TOMATOES' appear typographically within the list of ingredients?",
+        "answer": "Capitalized"
+      },
+      {
+        "question": "Observe the image closely: what is the visual format style of the textual content within the image's frame?",
+        "answer": "Paragraph"
+      },
+      {
+        "question": "Considering the visual appearance, what is the font style of the text containing the ingredients, as it is seen?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "How is the textual information structured to visually distinguish between the ingredient list and the 'INGREDIENTS' label?",
+        "answer": "Spacing"
+      },
+      {
+        "question": "Focusing solely on visual elements, what is the background color of the ingredient list, as presented in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "Judging from visual observation alone, is the text in the image bold, italicized or neither?",
+        "answer": "Neither"
+      },
+      {
+        "question": "Describe the visual appearance and organization of the text concerning the use of commas and periods within the image.",
+        "answer": "Punctuated"
+      },
+      {
+        "question": "What is the most apparent visual characteristic related to the text's alignment within the image?",
+        "answer": "Left"
+      },
+      {
+        "question": "Considering visual aspects only, what is the general font size in relation to standard text size; is it relatively larger, smaller, or the same?",
+        "answer": "Standard"
+      },
+      {
+        "question": "What appears to be the visual resolution quality of the text in the product image, based on what is readily visible?",
+        "answer": "Clear"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/19/194c15be.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the visible product surface?",
+        "answer": "White"
+      },
+      {
+        "question": "What appears to be the primary material composing the visible product?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the overall shape of the product as depicted in the image?",
+        "answer": "Circular"
+      },
+      {
+        "question": "What type of printing or marking is visible on the product's surface?",
+        "answer": "Text"
+      },
+      {
+        "question": "Considering the visible markings, what seems to be their orientation around the product?",
+        "answer": "Circular"
+      },
+      {
+        "question": "What is the apparent texture of the product's visible surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the color of the text or markings present on the product?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the image, does the product appear to have a lid or closure?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image, what is the apparent condition of the product's surface?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Observing the image, is the product's surface glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the apparent size of the text relative to the product's dimensions?",
+        "answer": "Small"
+      },
+      {
+        "question": "From the image, does the text appear to be embossed or printed?",
+        "answer": "Printed"
+      },
+      {
+        "question": "Based solely on the visual, is the product's surface uniformly colored?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the image show any significant defects or damage to the product?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent level of detail in the visible text markings?",
+        "answer": "High"
+      }
+    ]
+  }
+]

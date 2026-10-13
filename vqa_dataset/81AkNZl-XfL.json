@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/24/24b5f3c1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what is the dominant color scheme of this product's informational label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary shape of the individual units presented on the product's label?",
+        "answer": "Capsule"
+      },
+      {
+        "question": "Based on the text layout, what is the primary method used to organize and present the product's nutritional information?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the overall format of the information displayed on the label concerning the product's contents?",
+        "answer": "List"
+      },
+      {
+        "question": "What is the textual font style primarily used in the display of nutritional values?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the font weight primarily used to emphasize key product components?",
+        "answer": "Bold"
+      },
+      {
+        "question": "In terms of label design, what visual element is prominently used to separate the sections and data within the nutrition label?",
+        "answer": "Lines"
+      },
+      {
+        "question": "Considering the label's content, what is the type of information presented concerning the product's ingredients?",
+        "answer": "Quantitative"
+      },
+      {
+        "question": "What are the visual markers used to indicate the daily value percentage for each component?",
+        "answer": "Symbols"
+      },
+      {
+        "question": "What unit of measurement is primarily used to quantify the probiotic strains within the mixture?",
+        "answer": "CFU"
+      },
+      {
+        "question": "Describing the texture of the label's surface as depicted in the image, is it glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the image, what is the paper stock of the label, judging by its visual properties?",
+        "answer": "Card"
+      },
+      {
+        "question": "What is the general layout style employed on the nutritional information label of the product?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "In relation to the overall design, what is the primary direction of the text reading progression on the product label?",
+        "answer": "Downward"
+      },
+      {
+        "question": "What is the color of the text used to list the ingredients and their associated values on the supplement facts label?",
+        "answer": "Black"
+      }
+    ]
+  }
+]

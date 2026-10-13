@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/42/42487e4e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the presented dairy product container, as visually observed?",
+        "answer": "Bottle"
+      },
+      {
+        "question": "What color is the main body of the depicted dairy product container?",
+        "answer": "White"
+      },
+      {
+        "question": "What material appears to compose the container holding the dairy product?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What color is the cap or lid on top of the dairy product bottle?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the general texture of the dairy product's visible surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the visible label, what type of product is inside the container?",
+        "answer": "Cream"
+      },
+      {
+        "question": "What is the predominant color of the informational label on the container?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe the visual appearance of the label's text and design elements.",
+        "answer": "Printed"
+      },
+      {
+        "question": "Is there a barcode visible on the dairy product's label?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent form factor of the shown container (bottle/carton/etc.)?",
+        "answer": "Bottle"
+      },
+      {
+        "question": "Considering the product, what does the label indicate the product is?",
+        "answer": "Cream"
+      },
+      {
+        "question": "What color is a secondary label section or band on the packaging?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Does the container show any significant surface imperfections or markings?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent condition of the dairy product's packaging?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "What kind of closure mechanism does the dairy container appear to have?",
+        "answer": "Screw"
+      }
+    ]
+  }
+]

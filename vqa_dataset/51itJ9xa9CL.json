@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b7/b709c1b6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the food item presented on the plate?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the image's visual details, what seems to be the primary texture of the food?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Based on the visual appearance, what kind of food is displayed?",
+        "answer": "Chicken"
+      },
+      {
+        "question": "What appears to be the culinary preparation style of the food shown?",
+        "answer": "Roasted"
+      },
+      {
+        "question": "Describe the overall shape and form of the individual food pieces presented.",
+        "answer": "Irregular"
+      },
+      {
+        "question": "What kind of herb is used as a garnish for the food?",
+        "answer": "Rosemary"
+      },
+      {
+        "question": "What is the apparent color of the sauce or glaze coating the food?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Describe the apparent surface sheen or luster of the food pieces.",
+        "answer": "Shiny"
+      },
+      {
+        "question": "What material seems to be the primary composing element of the serving dish?",
+        "answer": "Ceramic"
+      },
+      {
+        "question": "Considering its shape and size, what is the serving dish's form factor?",
+        "answer": "Round"
+      },
+      {
+        "question": "Considering the image, what is the overall color of the serving plate?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "What seems to be the texture of the garnish accompanying the food?",
+        "answer": "Needly"
+      },
+      {
+        "question": "What's the visible state of the food, in terms of its cooking?",
+        "answer": "Cooked"
+      },
+      {
+        "question": "What is the color of the background fabric visible under the plate?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "Describe the apparent arrangement of the food items on the plate.",
+        "answer": "Clustered"
+      }
+    ]
+  }
+]

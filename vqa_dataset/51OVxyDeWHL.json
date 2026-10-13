@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/48/48af0b36.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the packaging's background?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the primary text color used on the packaging?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What kind of food product does the packaging contain?",
+        "answer": "Blend"
+      },
+      {
+        "question": "What is the overall shape of the product's package?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material is primarily used for this product's packaging?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describing the texture, is the packaging smooth or rough?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What type of printing is used for the text on the bag?",
+        "answer": "Flexographic"
+      },
+      {
+        "question": "Does the packaging show any prominent brand logos?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the style of the font used for the product name?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Are there any nutritional facts displayed on the package?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the bag contain a barcode?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the general condition of the packaging shown?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Is the text on the package primarily focused on details?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the orientation of the text on the bag?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Can you visually confirm any certifications or seals?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

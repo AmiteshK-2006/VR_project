@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/7b/7b5bfc4a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the liquid inside the bottle, as shown in the image?",
+        "answer": "Green"
+      },
+      {
+        "question": "What material appears to constitute the primary body of the product container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the overall shape of the product container, ignoring the cap?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Considering the visible label, what is the most prominent color scheme used on this bottle?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What type of closure is present on the top of the bottle, based on its visual features?",
+        "answer": "Flip-top"
+      },
+      {
+        "question": "Describe the apparent texture of the bottle's surface, considering its visual appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What appears to be the primary method of dispensing the product, judging by the bottle's design?",
+        "answer": "Pouring"
+      },
+      {
+        "question": "Based solely on the visible text, what language is used for the product information?",
+        "answer": "English"
+      },
+      {
+        "question": "Considering the visual elements, what kind of graphic design is noticeable on the label?",
+        "answer": "Geometric"
+      },
+      {
+        "question": "Judging by the image, what is the overall transparency of the bottle's contents?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What is the visible shape of the cap or closure on top of the product bottle?",
+        "answer": "Conical"
+      },
+      {
+        "question": "What seems to be the printing style of the text on the product label, from a visual inspection?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the visible markings, what type of code is displayed on the product label?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "Describe the visible design style employed on the product label, based on its visual features?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the apparent size of the product bottle, relative to a standard hand?",
+        "answer": "Small"
+      }
+    ]
+  }
+]

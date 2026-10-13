@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e2/e29f2fcd.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the lightbulb, as depicted in the provided image?",
+        "answer": "A19"
+      },
+      {
+        "question": "Considering the image, what primary color describes the glass of the lightbulb?",
+        "answer": "Amber"
+      },
+      {
+        "question": "Based on the image, what appears to be the material composing the lightbulb's exterior?",
+        "answer": "Glass"
+      },
+      {
+        "question": "What is the visible design element inside the bulb's glass enclosure, as shown in the image?",
+        "answer": "Filament"
+      },
+      {
+        "question": "Judging from the image, what is the apparent texture of the lightbulb's glass surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the color of the visible filament, as depicted in the provided image?",
+        "answer": "Gold"
+      },
+      {
+        "question": "Considering the image, what kind of base does the lightbulb have?",
+        "answer": "Edison"
+      },
+      {
+        "question": "What is the apparent transparency of the lightbulb's glass, judging by the image?",
+        "answer": "Translucent"
+      },
+      {
+        "question": "Based on the image, what is the general style of the lightbulb's design?",
+        "answer": "Vintage"
+      },
+      {
+        "question": "What kind of light does the filament suggest based on its visible structure (image)?",
+        "answer": "Incandescent"
+      },
+      {
+        "question": "Does the image show any noticeable markings or text on the bulb's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering its shape (image), what is the lightbulb's form factor?",
+        "answer": "Bulbous"
+      },
+      {
+        "question": "Judging from the image, is the bulb's glass uniformly colored?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent finish of the bulb's glass surface (from image)?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the image show any visible damage to the lightbulb's glass?",
+        "answer": "No"
+      }
+    ]
+  }
+]

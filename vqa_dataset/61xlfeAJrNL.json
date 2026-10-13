@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3b/3b3b44b3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the charging block, as shown in the provided image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the image, what appears to be the primary material used in the construction of this power adapter?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on the image alone, what is the overall shape of the presented USB-C power adapter?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What type of plug is visibly integrated into the design of this wall adapter, according to the provided image?",
+        "answer": "UK"
+      },
+      {
+        "question": "Examining the image, what single port type is clearly visible on the external surface of the device?",
+        "answer": "USB-C"
+      },
+      {
+        "question": "From the image, what seems to be the finish or texture of the outer casing of the power adapter?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging from the provided image, what is the apparent size of the power adapter relative to a standard wall outlet?",
+        "answer": "Compact"
+      },
+      {
+        "question": "Does the image show any noticeable branding or logos on the device's exterior?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based purely on visual inspection, what is the apparent weight of the adapter shown in the picture?",
+        "answer": "Lightweight"
+      },
+      {
+        "question": "Judging from the product image, are there any visible vents or openings for heat dissipation?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the image indicate the presence of any additional ports or connectors apart from what is clearly shown?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the visible orientation of the USB-C port relative to the plug on the adapter in the picture?",
+        "answer": "Side"
+      },
+      {
+        "question": "Does the image show any significant scratches or damage on the surface of the adapter?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on what is visually apparent in the image, what seems to be the overall build quality of the product?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Considering only the image, what is the apparent level of detail in the design of the product?",
+        "answer": "Minimal"
+      }
+    ]
+  }
+]

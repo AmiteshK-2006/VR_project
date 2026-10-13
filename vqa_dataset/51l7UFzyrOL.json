@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/46/4642a28d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the text on the supplement facts label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the area containing the supplement information?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary textual information conveyed on the label?",
+        "answer": "Supplement"
+      },
+      {
+        "question": "What specific vitamin is prominently featured on the label?",
+        "answer": "Biotin"
+      },
+      {
+        "question": "What unit of measurement is used for the Biotin quantity?",
+        "answer": "mcg"
+      },
+      {
+        "question": "What is the specified serving size of the supplement?",
+        "answer": "Capsule"
+      },
+      {
+        "question": "What is the stated percentage of daily value for the listed Biotin amount?",
+        "answer": "167%"
+      },
+      {
+        "question": "What is the form of Biotin mentioned in parenthesis on the label?",
+        "answer": "d-biotin"
+      },
+      {
+        "question": "What is the background color of the label in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the type of information presented in the section under \"Amount Per Serving\"?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What word signifies the start of the listed supplement details?",
+        "answer": "Biotin"
+      },
+      {
+        "question": "What is printed at the topmost section of this nutritional information label?",
+        "answer": "Supplement"
+      },
+      {
+        "question": "Considering the text style, what is the probable font weight used?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the formatting style used to display numerical values in the information?",
+        "answer": "Aligned"
+      },
+      {
+        "question": "What is the word that immediately follows \"Serving Size\" on the label?",
+        "answer": "Capsule"
+      }
+    ]
+  }
+]

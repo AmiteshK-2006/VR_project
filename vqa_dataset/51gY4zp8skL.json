@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/aa/aa9e6162.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary format of the presented nutritional information?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the specified serving size of the product being described?",
+        "answer": "Gummy"
+      },
+      {
+        "question": "What is the total number of servings contained within the product's packaging?",
+        "answer": "200"
+      },
+      {
+        "question": "What unit of measurement is used to quantify the caloric content per serving?",
+        "answer": "Calories"
+      },
+      {
+        "question": "What unit is used to describe the amount of total carbohydrates present in each serving?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What specific vitamin is listed among the active ingredients?",
+        "answer": "Folic"
+      },
+      {
+        "question": "What unit of measurement is employed to denote the quantity of sodium per serving?",
+        "answer": "Milligrams"
+      },
+      {
+        "question": "What is the amount of sugar listed per gummy, in grams?",
+        "answer": "1.9"
+      },
+      {
+        "question": "What is the text size of the heading 'Supplement Facts'?",
+        "answer": "Large"
+      },
+      {
+        "question": "What is the font style used for the column headings 'Nutritional Values'?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the overall color scheme of the provided nutritional label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What type of dietary information is presented in this image?",
+        "answer": "Supplement"
+      },
+      {
+        "question": "What is the background color of the label section?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the text alignment used for the 'Serving Size' information?",
+        "answer": "Left"
+      },
+      {
+        "question": "What is the overall shape of the nutrition facts label?",
+        "answer": "Rectangular"
+      }
+    ]
+  }
+]

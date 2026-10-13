@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b2/b23c7450.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the visual presentation, what is the primary color of the text detailing the product's ingredients?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the image, what is the overall font style used for the ingredient list?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Judging from the visual appearance, what is the background color of the displayed ingredient information?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the apparent text alignment used for the ingredient list, viewed from the image?",
+        "answer": "Left"
+      },
+      {
+        "question": "From the image, does the text appear to be printed or handwritten?",
+        "answer": "Printed"
+      },
+      {
+        "question": "Judging solely from the image, what is the case of the lettering used in the ingredient list?",
+        "answer": "Upper"
+      },
+      {
+        "question": "What is the apparent overall orientation of the ingredient text on the product, as displayed?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the general size of the text used to list the product's ingredients, as depicted?",
+        "answer": "Small"
+      },
+      {
+        "question": "Based on the provided image, what seems to be the style of the text in the ingredient list?",
+        "answer": "Plain"
+      },
+      {
+        "question": "What appears to be the text density of the product's ingredient information in the image?",
+        "answer": "High"
+      },
+      {
+        "question": "From a visual standpoint, does the text display any noticeable variations in font weight?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the visual format of the ingredient list presentation, for instance, paragraph, list, etc.?",
+        "answer": "Paragraph"
+      },
+      {
+        "question": "Observing from the image, is the text in the ingredient list bolded or italicized?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image, is there any apparent use of underlining or strikethrough in the text?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the visible arrangement of text sections within the provided ingredient list?",
+        "answer": "Sequential"
+      }
+    ]
+  }
+]

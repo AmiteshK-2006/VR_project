@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2a/2a42c2c1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the detailed ingredient list, what primary flavor is visually implied by the dominant text color scheme?",
+        "answer": "Chocolate"
+      },
+      {
+        "question": "Based on the text's layout and font, what is the overarching style of the provided information?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Given the text's density and extensive use of specialized terminology, what is the implied target audience for this information?",
+        "answer": "Consumers"
+      },
+      {
+        "question": "Disregarding the content, what is the dominant color of the text in the supplied image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the text's structure, what is the format of the product information presented?",
+        "answer": "List"
+      },
+      {
+        "question": "Based on the visual presentation, what is the implied nature of the product whose ingredients are being listed?",
+        "answer": "Food"
+      },
+      {
+        "question": "Considering the presence of numerous chemical names and descriptive terms, what level of detail is conveyed regarding the product composition?",
+        "answer": "High"
+      },
+      {
+        "question": "Based on the typography, what is the general tone or style of communication adopted for the ingredient details?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Focusing on the text's arrangement, what is the overall visual impression created by the ingredient list?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Observing the text block's shape and proportion, what is the layout's apparent organization principle?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Considering the absence of images or graphical elements, what is the primary mode of communication used to describe the product?",
+        "answer": "Text"
+      },
+      {
+        "question": "Based on the text's length and complexity, what is the expected reading time for an average person?",
+        "answer": "Long"
+      },
+      {
+        "question": "Given the context and presentation, what is the presumed purpose of the provided information?",
+        "answer": "Disclosure"
+      },
+      {
+        "question": "Disregarding the content, what is the most striking visual feature of this image?",
+        "answer": "Text"
+      },
+      {
+        "question": "Considering the detailed list of constituents, what manufacturing process is clearly mentioned for potential allergies?",
+        "answer": "Shared"
+      }
+    ]
+  }
+]

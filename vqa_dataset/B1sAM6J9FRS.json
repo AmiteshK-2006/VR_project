@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fc/fc7967be.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color observed across the entire fabric sample?",
+        "answer": "Green"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent weave structure of this fabric?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Based on its visual appearance, what is the overall finish of the fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging by the image, what would you describe the fabric's general tone?",
+        "answer": "Dark"
+      },
+      {
+        "question": "From the image, what is the most prominent visual characteristic of the fabric's surface?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What specific shade of green best captures the fabric's color in the provided image?",
+        "answer": "Forest"
+      },
+      {
+        "question": "Considering the uniformity, how would you describe the coloring throughout the sample?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Based on the visual details, what is the implied density of the fabric's weave?",
+        "answer": "Tight"
+      },
+      {
+        "question": "From a purely visual perspective, does the fabric appear to have a noticeable sheen?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the image suggest the fabric possesses any discernable pattern or print?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the image alone, is the fabric's surface smooth or rough to the touch?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What is the apparent weight or thickness of the fabric based solely on the image?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Does the image reveal any visible flaws or imperfections in the fabric's weave?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image, is the material of the sample consistent throughout?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging from the close-up view, what is the general look and feel of the fabric?",
+        "answer": "Solid"
+      }
+    ]
+  }
+]

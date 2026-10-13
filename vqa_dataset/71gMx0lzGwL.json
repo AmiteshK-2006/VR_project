@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/14/1440a4bb.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary text format depicted in the provided image, concerning the product's composition?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Considering the textual information, what is one of the main organic components listed?",
+        "answer": "Oats"
+      },
+      {
+        "question": "Based on the text, identify another organic ingredient mentioned among the product's constituents?",
+        "answer": "Strawberries"
+      },
+      {
+        "question": "According to the label, what other organic element is included in the product's recipe?",
+        "answer": "Sugar"
+      },
+      {
+        "question": "What additional organic component is explicitly detailed among the ingredients?",
+        "answer": "Cream"
+      },
+      {
+        "question": "As per the label's declaration, what non-organic ingredient contributes to the product's flavor?",
+        "answer": "Flavor"
+      },
+      {
+        "question": "What is the text format of the message indicating the presence of potential allergens?",
+        "answer": "Warning"
+      },
+      {
+        "question": "What dairy-related substance is explicitly mentioned as present in the product?",
+        "answer": "Milk"
+      },
+      {
+        "question": "What grain-based ingredient is potentially present as an allergen, based on the provided text?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "According to the warning statement, what type of nut may be present as an allergen?",
+        "answer": "Tree"
+      },
+      {
+        "question": "What other ingredient, besides tree nuts, is listed as a potential allergen in the text?",
+        "answer": "Eggs"
+      },
+      {
+        "question": "What additional potential allergen is mentioned along with eggs and tree nuts in the warning?",
+        "answer": "Soy"
+      },
+      {
+        "question": "What is the textual description of the product's processing location and potential cross-contamination?",
+        "answer": "Facility"
+      },
+      {
+        "question": "What natural element is added to enhance or balance the flavor profile, according to the text?",
+        "answer": "Salt"
+      },
+      {
+        "question": "What is the font style predominantly used in this product label image?",
+        "answer": "Sans-serif"
+      }
+    ]
+  }
+]

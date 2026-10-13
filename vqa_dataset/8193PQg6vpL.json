@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/17/17b43cb1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme used throughout the entire nutrition facts label?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the overall layout, what is the primary organizational structure employed for presenting the nutritional information?",
+        "answer": "tabular"
+      },
+      {
+        "question": "What is the typeface used for the prominent 'Nutrition Facts' heading at the top of the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What numerical value is prominently displayed, representing the caloric content per serving?",
+        "answer": "160"
+      },
+      {
+        "question": "What is the predominant material the nutrition facts label seems to be printed on?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What unit of measurement is consistently used for expressing the quantity of total fat?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the specified serving size in terms of weight and volume equivalence?",
+        "answer": "Ounces"
+      },
+      {
+        "question": "What is the measurement unit used for quantifying the amount of dietary fiber contained within a single serving?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What specific element is conspicuously absent from the nutrition label's overall composition?",
+        "answer": "Images"
+      },
+      {
+        "question": "What is the shape of each individual data cell within the table format of the nutritional information?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What type of text alignment is primarily used for the numerical values within the provided data cells?",
+        "answer": "Right"
+      },
+      {
+        "question": "What is the general texture of the paper on which the nutrition facts are printed?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the approximate number of servings that can be obtained from a single package of this product?",
+        "answer": "Eight"
+      },
+      {
+        "question": "Describe the relative size of the 'Calories per serving' value in comparison to other values.",
+        "answer": "Large"
+      },
+      {
+        "question": "What is the style of the borders surrounding the data cells in the nutrition table?",
+        "answer": "None"
+      }
+    ]
+  }
+]

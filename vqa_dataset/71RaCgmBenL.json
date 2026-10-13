@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f9/f9b199f7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant visible color of the bottle containing the liquid product, as shown in the image?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the primary shape of the product container, based on its overall visible structure?",
+        "answer": "Bottle"
+      },
+      {
+        "question": "Considering the visible texture of the bottle's material, what would you describe it as?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent material composing the majority of the product container, judging from the image?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Focusing on the dispensing mechanism, what is its apparent type and functionality, judging by its shape and position?",
+        "answer": "Pump"
+      },
+      {
+        "question": "Considering the visible design features, describe the overall style of the product's container.",
+        "answer": "Simple"
+      },
+      {
+        "question": "Examining the label on the bottle, is there any apparent text indicating the product's purpose or content?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the image, what is the visible shape of the pump's dispensing head and its position?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Regarding the container's base, what is its apparent shape, based on visible contours?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Focusing on the bottle's body, is there any notable text or design besides the label and the pump?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the apparent texture of the pump itself, focusing on its visible surface finish.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent color of the pump mechanism, based on the visible parts of this component?",
+        "answer": "White"
+      },
+      {
+        "question": "Judging from the label, is there any indication of the product's branding or manufacturer name?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the bottle's overall form and the location of the label, describe the label's placement and orientation.",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Based on the image, is the liquid inside the bottle completely opaque, or is it possible to see through it?",
+        "answer": "Translucent"
+      }
+    ]
+  }
+]

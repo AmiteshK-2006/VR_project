@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/13/139b22e1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary text displayed prominently across the top of the presented nutritional information?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Considering the overall layout, what is the dominant textual orientation of the displayed nutritional data?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "In terms of textual organization, what is the format of the nutritional values presented?",
+        "answer": "tabular"
+      },
+      {
+        "question": "Focusing on the section detailing fats, what is the numerical value given for total fat per serving, in grams?",
+        "answer": "0.5"
+      },
+      {
+        "question": "What is the indicated unit of measurement consistently used for quantifying the various nutritional components?",
+        "answer": "grams"
+      },
+      {
+        "question": "Based on the visual appearance of the text, what is the overall font style used for the nutritional information?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Regarding the color palette, what is the primary shade used for the text in the nutritional fact panel?",
+        "answer": "Black"
+      },
+      {
+        "question": "Observing the visual elements, is there any specific color used to highlight specific nutritional values or sections?",
+        "answer": "None"
+      },
+      {
+        "question": "In the context of the document's structure, what is the term used to denote the quantity of a food consumed in one instance?",
+        "answer": "Serving"
+      },
+      {
+        "question": "Looking at the data presented, what is the stated amount of protein, in grams, contained in a single serving?",
+        "answer": "3"
+      },
+      {
+        "question": "What is the numerical value associated with total carbohydrates in grams for a single serving?",
+        "answer": "23"
+      },
+      {
+        "question": "Observing the presented information, what is the specified unit of measurement for serving size?",
+        "answer": "Cup"
+      },
+      {
+        "question": "What is the approximate number of servings indicated as contained within the food container?",
+        "answer": "76"
+      },
+      {
+        "question": "Regarding the overall style, what is the general character of the presented text and formatting?",
+        "answer": "Formal"
+      },
+      {
+        "question": "What is the visual quality of the presented text, considering factors like clarity and sharpness?",
+        "answer": "Clear"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b9/b94605f6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual design, what single word best describes the dominant textual style of the presented information?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Focusing on the primary text block, what single word accurately captures the overarching subject of the displayed information?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Examining the layout, what single word best describes the arrangement of information within the rectangular container?",
+        "answer": "Tabular"
+      },
+      {
+        "question": "Observing the color scheme, what single word captures the color palette predominantly employed in the text?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the visual elements, what single word best describes the background color of the label?",
+        "answer": "White"
+      },
+      {
+        "question": "Analyzing the textual content, what single word denotes the type of dietary supplement indicated?",
+        "answer": "Biotin"
+      },
+      {
+        "question": "Considering the visual presentation, what single word encapsulates the overall format of the label?",
+        "answer": "Supplement"
+      },
+      {
+        "question": "Looking at the numeric values, what single word denotes the unit of measurement for the given amount?",
+        "answer": "Micrograms"
+      },
+      {
+        "question": "In terms of visual attributes, what single word describes the shape of the label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the textual layout, what single word describes the arrangement of the data in each line?",
+        "answer": "Aligned"
+      },
+      {
+        "question": "Observing the visual representation of percentages, what single word indicates the reference against which values are compared?",
+        "answer": "Daily"
+      },
+      {
+        "question": "From a visual standpoint, what single word represents the font type in the 'Supplement Facts' header?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "From a visual assessment, what single word describes the appearance or feel of the text?",
+        "answer": "Printed"
+      },
+      {
+        "question": "In terms of visual organization, what single word best describes the manner in which the content is organized and structured?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Considering the overall impression from the visual layout and presentation, what single word would effectively describe the label's purpose?",
+        "answer": "Informative"
+      }
+    ]
+  }
+]

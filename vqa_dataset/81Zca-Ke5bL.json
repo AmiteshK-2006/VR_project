@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f9/f9bc3100.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the product's text, what primary ingredient constitutes the majority of its composition, as explicitly stated on the packaging?",
+        "answer": "Almonds"
+      },
+      {
+        "question": "Based on the visible text, what specific flavor profile is prominently advertised as characterizing the product's taste?",
+        "answer": "Vinegar"
+      },
+      {
+        "question": "According to the product description visible in the image, what is one of the additional components coating the primary ingredient?",
+        "answer": "Salt"
+      },
+      {
+        "question": "As indicated by the text, what type of dietary restriction is this product explicitly stated as being suitable for?",
+        "answer": "Vegetarians"
+      },
+      {
+        "question": "Examining the text, identify one of the auxiliary ingredients employed in the manufacturing process of this food item.",
+        "answer": "Sugar"
+      },
+      {
+        "question": "Referring to the text, what is another additional flavoring agent besides salt and vinegar?",
+        "answer": "Citric"
+      },
+      {
+        "question": "According to the text on the product label, what is another secondary component in the product's mixture?",
+        "answer": "Rice"
+      },
+      {
+        "question": "What additional allergenic substance is mentioned on the packaging as a potential contaminant?",
+        "answer": "Nuts"
+      },
+      {
+        "question": "Based on the product description, what is one of the added components present in the coating?",
+        "answer": "Acid"
+      },
+      {
+        "question": "What preparation method is employed for the central ingredient of this food product, as indicated by the label?",
+        "answer": "Baked"
+      },
+      {
+        "question": "What unit of measurement is utilized to quantify the net weight of the product?",
+        "answer": "Grams"
+      },
+      {
+        "question": "According to the text, what is one of the additional ingredients used to create the food product?",
+        "answer": "Starch"
+      },
+      {
+        "question": "What is the total net weight of the product as shown on the product's label?",
+        "answer": "250"
+      },
+      {
+        "question": "What is the name of a thickener or stabilizer listed among the ingredients?",
+        "answer": "Maltodextrin"
+      },
+      {
+        "question": "Based on the text, what is one of the other potential contaminants mentioned?",
+        "answer": "Gluten"
+      }
+    ]
+  }
+]

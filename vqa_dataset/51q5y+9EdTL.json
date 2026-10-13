@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4b/4b8eabf3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall presentation style of the nutritional information?",
+        "answer": "tabular"
+      },
+      {
+        "question": "What is the font style used for the heading 'Supplement Facts'?",
+        "answer": "bold"
+      },
+      {
+        "question": "What is the primary color used for the text in the table?",
+        "answer": "black"
+      },
+      {
+        "question": "What units are used to measure sodium content?",
+        "answer": "mg"
+      },
+      {
+        "question": "What is the serving size expressed in?",
+        "answer": "teaspoons"
+      },
+      {
+        "question": "What is the unit for 'Calories'?",
+        "answer": "number"
+      },
+      {
+        "question": "What is the measurement scale for '% Daily Value'?",
+        "answer": "percentage"
+      },
+      {
+        "question": "What is the unit of measurement for serving size in grams?",
+        "answer": "grams"
+      },
+      {
+        "question": "What is the approximate number of servings per container?",
+        "answer": "twenty-seven"
+      },
+      {
+        "question": "What is the background color of the nutritional information panel?",
+        "answer": "white"
+      },
+      {
+        "question": "What is the style of the text in the 'Amount Per Serving' column?",
+        "answer": "regular"
+      },
+      {
+        "question": "Is the text aligned to left, right, or center in the table?",
+        "answer": "left"
+      },
+      {
+        "question": "What is the type of information presented?",
+        "answer": "nutrition"
+      },
+      {
+        "question": "What is the descriptor for the daily values reference?",
+        "answer": "percent"
+      },
+      {
+        "question": "What is the overall shape of the nutritional information panel?",
+        "answer": "rectangular"
+      }
+    ]
+  }
+]

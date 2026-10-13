@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/27/270a8cd1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the Nutrition Facts label's text?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the Nutrition Facts panel on the container?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the background color of the Nutrition Facts panel?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary font style used for the 'Nutrition Facts' header?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What type of information is predominantly displayed on the panel?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Considering the text size, how many servings are mentioned per container?",
+        "answer": "Twenty-five"
+      },
+      {
+        "question": "What unit of measurement is used for the serving size?",
+        "answer": "Tablespoon"
+      },
+      {
+        "question": "What is the numerical value listed for total carbohydrates per serving?",
+        "answer": "Ten"
+      },
+      {
+        "question": "What is the weight of one serving in grams, as indicated on the label?",
+        "answer": "Nineteen"
+      },
+      {
+        "question": "What is the color of the number indicating calories per serving?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the numerical value listed for calories per serving?",
+        "answer": "Forty"
+      },
+      {
+        "question": "What nutritional component has 15% of the daily value per serving?",
+        "answer": "VitaminC"
+      },
+      {
+        "question": "Is the text on the panel printed vertically or horizontally?",
+        "answer": "Vertically"
+      },
+      {
+        "question": "Based on the label's layout, what is the nature of the product itself?",
+        "answer": "Food"
+      },
+      {
+        "question": "What is the visual presentation style of the nutritional information?",
+        "answer": "tabular"
+      }
+    ]
+  }
+]

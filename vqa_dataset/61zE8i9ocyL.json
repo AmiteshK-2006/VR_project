@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5c/5cc45a6c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary substance mentioned in the detailed ingredient list shown in the image?",
+        "answer": "Magnesium"
+      },
+      {
+        "question": "Considering the provided text, what additional ingredient is explicitly listed as being natural?",
+        "answer": "Lemon"
+      },
+      {
+        "question": "Based on the visible text, what specific type of stevia is included in the product's composition?",
+        "answer": "Rebaudiana"
+      },
+      {
+        "question": "According to the label, what is one acid used in the blend for the main ingredient?",
+        "answer": "Citric"
+      },
+      {
+        "question": "What other ingredient contributes to the composition of the main component, indicated on the label?",
+        "answer": "Carbonate"
+      },
+      {
+        "question": "The label states that this product was produced in a facility that also processes what type of nut?",
+        "answer": "Tree"
+      },
+      {
+        "question": "Besides nuts, what common dairy product is mentioned as processed in the same facility?",
+        "answer": "Milk"
+      },
+      {
+        "question": "In addition to milk, what other animal product is listed as a possibility from the same facility?",
+        "answer": "Eggs"
+      },
+      {
+        "question": "What grain is noted as being processed in the facility where this item was made?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "Apart from nuts, dairy, eggs, and wheat, what additional allergen is mentioned concerning production?",
+        "answer": "Soy"
+      },
+      {
+        "question": "What is the word that immediately precedes the detailed ingredient list, based on the provided image?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the word that directly follows the detailed ingredient list, shown on the label?",
+        "answer": "Produced"
+      },
+      {
+        "question": "What single word describes the overall category that the listed text falls under?",
+        "answer": "Label"
+      },
+      {
+        "question": "What is the type of text seen on the image presented?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Based on the visible image, what is the overall font style of the text presented?",
+        "answer": "Sans-serif"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bd/bd5be0d4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape of the product packaging, what is its primary orientation?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Focusing on the textual elements, what is the predominant color scheme of the nutrition facts panel?",
+        "answer": "Black"
+      },
+      {
+        "question": "Observing the detailed nutritional information provided, what is the primary unit of measurement for the serving size?",
+        "answer": "Box"
+      },
+      {
+        "question": "Regarding the textual layout, what is the font style used to display the calorie counts both before and after cooking?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the visual prominence, what is the highest numerical value prominently displayed within the nutrition facts panel?",
+        "answer": "670"
+      },
+      {
+        "question": "Analyzing the visual hierarchy, what is the category of information most prominently featured at the top of the panel?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Regarding the layout of the nutrition information, what is the visual indicator used to separate different nutritional components?",
+        "answer": "Lines"
+      },
+      {
+        "question": "Considering the compositional elements, what is the dominant type of information displayed within the rectangular panel?",
+        "answer": "Text"
+      },
+      {
+        "question": "Analyzing the visual density, is the information layout sparse or dense?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Based on the prominent textual information, what ingredient category is explicitly listed in the ingredient list?",
+        "answer": "Mushrooms"
+      },
+      {
+        "question": "Considering the visual attributes of the text, what is the size of the font used for the 'Nutrition Facts' heading?",
+        "answer": "Large"
+      },
+      {
+        "question": "Observing the visual structure, how many columns are used to organize the nutritional information?",
+        "answer": "Two"
+      },
+      {
+        "question": "Regarding the image's visual style, is the overall design minimalistic or detailed?",
+        "answer": "Detailed"
+      },
+      {
+        "question": "Based on the color palette, what is the overall background color of the nutrition facts panel?",
+        "answer": "White"
+      },
+      {
+        "question": "Observing the visual presentation of the data, is the calorie information presented numerically or graphically?",
+        "answer": "Numerically"
+      }
+    ]
+  }
+]

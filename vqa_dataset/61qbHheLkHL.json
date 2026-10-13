@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ef/ef10091c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the primary glass component, as shown in the main image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the edges, what design feature is visibly present to enhance safety?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Based on the image's clarity, what appears to be the primary material used in construction?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Judging by the visual texture, what is the apparent surface finish of the glass?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What color is the primary glass component's main surface area, as depicted in the product image?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What color is the edge detailing visible along the perimeter of the main glass panel?",
+        "answer": "Teal"
+      },
+      {
+        "question": "What is the apparent thickness of the main glass component, as indicated by the image's annotations?",
+        "answer": "Eight"
+      },
+      {
+        "question": "Referring to the inset image, what specific material is shown as shattered fragments?",
+        "answer": "Glass"
+      },
+      {
+        "question": "According to the textual annotation, what safety feature is explicitly mentioned regarding the glass?",
+        "answer": "Tempered"
+      },
+      {
+        "question": "What term is used in the provided annotation to describe the corner treatment for safety?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Considering the visible edge treatment, how would you describe the overall edge profile of the component?",
+        "answer": "Beveled"
+      },
+      {
+        "question": "Based solely on the visual characteristics, what is the apparent level of transparency of the glass?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the implied state of the glass regarding its susceptibility to shattering, based on visual clues and annotations?",
+        "answer": "Safe"
+      },
+      {
+        "question": "What is the overall visual impression created by the minimalist aesthetic of this product?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Disregarding any textual annotations, what is the most dominant visual characteristic of the main object?",
+        "answer": "Glass"
+      }
+    ]
+  }
+]

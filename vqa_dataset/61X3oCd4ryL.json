@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/49/49f6ed7d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the provided text, what is the primary ingredient visibly listed, as per the image's text?",
+        "answer": "BUTTER"
+      },
+      {
+        "question": "Based on the image, what appears to be one of the secondary ingredients, as identified by the text?",
+        "answer": "OIL"
+      },
+      {
+        "question": "What word, repeatedly mentioned in the textual data within the image, suggests a type of ingredient?",
+        "answer": "SODIUM"
+      },
+      {
+        "question": "Examining the image's text, what other ingredient can be visually identified besides the already mentioned ones?",
+        "answer": "EXTRACT"
+      },
+      {
+        "question": "According to the image, what additional ingredient is explicitly named in the provided text?",
+        "answer": "BUTTER"
+      },
+      {
+        "question": "What is the descriptive term for the primary ingredient, as shown in the product image's text?",
+        "answer": "ISOLATED"
+      },
+      {
+        "question": "What type of butter, as indicated in the image's text, is a component of this product?",
+        "answer": "SHEA"
+      },
+      {
+        "question": "Judging by the image's text, what type of oil is present in the item's composition?",
+        "answer": "ALMOND"
+      },
+      {
+        "question": "What word in the textual data within the image appears to function as a descriptor, modifying the main ingredients?",
+        "answer": "NATURAL"
+      },
+      {
+        "question": "According to the textual data in the image, what is one of the components, likely an additive, included in the product?",
+        "answer": "CHLORIDE"
+      },
+      {
+        "question": "What ingredient, as mentioned within the image's text, seems to contribute to the product's consistency or texture?",
+        "answer": "HALURONATE"
+      },
+      {
+        "question": "Based on the visible text, what is a compound, possibly a salt, present in the product's composition?",
+        "answer": "GLUCONATE"
+      },
+      {
+        "question": "According to the text within the image, what is identified as a leaf-based additive to this product?",
+        "answer": "ROSMARINUS"
+      },
+      {
+        "question": "Considering the textual data, what is the name of the extract added to the product?",
+        "answer": "EXTRACT"
+      },
+      {
+        "question": "What word in the textual data describes the form of the Shea butter used?",
+        "answer": "ISOLATED"
+      }
+    ]
+  }
+]

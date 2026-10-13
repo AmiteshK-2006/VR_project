@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/71/7148e3b5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the textile shown in the provided image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visual texture, what is the most apparent surface characteristic of this fabric?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Based solely on visual inspection, what is the overall weave pattern of the fabric sample?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Judging by the image, what would you describe as the primary material composition of this item?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "From the image's perspective, what kind of finish does the fabric appear to possess?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the image reveal any noticeable sheen or glossiness to the fabric sample?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image, would you classify the fabric's weight as heavy, medium or light?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the apparent density of the fibers that make up the displayed textile?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Based purely on visual observation, does the fabric show any discernible patterns or designs?",
+        "answer": "No"
+      },
+      {
+        "question": "From the picture alone, can you define the textile's overall visual uniformity or irregularity?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Considering the appearance, how would you characterize the overall visual tone of the textile sample?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "Based on the visual evidence, does the fabric appear to be smooth or rough to the touch?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Is there any visible evidence of a pile or raised surface on the fabric sample?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent level of translucency or opacity of the fabric in the image?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What is the shape of the presented textile, as depicted in the image?",
+        "answer": "Rectangular"
+      }
+    ]
+  }
+]

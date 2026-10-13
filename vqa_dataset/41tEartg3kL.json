@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a9/a9ed24b5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color displayed on the phone's screen, as shown in the product image?",
+        "answer": "Teal"
+      },
+      {
+        "question": "What appears to be the primary material used for the phone case, based on visual inspection?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the image, what is the overall shape of the phone case being presented?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging by the image, what color is the phone case's visible border or frame?",
+        "answer": "Silver"
+      },
+      {
+        "question": "Based on the visual details, what seems to be the finish of the phone case's surface?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What is the apparent texture of the phone case in the provided product image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the phone case in the picture seem to have any noticeable patterns or designs printed on it?",
+        "answer": "No"
+      },
+      {
+        "question": "From the image, can you identify any visible cutouts or openings on the case for buttons or ports?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent level of fit between the phone and its case, as shown in the picture?",
+        "answer": "Snug"
+      },
+      {
+        "question": "Based on its appearance in the provided image, does the case seem to add significant bulk to the phone?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the color of the phone screen's clock digits shown in the product image?",
+        "answer": "White"
+      },
+      {
+        "question": "Judging from the image, how many visible buttons are depicted on the side of the phone case?",
+        "answer": "Two"
+      },
+      {
+        "question": "Based solely on the image, what is the general style of the phone case (e.g., rugged, minimalist, etc.)?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Does the image depict any noticeable branding or logos on the phone case itself?",
+        "answer": "No"
+      },
+      {
+        "question": "From the image, what type of display does the phone appear to have (e.g., curved, flat)?",
+        "answer": "Flat"
+      }
+    ]
+  }
+]

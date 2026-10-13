@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/05/0542cd39.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the dominant shape of the visible portion of this footwear?",
+        "answer": "Oval"
+      },
+      {
+        "question": "What is the predominant color of the main body of the shoe's visible upper?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe the texture apparent on the main white portion of the shoe's sole, based solely on visual observation.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Focusing only on the visible details, what color is the trim or accent stripe along the top of the shoe?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What material appears to constitute the majority of the visible shoe's construction, based on its visual characteristics?",
+        "answer": "Synthetic"
+      },
+      {
+        "question": "From a visual perspective only, how would you characterize the style or design of this footwear; is it sporty or formal?",
+        "answer": "Sporty"
+      },
+      {
+        "question": "Examining the visual details, what is the apparent condition of this item; is it new or worn?",
+        "answer": "New"
+      },
+      {
+        "question": "Based on its visible features, what is the likely intended function of this item; is it for casual or formal use?",
+        "answer": "Casual"
+      },
+      {
+        "question": "What is the apparent state of the product; is it clean or dirty based on visual inspection?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Judging only by visible features, what is the approximate size of this article; is it a child's shoe or an adult's shoe?",
+        "answer": "Child"
+      },
+      {
+        "question": "Considering solely the visible details, what kind of footwear is this article; is it a sandal, a sneaker, or a boot?",
+        "answer": "Sneaker"
+      },
+      {
+        "question": "Describe the visual pattern of the blue accent on the shoe's upper; is it solid, striped, or textured?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Based on visual evidence alone, is the overall design of this shoe minimalist or elaborate?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Considering solely what is visually apparent, what is the dominant visual element of the product; is it the color, shape, or texture?",
+        "answer": "Color"
+      },
+      {
+        "question": "Based only on what's visually observable, what part of the shoe is most prominently featured in this image; the sole, the upper, or the laces?",
+        "answer": "Sole"
+      }
+    ]
+  }
+]

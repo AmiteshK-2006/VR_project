@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/14/14e2f0af.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual appearance, what single word best describes the dominant text color on the product label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the image's visual details, what is the apparent text orientation on the food label?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Examining the image closely, what is the primary style of the text font used on this food label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "From a purely visual assessment, what material seems to be the base of this food product's label?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Judging from the image, what descriptive term best captures the text's overall visual density on this food label?",
+        "answer": "Dense"
+      },
+      {
+        "question": "What is the apparent visual texture of the label surface based on the image provided?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "If you had to describe the label's overall visual appearance, which single word would best convey its impression?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Visually, does the product's label show any noticeable logo or brand marking?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the visual clarity, what is the apparent legibility of the text on the product label?",
+        "answer": "High"
+      },
+      {
+        "question": "Judging from the visual elements, what is the apparent general condition of the provided product label?",
+        "answer": "Intact"
+      },
+      {
+        "question": "From a purely visual perspective, what seems to be the primary function of this text-based product label?",
+        "answer": "Informational"
+      },
+      {
+        "question": "Describe the visual arrangement of the text blocks on the product label in a single word.",
+        "answer": "Linear"
+      },
+      {
+        "question": "Considering the image, does the label contain any visual elements beyond the text?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Visually assessing the product label, what is the predominant text case?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Based on the visual evidence, is there any indication of special formatting for a specific part of the text?",
+        "answer": "No"
+      }
+    ]
+  }
+]

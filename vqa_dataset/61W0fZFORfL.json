@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f1/f1231d8d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the primary shape of the depicted wallet?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on visual texture, what material appears to be used for the wallet's construction?",
+        "answer": "Leather"
+      },
+      {
+        "question": "From the image, what is the dominant color of this particular wallet?",
+        "answer": "Black"
+      },
+      {
+        "question": "Judging by its visible features, what is the apparent closure mechanism of the wallet?",
+        "answer": "Snap"
+      },
+      {
+        "question": "Does the wallet appear to have any noticeable external pockets or compartments?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the image closely, are there any visible logos or branding elements on the wallet?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the visible construction, does the wallet seem to be of a rigid or flexible consistency?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Based solely on its visual characteristics, what size category would you classify this wallet?",
+        "answer": "Compact"
+      },
+      {
+        "question": "Judging by the image's visual details, what is the apparent surface finish of the wallet’s leather?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From the perspective provided, does the wallet show any visible stitching or seams?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the dimensions in the image, is the wallet quite thin or relatively thick?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Does the provided image reveal the presence of any visible embellishments on the wallet?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on its visual features, would you classify this wallet as a wristlet or a standard wallet?",
+        "answer": "Wallet"
+      },
+      {
+        "question": "Observing the image, does the wallet seem to be designed for holding multiple cards?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering its visible features, would you consider this wallet to be a minimalist design?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

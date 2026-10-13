@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b4/b4178bad.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the bottle's label, excluding text?",
+        "answer": "Purple"
+      },
+      {
+        "question": "What is the overall shape of the supplement container?",
+        "answer": "Cylinder"
+      },
+      {
+        "question": "What material appears to constitute the bottle?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the primary text indicating the supplement's active ingredient?",
+        "answer": "Biotin"
+      },
+      {
+        "question": "What is the dosage of the active ingredient, expressed numerically?",
+        "answer": "5000"
+      },
+      {
+        "question": "What unit of measurement follows the numerical dosage?",
+        "answer": "mcg"
+      },
+      {
+        "question": "What is stated regarding the presence of artificial colors?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the stated number of tablets contained within?",
+        "answer": "200"
+      },
+      {
+        "question": "What is the primary stated use, other than supplementation?",
+        "answer": "Hair"
+      },
+      {
+        "question": "What additional benefit, related to cognitive function, is mentioned?",
+        "answer": "Brain"
+      },
+      {
+        "question": "What is the style of text used for the brand name?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the design pattern featured on the label?",
+        "answer": "Geometric"
+      },
+      {
+        "question": "What kind of supplement is this according to the label?",
+        "answer": "Dietary"
+      },
+      {
+        "question": "What type of cap does the bottle appear to have?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the visible text indicating the brand?",
+        "answer": "SOLIMO"
+      }
+    ]
+  }
+]

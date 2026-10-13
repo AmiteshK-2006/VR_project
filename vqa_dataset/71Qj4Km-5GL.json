@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fd/fdf1ed83.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the phone case, as shown in the main image?",
+        "answer": "Purple"
+      },
+      {
+        "question": "What appears to be the primary material of the phone case, judging by its texture?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the image, what is the overall shape of the phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on visual inspection, what seems to be the design style of the case?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the color of the text printed on the phone case, as shown in the main image?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What kind of text is printed on the back of the phone case?",
+        "answer": "Inspirational"
+      },
+      {
+        "question": "Describe the texture portrayed by the phone case's surface in the provided image.",
+        "answer": "Matte"
+      },
+      {
+        "question": "What color is the smaller text at the bottom of the case's design?",
+        "answer": "Pink"
+      },
+      {
+        "question": "Judging by the image, what seems to be the finish of the phone case's surface?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Considering the various sides displayed, is there an apparent camera cutout visible?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What color are the side buttons, based on the side view images?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Does the provided image show any visible branding or logos on the phone case?",
+        "answer": "No"
+      },
+      {
+        "question": "From the image, does the case appear to be flexible or rigid?",
+        "answer": "Rigid"
+      },
+      {
+        "question": "Based on the images, are there any visible cutouts for ports or speakers?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the visual details, what is the general style of the typography used?",
+        "answer": "Sans-serif"
+      }
+    ]
+  }
+]

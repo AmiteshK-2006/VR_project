@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/05/05134efd.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the cookie's surface?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the overall shape of the presented baked good?",
+        "answer": "Round"
+      },
+      {
+        "question": "What kind of baked good is depicted in this image?",
+        "answer": "Cookie"
+      },
+      {
+        "question": "What is the approximate texture of the cookie's top?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What color are the most prevalent visible inclusions?",
+        "answer": "Red"
+      },
+      {
+        "question": "Can you describe the general visual appearance of the cookie?",
+        "answer": "Chewy"
+      },
+      {
+        "question": "What other colors of inclusions are visible within the cookie?",
+        "answer": "Green"
+      },
+      {
+        "question": "Besides red, what other colored inclusions are subtly present?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the image, what appears to be the main ingredient?",
+        "answer": "Flour"
+      },
+      {
+        "question": "What is the apparent consistency of the cookie dough?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What seems to be the size relative to a typical cookie?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Considering the visible ingredients, what is a likely flavor element?",
+        "answer": "Berry"
+      },
+      {
+        "question": "What is a plausible description of the cookie's visual character?",
+        "answer": "Homebaked"
+      },
+      {
+        "question": "Based on appearance, what is a possible inclusion type?",
+        "answer": "Fruit"
+      },
+      {
+        "question": "Does the cookie show signs of being freshly baked?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/07/07adba72.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the depicted rectangular item?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the image, what appears to be the primary material used in the product's construction?",
+        "answer": "Neoprene"
+      },
+      {
+        "question": "Based on the visual evidence, what is the overall shape of the presented object?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging from the image, what is the apparent texture of the surface of the item shown?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the product exhibit any visible seams or edges, according to the provided image?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent thickness of the item, as perceived from the provided photograph?",
+        "answer": "Thin"
+      },
+      {
+        "question": "From the visual inspection of the item, are there any noticeable patterns or designs present?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image, is the product's surface glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the visible finish or coating of the item, as depicted in the photograph?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Examining the picture, what is the degree of flexibility visually suggested by the item?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Does the item seem to be pliable or rigid, based on visual cues in the provided image?",
+        "answer": "Pliable"
+      },
+      {
+        "question": "Judging by the photograph, is the product's overall surface even or uneven?",
+        "answer": "Even"
+      },
+      {
+        "question": "Does the image show the presence of any folds or creases in the item presented?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the image show any embellishments, logos, or branding elements on the product?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the visual appearance suggest the product is designed for a specific purpose?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/04/04569a59.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the text printed on the product's packaging, specifically describing its hue and saturation?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "Considering the overall design, what is the most noticeable characteristic of the text's font style, which is consistent throughout the packaging?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the primary shape of the product's packaging, based on its visible outline and dimensions?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the material of the product's packaging, judging by its surface texture and apparent stiffness?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Based on the visible text, what specific ingredient is explicitly stated as not being added to this product?",
+        "answer": "Phthalates"
+      },
+      {
+        "question": "What is another ingredient the text explicitly states is absent from the product's composition?",
+        "answer": "Parabens"
+      },
+      {
+        "question": "According to the packaging text, what type of sulfate is confirmed to be excluded from this product's formula?",
+        "answer": "Sulfate"
+      },
+      {
+        "question": "What is the additional significant component mentioned as being absent from the product's manufacturing process?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Regarding the claims on the packaging, what specific type of ingredient is the manufacturer explicitly stating is not included?",
+        "answer": "Animal"
+      },
+      {
+        "question": "Disregarding the text content, what overall aesthetic style would best describe the visual presentation of the product's packaging?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the apparent background color of the product's packaging, providing a contrast to the text?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the general arrangement of the text on the packaging, specifically considering its vertical or horizontal organization?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Considering the product's text presentation, what is the relative size of the typeface utilized, whether it's large or small?",
+        "answer": "Large"
+      },
+      {
+        "question": "Regarding the text's visual presentation, what is the overall spacing or kerning between the lines of text?",
+        "answer": "Even"
+      },
+      {
+        "question": "Observing the lettering closely, what is the case of the text on the package, whether uppercase, lowercase, or a combination thereof?",
+        "answer": "Uppercase"
+      }
+    ]
+  }
+]

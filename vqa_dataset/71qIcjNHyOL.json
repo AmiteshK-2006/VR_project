@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9f/9fd80ed9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's visual presentation, what is the dominant typeface used to display the ingredient list?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the primary color used in the text, judging by its visual appearance?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the image, what is the capitalization style employed for the word 'INGREDIENTS'?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Does the text have any visible visual effects such as shadows or underlines?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the overall alignment of the text block within the image?",
+        "answer": "Left"
+      },
+      {
+        "question": "Observing the visual spacing, what is the arrangement of the ingredient items?",
+        "answer": "List"
+      },
+      {
+        "question": "Judging from the visual density, is the text spaced tightly or loosely?",
+        "answer": "Loosely"
+      },
+      {
+        "question": "Considering the image, are there any visual separators used between the ingredient groups?",
+        "answer": "None"
+      },
+      {
+        "question": "From a visual standpoint, what is the approximate number of lines in the text block?",
+        "answer": "Six"
+      },
+      {
+        "question": "Considering the text's visual structure, how many main ingredient categories are explicitly listed?",
+        "answer": "One"
+      },
+      {
+        "question": "Examining the visual presentation, how is the ingredient 'Sodium Benzoate' presented?",
+        "answer": "Lowercase"
+      },
+      {
+        "question": "Based on the text's visual appearance, what is the text's approximate font size?",
+        "answer": "Medium"
+      },
+      {
+        "question": "From the visual characteristics of the text, can we infer any specific font family?",
+        "answer": "Unknown"
+      },
+      {
+        "question": "In the visual presentation, what punctuation marks are used at the end of each line?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the visual style of the parentheses used to clarify the ingredient's role?",
+        "answer": "Standard"
+      }
+    ]
+  }
+]

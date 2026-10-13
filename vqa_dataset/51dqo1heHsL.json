@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b5/b578e95c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the dominant visual presentation, what is the primary color displayed across the product's surface?",
+        "answer": "Silver"
+      },
+      {
+        "question": "Based on the reflective qualities observed, what seems to be the predominant surface texture of this item?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the form, what single word best describes the overall three-dimensional shape of this object?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Judging by the visual sheen, what material is most likely used in the construction of this product?",
+        "answer": "Glass"
+      },
+      {
+        "question": "What visual characteristic, besides the color, most significantly describes the product's finish?",
+        "answer": "Shiny"
+      },
+      {
+        "question": "From the image, what type of visual effect appears across the object's reflective surface?",
+        "answer": "Streaks"
+      },
+      {
+        "question": "Disregarding the sheen, what is the most noticeable visual pattern found on the product's exterior?",
+        "answer": "Marbled"
+      },
+      {
+        "question": "Considering the lack of visible components, is this item single-piece or multiple-piece in construction?",
+        "answer": "Single"
+      },
+      {
+        "question": "Does the object's visual appearance suggest any type of specific function or use?",
+        "answer": "Decorative"
+      },
+      {
+        "question": "In relation to the overall design, how would you describe the product's visual style?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Based on the visible elements, is there any text, emblem, or branding displayed on the product?",
+        "answer": "None"
+      },
+      {
+        "question": "Does the image suggest any noticeable imperfections, scratches, or other surface damage?",
+        "answer": "None"
+      },
+      {
+        "question": "Given its appearance, would you consider this item transparent, translucent, or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "From the image, what can you visually infer about the object's weight based on its apparent material?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "Is there any discernible pattern, other than marbling, present in the product's reflective surface?",
+        "answer": "No"
+      }
+    ]
+  }
+]

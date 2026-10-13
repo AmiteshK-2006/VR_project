@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b5/b56059e4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the overall texture of the displayed fabric sample?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on visual inspection, what is the most apparent material?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Considering the image, what kind of weave is noticeable in the fabric?",
+        "answer": "Ribbed"
+      },
+      {
+        "question": "Describe the visual appearance of the fabric's surface, considering its uniformity?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "From the image, what would you say is the predominant shade of gray displayed?",
+        "answer": "Light"
+      },
+      {
+        "question": "What is the apparent level of sheen or glossiness observed on the fabric?",
+        "answer": "Slight"
+      },
+      {
+        "question": "Describe the directionality of the visible texture within the fabric sample?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Does the fabric in the image demonstrate any noticeable pattern or print?",
+        "answer": "No"
+      },
+      {
+        "question": "What kind of visual impression does the fabric give, regarding its density?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Based on the image's details, how would you characterize the fabric's hand feel?",
+        "answer": "Soft"
+      },
+      {
+        "question": "If you were to touch the fabric, what would be its likely feel?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging solely by the image, what is the fabric's apparent weight or thickness?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Does the image show any visible imperfections or irregularities in the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering its appearance, what is the likely drape of this fabric?",
+        "answer": "Good"
+      }
+    ]
+  }
+]

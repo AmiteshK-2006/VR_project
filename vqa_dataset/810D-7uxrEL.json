@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f3/f382b2f6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the prominent text and numerical data, what is the primary function of this product's label?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Focusing on the topmost section, what key information about the product's servings is highlighted?",
+        "answer": "Container"
+      },
+      {
+        "question": "Looking at the central numerical data, what is the total calorie count per serving, as explicitly stated?",
+        "answer": "210"
+      },
+      {
+        "question": "Examining the fat breakdown, what is the specific amount of saturated fat, in grams, per serving?",
+        "answer": "1g"
+      },
+      {
+        "question": "In the 'Total Fat' section, what is the numerical value representing total fat, in grams, per serving?",
+        "answer": "2.5g"
+      },
+      {
+        "question": "Within the carbohydrate section, how many grams of total carbohydrates are there in a single serving?",
+        "answer": "38g"
+      },
+      {
+        "question": "Regarding sugars, what is the total amount of sugars, in grams, contained in each serving?",
+        "answer": "2g"
+      },
+      {
+        "question": "In the context of added sugars, what is the explicit quantitative value listed in grams per serving?",
+        "answer": "0g"
+      },
+      {
+        "question": "What is the stated amount of protein, in grams, provided per serving according to the label?",
+        "answer": "1g"
+      },
+      {
+        "question": "In reference to the vitamin and mineral content, what is the numerical value given for iron, in milligrams per serving?",
+        "answer": "2mg"
+      },
+      {
+        "question": "Based on the label's information, what is the amount of potassium present in milligrams, per serving?",
+        "answer": "113mg"
+      },
+      {
+        "question": "What is the quantity of thiamine listed, in milligrams per serving of this product?",
+        "answer": "0.5mg"
+      },
+      {
+        "question": "According to the label's specifications, what is the value listed for riboflavin, in milligrams, per serving?",
+        "answer": "0.2mg"
+      },
+      {
+        "question": "What is the amount of niacin, in milligrams, as specified on the product's nutrition facts label?",
+        "answer": "3mg"
+      },
+      {
+        "question": "Referring to the folate content, what is the listed amount in mcg DFE per serving?",
+        "answer": "220mcg"
+      }
+    ]
+  }
+]

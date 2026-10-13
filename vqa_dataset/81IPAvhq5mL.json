@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a9/a9dcb9f5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the bag's main panel, as displayed in the image?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the overall shape of the product packaging as it appears in the provided image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material appears to constitute the primary packaging of the depicted product?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Considering the image, what is the apparent texture of the product's packaging material?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image, what is the main method of communicating product information?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the apparent type of print used for the text found on the product's packaging?",
+        "answer": "Screen"
+      },
+      {
+        "question": "What is the color of the secondary text and design elements on the product's packaging?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on visual inspection, what kind of product is contained within the packaging?",
+        "answer": "Food"
+      },
+      {
+        "question": "Describe the overall visual style of the product packaging shown in the provided image.",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What seems to be the primary type of graphic element used on the product's packaging?",
+        "answer": "Logos"
+      },
+      {
+        "question": "What is the color of the logo at the bottom of the packaging, based on the image?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the format of the nutritional information displayed on the packaging?",
+        "answer": "Table"
+      },
+      {
+        "question": "What language appears to be used in the text displayed prominently on the bag?",
+        "answer": "English"
+      },
+      {
+        "question": "Considering the image, what is the orientation of the text on the product packaging?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the apparent visual weight of the text relative to the color of the packaging?",
+        "answer": "High"
+      }
+    ]
+  }
+]

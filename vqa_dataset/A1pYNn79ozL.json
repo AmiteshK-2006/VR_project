@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fe/fe3d7c70.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the displayed fabric sample?",
+        "answer": "Teal"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent fabric type?",
+        "answer": "Felt"
+      },
+      {
+        "question": "Based on the image, what is the overall finish of the fabric surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Describe the visual uniformity of the color across the fabric sample?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Judging by the image, is the fabric's pile length long or short?",
+        "answer": "Short"
+      },
+      {
+        "question": "What is the visual appearance regarding the fabric's density?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Considering the visible texture, how would you describe the fabric's hand-feel?",
+        "answer": "Coarse"
+      },
+      {
+        "question": "Does the fabric sample exhibit any noticeable patterns or designs?",
+        "answer": "No"
+      },
+      {
+        "question": "Based solely on the image, what seems to be the thickness of the fabric?",
+        "answer": "Thick"
+      },
+      {
+        "question": "From the image, how even is the color distribution across the fabric?",
+        "answer": "Even"
+      },
+      {
+        "question": "What is the visible impression of the fabric's weight relative to similar textiles?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "Describe the visual impression of the fabric's drape or flow?",
+        "answer": "Stiff"
+      },
+      {
+        "question": "Does the image show any sheen or gloss on the surface of the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the visible state of the fabric's surface —smooth or rough?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Can you describe the visual clarity of the fabric's fibers?",
+        "answer": "Obscured"
+      }
+    ]
+  }
+]

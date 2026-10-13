@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f3/f32522ca.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the text on the supplement facts label?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the shape of the container implied by the label's dimensions?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the primary ingredient listed on the supplement facts label?",
+        "answer": "Turmeric"
+      },
+      {
+        "question": "What is the form of the supplement as stated on the label?",
+        "answer": "Capsule"
+      },
+      {
+        "question": "What unit of measurement is used for the amount per serving?",
+        "answer": "mg"
+      },
+      {
+        "question": "What is the color of the background of the 'Supplement Facts' label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the type of information presented on the label?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What plant species is the turmeric extract derived from, as shown on the label?",
+        "answer": "Curcuma"
+      },
+      {
+        "question": "What is the stated percentage of curcuminoids in the extract?",
+        "answer": "95"
+      },
+      {
+        "question": "What is the format of the information shown in the table on the label?",
+        "answer": "tabular"
+      },
+      {
+        "question": "What term indicates the serving size on the label?",
+        "answer": "Serving"
+      },
+      {
+        "question": "What is the descriptor used for the amount of each component?",
+        "answer": "Amount"
+      },
+      {
+        "question": "What term denotes the relative proportion to recommended intake?",
+        "answer": "Daily"
+      },
+      {
+        "question": "What is the style of the text font in the label heading?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the term indicating the lack of an established daily value?",
+        "answer": "Established"
+      }
+    ]
+  }
+]

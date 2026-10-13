@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/01/01716c46.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the dominant shape exhibited by this footwear item, as viewed from the sole?",
+        "answer": "Oval"
+      },
+      {
+        "question": "Focusing on the visible outer layer, what primary color characterizes the shoe's upper?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Based on visual inspection, what appears to be the material composing the majority of the visible shoe upper?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Observing the sole's texture, would you describe it as smooth, rough, or something else?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Regarding the sole's color, what is the predominant shade observed on the visible underside?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Analyzing the image, what seems to be the primary manufacturing technique used for this shoe's construction?",
+        "answer": "Stitched"
+      },
+      {
+        "question": "Judging from the image, what is the apparent condition of the shoe’s surface, showing signs of wear or damage?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Examining the overall design, how would you categorize the style of this shoe — casual, formal, or other?",
+        "answer": "Casual"
+      },
+      {
+        "question": "What is the visible pattern or design element on the outer edge of the shoe's sole?",
+        "answer": "None"
+      },
+      {
+        "question": "Based solely on visual assessment, what is the apparent thickness of the shoe's sole?",
+        "answer": "Thin"
+      },
+      {
+        "question": "From the perspective shown, what is the most obvious finishing treatment on the shoe’s surface?",
+        "answer": "Polished"
+      },
+      {
+        "question": "Judging from the visual evidence, does the shoe exhibit any visible seams or stitching on its upper?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the most prominent visual texture of the shoe’s upper, as suggested by the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the details shown, what could be inferred about the stiffness of the sole?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Based on visual characteristics, what type of shoe does the image depict?",
+        "answer": "Flat"
+      }
+    ]
+  }
+]

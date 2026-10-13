@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/86/86664589.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the visual text, what grape variety constitutes the majority of this wine's blend?",
+        "answer": "Cabernet"
+      },
+      {
+        "question": "Based on the image's text, what percentage of Cabernet Sauvignon is present in this wine?",
+        "answer": "Eighty"
+      },
+      {
+        "question": "According to the visible text, what is the secondary grape in this wine blend?",
+        "answer": "Merlot"
+      },
+      {
+        "question": "What percentage of Merlot is indicated in the visible blend composition?",
+        "answer": "Twenty"
+      },
+      {
+        "question": "What is the overall style of the font used to present the blend details?",
+        "answer": "Italic"
+      },
+      {
+        "question": "Describe the visual arrangement of the percentage and grape varietal information?",
+        "answer": "Stacked"
+      },
+      {
+        "question": "What is the color of the ink used to write the wine blend composition?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the approximate size of the text representing the blend proportions?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the background color or surface where the text is printed?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the visual detail, does the text seem to be printed or handwritten?",
+        "answer": "Printed"
+      },
+      {
+        "question": "Observing the font, does it appear to be serif or sans-serif?",
+        "answer": "Serif"
+      },
+      {
+        "question": "Judging by visual appearance, is the text aligned left, center, or right?",
+        "answer": "Left"
+      },
+      {
+        "question": "What character separates the percentage from the grape varietal?",
+        "answer": "Space"
+      },
+      {
+        "question": "Considering the visual detail, is there any visible underline to the text?",
+        "answer": "No"
+      },
+      {
+        "question": "Based solely on visual observation, is the text bold or regular weight?",
+        "answer": "Regular"
+      }
+    ]
+  }
+]

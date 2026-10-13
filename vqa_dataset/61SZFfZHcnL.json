@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e7/e75211d4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the illustrated product's primary function, what single-word descriptor best defines its purpose?",
+        "answer": "Support"
+      },
+      {
+        "question": "Based solely on the image's visual depiction, what is the dominant color scheme of the product?",
+        "answer": "Beige"
+      },
+      {
+        "question": "From the illustration's perspective, what is the most prominent material suggested for the product's construction?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Observing the product's structural configuration, what single word describes its overall form?",
+        "answer": "Tubular"
+      },
+      {
+        "question": "Considering the visual representation of size, what term best summarizes the item's dimensions?",
+        "answer": "Small"
+      },
+      {
+        "question": "Focusing strictly on the visual details, what design element stands out as a defining characteristic of the product?",
+        "answer": "Seams"
+      },
+      {
+        "question": "Referring only to the image's depiction, is there any visible texturing on the product's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What single word describes the shape of the product's top opening, based purely on visual assessment?",
+        "answer": "Round"
+      },
+      {
+        "question": "Examining the image meticulously, what is the apparent overall condition of the product?",
+        "answer": "New"
+      },
+      {
+        "question": "Based purely on visual observation, does the product exhibit any visible patterns or designs?",
+        "answer": "None"
+      },
+      {
+        "question": "What single word describes the product's apparent weight or density, based only on visual cues?",
+        "answer": "Light"
+      },
+      {
+        "question": "Based on the image alone, what is the most likely material used for the visible straps or bands?",
+        "answer": "Elastic"
+      },
+      {
+        "question": "What single word describes the overall visual aesthetic of the item, based only on visual evidence?",
+        "answer": "Simple"
+      },
+      {
+        "question": "From the visual data alone, is the depicted product symmetrical or asymmetrical?",
+        "answer": "Symmetrical"
+      },
+      {
+        "question": "Based solely on the image, is the product intended for single or multiple users?",
+        "answer": "Single"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d9/d9e37217.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall background color of the nutritional label shown in the image?",
+        "answer": "Purple"
+      },
+      {
+        "question": "What is the font color of the text on the nutritional label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the style of the text font used for 'Guaranteed Analysis'?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the text that immediately follows 'Crude Protein'?",
+        "answer": "Min"
+      },
+      {
+        "question": "What is the percentage value listed after 'Crude Protein (Min.)'?",
+        "answer": "9%"
+      },
+      {
+        "question": "What is the percentage value listed after 'Crude Fat (Min.)'?",
+        "answer": "6%"
+      },
+      {
+        "question": "What is the percentage value listed after 'Crude Fat (Max.)'?",
+        "answer": "9%"
+      },
+      {
+        "question": "What is the percentage value listed after 'Crude Fiber (Max.)'?",
+        "answer": "2%"
+      },
+      {
+        "question": "What is the percentage value listed after 'Moisture (Max.)'?",
+        "answer": "8%"
+      },
+      {
+        "question": "What is the shape of the nutritional label in the given image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the overall visual appearance, what is the likely material of the label itself?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Does the label display any noticeable logos or graphics beyond text?",
+        "answer": "No"
+      },
+      {
+        "question": "Is the text displayed horizontally or vertically oriented across the label?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Does the provided image show any visible damage, folds, or creases on the label itself?",
+        "answer": "No"
+      },
+      {
+        "question": "Are there any obvious patterns, textures or designs printed on the surface?",
+        "answer": "No"
+      }
+    ]
+  }
+]

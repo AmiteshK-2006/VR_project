@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ff/ffb0a65b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme visually apparent on the product's label, primarily conveying its brand identity and overall aesthetic?",
+        "answer": "Orange"
+      },
+      {
+        "question": "Considering the visual layout, what specific type of information is prominently displayed across the majority of the label's surface area, serving as the primary content?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Judging from the text's visual presentation, what specific aspect of the product's composition is prominently highlighted, signifying its key ingredient or characteristic?",
+        "answer": "Juice"
+      },
+      {
+        "question": "Based on the visual clarity and prominence of the text, what percentage figure is explicitly stated, indicating the concentration of juice in the product?",
+        "answer": "74"
+      },
+      {
+        "question": "What is the format used to present the detailed breakdown of the product's nutritional constituents?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the visual style or typeface employed for the title of the nutritional information section, indicating a formal or regulatory requirement?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What units are used for the visual representation of the serving size measurement, shown in the upper left of the label?",
+        "answer": "Ounces"
+      },
+      {
+        "question": "What word is used on the label to describe the number of servings contained within this specific product packaging?",
+        "answer": "Servings"
+      },
+      {
+        "question": "What is the visual characteristic of the font that is used to write the text in the first line of the product label?",
+        "answer": "Large"
+      },
+      {
+        "question": "Considering the label's overall layout, what is the prominent visual feature that stands out and aids in easy identification and comprehension of the detailed nutritional information?",
+        "answer": "Columns"
+      },
+      {
+        "question": "What is the visual characteristic of the borders around the nutritional values, suggesting a defined structure within the label's overall design?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the format used to visually display the product's nutritional content, facilitating a clear comparison of different components?",
+        "answer": "Rows"
+      },
+      {
+        "question": "Observing the visual design, what word indicates the type of information the listed table presents regarding the product's contents?",
+        "answer": "Facts"
+      },
+      {
+        "question": "What is the visual presentation style of the numeric values related to the daily percentage values within the nutritional information section?",
+        "answer": "Small"
+      },
+      {
+        "question": "What word is used to indicate the quantitative information provided in the table, specifically about the product's energy content?",
+        "answer": "Calories"
+      }
+    ]
+  }
+]

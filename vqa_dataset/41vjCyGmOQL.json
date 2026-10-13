@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/82/8298ab79.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what is the dominant color scheme employed in the design of this nutrition facts label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary font style used for the prominent text 'Nutrition Facts' on the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "In terms of structural organization, what layout does this food label employ to present its various nutritional components?",
+        "answer": "tabular"
+      },
+      {
+        "question": "What is the texture of the label's surface, as observed in the provided image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Examining the label's typography, what is the font weight predominantly used throughout the text?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the shape of the label in the image; taking into account its overall dimensions and proportions?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visual details, what is the material the food label appears to be printed on?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the size of a single serving, as indicated by the text on the nutrition label?",
+        "answer": "Two"
+      },
+      {
+        "question": "According to the label, what is the total number of calories contained within a single serving of the product?",
+        "answer": "Fifty"
+      },
+      {
+        "question": "Observing the details in the provided image, what unit of measurement is used to quantify the amount of protein per serving?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the approximate number of servings included in the entire container of the food item?",
+        "answer": "Three"
+      },
+      {
+        "question": "From the image, identify the unit of measurement used for the amount of sodium present per serving?",
+        "answer": "Milligrams"
+      },
+      {
+        "question": "What is the primary language used in the text on the nutrition facts label?",
+        "answer": "English"
+      },
+      {
+        "question": "What is the method or format utilized for presenting the percentage of daily value for each nutrient?",
+        "answer": "Numeric"
+      },
+      {
+        "question": "Considering the visible textual elements, what term is used to specify the daily values of the nutrients?",
+        "answer": "Percent"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c5/c5fc0666.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's visual presentation, what single word best describes the overall style of the lettering on the product's label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the visible text, what specific type of grape juice is indicated as an ingredient?",
+        "answer": "Concord"
+      },
+      {
+        "question": "What is the visual and textually confirmed state of the grape juice concentrate ingredient?",
+        "answer": "Organic"
+      },
+      {
+        "question": "From the label's text, identify the second listed ingredient after filtered water.",
+        "answer": "Concord"
+      },
+      {
+        "question": "In terms of the label's appearance, what color is the background of the ingredient listing shown in the image?",
+        "answer": "Green"
+      },
+      {
+        "question": "What word precedes the list of ingredients, serving as a clear label identifier?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What descriptive term modifies the 'water' ingredient mentioned on the product label?",
+        "answer": "Filtered"
+      },
+      {
+        "question": "Describe the visual appearance of the text on the product label in terms of its weight or thickness.",
+        "answer": "Regular"
+      },
+      {
+        "question": "Based on the visible label, what is the form of the second ingredient listed?",
+        "answer": "Concentrate"
+      },
+      {
+        "question": "According to the label, what is the main liquid component used in the product?",
+        "answer": "Water"
+      },
+      {
+        "question": "What word best describes the appearance of the text's orientation on the label?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Based on the image, what is the general state of the printed text's clarity?",
+        "answer": "Clear"
+      },
+      {
+        "question": "If we consider the context shown, what does the label primarily communicate about the product?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Visually inspect the text; what color is the printed lettering on the product's label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the case of the letters used to print the label's text?",
+        "answer": "Uppercase"
+      }
+    ]
+  }
+]

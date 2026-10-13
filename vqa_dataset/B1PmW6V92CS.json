@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/05/056177b3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color observed across the entire fabric surface?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering the visible texture, what is the apparent surface feel of the material?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image, what is the most prominent textural characteristic of the fabric?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Judging from the visual uniformity, what is the overall appearance of the fabric?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Considering the subtle variations in tone, what is the fabric's apparent finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the visual texture of the fabric suggest a woven or non-woven structure?",
+        "answer": "Woven"
+      },
+      {
+        "question": "From the image, what is the general impression of the fabric's weight or density?",
+        "answer": "Light"
+      },
+      {
+        "question": "What is the overall visual impression of the color saturation in the presented fabric?",
+        "answer": "Low"
+      },
+      {
+        "question": "What is the suggested fiber type given the fabric's visible characteristics?",
+        "answer": "Unknown"
+      },
+      {
+        "question": "If held up to the light, how much light would the material likely transmit?",
+        "answer": "Little"
+      },
+      {
+        "question": "Based purely on visual evidence, how would you describe the sheen of the fabric?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "From a purely visual perspective, how would you describe the drape of the material?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What is the suggested structure of the fibers, given their visual appearance?",
+        "answer": "Straight"
+      },
+      {
+        "question": "Considering the visible details, does the material look densely or sparsely woven?",
+        "answer": "Densely"
+      },
+      {
+        "question": "Based on the image alone, what is the most obvious visual characteristic of the fabric?",
+        "answer": "Color"
+      }
+    ]
+  }
+]

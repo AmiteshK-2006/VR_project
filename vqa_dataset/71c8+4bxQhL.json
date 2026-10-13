@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c0/c03e9439.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the soup inside the container?",
+        "answer": "Pinkish"
+      },
+      {
+        "question": "What type of container holds the soup product?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the primary label text indicating the soup's main ingredients?",
+        "answer": "Turkey"
+      },
+      {
+        "question": "What is the secondary ingredient explicitly mentioned on the label?",
+        "answer": "Rice"
+      },
+      {
+        "question": "What is the shape of the soup container shown in the image?",
+        "answer": "Round"
+      },
+      {
+        "question": "What is the text indicating the preparation method suggested on the label?",
+        "answer": "Hot"
+      },
+      {
+        "question": "What is the brand name clearly visible on the product packaging?",
+        "answer": "Amazon"
+      },
+      {
+        "question": "What additional descriptor is applied to the rice ingredient on the label?",
+        "answer": "Wild"
+      },
+      {
+        "question": "What is the word describing the food product being sold?",
+        "answer": "Soup"
+      },
+      {
+        "question": "What is the visible color of the printed text on the label?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What material seems to constitute the lid of the container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What kind of kitchen is the brand name associated with?",
+        "answer": "Amazon"
+      },
+      {
+        "question": "Considering the container's overall form, what is its general shape?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the overall design style of the label, considering its visual cues?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the texture of the soup itself, based on the image's visual information?",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

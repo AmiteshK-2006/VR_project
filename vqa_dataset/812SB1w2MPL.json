@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ab/ab1596c5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the dominant geometrical shape of the product container?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the primary color of the cap, positioned at the top of the container?",
+        "answer": "Green"
+      },
+      {
+        "question": "What appears to be the material used for the product's main body, judging by its surface appearance?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Observing the label, what type of information is prominently displayed in a tabular format?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Focusing on the label's design, what kind of visual indicator suggests environmental responsibility?",
+        "answer": "Recycling"
+      },
+      {
+        "question": "Based on the label's text and visual cues, what is the presumed content of the product, as suggested by its description?",
+        "answer": "Shot"
+      },
+      {
+        "question": "What color is the primary label background of this product container, contrasting with the text?",
+        "answer": "White"
+      },
+      {
+        "question": "Judging by the style of the text on the label, what is the overall aesthetic or design classification of the label?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the apparent texture of the product container's main body, as determined from the image's resolution?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Examining the label closely, what type of code, used for product tracking, is visible on the container?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "What is the general shape of the bottom of the bottle, considering its structural function?",
+        "answer": "Circular"
+      },
+      {
+        "question": "Can you identify the main color of the smaller text on the labels, as different from the general label color?",
+        "answer": "Black"
+      },
+      {
+        "question": "What type of seal, visually detectable, is implied by the cap's design and position on the bottle?",
+        "answer": "Screw"
+      },
+      {
+        "question": "What kind of information is visually conveyed on the label, concerning the contents' usage instructions?",
+        "answer": "Directions"
+      },
+      {
+        "question": "Ignoring the product name, is there any other text visible on the container that's clearly readable?",
+        "answer": "Facts"
+      }
+    ]
+  }
+]

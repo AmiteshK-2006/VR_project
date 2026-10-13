@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/db/dba85d4d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the packaging visible in the image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What material appears to constitute the main body of the packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Considering the rectangular shape of the interior compartments, what might the product's shape suggest?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the size and arrangement, what is the most likely function of the smaller compartment?",
+        "answer": "Accessory"
+      },
+      {
+        "question": "Judging from the image, what seems to be the overall condition of the packaging shown?",
+        "answer": "New"
+      },
+      {
+        "question": "Describe the texture of the visible exterior surface of the packaging?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What seems to be the most obvious manufacturing process of the packaging material?",
+        "answer": "Folding"
+      },
+      {
+        "question": "Disregarding the product itself, what is the general design aesthetic of the packaging box?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the apparent print type used on the visible instructions in the packaging?",
+        "answer": "Black"
+      },
+      {
+        "question": "Does the visible packaging utilize any form of additional sealing or adhesive?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the packaging provide any visual indication of the contents' fragility?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by its appearance, is the packaging designed for single or multiple product units?",
+        "answer": "Single"
+      },
+      {
+        "question": "What is the general style of the visible product packaging?",
+        "answer": "Retail"
+      },
+      {
+        "question": "Based on the visible printed information, what language is primarily used?",
+        "answer": "English"
+      },
+      {
+        "question": "Considering the image only, what is the visible color of the product components?",
+        "answer": "Black"
+      }
+    ]
+  }
+]

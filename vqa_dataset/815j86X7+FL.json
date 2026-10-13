@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b1/b16bcb78.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual structure, what is the primary function of this rectangular item, judging by its textual content and organization?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the dominant color scheme observed throughout this item's design, primarily composed of text blocks?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Focusing on the numerical data presented, what specific unit is consistently used to express the quantities of various nutritional components?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Considering the detailed presentation of nutritional information, what is the term describing the amount per a single serving instance?",
+        "answer": "Serving"
+      },
+      {
+        "question": "What is the label's primary method for categorizing and presenting the various listed nutritional values, typically used in nutritional labeling?",
+        "answer": "Table"
+      },
+      {
+        "question": "Based on the visual layout, which textual element prominently identifies the product's content and relevant nutritional information?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Disregarding the numerical data, what is the term used in the label to denote the total number of units the package contains?",
+        "answer": "Servings"
+      },
+      {
+        "question": "Examining the textual sections, what specific part of the human body does the label's data pertain to, relevant to the product's consumption?",
+        "answer": "Health"
+      },
+      {
+        "question": "What is the visual style applied to the main numerical data, such as calories and fat content, emphasizing their significance?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the textual element, besides \u201cNutrition,\u201d used as the primary title at the top of this product label?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Based on the visual organization, what common metric related to food consumption is used, frequently seen in nutritional labeling?",
+        "answer": "Calories"
+      },
+      {
+        "question": "What is the type of information presented in terms of percentages, indicating relative proportions of different nutritional components?",
+        "answer": "Daily"
+      },
+      {
+        "question": "What is the visual element used as a separator between textual content and numerical data, typical in tabulated information?",
+        "answer": "Lines"
+      },
+      {
+        "question": "Regarding the arrangement of the data, what type of format is predominantly used to structure the nutritional facts, typical in food labeling?",
+        "answer": "Columns"
+      },
+      {
+        "question": "What is the type of textual information shown, describing the overall dietary contribution of the listed ingredients?",
+        "answer": "Values"
+      }
+    ]
+  }
+]

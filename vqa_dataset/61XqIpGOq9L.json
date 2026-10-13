@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e5/e5a8fae7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the text within the rectangular box?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the area containing the listed ingredients?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the font style, what is the overall visual impression of the text?",
+        "answer": "Formal"
+      },
+      {
+        "question": "What is the most prominent text displayed within the image, visually?",
+        "answer": "Inactive"
+      },
+      {
+        "question": "What is the background color behind the text describing the ingredients?",
+        "answer": "White"
+      },
+      {
+        "question": "What type of information does this box primarily present regarding the product?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Describing the text's weight, is it bold or slender?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Considering the visual layout, how many lines of text are present?",
+        "answer": "Five"
+      },
+      {
+        "question": "What is the case of lettering used for all visible words, upper or lower?",
+        "answer": "Upper"
+      },
+      {
+        "question": "Regarding the border around the text, what is its style?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Judging by the visual characteristics, what is the texture of the presented text?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Is there any visual evidence of a logo or brand name shown?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the typeface or font style used for the words?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Observing the image, how is the text aligned, vertically?",
+        "answer": "Left"
+      },
+      {
+        "question": "Based on the visual appearance, is the text easy or difficult to read?",
+        "answer": "Easy"
+      }
+    ]
+  }
+]

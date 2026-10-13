@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1c/1cda5cdb.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color scheme of the nutritional facts label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the primary textual element used to highlight crucial nutritional information such as calories, or sugars?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Examining the text's organization, what is the format employed to present nutritional data?",
+        "answer": "Table"
+      },
+      {
+        "question": "Based on the textual layout, how many key categories of nutrients are individually listed in detail?",
+        "answer": "Eight"
+      },
+      {
+        "question": "Observing the numerical values, what is the value indicated for calories per serving?",
+        "answer": "Ten"
+      },
+      {
+        "question": "Focusing on the serving size notation, what is the unit of measurement used for the serving size?",
+        "answer": "Cherry"
+      },
+      {
+        "question": "In terms of nutritional information, what is the numerical value shown for total carbohydrates per serving?",
+        "answer": "Two"
+      },
+      {
+        "question": "Regarding the total sugars content, what is the numeric value provided per serving in grams?",
+        "answer": "One"
+      },
+      {
+        "question": "What unit of measurement is appended to the numerical values representing carbohydrate and sugar quantities?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Considering the design elements, is there any use of graphical elements, such as symbols or icons, to enhance the presentation?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the word that precedes the detailed list of nutritional components?",
+        "answer": "Amount"
+      },
+      {
+        "question": "What is the word that denotes the total number of servings contained within a single package?",
+        "answer": "Servings"
+      },
+      {
+        "question": "Referring to the textual layout, what is the measurement unit used to define serving size?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the word that immediately follows the phrase 'per container'?",
+        "answer": "Serv"
+      },
+      {
+        "question": "What is the word directly following the phrase 'per serving'?",
+        "answer": "Calories"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/eb/ebcea3b0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout and textual organization, what is the primary function conveyed by this image?",
+        "answer": "Information"
+      },
+      {
+        "question": "Based on the prominent header at the top, what specific type of information is predominantly presented?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Observing the numerical values in the 'Amount per serving' section, what is the total calorie count per serving?",
+        "answer": "90"
+      },
+      {
+        "question": "Focusing on the 'Total Fat' entry, what is the quantitative value listed in grams?",
+        "answer": "0"
+      },
+      {
+        "question": "Regarding the 'Total Carbohydrate' section, specify the amount in grams indicated for a single serving?",
+        "answer": "22"
+      },
+      {
+        "question": "Looking at the 'Dietary Fiber' line, how many grams of fiber are present in one serving?",
+        "answer": "3"
+      },
+      {
+        "question": "In the 'Total Sugars' section, what is the number of grams indicated for a single serving?",
+        "answer": "5"
+      },
+      {
+        "question": "Checking the 'Protein' entry, what is the amount in grams?",
+        "answer": "2"
+      },
+      {
+        "question": "Examining the 'Sodium' content, how many milligrams are reported per serving?",
+        "answer": "60"
+      },
+      {
+        "question": "Focusing on the 'Calcium' details, what is the milligram amount shown per serving?",
+        "answer": "33"
+      },
+      {
+        "question": "Regarding 'Iron' content, how many milligrams are present in a single serving?",
+        "answer": "1"
+      },
+      {
+        "question": "In the 'Potassium' information, how many milligrams are specified for one serving?",
+        "answer": "371"
+      },
+      {
+        "question": "What is the specified serving size in cups?",
+        "answer": "3/4"
+      },
+      {
+        "question": "What is the measurement unit used for the serving size?",
+        "answer": "Cup"
+      },
+      {
+        "question": "What is the weight of a serving size in grams?",
+        "answer": "110"
+      }
+    ]
+  }
+]

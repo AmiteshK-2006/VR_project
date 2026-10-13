@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ac/ac76a360.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color prominently displayed on the product packaging, as shown in the image?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the image, what appears to be the dominant shape of the product's packaging, disregarding any minor details?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on visual observation of the product image, what material seems to be used for the product packaging?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the most noticeable color of the text prominently shown on the packaging, judging from the image provided?",
+        "answer": "White"
+      },
+      {
+        "question": "Observing the image carefully, what word is most prominently displayed on the product packaging, disregarding smaller text?",
+        "answer": "Basic"
+      },
+      {
+        "question": "Judging from the provided image, what is the overall texture of the product's packaging, based on visual characteristics?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the product packaging in the image show any obvious visible patterns or designs, apart from text and logo?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the main graphic element displayed on the packaging, other than text, as shown in the image?",
+        "answer": "Logo"
+      },
+      {
+        "question": "From the image, what appears to be the product's implied usage based on visual cues alone?",
+        "answer": "Medical"
+      },
+      {
+        "question": "Based on the image, what language is predominantly used on the product's packaging?",
+        "answer": "English"
+      },
+      {
+        "question": "What is the noticeable style of the font used for the prominent text on the product packaging, as seen in the image?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on visual inspection, what is the overall color scheme of the product packaging in the image?",
+        "answer": "Monochromatic"
+      },
+      {
+        "question": "Does the image suggest the presence of any noticeable texture variations on the product's packaging, such as embossing?",
+        "answer": "No"
+      },
+      {
+        "question": "What brand name is clearly visible on the product packaging presented in the image?",
+        "answer": "Basiccare"
+      },
+      {
+        "question": "Can you identify the e-commerce platform logo visible on the product image?",
+        "answer": "Amazon"
+      }
+    ]
+  }
+]

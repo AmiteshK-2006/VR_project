@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ca/ca3b1211.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color dominating the box's design, as visually apparent?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the box's shape, what geometric term best describes it?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the material of the product packaging, judging by its visual properties?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Based on the visible text, what seems to be the product's primary function or category?",
+        "answer": "Tea"
+      },
+      {
+        "question": "Describing the surface texture of the box, what word best captures its visual appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What seems to be the overall color scheme of the product packaging design?",
+        "answer": "Monochromatic"
+      },
+      {
+        "question": "Can you describe the visual style of the design elements on the box, in one word?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What kind of graphic design elements are noticeably present on the box's surface?",
+        "answer": "Abstract"
+      },
+      {
+        "question": "Judging by its visible dimensions relative to the human silhouette, what is the size of the package?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the apparent finish of the box's surface, from its visual characteristics?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the image, is there any visible indication of the product's weight?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent condition of the product packaging, based on its visual representation?",
+        "answer": "New"
+      },
+      {
+        "question": "Based solely on the visible text, what is the apparent brand name associated with this product?",
+        "answer": "Twinings"
+      },
+      {
+        "question": "Does the box display any noticeable scuffs, damage, or other imperfections based on visual inspection?",
+        "answer": "No"
+      },
+      {
+        "question": "Can the image offer any visual details about the contents beyond the product packaging itself?",
+        "answer": "No"
+      }
+    ]
+  }
+]

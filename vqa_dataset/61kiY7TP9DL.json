@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2a/2a22eb14.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary textual element displayed prominently across the top of this product image?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Considering the visual layout, what specific dietary information does this image predominantly present?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Observing the visual structure, what is the stated serving size of the product depicted?",
+        "answer": "Cup"
+      },
+      {
+        "question": "Based on the image's visual data, what unit of measurement is used for the serving size?",
+        "answer": "Half"
+      },
+      {
+        "question": "In the context of the image's visual content, what is the total number of servings per container?",
+        "answer": "Fourteen"
+      },
+      {
+        "question": "What is the numerical value for the total amount of calories per serving shown visually on the product?",
+        "answer": "OneHundredFifty"
+      },
+      {
+        "question": "According to the visual representation, how many calories are derived from fat per serving?",
+        "answer": "Seventy"
+      },
+      {
+        "question": "What is the visually presented quantity of total fat in grams per serving?",
+        "answer": "Eight"
+      },
+      {
+        "question": "Based on the image, what is the quantity of saturated fat, expressed in grams, per serving?",
+        "answer": "Five"
+      },
+      {
+        "question": "What is the visually indicated amount of cholesterol, in milligrams, per serving?",
+        "answer": "Thirty"
+      },
+      {
+        "question": "Visually observed from the image, what is the amount of sodium, in milligrams, per serving?",
+        "answer": "ThirtyFive"
+      },
+      {
+        "question": "What is the visually shown quantity of potassium, in milligrams, per serving?",
+        "answer": "FortyFive"
+      },
+      {
+        "question": "According to the visual data provided, how many grams of total carbohydrates are there per serving?",
+        "answer": "Fifteen"
+      },
+      {
+        "question": "Based on the visual information, what is the quantity of protein, in grams, per serving?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the overall visual presentation style of the nutritional information presented?",
+        "answer": "tabular"
+      }
+    ]
+  }
+]

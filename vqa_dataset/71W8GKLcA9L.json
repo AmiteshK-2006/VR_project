@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f7/f76593e2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall structure, what is the primary design element of the presented nutritional information?",
+        "answer": "Table"
+      },
+      {
+        "question": "Focusing on the textual presentation, what is the dominant font style used throughout the nutrition facts?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the indicated color scheme of the text in this nutrition label image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Examining the numerical values, what is the total amount of calories per serving?",
+        "answer": "180"
+      },
+      {
+        "question": "In terms of nutritional components, what is the quantity of total fat listed in grams per serving?",
+        "answer": "16g"
+      },
+      {
+        "question": "Concerning saturated fat content, what amount is specified in grams for a single serving?",
+        "answer": "6g"
+      },
+      {
+        "question": "What is the specified amount of sodium, in milligrams, for one serving of this food product?",
+        "answer": "490mg"
+      },
+      {
+        "question": "What is the total carbohydrate content, in grams, as indicated in the nutrition information?",
+        "answer": "2g"
+      },
+      {
+        "question": "Regarding the sugar content, what is the total amount of sugars, in grams, per serving?",
+        "answer": "1g"
+      },
+      {
+        "question": "What is the protein content, listed in grams, in a single serving of this food item?",
+        "answer": "9g"
+      },
+      {
+        "question": "What is the indicated amount of vitamin D, in micrograms, per serving, according to the label?",
+        "answer": "0.5mcg"
+      },
+      {
+        "question": "According to the label's nutritional information, what is the quantity of calcium present in milligrams, per serving?",
+        "answer": "20mg"
+      },
+      {
+        "question": "Observing the label, what is the amount of iron, expressed in milligrams, per serving?",
+        "answer": "0.3mg"
+      },
+      {
+        "question": "As per the label, what is the quantity of potassium, in milligrams, included in one serving of the food?",
+        "answer": "90mg"
+      },
+      {
+        "question": "Considering the context and overall visual arrangement, what is the overall shape of the nutritional label?",
+        "answer": "Rectangle"
+      }
+    ]
+  }
+]

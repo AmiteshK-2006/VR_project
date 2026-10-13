@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/40/40fa9734.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the juice container's body?",
+        "answer": "White"
+      },
+      {
+        "question": "What color is the cap on top of the juice container?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What is the overall shape of the juice container?",
+        "answer": "Jug"
+      },
+      {
+        "question": "What material appears to be used for the juice container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is printed prominently on the front of the container?",
+        "answer": "Florida"
+      },
+      {
+        "question": "What type of beverage is indicated on the label?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What is the general texture of the container's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Is there a handle present on the container for pouring?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What kind of information is displayed on the back of the container?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Does the container have any visible barcodes or other markings?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is the text on the label primarily in uppercase or lowercase?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "What is the apparent size of the juice container in terms of volume?",
+        "answer": "Large"
+      },
+      {
+        "question": "Based on the image, what is the shape of the container's handle?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What is the brand name visible on the container?",
+        "answer": "365"
+      },
+      {
+        "question": "Describe the style of the font used for the product name.",
+        "answer": "Sans-serif"
+      }
+    ]
+  }
+]

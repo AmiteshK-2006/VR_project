@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/86/861a6660.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape and the presence of text, what is the primary function of this item as depicted in the image?",
+        "answer": "Label"
+      },
+      {
+        "question": "Describing the textual content, what is the nature of the information displayed across the item?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Focusing on the visual presentation, what color predominantly characterizes the background of the item?",
+        "answer": "White"
+      },
+      {
+        "question": "Observing the typography, what is the overall typeface or font style used for the textual content?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Analyzing the text's spatial arrangement, what is the orientation of the majority of the words?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Regarding the visual clarity, what is the overall legibility of the text presented in the image?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Judging from the text size and density, what is the approximate length of the provided text?",
+        "answer": "Long"
+      },
+      {
+        "question": "Regarding the visual style, what is the overall appearance of the text in terms of its formatting?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Considering the text's formatting, what is the primary means used to separate different components of the text?",
+        "answer": "Linebreaks"
+      },
+      {
+        "question": "Considering the image's resolution, what is the overall visual quality of the text in terms of sharpness?",
+        "answer": "Sharp"
+      },
+      {
+        "question": "Considering the content, what is the broad category of the product whose ingredients are listed?",
+        "answer": "Food"
+      },
+      {
+        "question": "Considering the length and density of the text, what is the likely level of detail in the ingredient list?",
+        "answer": "High"
+      },
+      {
+        "question": "Considering the visual presentation of the ingredient list, how many distinct sections or blocks of text are readily discernible?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the style of the bordering line around the text block in the image?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Considering the text, what is the overall tone of this item's presentation?",
+        "answer": "Informative"
+      }
+    ]
+  }
+]

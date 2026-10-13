@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ea/ea3d7c9a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the shipping box's exterior?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the overall shape of the product's packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material appears to constitute the shipping container?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Describe the texture of the outer packaging material.",
+        "answer": "Rough"
+      },
+      {
+        "question": "What color is the printed label prominently displayed?",
+        "answer": "White"
+      },
+      {
+        "question": "What kind of tape is used to secure the box's closure?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the predominant color featured in the label's design?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the visual style of the label's graphic pattern?",
+        "answer": "Geometric"
+      },
+      {
+        "question": "Is the box sealed or open based on visual observation?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "What is the general condition of the outer packaging?",
+        "answer": "Intact"
+      },
+      {
+        "question": "Does the box show any visible damage or wear?",
+        "answer": "No"
+      },
+      {
+        "question": "What is written on the label, indicating the product within?",
+        "answer": "Dish"
+      },
+      {
+        "question": "What is the brand name subtly visible on the label?",
+        "answer": "Solimo"
+      },
+      {
+        "question": "What type of label is it (e.g., sticker, printed directly)?",
+        "answer": "Printed"
+      },
+      {
+        "question": "Considering the box's size, what type of item could it contain?",
+        "answer": "Ceramics"
+      }
+    ]
+  }
+]

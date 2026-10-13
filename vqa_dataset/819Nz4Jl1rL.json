@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ce/ce2ef1f0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the dominant three-dimensional shape of this object?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the apparent surface texture of the object, based on the visible detail?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What single word best describes the prevailing color of the item shown?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on its appearance, what is the likely material composition of this object?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Disregarding the ends, what is the visual effect across the central cylindrical surface?",
+        "answer": "Grainy"
+      },
+      {
+        "question": "Considering the image resolution, are there visible signs of surface imperfections?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the overall visual impression of the object's finish, given the detailed view?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging by its look and feel, what is the visual impression of the object's weight?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "Considering its form and material, what is the likely function or purpose of this object?",
+        "answer": "Spacer"
+      },
+      {
+        "question": "Based on visual cues, is the object's surface uniformly colored or variegated?",
+        "answer": "Variegated"
+      },
+      {
+        "question": "What is the overall impression of the manufacturing process of the displayed object?",
+        "answer": "Cast"
+      },
+      {
+        "question": "Can you identify any specific design features or surface patterns on the item?",
+        "answer": "None"
+      },
+      {
+        "question": "Does the image suggest that the cylindrical object features any noticeable markings?",
+        "answer": "No"
+      },
+      {
+        "question": "From its appearance, what can you infer about the object's intended use or application?",
+        "answer": "Industrial"
+      },
+      {
+        "question": "Based on the visual characteristics, what is the presumed production method for the item?",
+        "answer": "Machined"
+      }
+    ]
+  }
+]

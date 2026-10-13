@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ef/efab9803.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme used to highlight the nutritional information?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What is the background color of the nutritional information panel?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the primary unit of measurement used for the listed nutrients?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What nutrient is shown as having the highest quantity in grams?",
+        "answer": "Protein"
+      },
+      {
+        "question": "What is the shape of the boxes containing nutrient quantities?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the font style used for the nutrient names?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the text color of the numerical values for the nutrients?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe the visual separation between each nutrient block",
+        "answer": "Lines"
+      },
+      {
+        "question": "What is the visual element separating the numerical values from their labels?",
+        "answer": "Lines"
+      },
+      {
+        "question": "What is the style of the numbers indicating nutrient quantity?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What kind of information is prominently displayed in this image?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the overall visual design style of the nutritional panel?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the visual style of the text denoting the quantity of each nutrient?",
+        "answer": "Large"
+      },
+      {
+        "question": "How is the information regarding the naturally occurring amino acids presented?",
+        "answer": "Footnote"
+      },
+      {
+        "question": "What is the general arrangement of the data presented in this image?",
+        "answer": "Vertical"
+      }
+    ]
+  }
+]

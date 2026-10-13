@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/15/15410fc3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the primary function of this depicted rectangular item?",
+        "answer": "Label"
+      },
+      {
+        "question": "Focusing on the textual content, what is the single word that describes the kind of information provided in this image?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Based on the text's appearance, what is the most prominent font style used throughout the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the apparent color of the background upon which the product's textual information is printed?",
+        "answer": "White"
+      },
+      {
+        "question": "Looking at the text's arrangement, what is the prevailing alignment of the words and phrases visible on this item?",
+        "answer": "Left"
+      },
+      {
+        "question": "Observing the image carefully, what is the most noticeable case of the lettering on this product's label?",
+        "answer": "Upper"
+      },
+      {
+        "question": "Considering the words' clarity, what is the overall readability of the text found on the displayed food label?",
+        "answer": "High"
+      },
+      {
+        "question": "Analyzing the text's arrangement, is the text on the label single-spaced or double-spaced?",
+        "answer": "Single"
+      },
+      {
+        "question": "Regarding the visual aspect, what is the general shape of this product's ingredient information label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent relative size of the text compared to the size of the rectangle?",
+        "answer": "Small"
+      },
+      {
+        "question": "Judging by the visual features of the text, what printing method might have been used for the label?",
+        "answer": "Offset"
+      },
+      {
+        "question": "Focusing on the visual contrast, what is the main contrast employed in this label's design?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the apparent texture of the surface on which the ingredients are printed based on its visual properties?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Examining the lettering's attributes, what style would you assign to the font used in the header of this label?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Judging by the label's visual features, would you describe the overall style as minimalist or ornate?",
+        "answer": "Minimalist"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1d/1db8d820.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the depicted brewing method, what is the primary form factor of the tea product shown?",
+        "answer": "Bag"
+      },
+      {
+        "question": "Based on the image's visual cues, what is the apparent dominant color of the tea bag packaging?",
+        "answer": "Green"
+      },
+      {
+        "question": "Judging by the image's visual details, what specific type of tea is suggested by the packaging's text?",
+        "answer": "Green"
+      },
+      {
+        "question": "From the visual information provided, what seems to be an additional ingredient in the tea blend?",
+        "answer": "Matcha"
+      },
+      {
+        "question": "What shape is suggested for the tea bag itself, as implied by the accompanying illustrations?",
+        "answer": "Triangular"
+      },
+      {
+        "question": "Considering the images of the tea brewing process, what type of container is used for preparation?",
+        "answer": "Mug"
+      },
+      {
+        "question": "What is the suggested method of preparation for iced tea, as indicated visually in the instructions?",
+        "answer": "Steeping"
+      },
+      {
+        "question": "Based on the packaging image and the illustrated instructions, how is the tea bag designed to be handled?",
+        "answer": "String"
+      },
+      {
+        "question": "According to the visual instructions, what is the approximate steeping time for hot tea preparation?",
+        "answer": "30"
+      },
+      {
+        "question": "What is the visual indication of the quantity of tea bags provided in a single package?",
+        "answer": "48"
+      },
+      {
+        "question": "From the visual design elements, what is the prominent branding or logo visible on the package?",
+        "answer": "Happy"
+      },
+      {
+        "question": "What appears to be the language used for most of the text shown on the packaging?",
+        "answer": "Japanese"
+      },
+      {
+        "question": "What is the visual indication of the suggested serving temperature for iced tea preparation?",
+        "answer": "Cold"
+      },
+      {
+        "question": "Based on the visual representation of the instructions, what is the suggested water volume for brewing?",
+        "answer": "150ml"
+      },
+      {
+        "question": "Observing the packaging, what seems to be the manufacturer or brand associated with this product?",
+        "answer": "Itoh"
+      }
+    ]
+  }
+]

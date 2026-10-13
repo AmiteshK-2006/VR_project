@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e3/e39cb4db.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the packaging, as observed from the displayed tube?",
+        "answer": "White"
+      },
+      {
+        "question": "Describing the overall shape of the product container, what is its form?",
+        "answer": "Tube"
+      },
+      {
+        "question": "What material appears to constitute the primary packaging of the product?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the surface of the tube, what is its tactile quality?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on visual inspection, what type of labeling is prominently featured on the back?",
+        "answer": "Text"
+      },
+      {
+        "question": "What appears to be the primary method of product identification on the package?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "Discerning the color of the text on the packaging, which color is visible?",
+        "answer": "Black"
+      },
+      {
+        "question": "Given the visible text, what category of information does a significant portion of this text belong to?",
+        "answer": "Drug"
+      },
+      {
+        "question": "Examining the bottom edge of the tube, what type of closure is visible?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Observing the top of the tube, describe the shape of its opening.",
+        "answer": "Open"
+      },
+      {
+        "question": "What is the apparent condition of the tube, considering any visible signs of use?",
+        "answer": "New"
+      },
+      {
+        "question": "Judging by the image, what is the general size of the product container?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the apparent style of the product's packaging design?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Does the tube display any other noticeable logos or emblems besides the text?",
+        "answer": "No"
+      },
+      {
+        "question": "Regarding the printing, what is the overall quality of the text and markings?",
+        "answer": "Clear"
+      }
+    ]
+  }
+]

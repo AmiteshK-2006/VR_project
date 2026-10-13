@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/50/502535e9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the interior door shown?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary material visibly composing the door?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Considering the paneling, what is the architectural style of this door?",
+        "answer": "Craftsman"
+      },
+      {
+        "question": "How many distinct raised panels are visible on the door's face?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the shape of each individual raised panel on the door?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the overall shape of the door, excluding the frame?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the apparent finish of the door's surface texture.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What type of visible hardware is on the door?",
+        "answer": "Handle"
+      },
+      {
+        "question": "What color is the visible door handle or knob?",
+        "answer": "Gold"
+      },
+      {
+        "question": "What material seems to constitute the door's frame?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Is the door shown in an open or closed position in the image?",
+        "answer": "Ajar"
+      },
+      {
+        "question": "Considering the door's design, is it best suited for interior or exterior use?",
+        "answer": "Interior"
+      },
+      {
+        "question": "What is the apparent condition of the door's surface?",
+        "answer": "Clean"
+      },
+      {
+        "question": "What kind of flooring is partially visible beyond the open door?",
+        "answer": "Wood"
+      },
+      {
+        "question": "What is the overall visual impression of the door's design?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

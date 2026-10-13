@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/de/de529639.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the textual information shown, what specific type of juice concentrate is mentioned among the ingredients?",
+        "answer": "Blackberry"
+      },
+      {
+        "question": "Based on the provided text, what is one of the acids listed as an ingredient in the product?",
+        "answer": "Citric"
+      },
+      {
+        "question": "What kind of flavoring is noted in the ingredient list, specified as a natural ingredient?",
+        "answer": "Vanilla"
+      },
+      {
+        "question": "According to the text, what kind of glycerin is used in the product's composition?",
+        "answer": "Vegetable"
+      },
+      {
+        "question": "What is the source of water mentioned in the ingredient list of this product?",
+        "answer": "Deionized"
+      },
+      {
+        "question": "From the textual information, what kind of processing facility is the product made in?",
+        "answer": "Facility"
+      },
+      {
+        "question": "According to the label, besides tree nuts and soy, what other allergen is the product made in the presence of?",
+        "answer": "Shellfish"
+      },
+      {
+        "question": "What is mentioned as an ingredient that adds sweetness and moisture?",
+        "answer": "Glycerin"
+      },
+      {
+        "question": "Describe the type of flavor added which originates from plants?",
+        "answer": "Natural"
+      },
+      {
+        "question": "What adjective describes the origin of the blackberry juice concentrate?",
+        "answer": "Organic"
+      },
+      {
+        "question": "According to the label, what is the designation of the facility that processes the product?",
+        "answer": "Facility"
+      },
+      {
+        "question": "What single word best describes the form of the product's text display?",
+        "answer": "Label"
+      },
+      {
+        "question": "What is the overall textual presentation format, conveying the product's details?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Identify the primary function of the text on the product, pertaining to its composition?",
+        "answer": "List"
+      },
+      {
+        "question": "What is the single word to describe the nature of the information shown about potential cross-contamination?",
+        "answer": "Warning"
+      }
+    ]
+  }
+]

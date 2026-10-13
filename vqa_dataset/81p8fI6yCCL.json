@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fa/fa4a35bb.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the food product shown in the plastic container?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What appears to be the primary texture of the food product, based on its visual appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the shape of the container holding the food item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material is the container primarily made of, judging from its visual characteristics?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the image, what type of container is used to package this food product?",
+        "answer": "Tub"
+      },
+      {
+        "question": "Based on the image, what seems to be the consistency of the food inside the container?",
+        "answer": "Creamy"
+      },
+      {
+        "question": "What is the overall visual appearance of the food's surface?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Does the food product appear to have any visible chunks or pieces within its structure?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the image, what is the general level of gloss or shine on the food's surface?",
+        "answer": "Slight"
+      },
+      {
+        "question": "What kind of label is prominently displayed on the container's side?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Based on visual inspection, is the food's color completely uniform or are there variations?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What appears to be the approximate level of the food inside its container?",
+        "answer": "Full"
+      },
+      {
+        "question": "Judging from the image, what is the clarity or transparency of the container?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Does the container show any significant markings or text besides the label?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the visible condition of the container's surface?",
+        "answer": "Clean"
+      }
+    ]
+  }
+]

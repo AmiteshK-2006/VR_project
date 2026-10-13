@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d3/d3c104da.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual presentation, what is the dominant color scheme employed on the label?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the primary font style used throughout the ingredient listing and allergen information?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the visual layout, what is the text orientation on the food label?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the text's alignment relative to the edges of the label, considering both sections?",
+        "answer": "Left"
+      },
+      {
+        "question": "In terms of textual hierarchy, what term is significantly emphasized within the provided text?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Disregarding case, what is the first word in the primary text block denoting the components?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the general textual style applied to the allergen warnings, compared to the main ingredient list?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "In the ingredient section, which specific ingredient is listed after the main pasta component?",
+        "answer": "Tomato"
+      },
+      {
+        "question": "What is the visual style of the text containing 'Contains wheat ingredients'?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Judging purely by visual appearance, what is the text's approximate font size across the label?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the visual prominence of the words indicating the manufacturing process?",
+        "answer": "Subordinate"
+      },
+      {
+        "question": "What kind of textual layout is used to present the allergy information?",
+        "answer": "Paragraph"
+      },
+      {
+        "question": "Describe the visual texture of the textual background on the food label.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall visual effect created by the typefaces and arrangement?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Observing solely the image, what is the apparent condition or state of the label?",
+        "answer": "Clean"
+      }
+    ]
+  }
+]

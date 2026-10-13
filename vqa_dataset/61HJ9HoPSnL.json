@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0a/0a0d1ff8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout, what is the predominant textual element depicted on the presented nutritional information panel?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the numerical value prominently displayed, representing the caloric content per serving?",
+        "answer": "160"
+      },
+      {
+        "question": "Focusing on the dietary fiber details, what percentage of the daily recommended value is visually indicated?",
+        "answer": "32%"
+      },
+      {
+        "question": "Observing the 'Total Fat' section, what quantity in grams is specified for the fat content?",
+        "answer": "0.5g"
+      },
+      {
+        "question": "In the context of the image, what is the primary color scheme used for the nutrition facts display?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on visual inspection, what unit is consistently used for measuring the quantity of various nutrients?",
+        "answer": "g"
+      },
+      {
+        "question": "What specific nutrient is identified as having a daily value of 15%, as visually presented?",
+        "answer": "Iron"
+      },
+      {
+        "question": "What measurement unit appears next to the potassium quantity in the nutrition information?",
+        "answer": "mg"
+      },
+      {
+        "question": "Referring solely to what is visually evident, what word appears directly above the caloric value?",
+        "answer": "Calories"
+      },
+      {
+        "question": "In the visual context of the provided image, what is the indicated serving size in cups?",
+        "answer": "1/4"
+      },
+      {
+        "question": "What word describes the visual format of the nutritional information?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the overall shape of the nutrition facts display area?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What type of information is presented in the image, as indicated by the prominent header?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Based on visual inspection of the nutritional information, what is the unit for measuring potassium?",
+        "answer": "mg"
+      },
+      {
+        "question": "What is the visual style or typeface used for the major headings and values?",
+        "answer": "Sans-serif"
+      }
+    ]
+  }
+]

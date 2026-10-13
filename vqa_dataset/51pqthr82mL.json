@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a3/a3ef0ede.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the depicted pharmaceutical item?",
+        "answer": "Capsule"
+      },
+      {
+        "question": "What dominant color characterizes the visible surface of the pill?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the provided scale, what is the approximate length of the capsule?",
+        "answer": "One"
+      },
+      {
+        "question": "Describe the visible texture of the pharmaceutical item's exterior.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image, what seems to be the primary material of this item?",
+        "answer": "Tablet"
+      },
+      {
+        "question": "Does the capsule exhibit any discernible markings or logos on its surface?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the general appearance of the capsule's ends?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Considering the image's context, what is the item's likely purpose?",
+        "answer": "Medicine"
+      },
+      {
+        "question": "What is the visual impression of the capsule's surface finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "From the scale, approximately what is the width of this capsule?",
+        "answer": "Half"
+      },
+      {
+        "question": "Is the visible portion of the capsule uniformly colored?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What type of measurement units are shown in the image alongside the capsule?",
+        "answer": "Centimeters"
+      },
+      {
+        "question": "What is the background color against which the capsule is displayed?",
+        "answer": "Red"
+      },
+      {
+        "question": "Are there any visible cracks or imperfections on the capsule's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the capsule appear to be whole or broken in the image?",
+        "answer": "Whole"
+      }
+    ]
+  }
+]

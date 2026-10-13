@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8c/8c770bf3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the depicted product's label, considering its rectangular form and the slight curvature at the bottom?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary color scheme utilized across the entire label, predominated by a light neutral hue?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the primary font style employed throughout the text blocks, exhibiting a clean, sans-serif appearance?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the predominant color of the text against the label's background, providing high contrast for readability?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the text's alignment within the label's layout, which uniformly positions words to maintain order?",
+        "answer": "Left"
+      },
+      {
+        "question": "Considering the label's structure, what is the overall text arrangement based on consistent alignment and separation of sections?",
+        "answer": "Block"
+      },
+      {
+        "question": "Considering the label's textual content, what is the main topic communicated to the reader, concerning the product's composition?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Given the presence of words like 'organic' and 'wheat', what is the apparent nature of the product, indicating its source and content?",
+        "answer": "Food"
+      },
+      {
+        "question": "Based on the listed components, what is the primary ingredient denoted in the initial section of the ingredient list?",
+        "answer": "Flour"
+      },
+      {
+        "question": "What term, in relation to the ingredient list, indicates the presence of a minor component in a specified percentage?",
+        "answer": "Contains"
+      },
+      {
+        "question": "What term describes the type of wheat that is denoted as a primary component in the ingredient list?",
+        "answer": "Whole"
+      },
+      {
+        "question": "What additional ingredient is specifically stated to be present in the product besides wheat, adding to its composition?",
+        "answer": "Soy"
+      },
+      {
+        "question": "What is the form of the text denoting the name of the product, given that the specific name is absent from the shown content?",
+        "answer": "Absent"
+      },
+      {
+        "question": "What is the texture of the label based on the image which shows a smooth, unblemished surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What type of information is conveyed by the text at the very bottom of the label concerning potential allergies or dietary considerations?",
+        "answer": "Warning"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c6/c69ab3b4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's overall visual presentation, what is the primary color scheme employed?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the visual characteristics of the text, what is the font style used for the 'INGREDIENTS' heading?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Examining the typeface's visual attributes, what is the font's weight (boldness) in the main text?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Regarding the textual content, what specific ingredient is predominantly highlighted?",
+        "answer": "Pepper"
+      },
+      {
+        "question": "Observing the arrangement of the text, what is the overall orientation of the words displayed?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the overall text alignment (left, center, right, justified) in the provided image?",
+        "answer": "Left"
+      },
+      {
+        "question": "Judging by the visual properties, what appears to be the background color of the text?",
+        "answer": "White"
+      },
+      {
+        "question": "From the image's visual components, what is the apparent size of the font used throughout the text?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the case (uppercase, lowercase, title case, sentence case) predominantly used for words in the 'Ingredients' section?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Considering the visual characteristics of the words, what is the spacing between the lines of text?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Judging by the visual characteristics of the letters, what appears to be the font family used for the warnings?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Analyzing the visual properties of the text, what punctuation is used at the end of the first statement?",
+        "answer": "Period"
+      },
+      {
+        "question": "What case (uppercase, lowercase, title case, sentence case) is utilized for the words stating where the product was produced?",
+        "answer": "Sentence"
+      },
+      {
+        "question": "Judging from the visual components of the text, what is the line spacing between the ingredient list and allergy warning?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What style (italic, bold, regular) is used for the words in the allergy warning?",
+        "answer": "Regular"
+      }
+    ]
+  }
+]

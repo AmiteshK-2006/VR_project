@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/02/0239d2ce.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall color scheme of the nutrition facts label, primarily observed in the background?",
+        "answer": "Purple"
+      },
+      {
+        "question": "What is the font style predominantly used for the headings on the nutrition label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the text color used for the majority of the nutritional information presented?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the primary type of information displayed prominently at the top of this nutrition label?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the shape of the overall nutrition facts label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the text formatting style used for the 'Serving Size' and 'Servings Per Container' sections?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Describe the texture of the nutrition facts label's surface based solely on visual inspection.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the style of the asterisk symbol used to denote the footnote on the label?",
+        "answer": "Superscript"
+      },
+      {
+        "question": "What is the apparent material composition of the label shown in the image?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What unit of measurement is used for 'Total Fat' and 'Sugars' values presented on the label?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the color of the text that denotes the daily value percentages?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the formatting style used for the footnote at the bottom of the nutrition label?",
+        "answer": "Italic"
+      },
+      {
+        "question": "What is the nutritional component, measured in milligrams (mg), explicitly shown on the label?",
+        "answer": "Sodium"
+      },
+      {
+        "question": "Based on the visual appearance, what is the relative density of the label?",
+        "answer": "Thin"
+      },
+      {
+        "question": "What is the layout style of the information presented on the label?",
+        "answer": "Tabular"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0a/0aae93aa.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall appearance, what single word best describes the dominant color of the contained product?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "Based on its visual texture and the label, what is the primary ingredient of the product shown in the image?",
+        "answer": "Sugar"
+      },
+      {
+        "question": "Analyzing the container's shape and design, what kind of container is used to hold the product?",
+        "answer": "Jar"
+      },
+      {
+        "question": "Examining the image closely, what is the stated purpose of this yellow granular substance as indicated on the packaging?",
+        "answer": "Decorating"
+      },
+      {
+        "question": "Observing the container's lid, what material appears to compose the primary top section of the container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Focusing on the label, what brand name is prominently displayed on the container of the product?",
+        "answer": "365"
+      },
+      {
+        "question": "Considering the container's material, what is the most likely material of the main body of the container?",
+        "answer": "Glass"
+      },
+      {
+        "question": "From the image, what appears to be the overall consistency of the product inside the container?",
+        "answer": "Granular"
+      },
+      {
+        "question": "Judging by the label's design and color scheme, what is the overall visual tone or style of the product packaging?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the texture of the sugar, considering the visual clarity provided by the container?",
+        "answer": "Crystalline"
+      },
+      {
+        "question": "What is the shape of the overall container holding the product, disregarding the lid?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Based on the label's graphics, what design elements decorate the label around the central brand text?",
+        "answer": "Splatter"
+      },
+      {
+        "question": "By observing the image, describe the label's primary text font style?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the overall visual impression of the product's packaging, taking in account the color and graphic elements?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Focusing on the label's supplementary information, what additional word describes the color of the sugar?",
+        "answer": "Yellow"
+      }
+    ]
+  }
+]

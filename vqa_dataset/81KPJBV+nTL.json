@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b1/b11ebd58.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall shape, what geometrical term best describes the primary form of this product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the dominant color displayed prominently across the entire surface of the item?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Based on its appearance, what material is most likely used in the construction of this object?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Observing the surface texture, what tactile quality does the item's exterior seemingly possess?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Examining the textual elements present, what type of identifier code is displayed on the packaging?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "Considering the design, what is the overall aesthetic of this package's presentation?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Focusing on the structural elements, what type of folding mechanism is incorporated into the package design?",
+        "answer": "Tuck-in"
+      },
+      {
+        "question": "What is the visible color of the smaller, vertical stripe on the edge of the product?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Analyzing the visual details, is the surface of the item glossy or matte in nature?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What type of text indicating environmental responsibility is subtly visible in the bottom section?",
+        "answer": "Recycle"
+      },
+      {
+        "question": "What is the color of the print of the barcode and other text on the package?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the visible text and design, what category does the packaging most likely represent?",
+        "answer": "Food"
+      },
+      {
+        "question": "What is the general orientation of the barcode printed on the main surface of the product?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the color of the relatively large central area of this item?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Based on the visible folds and creases, what is the apparent rigidity of the product's structure?",
+        "answer": "Flexible"
+      }
+    ]
+  }
+]

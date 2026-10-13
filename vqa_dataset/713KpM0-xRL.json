@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/13/134facdf.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the liquid contained within the plastic bottle, as visibly evident in the product image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the overall shape of the container holding the chocolate milk, as depicted in the provided image?",
+        "answer": "Bottle"
+      },
+      {
+        "question": "Based on visual inspection, what appears to be the material of the bottle's body, as shown in the product image?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the image, what color is the cap or lid affixed to the top of the chocolate milk bottle?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the apparent texture of the chocolate milk within the bottle, based solely on the image's visual presentation?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the primary label text on the packaging of the product, as visually perceived in the provided image?",
+        "answer": "Chocolate"
+      },
+      {
+        "question": "Judging from the product image, what word precedes 'Chocolate Milk' on the main label?",
+        "answer": "Grade"
+      },
+      {
+        "question": "What is the apparent style of the font utilized for the '365' branding visible on the product's packaging?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Observing the product image, what additional vitamin is explicitly mentioned on the label?",
+        "answer": "D"
+      },
+      {
+        "question": "Does the image show any noticeable embossing, texturing, or other physical markings on the bottle itself?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent design element displayed prominently on the label, symbolizing the product?",
+        "answer": "Splash"
+      },
+      {
+        "question": "What is the visible branding name displayed prominently on the product packaging?",
+        "answer": "365"
+      },
+      {
+        "question": "From the image, is there any visible indication of a seal or tamper-evident feature on the bottle cap?",
+        "answer": "No"
+      },
+      {
+        "question": "From the visual examination, is the milk visibly homogeneous in terms of its appearance?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the image, describe the curvature of the bottle's profile",
+        "answer": "Curved"
+      }
+    ]
+  }
+]

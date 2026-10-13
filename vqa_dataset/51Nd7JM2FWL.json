@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/58/5838d625.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant textual characteristic displayed on the product?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What specific type of sugar is prominently mentioned within the provided list of components?",
+        "answer": "Cane"
+      },
+      {
+        "question": "Focusing on the listed fruits, what single fruit is mentioned more than once in the ingredient composition?",
+        "answer": "Apricots"
+      },
+      {
+        "question": "Based on the text, what is one of the listed ingredients that is a type of fruit extract?",
+        "answer": "Pectin"
+      },
+      {
+        "question": "Excluding the main ingredients, what common food allergen is mentioned concerning the processing facility?",
+        "answer": "Peanuts"
+      },
+      {
+        "question": "Apart from peanuts, what other type of nut is specified in the facility's processing details?",
+        "answer": "Tree"
+      },
+      {
+        "question": "Referring to the allergy information, what dairy product is listed as being processed in the same facility?",
+        "answer": "Milk"
+      },
+      {
+        "question": "What protein source is mentioned among the facility's processed items, relating to potential allergen concerns?",
+        "answer": "Eggs"
+      },
+      {
+        "question": "Besides milk and eggs, what other common seafood-related allergen is noted in the production information?",
+        "answer": "Shellfish"
+      },
+      {
+        "question": "In addition to shellfish, what another common seafood allergen is listed concerning the production facility?",
+        "answer": "Fish"
+      },
+      {
+        "question": "What cereal grain is specified as being processed in the same facility as the product?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "What legume is listed among the allergens processed in the same facility as the product?",
+        "answer": "Soy"
+      },
+      {
+        "question": "Describe the overall color palette used in the text on the product.",
+        "answer": "Monochromatic"
+      },
+      {
+        "question": "What is the general font style used for the text on the product?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the textual arrangement, what is the visual method used to organize the ingredient information?",
+        "answer": "List"
+      }
+    ]
+  }
+]

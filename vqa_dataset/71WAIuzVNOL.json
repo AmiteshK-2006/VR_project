@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/42/42d7b4d6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the displayed fabric swatch?",
+        "answer": "Purple"
+      },
+      {
+        "question": "Considering the image's texture, what is the fabric's apparent feel?",
+        "answer": "Fuzzy"
+      },
+      {
+        "question": "Based on visual inspection, what is the most likely material of this swatch?",
+        "answer": "Fleece"
+      },
+      {
+        "question": "Judging from the image, what is the overall surface texture of the fabric?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Does the fabric swatch show any discernible pattern or design elements?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Describing the overall visual appearance, how would you characterize the fabric?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Considering its texture and color, what is a probable use for this material?",
+        "answer": "Clothing"
+      },
+      {
+        "question": "What is the apparent thickness of the presented fabric specimen?",
+        "answer": "Thick"
+      },
+      {
+        "question": "From the image, is there any visible sheen or glossiness to the fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the fabric swatch present any visible irregularities in its color?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Given the image's resolution, can you detect any prominent weave in the fabric?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the overall image, what is the shape of the presented item?",
+        "answer": "Square"
+      },
+      {
+        "question": "Does the fabric have a noticeable pile or nap in its texture?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the image, what is the apparent density of the fabric?",
+        "answer": "Dense"
+      },
+      {
+        "question": "From visual analysis, is the color consistent across the entire swatch?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

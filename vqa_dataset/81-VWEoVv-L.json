@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/06/06155015.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the outer envelope surface?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the geometric pattern visible on the inner liner?",
+        "answer": "Diamond"
+      },
+      {
+        "question": "What color is the inner lining of the envelope?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the overall shape of the displayed envelope?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What seems to be the material of this mailing envelope?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Describe the texture of the outer envelope surface.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Is the flap of the envelope pointed or rounded at the top?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Considering the visible portion, how many flaps does the envelope have?",
+        "answer": "One"
+      },
+      {
+        "question": "What is the apparent thickness of the envelope material?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Does the inner lining seem to be made of the same material as the outer?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the density of the pattern on the inner lining?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the apparent size of the inner lining pattern elements?",
+        "answer": "Small"
+      },
+      {
+        "question": "Considering the image, does the envelope appear to be sealed?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on its design, what is the likely intended use of the item?",
+        "answer": "Mailing"
+      },
+      {
+        "question": "Is there any visible branding or text on the exterior envelope?",
+        "answer": "No"
+      }
+    ]
+  }
+]

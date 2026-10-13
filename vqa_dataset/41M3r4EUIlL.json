@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1f/1fa493a6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form and arrangement, what best describes the primary shape of the packaged food item?",
+        "answer": "Round"
+      },
+      {
+        "question": "What is the dominant color of the food item itself, ignoring any packaging?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "Disregarding the packaging, what is the apparent texture of the food product?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on visual inspection, what seems to be the primary material of the food item's outer wrapping?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What color is the most prominent graphic element on the visible packaging section?",
+        "answer": "Purple"
+      },
+      {
+        "question": "What seems to be the number of individual food items visibly contained within the packaging?",
+        "answer": "Two"
+      },
+      {
+        "question": "Ignoring packaging, describe the general form of each individual food item within the package?",
+        "answer": "Disc"
+      },
+      {
+        "question": "What seems to be the general consistency of the food product judging by its form?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Describe the apparent condition of the packaging based on its visual clarity and lack of damage?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "What appears to be the material of the inner liner of the package, visible through the outer wrap?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Judging solely by visual inspection, what seems to be the overall size of each packaged food item?",
+        "answer": "Small"
+      },
+      {
+        "question": "Describe the transparency of the outer plastic wrap based on how much of the food items are visible?",
+        "answer": "Translucent"
+      },
+      {
+        "question": "What is the orientation of the package; is it standing vertically or horizontally?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Based on what can be seen, does the food product show any visible markings, such as labels or text?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on appearance, what is the general condition of the food item; does it show signs of damage or defects?",
+        "answer": "Intact"
+      }
+    ]
+  }
+]

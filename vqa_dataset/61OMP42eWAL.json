@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/06/066c4e79.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the presented text block, considering its borders and arrangement?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the font style predominantly used for the main title, 'Ingredient Legend'?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the primary color used for the text in the ingredient list?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the apparent texture of the background upon which the text is printed, based on its visual appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the general formatting of the ingredient list, considering line arrangement and spacing?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Considering the text's visual density, how would you describe its overall visual weight?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "What is the apparent style of the typeface used for the ingredient list, considering its serifs or lack thereof?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Given the visual presentation, how would you categorize the text's overall visual alignment?",
+        "answer": "Left"
+      },
+      {
+        "question": "Based solely on the image, what appears to be the main purpose of this text block?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Considering the image's visual components, what is the overall design aesthetic of the text block?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the size of the 'Ingredient Legend' title relative to the ingredient list text?",
+        "answer": "Larger"
+      },
+      {
+        "question": "What is the visual relationship between the title and the list below it?",
+        "answer": "Hierarchical"
+      },
+      {
+        "question": "Describe the visual readability of the text, considering font size, spacing, and contrast?",
+        "answer": "High"
+      },
+      {
+        "question": "Given the information presented, is there any noticeable visual emphasis on specific ingredients?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the visual format of the concluding statement about potential allergens?",
+        "answer": "Separate"
+      }
+    ]
+  }
+]

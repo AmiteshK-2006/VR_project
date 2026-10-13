@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a5/a5fd6e1d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall design, what is the primary visual element dominating this product's packaging?",
+        "answer": "Text"
+      },
+      {
+        "question": "Focusing on the weight specification prominently displayed, what is the net weight of the product in kilograms?",
+        "answer": "2.6"
+      },
+      {
+        "question": "Examining the hazard pictogram, what specific type of hazard is prominently indicated on the packaging?",
+        "answer": "Irritant"
+      },
+      {
+        "question": "Based on the text, what is the primary intended use indicated for this product?",
+        "answer": "Laundry"
+      },
+      {
+        "question": "Considering the color scheme, what is the predominant color used on the packaging?",
+        "answer": "White"
+      },
+      {
+        "question": "Analyzing the visual composition, what is the overall shape of the product's packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the textual description, what is the product's physical form?",
+        "answer": "Powder"
+      },
+      {
+        "question": "Observing the textual information, what is indicated about the product's biological nature?",
+        "answer": "Non"
+      },
+      {
+        "question": "Referring to the lower portion, what section details the product's composition?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Considering the textual layout, what type of instructions are provided near the bottom?",
+        "answer": "Care"
+      },
+      {
+        "question": "Looking at the top portion of the packaging, what type of instructions are included above 'Care Instructions'?",
+        "answer": "Storage"
+      },
+      {
+        "question": "In relation to the product's storage, what condition is explicitly recommended?",
+        "answer": "Cool"
+      },
+      {
+        "question": "Regarding the product's storage instructions, what additional state is required?",
+        "answer": "Dry"
+      },
+      {
+        "question": "Referring to the product's nature in the top section, what is indicated regarding its biological properties?",
+        "answer": "Non"
+      },
+      {
+        "question": "Considering the overall presentation, what is the intended audience for this type of product information?",
+        "answer": "Consumers"
+      }
+    ]
+  }
+]

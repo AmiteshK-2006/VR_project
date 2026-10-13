@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/34/3410e4b6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant visible texture of the displayed fabric sample?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Considering the overall visual appearance, what is the primary color shown?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Based on visual inspection, what is the apparent material of the sample?",
+        "answer": "Linen"
+      },
+      {
+        "question": "Describe the visual pattern formed by the threads in the fabric sample?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Judging by the image, how would you characterize the fabric's overall visual density?",
+        "answer": "Tight"
+      },
+      {
+        "question": "From a visual standpoint, what is the predominant visual finish of the fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the implied fiber arrangement across the surface of the shown fabric?",
+        "answer": "Interlaced"
+      },
+      {
+        "question": "Does the fabric sample show a visible pattern other than its weave?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the visual impression regarding the thickness of the presented fabric?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Considering the visible details, does the fabric seem smooth or rough to the touch?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging from its visual appearance, what is the general luminosity of this fabric?",
+        "answer": "Low"
+      },
+      {
+        "question": "Based on the image, is the fabric's color uniform across the sample?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Can you determine if the fabric appears to be translucent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Considering visual characteristics, is the fabric's weave simple or complex?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Does the image suggest the presence of any noticeable irregularities in the fabric?",
+        "answer": "No"
+      }
+    ]
+  }
+]

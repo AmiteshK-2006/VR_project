@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ab/ab3d7444.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color displayed across the entire surface of the shown material?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the visual texture, what is the most apparent material type?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Based on the image, what kind of finish does the surface of this material appear to have?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Describe the overall visual texture of the displayed material sample.",
+        "answer": "Grained"
+      },
+      {
+        "question": "What kind of visual imperfections or variations are noticeable in the material's surface?",
+        "answer": "Distressed"
+      },
+      {
+        "question": "Judging from the visible surface, how would you describe the general tone of the material's color?",
+        "answer": "Warm"
+      },
+      {
+        "question": "Considering the visible texture, is the material's surface smooth or rough to the touch?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What kind of subtle markings or patterns can be observed across the material's surface?",
+        "answer": "Scratches"
+      },
+      {
+        "question": "Does the material show any signs of artificial coloring or artificial texturing?",
+        "answer": "Yes"
+      },
+      {
+        "question": "From the image, would you describe the material as having a consistent or inconsistent color distribution?",
+        "answer": "Inconsistent"
+      },
+      {
+        "question": "Does the material's surface reflect light uniformly or unevenly?",
+        "answer": "Unevenly"
+      },
+      {
+        "question": "Judging by the visible surface, is the texture of the material predominantly flat or three-dimensional?",
+        "answer": "Three-dimensional"
+      },
+      {
+        "question": "From the image, can you determine the thickness of the material being shown?",
+        "answer": "Unknown"
+      },
+      {
+        "question": "Does the material show visible signs of wear or aging?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging solely from the image, is the material likely to be absorbent or water-resistant?",
+        "answer": "Unknown"
+      }
+    ]
+  }
+]

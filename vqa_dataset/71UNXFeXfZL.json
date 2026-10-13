@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/77/772851c7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall shape and dimensions, what single word best describes the form of this item, as visually apparent in the provided image?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Based on its visual appearance, what primary color most accurately represents this object's external coating or finish?",
+        "answer": "Red"
+      },
+      {
+        "question": "From a purely visual assessment, what material seems to primarily constitute the exterior surface of this product?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Disregarding any text or labels, focusing solely on visible design elements, what kind of fastener is prominently displayed at the top of the item?",
+        "answer": "Zipper"
+      },
+      {
+        "question": "Observing only the item's surface, describe the texture evident in the image, using a single word that captures its visual appearance.",
+        "answer": "Grained"
+      },
+      {
+        "question": "Without any contextual information, what single word best summarizes the overall design aesthetic of the object, as visually evident in the image?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Based on its appearance, does this object appear to have a rigid or flexible structure?  Use a single word.",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Judging only from the visual details, how many compartments are clearly visible on the item's exterior, indicated by any divisions or seams?",
+        "answer": "One"
+      },
+      {
+        "question": "Examining only the visible parts, what material appears to be used for the zipper's slider, based on its visual characteristics?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Considering the visual aspects alone, does the item's color display a matte or glossy finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the apparent overall condition of the item's surface, without considering wear or damage that isn't clearly present?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Focusing on its visual details, is the item predominantly adorned with patterns or is it mostly plain?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Looking only at the image, what is the most apparent intended function of this item?",
+        "answer": "Wallet"
+      },
+      {
+        "question": "Describe, in one word, the general style of the item as it appears in the image.",
+        "answer": "Classic"
+      },
+      {
+        "question": "Based on what is visually apparent, what is the apparent size of the item relative to everyday objects—large, small, or medium?  Use a single word.",
+        "answer": "Small"
+      }
+    ]
+  }
+]

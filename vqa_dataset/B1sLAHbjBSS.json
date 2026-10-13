@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/11/11aca635.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the visible material, as shown in the provided image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the image's texture, what material appears to be depicted?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Based on the image, what is the overall visual texture of the surface?",
+        "answer": "Grainy"
+      },
+      {
+        "question": "Describe the visible pattern present across the material's surface, shown in the image?",
+        "answer": "Pebbled"
+      },
+      {
+        "question": "Judging from the image alone, what is the apparent finish of the material?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the provided image show any discernible sheen or glossiness on the material?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image, what kind of visual depth does the texture of the material show?",
+        "answer": "Three-dimensional"
+      },
+      {
+        "question": "As shown in the provided close-up, what is the general visual tone of the material?",
+        "answer": "Dark"
+      },
+      {
+        "question": "According to the provided image, what might be the visual uniformity of the material’s texture?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Considering the image's detail, what is the density of the observed texture?",
+        "answer": "High"
+      },
+      {
+        "question": "What can be said about the overall appearance of the material's surface in the image?",
+        "answer": "Natural"
+      },
+      {
+        "question": "Based solely on visual evidence from the image, what might be the material's likely composition?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the predominant shade observed within the visible brown color range?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Considering visual clues, what is the approximate level of texture variation?",
+        "answer": "Slight"
+      },
+      {
+        "question": "Based purely on image analysis, what might be the tactile impression of the surface?",
+        "answer": "Rough"
+      }
+    ]
+  }
+]

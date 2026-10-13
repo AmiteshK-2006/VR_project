@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f3/f3628947.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the bottle containing the dietary supplement?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the dominant shape of the container holding the fish oil supplement?",
+        "answer": "Cylinder"
+      },
+      {
+        "question": "What material appears to constitute the primary packaging of the product shown?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the most prominent text displayed on the product's label?",
+        "answer": "SOLMO"
+      },
+      {
+        "question": "What type of supplement is explicitly indicated on the product's label?",
+        "answer": "Fish"
+      },
+      {
+        "question": "What is the specified dosage, in milligrams, of the active ingredient as shown on the label?",
+        "answer": "1000"
+      },
+      {
+        "question": "What is the form in which the fish oil supplement is presented?",
+        "answer": "Softgels"
+      },
+      {
+        "question": "What is the total number of capsules indicated on the product's label?",
+        "answer": "250"
+      },
+      {
+        "question": "What design element is repeatedly shown on the bottle's label, below the brand name?",
+        "answer": "Geometric"
+      },
+      {
+        "question": "What is the stated classification of this product according to its label?",
+        "answer": "Dietary"
+      },
+      {
+        "question": "What is the type of cap used on the fish oil supplement bottle?",
+        "answer": "Screw"
+      },
+      {
+        "question": "Does the label claim the absence of artificial colors?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the label indicate any absence of artificial flavors?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the label, is the product gluten-free?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the label, is the product lactose-free?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5f/5f2c1edd.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the image?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What is the primary texture observed across the fabric's surface?",
+        "answer": "Knit"
+      },
+      {
+        "question": "Considering the visual characteristics, what kind of material appears to be depicted?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Based on the image, what is the overall visual appearance of the textile's surface?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Judging by the image, what is the apparent weave structure of the fabric?",
+        "answer": "Woven"
+      },
+      {
+        "question": "From the image, what seems to be the main style or construction of this textile?",
+        "answer": "Sweatshirt"
+      },
+      {
+        "question": "What is the apparent density of the fibers constituting this fabric sample?",
+        "answer": "Medium"
+      },
+      {
+        "question": "How would you describe the visible level of sheen or gloss present on the fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Analyzing the image, what might be the level of drape or flexibility expected from this fabric?",
+        "answer": "Drapey"
+      },
+      {
+        "question": "From the photograph, what is the discernible thickness or weight of the material?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the perceived uniformity of color across the entire fabric expanse?",
+        "answer": "Even"
+      },
+      {
+        "question": "Judging only from the image provided, what seems to be the overall feel of the fabric?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the visible grain or directionality in the weave of the fabric shown.",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Considering visual aspects, what level of transparency does the fabric sample show?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Describe the overall visual impression of the fabric’s surface detailing.",
+        "answer": "Subtle"
+      }
+    ]
+  }
+]

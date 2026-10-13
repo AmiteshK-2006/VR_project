@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ec/ec9c0d40.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed textile sample?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the weave and texture, what is the primary material type?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Describe the overall visual texture of the fabric sample, considering its weave?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Judging by the image, how would you characterize the fabric's finish?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Based solely on the visual appearance, what is the density of the weave?",
+        "answer": "Medium"
+      },
+      {
+        "question": "If you were to describe the shade of blue, which adjective would best fit?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Considering the subtle variations in shade, what is the visual appearance of the fabric?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Does the fabric exhibit any distinct patterns or prints visible to the eye?",
+        "answer": "No"
+      },
+      {
+        "question": "How would you characterize the directionality of the visible weave structure?",
+        "answer": "Straight"
+      },
+      {
+        "question": "From the provided image, what kind of fiber is predominantly used in this fabric?",
+        "answer": "Natural"
+      },
+      {
+        "question": "Based on visual inspection, is there any visible sheen or glossiness?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the visual, what is the thickness of the textile sample?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Considering the image, how would you classify the general appearance of the material?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What kind of irregularities are present within the visible structure of this cloth?",
+        "answer": "None"
+      },
+      {
+        "question": "Is there any noticeable piling or fuzziness visible on the surface of the fabric?",
+        "answer": "No"
+      }
+    ]
+  }
+]

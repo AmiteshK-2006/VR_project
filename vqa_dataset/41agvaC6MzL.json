@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9a/9a44309b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the text detailing the ingredients on this product label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the font's style, what would you describe the overall appearance of the text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the background color of this product's ingredient label section?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "Based on the visual appearance, what is the text's general orientation on the label?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Judging by the image, what is the case of the lettering used in the ingredient list?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Observing the image closely, what type of text is used, considering its appearance and style?",
+        "answer": "Print"
+      },
+      {
+        "question": "What is the primary language used to present the information on the label?",
+        "answer": "English"
+      },
+      {
+        "question": "Does the image exhibit any visible distortions or irregularities in the text?",
+        "answer": "No"
+      },
+      {
+        "question": "Describing the text's density on the label, how densely packed are the words?",
+        "answer": "Moderate"
+      },
+      {
+        "question": "Judging by the image, what can be visually observed as the main subject on this label?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the overall visual tone or impression given by this product label's text?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Considering the text's clarity and legibility, what is its overall readability?",
+        "answer": "High"
+      },
+      {
+        "question": "Does the label use any additional formatting or design elements beyond the text itself?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the visual weight, does the text appear to be bold or light?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Analyzing the presentation of the words, how are the ingredients listed on the label?",
+        "answer": "Enumerated"
+      }
+    ]
+  }
+]

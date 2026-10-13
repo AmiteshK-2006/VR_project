@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/44/441c8bca.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form factor, what is the most accurate descriptor for the product's physical structure?",
+        "answer": "Cable"
+      },
+      {
+        "question": "What is the predominant shade of the connectors and cable visible in the provided image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Based on the visible markings on one of the connectors, what brand is associated with this product?",
+        "answer": "UGREEN"
+      },
+      {
+        "question": "What kind of connector is visible on the smaller end of the shown device, judging by its shape and port?",
+        "answer": "USB"
+      },
+      {
+        "question": "Disregarding the branding, how would you describe the texture of the outer casing of the larger connector?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Focusing only on what you see, what type of connector is present on the larger end of the item, judging from its form?",
+        "answer": "DisplayPort"
+      },
+      {
+        "question": "Considering the image, what material appears to be used in the manufacturing of the cable's outer sheath?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Examining the visual details, what is the approximate length of the cable, relative to average hand size?",
+        "answer": "Long"
+      },
+      {
+        "question": "Can you describe the shape of the larger connector, ignoring any text or markings on its surface?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Given the visual evidence, what can you infer about the cable's flexibility and ease of bending?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Judging only from the visuals, what seems to be the primary function of the cable and its connectors?",
+        "answer": "Adapter"
+      },
+      {
+        "question": "Based on the image, is there a visible indication of any significant damage or wear to the cable or connectors?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the image alone, what is the main color of the device, excluding any small branding or markings?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Does the image show any clearly visible additional components beyond the cable and connectors themselves?",
+        "answer": "No"
+      },
+      {
+        "question": "From the visual information, how would you classify the overall design aesthetic of the item?",
+        "answer": "Minimalist"
+      }
+    ]
+  }
+]

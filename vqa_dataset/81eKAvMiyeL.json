@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0f/0f235d8c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the bottle's label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of the container holding the supplement?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What material appears to constitute the bottle?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What color are the prominent text elements on the label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the apparent texture of the bottle's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What type of closure is present at the top of the container?",
+        "answer": "Screw-top"
+      },
+      {
+        "question": "What is the general design style of the product label?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What secondary color accents the label design?",
+        "answer": "Teal"
+      },
+      {
+        "question": "What is the visual state of the tamper-evident seal?",
+        "answer": "Intact"
+      },
+      {
+        "question": "What kind of information is prominently featured on the label?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Can you describe the appearance of the label's background?",
+        "answer": "Solid"
+      },
+      {
+        "question": "What is the shape of the individual capsules (inferred from the label)?",
+        "answer": "Oval"
+      },
+      {
+        "question": "What is the number of capsules indicated on the label?",
+        "answer": "120"
+      },
+      {
+        "question": "Does the label show any significant graphic images?",
+        "answer": "No"
+      },
+      {
+        "question": "Is the brand name visible on the label?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/cd/cdbad79d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the depicted surface, based purely on visual observation?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering the visible texture, what material best describes the surface shown in the image?",
+        "answer": "Wood"
+      },
+      {
+        "question": "What is the overall visual impression of the grain pattern observed throughout the image?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Based on the image, is the grain direction predominantly vertical or horizontal?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Describe the general tonal variation across the visible surface, considering its lightness and darkness?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Observing the surface detail closely, what would you describe the grain's texture as?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the image exhibit any significant color variations within the primary beige tone?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "Can you describe the image's level of gloss or sheen, assessing its reflectivity?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the visual representation, what is the apparent surface finish of the item displayed?",
+        "answer": "Natural"
+      },
+      {
+        "question": "What is the most noticeable characteristic of the visible patterns across the image's surface?",
+        "answer": "Graining"
+      },
+      {
+        "question": "Does the wood-like texture suggest a specific type of wood grain based on visual evidence alone?",
+        "answer": "Oak"
+      },
+      {
+        "question": "Judging solely from the image, what is the general visual depth perceived in the wood grain?",
+        "answer": "Shallow"
+      },
+      {
+        "question": "Based solely on the visual characteristics, is the surface pattern regularly or irregularly spaced?",
+        "answer": "Regular"
+      },
+      {
+        "question": "How would you describe the consistency of color and texture throughout the visible area?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "From a purely visual standpoint, what kind of visual effect does the subtle color variation create?",
+        "answer": "Natural"
+      }
+    ]
+  }
+]

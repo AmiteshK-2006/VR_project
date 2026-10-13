@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/11/117bf39c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout and textual organization, what is the primary purpose of this product label?",
+        "answer": "Information"
+      },
+      {
+        "question": "What is the dominant color used for the background of this nutritional information panel?",
+        "answer": "White"
+      },
+      {
+        "question": "Observing the font styles and sizes, what is the most prominent textual element on this product label?",
+        "answer": "Supplement"
+      },
+      {
+        "question": "Focusing on the textual content and its structure, what kind of product does this label describe?",
+        "answer": "Supplement"
+      },
+      {
+        "question": "Based on the visual prominence of the information, what is the main metric presented per serving?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Considering the font usage, what aspect is emphasized within the 'Amount Per Serving' section?",
+        "answer": "Protein"
+      },
+      {
+        "question": "Judging by the visual hierarchy of textual elements, what is presented in a detailed list below 'Protein Blend'?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Observing the formatting used for the daily value percentages, what is the unit of measurement for 'Sodium'?",
+        "answer": "mg"
+      },
+      {
+        "question": "Considering the structure of the information, what secondary ingredient blend is listed after the primary 'Protein Blend'?",
+        "answer": "Greens"
+      },
+      {
+        "question": "Looking at the visual presentation, what unit is used to measure 'Total Fat' per serving?",
+        "answer": "g"
+      },
+      {
+        "question": "Considering the layout and visual emphasis, what aspect of the greens blend is specifically highlighted?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "By observing the organization, what is listed immediately after 'Total Carbohydrate'?",
+        "answer": "Sugars"
+      },
+      {
+        "question": "Based on the text's visual presentation, what is the serving size indicated in parentheses?",
+        "answer": "22g"
+      },
+      {
+        "question": "Considering the visual prominence and location, what is the listed serving size?",
+        "answer": "Scoop"
+      },
+      {
+        "question": "Looking at the layout and visual hierarchy, what is presented below 'Amount Per Serving'?",
+        "answer": "Values"
+      }
+    ]
+  }
+]

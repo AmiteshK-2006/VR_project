@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/17/1703345b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary textual element prominently displayed across the top of the image, indicating the type of information presented?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Considering the overall layout, what is the format used to organize and present the data regarding the product's nutritional components?",
+        "answer": "Table"
+      },
+      {
+        "question": "What numerical value, clearly visible and highly prominent, represents the calorie count per serving?",
+        "answer": "180"
+      },
+      {
+        "question": "What is the color of the text used to display the main headings and labels within the presented nutritional data?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the color of the numerical values that present the amount per serving and the percentages of daily values?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the general shape of the nutritional information panel shown in the image, indicating the overall structure and layout?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the background color of the presented nutritional information, serving as the primary backdrop for all other elements?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the type of font used throughout the information panel, characterizing the overall visual style and readability?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the visual style of the numbers indicating daily values, which represents a percentage of the recommended daily intake?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the relative size of the calorie count in comparison to other textual elements in the presented information?",
+        "answer": "Large"
+      },
+      {
+        "question": "What is the design element used to visually separate different categories of nutritional information within the presented table?",
+        "answer": "Lines"
+      },
+      {
+        "question": "What is the text describing the measure of serving size in grams, clearly marked on the label?",
+        "answer": "27g"
+      },
+      {
+        "question": "What is the unit of measurement used to express the amounts of fats, carbohydrates, and proteins in the nutritional information?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the visual characteristic of the text used for the footnote at the bottom, providing additional context for interpreting the data?",
+        "answer": "Smaller"
+      },
+      {
+        "question": "What is the overall texture conveyed by the image of the nutrition facts label, reflecting the nature of the surface material?",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

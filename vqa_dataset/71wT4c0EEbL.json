@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/02/025a1e15.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary ingredient visibly indicated on the product packaging?",
+        "answer": "Psyllium"
+      },
+      {
+        "question": "What is the declared form of the primary ingredient as shown on the label?",
+        "answer": "Husks"
+      },
+      {
+        "question": "What adjective describes the nature of the psyllium, as explicitly stated on the label?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Based on the label, what is the serving size in grams, as numerically displayed?",
+        "answer": "12"
+      },
+      {
+        "question": "What unit of measurement is used to specify the serving size on the container?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the total number of servings as stated on the container\u2019s label?",
+        "answer": "28"
+      },
+      {
+        "question": "What is the total carbohydrate content per serving, as shown numerically on the label?",
+        "answer": "10"
+      },
+      {
+        "question": "What is the dietary fiber content per serving, displayed numerically and in grams?",
+        "answer": "10"
+      },
+      {
+        "question": "What is the soluble fiber content per serving, shown numerically and in grams?",
+        "answer": "8"
+      },
+      {
+        "question": "What is the insoluble fiber content per serving, displayed numerically and in grams?",
+        "answer": "2"
+      },
+      {
+        "question": "What is the sodium content per serving, displayed numerically and in milligrams?",
+        "answer": "15"
+      },
+      {
+        "question": "What is the caloric content per serving, as numerically presented on the label?",
+        "answer": "30"
+      },
+      {
+        "question": "What is the color of the text indicating 'Supplement Facts' on the packaging?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the overall color scheme of the product packaging, considering the background and text colors?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the format of the information presented on the main section of the label?",
+        "answer": "Table"
+      }
+    ]
+  }
+]

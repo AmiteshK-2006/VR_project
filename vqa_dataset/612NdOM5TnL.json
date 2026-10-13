@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/42/4289ac16.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant text style displayed on the product?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the primary language used for the text detailing the product's composition?",
+        "answer": "English"
+      },
+      {
+        "question": "Based on the visual appearance, what is the format of the textual information presented?",
+        "answer": "List"
+      },
+      {
+        "question": "What is the general color scheme observed in the textual presentation of the ingredients?",
+        "answer": "Black"
+      },
+      {
+        "question": "What specific term indicates the beginning of the list of ingredients?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the background color of the label where ingredients are listed?",
+        "answer": "White"
+      },
+      {
+        "question": "Observing the visual layout, what is the orientation of the text blocks?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the visual style of the text, is it bold, italicized, or plain?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Can you describe the visual structure of the text, is it in paragraphs, sentences, or a list?",
+        "answer": "List"
+      },
+      {
+        "question": "Based on the image, what is the size of the text relative to the label area?",
+        "answer": "Small"
+      },
+      {
+        "question": "Judging from the visual appearance, what is the alignment of the text?",
+        "answer": "Left"
+      },
+      {
+        "question": "Describe the visual clarity of the text presented on the product label.",
+        "answer": "Clear"
+      },
+      {
+        "question": "Does the visual presentation of the text include any special formatting or symbols?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the visual aspects, how many columns are present in the list of ingredients?",
+        "answer": "One"
+      },
+      {
+        "question": "What is the visual spacing between individual lines of text?",
+        "answer": "Tight"
+      }
+    ]
+  }
+]

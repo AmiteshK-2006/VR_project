@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c9/c9e649a2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color observed across the entire fabric sample?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visible texture, what is the most apparent surface characteristic?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Based on the visual appearance, what is the likely material of the displayed textile?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Judging from the image, how would you describe the general grain direction of the fabric?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Describe the visual uniformity of color and texture throughout the sample's surface.",
+        "answer": "Consistent"
+      },
+      {
+        "question": "What is the overall impression of the textile's weight or thickness based solely on the image?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Considering the fine details, what kind of weave pattern is visibly present in the fabric?",
+        "answer": "Slight"
+      },
+      {
+        "question": "What is the apparent level of sheen or glossiness of this fabric sample, judging by visual cues?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Describe the degree of contrast between the lighter and darker areas within the fabric's texture.",
+        "answer": "Subtle"
+      },
+      {
+        "question": "Does the fabric showcase any noticeable patterns, designs, or decorative elements?",
+        "answer": "None"
+      },
+      {
+        "question": "From a visual standpoint, how would you characterize the overall softness of the fabric?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Considering the visual details, is the fabric's structure tightly or loosely woven?",
+        "answer": "Tightly"
+      },
+      {
+        "question": "Considering the visible texture, what is the predominant surface finish of the material?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "In terms of visual clarity, how defined are the individual fibers or threads of the fabric?",
+        "answer": "Undefined"
+      },
+      {
+        "question": "Judging by visual cues, what is the apparent drape or flow of this type of fabric?",
+        "answer": "Drapable"
+      }
+    ]
+  }
+]

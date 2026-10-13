@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/74/74d36cde.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the product's top surface?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of the product's container?",
+        "answer": "Round"
+      },
+      {
+        "question": "What appears to be the primary material of the product's packaging?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the apparent texture of the product's visible surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describing the visible edges, what shape do they primarily exhibit?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Are there any noticeable patterns or designs on the product's surface?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the product's top, what is its apparent finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the visible seams, what is their apparent color?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the apparent overall size of the container, relative to typical household items?",
+        "answer": "Small"
+      },
+      {
+        "question": "Judging by the image, does the packaging seem to have any noticeable labels?",
+        "answer": "No"
+      },
+      {
+        "question": "Based solely on the image, what kind of container is it?",
+        "answer": "Tub"
+      },
+      {
+        "question": "What is the apparent thickness of the packaging material?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Focusing on the rim, is the edge sharp or rounded?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Can you describe the visual consistency of the visible surface?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Observing the container's base, is it flat or curved?",
+        "answer": "Curved"
+      }
+    ]
+  }
+]

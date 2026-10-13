@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c2/c2c30b9a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the primary function of this item, as clearly indicated by its textual content?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Based on the visual layout, what specific dietary component does the label prominently feature in its numerical values?",
+        "answer": "Calories"
+      },
+      {
+        "question": "In terms of its visual appearance, what is the dominant textual color scheme used on this product label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Observing the visual design, what is the overall shape of this informational product label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "From the image's visual details, what is the primary material upon which the text and graphics are printed?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Considering the presented text, what measurement unit is consistently used for quantities like fat and protein?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Examining the visual data, what is the style of font predominantly used for the label's textual content?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Judging by the visible text, what is the serving size explicitly mentioned on the label's nutritional information?",
+        "answer": "Tablespoons"
+      },
+      {
+        "question": "What is the visual organization of the data presented, as categorized into separate sections on the label?",
+        "answer": "Columns"
+      },
+      {
+        "question": "Considering the information displayed, which nutrient's daily value percentage is highlighted as being relatively high?",
+        "answer": "Sodium"
+      },
+      {
+        "question": "Regarding the visual layout, what is the type of data presented alongside the daily value percentages?",
+        "answer": "Amounts"
+      },
+      {
+        "question": "What is the visual condition of the printed label, specifically referring to its appearance and integrity?",
+        "answer": "Intact"
+      },
+      {
+        "question": "What is the visual arrangement of the nutritional facts listed, in terms of the arrangement of its components?",
+        "answer": "Table"
+      },
+      {
+        "question": "Judging by visual appearance alone, what is the apparent condition of the label's surface texture?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From the visible textual information, what is the unit used to represent the amount of servings contained?",
+        "answer": "Servings"
+      }
+    ]
+  }
+]

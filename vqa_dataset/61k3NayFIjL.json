@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fe/fea20f00.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what is the primary format of the nutritional information depicted on the product label?",
+        "answer": "Table"
+      },
+      {
+        "question": "Based on the label's text, what is the recommended daily intake of this specific dietary supplement?",
+        "answer": "One"
+      },
+      {
+        "question": "What specific nutrient is prominently highlighted in the provided nutritional information?",
+        "answer": "Vitamin"
+      },
+      {
+        "question": "What is the shape of the individual supplement units as explicitly described on the product label?",
+        "answer": "Softgel"
+      },
+      {
+        "question": "According to the label, where was this product blended and packaged?",
+        "answer": "USA"
+      },
+      {
+        "question": "What is the color of the text predominantly used on the supplement facts label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What color is the background of the cautionary statement section on this product's packaging?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall layout style of the text and information presented on this dietary supplement’s label?",
+        "answer": "Columnar"
+      },
+      {
+        "question": "What is the font style predominantly used in the nutritional information displayed on the product's label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Observing the product label, what is the primary language used to provide the information?",
+        "answer": "English"
+      },
+      {
+        "question": "Based on the label's structure, is the presentation of the content predominantly vertical or horizontal?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the text color of the 'Supplement Facts' heading on this product’s label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the size of the text used for the cautionary statements on the label, relative to the rest of the text?",
+        "answer": "Large"
+      },
+      {
+        "question": "Judging by the label's appearance, is the overall aesthetic design simple or complex?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the overall style of the cautionary statements on the label; bold, italic, underlined etc?",
+        "answer": "Bold"
+      }
+    ]
+  }
+]

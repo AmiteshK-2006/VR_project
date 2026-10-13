@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/01/01e06d6f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary text color displayed on the label's ingredients section?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall background color of this product's label?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the label's text, what ingredient is listed after 'Modified Vegetable Cellulose'?",
+        "answer": "Flaxseed"
+      },
+      {
+        "question": "What is the word that follows the phrase 'Flaxseed' in the label's ingredients list?",
+        "answer": "Powder"
+      },
+      {
+        "question": "What is the first allergenic substance mentioned in the label's processing details?",
+        "answer": "Tree"
+      },
+      {
+        "question": "What is the second allergenic substance mentioned in the label's processing details?",
+        "answer": "Shellfish"
+      },
+      {
+        "question": "What is the third allergenic substance mentioned in the label's processing details?",
+        "answer": "Soy"
+      },
+      {
+        "question": "What is the font style predominantly used on this particular food label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Describe the overall appearance of the text on the product label, regarding its style and structure",
+        "answer": "Block"
+      },
+      {
+        "question": "Considering the label's overall presentation, what type of information is it predominantly displaying?",
+        "answer": "Text"
+      },
+      {
+        "question": "In the list of ingredients, what word follows the word 'Cellulose'?",
+        "answer": "Flaxseed"
+      },
+      {
+        "question": "In the production details, what is the word after 'Nuts'",
+        "answer": "Shellfish"
+      },
+      {
+        "question": "What is the text size difference between the main ingredients and processing information?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What is the general shape of the area where the text is displayed?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Does the label indicate that the product might be suitable for people with nut allergies?",
+        "answer": "No"
+      }
+    ]
+  }
+]

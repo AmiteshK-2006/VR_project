@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f2/f2b3d176.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the product's label, excluding any text or graphics?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the overall shape, what geometric form best describes the container?",
+        "answer": "Cylinder"
+      },
+      {
+        "question": "What material appears to constitute the primary packaging of the product?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on the visible texture, what is the surface finish of the container?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What type of closure is visible on the top of the product's container?",
+        "answer": "Screw-top"
+      },
+      {
+        "question": "What is the most prominent graphic element besides text on the label, visually suggesting product origin?",
+        "answer": "Coconut"
+      },
+      {
+        "question": "Considering the overall appearance, what is the general size category of this product?",
+        "answer": "Small"
+      },
+      {
+        "question": "Disregarding text, what is the most apparent design element found on the label?",
+        "answer": "Image"
+      },
+      {
+        "question": "Describe the overall style of the product labeling (e.g., modern, vintage, minimalist)",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Considering the information displayed, what type of product is this container likely holding?",
+        "answer": "Oil"
+      },
+      {
+        "question": "What is the primary color of the text on the nutrition facts section?",
+        "answer": "Black"
+      },
+      {
+        "question": "What kind of seal or certification mark is visible on the label?",
+        "answer": "NSF"
+      },
+      {
+        "question": "Judging from the label's design, is the product portrayed as luxurious or economical?",
+        "answer": "Economical"
+      },
+      {
+        "question": "What is the overall impression of the product's design in terms of readability?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Describe the texture of the visible graphic element on the label, visually resembling a coconut",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/70/705881e2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the carton's main panel?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the overall shape of the product's packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material appears to constitute the product's packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the apparent finish or texture of the packaging surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Is there any noticeable embossing or texture on the packaging?",
+        "answer": "No"
+      },
+      {
+        "question": "What type of printing is visible on the packaging's back?",
+        "answer": "Text"
+      },
+      {
+        "question": "Does the packaging feature any prominent logos or branding?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What color are the smaller text elements on the carton?",
+        "answer": "Black"
+      },
+      {
+        "question": "Are there any noticeable graphics besides text on the packaging?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What type of seal or closure is evident on the top of the carton?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "What is the orientation of the barcode on the packaging?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Does the packaging include any certifications or labels?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Describe the style of the typography used on the packaging.",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the dominant visual element on the back of the carton?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the color of the smaller logo element near the barcode?",
+        "answer": "Green"
+      }
+    ]
+  }
+]

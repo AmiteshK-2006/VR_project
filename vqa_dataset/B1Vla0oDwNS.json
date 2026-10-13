@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/56/5621ccde.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the provided image?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering the visible weave, what is the apparent texture of this fabric?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Based on the image's visual details, what kind of material seems to be used?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Judging by the image, what is the overall visual impression of the fabric's finish?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Can you describe the visual pattern of the threads in the fabric, if any?",
+        "answer": "Linear"
+      },
+      {
+        "question": "What is the apparent density of the weave, considering the visible threads?",
+        "answer": "Tight"
+      },
+      {
+        "question": "Does the image suggest any visible sheen or glossiness to the fabric surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging by the visual appearance, what is the implied weight of this fabric?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Based on the image's texture, what would you expect the fabric's drape to be like?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Does the image reveal any noticeable irregularities or imperfections in the fabric?",
+        "answer": "None"
+      },
+      {
+        "question": "Judging only from the image, is the fabric's surface uniform in appearance?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the main color tone conveyed by the displayed fabric sample?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "Observing the image, does the fabric show any visible patterns or prints?",
+        "answer": "No"
+      },
+      {
+        "question": "If you were to touch the fabric, what would its likely feel be?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Considering the image, what might be a likely use for this fabric type?",
+        "answer": "Upholstery"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/af/af02bb69.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the visible fabric shown in the image?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the texture apparent in the image, what is the likely fabric type?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Based on the image, what is the visible material composition of the primary fabric?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "What language is primarily used on the attached label in the image?",
+        "answer": "English"
+      },
+      {
+        "question": "What brand name is clearly visible on the label attached to the fabric?",
+        "answer": "Pinzon"
+      },
+      {
+        "question": "What is the overall shape of the visible portion of the textile product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What type of care instruction symbol is prominently displayed on the label?",
+        "answer": "Washing"
+      },
+      {
+        "question": "What is the most prominent type of instruction on the label shown?",
+        "answer": "Washing"
+      },
+      {
+        "question": "Does the image show any visible patterns on the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the general condition or state of the textile in this image?",
+        "answer": "New"
+      },
+      {
+        "question": "What is the visual impression of the fabric's surface texture in the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the image, what is the approximate size of the label shown?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Based on what can be visually seen, what is the fabric's apparent finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the primary language used in the care instructions on the label?",
+        "answer": "English"
+      },
+      {
+        "question": "What type of care instruction is indicated by the symbol of an iron?",
+        "answer": "Ironing"
+      }
+    ]
+  }
+]

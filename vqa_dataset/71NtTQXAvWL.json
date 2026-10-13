@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bd/bd1e8ff6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the dominant shape of the depicted product container?",
+        "answer": "Jug"
+      },
+      {
+        "question": "What color is the primary body of the product container, as visually apparent?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "Observing the cap, what single color word best describes its hue?",
+        "answer": "Red"
+      },
+      {
+        "question": "Based on the image, what material seems to have been used for the product container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Judging by the appearance, what is the texture of the container's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the predominant design feature observed on the container's rear?",
+        "answer": "Label"
+      },
+      {
+        "question": "What kind of information is conveyed on the primary label of the product container?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Considering the overall visual presentation, what is the implied function of this product?",
+        "answer": "Storage"
+      },
+      {
+        "question": "What is the general style of typography used on the container's labeling?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Disregarding any text, describe the overall color scheme of the container.",
+        "answer": "Bicolor"
+      },
+      {
+        "question": "Does the container exhibit any noticeable visible markings aside from the label?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent condition of the product container in the image?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Observing the shape and contours, is this a rigid or flexible container?",
+        "answer": "Rigid"
+      },
+      {
+        "question": "Considering the dimensions, what is the apparent size of this container?",
+        "answer": "Large"
+      },
+      {
+        "question": "Describe the position of the product container in the displayed image.",
+        "answer": "Vertical"
+      }
+    ]
+  }
+]

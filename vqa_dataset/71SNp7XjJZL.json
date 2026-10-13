@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/73/738d015a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall design, what is the predominant style of this shoe, based solely on its visual appearance?",
+        "answer": "Oxford"
+      },
+      {
+        "question": "Examining the exterior, what material appears to be the primary construction component of the upper shoe?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Focusing on the color, what single word best describes the shoe's overall hue?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the image, what is the shape of the shoe's toe?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Observing the sole, what seems to be its texture, focusing on the visible pattern and not the material?",
+        "answer": "Lumpy"
+      },
+      {
+        "question": "What is the visible texture of the shoe's upper material, considering the image detail?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the visible lacing system, what is the type of closure mechanism on the shoe?",
+        "answer": "Lace-up"
+      },
+      {
+        "question": "Looking at the heel counter, can you describe the visible shape and structure of that part of the shoe?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What is the visible construction of the shoe's sole, in terms of its parts or design elements?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Inspecting the visible stitching, what would you describe the stitch pattern as, with reference to size and frequency?",
+        "answer": "Fine"
+      },
+      {
+        "question": "Describe the overall height of the sole unit on the shoe, considering both the heel and forefoot",
+        "answer": "Chunky"
+      },
+      {
+        "question": "Given the style of the shoe and its details, what is the most likely intended use or setting for wearing the shoe?",
+        "answer": "Casual"
+      },
+      {
+        "question": "Judging from the image, is the shoe design primarily minimalist or ornate in its features?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the apparent overall condition of the shoe, visually assessed as new, used, or damaged?",
+        "answer": "New"
+      },
+      {
+        "question": "Based on the image, what style of outsole design does the shoe present, focusing on its visible profile?",
+        "answer": "Lugged"
+      }
+    ]
+  }
+]

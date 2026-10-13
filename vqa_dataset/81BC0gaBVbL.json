@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c3/c31622ed.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the primary shape of the product container as shown in the image?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the predominant color of the product container, excluding any labels or markings?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the visual texture, how would you describe the surface of the container?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the top of the container, what type of closure or opening is present?",
+        "answer": "Flip-top"
+      },
+      {
+        "question": "What is the apparent material of the main body of the product container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the overall style of the labeling on the product container; is it simple or elaborate?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the color of the smaller rectangular label on the right side of the container?",
+        "answer": "Green"
+      },
+      {
+        "question": "Excluding the main label, what other noticeable markings are found on the container?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "Judging by the image, what seems to be the primary function of the product container?",
+        "answer": "Packaging"
+      },
+      {
+        "question": "Considering the text size and density, how would you characterize the print on the label?",
+        "answer": "Small"
+      },
+      {
+        "question": "In terms of its legibility, is the text on the product label easily readable or difficult to decipher?",
+        "answer": "Readable"
+      },
+      {
+        "question": "What is the color of the primary text used in the majority of the product labeling?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on its appearance, what is the likely state of the product within the container (e.g., liquid, solid)?",
+        "answer": "Liquid"
+      },
+      {
+        "question": "Considering the container's construction, is it designed for single or repeated use?",
+        "answer": "Single"
+      },
+      {
+        "question": "Does the product container exhibit any visible damage or imperfections?",
+        "answer": "No"
+      }
+    ]
+  }
+]

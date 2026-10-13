@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bb/bb3b820e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the product's packaging, as observed from the provided image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the image, what appears to be the primary material used for the product's packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Based on the visual details, what is the overall shape of the product's container?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Does the packaging display any noticeable texture, considering the visual evidence provided?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the most prominent text displayed on the product's packaging, based solely on visual observation?",
+        "answer": "Wholefoods"
+      },
+      {
+        "question": "Judging from the image, does the product packaging contain any visible illustrations or graphics besides text?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image, what kind of printing technique appears to be used for the text on the product's packaging?",
+        "answer": "Offset"
+      },
+      {
+        "question": "What is the apparent size of the text, relative to the overall size of the package, considering the visual evidence?",
+        "answer": "Large"
+      },
+      {
+        "question": "From the visual perspective only, what is the perceived finish of the packaging's surface, considering reflections or shine?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the packaging show any noticeable seams or joins, based on visual cues provided in the image?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the image, what is the overall style of the product's packaging design, minimalistic or elaborate?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Considering the provided image, are there any visible perforations or other openings in the product's packaging?",
+        "answer": "No"
+      },
+      {
+        "question": "From the image, is there a clear indication of any specific weight or volume printed on the packaging?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image, what language is primarily used on the product's packaging?",
+        "answer": "English"
+      },
+      {
+        "question": "Based on the image, are there any noticeable folds or creases visible on the product's packaging?",
+        "answer": "No"
+      }
+    ]
+  }
+]

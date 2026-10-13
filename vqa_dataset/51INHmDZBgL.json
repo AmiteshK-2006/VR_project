@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5b/5bfc6cc3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the packaging's background, as shown in the image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the visual texture, what material appears to be used for the main packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Based on the image, what shapes are repeatedly used in the graphic design on the packaging?",
+        "answer": "Circles"
+      },
+      {
+        "question": "Describe the color of the graphic design elements on the packaging, excluding the background.",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall style of the packaging design, considering its simplicity and use of shapes?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Considering the image, what seems to be the primary purpose of this package based on its contents description?",
+        "answer": "Coffee"
+      },
+      {
+        "question": "Judging from the image, what type of coffee is specified on the package?",
+        "answer": "Arabica"
+      },
+      {
+        "question": "What is the visible printing method used for the text and graphics on the packaging?",
+        "answer": "Printing"
+      },
+      {
+        "question": "Describe the visual texture of the text and graphics on the packaging in the image.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Is the image of the packaging showing its front, back, top, or another side?",
+        "answer": "Back"
+      },
+      {
+        "question": "Based on the image, what is the format or style of the text on the product's packaging?",
+        "answer": "Block"
+      },
+      {
+        "question": "What is the predominant visual format for providing information on the package (text or images)?",
+        "answer": "Text"
+      },
+      {
+        "question": "Describe the visual arrangement of the text blocks, describing their positioning on the packaging in the image.",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Describe the visual finish of the packaging surface, is it glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What seems to be the main method of information delivery on this package, graphics or typography?",
+        "answer": "Typography"
+      }
+    ]
+  }
+]

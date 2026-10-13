@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/eb/eb923546.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the background on which the ingredients list is printed?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the font style used for the 'INGREDIENTS' heading?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the text's alignment, is the overall design symmetrical or asymmetrical?",
+        "answer": "Asymmetrical"
+      },
+      {
+        "question": "What is the overall shape of the rectangular area containing the text?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging from the image, what is the surface texture of the label itself?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent material composition of the label?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the predominant color of the text on the label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Is the text presented in all capital letters or a mix of cases?",
+        "answer": "Capital"
+      },
+      {
+        "question": "What is the case of the word 'INGREDIENTS'?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Does the text use any specific style variations, such as bold or italics?",
+        "answer": "None"
+      },
+      {
+        "question": "Based on the density of the text, does the list appear concise or extensive?",
+        "answer": "Extensive"
+      },
+      {
+        "question": "From a visual perspective, is the text easily readable?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the text layout utilize any visual separators, such as lines or boxes?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the overall visual style, what is the impression it conveys?",
+        "answer": "Informative"
+      },
+      {
+        "question": "What color is the small symbol at the bottom right corner?",
+        "answer": "Black"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8f/8f58df1e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what is the primary shape of the food container depicted in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visible text, what is the prominent numerical value indicating caloric content per serving?",
+        "answer": "170"
+      },
+      {
+        "question": "Observing the detailed nutritional information, what primary ingredient is listed first among the components?",
+        "answer": "Eggs"
+      },
+      {
+        "question": "From the ingredient list, identify a leafy green vegetable explicitly mentioned in the product's composition.",
+        "answer": "Spinach"
+      },
+      {
+        "question": "What specific type of oil is mentioned as a component in the 'Everything Spice' mixture?",
+        "answer": "Canola"
+      },
+      {
+        "question": "Focusing on the textual information, what type of seed is explicitly identified as a constituent?",
+        "answer": "Sesame"
+      },
+      {
+        "question": "What is the primary color of the text printed on the food container's label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the nutritional facts, what is the total fat content in grams per serving?",
+        "answer": "12"
+      },
+      {
+        "question": "What is the primary color of the container's label background?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the total amount of protein, in grams, contained per serving according to the label?",
+        "answer": "11"
+      },
+      {
+        "question": "What is the amount of sodium, in milligrams, listed per serving on the label?",
+        "answer": "640"
+      },
+      {
+        "question": "According to the label, what specific type of spice is listed as a component?",
+        "answer": "Everything"
+      },
+      {
+        "question": "Examining the ingredient list, what type of flour is used in this product?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "What type of powder is explicitly named as a component in the 'Everything Spice'?",
+        "answer": "Garlic"
+      },
+      {
+        "question": "From the ingredients list, what is the type of oil besides canola that is possibly included?",
+        "answer": "Sunflower"
+      }
+    ]
+  }
+]

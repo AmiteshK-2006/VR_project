@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/da/da82394f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed textile product?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the texture, what is the apparent feel of the surface?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Based on the image, what is the general shape of the item shown?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging by its appearance, what is the likely material of the product?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Does the product's surface appear smooth or textured?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent level of fullness or loft of the item?",
+        "answer": "Plump"
+      },
+      {
+        "question": "Considering its visual characteristics, what is the product's apparent weight?",
+        "answer": "Light"
+      },
+      {
+        "question": "Observing its structure, what is the product's overall design style?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Considering the hand placement, what is the implied quality of the material?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Based on the image's visual characteristics, what is the intended use?",
+        "answer": "Comfort"
+      },
+      {
+        "question": "Judging by the visible folds, what is the product's flexibility?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Considering its form, what type of item is being demonstrated?",
+        "answer": "Pillow"
+      },
+      {
+        "question": "How would you describe the apparent quality of the product's craftsmanship?",
+        "answer": "Fine"
+      },
+      {
+        "question": "What is the apparent state of the product, pristine or used?",
+        "answer": "Pristine"
+      },
+      {
+        "question": "Considering its appearance, what is the level of sheen or gloss?",
+        "answer": "Matte"
+      }
+    ]
+  }
+]

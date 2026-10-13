@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f3/f3aee4ab.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual design, what is the dominant color scheme of this product's label?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Based on the label's typography, what is the most prominent word or phrase present?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Observing the text layout, what is the primary function of the information displayed?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Judging by the numerical data on the label, what is the serving size expressed in grams?",
+        "answer": "50"
+      },
+      {
+        "question": "Regarding the structure of the presented data, what unit of measurement is used for calories?",
+        "answer": "70"
+      },
+      {
+        "question": "According to the label's details, what is the number of servings available?",
+        "answer": "12"
+      },
+      {
+        "question": "Focusing on the listed nutrients, what is the approximate total fat content in grams per serving?",
+        "answer": "5"
+      },
+      {
+        "question": "Analyzing the nutritional information, how many grams of saturated fat are in each serving?",
+        "answer": "1.5"
+      },
+      {
+        "question": "Based on the visible nutritional data, how many milligrams of cholesterol are present?",
+        "answer": "185"
+      },
+      {
+        "question": "Referring to the quantitative data, what is the total protein content per serving in grams?",
+        "answer": "6"
+      },
+      {
+        "question": "Examining the text layout, what is the category of information provided on this label?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Considering the visible details, what is the approximate sodium content per serving in milligrams?",
+        "answer": "70"
+      },
+      {
+        "question": "From the provided text, what is the food item that is the subject of the nutritional information?",
+        "answer": "Egg"
+      },
+      {
+        "question": "Regarding the overall aesthetic, what would you describe the label's texture as?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Judging by the information provided, what is the primary unit of measurement used for the serving size?",
+        "answer": "Grams"
+      }
+    ]
+  }
+]

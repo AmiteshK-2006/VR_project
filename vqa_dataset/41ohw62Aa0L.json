@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/93/935034fd.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed item?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the overall appearance, what is the primary texture observed?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image, what seems to be the material of the product?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "What is the apparent overall shape of the object presented?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Does the product show any significant patterns or prints?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the visible surface, is the product glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "From the visual details, does the fabric seem woven or knit?",
+        "answer": "Unknown"
+      },
+      {
+        "question": "Does the image reveal any visible seams or stitching?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the level of transparency of the presented item?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Considering its structure, how thick does the fabric appear to be?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Does the item show any folds or wrinkles in its presentation?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent condition of the item in the photograph?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Observing carefully, does the item exhibit any visible damage or defects?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on appearance alone, is the item likely to be stiff or drapey?",
+        "answer": "Drapey"
+      },
+      {
+        "question": "Does the image clearly show the item's full dimensions?",
+        "answer": "No"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b6/b6bb1b57.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color gradient present across the entire surface?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the overall shape of the depicted product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the primary material used in the product's construction?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describing the texture, is the surface smooth or rough?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Is there any noticeable pattern or design imprinted on the surface?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the edges, are they sharply defined or rounded?",
+        "answer": "Sharp"
+      },
+      {
+        "question": "What is the shape of the cutout near one corner of the product?",
+        "answer": "Semi-circular"
+      },
+      {
+        "question": "What is the purpose suggested by the product's design and dimensions?",
+        "answer": "Protective"
+      },
+      {
+        "question": "Considering the image, how many visible cutouts are present in the product?",
+        "answer": "One"
+      },
+      {
+        "question": "What is the apparent thickness of the product based on the provided image?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Focusing on the color transition, is it abrupt or gradual?",
+        "answer": "Gradual"
+      },
+      {
+        "question": "Is there any noticeable sheen or gloss to the surface of the product?",
+        "answer": "Slight"
+      },
+      {
+        "question": "What is the overall visual impression of the product: transparent, opaque, or translucent?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Observing the corners, are they perfectly 90 degrees or slightly rounded?",
+        "answer": "90"
+      },
+      {
+        "question": "Considering its function, what kind of device might this product protect?",
+        "answer": "Screen"
+      }
+    ]
+  }
+]

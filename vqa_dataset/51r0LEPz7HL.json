@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/96/9696aa69.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall shape and form of each individual unit, what is the most accurate geometrical description of the product?",
+        "answer": "Gummy"
+      },
+      {
+        "question": "Based on the visible color composition of the product, what is the predominant shade observed?",
+        "answer": "Orange"
+      },
+      {
+        "question": "Judging by the image's texture representation, what is the primary textural quality displayed by the product?",
+        "answer": "Chewy"
+      },
+      {
+        "question": "Considering the product's manufacturing process, what is its dominant structural form?",
+        "answer": "Gummy"
+      },
+      {
+        "question": "What is the apparent primary function or usage of these items, visually determined by the image alone?",
+        "answer": "Supplement"
+      },
+      {
+        "question": "What color(s) are present in the product, according to the visible features in the supplied image?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What appears to be the primary ingredient visually implied by the color of the product, based solely on the image?",
+        "answer": "Sugar"
+      },
+      {
+        "question": "What is the apparent consistency of the product shown in the image, based purely on visual cues?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Considering the size relative to a typical human hand, what size range best describes these items in terms of scale?",
+        "answer": "Small"
+      },
+      {
+        "question": "What would you describe the general surface texture of the gummy as?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What shape best describes the overall form of each individual gummy item, based solely on the provided visual data?",
+        "answer": "Irregular"
+      },
+      {
+        "question": "What is the visible number of individual units contained within this particular image, assuming each is visually distinct?",
+        "answer": "Zero"
+      },
+      {
+        "question": "What single word best captures the overall visual impression of the product, purely from the image alone?",
+        "answer": "Candies"
+      },
+      {
+        "question": "What term describes the product's form, based on visual analysis of the supplied image?",
+        "answer": "Chewy"
+      },
+      {
+        "question": "Based solely on visual information, what single word best describes the product's state?",
+        "answer": "Solid"
+      }
+    ]
+  }
+]

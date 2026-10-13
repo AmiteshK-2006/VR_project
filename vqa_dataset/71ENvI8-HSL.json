@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1b/1b91a0c2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the depicted lighting fixtures?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of each individual light bulb?",
+        "answer": "Conical"
+      },
+      {
+        "question": "What material appears to constitute the main body of the bulbs?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the base, what type of fitting do these lights possess?",
+        "answer": "GU10"
+      },
+      {
+        "question": "Describe the surface texture of the light diffusers visible on top?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "How many individual light bulbs are presented in the image?",
+        "answer": "Ten"
+      },
+      {
+        "question": "What kind of light source is embedded within each fixture?",
+        "answer": "LED"
+      },
+      {
+        "question": "Considering the arrangement, how are the bulbs positioned in the image?",
+        "answer": "Rows"
+      },
+      {
+        "question": "Describe the visible pattern of the light emitting components on top?",
+        "answer": "Circular"
+      },
+      {
+        "question": "What is the apparent finish of the plastic casing of the light bulbs?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the visible design of the metallic contacts at the base?",
+        "answer": "Pins"
+      },
+      {
+        "question": "What seems to be the orientation of each light bulb in the image?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Based on the image, what is the size relative to each other?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Judging from the image, do the bulbs show any significant markings?",
+        "answer": "None"
+      },
+      {
+        "question": "Based solely on visual inspection, what is the apparent light output?",
+        "answer": "Diffuse"
+      }
+    ]
+  }
+]

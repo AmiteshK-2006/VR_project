@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/17/17b9a0ac.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what single word best describes the background color of the product label shown in the image?",
+        "answer": "Purple"
+      },
+      {
+        "question": "Based on the text displayed, what specific type of dried herb is indicated as the main ingredient?",
+        "answer": "Parsley"
+      },
+      {
+        "question": "What is the word immediately preceding the word 'Parsley', describing the origin or nature of the ingredient?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Judging by the image, what is the text printed on the label describing the ingredient composition?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Considering the visual characteristics of the lettering, what adjective best describes the text's style on the product label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the visual appearance, what is the form in which the parsley is presented, as denoted by the product label?",
+        "answer": "Flakes"
+      },
+      {
+        "question": "What is the text style used to display the word 'Ingredients' on the product label visible in the image?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "What is the overall appearance of the print used on the label, considering the sharpness and detail?",
+        "answer": "Crisp"
+      },
+      {
+        "question": "Considering the style, what term best reflects how the text aligns across the surface of the label?",
+        "answer": "Left-aligned"
+      },
+      {
+        "question": "What is the apparent font weight of the text that is visible on the product label displayed in the image?",
+        "answer": "Regular"
+      },
+      {
+        "question": "If you were to describe the text color, using a single-word descriptor, what would it be?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Taking into account the image provided, what can be said about the printed label's density or darkness?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Based on the image provided, how would you describe the general visual quality of the text on the label?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Considering only what is visually observable in the image, what single word would accurately describe the printed label's texture?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "In the image, what is the only word visible that is not capitalized?",
+        "answer": "Flakes"
+      }
+    ]
+  }
+]

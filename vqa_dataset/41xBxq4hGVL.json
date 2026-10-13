@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f8/f8eb3c9e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the lampshade, as shown in the provided image?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the image, what appears to be the primary material used for the lampshade?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Based on the visual, what is the overall shape of the lampshade presented?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Judging from the image, what is the texture of the lampshade's fabric, appearing smooth or coarse?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the lampshade in the image exhibit any noticeable patterns or designs?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the color of the visible metal base or fitting of the lampshade, according to the image provided?",
+        "answer": "Silver"
+      },
+      {
+        "question": "From the image, can you describe the apparent finish of the metal base, such as matte, glossy, or brushed?",
+        "answer": "Brushed"
+      },
+      {
+        "question": "Observing the image, what is the shape of the visible metal base?",
+        "answer": "Circular"
+      },
+      {
+        "question": "Judging by the image, is the lampshade translucent, opaque, or transparent?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What is the visible diameter of the lampshade at its widest point in the image provided?",
+        "answer": "Wide"
+      },
+      {
+        "question": "What is the apparent height of the lampshade, relative to its diameter in the given image?",
+        "answer": "Tall"
+      },
+      {
+        "question": "Based on the image, describe the visible seam of the lampshade \u2014 is it apparent or hidden?",
+        "answer": "Hidden"
+      },
+      {
+        "question": "Does the image reveal any embellishments or decorative elements on the lampshade itself?",
+        "answer": "No"
+      },
+      {
+        "question": "From the image, describe the consistency of the fabric \u2014 is it pleated, gathered, or smooth?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the visible style of the lampshade's fitting, as observed in the picture?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

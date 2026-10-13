@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/08/086e15ce.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall layout design of the presented nutritional information, considering its arrangement and alignment of text and numerical values?",
+        "answer": "tabular"
+      },
+      {
+        "question": "What is the primary color used for the text within the nutritional information panel?",
+        "answer": "black"
+      },
+      {
+        "question": "What is the background color of the nutritional fact panel?",
+        "answer": "white"
+      },
+      {
+        "question": "What is the font style primarily used to display the nutritional information?",
+        "answer": "sans-serif"
+      },
+      {
+        "question": "Considering the text, what is the overarching theme or topic communicated in this visual element?",
+        "answer": "nutrition"
+      },
+      {
+        "question": "What measurement unit is used to quantify the serving size of the food product, as visually depicted?",
+        "answer": "cup"
+      },
+      {
+        "question": "Based on visual inspection, what is the total number of calories per serving of this product?",
+        "answer": "eighty"
+      },
+      {
+        "question": "What is the visual presentation style of the percentage daily values shown next to each nutrient?",
+        "answer": "numerical"
+      },
+      {
+        "question": "What is the font weight of the 'Nutrition Facts' heading, in terms of its visual appearance?",
+        "answer": "bold"
+      },
+      {
+        "question": "Examining the text, what unit is consistently used for measuring the amount of various nutrients?",
+        "answer": "grams"
+      },
+      {
+        "question": "What is the visual format of the data presented in the nutritional information?",
+        "answer": "table"
+      },
+      {
+        "question": "What is the text orientation in this panel of nutritional information?",
+        "answer": "vertical"
+      },
+      {
+        "question": "What is the overall shape of the presented nutritional fact panel?",
+        "answer": "rectangular"
+      },
+      {
+        "question": "Describe the visual texture of the nutritional fact panel's background.",
+        "answer": "smooth"
+      },
+      {
+        "question": "What is the visual style of the numbers representing the daily values?",
+        "answer": "percent"
+      }
+    ]
+  }
+]

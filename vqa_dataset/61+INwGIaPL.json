@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5b/5bdc1024.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color dominating the packaging of this medication box?",
+        "answer": "Teal"
+      },
+      {
+        "question": "What is the shape of the container holding the tablets?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What specific medical condition does this medication treat, as stated on the box?",
+        "answer": "Heartburn"
+      },
+      {
+        "question": "Based on the image, what is the depicted flavor of the tablet?",
+        "answer": "Blueberry"
+      },
+      {
+        "question": "What is the indicated dosage of the active ingredient per tablet, as shown on the box?",
+        "answer": "15mg"
+      },
+      {
+        "question": "What is the name of the active pharmaceutical ingredient displayed prominently on the box?",
+        "answer": "Lansoprazole"
+      },
+      {
+        "question": "What is the total number of tablets contained within this box, as clearly indicated?",
+        "answer": "42"
+      },
+      {
+        "question": "What is the stated duration of the medication's effect, in hours?",
+        "answer": "24"
+      },
+      {
+        "question": "What form does the medication take, as described on the packaging?",
+        "answer": "Tablets"
+      },
+      {
+        "question": "What is the brand name of the manufacturer indicated on the box?",
+        "answer": "BasicCare"
+      },
+      {
+        "question": "What other brand is this product compared to on the packaging?",
+        "answer": "Prevacid"
+      },
+      {
+        "question": "What is the text describing the process of how the tablet disintegrates?",
+        "answer": "Dissolves"
+      },
+      {
+        "question": "What type of medical relief does this product offer, according to its label?",
+        "answer": "Acid"
+      },
+      {
+        "question": "What is the method of administration, as specified on the packaging?",
+        "answer": "Oral"
+      },
+      {
+        "question": "What is the secondary brand indicated on the box?",
+        "answer": "MELTech"
+      }
+    ]
+  }
+]

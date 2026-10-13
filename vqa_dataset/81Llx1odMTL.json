@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b7/b7d8e0f8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the label's background, prominently displayed across the majority of the carton's surface?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the overall textual layout, what is the dominant orientation of the textual content on the carton?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the most prominent brand name displayed across the label, featuring a distinctive logo?",
+        "answer": "WholeFoods"
+      },
+      {
+        "question": "What is the descriptive term used to denote the type of milk featured in the ingredient list, indicating a modification to fat content?",
+        "answer": "Reduced"
+      },
+      {
+        "question": "What is the precise term utilized to describe the time frame after opening during which the product is advised for optimal consumption?",
+        "answer": "Days"
+      },
+      {
+        "question": "What specific unit of measurement is employed to quantify the amount of fat reduction mentioned on the product label?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the numerical value of fat reduced as specified in the label's fine print, indicating a decreased amount?",
+        "answer": "5"
+      },
+      {
+        "question": "What is the type of vitamin explicitly listed as an ingredient in the product's composition?",
+        "answer": "Vitamin"
+      },
+      {
+        "question": "What is the name of the city mentioned as the location of the distributor of this specific product?",
+        "answer": "Austin"
+      },
+      {
+        "question": "What is the abbreviated representation of the state in which the distributor of this dairy product is located?",
+        "answer": "TX"
+      },
+      {
+        "question": "What specific compound is mentioned alongside Vitamin A, which seems to be an additive?",
+        "answer": "Palmitate"
+      },
+      {
+        "question": "What is the number of digits present in the zip code provided for the distributor's address on the packaging?",
+        "answer": "Five"
+      },
+      {
+        "question": "What is the form of the product, as suggested by its packaging and content description?",
+        "answer": "Milk"
+      },
+      {
+        "question": "What is the year stated as the copyright year for the Whole Foods Market IP, LP?",
+        "answer": "2017"
+      },
+      {
+        "question": "What is the general recommendation given on the packaging regarding the storage of this product, to ensure its optimal quality and longevity?",
+        "answer": "Refrigerated"
+      }
+    ]
+  }
+]

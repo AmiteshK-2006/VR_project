@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b2/b24cca8a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual appearance, what is the dominant color of this shoe, as seen from the top?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What appears to be the primary material used in constructing the upper portion of this shoe?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Based on the visible texture, what is the overall surface feel of the shoe's upper material?",
+        "answer": "Suede"
+      },
+      {
+        "question": "What style of fastening mechanism is prominently displayed for securing the shoe?",
+        "answer": "Laces"
+      },
+      {
+        "question": "Describe the apparent shape of the shoe's toe box, viewed from a top-down perspective?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What color are the laces that are used to secure the shoe, considering the overall visual?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Judging from the image, what kind of sole is attached to the shoe's base?",
+        "answer": "White"
+      },
+      {
+        "question": "Observing the stitching details, what is the pattern along the perimeter of the shoe's upper?",
+        "answer": "Stitched"
+      },
+      {
+        "question": "From the image alone, what is the apparent style of shoe depicted in the top-down view?",
+        "answer": "Sneaker"
+      },
+      {
+        "question": "Considering the visual aspects, what appears to be the overall condition of the shoe in the image?",
+        "answer": "New"
+      },
+      {
+        "question": "Focusing on the heel counter, describe its visible color compared to the rest of the shoe",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the design of the eyelets through which the laces are threaded?",
+        "answer": "Round"
+      },
+      {
+        "question": "Based on visual observation, what is the apparent height of the shoe's sole?",
+        "answer": "Low"
+      },
+      {
+        "question": "From a top-down view, is the shoe's design predominantly plain or patterned?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Describe the visible texture of the sole, considering its appearance in the top-down image",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0d/0daaca51.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape and the density of text blocks, what is the primary format of this item?",
+        "answer": "Label"
+      },
+      {
+        "question": "Based on the prominently displayed header at the top, what specific type of information is predominantly presented?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Given the multiple sections delineated by bold headings, what is the organizational strategy used to structure the information?",
+        "answer": "Sections"
+      },
+      {
+        "question": "Observing the distinct typeface used for the primary headings, how would you classify its style?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Given the uniform background and consistent font, what can be said about the visual consistency?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Considering the predominantly black ink on a white backdrop, what is the overall color scheme?",
+        "answer": "Monochrome"
+      },
+      {
+        "question": "Looking at the detailed textual content, what is the primary mode of information delivery?",
+        "answer": "Text"
+      },
+      {
+        "question": "Analyzing the text blocks' arrangement, what is their spatial layout?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Given the detailed descriptions and instructions, what is the intended audience?",
+        "answer": "Users"
+      },
+      {
+        "question": "Based on the specific details and instructions, what is the general purpose of the information provided?",
+        "answer": "Guidance"
+      },
+      {
+        "question": "Considering the small size of the text and the density of the information, how would you classify its readability?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Observing the fine print and the numerous details, what is the level of detail provided?",
+        "answer": "Extensive"
+      },
+      {
+        "question": "Considering the lack of illustrations or graphics, how would you characterize its visual style?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Given the clear and concise style, how would you assess the tone used in presenting the information?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Looking at the content's nature, what is the general subject of the information?",
+        "answer": "Medical"
+      }
+    ]
+  }
+]

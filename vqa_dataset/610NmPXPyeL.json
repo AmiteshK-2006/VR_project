@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/90/90bffb07.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color on the packaging's primary display area?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What food item is depicted on the package?",
+        "answer": "Peanuts"
+      },
+      {
+        "question": "Describe the overall shape of the food package shown in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What type of coating is mentioned on the peanuts, as shown on the packaging?",
+        "answer": "Coconut"
+      },
+      {
+        "question": "What is the primary text font style used on the packaging?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the texture implied by the visual description of the food product?",
+        "answer": "Crunchy"
+      },
+      {
+        "question": "What is the background color of the text on the package?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the secondary color on the packaging, primarily found on the top and bottom?",
+        "answer": "LightBlue"
+      },
+      {
+        "question": "What is the overall design style of the food packaging (e.g., minimalist, ornate)?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Considering the text's placement, what is the orientation of the packaging?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the general color family of the lighter shade on the packaging?",
+        "answer": "Pastel"
+      },
+      {
+        "question": "What type of food product is this, based on the image alone?",
+        "answer": "Snack"
+      },
+      {
+        "question": "What units of weight are displayed on the packaging?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Based on packaging, what flavor profile is suggested for the peanuts?",
+        "answer": "Sweet"
+      },
+      {
+        "question": "What is the material of the product packaging?",
+        "answer": "Cardboard"
+      }
+    ]
+  }
+]

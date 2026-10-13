@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fa/fa2c32d0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the textile displayed in the image?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "Considering the texture, what is the primary tactile characteristic of this fabric?",
+        "answer": "Fuzzy"
+      },
+      {
+        "question": "Based on its appearance, what is the likely material composition of this product?",
+        "answer": "Sherpa"
+      },
+      {
+        "question": "Describe the overall pattern observed across the surface of the textile?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Considering the image, what is the most apparent visual feature of the material?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Describe the visual arrangement of the fibers in the displayed fabric?",
+        "answer": "Looped"
+      },
+      {
+        "question": "Judging by the image, is the material's appearance primarily smooth or rough?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What is the apparent weight or density of the fabric based on its visual features?",
+        "answer": "Thick"
+      },
+      {
+        "question": "How would you characterize the visual appeal of the textile's surface?",
+        "answer": "Plush"
+      },
+      {
+        "question": "From the image, what appears to be the level of sheen on the fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the visual uniformity of the color and texture across the displayed area?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Judging by visual evidence, what is the fiber's arrangement, random or structured?",
+        "answer": "Structured"
+      },
+      {
+        "question": "Based on the image, does the material exhibit any visible shine or gloss?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the dominant visual impression created by the fabric's texture?",
+        "answer": "Cozy"
+      },
+      {
+        "question": "Is the surface of the textile predominantly flat or three-dimensional?",
+        "answer": "Three-dimensional"
+      }
+    ]
+  }
+]

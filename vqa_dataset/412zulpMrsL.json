@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/82/8227e2da.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the highest energy efficiency rating displayed on the label?",
+        "answer": "A+"
+      },
+      {
+        "question": "What is the color of the highest energy efficiency rating box?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the lowest energy efficiency rating shown on the label?",
+        "answer": "E"
+      },
+      {
+        "question": "What color is the lowest energy efficiency rating box?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the overall shape of the energy label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary language used on the energy label?",
+        "answer": "English"
+      },
+      {
+        "question": "What unit is used to measure energy consumption?",
+        "answer": "kWh"
+      },
+      {
+        "question": "What is the numerical value of the energy consumption displayed?",
+        "answer": "10.5"
+      },
+      {
+        "question": "What is the background color of the energy label?",
+        "answer": "White"
+      },
+      {
+        "question": "What type of information does this label represent?",
+        "answer": "Energy"
+      },
+      {
+        "question": "Is the label primarily textual or graphical in nature?",
+        "answer": "Graphical"
+      },
+      {
+        "question": "What number is shown in the lower right corner?",
+        "answer": "10.5"
+      },
+      {
+        "question": "What is the format of the numerical value of energy consumption?",
+        "answer": "Decimal"
+      },
+      {
+        "question": "How many different energy efficiency ratings are shown?",
+        "answer": "Six"
+      },
+      {
+        "question": "Does the label contain a logo or symbol?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

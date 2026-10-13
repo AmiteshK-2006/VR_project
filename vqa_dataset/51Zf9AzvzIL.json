@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b1/b129c892.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's overall visual presentation, what is the dominant textual orientation of the label, as observed in the image?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Based on the image, what is the primary ingredient explicitly mentioned on the product label?",
+        "answer": "Oil"
+      },
+      {
+        "question": "What adjective directly precedes 'virgin olive oil' in the visible text?",
+        "answer": "Extra"
+      },
+      {
+        "question": "What word follows 'olive' in the description of the primary ingredient?",
+        "answer": "Oil"
+      },
+      {
+        "question": "What is the apparent font style of the product information displayed in the image?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Disregarding any context, what single word appears before the colon in the first line of text shown in the image?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the single word used to describe the nature of the olive oil?",
+        "answer": "Virgin"
+      },
+      {
+        "question": "In the second line of text, what is the facility processing?",
+        "answer": "Peanuts"
+      },
+      {
+        "question": "What other ingredient, along with peanuts, is mentioned in the text as being processed in the facility?",
+        "answer": "Soy"
+      },
+      {
+        "question": "What preposition directly precedes the word 'facility' in the second line of the label?",
+        "answer": "In"
+      },
+      {
+        "question": "Focusing on the textual aspect, what is the case of all the letters used in the displayed label (e.g., upper, lower, title, etc.)?",
+        "answer": "Upper"
+      },
+      {
+        "question": "In the second line of text, what is the grammatical form of the verb describing the facility's actions?",
+        "answer": "Processes"
+      },
+      {
+        "question": "What is the single-word grammatical tense marker at the start of the second line of the presented text?",
+        "answer": "Produced"
+      },
+      {
+        "question": "What is the word immediately following the word 'a' in the second line?",
+        "answer": "Facility"
+      },
+      {
+        "question": "Ignoring all other information, what is the single word that acts as a conjunction in the second line of the label?",
+        "answer": "And"
+      }
+    ]
+  }
+]

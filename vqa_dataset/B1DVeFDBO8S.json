@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4c/4c05c3da.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color shade visibly present across the entire fabric sample?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the textile's visual structure, what is the apparent weave type?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Based on the image, what is the overall texture of the fabric sample presented?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Judging by the image, what is the visual appearance of the fabric's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From the visual details, what kind of fiber seems to make up this textile?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "What is the general impression of the fabric's thickness or weight, judging from the image alone?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Describe the visual pattern that is predominantly seen across the textile surface.",
+        "answer": "Linear"
+      },
+      {
+        "question": "Considering the visual details, what is the general visual impression of the fabric's quality?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the visual consistency observed across the presented textile swatch?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Based on the visible details, does the fabric appear to be visibly lustrous or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging from the provided visual data, how would you characterize the fabric's drape?",
+        "answer": "Drapable"
+      },
+      {
+        "question": "What kind of visual impression regarding the fabric's surface does the image provide?",
+        "answer": "Even"
+      },
+      {
+        "question": "Considering the image, what appears to be the main visual characteristic of the fabric's fibers?",
+        "answer": "Fine"
+      },
+      {
+        "question": "What is the apparent visual finish of the presented textile, considering the image's detail?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Based on the visible characteristics, how would you describe the fabric's visual density?",
+        "answer": "Dense"
+      }
+    ]
+  }
+]

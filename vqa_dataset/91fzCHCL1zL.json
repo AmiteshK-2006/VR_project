@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1a/1a1013ac.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the provided close-up image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the image's texture, what is the apparent weave type of the fabric?",
+        "answer": "Canvas"
+      },
+      {
+        "question": "Based on the visible water droplets, what is a key characteristic of this fabric?",
+        "answer": "Waterproof"
+      },
+      {
+        "question": "Judging by the image, what is the overall visual texture of the displayed material?",
+        "answer": "Woven"
+      },
+      {
+        "question": "From the provided close-up, what seems to be the primary material composition?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "What is the apparent surface finish of the material presented in the close-up view?",
+        "answer": "Matt"
+      },
+      {
+        "question": "Describe the visual pattern created by the water droplets on the fabric surface.",
+        "answer": "Random"
+      },
+      {
+        "question": "Given the close-up, how would you describe the general look of the fabric's texture?",
+        "answer": "Coarse"
+      },
+      {
+        "question": "From the close-up, what can be inferred about the water-resistant properties of the material?",
+        "answer": "High"
+      },
+      {
+        "question": "What does the water behavior on the fabric suggest about its density?",
+        "answer": "High"
+      },
+      {
+        "question": "Considering the small droplets, how would you describe the fabric's absorbency?",
+        "answer": "Low"
+      },
+      {
+        "question": "What is the apparent visual consistency of the fabric's color and weave across the image?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Based on the image, what is the implied strength of the material's weave?",
+        "answer": "Strong"
+      },
+      {
+        "question": "What is the visual effect produced by the contrast between the water droplets and the fabric?",
+        "answer": "High"
+      },
+      {
+        "question": "How would you characterize the apparent thickness of the fabric presented in the close-up view?",
+        "answer": "Medium"
+      }
+    ]
+  }
+]

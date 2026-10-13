@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8b/8b0a396d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary text displayed prominently on the upper portion of this rectangular food label?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Considering the overall design, what is the most apparent organizational structure of the presented nutritional information?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the numerical value explicitly stated concerning the caloric content per serving, as clearly shown on the label?",
+        "answer": "140"
+      },
+      {
+        "question": "Observing the label's color scheme, what is the dominant color used for the background of this nutritional information panel?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the visual presentation, what is the typeface employed for the heading \"Nutrition Facts\"?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the color of the text primarily used for the listed nutritional values and headings on the food label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Given the layout, how many distinct columns are visibly present in the structured arrangement of the nutritional facts?",
+        "answer": "Four"
+      },
+      {
+        "question": "Based on the visible text, what is the stated unit of measurement for the \"Calories per serving\" value?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Judging by the image, what seems to be the overall shape of the presented nutritional information panel on the food item?",
+        "answer": "Rectangle"
+      },
+      {
+        "question": "From the text displayed, what is the specified number of servings contained within a single package, as indicated on the nutritional label?",
+        "answer": "Six"
+      },
+      {
+        "question": "What is the color of the thin line separating the main nutritional information sections on this food label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the textual elements, what is the specified unit of measurement for the total fat content on the food label?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Referring to the image, what is the style of the font used for displaying the numerical values of the nutritional information?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the visual appearance of the label, what is the overall texture of the nutrition facts panel?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the weight of the package, in grams, as listed on the nutrition facts panel?",
+        "answer": "57g"
+      }
+    ]
+  }
+]

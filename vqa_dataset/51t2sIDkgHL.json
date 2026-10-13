@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/75/75ce63cb.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed rectangular item?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the overall visual appearance, what is the apparent texture of the item?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on its visual characteristics, what is the most likely material of this object?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Judging from the image, what is the general shape of the presented product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Does the item show any noticeable patterns or designs on its surface?",
+        "answer": "None"
+      },
+      {
+        "question": "From the visual evidence, is the item seemingly transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Considering the image provided, what is the level of gloss or sheen observed on the item?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on its appearance, how thick does the rectangular object appear to be?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Does the image suggest any discernible folds or wrinkles in the product?",
+        "answer": "None"
+      },
+      {
+        "question": "Observing the edges, what is the overall appearance of the item's finish?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Can any form of embellishments or added designs be seen on the item?",
+        "answer": "No"
+      },
+      {
+        "question": "Is there any visible sign of damage or imperfection on the item's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the item appear to have any discernible seams or stitching visible?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering its flat nature, what is the apparent stiffness or flexibility of the object?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "From its visual properties, does the object appear to be absorbent or non-absorbent?",
+        "answer": "Absorbent"
+      }
+    ]
+  }
+]

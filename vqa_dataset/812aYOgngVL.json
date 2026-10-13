@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/60/608fe4b0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the outer packaging visible in the image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What appears to be the primary material used for the product's packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Considering the overall dimensions, what is the most likely shape of the packaging box?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the image, what seems to be the general texture of the outer packaging?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Does the box exhibit any noticeable surface markings or text besides the label?",
+        "answer": "No"
+      },
+      {
+        "question": "What color is the small rectangular label affixed to the side of the package?",
+        "answer": "White"
+      },
+      {
+        "question": "Judging by the visible packaging, what is the likely state of the product inside; is it assembled or in parts?",
+        "answer": "Unassembled"
+      },
+      {
+        "question": "Does the packaging show any obvious signs of damage or wear, such as creases or tears?",
+        "answer": "No"
+      },
+      {
+        "question": "What appears to be the overall condition of the packaging based solely on visual inspection?",
+        "answer": "New"
+      },
+      {
+        "question": "Considering the size and packaging style, what is the most likely quantity of contents inside?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "Does the packaging feature any clear visual indicators of its contents beyond basic labeling?",
+        "answer": "No"
+      },
+      {
+        "question": "Based purely on visual inspection, does the package display any prominent logos or branding?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is the packaging predominantly a matte or glossy finish; considering the visible surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the label's appearance and text what is the probable category of the product inside?",
+        "answer": "Hardware"
+      },
+      {
+        "question": "What is the apparent level of detail on the product's packaging labeling?",
+        "answer": "Minimal"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/14/140f4b5e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the provided image?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering the visual texture, what is the primary weave type of this fabric?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Based on visual inspection, what is the apparent material composition of the textile?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "Judging from the image, how would you describe the overall visual texture of the fabric?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the fabric display a uniform or varied color distribution throughout the image?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What is the apparent level of sheen or glossiness exhibited by the fabric sample?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Describing the fabric's visual appearance, is the textile thick or thin in appearance?",
+        "answer": "Medium"
+      },
+      {
+        "question": "From the image, what is the most apparent characteristic of the fabric's surface?",
+        "answer": "Woven"
+      },
+      {
+        "question": "If one were to touch this fabric, how would the feel most likely be described?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Does the textile exhibit any discernible patterns or motifs on its surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image, what is the general visual weight of the fabric?",
+        "answer": "Light"
+      },
+      {
+        "question": "Judging by the image, how would you describe the overall color saturation of the material?",
+        "answer": "Low"
+      },
+      {
+        "question": "What is the apparent visual density of the fabric's weave structure?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Does the image reveal any visible imperfections or irregularities in the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the visual characteristics, does the fabric appear to have any significant drape?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

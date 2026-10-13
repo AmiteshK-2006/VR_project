@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/31/31c3d65b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape and text arrangement, what is the primary function of this visually depicted item?",
+        "answer": "Label"
+      },
+      {
+        "question": "What is the predominant color of the background against which the ingredient list is printed?",
+        "answer": "White"
+      },
+      {
+        "question": "Observing the text's alignment, how is the 'Ingredient Statement' header positioned relative to the list itself?",
+        "answer": "Left"
+      },
+      {
+        "question": "What is the apparent font style of the ingredient list, considering the serifs or lack thereof?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Judging by the text's density and line spacing, what is the overall visual impression regarding the length of the ingredient list?",
+        "answer": "Long"
+      },
+      {
+        "question": "Considering the typeface's uniformity, what can be said about the visual appearance of the text?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "In terms of visual texture, how would you characterize the surface of the label containing the ingredient list?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image's visual clarity, how legible is the displayed ingredient list?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Does the visual presentation of the information include any obvious use of visual cues, such as highlighting or bolding?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the text's case (uppercase, lowercase, or mixed case) primarily used to display the ingredient list?",
+        "answer": "Mixed"
+      },
+      {
+        "question": "Judging from the image, what appears to be the general printing method used for the text on the label?",
+        "answer": "Offset"
+      },
+      {
+        "question": "Regarding the overall layout, does the design employ any visually noticeable graphical elements apart from the text?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the format of the information presented, considering its organization and style?",
+        "answer": "List"
+      },
+      {
+        "question": "Based on visual appearance, what is the presumed material of the label (paper, plastic, etc.)?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the relative size of the text relative to the overall dimensions of the rectangular label?",
+        "answer": "Small"
+      }
+    ]
+  }
+]

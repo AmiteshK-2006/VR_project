@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/05/0577f266.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant textual characteristic of this product image?",
+        "answer": "Informational"
+      },
+      {
+        "question": "What is the primary topic conveyed through the prominent text in this image?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the prominently displayed numerical value representing the caloric content per serving?",
+        "answer": "290"
+      },
+      {
+        "question": "In the context of this product image, what is the metric unit used to quantify the mass of a single serving?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Based on the visual data presented, what specific nutrient is prominently highlighted in bold text?",
+        "answer": "Protein"
+      },
+      {
+        "question": "What is the numerical value that represents the amount of total fat present in a single serving, expressed in grams?",
+        "answer": "25"
+      },
+      {
+        "question": "Focusing strictly on the visible textual content, what unit of measurement is consistently employed to quantify the various nutrients?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Observing the layout and typography, what kind of document does this image visually represent?",
+        "answer": "Table"
+      },
+      {
+        "question": "Considering the organization and style of the text, what is the likely intended purpose of this product image?",
+        "answer": "Inform"
+      },
+      {
+        "question": "What is the name of the section indicated at the very top of this food-related image?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Based solely on the visual cues, what is the term used to indicate the percentage of the daily value for each nutrient?",
+        "answer": "DV"
+      },
+      {
+        "question": "What is the term associated with the quantity of fat that is deemed saturated in this product?",
+        "answer": "Fat"
+      },
+      {
+        "question": "From a purely visual standpoint, what is the textual description for the quantity of carbohydrates within this product?",
+        "answer": "Carb"
+      },
+      {
+        "question": "In the nutritional information presented, what single word is utilized to describe the sugars naturally present in the food?",
+        "answer": "Sugars"
+      },
+      {
+        "question": "Focusing on the visible text, what nutrient's value is stated as zero milligrams?",
+        "answer": "Cholest"
+      }
+    ]
+  }
+]

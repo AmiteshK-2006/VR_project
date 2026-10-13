@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/37/37bf4267.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout and typography, what is the primary function indicated by the prominent text and tabular data on the presented rectangular label?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Examining the detailed specifications of serving size, what is the unit of measurement used for the serving quantity?",
+        "answer": "Cup"
+      },
+      {
+        "question": "Based on the clearly presented nutritional information, what is the total number of calories per serving indicated on this label?",
+        "answer": "60"
+      },
+      {
+        "question": "Focusing on the fats in the nutritional breakdown, what is the quantity of saturated fat given in grams per serving?",
+        "answer": "0g"
+      },
+      {
+        "question": "Referring to the carbohydrate information, what is the amount of total carbohydrates listed in grams per serving?",
+        "answer": "13g"
+      },
+      {
+        "question": "What is the amount of dietary fiber expressed in grams per serving, as indicated by the nutritional data?",
+        "answer": "3g"
+      },
+      {
+        "question": "According to the provided nutritional facts, what is the amount of sugar in grams per serving as indicated on the label?",
+        "answer": "8g"
+      },
+      {
+        "question": "What is the quantity of protein, listed in grams per serving, indicated in the nutritional facts section of this label?",
+        "answer": "<1g"
+      },
+      {
+        "question": "Based on the label's nutritional information, what is the sodium content per serving expressed in milligrams?",
+        "answer": "0mg"
+      },
+      {
+        "question": "What is the total number of servings contained within the product packaging as specified on the label?",
+        "answer": "2"
+      },
+      {
+        "question": "What is the weight of a single serving of the product, as expressed in grams on this nutritional label?",
+        "answer": "140g"
+      },
+      {
+        "question": "What is the color of the text predominantly used to display the nutritional data on the provided label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape or form factor of the surface area on which the nutritional information is displayed?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the background color of the provided nutrition facts label?",
+        "answer": "White"
+      },
+      {
+        "question": "Observing the text layout, what is the style of the primary heading that identifies the content as \u2018nutrition facts\u2019?",
+        "answer": "Bold"
+      }
+    ]
+  }
+]

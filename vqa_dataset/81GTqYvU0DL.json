@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8d/8dc79da4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the food product visible through the jar?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the apparent texture of the food product inside the jar?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Describe the overall shape of the container holding the food product?",
+        "answer": "Round"
+      },
+      {
+        "question": "What material appears to constitute the primary container for the product?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Based on the image, what is the most obvious ingredient visible in the food?",
+        "answer": "Herbs"
+      },
+      {
+        "question": "Considering the visual appearance, what is the likely consistency of the contents?",
+        "answer": "Semi-liquid"
+      },
+      {
+        "question": "What is the most prominent visual characteristic of the jar's contents?",
+        "answer": "Speckled"
+      },
+      {
+        "question": "Does the jar show any visible markings or labels on its upper surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the contents, what is the most probable culinary category of this product?",
+        "answer": "Sauce"
+      },
+      {
+        "question": "What is the visible transparency of the jar containing the product?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Describe the visible distribution of ingredients within the jar's contents?",
+        "answer": "Even"
+      },
+      {
+        "question": "Is the product visible within the jar homogenous or heterogeneous?",
+        "answer": "Heterogeneous"
+      },
+      {
+        "question": "What kind of small particles are visually apparent in the food product?",
+        "answer": "Seeds"
+      },
+      {
+        "question": "Does the image show air bubbles trapped inside the jar's contents?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the visual clues, is the product likely to be oily or watery?",
+        "answer": "Oily"
+      }
+    ]
+  }
+]

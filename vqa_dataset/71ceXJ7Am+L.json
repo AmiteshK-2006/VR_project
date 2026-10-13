@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c0/c0fb3a58.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the primary visual element, what is the overall shape of each depicted product container?",
+        "answer": "Square"
+      },
+      {
+        "question": "Focusing on the design of the containers, what color is the outer border of each depicted product container?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Observing the internal contents of the third container, what is the predominant shape of the items depicted within?",
+        "answer": "Cubic"
+      },
+      {
+        "question": "Looking at the contents of the second container, what is the general form of the items shown inside?",
+        "answer": "Rod-shaped"
+      },
+      {
+        "question": "Regarding the first container's contents, what is the shape of the individual components?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the color of the label inside each of the product containers?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the color of the majority of the items in the third container?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the apparent texture of the items shown in the second container?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the style of lettering used on the product labels?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the apparent texture of the items in the third container?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What is the design of the label, in terms of its shape, in each of the product containers?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visual representation of the items in the first container, what material might they be made from?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What appears to be the arrangement of the items within the first container?",
+        "answer": "Ordered"
+      },
+      {
+        "question": "What appears to be the arrangement of the items in the third container?",
+        "answer": "Random"
+      },
+      {
+        "question": "What is the overall style of the visual representations?",
+        "answer": "Diagrammatic"
+      }
+    ]
+  }
+]

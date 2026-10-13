@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/73/730ec533.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the visual layout and textual elements, what is the primary subject depicted in the image?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Based on the image's content, what specific dietary aspect is predominantly detailed?",
+        "answer": "Facts"
+      },
+      {
+        "question": "What is the dominant color scheme observed throughout the image's textual presentation?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the visual presentation, what is the overall format of the information displayed?",
+        "answer": "Table"
+      },
+      {
+        "question": "Observing the font style, what is the general typeface used for the major textual components?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the noticeable size of the numerical value assigned to 'Calories' per serving?",
+        "answer": "Large"
+      },
+      {
+        "question": "In the provided textual details, what is the unit of measurement used for 'Serving size'?",
+        "answer": "Slice"
+      },
+      {
+        "question": "From the visible information, what is the measurement unit for total 'fat' content?",
+        "answer": "Grams"
+      },
+      {
+        "question": "According to the data presented, what is the numerical value corresponding to the 'Total Sugars'?",
+        "answer": "Two"
+      },
+      {
+        "question": "As shown, what is the numerical quantity expressed as the number of 'servings per container'?",
+        "answer": "Eighteen"
+      },
+      {
+        "question": "What is the weight (in grams) indicated for a single serving of the item detailed?",
+        "answer": "Thirty-two"
+      },
+      {
+        "question": "What is the numerical value for 'Sodium' content expressed in milligrams?",
+        "answer": "One-hundred-thirty-five"
+      },
+      {
+        "question": "What is the unit of measurement given for 'Vitamin D' content?",
+        "answer": "Mcg"
+      },
+      {
+        "question": "What is the numerical value representing the percentage of daily value for total fat?",
+        "answer": "One"
+      },
+      {
+        "question": "Observing the image, what single word describes the orientation of the text?",
+        "answer": "Vertical"
+      }
+    ]
+  }
+]

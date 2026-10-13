@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fe/fec7c81b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the text displayed on the product's label, as observed in the provided image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the overall arrangement, what is the primary directional orientation of the textual information presented on the label?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Focusing on the visual characteristics of the text, what is the overall style of the typeface used across the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the image, what appears to be the primary material upon which the text is printed?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Judging solely from the image's visual presentation, what is the approximate size of the text relative to the label's dimensions?",
+        "answer": "Small"
+      },
+      {
+        "question": "Analyzing the visual characteristics of the printed text, what is the approximate line spacing between consecutive lines of text on the product label?",
+        "answer": "Tight"
+      },
+      {
+        "question": "From a visual inspection, what appears to be the general texture or surface finish of the labeling material, as it appears printed?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall visual format in which the information is displayed on the product packaging, such as list, paragraph, etc?",
+        "answer": "Paragraph"
+      },
+      {
+        "question": "Based on the image, what appears to be the visual density of the text on the product label in terms of the information?",
+        "answer": "High"
+      },
+      {
+        "question": "Based on visual observation, can you determine if there are any noticeable visual markings beyond the text present on the label?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on visual assessment, what is the perceived legibility of the text printed on the product label?",
+        "answer": "High"
+      },
+      {
+        "question": "Visually, what language appears to be used for the text presented on the product label?",
+        "answer": "English"
+      },
+      {
+        "question": "From a purely visual standpoint, what kind of visual contrast is there between the text and the background?",
+        "answer": "High"
+      },
+      {
+        "question": "Does the image provide any indication of the presence of any graphical elements on the label in addition to the text?",
+        "answer": "No"
+      },
+      {
+        "question": "In the provided image, what seems to be the relative clarity and sharpness of the text displayed?",
+        "answer": "Clear"
+      }
+    ]
+  }
+]

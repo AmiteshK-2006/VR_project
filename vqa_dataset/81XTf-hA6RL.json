@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e5/e5ed4149.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the bottle's label, as observed in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the bottle's shape, what geometric form best describes it?",
+        "answer": "Cylinder"
+      },
+      {
+        "question": "What is the primary material visually apparent from which the bottle is made?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Based on the image, what type of oil is indicated on the label?",
+        "answer": "Olive"
+      },
+      {
+        "question": "What is the prominent flavoring ingredient mentioned on the bottle's label?",
+        "answer": "Truffle"
+      },
+      {
+        "question": "What is the percentage of olive oil in the product, as shown in the image?",
+        "answer": "97"
+      },
+      {
+        "question": "Describe the overall textual appearance on the bottle's label (e.g., font style)",
+        "answer": "Multi-lingual"
+      },
+      {
+        "question": "What is the predominant tone of the text on the olive oil bottle?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Does the bottle label depict any illustrations or graphics?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the cap, what material seems to constitute the bottle's closure?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Judging from the image, what is the apparent texture of the bottle's label?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the type of olive oil specified on the label (e.g., extra virgin)?",
+        "answer": "Extra"
+      },
+      {
+        "question": "Does the label contain any noticeable logos or brand marks?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image, what is the overall transparency of the bottle?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What color is the truffle flavoring indicated on the product label?",
+        "answer": "Black"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d8/d8060520.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the predominant shape of the depicted product container?",
+        "answer": "Bottle"
+      },
+      {
+        "question": "What is the most apparent material used in the construction of the product container, as visually ascertained?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Focusing on the dispensing mechanism, what type of sprayer nozzle is integrated into the container's design?",
+        "answer": "Spray"
+      },
+      {
+        "question": "Based on the visual examination, what is the dominant color of the product's container?",
+        "answer": "White"
+      },
+      {
+        "question": "Observing the text on the container, what is the primary function of this product as depicted in the label?",
+        "answer": "Wash"
+      },
+      {
+        "question": "Analyzing the label, what is the primary ingredient emphasized on the product's label, if any is explicitly mentioned?",
+        "answer": "Lime"
+      },
+      {
+        "question": "What specific type of produce is this product designed to clean, according to its label?",
+        "answer": "Fruit"
+      },
+      {
+        "question": "What other type of produce is this product designated to clean, as indicated on the packaging?",
+        "answer": "Vegetable"
+      },
+      {
+        "question": "In reference to the label's design, what is the shape of the logo affixed to the product's packaging?",
+        "answer": "Circle"
+      },
+      {
+        "question": "Describe the texture of the plastic bottle as best discerned from the image.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the general condition of the bottle's surface, discounting any label or text?",
+        "answer": "Clean"
+      },
+      {
+        "question": "What is the visible color of the text printed on the label of the cleaning product?",
+        "answer": "Black"
+      },
+      {
+        "question": "Identify the orientation of the label containing product information, relative to the viewer.",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Describe the clarity of the container, observing whether it is transparent or opaque.",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What is the overall style of the label's design, considering font, color, and graphics?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

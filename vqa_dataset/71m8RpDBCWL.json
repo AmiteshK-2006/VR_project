@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/38/387cee88.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual layout presented, what is the primary function of this rectangular block of text?",
+        "answer": "Ingredient"
+      },
+      {
+        "question": "What is the dominant color observed throughout the entirety of this text block?",
+        "answer": "Black"
+      },
+      {
+        "question": "Given the textual content, what culinary item is this ingredient list specifically designed for?",
+        "answer": "Pizza"
+      },
+      {
+        "question": "Observing the text's arrangement, describe the most prominent direction of text flow within the block.",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the typographic style used to present the majority of the ingredient list?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the visual structure, how many distinct columns or sections appear in this textual display?",
+        "answer": "One"
+      },
+      {
+        "question": "What is the texture of the surface upon which the text is displayed, as visually inferred from the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Ignoring any specific ingredient names, what is the general appearance of the font size and weight used?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Considering the visual clarity, how legible is the text presented within the block?",
+        "answer": "High"
+      },
+      {
+        "question": "Does the visual presentation suggest any particular use of formatting (e.g., bold, italics)?",
+        "answer": "No"
+      },
+      {
+        "question": "Ignoring textual content, describe the visual outline of this element.",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent visual density of the text content within the space provided?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the apparent background color of this text block or section?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the visual style, what is the overall formality implied by this text block?",
+        "answer": "Formal"
+      },
+      {
+        "question": "Does the presentation suggest hand-written or printed text?",
+        "answer": "Printed"
+      }
+    ]
+  }
+]

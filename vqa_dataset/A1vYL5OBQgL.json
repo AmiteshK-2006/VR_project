@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0a/0a875044.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the displayed fabric sample?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the overall texture of the fabric, as visibly apparent?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Considering the weave, what kind of fiber is suggested by the appearance?",
+        "answer": "Linen"
+      },
+      {
+        "question": "Judging by the image, is the fabric's weave pattern uniform or irregular?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What is the primary visual characteristic defining the fabric's surface?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What is the most apparent visual characteristic of the fabric's structure?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Based solely on visual inspection, how would you describe the fabric's finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the fabric show any discernible pattern beyond the basic weave?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image, how dense does the fabric's weave appear to be?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the implied visual weight of the fabric based on its texture?",
+        "answer": "Light"
+      },
+      {
+        "question": "Judging from the image, is the fabric sample showing any noticeable sheen?",
+        "answer": "No"
+      },
+      {
+        "question": "From the image, what is the visible level of luster in the fabric?",
+        "answer": "Low"
+      },
+      {
+        "question": "Does the image reveal any obvious irregularities in the fabric's weave?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the sample, would you describe the fabric as tightly or loosely woven?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the visible overall tone or shade of the presented fabric?",
+        "answer": "Neutral"
+      }
+    ]
+  }
+]

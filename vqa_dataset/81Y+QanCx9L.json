@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/16/164fbe59.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color scheme of this product's nutritional information panel?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the primary font style used to display the 'Nutrition Facts' heading and other prominent text elements?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Based on the visual layout, what is the formatting style used to highlight the calorie count?",
+        "answer": "Large"
+      },
+      {
+        "question": "Observing the text blocks, what unit is consistently used for measurements of various nutritional components?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Judging by the visual structure, what is the formatting style employed to indicate percentages of daily values?",
+        "answer": "Smaller"
+      },
+      {
+        "question": "What is the visual appearance of the lines separating different nutritional component categories?",
+        "answer": "Dashed"
+      },
+      {
+        "question": "From a visual standpoint, what is the text style used for specifying the serving size in terms of weight?",
+        "answer": "Regular"
+      },
+      {
+        "question": "In terms of visual arrangement, how are the nutritional facts organized?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the overall visual impression of the text alignment in the nutritional information panel?",
+        "answer": "Left"
+      },
+      {
+        "question": "What is the background color of the nutritional information panel, as visually perceived?",
+        "answer": "White"
+      },
+      {
+        "question": "Examining the textual layout, what is the font weight used for the quantitative values of each nutrient?",
+        "answer": "Regular"
+      },
+      {
+        "question": "Considering visual prominence, how is the daily value percentage displayed in relation to its corresponding nutrient value?",
+        "answer": "Right"
+      },
+      {
+        "question": "What is the visual style applied to the footnote explaining the daily value percentage?",
+        "answer": "Smaller"
+      },
+      {
+        "question": "What is the text style employed for the header clarifying the number of servings per container?",
+        "answer": "Regular"
+      },
+      {
+        "question": "What is the overall visual impression conveyed by the design of this nutritional information panel?",
+        "answer": "Informative"
+      }
+    ]
+  }
+]

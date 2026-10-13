@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f5/f598d88d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the fabric shown in the image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visible seams, what is the most apparent construction technique used?",
+        "answer": "Seamed"
+      },
+      {
+        "question": "Based on the image, what is the overall texture of the fabric?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the visible overall shape of the fabric shown in the detailed close-up?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describing the visual appearance, what is the nature of the visible stitching?",
+        "answer": "Straight"
+      },
+      {
+        "question": "Judging from the image, what appears to be the main material of the item?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "What color are the visible seams or stitching lines in the provided image?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Considering the folds and creases, what is the apparent drape of the material?",
+        "answer": "Soft"
+      },
+      {
+        "question": "From the visual details, how would you describe the fabric's finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the fabric exhibit any visible patterns or designs?",
+        "answer": "No"
+      },
+      {
+        "question": "What kind of visual detailing is apparent in the construction of the item?",
+        "answer": "Seams"
+      },
+      {
+        "question": "Is the material of the product displaying any noticeable sheen or gloss?",
+        "answer": "No"
+      },
+      {
+        "question": "What might be inferred about the weight of the fabric from its visual properties?",
+        "answer": "Light"
+      },
+      {
+        "question": "Considering the image, are there any embellishments or additional elements?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the visual details alone, is the fabric's surface even or uneven?",
+        "answer": "Even"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/44/44e97aed.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what single word best describes the text's alignment on the label?",
+        "answer": "Left"
+      },
+      {
+        "question": "Based on the image, what is the primary color of the text displayed on the label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Observing the label's textual information, what specific ingredient is prominently mentioned?",
+        "answer": "Syrup"
+      },
+      {
+        "question": "What adjective accurately describes the style of the typeface used for 'Ingredients' on the label?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the apparent background color of the area where the product label is printed?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Examining the label's text, what is the adjective modifying 'maple syrup'?",
+        "answer": "Organic"
+      },
+      {
+        "question": "In terms of visual characteristics, what single word best describes the label's texture?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall shape of the text block containing the ingredient information?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Focusing solely on the visual aspects, what is the apparent printing method used on the label?",
+        "answer": "Ink"
+      },
+      {
+        "question": "Considering the text's visual appearance, what style is the capitalization of words?",
+        "answer": "Sentence"
+      },
+      {
+        "question": "From the visual inspection, what type of information is being conveyed by the label?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Looking at the label, what punctuation mark concludes the ingredient list?",
+        "answer": "Period"
+      },
+      {
+        "question": "Describe the visual prominence of the word 'Ingredients' relative to the rest of the text.",
+        "answer": "Larger"
+      },
+      {
+        "question": "Considering the visual characteristics of the text, what is the font's overall weight?",
+        "answer": "Normal"
+      },
+      {
+        "question": "What word precedes the specific ingredient mentioned in the product label's text?",
+        "answer": "Maple"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ed/edc7784d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color displayed prominently on the label?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What specific medicinal purpose is indicated on the label?",
+        "answer": "Cough"
+      },
+      {
+        "question": "Considering the overall presentation, what is the likely form of this product?",
+        "answer": "Liquid"
+      },
+      {
+        "question": "What is the primary text color used on this label, contrasting with the background?",
+        "answer": "White"
+      },
+      {
+        "question": "What type of information does the rectangular block on the label predominantly contain?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Based on the visible text, what is one of the active ingredients in this medicine?",
+        "answer": "Dextromethorphan"
+      },
+      {
+        "question": "Describing the background gradient, what is the secondary color shade present?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What word describes the form in which the active ingredient's quantity is expressed?",
+        "answer": "Milliliters"
+      },
+      {
+        "question": "What is the word immediately preceding the term 'ingredient' on the label?",
+        "answer": "Active"
+      },
+      {
+        "question": "What specific category of medication does this product fall under, as per the label?",
+        "answer": "Suppressant"
+      },
+      {
+        "question": "What term is used to describe the effect this medicine has on coughs?",
+        "answer": "Suppressant"
+      },
+      {
+        "question": "Considering the text's alignment, how would you describe its positioning on the label?",
+        "answer": "Left"
+      },
+      {
+        "question": "What is the shape of the primary information block on the label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the font style of the most prominent text on the label, in terms of weight?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Excluding the background, how many distinct colors are noticeably present on the label?",
+        "answer": "Two"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e5/e5202da1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the text on the nutrition facts label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the overall design, what is the dominant shape of the label?",
+        "answer": "Rectangle"
+      },
+      {
+        "question": "What is the material that the nutrition facts label appears to be printed on?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Based on the visual layout, what is the most prominent visual element on the label?",
+        "answer": "Text"
+      },
+      {
+        "question": "What type of information does the label mainly display, judging by its visual content?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the font style used for the words 'Nutrition Facts' on the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Observing the visual layout, what unit of measurement is used for the serving size?",
+        "answer": "Milliliters"
+      },
+      {
+        "question": "What numerical value represents the total calories per serving, as visually depicted?",
+        "answer": "80"
+      },
+      {
+        "question": "Describe the texture of the label based on its image; is it smooth or rough?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the general visual orientation of the label, vertical or horizontal?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What visual elements are used to separate different nutritional components on the label?",
+        "answer": "Lines"
+      },
+      {
+        "question": "Observing the visual presentation, is the label design simplistic or intricate?",
+        "answer": "Simplistic"
+      },
+      {
+        "question": "What is the color of the background of the nutrition facts label?",
+        "answer": "White"
+      },
+      {
+        "question": "Focusing on the visual style, how many columns does the nutritional information display use?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the visual presentation style of the percentage daily values, numerical or graphical?",
+        "answer": "Numerical"
+      }
+    ]
+  }
+]

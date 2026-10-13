@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ee/eed08bb8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall shape of the container, what geometric form best describes it?",
+        "answer": "Cylinder"
+      },
+      {
+        "question": "What is the predominant color of the bottle's primary label?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Examining the bottle's cap, what material appears to be used in its construction?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on the image, what appears to be the primary text imprinted on the bottle's label?",
+        "answer": "Age"
+      },
+      {
+        "question": "What color is the supplemental text on the label, adjacent to the main product name?",
+        "answer": "Red"
+      },
+      {
+        "question": "Considering the bottle's construction, what material seems to compose the main body?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Observing the label, what type of information is predominantly printed on the back panel?",
+        "answer": "Text"
+      },
+      {
+        "question": "Describe the overall texture of the bottle's surface, focusing on the main body.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Focusing on the cap, what is its apparent finish?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What is the apparent size of the text on the bottle's label, relative to the size of the bottle?",
+        "answer": "Small"
+      },
+      {
+        "question": "Based solely on visual inspection, what is the suggested method of opening the container?",
+        "answer": "Twist"
+      },
+      {
+        "question": "Is the bottle’s label fully opaque or can you see through it?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Judging from the image, what appears to be the main function of the bottle?",
+        "answer": "Storage"
+      },
+      {
+        "question": "Does the product label display any symbols or logos?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent state of the bottle, full or empty?",
+        "answer": "Full"
+      }
+    ]
+  }
+]

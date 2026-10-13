@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/13/13df98c9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the visual layout and textual content, what is the primary subject depicted in this image?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Based on the image's content, what specific type of food product is this nutritional information for?",
+        "answer": "Crackers"
+      },
+      {
+        "question": "What numerical value is prominently displayed in the image as a key nutritional parameter?",
+        "answer": "130"
+      },
+      {
+        "question": "Observing the image closely, what unit of measurement is used for caloric values?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Judging from the visual elements, what is the serving size stated for the food item?",
+        "answer": "Sheets"
+      },
+      {
+        "question": "Based on what is visually presented, what is the total amount of fat, in grams, per serving?",
+        "answer": "3.5g"
+      },
+      {
+        "question": "Examining the visual display, what is the quantity of sodium, in milligrams, per serving?",
+        "answer": "115mg"
+      },
+      {
+        "question": "What is the total carbohydrate amount, in grams, per serving based on visual inspection?",
+        "answer": "24g"
+      },
+      {
+        "question": "Judging from the image's content, what is the amount of protein, in grams, found per serving?",
+        "answer": "2g"
+      },
+      {
+        "question": "What is the percentage daily value of total fat shown in the image?",
+        "answer": "4%"
+      },
+      {
+        "question": "What is the percentage daily value of sodium visually indicated?",
+        "answer": "5%"
+      },
+      {
+        "question": "According to the visual data, what is the percentage daily value of total carbohydrates?",
+        "answer": "9%"
+      },
+      {
+        "question": "What is the visually presented percentage daily value of protein per serving?",
+        "answer": "16%"
+      },
+      {
+        "question": "In the image, what is the approximate number of servings present in the container?",
+        "answer": "13"
+      },
+      {
+        "question": "What is the total weight, in grams, of the stated serving size as shown in the image?",
+        "answer": "31g"
+      }
+    ]
+  }
+]

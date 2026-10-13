@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d5/d53feee7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the cooking surface presented in the image, considering its dimensions and curvature?",
+        "answer": "Round"
+      },
+      {
+        "question": "Considering the image, what is the dominant color of the primary cooking surface of the pan?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Based on the visual details, what material appears to constitute the handle of this pan?",
+        "answer": "Wood"
+      },
+      {
+        "question": "From the visual texture apparent in the image, what is the surface finish of the pan's cooking area?",
+        "answer": "Speckled"
+      },
+      {
+        "question": "What specific type of cooking utensil is depicted in the provided image, based on its visual features?",
+        "answer": "Crepe"
+      },
+      {
+        "question": "Judging from the image, what seems to be the primary material used in the construction of the pan's body?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What is the overall visual style of the handle in relation to the pan's design, according to the image?",
+        "answer": "Simple"
+      },
+      {
+        "question": "From the visual appearance, describe the handle's attachment to the main pan body.",
+        "answer": "Fixed"
+      },
+      {
+        "question": "What kind of visual texture can be observed on the pan's handle, based on the image's details?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based solely on the visual assessment, what color is the pan's handle?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the image provided, what is the visual design of the pan's cooking surface?",
+        "answer": "Plain"
+      },
+      {
+        "question": "What is the apparent visual condition of the cooking surface; is it new or used?",
+        "answer": "New"
+      },
+      {
+        "question": "Does the cooking surface exhibit any patterns or markings aside from the texture, according to the image?",
+        "answer": "No"
+      },
+      {
+        "question": "From the image, what can be visually observed regarding the pan's overall condition?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Considering the image, how would you describe the visual thickness of the pan's body?",
+        "answer": "Shallow"
+      }
+    ]
+  }
+]

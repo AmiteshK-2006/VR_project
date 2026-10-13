@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1a/1a00bf90.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the displayed textile sample?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the overall texture observed across the fabric's surface?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Considering the visual density, how would you characterize the fabric's weave?",
+        "answer": "Tight"
+      },
+      {
+        "question": "Based on its appearance, what is the most likely type of textile shown?",
+        "answer": "Carpet"
+      },
+      {
+        "question": "Describing the color's depth, is it a light or dark shade of gray?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Does the image reveal any visible pattern or design in the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "From the image, can any significant shine or gloss be observed on the surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image, what kind of fibers seem to constitute this fabric?",
+        "answer": "Synthetic"
+      },
+      {
+        "question": "Considering the visual uniformity, how consistent is the coloration across the sample?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Given the image, is the surface of this material smooth or rough to the touch?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What is the apparent thickness of this textile, considering its visual appearance?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Does the picture show any obvious irregularities in the fabric's structure?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on its look, is the material primarily designed for indoor or outdoor usage?",
+        "answer": "Indoor"
+      },
+      {
+        "question": "Does the sample visually present a high degree of softness or coarseness?",
+        "answer": "Coarse"
+      },
+      {
+        "question": "From the image, what would you say about the fabric's density regarding compactness?",
+        "answer": "Dense"
+      }
+    ]
+  }
+]

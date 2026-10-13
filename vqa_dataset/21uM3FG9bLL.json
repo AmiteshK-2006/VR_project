@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c2/c29b6e61.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the product's packaging?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the overall shape of the product's packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the primary material of the product's packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Considering the packaging's texture, what is its overall feel?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What kind of printing is predominantly used on the packaging?",
+        "answer": "Text"
+      },
+      {
+        "question": "Is there any noticeable logo or branding visible on the package?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the primary color of the text on the packaging?",
+        "answer": "DarkBrown"
+      },
+      {
+        "question": "Does the packaging show any indication of a bar code?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Are there any other notable graphical elements besides text on the product's wrapper?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent size or scale of the product, relative to the hand holding it?",
+        "answer": "Small"
+      },
+      {
+        "question": "Judging from the image, does the packaging seem to be sealed or open?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "What is the general condition of the product packaging based on its visual appearance?",
+        "answer": "Intact"
+      },
+      {
+        "question": "Based on the visual details, is the packaging glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the packaging show any signs of damage or wear?",
+        "answer": "No"
+      },
+      {
+        "question": "Is the orientation of the packaging primarily horizontal or vertical?",
+        "answer": "Horizontal"
+      }
+    ]
+  }
+]

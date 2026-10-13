@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f3/f33a9562.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed fabric swatch?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the weave and fibers, what is the apparent texture of the material?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Based on visual inspection, what is the most likely type of fabric?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "Does the fabric appear to have a discernible pattern or print?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image, what is the overall visual tone of the fabric?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Considering the density of the weave, how thick does the fabric appear?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the apparent finish of the fabric; matte, glossy or something else?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the visual uniformity, how consistent is the fabric's coloration?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "From the image, does the fabric exhibit any visible sheen or shine?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the image closely, is there any visible pilling or damage to the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on visual characteristics, what is the likely weight of this fabric?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Does the fabric show any visible stretch or give in the image provided?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the general visual impression created by the fabric's color?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "Judging by the image, does the fabric appear soft or rough to the touch?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Based purely on the visual data, is the fabric's surface smooth or bumpy?",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

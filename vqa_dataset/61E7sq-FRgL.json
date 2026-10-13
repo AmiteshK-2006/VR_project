@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/68/685a07b5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the primary shape of the container holding the product?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the dominant color of the substance visible through the transparent container?",
+        "answer": "Amber"
+      },
+      {
+        "question": "What appears to be the material of the container encasing the product?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on the visible text, what is the likely purpose or function of this product?",
+        "answer": "Cleaner"
+      },
+      {
+        "question": "Describing the visible texture, how would you characterize the appearance of the product inside?",
+        "answer": "Viscous"
+      },
+      {
+        "question": "What is the most apparent color present on the label of the product's container?",
+        "answer": "White"
+      },
+      {
+        "question": "Observing the labeling, what word appears most prominently and describes the product type?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "What type of safety or cautionary symbol is displayed near the label text?",
+        "answer": "Exclamation"
+      },
+      {
+        "question": "Does the product's container feature a cap or closure at the top?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging by the visual clarity of the container, what level of translucence does it have?",
+        "answer": "Transparent"
+      },
+      {
+        "question": "Considering the size of the container, would you classify it as small, medium, or large?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What design feature is predominantly used on the label for readability and contrast?",
+        "answer": "Text"
+      },
+      {
+        "question": "Considering the container's structural integrity, is it rigid or flexible?",
+        "answer": "Rigid"
+      },
+      {
+        "question": "What is the overall condition of the product's packaging based on what is seen?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "What is the most visible texture on the outer surface of the container?",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/de/dec7a0ca.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout and textual organization, what is the primary purpose of this rectangular item, clearly indicated by its prominent header?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Based on the prominent numerical value displayed near the top, what is the calorie count per serving of the product described in this detailed rectangular panel?",
+        "answer": "140"
+      },
+      {
+        "question": "What is the serving size, numerically specified, as depicted within the rectangular label?",
+        "answer": "3"
+      },
+      {
+        "question": "Focusing on the 'Total Fat' section, what numerical value, followed by 'g', denotes the amount of total fat per serving as presented within the rectangular information panel?",
+        "answer": "8"
+      },
+      {
+        "question": "What is the numerical value for 'Saturated Fat' (in grams) as explicitly shown within the given nutritional information?",
+        "answer": "5"
+      },
+      {
+        "question": "According to the label, what is the quantitative amount of cholesterol (in mg) present per serving as presented within the designated rectangular nutritional facts section?",
+        "answer": "20"
+      },
+      {
+        "question": "What is the total amount of carbohydrates (in grams) as stated per serving in the provided nutritional information section?",
+        "answer": "17"
+      },
+      {
+        "question": "What is the numerical value (in grams) of total sugars in a single serving, as shown in this nutritional facts section?",
+        "answer": "6"
+      },
+      {
+        "question": "Examining the label, what is the numerical value for added sugar in grams per serving, as displayed in this section dedicated to the nutritional content?",
+        "answer": "6"
+      },
+      {
+        "question": "Focusing solely on the visual elements, what is the unit of measurement consistently used to quantify the nutritional components, e.g., fats, carbohydrates?",
+        "answer": "g"
+      },
+      {
+        "question": "What is the numerical percentage displayed next to the 'Saturated Fat' entry, indicating its contribution to the daily recommended value?",
+        "answer": "25"
+      },
+      {
+        "question": "What is the numerical percentage shown next to 'Added Sugars', reflecting its daily value percentage?",
+        "answer": "12"
+      },
+      {
+        "question": "What is the single-digit numerical value representing the amount of protein (in grams) per serving, as explicitly shown in the nutritional fact label?",
+        "answer": "1"
+      },
+      {
+        "question": "In the detailed presentation of nutritional components, which vitamin is highlighted with a quantitative measurement of zero?",
+        "answer": "D"
+      },
+      {
+        "question": "Considering the visual layout, what is the color of the prominent header indicating 'Nutrition Facts'?",
+        "answer": "Black"
+      }
+    ]
+  }
+]

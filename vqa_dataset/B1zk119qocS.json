@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/37/37d48123.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the overall texture of the displayed fabric sample?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Considering the visual appearance, what is the primary material type?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "Based solely on visual inspection, what is the fabric's weave structure?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Describe the visual appearance of the fabric's surface fibers.",
+        "answer": "Intertwined"
+      },
+      {
+        "question": "Does the fabric exhibit a discernible pattern or motif?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the image, how would you describe the fabric's thickness?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the apparent level of sheen or luster in the fabric sample?",
+        "answer": "Low"
+      },
+      {
+        "question": "From the visual data, what is the apparent softness of the fabric?",
+        "answer": "Moderate"
+      },
+      {
+        "question": "Considering the visual aspects, is the fabric's color uniform?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent density of the fabric's weave?",
+        "answer": "Tight"
+      },
+      {
+        "question": "Based on visual examination, is there any visible piling?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the image, does the fabric appear to be opaque?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the general impression of the fabric's drape based on image?",
+        "answer": "Straight"
+      },
+      {
+        "question": "Does the image show any noticeable irregularities in the fabric?",
+        "answer": "No"
+      }
+    ]
+  }
+]

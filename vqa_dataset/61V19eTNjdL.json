@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/75/75d742b6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the visible surface, judging by the light reflection and shadows?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the subtle variations in shade, what would you describe the overall tone of the item's surface?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Based on the image's texture and light interaction, what material is most likely used in this product's construction?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Observing the surface's sheen and lack of obvious patterns, what is the apparent finish of the object?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the image reveal any discernible patterns or textures on the product's surface, aside from subtle shading?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the lack of sharp edges and curves, what is the general shape of the visible product portion?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Is there any evidence of visible seams, joints, or other assembly marks on the product's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the surface reflect light uniformly, or are there significant inconsistencies in reflectivity?",
+        "answer": "Uniformly"
+      },
+      {
+        "question": "From the image, what is the apparent degree of surface smoothness or roughness of the product?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the lighting and shading, does the item appear to be flat or three-dimensional?",
+        "answer": "Flat"
+      },
+      {
+        "question": "What is the apparent overall size of the displayed surface based on the image's perspective and scale?",
+        "answer": "Large"
+      },
+      {
+        "question": "Are there any noticeable markings, logos, or labels present on the object's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on visual cues alone, does the item appear to be solid or hollow?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Does the product show any signs of wear, scratches, or other surface imperfections?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image's lighting and contrast, what is the apparent thickness of the product?",
+        "answer": "Thin"
+      }
+    ]
+  }
+]

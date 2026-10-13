@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d5/d510706a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the dominant shape of the product container, as observed in the image?",
+        "answer": "Bottle"
+      },
+      {
+        "question": "Based on the visual evidence, what appears to be the primary color of the liquid within the product container?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Judging from the image, what material seems to constitute the primary body of the product container?",
+        "answer": "Glass"
+      },
+      {
+        "question": "From the image, what color is the cap or closure on top of the bottle?",
+        "answer": "Gold"
+      },
+      {
+        "question": "What is the most prominent text displayed on the label, which is clearly visible in the provided image?",
+        "answer": "Savory"
+      },
+      {
+        "question": "Observing the label, what appears to be the secondary descriptor word next to the primary text on the product label?",
+        "answer": "Fig"
+      },
+      {
+        "question": "What appears to be the texture of the product label shown in the image; rough or smooth?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall style of the label design; modern or vintage?",
+        "answer": "Vintage"
+      },
+      {
+        "question": "Considering the visual details, what seems to be the finish of the product container; matte or glossy?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What does the label indicate to be the primary ingredient or flavor profile of the product in the bottle?",
+        "answer": "Fig"
+      },
+      {
+        "question": "Based on the image, describe the neck shape of the bottle; long or short?",
+        "answer": "Long"
+      },
+      {
+        "question": "What is the apparent shape of the bottle's base, visually observed in the image?",
+        "answer": "Round"
+      },
+      {
+        "question": "From visual inspection, what is the general style of the lettering on the product label?",
+        "answer": "Script"
+      },
+      {
+        "question": "Based solely on the image, what kind of seal or closure does the product's cap appear to have?",
+        "answer": "Screw"
+      },
+      {
+        "question": "Judging from the image, what is the approximate size of the bottle; small or large?",
+        "answer": "Small"
+      }
+    ]
+  }
+]

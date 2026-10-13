@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/7e/7e3e6973.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color observed across the entire surface of the item shown?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the visual texture, what material is most likely used in the product's construction?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Based on the image, what is the overall shape and form of the pictured object?",
+        "answer": "Square"
+      },
+      {
+        "question": "Describe the surface texture apparent from the image; is it smooth or textured?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Judging by the image's visual characteristics, what is the apparent finish of the product?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the product in the image display any noticeable patterns or designs?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the visual characteristics, how would you describe the product's apparent thickness?",
+        "answer": "Thin"
+      },
+      {
+        "question": "From the image, is there any visible embossing, imprinting, or text on the product?",
+        "answer": "None"
+      },
+      {
+        "question": "Based on the visual detail, what is the apparent level of sheen or gloss on the product's surface?",
+        "answer": "Low"
+      },
+      {
+        "question": "Judging from the image provided, what is the product's apparent weight or density?",
+        "answer": "Light"
+      },
+      {
+        "question": "Does the image suggest the presence of any noticeable folds or creases in the product?",
+        "answer": "None"
+      },
+      {
+        "question": "Based solely on the visual information, what is the product's apparent absorbency?",
+        "answer": "High"
+      },
+      {
+        "question": "Judging from the image, what is the visible uniformity or consistency of the product's color?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Based on the image, can the product be described as opaque or translucent?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Does the image suggest the presence of any visible fibers or weaves in the product?",
+        "answer": "None"
+      }
+    ]
+  }
+]

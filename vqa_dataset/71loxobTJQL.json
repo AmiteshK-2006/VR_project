@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/13/13f1a422.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the baked goods as shown in the transparent packaging?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering the overall form, what is the geometrical shape of each individual bun?",
+        "answer": "Round"
+      },
+      {
+        "question": "Judging from the image, what appears to be the primary material composition of these food items?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "Based on the visual texture, what is the surface appearance of the baked goods?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What kind of packaging encloses the three baked goods in the provided image?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the apparent number of individual baked goods contained within the package?",
+        "answer": "Three"
+      },
+      {
+        "question": "Disregarding the packaging, what is the approximate size of each individual bun, relative to a human hand?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the apparent level of browning or toasting visible on the surface of the buns?",
+        "answer": "Light"
+      },
+      {
+        "question": "Judging by the image, are there any visible toppings or additions on the surface of the buns?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the product's form, how might one best describe the overall style of these baked goods?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Does the image show any significant inconsistencies or defects in the appearance of the buns?",
+        "answer": "No"
+      },
+      {
+        "question": "Based solely on the image, what is the suggested culinary application for these items?",
+        "answer": "Buns"
+      },
+      {
+        "question": "From the visual details, does the packaging include any visible labels or markings?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the buns' form, what is the most probable texture of the inside of the baked goods?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What is the general arrangement of the three buns within their plastic packaging?",
+        "answer": "Stacked"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a8/a851dd49.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what is the dominant color scheme of this product's informational panel?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the primary text style employed across the nutritional data presented on the panel?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Focusing on the top section of the nutritional information, what specific term indicates the overall content of the label?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Looking at the quantitative data, what is the numerical value assigned to 'Calories' per serving?",
+        "answer": "150"
+      },
+      {
+        "question": "What is the unit of measurement used to represent the serving size of this food product?",
+        "answer": "Cup"
+      },
+      {
+        "question": "Regarding the fat content, what specific type of fat is listed as having 0 grams per serving?",
+        "answer": "Trans"
+      },
+      {
+        "question": "What is the specified amount, in milligrams, of sodium present in a single serving of this item?",
+        "answer": "180"
+      },
+      {
+        "question": "Focusing on the carbohydrate information, how many grams of dietary fiber are contained within one serving?",
+        "answer": "2"
+      },
+      {
+        "question": "Regarding sugars, what is the amount of added sugar in grams listed in this product's nutritional information?",
+        "answer": "3"
+      },
+      {
+        "question": "In terms of vitamins, what is the quantity of Vitamin D, in micrograms, included in a single serving?",
+        "answer": "0"
+      },
+      {
+        "question": "What is the mineral content specified for calcium, in milligrams, per serving of this food product?",
+        "answer": "30"
+      },
+      {
+        "question": "Looking at the mineral content, what is the amount of iron, in milligrams, present in a single serving?",
+        "answer": "0.5"
+      },
+      {
+        "question": "What is the quantity of potassium, listed in milligrams, within a single serving according to the panel?",
+        "answer": "120"
+      },
+      {
+        "question": "Observing the overall structure, what is the primary structural format used to organize the nutritional information?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the approximate number of servings contained within the package of this food product?",
+        "answer": "16"
+      }
+    ]
+  }
+]

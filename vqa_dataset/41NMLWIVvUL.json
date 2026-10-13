@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4b/4b136340.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the dominant shape of the product container?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the primary color of the bottle, excluding any text or graphics?",
+        "answer": "White"
+      },
+      {
+        "question": "Observing the dispensing mechanism, what type of closure is employed?",
+        "answer": "Pump"
+      },
+      {
+        "question": "What material appears to constitute the majority of the container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the texture of the bottle's surface, based solely on visual observation.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent consistency of the product inside, as visually suggested?",
+        "answer": "Liquid"
+      },
+      {
+        "question": "Considering the label's design elements, what type of graphic is prominently featured?",
+        "answer": "Floral"
+      },
+      {
+        "question": "Describe the style of the labeling, is it minimalist or ornate?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What color is the smaller graphic element near the bottom of the label?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What is the overall aesthetic of the product packaging, modern or vintage?",
+        "answer": "Modern"
+      },
+      {
+        "question": "Is the label text predominantly printed in uppercase or lowercase letters?",
+        "answer": "Lowercase"
+      },
+      {
+        "question": "Looking at the label, is the font style predominantly serif or sans-serif?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "In terms of transparency, how would you describe the bottle material?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Based on the image, how many sections does the pump appear to have?",
+        "answer": "Two"
+      },
+      {
+        "question": "Considering the overall dimensions, is the bottle tall and slender or short and wide?",
+        "answer": "Tall"
+      }
+    ]
+  }
+]

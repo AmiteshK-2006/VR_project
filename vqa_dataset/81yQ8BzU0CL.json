@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c0/c0825487.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout and textual content, what is the primary purpose of this rectangular product?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the prominent color used for the background of this informational product display?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the text and numerical data shown, what is the primary unit of measurement for caloric content?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Focusing on the textual elements alone, what dietary element is prominently highlighted numerically?",
+        "answer": "Cholesterol"
+      },
+      {
+        "question": "What is the predominant font style used to display the nutritional facts data?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Disregarding the numerical values, what textual element is consistently used as a label across multiple categories?",
+        "answer": "Fat"
+      },
+      {
+        "question": "Considering the arrangement of text blocks, what is the overall structural organization of the data presented?",
+        "answer": "Tabular"
+      },
+      {
+        "question": "What is the descriptor used to qualify the amount of a given serving within the nutrition fact container?",
+        "answer": "Serving"
+      },
+      {
+        "question": "What textual element precedes the values that represent percentages of daily value?",
+        "answer": "Percent"
+      },
+      {
+        "question": "What unit of measurement is utilized for cholesterol content as shown numerically?",
+        "answer": "mg"
+      },
+      {
+        "question": "What term is used to denote the total amount of sugar included in a given serving?",
+        "answer": "Sugars"
+      },
+      {
+        "question": "What unit is used to quantitatively express the protein content within the nutritional information?",
+        "answer": "g"
+      },
+      {
+        "question": "What is the quantitative value listed for the protein content within the nutritional table?",
+        "answer": "23g"
+      },
+      {
+        "question": "What unit of measurement is utilized for the sodium content within the given nutritional breakdown?",
+        "answer": "mg"
+      },
+      {
+        "question": "What is the descriptor used to represent the number of portions contained within this package?",
+        "answer": "Servings"
+      }
+    ]
+  }
+]

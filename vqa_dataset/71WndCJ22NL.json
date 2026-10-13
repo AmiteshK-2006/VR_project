@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1b/1b868092.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall packaging design, what is the primary color used for the background?",
+        "answer": "Black"
+      },
+      {
+        "question": "Observing the depicted cookie, what is the predominant color of the cookie itself?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Analyzing the texture of the depicted cookie, what word best describes its surface?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Focusing on the packaging material, what is the type of material used for the main wrapper?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on visual inspection, what shape best describes the overall form of the package?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Inspecting the package closely, what kind of printing is evident on the surface?",
+        "answer": "Text"
+      },
+      {
+        "question": "Considering the image, what seems to be the dominant design element on the front of the package?",
+        "answer": "Cookie"
+      },
+      {
+        "question": "Observing the cookie's composition, what is the inclusion visible in the cookie dough?",
+        "answer": "Chocolate"
+      },
+      {
+        "question": "Considering the nutritional information area, what is the style of the text used in the nutritional panel?",
+        "answer": "Small"
+      },
+      {
+        "question": "Analyzing the package's design, what is the color of the small band at the bottom?",
+        "answer": "Blue"
+      },
+      {
+        "question": "By examining the packaging, what company is prominently displayed on the wrapping?",
+        "answer": "Amazon"
+      },
+      {
+        "question": "Considering the image provided, what is the general appearance of the packaging?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Based on the image, what is the position of the barcode on the packaging?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Looking at the cookie, how would you describe its appearance?",
+        "answer": "Baked"
+      },
+      {
+        "question": "Considering the packaging, is it sealed?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/69/691ff5c6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual appearance, what is the dominant color of the almonds shown in the image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Based on the image, what seems to be the predominant shape of the individual almonds depicted?",
+        "answer": "Oval"
+      },
+      {
+        "question": "Judging from the image, what appears to be the surface texture of the almonds shown?",
+        "answer": "Rough"
+      },
+      {
+        "question": "From the image alone, can you describe the general arrangement or configuration of the almonds?",
+        "answer": "Pile"
+      },
+      {
+        "question": "What is the apparent condition of the almonds presented in the image (e.g., raw, roasted, etc.)?",
+        "answer": "Roasted"
+      },
+      {
+        "question": "Considering the visual details, what is the apparent size of the almonds relative to each other?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Based purely on visual inspection, are there any visible imperfections or blemishes on the almonds?",
+        "answer": "No"
+      },
+      {
+        "question": "Do the almonds in the image appear to be whole or broken?",
+        "answer": "Whole"
+      },
+      {
+        "question": "Judging from visual cues, does the image suggest the almonds are dry or oily?",
+        "answer": "Dry"
+      },
+      {
+        "question": "What is the apparent level of saltiness evident on the almonds based purely on visual observation?",
+        "answer": "Light"
+      },
+      {
+        "question": "Based solely on visual assessment, what would you describe as the overall visual appeal of the almonds?",
+        "answer": "Appetizing"
+      },
+      {
+        "question": "Does the image show any additional elements beyond the almonds themselves?",
+        "answer": "No"
+      },
+      {
+        "question": "From a visual standpoint, are the almonds presented in a way that appears to be carefully arranged or haphazard?",
+        "answer": "Haphazard"
+      },
+      {
+        "question": "Based on visual characteristics, are the almonds presented as uniform in color or do they exhibit variations?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Judging from the visual attributes, how would you describe the visual clarity and sharpness of the almond image?",
+        "answer": "Clear"
+      }
+    ]
+  }
+]

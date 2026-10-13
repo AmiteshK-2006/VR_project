@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/74/745d3889.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the presented square-shaped item?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering the overall texture, what is the apparent material of the item?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Describing the item's form, what geometrical shape best fits the product?",
+        "answer": "Square"
+      },
+      {
+        "question": "Observing the edges, what kind of stitching or binding is visible on the item?",
+        "answer": "Stitched"
+      },
+      {
+        "question": "What is the apparent finish of the material used in manufacturing this item?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Focusing on the upper portion, what is the apparent function of the narrow horizontal band?",
+        "answer": "Closure"
+      },
+      {
+        "question": "Based on its appearance, what is the likely purpose of this item; considering its shape and material?",
+        "answer": "Protective"
+      },
+      {
+        "question": "Considering its size and design, what kind of object might this item fit or cover?",
+        "answer": "Chair"
+      },
+      {
+        "question": "Regarding the overall feel, is the product's texture rough or smooth to the touch?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the image carefully, is the color uniformly distributed across the whole item?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent thickness of this item, from the visual perspective?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Analyzing the edge detailing, are there any visible patterns or designs along the seams?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the item seem to have any additional features aside from the main body and closure?",
+        "answer": "No"
+      },
+      {
+        "question": "Is the material of the item flexible or rigid in appearance?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Considering the visual details, does this product look industrially manufactured or handcrafted?",
+        "answer": "Manufactured"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/01/017a05cb.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the shirt shown in the close-up image?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the visible texture, what is the apparent material of the garment?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Based on the image, what type of closure is predominantly featured on the shirt?",
+        "answer": "Buttons"
+      },
+      {
+        "question": "Judging by the visible seams, what is the garment's general construction style?",
+        "answer": "Seamed"
+      },
+      {
+        "question": "What is the overall visual appearance of the shirt's fabric—smooth, rough, or otherwise?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From the close-up, what is the shape of the buttons visible on the shirt?",
+        "answer": "Round"
+      },
+      {
+        "question": "Describe the shirt's apparent weave or pattern, based on the provided image.",
+        "answer": "Plain"
+      },
+      {
+        "question": "Given the image, what is the visible arrangement of the buttons on the shirt?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the apparent state or condition of the visible portion of the shirt?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Judging by the image's detail, what is the suggested level of formality of this shirt?",
+        "answer": "Formal"
+      },
+      {
+        "question": "What is the general style or cut of the shirt visible in the close-up?",
+        "answer": "Classic"
+      },
+      {
+        "question": "What is the visual appearance of the area surrounding the buttons on the shirt?",
+        "answer": "Neat"
+      },
+      {
+        "question": "What is the apparent texture of the shirt's fabric close to the buttons?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Describe the visible color uniformity across the shirt's surface.",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Judging from the visible details, what is the garment's overall visual impression?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

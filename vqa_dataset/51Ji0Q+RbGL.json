@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/42/42d31f95.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color visually observed across the entire fabric swatch?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the visual texture, what fabric type is most likely depicted?",
+        "answer": "Velvet"
+      },
+      {
+        "question": "Based on the image, what is the apparent overall finish of the textile surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging from the image, what is the visible surface texture of the fabric?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Does the image show any visible patterns or designs on the fabric swatch?",
+        "answer": "None"
+      },
+      {
+        "question": "Observing the image, what is the overall visual depth or dimension of the color?",
+        "answer": "Rich"
+      },
+      {
+        "question": "From a visual standpoint, how would you describe the uniformity of the fabric's color?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "What is the apparent sheen or gloss level observed across the sample?",
+        "answer": "Low"
+      },
+      {
+        "question": "Describe the visual appearance of the fabric's fibers from the provided image.",
+        "answer": "Dense"
+      },
+      {
+        "question": "From visual inspection, how would you describe the color saturation of the swatch?",
+        "answer": "Deep"
+      },
+      {
+        "question": "Considering the image alone, what is the apparent weight or thickness of the fabric?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "If assigning a single adjective to the fabric's visual feel, what would it be?",
+        "answer": "Luxurious"
+      },
+      {
+        "question": "Based on visual analysis, what is the suggested drape or flow of the textile?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the image exhibit any noticeable variations in the fabric's color?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the provided image reveal any visible imperfections or flaws in the fabric?",
+        "answer": "No"
+      }
+    ]
+  }
+]

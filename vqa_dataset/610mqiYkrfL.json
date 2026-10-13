@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3c/3c8e517b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the dominant shape of this footwear item, as seen from the sole?",
+        "answer": "Oval"
+      },
+      {
+        "question": "What appears to be the primary material composing the visible exterior of this shoe?",
+        "answer": "Suede"
+      },
+      {
+        "question": "Based on the image, what single color most accurately describes the shoe's overall appearance?",
+        "answer": "Black"
+      },
+      {
+        "question": "Observing the sole's texture, would you characterize it as smooth or possessing a pattern?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the visible portion of the shoe's sole exhibit any noticeable markings or text?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging from the image, what type of shoe is depicted, considering its overall structure and shape?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Examining the visible sole's edge, is it distinctly curved or relatively straight?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Considering the image, what seems to be the primary manufacturing method for this shoe's design?",
+        "answer": "Stitched"
+      },
+      {
+        "question": "Does the sole's surface appear to have any visible texture besides smoothness, like a grain or pattern?",
+        "answer": "No"
+      },
+      {
+        "question": "If considering the apparent construction, is there an apparent sole-to-upper attachment method?",
+        "answer": "Glued"
+      },
+      {
+        "question": "From the provided view, can you determine if the shoe features any decorative elements?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the sole's profile, is the shoe designed with a significant heel or a flat base?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Judging by the image, is the material of the shoe’s upper likely to be stiff or supple?",
+        "answer": "Supple"
+      },
+      {
+        "question": "Considering the overall design, how would you characterize the shoe's style; minimalist or ornate?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Based solely on the provided image, what is the apparent condition of this shoe; new or worn?",
+        "answer": "New"
+      }
+    ]
+  }
+]

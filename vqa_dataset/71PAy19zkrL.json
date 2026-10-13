@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a2/a22cdc4f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form and packaging, what is the dominant shape of this product?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Based on its appearance and texture, what material is predominantly used in this product's construction?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the primary color observed across the entire surface area of the presented product?",
+        "answer": "Green"
+      },
+      {
+        "question": "Describe the finish of the outer surface, considering its visual qualities and apparent properties.",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Considering the packaging's structural integrity, what is the apparent method of dispensing or accessing the product?",
+        "answer": "Roll"
+      },
+      {
+        "question": "What is the primary brand or label visibly printed on the external wrapping of this item?",
+        "answer": "Amazonbasics"
+      },
+      {
+        "question": "What is the most prominent text style used on the product's packaging, referring to the label's visual characteristics?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Referring to the central axis of the roll, what is the noticeable feature running along its length?",
+        "answer": "Seam"
+      },
+      {
+        "question": "What is the distinct visual detail running perpendicular to the seam on the product's surface?",
+        "answer": "Perforation"
+      },
+      {
+        "question": "What seems to be the implied function or purpose of this product, judging by its appearance and form factor?",
+        "answer": "Bags"
+      },
+      {
+        "question": "Focusing solely on the visual appearance, what can you infer about the product's intended thickness or gauge?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Based on visual assessment alone, what is the general condition of this product's exterior packaging?",
+        "answer": "Unopened"
+      },
+      {
+        "question": "Considering the packaging design and its implied use, what size or scale is this product likely intended for?",
+        "answer": "Small"
+      },
+      {
+        "question": "What seems to be the tone and style of the branding displayed on the package, considering its graphic elements?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the general visual impression of this product's packaging design concerning the overall aesthetic?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

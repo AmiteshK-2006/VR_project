@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/34/340575a6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the textual information provided, what primary ingredient is prominently featured?",
+        "answer": "Flour"
+      },
+      {
+        "question": "Based on the visible text, what type of eggs are used in this product's recipe?",
+        "answer": "Cage-free"
+      },
+      {
+        "question": "What specific type of flour is listed as an ingredient, as visually evident from the text?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "According to the visible text, what additive is used for coloring purposes?",
+        "answer": "Beta-carotene"
+      },
+      {
+        "question": "What secondary flour type is included among the ingredients, as per the visible text?",
+        "answer": "Rye"
+      },
+      {
+        "question": "As indicated by the visible text, what type of milk is utilized in this product's composition?",
+        "answer": "Nonfat"
+      },
+      {
+        "question": "What type of oil is included within the oil blend, as clearly shown in the text?",
+        "answer": "Canola"
+      },
+      {
+        "question": "Does the text explicitly state whether the sugar used is genetically modified, or non-GMO?",
+        "answer": "Non-GMO"
+      },
+      {
+        "question": "What kind of sugar syrup is listed as an ingredient, according to the provided textual information?",
+        "answer": "Invert"
+      },
+      {
+        "question": "Based on the textual information, what acid is used as an ingredient in the product?",
+        "answer": "Ascorbic"
+      },
+      {
+        "question": "As shown in the ingredients list, what is listed as a component of the oil blend?",
+        "answer": "Diglycerides"
+      },
+      {
+        "question": "What type of yeast is used in the recipe according to the ingredients list?",
+        "answer": "Deactivated"
+      },
+      {
+        "question": "From the list of ingredients, what is indicated as a potential allergen?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "What additional substance is indicated as a potential allergen based on the image's text?",
+        "answer": "Milk"
+      },
+      {
+        "question": "What nut is mentioned as potentially present due to processing in the same facility?",
+        "answer": "Tree"
+      }
+    ]
+  }
+]

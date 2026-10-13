@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f2/f2e6d489.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the visible product surface?",
+        "answer": "Black"
+      },
+      {
+        "question": "What material appears to constitute the primary body of the product?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the overall shape of the depicted product component?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the texture, what is the surface finish of the product?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What brand logo is visibly embossed into the product's surface?",
+        "answer": "Amazonbasics"
+      },
+      {
+        "question": "Describe the visual style of the embossed branding on the product.",
+        "answer": "Recessed"
+      },
+      {
+        "question": "What kind of lines are visible on the surface, indicating structural elements?",
+        "answer": "Recessed"
+      },
+      {
+        "question": "Based on appearance, what is the likely manufacturing process used?",
+        "answer": "Molding"
+      },
+      {
+        "question": "Considering the design, what is the overall impression of the product's aesthetic?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Does the product surface exhibit a uniform or varied texture across its area?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Considering its look, what is the likely intended function of the product?",
+        "answer": "Storage"
+      },
+      {
+        "question": "What is the apparent depth of the recessed lines that seem to divide the surface?",
+        "answer": "Shallow"
+      },
+      {
+        "question": "Is the color of the logo the same as or different from the main product color?",
+        "answer": "Same"
+      },
+      {
+        "question": "What is the relative size of the embossed brand logo relative to the product?",
+        "answer": "Small"
+      },
+      {
+        "question": "Ignoring the logo, how many distinct sections are visible in the object?",
+        "answer": "Three"
+      }
+    ]
+  }
+]

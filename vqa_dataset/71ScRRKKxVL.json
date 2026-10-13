@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d0/d0cfe232.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the displayed cleaning tool?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the apparent texture of the cleaning tool's surface?",
+        "answer": "Fuzzy"
+      },
+      {
+        "question": "What is the overall shape of the visible portion of the cleaning tool?",
+        "answer": "Oval"
+      },
+      {
+        "question": "What material seems to primarily constitute the cleaning tool's head?",
+        "answer": "Microfiber"
+      },
+      {
+        "question": "Judging by the image, what is the apparent density of the cleaning tool's fibers?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Based on the visual appearance, how fluffy does the cleaning tool appear?",
+        "answer": "Very"
+      },
+      {
+        "question": "What is the suggested primary function of this cleaning tool, based on its visual attributes?",
+        "answer": "Dusting"
+      },
+      {
+        "question": "Describe the length of the visible fibers on the cleaning tool's surface.",
+        "answer": "Long"
+      },
+      {
+        "question": "What is the uniformity of the fiber distribution across the cleaning tool's surface?",
+        "answer": "Even"
+      },
+      {
+        "question": "Does the cleaning tool's head show any visible pattern or design elements?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering its appearance, what is the likely softness of the cleaning tool?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Based on the image, what is the general size of the cleaning tool's head (relative to a human hand)?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What kind of cleaning task does this tool's visual appearance most suggest it would be suitable for?",
+        "answer": "Cleaning"
+      },
+      {
+        "question": "If the tool was wet, how would its appearance likely change?",
+        "answer": "Darker"
+      },
+      {
+        "question": "From the image, how would you characterize the cleaning tool's overall feel?",
+        "answer": "Plush"
+      }
+    ]
+  }
+]

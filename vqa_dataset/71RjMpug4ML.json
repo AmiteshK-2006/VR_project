@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a6/a66f161a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the wallet, as visibly apparent in the main product image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the main image, what appears to be the primary material used in the wallet's construction?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Based on the main image, what shape best describes the overall form of the wallet?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Observing the main image, what type of closure mechanism is visibly present on the wallet?",
+        "answer": "Magnetic"
+      },
+      {
+        "question": "From the main image, what kind of decorative elements are noticeable on the wallet's surface?",
+        "answer": "Cutouts"
+      },
+      {
+        "question": "What design pattern is prominently displayed within the cutouts on the wallet's surface, judging from the main image?",
+        "answer": "Geometric"
+      },
+      {
+        "question": "As seen in the main image, what is attached to the wallet, seemingly serving as an accessory?",
+        "answer": "Charm"
+      },
+      {
+        "question": "Based on the close-up image, what is the apparent texture of the wallet's material?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the main image, what is the overall style or aesthetic of the wallet?",
+        "answer": "Elegant"
+      },
+      {
+        "question": "What color is the metallic element of the closure, as seen in the detailed image?",
+        "answer": "Gold"
+      },
+      {
+        "question": "What type of detail is visible on the charm attached to the wallet, based on the main and detailed images?",
+        "answer": "Leaves"
+      },
+      {
+        "question": "What is the visible material of the small decorative element attached to the zipper, as shown in the close-up image?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "What is the shape of the decorative pom-pom, based on the close-up image?",
+        "answer": "Round"
+      },
+      {
+        "question": "Does the wallet have any visible seams or stitching shown in the provided images?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging from the images, how many compartments or sections are visibly apparent in the main product image?",
+        "answer": "Multiple"
+      }
+    ]
+  }
+]

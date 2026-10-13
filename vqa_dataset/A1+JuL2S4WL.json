@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/52/52dececc.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color observed across the entire surface?",
+        "answer": "Gold"
+      },
+      {
+        "question": "What kind of texture is predominantly visible on the product's surface?",
+        "answer": "Brushed"
+      },
+      {
+        "question": "Considering the visible surface texture, what material is most likely?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What is the overall visual impression of the product's surface finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on the image, how would you describe the directional pattern of the brushed finish?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What type of lines are prominently featured in the product's surface texture?",
+        "answer": "Striations"
+      },
+      {
+        "question": "Considering the subtle variations, is there a significant shine to the product?",
+        "answer": "No"
+      },
+      {
+        "question": "How would you characterize the visual uniformity of the product's surface?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Can you describe the density of the lines that create the brushed effect?",
+        "answer": "High"
+      },
+      {
+        "question": "Considering the image, is the product's surface glossy or non-glossy?",
+        "answer": "Non-glossy"
+      },
+      {
+        "question": "In terms of its visual impact, is the product's surface busy or uncluttered?",
+        "answer": "Uncluttered"
+      },
+      {
+        "question": "Based solely on visual analysis, what is the implied depth of the surface texture?",
+        "answer": "Shallow"
+      },
+      {
+        "question": "Does the image suggest any visible imperfections on the product's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent level of reflectivity of the product\u2019s surface?",
+        "answer": "Low"
+      },
+      {
+        "question": "From the image, can you determine if the product is transparent or opaque?",
+        "answer": "Opaque"
+      }
+    ]
+  }
+]

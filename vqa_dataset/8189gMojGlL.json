@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d4/d4ad78cf.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the packaging visible in the provided image?",
+        "answer": "White"
+      },
+      {
+        "question": "What appears to be the primary material used for the outer packaging of this product?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the overall form, what is the most accurate geometric description for this product's packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the image, what secondary color is prominently featured on the packaging, besides white?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What kind of text is prominently displayed at the top of the packaging?",
+        "answer": "Highlighting"
+      },
+      {
+        "question": "Observing the packaging design, what is the overall texture visually suggested?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the packaging's appearance, what is the likely form of the product contained inside?",
+        "answer": "Wipes"
+      },
+      {
+        "question": "What is the style of the text used on the packaging?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Focusing on the bottom of the packaging, what additional information is displayed?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the shape of the visible barcode on the lower right corner?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Does the packaging display any noticeable seals or tamper-evident features?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the relative size of the text compared to the packaging area?",
+        "answer": "Small"
+      },
+      {
+        "question": "Observing the image, is the packaging transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What is the visual state of the outer packaging in this picture?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Considering the image, what is the number of visible packaging units?",
+        "answer": "One"
+      }
+    ]
+  }
+]

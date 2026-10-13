@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9b/9b781107.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant textual element depicted on the product?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Based on the visual layout and typography, what specific dietary information is predominantly featured on the product?",
+        "answer": "Facts"
+      },
+      {
+        "question": "What is the primary color scheme utilized for the prominent text displayed on the product, primarily focusing on the headers?",
+        "answer": "Black"
+      },
+      {
+        "question": "Observing the numerical values presented, what is the total calorie count per serving as shown in the displayed image?",
+        "answer": "140"
+      },
+      {
+        "question": "In terms of text formatting, what is the styling applied to the main calorie count to emphasize its significance?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the shape of the nutritional information panel, based solely on its visual presentation in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visual information, what is the background color of the nutrition facts panel, disregarding any text or other elements?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the predominant type of information presented, judging from the various categories listed across the image?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Considering the visual style and design, what is the overall visual texture of the product shown in the given image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the visual style or design of the text within the nutritional facts panel, considering its font and weight?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Focusing only on the visual elements, what is the overall aesthetic or feel of the product's presentation?",
+        "answer": "Informative"
+      },
+      {
+        "question": "What is the visual format of the nutritional information—is it presented in a table, paragraph, or other form?",
+        "answer": "Table"
+      },
+      {
+        "question": "In terms of the visual design, what is the size of the text used for the main headers and subheadings?",
+        "answer": "Large"
+      },
+      {
+        "question": "What is the general appearance of the border of the nutritional facts panel, if any, as seen in the visual depiction?",
+        "answer": "None"
+      },
+      {
+        "question": "Observing the image, what is the overall visual clarity and legibility of the printed nutritional information?",
+        "answer": "Clear"
+      }
+    ]
+  }
+]

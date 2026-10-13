@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ec/ec3a2d01.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed material sample?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the apparent texture of the presented material surface?",
+        "answer": "Coarse"
+      },
+      {
+        "question": "Based on visual inspection, what seems to be the material's overall finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the image, what kind of material is predominantly shown?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Judging from the image's details, what would you describe the material's grain as?",
+        "answer": "Fine"
+      },
+      {
+        "question": "Describe the overall visual uniformity of the presented fabric sample.",
+        "answer": "Even"
+      },
+      {
+        "question": "What is the impression of the visual depth or thickness of the material?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Judging from the image, what visual impression does the material's weave give?",
+        "answer": "Woven"
+      },
+      {
+        "question": "What is the apparent overall tone, considering lightness or darkness?",
+        "answer": "Light"
+      },
+      {
+        "question": "Does the material show any noticeable sheen or glossiness?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the most prominent visual characteristic of the presented material?",
+        "answer": "Texture"
+      },
+      {
+        "question": "What seems to be the overall feel of the depicted material's surface?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Considering the image, is the color distribution consistent throughout?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the material show any visible patterns or distinct markings?",
+        "answer": "No"
+      },
+      {
+        "question": "From the image, what is the visible state or condition of the sample?",
+        "answer": "Clean"
+      }
+    ]
+  }
+]

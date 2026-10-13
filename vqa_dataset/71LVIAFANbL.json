@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c3/c3b2b592.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall pattern depicted across the entire surface?",
+        "answer": "Stripes"
+      },
+      {
+        "question": "What is the predominant color of the depicted pattern?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the background color of the presented barcode?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the visual structure, what type of code is shown?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "What is the apparent orientation of the presented linear code?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Based on visual assessment, what is the pattern's density?",
+        "answer": "High"
+      },
+      {
+        "question": "Observing the barcode's edges, what is their overall appearance?",
+        "answer": "Sharp"
+      },
+      {
+        "question": "What is the general shape of the displayed code element?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What seems to be the printing method of the presented code?",
+        "answer": "Digital"
+      },
+      {
+        "question": "Considering the image's focus, what level of detail is visible?",
+        "answer": "High"
+      },
+      {
+        "question": "From a visual standpoint, how would you describe the barcode's quality?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Judging from the image, what is the barcode's condition?",
+        "answer": "Intact"
+      },
+      {
+        "question": "What is the number of lines visibly present in the code?",
+        "answer": "Many"
+      },
+      {
+        "question": "Judging purely from the visual representation, what is the code's thickness?",
+        "answer": "Thin"
+      },
+      {
+        "question": "What is the nature of the lines within the barcode's structure?",
+        "answer": "Vertical"
+      }
+    ]
+  }
+]

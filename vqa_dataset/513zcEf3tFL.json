@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/82/825cc355.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular layout and text arrangement, what is the primary visual element depicted in the image?",
+        "answer": "Label"
+      },
+      {
+        "question": "What is the dominant color of the background on which the ingredient list is printed?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Based on the textual content, what specific ingredient is prominently highlighted as being organic?",
+        "answer": "Stevia"
+      },
+      {
+        "question": "Observing the font style used throughout the ingredient list, what typeface is primarily utilized?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Looking closely at the texture, does the background of the label appear smooth or rough?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the visual clarity and typeface design, how legible is the provided ingredient information?",
+        "answer": "High"
+      },
+      {
+        "question": "Considering the upper and lower margins, what is the approximate vertical spacing between the two lines of text?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the overall shape of the entire label, considering its dimensions and rectangular configuration?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Does the label display any visible logos, images, or other graphic elements beyond the textual information?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the uniformity of text size and layout, does the label design appear consistent or inconsistent?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Considering the textual information, is there any indication of artificial sweeteners listed amongst the ingredients?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the color scheme, can the text on the label be easily discerned from the background color?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the words printed, does the label provide information about the product's composition?",
+        "answer": "Yes"
+      },
+      {
+        "question": "In terms of the listed ingredients, what is one non-organic component specified in the product description?",
+        "answer": "Silica"
+      },
+      {
+        "question": "Observing the text detailing the ingredients, what is one of the main carbohydrate sources listed?",
+        "answer": "Rice"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b3/b3f85c7a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the depicted wood-like surface?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What kind of texture is predominantly visible on the surface?",
+        "answer": "Linear"
+      },
+      {
+        "question": "What material does the visual texture most closely resemble?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Describe the overall grain direction observable in the image?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Considering the color saturation, how would you characterize the brown shade?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Is there a noticeable pattern in the grain's density across the surface?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Does the image showcase any knots or other significant wood imperfections?",
+        "answer": "No"
+      },
+      {
+        "question": "How would you describe the overall visual uniformity of the grain pattern?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What is the apparent finish of the surface, based on light reflection?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Regarding the color variation, is it subtle or highly contrasting?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "Based on the visual features, is the surface smooth or rough to the touch?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Are there any visible markings or details besides the wood grain?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image resolution, how detailed are the visible wood grain lines?",
+        "answer": "Fine"
+      },
+      {
+        "question": "Does the visual suggest that the surface is natural wood or a substitute?",
+        "answer": "Substitute"
+      },
+      {
+        "question": "If a single word were used, how would you describe the overall aesthetic?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

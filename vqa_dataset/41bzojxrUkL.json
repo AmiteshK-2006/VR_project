@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/10/10c2136d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the text displaying the product's ingredients?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the background color of the ingredient list on the product?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the font style, what is the overall appearance of the text?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the type of text used to present the ingredient list?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Describe the case of the lettering in the ingredient list?",
+        "answer": "Upper"
+      },
+      {
+        "question": "What word introduces the list of ingredients on the product?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What punctuation mark is used after each ingredient?",
+        "answer": "Comma"
+      },
+      {
+        "question": "Is there any additional styling applied to the ingredient list beyond basic font?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall text alignment of the ingredient list on the container?",
+        "answer": "Left"
+      },
+      {
+        "question": "Does the text seem to be printed or handwritten?",
+        "answer": "Printed"
+      },
+      {
+        "question": "Based on the visual clarity, is the text easy to read?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the font size, is the text easily legible?",
+        "answer": "Yes"
+      },
+      {
+        "question": "How many lines of text are used to display the complete list?",
+        "answer": "Six"
+      },
+      {
+        "question": "Does the text show any signs of distortion or blurring?",
+        "answer": "No"
+      },
+      {
+        "question": "Is the text presented in a single column or multiple columns?",
+        "answer": "Single"
+      }
+    ]
+  }
+]

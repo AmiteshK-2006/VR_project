@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/55/55930ac5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the sheet shown in the image?",
+        "answer": "Green"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent material of the sheet?",
+        "answer": "Tissue"
+      },
+      {
+        "question": "Based on the image, what is the overall shape of the displayed item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the visual surface texture of the sheet, considering its uniformity?",
+        "answer": "Fuzzy"
+      },
+      {
+        "question": "Judging by the image, is the sheet's color consistent throughout?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the image show any discernible patterns or designs on the sheet?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the curl, how would you describe the sheet's apparent thickness?",
+        "answer": "Thin"
+      },
+      {
+        "question": "What is the apparent level of transparency or opacity of the material?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Does the image suggest any noticeable sheen or gloss to the surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the image, is the sheet's surface smooth or rough to the touch?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Does the image provide visual evidence of any visible fibers?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image, how would you describe the lightness or darkness of the green shade?",
+        "answer": "Pale"
+      },
+      {
+        "question": "Judging by the corner fold, is the material pliable or rigid?",
+        "answer": "Pliable"
+      },
+      {
+        "question": "From the image, does the paper appear to be single-layered or multi-layered?",
+        "answer": "Single"
+      },
+      {
+        "question": "Based solely on visual inspection, what is the apparent weight of the sheet?",
+        "answer": "Light"
+      }
+    ]
+  }
+]

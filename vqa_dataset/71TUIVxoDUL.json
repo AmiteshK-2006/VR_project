@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/cd/cd34bd01.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall shape and structure, what best describes the container's form?",
+        "answer": "Bottle"
+      },
+      {
+        "question": "What is the predominant color of the bottle's body, excluding the cap?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Based on the visual texture, what material appears to compose the bottle?",
+        "answer": "Glass"
+      },
+      {
+        "question": "What color is the cap or lid affixed to the top of the bottle?",
+        "answer": "Black"
+      },
+      {
+        "question": "Observing the label, what kind of oil is primarily indicated on the bottle?",
+        "answer": "Flax"
+      },
+      {
+        "question": "What is the dominant color of the text prominently displayed on the label?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What appears to be the primary design element or pattern on the upper label?",
+        "answer": "Floral"
+      },
+      {
+        "question": "Is there a barcode visible on the bottle's label, used for product identification?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Describe the overall color scheme of the product label's background color?",
+        "answer": "Green"
+      },
+      {
+        "question": "What style of font is used for the main product title on the label?",
+        "answer": "Serif"
+      },
+      {
+        "question": "Describe the apparent size of the container in comparison to common objects",
+        "answer": "Large"
+      },
+      {
+        "question": "Does the bottle appear to have any noticeable imperfections or irregularities?",
+        "answer": "No"
+      },
+      {
+        "question": "What type of information seems to be listed on the label's side panel?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Judging by the visual cues, does this appear to be a resealable container?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent texture of the bottle's surface?",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

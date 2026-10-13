@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6e/6e593eaa.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's visual presentation, what is the overall textual alignment observed within the provided image?",
+        "answer": "Left"
+      },
+      {
+        "question": "Based on the image, what type of font is predominantly used in displaying the provided textual content?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Judging from the visual appearance, what is the approximate size of the text, relative to other average text sizes?",
+        "answer": "Small"
+      },
+      {
+        "question": "What specific method seems to have been used for creating or reproducing the provided textual information?",
+        "answer": "Printing"
+      },
+      {
+        "question": "In terms of its visual texture, how does the text appear relative to its background within the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Focusing solely on the text's visual attributes, what color is observed throughout the provided textual data?",
+        "answer": "Black"
+      },
+      {
+        "question": "Judging by the visual attributes, what is the apparent style of the capitalization scheme used in the text's presentation?",
+        "answer": "Sentence"
+      },
+      {
+        "question": "Based solely on visual inspection, can you specify the type of characters used in this textual display?",
+        "answer": "Alphabetic"
+      },
+      {
+        "question": "What is the primary material on which the text visually appears to be printed?",
+        "answer": "Paper"
+      },
+      {
+        "question": "How would you characterize the overall visual density of the textual information within the image?",
+        "answer": "High"
+      },
+      {
+        "question": "Considering the visual clarity of the text, how would you describe its legibility?",
+        "answer": "Clear"
+      },
+      {
+        "question": "In terms of visual organization, how are the individual words and lines of text structured on the page?",
+        "answer": "Linear"
+      },
+      {
+        "question": "What is the approximate visual length of the provided text, considering the number of lines?",
+        "answer": "Long"
+      },
+      {
+        "question": "Based on the image, what is the general shape of the area where the text is displayed?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the visual spacing observed between individual words and characters throughout the text.",
+        "answer": "Consistent"
+      }
+    ]
+  }
+]

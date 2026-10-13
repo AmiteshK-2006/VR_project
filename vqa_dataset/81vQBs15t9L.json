@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/33/33f9c7f5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the cookies depicted in the provided image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the visible texture, what is the apparent surface quality of the cookies?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Based on visual inspection, what kind of chunks are visibly embedded within the cookies?",
+        "answer": "Chocolate"
+      },
+      {
+        "question": "What is the overall shape of the individual cookies presented in the package?",
+        "answer": "Round"
+      },
+      {
+        "question": "What material constitutes the primary packaging visible around the cookies?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Judging from the image, what is the apparent style of the cookies?",
+        "answer": "Classic"
+      },
+      {
+        "question": "What is the dominant design element on the packaging label identifying the product?",
+        "answer": "Text"
+      },
+      {
+        "question": "Considering the image, what is the apparent size and arrangement of the cookies within the package?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Based on visual assessment, what is the suggested method for preserving the cookies?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Does the image show any visible signs of damage or imperfection to the cookies?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the packaging, can you identify any notable branding or logos?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the general form factor of the cookie package as shown in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the approximate number of cookies visible in the packaging?",
+        "answer": "Twelve"
+      },
+      {
+        "question": "Based on the image, what is the apparent baking style of the cookies shown?",
+        "answer": "Flat"
+      },
+      {
+        "question": "What seems to be the overall level of visual appeal of the cookies and their presentation?",
+        "answer": "High"
+      }
+    ]
+  }
+]

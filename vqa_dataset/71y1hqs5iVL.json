@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4f/4fade08b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the liquid within the container, as depicted in the provided image?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the overall form, what is the geometric shape of the plastic milk jug?",
+        "answer": "Jug"
+      },
+      {
+        "question": "Based on the image, what appears to be the primary material composing the milk jug?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the apparent type of milk product contained within the gallon jug, according to the product label?",
+        "answer": "Nonfat"
+      },
+      {
+        "question": "Describe the cap's visible color atop the milk jug, as shown in the product image.",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the image, what is the texture of the milk visible through the jug's sides?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall appearance of the label's typeface or font style?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the visible label, what brand is this milk product identified as belonging to?",
+        "answer": "365"
+      },
+      {
+        "question": "What is the apparent color of the label's background, which features the milk product name?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the most visible color accent used on the product label's design features?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the general shape of the handle, observed from the picture's perspective?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What kind of lid closure is present on the milk jug, as shown in the provided image?",
+        "answer": "Screw"
+      },
+      {
+        "question": "Considering the visible portion, what is the overall transparency level of the jug's plastic?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What is the apparent size of the milk container based on the image; this is not the volume, but the physical size class?",
+        "answer": "Gallon"
+      },
+      {
+        "question": "What is the primary method of dispensing from this milk container?",
+        "answer": "Pouring"
+      }
+    ]
+  }
+]

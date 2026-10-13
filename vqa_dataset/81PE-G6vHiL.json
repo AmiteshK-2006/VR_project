@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bf/bf5f952d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what fundamental geometric shape best describes the presented object?",
+        "answer": "Circular"
+      },
+      {
+        "question": "Examining the surface texture, would you characterize it as smooth, rough, or something else?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What predominant color is visually apparent across the entirety of this item?",
+        "answer": "Black"
+      },
+      {
+        "question": "Judging by its appearance, what is the most likely material used in the manufacturing of this object?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Focusing on the central, recessed area, what shape does this specific design element exhibit?",
+        "answer": "Oval"
+      },
+      {
+        "question": "Observing the outer rim, does it possess any visible texturing or design elements?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the product exhibit any visible markings or inscriptions, aside from the central design element?",
+        "answer": "No"
+      },
+      {
+        "question": "Regarding the item's physical construction, does it seem to be composed of one or multiple pieces?",
+        "answer": "One"
+      },
+      {
+        "question": "Considering the apparent size and functionality, what is the most probable use or purpose of this object?",
+        "answer": "Lid"
+      },
+      {
+        "question": "Based solely on the visual characteristics, is the object transparent, opaque, or translucent?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Concentrating on the central oval, does the inscription appear raised or recessed into the surface?",
+        "answer": "Recessed"
+      },
+      {
+        "question": "Considering its structure, does the object demonstrate any apparent signs of assembly or separate components?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on its visual attributes, is the object likely to be heavy, light, or of medium weight?",
+        "answer": "Light"
+      },
+      {
+        "question": "From the depicted image, how many individual items are presented in the photograph?",
+        "answer": "Two"
+      },
+      {
+        "question": "Analyzing the object's surface, are there any discernible blemishes or imperfections visible?",
+        "answer": "No"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9e/9e7591c9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape and the dense textual content, what is the predominant format of the presented nutritional information?",
+        "answer": "Table"
+      },
+      {
+        "question": "Observing the detailed layout, what is the primary purpose of this displayed information, as suggested by its clear labeling?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Focusing on the visual structure, how is the information organized to enhance readability and comprehension, based on its clear sections?",
+        "answer": "Categorical"
+      },
+      {
+        "question": "Given the numerous numerical values presented, what is the measurement system used to convey the quantities of various nutritional components?",
+        "answer": "Metric"
+      },
+      {
+        "question": "Considering the visual prominence of certain numbers, what is the unit of measure primarily used for indicating quantities of fats, carbohydrates, and proteins?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Based on the visual presence of percentages, what is the reference standard used to express the nutritional value relative to a daily intake?",
+        "answer": "DV"
+      },
+      {
+        "question": "Analyzing the visual characteristics, what is the typical font used throughout the presented nutritional information, in terms of its style?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the visual context of numbers and labels, what is the main topic of the section that specifies 'Serv. Size' and 'Servings'?",
+        "answer": "Serving"
+      },
+      {
+        "question": "Given the visual prominence of the text, what type of food is this nutritional information referring to, based on the provided context clues?",
+        "answer": "Food"
+      },
+      {
+        "question": "Based on the color and text layout, what is the overall aesthetic impression of this text, in a single word?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Considering the text's visual clarity, what is the general readability of this nutritional information label?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Based on the image's visual attributes, what is the overall contrast between the text and the background?",
+        "answer": "High"
+      },
+      {
+        "question": "Considering the visual appearance of the lines, what is the predominant style of the lines in the nutritional information?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Based on the visual prominence of specific terms, what is the term indicating the reference daily intake in the nutrition facts?",
+        "answer": "DV"
+      },
+      {
+        "question": "What is the overall layout of the text on the label, in terms of visual organization?",
+        "answer": "Linear"
+      }
+    ]
+  }
+]

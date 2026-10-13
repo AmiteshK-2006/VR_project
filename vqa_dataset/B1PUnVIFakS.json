@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/05/05f347b2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the image?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the weave and texture, what is the apparent material type?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "Based on the image, what is the overall texture of the fabric sample?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Describe the visual pattern or design present on the fabric surface?",
+        "answer": "Solid"
+      },
+      {
+        "question": "What kind of visual appearance does the fabric's surface possess?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Can you describe the arrangement of threads in the fabric's structure?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Judging by the image, what is the general sheen or luster of the fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the primary visual characteristic of the color's intensity?",
+        "answer": "Muted"
+      },
+      {
+        "question": "Does the fabric exhibit any visible patterns or motifs?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the implied weight or thickness of the textile presented?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Considering the weave, does the fabric feel rough or soft?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the impression of the fabric's drape or flexibility?",
+        "answer": "Straight"
+      },
+      {
+        "question": "Does the fabric appear to have a distinct directional grain?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is there any visible variation in the color saturation?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the image, is the surface of the fabric uniform?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

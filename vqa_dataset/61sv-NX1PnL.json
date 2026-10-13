@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a1/a12ef161.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form and dimensions, what is the primary shape of this item, as presented in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visual texture, what fabric type best describes the product's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What single word best captures the overall color presentation of the item as shown?",
+        "answer": "Purple"
+      },
+      {
+        "question": "Disregarding any potential subtle variations, what is the most prominent color observed?",
+        "answer": "Aubergine"
+      },
+      {
+        "question": "Judging solely from the image, what is the most accurate description of the item's apparent material?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Considering its visual characteristics, what is the implied purpose of this item?",
+        "answer": "Covering"
+      },
+      {
+        "question": "Given the visual evidence, what is the most suitable descriptor for the item's surface texture?",
+        "answer": "Soft"
+      },
+      {
+        "question": "From a purely visual perspective, what might this item be used for?",
+        "answer": "Decor"
+      },
+      {
+        "question": "Judging solely by the image, what is the item's visual presentation most evocative of?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the dominant visible characteristic of the edge of this item?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Given only the image, what single word best represents the item's style?",
+        "answer": "Plain"
+      },
+      {
+        "question": "What is the most appropriate descriptor of the item's visual complexity?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "Based solely on the image, what single word best summarizes the item's visual impact?",
+        "answer": "Solid"
+      },
+      {
+        "question": "What is the apparent degree of pattern or design on the visible surface?",
+        "answer": "None"
+      },
+      {
+        "question": "What term describes the visual uniformity of the item's color?",
+        "answer": "Consistent"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b5/b5445984.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the text describing the product's ingredients?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the font style, what is the overall textual appearance?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the primary food item mentioned as an ingredient in the provided text?",
+        "answer": "Garbanzo"
+      },
+      {
+        "question": "Based on the text's capitalization, what is the descriptive style employed for ingredients?",
+        "answer": "Title"
+      },
+      {
+        "question": "Disregarding punctuation, what is the case of letters used for the word 'INGREDIENTS'?",
+        "answer": "Upper"
+      },
+      {
+        "question": "In terms of presentation, what is the primary format for listing the ingredients?",
+        "answer": "List"
+      },
+      {
+        "question": "Besides garbanzo beans, what is another key ingredient listed, typically found in water?",
+        "answer": "Salt"
+      },
+      {
+        "question": "What chemical compound is mentioned, aiding in preserving the visual appeal?",
+        "answer": "EDTA"
+      },
+      {
+        "question": "Ignoring grammatical structures, how is the word 'beans' presented in relation to 'garbanzo'?",
+        "answer": "Adjacent"
+      },
+      {
+        "question": "What is the word following the parenthetical explanation of Disodium EDTA's function?",
+        "answer": "Period"
+      },
+      {
+        "question": "What is the grammatical function of the phrase '(to promote color retention)'?",
+        "answer": "Appositive"
+      },
+      {
+        "question": "What is the function of the word 'to' in this text?",
+        "answer": "Infinitive"
+      },
+      {
+        "question": "Based on the text, what property of the product does Disodium EDTA influence?",
+        "answer": "Color"
+      },
+      {
+        "question": "What is the overall purpose of the provided text?",
+        "answer": "Listing"
+      },
+      {
+        "question": "What part of speech is the word 'Ingredients'?",
+        "answer": "Noun"
+      }
+    ]
+  }
+]

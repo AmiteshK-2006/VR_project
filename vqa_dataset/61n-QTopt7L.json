@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f6/f6994cae.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color scheme of the displayed text?",
+        "answer": "Purple"
+      },
+      {
+        "question": "Based on the visible text, what is the primary stated component of the product?",
+        "answer": "Water"
+      },
+      {
+        "question": "Judging by the image, what is the text's apparent font style, conveying its formal or informal tone?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Looking at the image, what is the overall texture of the surface where the text is printed?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From the visual data, what is the case of the lettering style used for the ingredients?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Analyzing the text's appearance, what adjective best describes the font's weight or thickness?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Regarding the text's positioning, what is its general alignment on the background surface?",
+        "answer": "Left"
+      },
+      {
+        "question": "What is the most prominent word displayed in the image showing the ingredients?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "In terms of visual structure, how many distinct lines compose the presented ingredients list?",
+        "answer": "Three"
+      },
+      {
+        "question": "According to the text's visual characteristics, what is the overall arrangement of the text block?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the visual format of the information presented about the product in the image?",
+        "answer": "List"
+      },
+      {
+        "question": "Focusing on visual details, is the provided text written in a block format or paragraph style?",
+        "answer": "Block"
+      },
+      {
+        "question": "Based on the image, what is the type of visual information illustrated in the provided image?",
+        "answer": "Text"
+      },
+      {
+        "question": "Judging from the image, what is the general format of the text used to display the ingredients?",
+        "answer": "Label"
+      },
+      {
+        "question": "What kind of visual information is used in the image to show the composition of the product?",
+        "answer": "Words"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4a/4aab2095.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the fabric shown in the image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the overall texture of the fabric depicted?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Considering the weave, what is the apparent material of this textile?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "Based on the image, what is the primary type of the displayed fabric?",
+        "answer": "Cloth"
+      },
+      {
+        "question": "Describe the visual pattern of the threads in the given fabric sample.",
+        "answer": "Linear"
+      },
+      {
+        "question": "Considering the image, how would you describe the fiber density?",
+        "answer": "Dense"
+      },
+      {
+        "question": "What is the apparent level of sheen or glossiness exhibited by this textile?",
+        "answer": "Matte"
+      },
+      {
+        "question": "From the image, what is the visible visual direction of the weave?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "How would one characterize the visible uniformity of the fabric's color?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "What is the visible thickness or weight of the cloth in the presented image?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Considering the image, does the fabric appear to have a discernible pile?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image, does the fabric appear to be patterned or plain?",
+        "answer": "Plain"
+      },
+      {
+        "question": "What is the visible degree of drape or softness suggested by the image?",
+        "answer": "Slight"
+      },
+      {
+        "question": "What is the apparent overall visual finish of the fabric in the given image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the visible characteristics, does the fabric appear soft or stiff?",
+        "answer": "Medium"
+      }
+    ]
+  }
+]

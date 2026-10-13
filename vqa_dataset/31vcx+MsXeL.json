@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b9/b9c3c7b3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the box's primary label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of the product's packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What type of beverage is indicated on the packaging?",
+        "answer": "Water"
+      },
+      {
+        "question": "What adjective describes the water's carbonation level?",
+        "answer": "Sparkling"
+      },
+      {
+        "question": "What citrus fruit is depicted on the box's label?",
+        "answer": "Lemon"
+      },
+      {
+        "question": "What color is the small circular graphic on the box's left?",
+        "answer": "LightBlue"
+      },
+      {
+        "question": "What is the general texture of the depicted box?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What material appears to constitute the packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the main printing method used on the packaging?",
+        "answer": "Offset"
+      },
+      {
+        "question": "What is the predominant font style used in the branding?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What kind of image is primarily shown on the product packaging?",
+        "answer": "Photographic"
+      },
+      {
+        "question": "Considering the size in relation to the person, is the box large or small?",
+        "answer": "Large"
+      },
+      {
+        "question": "Considering the packaging, what's the likely volume of product inside?",
+        "answer": "Multipack"
+      },
+      {
+        "question": "How many primary colors are used in the box's design?",
+        "answer": "Three"
+      },
+      {
+        "question": "Does the packaging include any additional text besides brand and product?",
+        "answer": "No"
+      }
+    ]
+  }
+]

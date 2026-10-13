@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/63/63a48001.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual layout, what is the dominant textual element depicted in this image?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the prominent color used as the background for this nutritional information?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Observing the numerical data, what is the total amount of calories per serving?",
+        "answer": "190"
+      },
+      {
+        "question": "Based on the text provided, what is the approximate number of servings per container?",
+        "answer": "Four"
+      },
+      {
+        "question": "Focusing on the fat content, what is the quantity of saturated fat in grams per serving?",
+        "answer": "One"
+      },
+      {
+        "question": "Analyzing the sodium content, how much sodium is present in milligrams per serving?",
+        "answer": "600"
+      },
+      {
+        "question": "Based on the carbohydrate data, what is the amount of total carbohydrates in grams per serving?",
+        "answer": "21"
+      },
+      {
+        "question": "Regarding the sugar content, what is the quantity of total sugars in grams per serving?",
+        "answer": "One"
+      },
+      {
+        "question": "What is the total amount of protein, in grams, found in a single serving?",
+        "answer": "Eight"
+      },
+      {
+        "question": "What is the amount of Vitamin D, in micrograms, present in each serving?",
+        "answer": "Zero"
+      },
+      {
+        "question": "What is the amount of Calcium, in milligrams, present in each serving?",
+        "answer": "Zero"
+      },
+      {
+        "question": "Observing the data for iron, how many milligrams are present per serving?",
+        "answer": "Zero"
+      },
+      {
+        "question": "In terms of potassium, how many milligrams are present in each serving?",
+        "answer": "Zero"
+      },
+      {
+        "question": "What is the serving size in grams mentioned on the label?",
+        "answer": "84"
+      },
+      {
+        "question": "What is the approximate number of strips that constitute a single serving?",
+        "answer": "Twenty-seven"
+      }
+    ]
+  }
+]

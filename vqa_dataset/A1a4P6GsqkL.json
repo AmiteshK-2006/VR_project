@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/7e/7e96e325.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the visible surface of the product?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary material used in the product's construction?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Describe the overall texture observed on the majority of the product's surface.",
+        "answer": "Woven"
+      },
+      {
+        "question": "Considering the image, what is the apparent shape of the product's visible portion?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on visual inspection, what is the visible finish or treatment of the product's edges?",
+        "answer": "Seamed"
+      },
+      {
+        "question": "What type of visual pattern, if any, is noticeable in the product's texture?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Judging from the image, what is the general thickness of the visible product layer?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Does the surface texture appear smooth, rough, or something in between?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Can you describe the apparent level of sheen or gloss on the visible product surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Observing the image, is there any discernible pattern repetition in the fabric?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent uniformity of the texture across the entire visible surface?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Based on visual assessment, what is the degree of visible pilling or wear?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "Does the product exhibit any apparent visual defects or imperfections?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the close-up image, does the surface feel soft or hard?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Based solely on visual observation, does the fabric seem tightly or loosely woven?",
+        "answer": "Tightly"
+      }
+    ]
+  }
+]

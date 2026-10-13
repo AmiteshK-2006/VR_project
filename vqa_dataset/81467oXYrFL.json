@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2c/2c3b519f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what is the dominant color scheme of this nutrition facts panel?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the color of the text used for the 'Nutrition Facts' heading?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the text color used for numerical values representing nutritional components?",
+        "answer": "Black"
+      },
+      {
+        "question": "Observing the layout, what is the primary shape that organizes the nutritional data?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the visual texture of the background on this nutrition facts panel.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Focusing on the typography, what is the font style predominantly used throughout the panel?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Judging by the visual appearance, what is the material the label seems to be printed on?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Looking at the structure, what is the general orientation of the nutritional information presented?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Based on the visual layout, which nutritional value is displayed most prominently?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Considering the text size and prominence, which is the most emphasized serving information?",
+        "answer": "Calories"
+      },
+      {
+        "question": "What is the visual format of the nutritional values, and percentages?",
+        "answer": "tabular"
+      },
+      {
+        "question": "What is the visual style of the percentage values, numerically?",
+        "answer": "Arabic"
+      },
+      {
+        "question": "What is the visual style of the nutritional values, numerically?",
+        "answer": "Arabic"
+      },
+      {
+        "question": "What is the visual design of the text within the 'Nutrition Facts' panel?",
+        "answer": "Columnar"
+      },
+      {
+        "question": "Based on visual observation, what is the alignment of the nutritional values?",
+        "answer": "Right"
+      }
+    ]
+  }
+]

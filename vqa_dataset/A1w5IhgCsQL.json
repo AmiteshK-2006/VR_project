@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b3/b33e77f1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the fabric shown in the image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent feel of the material?",
+        "answer": "Fuzzy"
+      },
+      {
+        "question": "Based on the image, what is the overall surface appearance of the textile?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Judging from the image's visual details, what kind of fabric is depicted?",
+        "answer": "Fleece"
+      },
+      {
+        "question": "What is the most apparent visual characteristic of the material's surface?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Given its look, what is the likely fiber type of the displayed material?",
+        "answer": "Synthetic"
+      },
+      {
+        "question": "Can you describe the visual consistency of the fabric's coloring?",
+        "answer": "Even"
+      },
+      {
+        "question": "What is the apparent pile length of the fabric, based solely on the image?",
+        "answer": "Short"
+      },
+      {
+        "question": "How would you characterize the visible density of the fabric's fibers?",
+        "answer": "Dense"
+      },
+      {
+        "question": "From the image, what is the visible level of sheen on the fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on visual cues, how might you describe the fabric's weight?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the overall visual impression of the fabric's thickness?",
+        "answer": "Thick"
+      },
+      {
+        "question": "From the image alone, what is the apparent softness of the material?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What is the main visual impression regarding the color saturation?",
+        "answer": "Low"
+      },
+      {
+        "question": "Based on the appearance, how would you describe the fabric's drape?",
+        "answer": "NoDrape"
+      }
+    ]
+  }
+]

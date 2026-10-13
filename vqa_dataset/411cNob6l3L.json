@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0d/0d4d9171.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant visual characteristic of the pictured item?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the lighting and visual texture, what is the apparent surface finish?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Based on the image's subtle variations in shade, what might the object's material be?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Disregarding the background, what is the overall shape of the presented object?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Observing the image closely, does the object exhibit any visible markings or patterns?",
+        "answer": "None"
+      },
+      {
+        "question": "Judging by the reflections, is the surface of the product flat or curved?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Does the product appear to have a matte, satin, or glossy finish?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "From the image, is the object's form two-dimensional or three-dimensional?",
+        "answer": "Two-dimensional"
+      },
+      {
+        "question": "Considering the smoothness of the gradients, what is the inferred texture?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on visual cues, is the object transparent, translucent, or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "If the object were held, what would be its likely weight (based solely on visual impression)?",
+        "answer": "Light"
+      },
+      {
+        "question": "What could the image be portraying (considering its simplicity and uniform coloration)?",
+        "answer": "Background"
+      },
+      {
+        "question": "Based on visual cues, is the displayed item solid or hollow?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Given its overall appearance, would it be classified as textured or smooth?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the product in the image show any structural elements or joints?",
+        "answer": "None"
+      }
+    ]
+  }
+]

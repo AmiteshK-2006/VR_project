@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/af/afd4204c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color dominating the overall design of the package, as visually apparent?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering the visual texture, what would you describe the surface of the packaging as?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Based on the image, what seems to be the primary material of the food packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the shape of the primary packaging element, as clearly shown in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What word is prominently displayed at the top of the packaging, as indicated visually?",
+        "answer": "Lift"
+      },
+      {
+        "question": "What secondary color is used as an accent in the text and other visual elements?",
+        "answer": "Green"
+      },
+      {
+        "question": "Observing the design, is the packaging's style predominantly minimalist or ornate?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the most common visual characteristic across the text on the package?",
+        "answer": "Cursive"
+      },
+      {
+        "question": "Judging from the packaging design, what is the product's intended preparation method?",
+        "answer": "Stovetop"
+      },
+      {
+        "question": "What is the secondary preparation method mentioned on the package, indicated visually?",
+        "answer": "Microwave"
+      },
+      {
+        "question": "Does the packaging indicate any special instructions before opening the product?",
+        "answer": "Shake"
+      },
+      {
+        "question": "What is the overall state of the presented packaging, judging visually?",
+        "answer": "Folded"
+      },
+      {
+        "question": "Is the overall appearance of the package modern or vintage, from visual assessment?",
+        "answer": "Vintage"
+      },
+      {
+        "question": "In the visual representation, what is the main style of text used in the instructions?",
+        "answer": "Handwritten"
+      },
+      {
+        "question": "What does the text on the top clearly instruct the user to do with the package?",
+        "answer": "Lift"
+      }
+    ]
+  }
+]

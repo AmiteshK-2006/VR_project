@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/49/497e8b34.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout and design elements, what is the primary function of this rectangular product label, judging by its content and visual organization?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the dominant color used for the background of the main section presenting the nutritional information, as visually observed?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the visual prominence and font style, what term is used to categorize the data provided on the label, predominantly featuring numbers and percentages?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Observing the textual content and the formatting, which specific dietary component is prominently highlighted on the label, indicated by its large font size?",
+        "answer": "Calories"
+      },
+      {
+        "question": "What single word best describes the overall visual format of the nutritional information, organized in rows and columns?",
+        "answer": "Table"
+      },
+      {
+        "question": "Disregarding the logo, what is the textual element visible at the bottom of the label which indicates origin or retailer?",
+        "answer": "Amazon"
+      },
+      {
+        "question": "What is the color of the logo visible at the bottom of the product label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the texture of the label's surface, as implied by the quality of the printed information and apparent smoothness of the background?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the shape of the label as a whole, based on visual observation of its boundaries?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the material of the label based on its appearance and implied properties, such as its stiffness and printability?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Considering the presence of numerical values and units, what is the predominant type of information communicated on the label?",
+        "answer": "Quantities"
+      },
+      {
+        "question": "Ignoring the logo, what is the overall style of the text's font on the label, in terms of its appearance and readability?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on its position and the context of other elements, what is the role of the small text at the bottom of the label?",
+        "answer": "Details"
+      },
+      {
+        "question": "Observing the color contrast, what is the color of the text predominantly used for the headings and titles of the nutritional information?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the organization of the information, what is the nature of the data, related to the consumption or properties of a product?",
+        "answer": "Nutritional"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1b/1b43e2c5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the visible label on the container, predominantly featuring text and a logo?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering the overall form, what is the most accurate geometrical description of the product's container?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What material seems to constitute the primary structural component of the product's packaging?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the texture, how would you describe the surface of the container that holds the product?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based solely on visual inspection, what is the apparent physical state of the contained product?",
+        "answer": "Powder"
+      },
+      {
+        "question": "What is the primary color of the tamper-evident seal at the top of the container?",
+        "answer": "White"
+      },
+      {
+        "question": "Judging from the visual detail, what is the predominant method of dispensing the product?",
+        "answer": "Pouring"
+      },
+      {
+        "question": "What kind of text is mostly printed on the container's label, providing details about the product and its manufacturer?",
+        "answer": "Descriptive"
+      },
+      {
+        "question": "Considering the imagery, what is the overall impression of the design aesthetic of the packaging?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Observing the label's details, which style of label design is predominantly used for providing information?",
+        "answer": "Informative"
+      },
+      {
+        "question": "What is the most notable element featured centrally on the product label, that is distinct from the text information?",
+        "answer": "Logo"
+      },
+      {
+        "question": "Based on visual cues only, what appears to be the product's primary function, based on its packaging's label?",
+        "answer": "Sweetener"
+      },
+      {
+        "question": "What is the most prominent shape visible on the label, often associated with food certification?",
+        "answer": "Circle"
+      },
+      {
+        "question": "Observing the barcode's position, where is it primarily located on the container?",
+        "answer": "Bottom"
+      },
+      {
+        "question": "Considering the visible elements on the label, is there evidence suggesting that the product has a specific dietary certification?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

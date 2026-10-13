@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/db/dbf3821e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color displayed prominently on the beverage can's body?",
+        "answer": "Green"
+      },
+      {
+        "question": "What primary material constitutes the outer packaging of this product?",
+        "answer": "Aluminum"
+      },
+      {
+        "question": "Considering the overall form, what geometric shape best describes the container?",
+        "answer": "Cylinder"
+      },
+      {
+        "question": "What prominent text is displayed on the can, indicating the retailer?",
+        "answer": "WholeFoods"
+      },
+      {
+        "question": "What is the general texture of the can's surface, as visually apparent?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describing the can's finish, is it glossy or matte?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Based on the image, does the can exhibit any noticeable dents or imperfections?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the predominant design style or aesthetic of the can's labeling?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Does the can feature a noticeable seam or weld line along its vertical axis?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is there any visible indication of a pull tab or opening mechanism on the can?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image, does the can appear to be empty or full?",
+        "answer": "Full"
+      },
+      {
+        "question": "What is the general color tone of the text present on the beverage can?",
+        "answer": "White"
+      },
+      {
+        "question": "Can you identify any discernible patterns or illustrations on the can's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the can include a barcode for product identification?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What type of information is mostly found near the barcode?",
+        "answer": "Text"
+      }
+    ]
+  }
+]

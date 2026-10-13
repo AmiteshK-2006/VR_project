@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e1/e15f2ece.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout and textual organization, what is the primary purpose of this product's visual presentation?",
+        "answer": "Information"
+      },
+      {
+        "question": "Focusing on the textual blocks, what is the predominant color scheme employed for the text and headers?",
+        "answer": "Black"
+      },
+      {
+        "question": "Examining the typography of the various sections, what kind of font is consistently used throughout the image?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Regarding the visual hierarchy, what element dominates the upper half of the visual field?",
+        "answer": "Table"
+      },
+      {
+        "question": "Analyzing the tabular data, what are the units consistently used for measuring nutrient quantities?",
+        "answer": "mg"
+      },
+      {
+        "question": "Considering the structure of the textual content, what is the main category of data presented in the left-hand column?",
+        "answer": "Nutrients"
+      },
+      {
+        "question": "Focusing on the terminology used, what term describes the protein components of this supplement?",
+        "answer": "Proprietary"
+      },
+      {
+        "question": "Observing the style of the textual content, what is the general tone of the writing?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Considering the structure of the informational content, what key element is displayed at the top of the entire image?",
+        "answer": "Title"
+      },
+      {
+        "question": "Regarding the overall visual feel, what kind of overall aesthetic would best describe this product's visual style?",
+        "answer": "Clinical"
+      },
+      {
+        "question": "Considering the type of data presented, is the information displayed predominantly quantitative or qualitative?",
+        "answer": "Quantitative"
+      },
+      {
+        "question": "Analyzing the image's composition, what is the visual format used to present the nutritional information?",
+        "answer": "Table"
+      },
+      {
+        "question": "Considering the image as a whole, what is the main subject depicted?",
+        "answer": "Supplement"
+      },
+      {
+        "question": "Observing the design elements, does the image incorporate any visual illustrations or graphics beyond the text?",
+        "answer": "No"
+      },
+      {
+        "question": "Referring to the information conveyed, what is the total number of servings indicated per container?",
+        "answer": "Ten"
+      }
+    ]
+  }
+]

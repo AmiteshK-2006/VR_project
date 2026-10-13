@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/70/7095f794.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the text detailing the product's ingredients?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall background color of the product's ingredient list?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the font style, what is the overall impression of the text's presentation?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the visual style of the text; is it bold, italic, or something else?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Based on the visual layout, how many distinct sections are present in the provided text?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the case of the lettering used for the headings 'INGREDIENTS' and 'CONTAINS'?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "What is the type of text used for presenting the ingredient list?",
+        "answer": "List"
+      },
+      {
+        "question": "Regarding the text's alignment, is it left, right, or centered?",
+        "answer": "Left"
+      },
+      {
+        "question": "What specific word indicates that the list is about the contents of the product?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the general appearance of the textual information presented?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Judging by the image, is the text easy or difficult to read?",
+        "answer": "Easy"
+      },
+      {
+        "question": "What word indicates potential allergens included in this product?",
+        "answer": "Contains"
+      },
+      {
+        "question": "Does the text contain parenthetical information, providing extra details about any ingredients?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the style of the punctuation used in the ingredient list?",
+        "answer": "Standard"
+      },
+      {
+        "question": "What single word describes the formatting of the information provided on ingredients?",
+        "answer": "Structured"
+      }
+    ]
+  }
+]

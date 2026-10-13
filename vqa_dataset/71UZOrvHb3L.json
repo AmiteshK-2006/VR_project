@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/dd/ddef816d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary function depicted in the image, considering the device's design and the hands interacting with it?",
+        "answer": "Charging"
+      },
+      {
+        "question": "Considering the overall form factor, what is the predominant color of the charging station and the controllers?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the material that appears to constitute the majority of the charging station's visible surface?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the shape of the base, how would you describe the overall form of the charging station?",
+        "answer": "Triangular"
+      },
+      {
+        "question": "What is the apparent finish of the charging station's exterior surface, judging from its reflection of light?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Observing the controllers' placement, what is the type of device seemingly being charged?",
+        "answer": "Gamepads"
+      },
+      {
+        "question": "Based on the controller's visible buttons, what gaming system are these controllers likely designed for?",
+        "answer": "PlayStation"
+      },
+      {
+        "question": "What is the general arrangement of the charging points in relation to each other and the main body of the device?",
+        "answer": "Dual"
+      },
+      {
+        "question": "What is the apparent connection method employed to power the charging station, judging from visible elements?",
+        "answer": "Cable"
+      },
+      {
+        "question": "Considering the image's focus, what is the apparent operational state indicated by the human interaction with the device?",
+        "answer": "Docking"
+      },
+      {
+        "question": "Examining the controller's surface, what is the texture observed on the visible parts of the device?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Looking at the design, what is the primary means by which the controllers connect to the charging station?",
+        "answer": "Slots"
+      },
+      {
+        "question": "Considering the shape of the controllers, how would you describe their overall form?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What is the type of visual feedback provided on the charging station to indicate the charging status of the controllers?",
+        "answer": "None"
+      },
+      {
+        "question": "Examining the placement of the controllers, what is the orientation of these relative to the charging station?",
+        "answer": "Vertical"
+      }
+    ]
+  }
+]

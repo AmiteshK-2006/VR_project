@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/08/08f489e2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual design, what is the primary color scheme prominently displayed on the product's label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the most visually striking textual element on the label, indicating nutritional information?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Based on the visual information provided, what is the primary unit of measurement used for the serving size?",
+        "answer": "Cup"
+      },
+      {
+        "question": "Analyzing the visual structure of the nutritional information, what is the quantitative value assigned to 'Calories' per serving?",
+        "answer": "110"
+      },
+      {
+        "question": "Observing the text formatting, what specific nutrient's value is highlighted with a percentage value next to each nutrient?",
+        "answer": "Fat"
+      },
+      {
+        "question": "Examining the text's structure, what measurement unit is consistently used for representing the quantity of 'Total Fat'?",
+        "answer": "g"
+      },
+      {
+        "question": "Focusing on the visual presentation, what is the designated value for 'Saturated Fat' in grams?",
+        "answer": "1"
+      },
+      {
+        "question": "Looking at the label, what nutrient is identified with a value of '0g', indicating its absence or negligible amount?",
+        "answer": "Trans"
+      },
+      {
+        "question": "Based on the numerical data displayed, what is the value shown for 'Cholesterol' in milligrams?",
+        "answer": "10"
+      },
+      {
+        "question": "What is the value shown for 'Sodium', expressed in milligrams?",
+        "answer": "95"
+      },
+      {
+        "question": "What is the numerical value presented for 'Total Carbohydrate' in grams?",
+        "answer": "19"
+      },
+      {
+        "question": "From the visual data, what is the value of 'Dietary Fiber' expressed in grams?",
+        "answer": "0"
+      },
+      {
+        "question": "What is the amount of 'Total Sugars' visually indicated in grams?",
+        "answer": "16"
+      },
+      {
+        "question": "Observing the visual representation, what is the value of 'Protein' given in grams?",
+        "answer": "6"
+      },
+      {
+        "question": "What is the value for 'Added Sugars' given in grams?",
+        "answer": "9"
+      }
+    ]
+  }
+]

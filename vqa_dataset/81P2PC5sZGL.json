@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5d/5d418909.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the presented nutritional information panel?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary color used for the background of this nutrition facts label?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What color is the text primarily used for the headings on the nutrition label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the font style predominantly used in the given nutrition facts panel?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the size and arrangement, what is the most prominent textual element displayed on the label?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What kind of information is this rectangular panel predominantly presenting?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Observing the text layout, what is the organizational structure of this information?",
+        "answer": "Tabular"
+      },
+      {
+        "question": "What is the dominant texture perceived on this nutritional information panel?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the presented information, what is the unit of measure for the serving size?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the approximate number of servings indicated as being contained within the food product?",
+        "answer": "FiveHundred"
+      },
+      {
+        "question": "What specific aspect of the food's composition is highlighted at the very top of the label?",
+        "answer": "Facts"
+      },
+      {
+        "question": "What is the numerical value listed for calories per serving according to this label?",
+        "answer": "Zero"
+      },
+      {
+        "question": "In grams, what is the quantity stated for the serving size of the product?",
+        "answer": "PointTwoFive"
+      },
+      {
+        "question": "What is the unit of measurement used to express values for the various components in this list?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is written underneath the 'Nutrition Facts' heading and briefly describes the contents' measure?",
+        "answer": "Servings"
+      }
+    ]
+  }
+]

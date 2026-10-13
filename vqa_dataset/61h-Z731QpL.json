@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3a/3a02d09a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the text displayed on the packaging?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the primary language used for the ingredient list?",
+        "answer": "English"
+      },
+      {
+        "question": "What is the background color of the packaging's label, based solely on visible area?",
+        "answer": "White"
+      },
+      {
+        "question": "What kind of nuts are the primary ingredient, as indicated on the label?",
+        "answer": "Peanuts"
+      },
+      {
+        "question": "Is the text on the label predominantly in uppercase or lowercase?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Besides peanuts, what other ingredient is explicitly listed?",
+        "answer": "Salt"
+      },
+      {
+        "question": "Does the label include any warnings or cautionary statements about allergens?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What secondary language is used for the ingredient declaration?",
+        "answer": "French"
+      },
+      {
+        "question": "Considering the font style, what is the overall style of the label?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the preparation method for the peanuts, as explicitly stated?",
+        "answer": "Roasted"
+      },
+      {
+        "question": "Describing the text, is the font style predominantly serif or sans-serif?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the text's overall arrangement on the packaging; is it vertical or horizontal?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Based on the label's appearance, is the overall design minimalist or elaborate?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Considering the visible portion, is the label's design symmetrical or asymmetrical?",
+        "answer": "Asymmetrical"
+      },
+      {
+        "question": "What is the general texture implied by the packaging's visual smoothness?",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

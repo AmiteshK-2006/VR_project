@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/00/0033d245.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme used in the presentation of the nutritional information, considering the text and background?",
+        "answer": "Black"
+      },
+      {
+        "question": "What numerical value is prominently displayed, representing the caloric content per serving?",
+        "answer": "280"
+      },
+      {
+        "question": "What is the primary textual descriptor displayed at the top of the nutritional information panel?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What metric unit is consistently used to quantify the amount of various nutrients listed, for instance, total fat or protein?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Considering the overall layout, what is the orientation of the nutritional facts?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What percentage of the daily recommended value of saturated fat is represented by one serving?",
+        "answer": "41"
+      },
+      {
+        "question": "What is the specific type of nutrient whose value is expressed in milligrams, such as sodium?",
+        "answer": "Sodium"
+      },
+      {
+        "question": "What vitamin is explicitly identified and its daily value percentage included in the nutritional breakdown?",
+        "answer": "Vitamin"
+      },
+      {
+        "question": "What nutrient, quantified in milligrams, is mentioned alongside the vitamin in the nutritional table?",
+        "answer": "Iron"
+      },
+      {
+        "question": "What mineral is listed toward the bottom of the nutritional information alongside its percentage daily value?",
+        "answer": "Potassium"
+      },
+      {
+        "question": "In what units is the amount of cholesterol in a single serving described?",
+        "answer": "Milligrams"
+      },
+      {
+        "question": "What is the number of servings contained within the packaging of this food product?",
+        "answer": "Five"
+      },
+      {
+        "question": "What is the weight, in grams, of a single serving of the food item as specified on the label?",
+        "answer": "82"
+      },
+      {
+        "question": "What is the textual descriptor used to represent the amount of added sugars in a serving?",
+        "answer": "Includes"
+      },
+      {
+        "question": "What is the shape of the nutritional fact's label?",
+        "answer": "Rectangular"
+      }
+    ]
+  }
+]

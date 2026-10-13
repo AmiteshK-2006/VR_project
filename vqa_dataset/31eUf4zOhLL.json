@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0d/0dec44b1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the illustrated application steps, what is the primary intended body part for this product?",
+        "answer": "Wrist"
+      },
+      {
+        "question": "Based on the image's depiction of application, what is the dominant color of this item?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Judging by the visual representation, what appears to be the overall texture of the product shown?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From the image, what seems to be the most prominent material used in manufacturing this item?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Analyzing the pictures, does the product exhibit any noticeable patterns or designs?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by its shape and apparent application, what is the most likely form factor of this object?",
+        "answer": "Wrap"
+      },
+      {
+        "question": "According to the visual representation, does the device display any visible fastening mechanisms?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the visual depiction, what is the main functional purpose of this product?",
+        "answer": "Support"
+      },
+      {
+        "question": "From the images, is the product's length significantly adjustable to fit various wrist sizes?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging from the application steps, does the product appear to be rigid or flexible in nature?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Observing the images closely, are there any markings or labels printed on the item itself?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the images of the product on a wrist, what would you describe its overall fit as?",
+        "answer": "Snug"
+      },
+      {
+        "question": "Based on the visuals, does the product cover the entire wrist uniformly, or are there any gaps?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "From the images of the product being applied, does the product display multiple layers or a single layer design?",
+        "answer": "Single"
+      },
+      {
+        "question": "Analyzing the illustrations, does the item appear to be designed for single-handed application or requiring assistance?",
+        "answer": "Single"
+      }
+    ]
+  }
+]

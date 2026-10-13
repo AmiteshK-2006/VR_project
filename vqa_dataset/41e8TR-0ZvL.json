@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/72/7262b0ad.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the highest energy efficiency rating displayed on the label?",
+        "answer": "A+"
+      },
+      {
+        "question": "What is the color of the highest energy efficiency rating indicator?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the lowest energy efficiency rating shown on this energy label?",
+        "answer": "E"
+      },
+      {
+        "question": "What color is the lowest energy efficiency rating indicator?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the shape of the energy efficiency rating scale?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the overall shape of the energy label itself?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary color of the background of the energy label?",
+        "answer": "White"
+      },
+      {
+        "question": "What unit of measurement is used for energy consumption shown on the label?",
+        "answer": "kWh"
+      },
+      {
+        "question": "What is the number indicating energy consumption per 1000 hours?",
+        "answer": "5.5"
+      },
+      {
+        "question": "What language other than English is visible on the label?",
+        "answer": "Greek"
+      },
+      {
+        "question": "What kind of label is this?",
+        "answer": "Energy"
+      },
+      {
+        "question": "What type of information does the label provide?",
+        "answer": "Efficiency"
+      },
+      {
+        "question": "What is the orientation of the energy label in the image?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the overall design of the label?",
+        "answer": "Bar"
+      },
+      {
+        "question": "What is the format of the energy consumption data?",
+        "answer": "Numeric"
+      }
+    ]
+  }
+]

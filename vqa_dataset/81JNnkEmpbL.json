@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ac/acc62ee5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the fabric shown in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the drape and folds, what is the most apparent texture of the material?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image, what is the apparent overall form or shape of the product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging by the image's visual representation, what is the likely material composition?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "From a visual assessment, how would you describe the surface finish of the fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the fabric in the image display any noticeable patterns or designs?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the image, what is the apparent level of sheerness or opacity of the fabric?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What is the implied weight or thickness of the fabric, judging from its appearance?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Observing the folds, how would you describe the fabric's apparent suppleness or stiffness?",
+        "answer": "Drapable"
+      },
+      {
+        "question": "Does the image suggest any visible weaving or knit structures in the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on visual inspection, are there any visible imperfections or flaws in the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering its visual attributes, what type of textile does the fabric resemble?",
+        "answer": "Sheet"
+      },
+      {
+        "question": "From the provided image, what is the apparent general condition of the product?",
+        "answer": "New"
+      },
+      {
+        "question": "What is the general visual impression of the fabric's color consistency?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Does the image show any visible seams or stitching in the presented material?",
+        "answer": "No"
+      }
+    ]
+  }
+]

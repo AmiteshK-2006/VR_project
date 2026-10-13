@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3f/3fc7bf4b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the beverage inside the bottle, as shown in the product image?",
+        "answer": "Amber"
+      },
+      {
+        "question": "What is the dominant flavor indicated on the bottle's label, as shown in the product image?",
+        "answer": "Lemon"
+      },
+      {
+        "question": "What type of tea is explicitly mentioned on the product's label, according to the image?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the shape of the plastic bottle containing the beverage, as depicted in the provided image?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What material appears to constitute the primary packaging of the product, based on visual inspection of the image?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What color is the cap or lid on top of the beverage bottle, as shown in the product image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the approximate volume of liquid contained within the bottle, according to the visible label in the image?",
+        "answer": "500ml"
+      },
+      {
+        "question": "What is the overall design style of the label, considering the illustrations and typography shown in the image?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What color are the illustrations of lemons on the product's label, as shown in the product image?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What is the overall tone or style of the label’s color palette?",
+        "answer": "Muted"
+      },
+      {
+        "question": "What shape are the illustrations of the lemon slices on the product label?",
+        "answer": "Circular"
+      },
+      {
+        "question": "What color is the text indicating the type of tea on the product label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the main graphic element featured prominently on the label, aside from text?",
+        "answer": "Lemon"
+      },
+      {
+        "question": "Describe the texture of the bottle as shown in the image (glossy, matte, etc.)",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What is the predominant color of the background of the product label shown in the image?",
+        "answer": "White"
+      }
+    ]
+  }
+]

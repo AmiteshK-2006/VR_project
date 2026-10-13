@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5a/5aaad02e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what is the dominant color scheme of this nutritional facts panel?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the primary font style used for the prominent 'Nutrition Facts' header?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Observing the text layout, what is the primary text alignment used throughout this nutrition label?",
+        "answer": "Left"
+      },
+      {
+        "question": "In terms of visual structure, what type of formatting is predominantly used to organize the nutritional information?",
+        "answer": "Tabular"
+      },
+      {
+        "question": "What measurement unit is primarily used to express the serving size of the juice product?",
+        "answer": "Ounces"
+      },
+      {
+        "question": "Based on the visual details, what is the total number of servings mentioned per container?",
+        "answer": "Twenty-four"
+      },
+      {
+        "question": "What is the color of the numerical values indicating the daily values for various nutrients?",
+        "answer": "Black"
+      },
+      {
+        "question": "Examining the font size, how would you classify the size of the 'Calories' figure compared to the other entries?",
+        "answer": "Large"
+      },
+      {
+        "question": "Judging by the visual details, what is the unit of measure used to denote the amount of sodium per serving?",
+        "answer": "Milligrams"
+      },
+      {
+        "question": "Based on the visual presentation, what is the primary unit of measure for total carbohydrates listed?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the color of the percentage values that indicate the daily value of each nutrient?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the font weight predominantly used for the nutrient names on the label?",
+        "answer": "Regular"
+      },
+      {
+        "question": "What is the unit used to express the amount of potassium per serving, visible on the label?",
+        "answer": "Milligrams"
+      },
+      {
+        "question": "Looking at the visual design elements, how would you describe the overall layout of the information?",
+        "answer": "Organized"
+      },
+      {
+        "question": "What is the unit of measure used to express the amount of calcium per serving in this nutrition fact panel?",
+        "answer": "Milligrams"
+      }
+    ]
+  }
+]

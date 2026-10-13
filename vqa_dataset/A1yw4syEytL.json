@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/43/4389c3ed.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the image?",
+        "answer": "Burgundy"
+      },
+      {
+        "question": "Considering the drape and folds, what is the apparent texture of the fabric?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image, what is the overall appearance of the fabric's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging by the way it folds, what is the apparent weight or thickness of the material?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Describe the general visual presentation of the fabric in the image?",
+        "answer": "Swirled"
+      },
+      {
+        "question": "What is the most apparent visual characteristic of the fabric's surface?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Considering the image, what is the most likely type of weave in this fabric?",
+        "answer": "Plain"
+      },
+      {
+        "question": "From the image, is the fabric displaying a glossy or dull sheen?",
+        "answer": "Dull"
+      },
+      {
+        "question": "What visual impression does the fabric's drape suggest about its flexibility?",
+        "answer": "Drapable"
+      },
+      {
+        "question": "Based solely on visual inspection, what is the fabric's apparent level of transparency?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Describe the apparent finish of the fabric shown in the image?",
+        "answer": "Satin"
+      },
+      {
+        "question": "Does the fabric appear to have any discernible pattern or print?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the image, how would you characterize the fabric's hand feel (visual inference)?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What is the general form or shape presented in the image?",
+        "answer": "Spiral"
+      },
+      {
+        "question": "From the visual presentation, what is the apparent fiber type?",
+        "answer": "Polyester"
+      }
+    ]
+  }
+]

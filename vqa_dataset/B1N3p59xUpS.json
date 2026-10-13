@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ef/ef4cb99b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the fabric shown in the image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visual texture, what is the overall feel of this fabric?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Based on the image, what type of material appears to be used in this product?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Judging by its appearance, what is the most apparent weave structure of this fabric?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Does the image suggest a pattern or design in the fabric; is it plain or patterned?",
+        "answer": "Plain"
+      },
+      {
+        "question": "What is the general visual impression of the fabric's density or thickness?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Observing the image carefully, what is the visual appearance of the fiber length?",
+        "answer": "Short"
+      },
+      {
+        "question": "Judging from the image, what would you describe as the overall visual tone of the fabric?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "Describe the visual impression of the surface structure of the fabric; is it smooth, rough or something else?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What could be visually inferred regarding the potential light absorption properties of this fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the fabric in the image appear to have any discernible sheen or glossiness?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the image, is there any visible piling or fuzziness in the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the fabric depicted have any obvious irregularities or inconsistencies in its texture?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image, what appears to be the primary component shown?",
+        "answer": "Textile"
+      },
+      {
+        "question": "What could one visually describe as the main characteristic of the fabric's colour?",
+        "answer": "Solid"
+      }
+    ]
+  }
+]

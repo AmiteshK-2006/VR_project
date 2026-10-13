@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d9/d989ab0f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed fabric sample?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the overall texture observed across the fabric's surface?",
+        "answer": "Woven"
+      },
+      {
+        "question": "What kind of visual pattern is present in the fabric's weave?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Considering the visual appearance, what is the fabric's apparent material?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "Based on the image, how would you describe the fabric's visual density?",
+        "answer": "Dense"
+      },
+      {
+        "question": "What is the general visual appearance of the color's consistency?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Describe the visible sheen or glossiness on the fabric surface.",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the image, what is the predominant direction of the weave?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Judging from the visual aspects, what is the thickness of the threads?",
+        "answer": "Fine"
+      },
+      {
+        "question": "Considering its visible structure, how would you categorize the fabric type?",
+        "answer": "Plain"
+      },
+      {
+        "question": "From what can be seen, what is the fabric's apparent weight or substance?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Describe the fabric's apparent softness or harshness to the touch.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What visual impression regarding the fabric's strength is projected?",
+        "answer": "Strong"
+      },
+      {
+        "question": "Does the image reveal any noticeable imperfections in the weave?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the perceived level of visual complexity in the fabric structure?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

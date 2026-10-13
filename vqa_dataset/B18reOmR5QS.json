@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e2/e2c2c15a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color observed across the entire fabric sample?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering the visual texture, what is the most apparent weave type?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Based on visual inspection, what material is most likely used in the fabric?",
+        "answer": "Linen"
+      },
+      {
+        "question": "Describe the overall visual texture of the fabric sample presented in the image.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging solely from the image, how would you characterize the visual appearance of the fabric's surface?",
+        "answer": "Even"
+      },
+      {
+        "question": "What is the most noticeable characteristic regarding the uniformity of the fabric's color?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Does the fabric exhibit any noticeable patterns or designs according to the image?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the image, how would you classify the sheen level of this fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "From what is visually apparent, what is the general density of the fabric?",
+        "answer": "Medium"
+      },
+      {
+        "question": "If you were to describe the color using a secondary descriptor, what would that be?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "In terms of its visual presentation, how would you characterize the fabric's drape?",
+        "answer": "Slight"
+      },
+      {
+        "question": "Is there any obvious visual evidence of any embellishments or additional elements?",
+        "answer": "No"
+      },
+      {
+        "question": "Analyzing the image, is there any discernible visual variation in the fiber thickness?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the general impression of the visual appearance of the material?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "Based on the visual details, how would you describe the general aesthetic of this fabric?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

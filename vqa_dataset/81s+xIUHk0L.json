@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1f/1f82cd8b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the packaging, as visually evident in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of the product's packaging, considering the visible portion?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material appears to constitute the main packaging of the product, based on visual inspection?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the dominant text color on the packaging, readily apparent in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the typeface employed for the primary text, what style can be observed?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What prominent brand logo is displayed on the product's packaging?",
+        "answer": "WholeFoods"
+      },
+      {
+        "question": "Does the text on the label specify a particular type of cheese, based on visual assessment?",
+        "answer": "Cheddar"
+      },
+      {
+        "question": "Based on the visible text, is there any mention of ingredients related to preventing caking?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Observing the packaging's design, are there any significant images or graphics besides the text?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the overall visual presentation, is the text primarily informational or promotional?",
+        "answer": "Informational"
+      },
+      {
+        "question": "What is the texture of the visible portion of the product's packaging?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Is there any visible indication of a seal or tamper-evident feature on the package?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the style of the text used to present the statement regarding rBGH?",
+        "answer": "Quotation"
+      },
+      {
+        "question": "Observing the typography of the ingredients list, can you discern the formatting style?",
+        "answer": "List"
+      },
+      {
+        "question": "Does the packaging prominently display a website address?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

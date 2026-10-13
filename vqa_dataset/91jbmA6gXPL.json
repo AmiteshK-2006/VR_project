@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5e/5e8d64e6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the fabric shown in the image?",
+        "answer": "Grey"
+      },
+      {
+        "question": "Considering the visual texture, what is the fabric's apparent weave type?",
+        "answer": "Knit"
+      },
+      {
+        "question": "Based on the image, what is the overall visual appearance of the fabric's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the fabric display a visible pattern or design in the provided image?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image, what is the general feel or hand of the fabric?",
+        "answer": "Soft"
+      },
+      {
+        "question": "From the image alone, what is the most apparent characteristic of this fabric?",
+        "answer": "Solid"
+      },
+      {
+        "question": "If you were to touch the fabric, what would its texture most likely feel like?",
+        "answer": "Fine"
+      },
+      {
+        "question": "Considering the image's resolution, what is the implied thickness of the material?",
+        "answer": "Thin"
+      },
+      {
+        "question": "What is the primary visual characteristic of the fabric's surface texture?",
+        "answer": "Even"
+      },
+      {
+        "question": "Does the fabric exhibit any visible sheen or luster in this image?",
+        "answer": "Slight"
+      },
+      {
+        "question": "Based on visual assessment, how would you describe the fabric's density?",
+        "answer": "Close"
+      },
+      {
+        "question": "What is the most noticeable visual feature of the fabric's surface?",
+        "answer": "Uniformity"
+      },
+      {
+        "question": "What would you consider the most dominant visible quality of this fabric?",
+        "answer": "Subtlety"
+      },
+      {
+        "question": "Observing the image, how would you characterize the overall tone of the fabric?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "Does the image suggest any significant irregularities in the fabric's construction?",
+        "answer": "No"
+      }
+    ]
+  }
+]

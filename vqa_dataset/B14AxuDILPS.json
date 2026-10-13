@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/73/734f3a31.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed fabric sample?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What is the overall texture of the fabric, considering its weave?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Considering the visual appearance, what type of material is depicted?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Describe the visual pattern of the threads in the fabric sample?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Based on the image, how would you describe the fabric's finish?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What is the apparent density or compactness of the fabric's weave?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Considering the visual uniformity, how would you characterize the weave?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Does the fabric display any discernible sheen or glossiness?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the visual impression regarding the fabric's weight or thickness?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the apparent color variation within the fabric's weave?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "Based on the visual appearance, how would you describe the thread count?",
+        "answer": "High"
+      },
+      {
+        "question": "Judging by the image, is there a discernible pile or nap to the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the primary visual characteristic of the fabric's structure?",
+        "answer": "Plain"
+      },
+      {
+        "question": "How would you describe the visual arrangement of the fibers?",
+        "answer": "Intertwined"
+      },
+      {
+        "question": "Does the fabric show any visible irregularities or imperfections?",
+        "answer": "No"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/65/65e120b3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the flexible packaging enclosing the product, as visually apparent in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the overall shape of the food product's packaging, presented in a standing position, what geometric term best describes it?",
+        "answer": "Triangular"
+      },
+      {
+        "question": "What appears to be the primary material used in constructing the product's packaging, based on its visual properties?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Judging by its visual characteristics, what is the apparent texture of the product's packaging material?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the predominant color of the textual elements and graphics found on the product's packaging?",
+        "answer": "Green"
+      },
+      {
+        "question": "Based on the image, what is the apparent design style employed for the product's branding and packaging?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What specific design element is visibly prominent near the bottom of the product's packaging, suggesting certification or standards compliance?",
+        "answer": "Logo"
+      },
+      {
+        "question": "Considering the image, what seems to be the general form or style of the product's packaging, as evident in its structure?",
+        "answer": "Pouch"
+      },
+      {
+        "question": "What seems to be the secondary color visible on the product packaging, as observed in the image?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the apparent shape of the fold or seam at the top of the food product's package, based on the visualization?",
+        "answer": "Folded"
+      },
+      {
+        "question": "What color are the visible words on the product packaging, which are largely visible despite some obstruction by the packaging's design?",
+        "answer": "Red"
+      },
+      {
+        "question": "Judging from the image, what kind of visual element seemingly presents the product inside the packaging, indicating its nature?",
+        "answer": "Image"
+      },
+      {
+        "question": "What visual element is used on the packaging, suggesting the product is natural or organically sourced, as indicated visually?",
+        "answer": "Leaves"
+      },
+      {
+        "question": "What is the apparent state of the packaging of the food product, is it sealed or opened?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Judging by the visible portion of the packaging what appears to be a prominent feature of the product's packaging design, likely related to information disclosure?",
+        "answer": "Text"
+      }
+    ]
+  }
+]

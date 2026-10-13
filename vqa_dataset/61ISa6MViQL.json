@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/61/615b97bb.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the product's label, excluding text and graphics?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the primary material of the container holding the product?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What is the shape of the product's container, ignoring the label?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the overall style of the design on the product label?",
+        "answer": "Vintage"
+      },
+      {
+        "question": "Considering the text visible on the label, what is the product type?",
+        "answer": "Coffee"
+      },
+      {
+        "question": "What is the color of the lid on top of the coffee container?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the label, what is the form of the coffee inside?",
+        "answer": "Ground"
+      },
+      {
+        "question": "Describe the texture implied by the label's visual design elements.",
+        "answer": "Rough"
+      },
+      {
+        "question": "What color is the dominant background graphic on the product label?",
+        "answer": "Teal"
+      },
+      {
+        "question": "What kind of roast levels are shown on the label?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "What is the overall color scheme of the main label graphics?",
+        "answer": "Muted"
+      },
+      {
+        "question": "What brand name is prominently displayed on the product packaging?",
+        "answer": "365"
+      },
+      {
+        "question": "What is the format of the text describing the roast levels?",
+        "answer": "List"
+      },
+      {
+        "question": "Describe the font style used for the main brand name on the label.",
+        "answer": "Script"
+      },
+      {
+        "question": "What is visible at the very bottom of the container?",
+        "answer": "Weight"
+      }
+    ]
+  }
+]

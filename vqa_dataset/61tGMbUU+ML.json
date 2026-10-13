@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d5/d5e863a9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout and textual organization, what is the dominant visual characteristic of this product image?",
+        "answer": "tabular"
+      },
+      {
+        "question": "What is the primary subject matter presented in bold, capitalized lettering at the very top?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Regarding the textual content, what specific dietary aspect does this item's label primarily emphasize?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Considering the information presented, what is the quantitative unit of measurement consistently used throughout the text?",
+        "answer": "grams"
+      },
+      {
+        "question": "What color is the header section that announces the \"Nutrition Facts\"?",
+        "answer": "brown"
+      },
+      {
+        "question": "What is the color of the majority of the text in the table of nutritional values?",
+        "answer": "black"
+      },
+      {
+        "question": "Observing the text, what is the style of the numerical data presented throughout the information?",
+        "answer": "tabular"
+      },
+      {
+        "question": "What is the font style of the words \"Nutrition Facts\"?",
+        "answer": "bold"
+      },
+      {
+        "question": "What is the orientation of the provided textual information, vertical or horizontal?",
+        "answer": "vertical"
+      },
+      {
+        "question": "What is the apparent texture of the paper or surface on which the information is printed?",
+        "answer": "smooth"
+      },
+      {
+        "question": "What is the general shape of the nutritional information panel depicted?",
+        "answer": "rectangular"
+      },
+      {
+        "question": "Considering the visual properties, what is the overall style of the text formatting?",
+        "answer": "formal"
+      },
+      {
+        "question": "Based on the textual layout, what is the presumed method of information presentation?",
+        "answer": "printed"
+      },
+      {
+        "question": "Disregarding the content, what kind of visual structure organizes the dietary data in the provided image?",
+        "answer": "table"
+      },
+      {
+        "question": "What is the visual prominence of the text in relation to the background, is it prominent or subtle?",
+        "answer": "prominent"
+      }
+    ]
+  }
+]

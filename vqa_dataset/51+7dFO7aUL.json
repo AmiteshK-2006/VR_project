@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/54/5420754e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed item, considering its overall appearance?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on visual inspection, what appears to be the primary material used in the product's construction?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Judging from the image, what is the most prominent geometrical form of the presented object?",
+        "answer": "Square"
+      },
+      {
+        "question": "Considering the object's visible surface, what is its apparent texture or finish?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From the provided image, can you describe the overall visual impression of the product's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the image reveal any noticeable patterns, designs, or markings on the object's surface?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the image's resolution, can you determine the apparent thickness of the item?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Judging from the visual details, what is the apparent weight of this item?",
+        "answer": "Light"
+      },
+      {
+        "question": "Does the image show any evidence of folding, creases, or other visible imperfections on the object?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the item's dimensions as shown in the image, how large is it?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the apparent stiffness or flexibility of the item as presented in the image?",
+        "answer": "Rigid"
+      },
+      {
+        "question": "Does the image suggest any special treatment or coating on the item's surface?",
+        "answer": "None"
+      },
+      {
+        "question": "From the visual evidence, what is the apparent level of translucency or opacity of this item?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Does the image show any visible seams, edges, or other manufacturing marks?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the image, is there any sign of embellishment, such as printing or embossing, on the item?",
+        "answer": "None"
+      }
+    ]
+  }
+]

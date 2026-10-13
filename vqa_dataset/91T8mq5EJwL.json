@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4e/4e9c20ae.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color observed across the entire surface of the item?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the overall visual texture, what is the apparent feel of the item's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image, what appears to be the primary material used in the item's construction?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Judging by the visible edges, what is the most accurate description of the item's shape?",
+        "answer": "Square"
+      },
+      {
+        "question": "Does the item show any noticeable patterns or designs printed on its surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Examining the visual uniformity, how would you describe the consistency of the item's color?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "From the picture, what is the overall perceived thickness of the item?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Considering the image quality, are there any visible imperfections or markings on the item's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the visual appearance, is the item's surface glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging by the image, does the item seem to have any discernible folds or creases?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the visible level of reflectivity from the item's surface?",
+        "answer": "Low"
+      },
+      {
+        "question": "From the provided image, can the item be described as opaque or translucent?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "By visual inspection, does the item exhibit any signs of texture variation across its surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the image reveal any visible fibers or grain in the item's material?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the image, is the item's color consistent throughout the visible area?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

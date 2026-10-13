@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3e/3ecb115c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the depicted fabric sample?",
+        "answer": "Navy"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent surface finish of this textile?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based solely on the image's visual cues, what kind of material appears to be shown?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Judging from the image, what is the overall tone of the color presented in the sample?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Does the fabric seem to have a discernible pattern or design element?",
+        "answer": "No"
+      },
+      {
+        "question": "From a visual perspective, how would you describe the texture of the displayed material?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the image suggest any noticeable sheen or glossiness on the fabric's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the implied visual depth or three-dimensionality apparent in this textile?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Judging from the visual appearance, what is the general feel of the material depicted?",
+        "answer": "Soft"
+      },
+      {
+        "question": "If you were to describe the color's saturation, what would be its visual intensity?",
+        "answer": "High"
+      },
+      {
+        "question": "Observing the image, does the fabric exhibit any noticeable irregularities in its color?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the visual details, what is the uniformity of color throughout the displayed textile?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "What is the apparent visual weight or density suggested by the material shown in the image?",
+        "answer": "Light"
+      },
+      {
+        "question": "Judging from the visual texture alone, is the surface of this textile rough or fine?",
+        "answer": "Fine"
+      },
+      {
+        "question": "Does the image suggest the presence of any visible fibers or threads within the fabric?",
+        "answer": "No"
+      }
+    ]
+  }
+]

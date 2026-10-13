@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/29/296ae539.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the visual prominence of the text, what is the primary content conveyed on this product's label?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Based on the label's typography, what is the apparent style of the text used to list the product's components?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the color predominantly used for the text detailing the product's composition?",
+        "answer": "Black"
+      },
+      {
+        "question": "Disregarding any visual elements except the text itself, what is the overall layout pattern followed in presenting the product information?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Considering the font's features, how would you describe the appearance and thickness of the lettering used to display the ingredient list?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What specific sweetener is explicitly mentioned within the ingredient list, as evident from the text displayed?",
+        "answer": "Sugar"
+      },
+      {
+        "question": "From a visual perspective, how is the phrase 'Produced in a facility' positioned relative to the ingredient list?",
+        "answer": "Below"
+      },
+      {
+        "question": "In terms of visual contrast, what is the textual relationship between the main ingredient list and the processing facility note?",
+        "answer": "Separate"
+      },
+      {
+        "question": "What specific type of gum is listed among the additives in the visibly displayed ingredients?",
+        "answer": "Guar"
+      },
+      {
+        "question": "What is the visible font size variation, if any, between the ingredient list and the production facility statement?",
+        "answer": "Same"
+      },
+      {
+        "question": "What is the apparent text size difference, if any, observed between the title 'Ingredients' and the components listed below?",
+        "answer": "Larger"
+      },
+      {
+        "question": "Focusing only on the text, what is the style of capitalization used for labeling the ingredients?",
+        "answer": "Sentence"
+      },
+      {
+        "question": "Judging by the text presentation, what type of information follows the word 'Ingredients'?",
+        "answer": "List"
+      },
+      {
+        "question": "Considering visual aspects of the text, does the label include any symbols or icons apart from lettering?",
+        "answer": "No"
+      },
+      {
+        "question": "In terms of its appearance, how would you classify the overall visual presentation of the information provided on the label?",
+        "answer": "Plain"
+      }
+    ]
+  }
+]

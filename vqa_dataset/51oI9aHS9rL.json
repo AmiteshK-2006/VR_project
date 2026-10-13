@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e0/e082628c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the textual information presented on the packaging, what specific spice is detailed as the main ingredient?",
+        "answer": "Cumin"
+      },
+      {
+        "question": "Based on the textual information provided, in what type of facility was this product manufactured?",
+        "answer": "Facility"
+      },
+      {
+        "question": "Examining the textual details, identify one of the potential allergens present in the manufacturing process.",
+        "answer": "Nuts"
+      },
+      {
+        "question": "According to the text, what other food product besides nuts is listed as potentially contaminating the manufacturing process?",
+        "answer": "Milk"
+      },
+      {
+        "question": "As indicated by the text, what grain is mentioned as part of the processing facility's production?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "What legume is mentioned in the text as having the potential for cross-contamination during processing?",
+        "answer": "Soy"
+      },
+      {
+        "question": "What is the primary descriptor used to describe the ingredients on this product's package?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What word precedes the listing of the main ingredient of this product, as shown on its label?",
+        "answer": "CUMIN"
+      },
+      {
+        "question": "What word follows the listing of the main ingredient of this product, as shown on its label?",
+        "answer": "SEED"
+      },
+      {
+        "question": "What preposition is used to connect the phrases indicating the ingredients and the manufacturing facility?",
+        "answer": "IN"
+      },
+      {
+        "question": "Describe the style of the font used for the words 'INGREDIENTS' on the packaging.",
+        "answer": "Bold"
+      },
+      {
+        "question": "What word appears directly beneath the ingredient listing, indicating the manufacturing conditions?",
+        "answer": "PRODUCED"
+      },
+      {
+        "question": "What is the primary color of the text on this product's label, based on visual observation?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall background color of the package's label, as observed?",
+        "answer": "White"
+      },
+      {
+        "question": "What punctuation mark concludes the sentence describing the ingredient?",
+        "answer": "Period"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/69/69d129ae.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout, what is the predominant textual orientation of the nutritional information presented on the product label?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Examining the label's typography, what is the font style primarily used for the 'Supplement Facts' heading?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Focusing on the color scheme, what is the main color used for the background of the nutritional panel?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the visual design, what is the primary color used for the text on the nutritional information panel?",
+        "answer": "Black"
+      },
+      {
+        "question": "Analyzing the structure of the label, what is the organizational method used to list the various nutritional components?",
+        "answer": "Table"
+      },
+      {
+        "question": "Observing the details on the label, what units are used to measure the amount of 'Total Fat'?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Regarding the visual presentation, what units are employed to express the amount of 'Vitamin D3'?",
+        "answer": "IU"
+      },
+      {
+        "question": "Considering the visual presentation of the data, what is the unit used to quantify 'Astaxanthin'?",
+        "answer": "mcg"
+      },
+      {
+        "question": "What is the shape of the individual containers indicated by the text on the product label?",
+        "answer": "Softgels"
+      },
+      {
+        "question": "According to the visible text, what is the serving size of the product?",
+        "answer": "3"
+      },
+      {
+        "question": "Based on the information provided, what is the total number of servings per container?",
+        "answer": "30"
+      },
+      {
+        "question": "What is the primary source of Astaxanthin as indicated on the label?",
+        "answer": "Algae"
+      },
+      {
+        "question": "What is the type of oil predominantly featured in the product, as explicitly stated on the label?",
+        "answer": "Salmon"
+      },
+      {
+        "question": "Focusing on the omega fatty acids, what is the unit of measurement for 'Eicosapentaenoic Acid (EPA)'?",
+        "answer": "mg"
+      },
+      {
+        "question": "Observing the label, what is the unit of measurement for 'Docosahexaenoic Acid (DHA)'?",
+        "answer": "mg"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/17/173b574f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary ingredient explicitly mentioned on this product's label, focusing on the fruit's juice?",
+        "answer": "Orange"
+      },
+      {
+        "question": "Considering the manufacturing process described, what type of nut is mentioned in relation to the production facility?",
+        "answer": "Coconut"
+      },
+      {
+        "question": "Based on the label's declaration, what essential nutrient is included in this product's composition?",
+        "answer": "Vitamin"
+      },
+      {
+        "question": "Disregarding any other components, what chemical compound is listed as an ingredient in the product?",
+        "answer": "Phosphate"
+      },
+      {
+        "question": "What is the descriptor used to qualify the type of orange juice present in this product?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the specific form of calcium indicated as an ingredient in the nutritional composition?",
+        "answer": "Tricalcium"
+      },
+      {
+        "question": "What is the number associated with the specific form of vitamin indicated on the label?",
+        "answer": "D3"
+      },
+      {
+        "question": "What is the adjective used to describe the juice's origin, related to farming practices?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the type of facility where this product was produced based on the additional notes?",
+        "answer": "Facility"
+      },
+      {
+        "question": "What type of processing is specified to have taken place in the facility where this product was made?",
+        "answer": "Processes"
+      },
+      {
+        "question": "What kind of plants does the facility process, according to the statement about potential cross-contamination?",
+        "answer": "Nuts"
+      },
+      {
+        "question": "In reference to the additional notes about facility processes, what specific type of nut is mentioned?",
+        "answer": "Coconut"
+      },
+      {
+        "question": "What is the word used to denote the list of components that make up the product?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the single word that refers to the part of the product's description that lists its chemical components?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the word used to describe the manufacturing process and potential cross-contamination risks?",
+        "answer": "Produced"
+      }
+    ]
+  }
+]

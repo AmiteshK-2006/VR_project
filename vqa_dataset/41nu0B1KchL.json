@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/77/7755a7b8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the highest energy efficiency rating depicted on this rectangular label, prominently displayed and featuring various colored bars?",
+        "answer": "A++"
+      },
+      {
+        "question": "Considering the energy efficiency scale shown, what color is the bar representing the highest efficiency rating, A++?",
+        "answer": "Green"
+      },
+      {
+        "question": "What brand is explicitly mentioned on the label as the source of the energy efficiency information?",
+        "answer": "Amazonbasics"
+      },
+      {
+        "question": "What is the shape of the primary energy efficiency rating indicator, which is noticeably larger than others on this label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Excluding the A++ rating, what is the color of the bar representing the next highest efficiency rating, A+?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the lowest energy efficiency rating represented by the smallest red bar in the descending efficiency scale?",
+        "answer": "E"
+      },
+      {
+        "question": "What is the unit of energy consumption indicated at the bottom of this rectangular energy label?",
+        "answer": "kWh"
+      },
+      {
+        "question": "What is the numerical value of energy consumption, in the specified unit, indicated at the bottom of the label?",
+        "answer": "4"
+      },
+      {
+        "question": "What is the overall background color of the border surrounding the entire energy efficiency rating information?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the color of the smaller label at the top right corner next to the main ENERGY label?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What kind of text is displayed, apart from the letter grades, indicating the purpose of the information on this label?",
+        "answer": "Energia"
+      },
+      {
+        "question": "What color is the text stating the brand name, located in the central section of the label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Besides the main rating indicator, what is the shape of the bar representing each of the secondary energy efficiency rating grades?",
+        "answer": "Arrow"
+      },
+      {
+        "question": "What is the general style of the label, combining graphic and text elements conveying energy ratings?",
+        "answer": "Informative"
+      },
+      {
+        "question": "What is the material of the label, considering the standard appearance of energy efficiency ratings?",
+        "answer": "Paper"
+      }
+    ]
+  }
+]

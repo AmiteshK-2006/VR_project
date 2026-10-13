@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8e/8e2d6eb0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the handbag shown in the image?",
+        "answer": "Olive"
+      },
+      {
+        "question": "What appears to be the primary material of this shoulder bag?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Considering the overall form, what is the shape of this handbag?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What type of closure mechanism is prominently displayed on the bag?",
+        "answer": "Zipper"
+      },
+      {
+        "question": "Describe the finish of the bag's exterior surface, based purely on visual appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What color is the hardware (zipper pull, strap connectors) on this bag?",
+        "answer": "Gold"
+      },
+      {
+        "question": "Based on the image, how many main compartments does the bag appear to have?",
+        "answer": "One"
+      },
+      {
+        "question": "What kind of strap is visible for carrying this item over the shoulder?",
+        "answer": "Shoulder"
+      },
+      {
+        "question": "Does the bag seem to have any noticeable patterns or textures beyond the main material?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the overall design, would you classify this as a formal or casual style?",
+        "answer": "Casual"
+      },
+      {
+        "question": "Judging by the image alone, what is the approximate size of this item?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Observing the image carefully, is there any visible branding or logos on the bag?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image, what is the style of the bag's top closure?",
+        "answer": "Open"
+      },
+      {
+        "question": "Does the image suggest the presence of any additional pockets besides the main one?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging from the image, what is the overall condition of this handbag?",
+        "answer": "New"
+      }
+    ]
+  }
+]

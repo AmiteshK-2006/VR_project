@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/65/65cb573e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the plastic tray holding the product?",
+        "answer": "Black"
+      },
+      {
+        "question": "What kind of packaging material directly encases the food item?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the overall shape of the food product inside the packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the primary material composing the food item itself?",
+        "answer": "Meat"
+      },
+      {
+        "question": "Considering the label, what type of food is presented in the image?",
+        "answer": "Pizza"
+      },
+      {
+        "question": "Describe the general texture of the visible outer surface of the food product.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the primary color of the visible food item through the packaging?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Is the product packaging predominantly glossy or matte in appearance?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What seems to be the orientation of the food item within its tray?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Does the packaging tray exhibit any visible structural details, such as ribs or indentations?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image, is the packaging sealed or open at the top?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Does the visible label contain any noticeable nutritional information?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging by the label, does the product have any clearly identifiable brand?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the plastic wrapping show any significant wrinkles or creases?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is the packaging tray made of rigid or flexible plastic?",
+        "answer": "Rigid"
+      }
+    ]
+  }
+]

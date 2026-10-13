@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/12/1293a2b7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the product's packaging, considering its primary visible sides and angles?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the dominant color of the product's packaging, ignoring minor text or logos?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the primary material that the packaging appears to be constructed from?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What text is prominently displayed on the upper portion of the packaging, likely indicating a functional instruction?",
+        "answer": "Lift"
+      },
+      {
+        "question": "What is the most noticeable text displayed on the packaging's central area, probably indicating the product's intended use?",
+        "answer": "Heat"
+      },
+      {
+        "question": "What is the name of the diet prominently featured on the product packaging, visually presented in a logo?",
+        "answer": "Engine"
+      },
+      {
+        "question": "What number is visually integrated within the logo of the diet plan displayed on the packaging?",
+        "answer": "2"
+      },
+      {
+        "question": "What word follows the number in the logo's visual presentation on the packaging?",
+        "answer": "Diet"
+      },
+      {
+        "question": "What is the texture of the packaging's surface, considering its apparent smoothness or roughness?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the visual style or aesthetic of the packaging design, considering its overall look and feel?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the overall finish of the packaging's primary color, considering its level of gloss or matte quality?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Ignoring the text, what is the dominant graphic element in the product's logo, besides the text?",
+        "answer": "Circle"
+      },
+      {
+        "question": "Considering the packaging's text and imagery, what type of food is being represented?",
+        "answer": "Beans"
+      },
+      {
+        "question": "Based on the visual design, what is the likely target consumer of this product?",
+        "answer": "Adult"
+      },
+      {
+        "question": "What is the color of the smaller circle within the prominent logo on the packaging?",
+        "answer": "Yellow"
+      }
+    ]
+  }
+]

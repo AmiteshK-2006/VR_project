@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c5/c5276d38.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the primary geometric shape exhibited by the packaged product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Observing the product's external packaging, what color predominantly characterizes the visible portion?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the most apparent material used for the visible outer layer of the package?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Focusing on the textual elements, what is the prominent brand or vendor clearly visible on the item?",
+        "answer": "Amazon"
+      },
+      {
+        "question": "What is the apparent texture of the visible external packaging surface of the item?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Examining the label, what specific category of food information is the large section primarily dedicated to providing?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Describe the color of the product visible within the packaging, ignoring the labeling and packaging itself.",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What kind of seal or fastening appears to secure the package from opening?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Concentrating on the label's text, what is one word that might denote the nature of the product inside?",
+        "answer": "Cheese"
+      },
+      {
+        "question": "What is the most salient shape described on the product labeling, referring to the content within?",
+        "answer": "Slices"
+      },
+      {
+        "question": "Based on the external labeling, what is one word denoting a mandatory product information section?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "From the visual cues, is there any obvious evidence of product tampering or damage to the packaging?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the general design style of the packaging, considering its color palette and text arrangement?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the most obvious type of code present for product identification and tracking?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "Considering the text present, what is the common term often used to describe serving measures?",
+        "answer": "Servings"
+      }
+    ]
+  }
+]

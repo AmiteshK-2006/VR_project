@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bc/bc0fd4d4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant textural characteristic observable across the entire surface of the object?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What single word best describes the overall color of the presented item?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visual evidence, what material seems most likely to constitute this object?",
+        "answer": "Stone"
+      },
+      {
+        "question": "Based on the image, what is the most prominent surface treatment applied to this item?",
+        "answer": "Hammered"
+      },
+      {
+        "question": "Describe the overall shape of the presented object in a single word?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the most accurate one-word description for the visible surface pattern?",
+        "answer": "Irregular"
+      },
+      {
+        "question": "Considering the presented visual data, what is the predominant shade of the item's color?",
+        "answer": "Taupe"
+      },
+      {
+        "question": "In a single word, describe the apparent visual depth or relief of the surface texture?",
+        "answer": "Embossed"
+      },
+      {
+        "question": "If you had to describe the visible surface in one word, emphasizing the irregularity, what would that be?",
+        "answer": "Uneven"
+      },
+      {
+        "question": "What single word would effectively describe the visible surface pattern's density?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Using only one word, how would you summarize the impression of the item's finish?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What single word best represents the visual impression of the surface's irregularities?",
+        "answer": "Pitted"
+      },
+      {
+        "question": "Focusing solely on the visual, what one-word descriptor best captures the object's apparent weight?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "In one word, characterize the apparent grain visible in the object's surface?",
+        "answer": "Coarse"
+      },
+      {
+        "question": "What single word best describes the item's apparent overall style?",
+        "answer": "Rustic"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8e/8e64d96d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what is the primary purpose of this rectangular item, predominantly featuring black text on a white background?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Observing the text layout, what specific dietary aspect does this item prominently detail, offering a quantitative breakdown per serving?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Focusing on the numerical data, what's the total calorie count stated for a single serving of the item described in this rectangular label?",
+        "answer": "10"
+      },
+      {
+        "question": "Examining the detailed nutritional information, what is the stated quantity of sodium, in milligrams, for a single serving?",
+        "answer": "190"
+      },
+      {
+        "question": "Based on the provided data, how many grams of total carbohydrates are present in one serving of this food item?",
+        "answer": "2"
+      },
+      {
+        "question": "According to the label, what is the amount, in grams, of dietary fiber contained within a single serving of this product?",
+        "answer": "1"
+      },
+      {
+        "question": "Referring to the sugars section, how many grams of total sugars are listed per serving of this item?",
+        "answer": "1"
+      },
+      {
+        "question": "From the nutritional information, what is the quantity of potassium, in milligrams, that one serving of this product provides?",
+        "answer": "97"
+      },
+      {
+        "question": "What is the serving size indicated on the nutritional information label, described in both standard units and grams?",
+        "answer": "2tsp"
+      },
+      {
+        "question": "What is the total number of servings contained within the product's packaging, as indicated on the nutritional label?",
+        "answer": "21"
+      },
+      {
+        "question": "What is the weight in grams, as stated on the nutrition facts label, for one serving size of this food product?",
+        "answer": "32"
+      },
+      {
+        "question": "What is the texture of the information presented on the label, considering its visual characteristics?",
+        "answer": "Printed"
+      },
+      {
+        "question": "What is the predominant color of the background on which the nutritional information is displayed?",
+        "answer": "White"
+      },
+      {
+        "question": "Describing the overall visual style, what is the format of this item's information presentation, categorized into specific sections?",
+        "answer": "tabular"
+      },
+      {
+        "question": "What is the primary color of the text used for the numerical values on the nutrition label?",
+        "answer": "Black"
+      }
+    ]
+  }
+]

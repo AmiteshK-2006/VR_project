@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f7/f761ef9b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall text layout and font styles, what is the dominant textual characteristic visually presented on the product?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Based on the visual appearance, what appears to be the primary function of this product's labeling?",
+        "answer": "Information"
+      },
+      {
+        "question": "Judging by the image, what is the primary color scheme used for the text on the product?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the text's visual presentation, what is the apparent type size used for the product's main ingredient list?",
+        "answer": "Small"
+      },
+      {
+        "question": "From the image, what is the general visual arrangement or structure of the text blocks on the product?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What kind of visual organizational aids are used to separate the ingredients from the allergen warnings?",
+        "answer": "Lines"
+      },
+      {
+        "question": "In terms of visual density, how much textual information is shown on the product?",
+        "answer": "High"
+      },
+      {
+        "question": "Judging by the text's visual style, what is the overall tone or feel of the label\u2019s design?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Observing the image, what appears to be the text's orientation in relation to the package's likely surface?",
+        "answer": "Parallel"
+      },
+      {
+        "question": "Does the background of the label provide any visible detail that enhances or contrasts with the text?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the visual form or arrangement of the allergen information on the product?",
+        "answer": "List"
+      },
+      {
+        "question": "From visual observation, does the label include any images or graphics other than text?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the text's visual clarity, what is the text's general legibility in the provided image?",
+        "answer": "High"
+      },
+      {
+        "question": "Does the text seem to be printed using any special effects, such as embossing or shadowing?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on visual observation, what is the texture of the surface where the text is printed, assuming a typical food packaging material?",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

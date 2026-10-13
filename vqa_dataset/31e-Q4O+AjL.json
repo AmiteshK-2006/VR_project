@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b5/b52c91c0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual presentation, what is the dominant color scheme employed in this image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What single word best describes the background against which the text is displayed?",
+        "answer": "White"
+      },
+      {
+        "question": "Focusing solely on the textual elements, what specific ingredient is prominently featured?",
+        "answer": "Chicken"
+      },
+      {
+        "question": "In terms of font style, what characteristic best describes the lettering used for the main text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Disregarding any specific words, what is the overall shape of the rectangular image element containing the text?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based purely on visual observation, what word precedes the colon in the primary text block?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Judging by the image alone, what kind of text is shown, descriptive or imperative?",
+        "answer": "Descriptive"
+      },
+      {
+        "question": "What is the visual texture of the surface containing the printed words?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What single word best encapsulates the style of the font used in the provided image?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Regarding the textual content, is it a list, a phrase, or a sentence?",
+        "answer": "Phrase"
+      },
+      {
+        "question": "What is the visual weight of the text relative to the background?",
+        "answer": "Light"
+      },
+      {
+        "question": "Describe the overall alignment of the text block in the image.",
+        "answer": "Left"
+      },
+      {
+        "question": "Based only on visual analysis of the image, does the text exhibit any noticeable ornamentation?",
+        "answer": "No"
+      },
+      {
+        "question": "Is the typography used in the given image primarily serif or sans-serif?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the text's presentation, what is its primary function?",
+        "answer": "Informative"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9d/9d537bf3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the textual information presented on the packaging, what primary ingredient is explicitly mentioned?",
+        "answer": "Coconut"
+      },
+      {
+        "question": "Based on the visible text, what dietary restriction is this product explicitly suitable for?",
+        "answer": "Vegetarians"
+      },
+      {
+        "question": "According to the visible allergy advice, what common allergen might this product contain, apart from the main ingredient?",
+        "answer": "Nuts"
+      },
+      {
+        "question": "What is the text-based label on the packaging's right-side section referring to?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What word is used to highlight important allergens in the allergy advice section?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Besides nuts, what other potential allergen is listed in the warning message?",
+        "answer": "Soy"
+      },
+      {
+        "question": "What is indicated as the origin or cultivation method of the product's main component?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Aside from nuts and soy, which other allergen is mentioned as a possible contaminant?",
+        "answer": "Gluten"
+      },
+      {
+        "question": "What additional allergen, frequently causing reactions, is mentioned in the warning text?",
+        "answer": "Sesame"
+      },
+      {
+        "question": "What adjective modifies the word 'coconut' in the ingredients listing?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What type of information is detailed in the lower-right quadrant of the presented packaging?",
+        "answer": "Information"
+      },
+      {
+        "question": "What is the label above the allergen advisory notice?",
+        "answer": "Allergy"
+      },
+      {
+        "question": "What section of the packaging provides details on the ingredients?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "In which area of the text is the information regarding potential allergens presented?",
+        "answer": "Advice"
+      },
+      {
+        "question": "What kind of advisory is present concerning potential health risks from consumption?",
+        "answer": "Allergy"
+      }
+    ]
+  }
+]

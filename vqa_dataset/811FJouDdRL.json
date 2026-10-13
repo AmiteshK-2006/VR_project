@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/63/639f9bae.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the primary color of this cylindrical item?",
+        "answer": "Purple"
+      },
+      {
+        "question": "Based on the image, what appears to be the dominant textural characteristic of the object's surface?",
+        "answer": "Granular"
+      },
+      {
+        "question": "Judging from its form, what geometric shape most accurately represents the object's overall structure?",
+        "answer": "Cylinder"
+      },
+      {
+        "question": "From the image alone, what seems to be the apparent material composition of the item shown?",
+        "answer": "Wax"
+      },
+      {
+        "question": "What is the implied, consistent color across the entire visible area of the object depicted?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "In terms of its size relative to typical household objects, how would you categorize the displayed item?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Judging from the visible surface, what is the degree of surface smoothness or roughness of the article shown?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What's the apparent height-to-diameter ratio of the cylindrical object in the image?",
+        "answer": "Tall"
+      },
+      {
+        "question": "If the item were to be described in terms of visual depth, what would be the most appropriate descriptor?",
+        "answer": "Shallow"
+      },
+      {
+        "question": "What's the overall impression of the product’s finish, based solely on its appearance?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the item appear to possess any reflective qualities, based purely on visual observation?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image only, does the product seem to have any noticeable patterns or designs?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the item's physical state, is it apparently whole, broken, or damaged in any way?",
+        "answer": "Whole"
+      },
+      {
+        "question": "Based solely on visual appearance, does the object seem to contain any internal components?",
+        "answer": "No"
+      },
+      {
+        "question": "From a visual standpoint, what is the primary attribute that makes this item visually appealing?",
+        "answer": "Color"
+      }
+    ]
+  }
+]

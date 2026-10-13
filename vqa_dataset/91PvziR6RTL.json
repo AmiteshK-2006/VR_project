@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/db/db703f7c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color visibly apparent across the rug's surface?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the overall texture, what is the most descriptive word to capture the rug's tactile feel?",
+        "answer": "Shaggy"
+      },
+      {
+        "question": "Based on visual observation, what seems to be the primary material used in constructing this rug?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "Describe the general form or shape presented by the rug's visible outline, ignoring any minor irregularities.",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Observing the pile height from the image, how would you characterize its density; low, medium, or high?",
+        "answer": "High"
+      },
+      {
+        "question": "Analyzing the color variation within the gray tones, what is the most accurate description of the color distribution?",
+        "answer": "Varied"
+      },
+      {
+        "question": "What is the most obvious characteristic of the rug's pile; long, short, or medium length?",
+        "answer": "Long"
+      },
+      {
+        "question": "Judging from the image, would you classify the rug's design as patterned or unpatterned?",
+        "answer": "Unpatterned"
+      },
+      {
+        "question": "Based on the visible texture, would the pile be considered soft, coarse, or medium?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Does the image reveal any obvious stitching, seams, or visible joining points on the rug?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from its appearance, would this rug's style fit a contemporary, traditional, or other aesthetic?",
+        "answer": "Contemporary"
+      },
+      {
+        "question": "Is there any noticeable sheen or gloss visible on the rug's surface; yes or no?",
+        "answer": "No"
+      },
+      {
+        "question": "Given the image, does the rug appear to have a high or low pile density overall?",
+        "answer": "High"
+      },
+      {
+        "question": "Does the rug show any evidence of visible patterns or designs in the pile; yes or no?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image, describe the general visual feel of the rug: rough or smooth?",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

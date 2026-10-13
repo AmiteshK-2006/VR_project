@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/64/643165c4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the packaging visible in the provided image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the packaged meat product shown?",
+        "answer": "Round"
+      },
+      {
+        "question": "What material appears to constitute the primary packaging of this item?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describing the surface texture, is the packaging smooth or textured?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the visible label, what country's inspection mark is present?",
+        "answer": "U.S."
+      },
+      {
+        "question": "What type of opening mechanism is indicated on the packaging for ease of access?",
+        "answer": "Peel"
+      },
+      {
+        "question": "Based on the label, what is the primary ingredient inside the package?",
+        "answer": "Beef"
+      },
+      {
+        "question": "What kind of labeling is visible for safe handling and preparation instructions?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the form of the meat product inside, as shown in the image?",
+        "answer": "Pattie"
+      },
+      {
+        "question": "Considering the label, is the beef described as containing antibiotics?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the color of the text on the visible labels and markings?",
+        "answer": "White"
+      },
+      {
+        "question": "What type of barcode is present on the product's packaging?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Judging by the visible packaging, is the product pre-cooked or raw?",
+        "answer": "Raw"
+      },
+      {
+        "question": "What is the general condition of the packaging presented in the image?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Is there any visible damage or imperfection to the product packaging shown?",
+        "answer": "No"
+      }
+    ]
+  }
+]

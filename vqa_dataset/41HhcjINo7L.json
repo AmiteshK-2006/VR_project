@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b4/b4765818.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual presentation, what is the dominant orientation of the text within the image?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Disregarding content, what is the most apparent typographic characteristic of the text blocks in the image?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Based purely on visual assessment, describe the general color scheme of the text in the image.",
+        "answer": "Black"
+      },
+      {
+        "question": "Describe the text's visual alignment concerning the image's boundaries, judging solely from the appearance.",
+        "answer": "Left"
+      },
+      {
+        "question": "From a visual standpoint, what is the apparent font style predominantly employed for the majority of the visible text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Judging solely from visual observation, is the text's kerning (spacing between letters) uniform throughout the image?",
+        "answer": "Yes"
+      },
+      {
+        "question": "In terms of visual presentation, how would you describe the text's tracking (spacing between words) in the image?",
+        "answer": "Tight"
+      },
+      {
+        "question": "Based on the image, ignoring the content, how would you describe the overall visual texture of the text blocks?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Considering the style and format of the text blocks, what medium does the image most closely resemble?",
+        "answer": "Print"
+      },
+      {
+        "question": "Visually speaking, is there any noticeable variation in text size across the multiple lines of the image?",
+        "answer": "No"
+      },
+      {
+        "question": "From a visual perspective, are there any elements of visual emphasis, such as bolding or italics, used in the text?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging solely from the image, are there any discernible visual imperfections or distortions in the text?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the image solely, what is the overall visual arrangement of the many text lines presented?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Describe the appearance of the text's line spacing, or leading, in relation to its character size.",
+        "answer": "Minimal"
+      },
+      {
+        "question": "Based on visual examination, is there any significant visual hierarchy or structuring among the text's various elements?",
+        "answer": "No"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a5/a5083a0a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the bread's crust, as visible through the packaging?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering the visible texture, what is the apparent bread type?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "What is the primary shape of the bread loaf, as shown in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What kind of packaging is the bread loaf presented in?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on visual inspection, does the bread appear to contain visible seeds or grains?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the general appearance of the bread's visible surface texture?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Judging by the image, is the bread sliced or unsliced?",
+        "answer": "Unsliced"
+      },
+      {
+        "question": "What is the overall color tone of the bread's visible side?",
+        "answer": "Light"
+      },
+      {
+        "question": "Does the packaging show any prominent brand markings or logos?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the visible texture, is the bread likely dense or airy?",
+        "answer": "Dense"
+      },
+      {
+        "question": "From the visible portion, is the bread's crust uniformly colored?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is the packaging transparent enough to assess the bread's internal structure?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the visible particles, what ingredients are possibly included in this bread?",
+        "answer": "Grains"
+      },
+      {
+        "question": "Does the plastic packaging seem to be sealed tightly around the bread?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the overall visual impression of the bread's presentation?",
+        "answer": "Plain"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/12/12c3e564.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual layout, what is the dominant orientation of the ingredient and allergen information presented on this food product label?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Focusing on the typography used for the 'INGREDIENTS' heading, what can you describe the font style as?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Observing the detailed list of ingredients, what is the primary typeface used to list the components of the stir-fry sauce?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Regarding the visual hierarchy, what is the textual size of the allergen information section in comparison to the main ingredients listing?",
+        "answer": "Smaller"
+      },
+      {
+        "question": "Analyzing the presentation style of the ingredient list, what is the method used for the visual separation between the ingredients and the allergen information?",
+        "answer": "Spacing"
+      },
+      {
+        "question": "Considering the textual organization, what is the structural element employed to highlight the specific ingredients within each compound ingredient?",
+        "answer": "Parentheses"
+      },
+      {
+        "question": "Based on the font style used throughout the label, what is the overall impression regarding the readability of the text?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Judging from the visual consistency of the text, what can you say about the formatting of the allergen information section?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Based on the visual prominence, what is the relative textual weight of the 'CONTAINS' heading in comparison to the 'INGREDIENTS' heading?",
+        "answer": "Lighter"
+      },
+      {
+        "question": "Regarding the design choice, what is the visual approach used to present the list of ingredients?",
+        "answer": "Columnar"
+      },
+      {
+        "question": "Considering the background of the label, what is the visible color or shade?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the overall structure, what is the text alignment of the ingredient and allergen information?",
+        "answer": "Left"
+      },
+      {
+        "question": "What is the color of the text used to display the ingredients and allergen information?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the visual characteristic of the text regarding its style and uniformity?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Considering the label's design, what is the overall visual impression of the ingredient information presentation?",
+        "answer": "Organized"
+      }
+    ]
+  }
+]

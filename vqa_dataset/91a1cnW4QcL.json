@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/44/444d9553.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the product packaging, as shown in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the most prominent text style used for the product name on the package?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Describing the overall shape of the product packaging presented in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material appears to constitute the packaging of the product shown?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the dominant color of the text on the product's packaging?",
+        "answer": "Black"
+      },
+      {
+        "question": "Identify the animal depicted on the product's packaging, if any.",
+        "answer": "Dog"
+      },
+      {
+        "question": "What is the texture of the visible surface of the product packaging?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What kind of text predominates on the packaging: instructions, warnings, or marketing?",
+        "answer": "Instructions"
+      },
+      {
+        "question": "What is the overall visual impression of the design: simple, busy, or minimalist?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Is there a barcode visible on the product packaging shown in the image?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is there a logo visible on the product's packaging?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent finish or coating on the product packaging?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the packaging show any type of seal or tamper evidence?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the information displayed, is this product primarily for indoor or outdoor use?",
+        "answer": "Indoor"
+      },
+      {
+        "question": "What is the size of the text on the product packaging: large, medium, small?",
+        "answer": "Medium"
+      }
+    ]
+  }
+]

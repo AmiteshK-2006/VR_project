@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/05/055d5538.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the dominant shape of the container, as displayed in the image?",
+        "answer": "Bottle"
+      },
+      {
+        "question": "What is the primary color of the label prominently featured on the product container?",
+        "answer": "Burgundy"
+      },
+      {
+        "question": "Observing the container's material, what seems to be the composition of the bottle itself?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the texture of the primary container, judging by the visible surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Focusing on the closure, what type of cap is present on top of the bottle?",
+        "answer": "Screw"
+      },
+      {
+        "question": "What is the visible color of the liquid seemingly contained within the transparent bottle?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What specific kind of label is attached to the container, based on its design and information?",
+        "answer": "Instructional"
+      },
+      {
+        "question": "What writing style is primarily used on the label affixed to the bottle, judging from the image provided?",
+        "answer": "Script"
+      },
+      {
+        "question": "Based on the label's textual content, what is the apparent brand of the product in the image?",
+        "answer": "Presto!"
+      },
+      {
+        "question": "What design element is incorporated into the label's background near the bottom?",
+        "answer": "Pattern"
+      },
+      {
+        "question": "Located on the back of the bottle, what type of identifying code is presented?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "What is the overall condition of the bottle depicted in the provided image, regarding any visible damage?",
+        "answer": "Intact"
+      },
+      {
+        "question": "Excluding the label, how would you describe the overall appearance of the container's surface?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What is the general shape of the product container, considering its overall design and proportions?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Ignoring the printed text, what is the most prominent feature of the label's graphic design?",
+        "answer": "Logo"
+      }
+    ]
+  }
+]

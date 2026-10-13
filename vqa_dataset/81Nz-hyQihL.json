@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2f/2f6f1a9f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall shape and cylindrical form factor, what is the primary geometrical characteristic of this product?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Focusing on the container's composition, what material is predominantly used in its construction?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Examining the contents, what single-word description would best capture its nature?",
+        "answer": "Salt"
+      },
+      {
+        "question": "Observing the color of the product within the container, what single word best describes it?",
+        "answer": "White"
+      },
+      {
+        "question": "Regarding the container's cap, what is the most prominent feature indicating its functional purpose?",
+        "answer": "Screw"
+      },
+      {
+        "question": "Analyzing the label's design, what is the prominent color used to denote product information?",
+        "answer": "Red"
+      },
+      {
+        "question": "Considering the label's visual elements, what style of design predominates – simple or elaborate?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Based on the visual texture of the label, what is the predominant surface quality?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "In terms of size, what is the appropriate descriptive term reflecting its dimensions?",
+        "answer": "Small"
+      },
+      {
+        "question": "Considering the label's visual elements, what is the primary method of conveying product information?",
+        "answer": "Text"
+      },
+      {
+        "question": "Based on the visible texture of the salt, would it be characterized as coarse or fine?",
+        "answer": "Fine"
+      },
+      {
+        "question": "Assessing the overall presentation, how would you classify the product's packaging – sophisticated or basic?",
+        "answer": "Basic"
+      },
+      {
+        "question": "What is the most obvious visual indication of the product's intended use, as observed on the label?",
+        "answer": "Table"
+      },
+      {
+        "question": "Describing the clarity of the glass container, what is its transparency level - clear or opaque?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the dominant style of typography used throughout the label design?",
+        "answer": "Sans-serif"
+      }
+    ]
+  }
+]

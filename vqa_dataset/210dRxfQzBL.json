@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fa/faf45c56.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the rectangular object shown?",
+        "answer": "Red"
+      },
+      {
+        "question": "Considering its form factor, what geometrical term best describes the product's shape?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on visual examination, what appears to be the primary material of construction?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Judging from the image, does the surface texture appear smooth or rough?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the object exhibit any visible seams, stitching, or other surface markings?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the object's presentation suggest a hard or soft structural composition?",
+        "answer": "Hard"
+      },
+      {
+        "question": "Does the rectangular product show any significant degree of reflectivity?",
+        "answer": "Slight"
+      },
+      {
+        "question": "What is the apparent overall condition of the visible surface; new or used?",
+        "answer": "New"
+      },
+      {
+        "question": "Examining the borders, are they distinctly crisp or somewhat softened?",
+        "answer": "Crisp"
+      },
+      {
+        "question": "Considering the overall dimensions, what size category best suits the item?",
+        "answer": "Long"
+      },
+      {
+        "question": "Considering the product's dimensions and shape, would you classify it as compact or bulky?",
+        "answer": "Compact"
+      },
+      {
+        "question": "From the image, does the product show any kind of pattern on its surface?",
+        "answer": "None"
+      },
+      {
+        "question": "Observing the color saturation, would you describe the red as muted or vivid?",
+        "answer": "Vivid"
+      },
+      {
+        "question": "Considering the object's apparent size and rigidity, what is its likely functionality?",
+        "answer": "Storage"
+      },
+      {
+        "question": "From the image provided, is the object's surface glossy or matte?",
+        "answer": "Matte"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ee/ee9077d9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the textual information presented in the image, what specific type of gum is listed among the other ingredients?",
+        "answer": "Xanthan"
+      },
+      {
+        "question": "Based on the image's text, what natural source is mentioned as providing dietary fiber?",
+        "answer": "Inulin"
+      },
+      {
+        "question": "According to the text shown, what plant's extract is included as an ingredient?",
+        "answer": "Stevia"
+      },
+      {
+        "question": "What specific leaf is referenced in relation to a listed ingredient?",
+        "answer": "Rebaudiana"
+      },
+      {
+        "question": "As per the image's text, what other ingredient is explicitly stated besides the ones already mentioned?",
+        "answer": "Flavors"
+      },
+      {
+        "question": "Does the image show any mention of potential allergens in the product?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What specific allergen is explicitly listed as present in the product according to the image?",
+        "answer": "Soy"
+      },
+      {
+        "question": "What other allergen might be present as a trace according to the text in the image?",
+        "answer": "Milk"
+      },
+      {
+        "question": "What other allergen is listed as potentially present in trace amounts based on the image's content?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "Based on the image text, where was this product processed, regarding the presence of other allergens?",
+        "answer": "Facility"
+      },
+      {
+        "question": "What type of nuts are mentioned in the context of the processing facility as per the image's text?",
+        "answer": "Tree"
+      },
+      {
+        "question": "Besides tree nuts, what other food-related item is listed as being processed in the same facility?",
+        "answer": "Eggs"
+      },
+      {
+        "question": "What kind of seafood is listed among those processed in the same facility according to the image?",
+        "answer": "Shellfish"
+      },
+      {
+        "question": "What other type of seafood is noted in the image in relation to the facility's processing activities?",
+        "answer": "Fish"
+      },
+      {
+        "question": "What is the overall background color of the text shown in the image?",
+        "answer": "White"
+      }
+    ]
+  }
+]

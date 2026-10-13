@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bf/bf8ac4de.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular layout and textual content, what is the primary function of this product depicted?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Examining the prominent numerical data presented, what is the total caloric value per serving?",
+        "answer": "70"
+      },
+      {
+        "question": "Focusing on the serving size specification, what specific food item does one serving represent?",
+        "answer": "Egg"
+      },
+      {
+        "question": "Based on the quantitative information, how many individual servings are contained within the whole product?",
+        "answer": "12"
+      },
+      {
+        "question": "Analyzing the dietary data for fats, what is the quantified amount of total fat in grams per serving?",
+        "answer": "5"
+      },
+      {
+        "question": "Considering the details on cholesterol content, what is the cholesterol amount in milligrams per serving?",
+        "answer": "185"
+      },
+      {
+        "question": "Referring to the protein content in the provided nutritional information, what is the amount in grams per serving?",
+        "answer": "6"
+      },
+      {
+        "question": "Focusing on the micronutrient data, what is the amount of Vitamin B12 in micrograms per serving?",
+        "answer": "0.5"
+      },
+      {
+        "question": "Considering the mineral content details, what is the amount of Potassium in milligrams per serving?",
+        "answer": "60"
+      },
+      {
+        "question": "Based on the provided details on Sodium content, what is the amount of Sodium in milligrams per serving?",
+        "answer": "71"
+      },
+      {
+        "question": "Analyzing the detailed data, what is the amount of Calcium in milligrams per serving?",
+        "answer": "28"
+      },
+      {
+        "question": "Considering the provided data on Phosphorus, what is the amount in milligrams per serving?",
+        "answer": "95"
+      },
+      {
+        "question": "Based on the information about Iron content, what is the amount of Iron in milligrams per serving?",
+        "answer": "0.9"
+      },
+      {
+        "question": "Considering the provided data on Zinc, what is the amount in milligrams per serving?",
+        "answer": "0.7"
+      },
+      {
+        "question": "Based on the Selenium data, what is the amount of Selenium in micrograms per serving?",
+        "answer": "15"
+      }
+    ]
+  }
+]

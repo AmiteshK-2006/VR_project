@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6e/6ee4b32f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the packaging, as visually apparent from the presented image?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What is the overall shape of the presented product container, ignoring minor details?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the primary material used for the product's packaging based solely on its visual appearance?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Considering the overall texture, is the surface of the packaging visually smooth or rough?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the packaging show any prominent logo or branding element, and if so, what shape is it?",
+        "answer": "Circular"
+      },
+      {
+        "question": "What kind of printing method is mostly visible on the packaging, judging by its sharpness and clarity?",
+        "answer": "Text"
+      },
+      {
+        "question": "Is the text on the packaging predominantly aligned horizontally or vertically, according to the visual presentation?",
+        "answer": "Vertically"
+      },
+      {
+        "question": "Based solely on what is visible in the image, does the packaging depict any illustrative elements beyond text?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the packaging's structure, is there any evident sealing or closure mechanism present in the image?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging by the overall visual appearance of the product, what would you say is its probable form of use?",
+        "answer": "Drink"
+      },
+      {
+        "question": "If you had to categorize the product based only on what you see in the image, would it likely be a solid, liquid, or gas?",
+        "answer": "Liquid"
+      },
+      {
+        "question": "Considering the packaging's design and information density, what would you guess its contents to be?",
+        "answer": "Food"
+      },
+      {
+        "question": "Does the packaging contain any clear, noticeable perforations, tears, or cut lines?",
+        "answer": "No"
+      },
+      {
+        "question": "From a visual standpoint, describe the overall tone or style of the packaging aesthetics (e.g., minimalist, vibrant, etc.)",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Focusing solely on the visual aspects of the image, is there anything that would suggest the product contains multiple compartments or sections?",
+        "answer": "No"
+      }
+    ]
+  }
+]

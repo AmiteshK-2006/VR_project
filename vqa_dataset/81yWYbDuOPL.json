@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/39/3930cbaf.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the product's packaging?",
+        "answer": "White"
+      },
+      {
+        "question": "What material appears to constitute the main packaging?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the overall shape of the product's package.",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What type of text is prominently displayed on the package?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What kind of information is shown on the back of the package?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Considering the package's appearance, what is its likely function?",
+        "answer": "Food"
+      },
+      {
+        "question": "What is depicted on the top left section of the packaging?",
+        "answer": "Text"
+      },
+      {
+        "question": "What appears at the lower right of the packaging?",
+        "answer": "Symbols"
+      },
+      {
+        "question": "Is there a visible barcode on the product package?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What color are the smaller text sections?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the general texture of the visible packaging surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Are there any noticeable seals or closures shown?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the package seem to indicate any particular weight?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the predominant style of the text on the packaging?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Are there any images or illustrations on the package besides text?",
+        "answer": "No"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9a/9a1b5f17.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant visible texture depicted in the provided image?",
+        "answer": "Woodgrain"
+      },
+      {
+        "question": "Considering the image's visual characteristics, what appears to be the primary material?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Based on the image, what is the overall color tone of the depicted surface?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Judging from the image, what is the most apparent direction of the wood grain lines?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "If you were to describe the visual appearance of the surface's finish, what word would best describe it?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What single word best characterizes the lightness or darkness of the displayed color?",
+        "answer": "Light"
+      },
+      {
+        "question": "Given the image, what is the most prominent visual characteristic of the surface?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Considering the image's visual elements, what word would appropriately describe the visible pattern?",
+        "answer": "Streaked"
+      },
+      {
+        "question": "What is the overall visual impression of the color saturation in the provided image?",
+        "answer": "Pale"
+      },
+      {
+        "question": "If you had to describe the grain density based purely on the image provided, what single term would you use?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What word best describes the visible uniformity of color across the surface in the image?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "What single word describes the general visual impression of the surface's sheen?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on the image alone, what term best describes the overall visual tone of the piece?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "What word best describes the visual impression of the wood's age or treatment?",
+        "answer": "Finished"
+      },
+      {
+        "question": "Considering the visible pattern, what single word describes its regularity?",
+        "answer": "Natural"
+      }
+    ]
+  }
+]

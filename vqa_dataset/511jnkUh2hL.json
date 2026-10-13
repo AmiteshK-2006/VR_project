@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/07/07563e6e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual layout, what is the primary purpose of this rectangular visual element, as suggested by its prominent placement and typography?",
+        "answer": "Label"
+      },
+      {
+        "question": "What is the main component prominently mentioned in the ingredient listing of this food product label?",
+        "answer": "Flour"
+      },
+      {
+        "question": "Based on the provided text, what is one of the additional ingredients specifically identified as 'organic' on this food product's label?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "According to the label's statement regarding potential allergens, what ingredient is specifically listed as being potentially present in this product?",
+        "answer": "Milk"
+      },
+      {
+        "question": "What type of wheat flour, as indicated on the label, is used in the preparation of this food item?",
+        "answer": "Enriched"
+      },
+      {
+        "question": "What specific type of oil is indicated among the listed ingredients, highlighting its production method?",
+        "answer": "Palm"
+      },
+      {
+        "question": "What additional mineral, alongside iron, is listed as a component of the enriched wheat flour in this product's ingredients?",
+        "answer": "Niacin"
+      },
+      {
+        "question": "As indicated on the food label, what type of malt extract contributes to the composition of this food item?",
+        "answer": "Barley"
+      },
+      {
+        "question": "What vitamin, a component of the enriched flour as specified in the label's ingredient list, plays a crucial role in the product's nutritional profile?",
+        "answer": "Folic"
+      },
+      {
+        "question": "What is the status of the ingredients of this product, as explicitly declared in the labeling section?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Observing the text's arrangement, what is the label's designation for the listing of constituents?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "According to the provided label, what other potential allergen, besides milk, might be present in this food product?",
+        "answer": "Soy"
+      },
+      {
+        "question": "What word indicates a caution about potential contaminations within this product, according to the label?",
+        "answer": "May"
+      },
+      {
+        "question": "What word precedes the list of ingredients on this food product's label?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the word that summarizes potential cross-contamination risks?",
+        "answer": "Contains"
+      }
+    ]
+  }
+]

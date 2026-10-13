@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d7/d73c6d70.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant, visually apparent color of this cylindrical object, as shown in the provided image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the image, what is the overall three-dimensional form of the depicted item?",
+        "answer": "Cylinder"
+      },
+      {
+        "question": "Based on the image, what appears to be the primary material used in the construction of this item?",
+        "answer": "Foam"
+      },
+      {
+        "question": "Observing the image closely, what kind of surface texture is predominantly displayed on this object?",
+        "answer": "Speckled"
+      },
+      {
+        "question": "From the image, can you describe the visual pattern or design on the item's surface?",
+        "answer": "Textured"
+      },
+      {
+        "question": "According to the image, does the item exhibit any noticeable markings or logos?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the general size or scale of the object in relation to average household items, inferred from the photograph?",
+        "answer": "Small"
+      },
+      {
+        "question": "Judging from the image, does the object seem to have a smooth or rough surface texture?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Based on visual observation, what is the apparent density or firmness of the product in the image?",
+        "answer": "Firm"
+      },
+      {
+        "question": "Analyzing the picture, describe the level of detail observed in the item's surface design or pattern.",
+        "answer": "High"
+      },
+      {
+        "question": "According to the photograph, is the object's color uniform or does it have variations?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Does the image reveal any visible seams or joins in the item's construction?",
+        "answer": "No"
+      },
+      {
+        "question": "From the image, is the shape of this object perfectly geometric or slightly irregular?",
+        "answer": "Geometric"
+      },
+      {
+        "question": "Judging by the picture, does the object appear to have any reflective properties?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image, is the overall aesthetic of the product simple or ornate?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/90/90e46211.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the visible surface, considering its overall tone and shading?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the image's texture, what material appears to be the primary constituent?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Based on the visible grain and lines, what is the apparent orientation of the wood planks?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Describe the visible surface texture based on the appearance of the wood grain and any irregularities?",
+        "answer": "Grained"
+      },
+      {
+        "question": "Judging from the image, what is the general appearance of the wood's surface finish?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent number of horizontal planks visibly present in the image?",
+        "answer": "Three"
+      },
+      {
+        "question": "Based on the visible cracks and imperfections, how would you characterize the wood's visual age?",
+        "answer": "Aged"
+      },
+      {
+        "question": "Considering the color consistency, how uniform is the wood's coloration across the visible area?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "In terms of visual structure, what is the pattern of the lines within the wood planks?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Describe the visual prominence of knots or other significant imperfections in the wood?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "Based on the image, what is the overall visual impression of the material's quality?",
+        "answer": "High"
+      },
+      {
+        "question": "Judging by the visible texture, is the wood surface visibly rough or polished?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the dominant tonal range across the visible area of the wood planks?",
+        "answer": "Warm"
+      },
+      {
+        "question": "Considering the variations in color, how would you describe the overall shade of the wood?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Describe the overall visual impression of the wood regarding its appearance of age and texture",
+        "answer": "Rustic"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/96/96de1acd.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the rectangular speaker shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary material composing the external casing of this speaker?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the image, what is the overall shape of the presented audio device?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visual details, what texture is predominantly exhibited on the speaker's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging from the image, what kind of pattern is subtly visible on the speaker's front grill?",
+        "answer": "Geometric"
+      },
+      {
+        "question": "What is the apparent finish of the speaker's outer shell, glossy or matte?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "How many visible buttons or controls are present on the top surface of the device?",
+        "answer": "Five"
+      },
+      {
+        "question": "Does the speaker's design incorporate any angled or slanted surfaces?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent size of the speaker relative to a standard household object (e.g., a book)?",
+        "answer": "Medium"
+      },
+      {
+        "question": "From the image provided, can any noticeable logos or branding be seen on the speaker?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the visual impression of the speaker's build quality: cheap or premium?",
+        "answer": "Premium"
+      },
+      {
+        "question": "Based on the visual characteristics, is the speaker's design minimalist or ornate?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Is the speaker's grill completely solid, or does it have perforations for sound?",
+        "answer": "Perforated"
+      },
+      {
+        "question": "Considering the image, is the speaker portable or intended for a fixed location?",
+        "answer": "Portable"
+      },
+      {
+        "question": "What is the general style of the speaker, modern, vintage, or other?",
+        "answer": "Modern"
+      }
+    ]
+  }
+]

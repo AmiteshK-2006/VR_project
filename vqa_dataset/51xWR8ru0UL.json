@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/93/93c03625.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the primary textual content depicted in the image?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What specific type of food product does the nutrition label pertain to, as clearly indicated in the text?",
+        "answer": "Cupcake"
+      },
+      {
+        "question": "What is the predominant color used for the background of this nutritional information panel?",
+        "answer": "White"
+      },
+      {
+        "question": "Observing the text formatting, what is the primary font style used for the 'Nutrition Facts' heading?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the numerical value displayed prominently, signifying the caloric content per serving?",
+        "answer": "220"
+      },
+      {
+        "question": "In the context of the provided nutritional details, what is the total amount of fat, in grams, listed per serving?",
+        "answer": "10g"
+      },
+      {
+        "question": "Based solely on the visual information, what is the quantity of added sugars, in grams, present in each serving?",
+        "answer": "8g"
+      },
+      {
+        "question": "Focusing on the quantitative data, what is the total amount of protein, in grams, per serving of this product?",
+        "answer": "4g"
+      },
+      {
+        "question": "Regarding the image's layout, what is the shape of the presented nutritional information panel?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary format used for presenting the nutritional information, as visually evident in the image?",
+        "answer": "Table"
+      },
+      {
+        "question": "Examining the visual design, what is the primary method of organizing the various nutritional components?",
+        "answer": "List"
+      },
+      {
+        "question": "In terms of visual prominence, what is the size of the text used for the 'Calories' information?",
+        "answer": "Large"
+      },
+      {
+        "question": "What is the general textual alignment of the nutritional information within its presented panel?",
+        "answer": "Left"
+      },
+      {
+        "question": "Observing the visual hierarchy, how many distinct categories of nutritional information are presented?",
+        "answer": "Nine"
+      },
+      {
+        "question": "What is the unit of measurement consistently used for various nutritional components like fat, sugars, and protein?",
+        "answer": "Grams"
+      }
+    ]
+  }
+]

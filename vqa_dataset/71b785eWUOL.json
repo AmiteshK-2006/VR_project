@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fd/fdebabce.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form and structure, what is the predominant shape of the product packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material is predominantly used in the construction of this product's outer packaging?",
+        "answer": "Foil"
+      },
+      {
+        "question": "Observing the primary color scheme, what is the dominant color of the label's main section?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What word, prominently displayed on the packaging, indicates the brand or product name?",
+        "answer": "DonutCafe"
+      },
+      {
+        "question": "Examining the text on the label, what type of coffee does the packaging advertise?",
+        "answer": "Ground"
+      },
+      {
+        "question": "Referring to the roasting level described on the packaging, what roast level is the coffee?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Considering the design elements on the label, what graphic element is repeatedly featured in black and white?",
+        "answer": "Stripes"
+      },
+      {
+        "question": "Looking at the image, what secondary color is prominently used in conjunction with pink on the label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the visual cues provided on the package, what additional information is mentioned beyond the brand and product type?",
+        "answer": "Roast"
+      },
+      {
+        "question": "What company's branding is visible on the package, indicating distribution or sale?",
+        "answer": "Amazon"
+      },
+      {
+        "question": "Observing the packaging details, what additional information is provided on the packaging beside the main label?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "Describe the texture of the product's outer packaging based on the visual representation.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What shape can be observed near the top of the packaging, likely a tear-off point?",
+        "answer": "Oval"
+      },
+      {
+        "question": "What appears to be the primary function of the product indicated by the packaging?",
+        "answer": "Brewing"
+      },
+      {
+        "question": "What is the color of the small graphic element resembling a coffee bean on the label?",
+        "answer": "Brown"
+      }
+    ]
+  }
+]

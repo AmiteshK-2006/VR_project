@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6d/6d5f2116.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the hat, as visibly apparent in all provided views?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What fabric or material appears to constitute the majority of the hat's construction, based solely on visual texture and sheen?",
+        "answer": "Velvet"
+      },
+      {
+        "question": "Considering the hat's brim and crown, what is its overall shape classification?",
+        "answer": "Cloche"
+      },
+      {
+        "question": "What type of decorative element is prominently featured on the side of the hat, as shown in each view?",
+        "answer": "Flower"
+      },
+      {
+        "question": "Describe the visual texture of the fabric used, apparent from the image's multiple angles and lighting conditions?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the visible construction, what is the brim's relative width compared to the crown's height?",
+        "answer": "Wide"
+      },
+      {
+        "question": "What is the apparent style of the flower embellishment, observed from the image's various perspectives?",
+        "answer": "Rose"
+      },
+      {
+        "question": "From the images, what is the visible style of the crown's shaping and draping?",
+        "answer": "Pleated"
+      },
+      {
+        "question": "Judging from visible seams and folds, does the hat display a structured or unstructured appearance?",
+        "answer": "Structured"
+      },
+      {
+        "question": "Considering the overall design and details, what would be the hat's most likely usage occasion?",
+        "answer": "Formal"
+      },
+      {
+        "question": "What is the apparent finish of the hat's visible inner lining, as seen in one of the images?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the multiple images, does the hat's design exhibit any visible asymmetry?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the visible quality of the stitching or finishing along the brim and crown edges?",
+        "answer": "Neat"
+      },
+      {
+        "question": "Judging from the presented images, how many visible decorative elements are present on the hat?",
+        "answer": "One"
+      },
+      {
+        "question": "Is there any visible branding or label on the hat's inner lining, based on what's shown?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

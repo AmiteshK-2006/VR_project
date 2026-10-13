@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ac/ac368bde.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the primary purpose indicated by the text displayed prominently on the image?",
+        "answer": "Treatment"
+      },
+      {
+        "question": "Based on the textual information presented, what specific skin condition does this product address?",
+        "answer": "Acne"
+      },
+      {
+        "question": "Observing the textual layout, what specific active ingredient is prominently listed for its acne-fighting properties?",
+        "answer": "Salicylic"
+      },
+      {
+        "question": "Examining the label carefully, what is the concentration percentage of the key active ingredient mentioned in the product description?",
+        "answer": "Two"
+      },
+      {
+        "question": "From the visible text, what is the main action of the product, according to the provided uses?",
+        "answer": "Dries"
+      },
+      {
+        "question": "Considering the visible text, what usage instruction is strictly emphasized regarding the product application?",
+        "answer": "External"
+      },
+      {
+        "question": "What is the product form suggested by the mentioned usage instructions involving wiping?",
+        "answer": "Wipe"
+      },
+      {
+        "question": "According to the visible warnings, what precaution is advised about keeping the product out of reach?",
+        "answer": "Children"
+      },
+      {
+        "question": "What is the category that the visible 'Inactive Ingredients' list belongs to in the product's composition?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the format of the provided information about the product, as visible in the image?",
+        "answer": "Facts"
+      },
+      {
+        "question": "What liquid is specifically mentioned for rinsing in case of eye contact, as per the visible instructions?",
+        "answer": "Water"
+      },
+      {
+        "question": "What type of container is implied by the instruction to 'reseal label tightly to retain moisture'?",
+        "answer": "Resealable"
+      },
+      {
+        "question": "Based on the visible instructions, where should the used wipe be disposed of after application?",
+        "answer": "Receptacle"
+      },
+      {
+        "question": "What action should be taken before applying the product, according to the visible instructions?",
+        "answer": "Clean"
+      },
+      {
+        "question": "What specific type of information is indicated as found on the product packaging, according to the visible text?",
+        "answer": "Number"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8f/8fd338a2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the product image?",
+        "answer": "Lime"
+      },
+      {
+        "question": "Considering the texture, what is the overall feel of the material displayed?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on its appearance, what is the most likely material composition of this item?",
+        "answer": "Microfiber"
+      },
+      {
+        "question": "Judging by the image, what is the general shape of the fabric piece presented?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Does the fabric exhibit a discernible pattern or design, as seen in the image?",
+        "answer": "No"
+      },
+      {
+        "question": "From a visual assessment, how would you describe the sheen or luster of the fabric?",
+        "answer": "Slight"
+      },
+      {
+        "question": "Observing the image, is there any visible stitching or edge finishing present?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the folds, does the fabric appear to be relatively thin or thick?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Based solely on visual inspection, what is the apparent weight or density of the fabric?",
+        "answer": "Light"
+      },
+      {
+        "question": "Judging from the image, does the fabric seem soft or stiff to the touch?",
+        "answer": "Soft"
+      },
+      {
+        "question": "In the given image, is the fabric crumpled or neatly arranged?",
+        "answer": "Crumpled"
+      },
+      {
+        "question": "Based on the image's lighting, how would you characterize the color saturation?",
+        "answer": "High"
+      },
+      {
+        "question": "From the image, can you identify any visible logos or branding marks?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the main visual characteristic of the edges of this fabric?",
+        "answer": "Finished"
+      },
+      {
+        "question": "From the provided image, is the fabric's surface visibly textured or uniform?",
+        "answer": "Uniform"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e4/e4388fec.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout and typography, what is the primary function of this rectangular item, given its prominent use of bold text and numerical data presented in a tabular format?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Focusing on the topmost line of text, what specific information category does this item primarily convey regarding food contents?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Observing the text, what is the unit of measurement specified for the 'Serving Size', suggesting a packaged or single-portion food item?",
+        "answer": "Bag"
+      },
+      {
+        "question": "Looking at the numerical values presented, what is the total caloric content indicated per serving, suggesting energy value of the food?",
+        "answer": "110"
+      },
+      {
+        "question": "Examining the detailed breakdown, what is the specified quantity of 'Total Carbohydrate' in grams, indicating a carbohydrate content?",
+        "answer": "24g"
+      },
+      {
+        "question": "Based on the nutritional data, what is the amount of 'Dietary Fiber' in grams, indicating a dietary fiber content?",
+        "answer": "7g"
+      },
+      {
+        "question": "From the provided data, what is the total amount of 'Total Sugars' in grams, showing a sugar content?",
+        "answer": "10g"
+      },
+      {
+        "question": "According to the nutritional information, what is the amount of 'Protein' in grams, indicating protein content?",
+        "answer": "2g"
+      },
+      {
+        "question": "Referring to the vitamins and minerals, what is the specified quantity of 'Vitamin C' in milligrams, demonstrating Vitamin C content?",
+        "answer": "34mg"
+      },
+      {
+        "question": "Examining the percentages, what is the percentage of the 'Daily Value' for 'Vitamin C', reflecting a nutritional guideline?",
+        "answer": "40%"
+      },
+      {
+        "question": "In terms of minerals, what is the amount of 'Potassium' listed in milligrams, showing potassium content?",
+        "answer": "250mg"
+      },
+      {
+        "question": "Regarding the fats, what is the quantity of 'Total Fat' provided in grams, presenting total fat content?",
+        "answer": "0.5g"
+      },
+      {
+        "question": "In regards to fats, what is the amount of 'Saturated Fat' given in grams, showing the amount of saturated fat?",
+        "answer": "0g"
+      },
+      {
+        "question": "Focusing on the nutritional facts, what is the quantity of 'Sodium' in milligrams, indicating sodium content?",
+        "answer": "0mg"
+      },
+      {
+        "question": "Based on the information given, what is the quantity of 'Cholesterol' listed in milligrams, showing cholesterol content?",
+        "answer": "0mg"
+      }
+    ]
+  }
+]

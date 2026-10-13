@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3c/3cf7db27.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the device's exterior casing?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary material used in the device's construction?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the visible ports and connectors, what is the device's likely function?",
+        "answer": "Power"
+      },
+      {
+        "question": "Describing the overall shape of the device from a rear perspective, what geometrical term applies?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What type of connector is visibly attached to the device's rear panel, extending to the left?",
+        "answer": "Cable"
+      },
+      {
+        "question": "Observing the lower right corner of the rear panel, what kind of port is evident?",
+        "answer": "USB"
+      },
+      {
+        "question": "Examining the rear panel's left-hand side, what type of socket is present near the cable?",
+        "answer": "AC"
+      },
+      {
+        "question": "Focusing on the small text present on the back, what can be identified as it's nature?",
+        "answer": "Warning"
+      },
+      {
+        "question": "Based on the image, are there any noticeable vents or openings for heat dissipation?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent texture of the device's outer surface, smooth or rough?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging from the arrangement of ports, does this device appear compact?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the device seem to have any noticeable external switches or buttons?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image's perspective, is the top of the device shown?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall aesthetic impression: simple, complex or ornate?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Ignoring the cable, is the device predominantly flat?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

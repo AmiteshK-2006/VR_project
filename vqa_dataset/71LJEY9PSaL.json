@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/50/508cf985.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the frying pan's exterior?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What appears to be the primary material of the pan's body?",
+        "answer": "Aluminum"
+      },
+      {
+        "question": "What is the overall shape of the cooking surface?",
+        "answer": "Round"
+      },
+      {
+        "question": "What color is the non-stick surface of the pan?",
+        "answer": "Black"
+      },
+      {
+        "question": "Describe the texture of the pan's exterior, based on visual appearance.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent material of the handle?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What color is the handle of the frying pan?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the image, does the pan have a riveted handle?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the shape of the handle, as shown in the image?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Based on the visible features, is this a non-stick frying pan?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the image only, what is the apparent size of the pan?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Does the pan show any visible markings or branding on its body?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent finish of the pan's exterior?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Describe the overall visual style of the frying pan.",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the apparent thickness of the pan's body?",
+        "answer": "Thin"
+      }
+    ]
+  }
+]

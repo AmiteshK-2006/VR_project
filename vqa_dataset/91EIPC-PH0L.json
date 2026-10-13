@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4a/4acfbcd3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the image?",
+        "answer": "Navy"
+      },
+      {
+        "question": "What is the overall geometric pattern formed by the pleats?",
+        "answer": "Diamond"
+      },
+      {
+        "question": "What is the apparent texture of the pleated fabric, based solely on visual inspection?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describing the visual effect of the pleats, what is the overall look?",
+        "answer": "Elegant"
+      },
+      {
+        "question": "Considering the image's detail, what seems to be the main material?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "Judging from the image alone, what is the shape of the individual pleats?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Based on the visible stitching, what kind of seams are evident?",
+        "answer": "Concealed"
+      },
+      {
+        "question": "What is the apparent sheen or lack of sheen displayed by the fabric?",
+        "answer": "Slight"
+      },
+      {
+        "question": "What is the primary method used to create the design on the fabric?",
+        "answer": "Pleating"
+      },
+      {
+        "question": "How would you describe the visual density of the pleats in the provided image?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Considering the image details, how uniform is the pleating pattern?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Given the image, what is the general appearance of the fabric's surface?",
+        "answer": "Unblemished"
+      },
+      {
+        "question": "Based solely on the visual details, what is the main characteristic of the pleats?",
+        "answer": "Regular"
+      },
+      {
+        "question": "What is the implied drape or flow suggested by the fabric's pleats?",
+        "answer": "Soft"
+      },
+      {
+        "question": "From the image, is the fabric pattern symmetrical or asymmetrical?",
+        "answer": "Symmetrical"
+      }
+    ]
+  }
+]

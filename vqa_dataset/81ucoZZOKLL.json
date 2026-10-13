@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e6/e68e51cc.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color observed across the entire rug's surface?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering the overall texture, what is the apparent feel of the rug?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Based on its visual appearance, what is the most likely material composition of this rug?",
+        "answer": "Wool"
+      },
+      {
+        "question": "Describe the pattern observed throughout the rug's surface, ignoring minor irregularities.",
+        "answer": "Swirled"
+      },
+      {
+        "question": "What is the general shape of this floor covering, disregarding any minor edge imperfections?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging by the image, is the rug's pile low or high, considering the surface texture?",
+        "answer": "Low"
+      },
+      {
+        "question": "Considering the image's perspective, is the rug presented in its entirety or is a portion obscured?",
+        "answer": "Entire"
+      },
+      {
+        "question": "What is the apparent level of sheen or gloss displayed on the rug's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Describe the overall visual density of the design covering the rug's surface.",
+        "answer": "Dense"
+      },
+      {
+        "question": "Based on visible details, how would you characterize the rug's design complexity?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "If one were to run a hand across the surface, what would be the perceived smoothness or roughness?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Is the visible patterning consistent across the whole rug, or are there noticeable variations?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Judging by the visual clarity of edges, how precisely is the rug's shape defined?",
+        "answer": "Precise"
+      },
+      {
+        "question": "What is the apparent overall color variation across the entire rug's surface area?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "Can you describe the visual uniformity or non-uniformity of the rug's texture?",
+        "answer": "Uniform"
+      }
+    ]
+  }
+]

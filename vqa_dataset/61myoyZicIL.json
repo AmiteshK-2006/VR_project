@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/cb/cbb87ef6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the container's label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of the food container?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the primary material of the food container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What type of information is prominently displayed on the label?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Considering the label's texture, is it glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the general visual appearance of the contents within?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe the style of the font used on the nutritional information.",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Are there any discernible logos or branding elements on the container?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent texture of the food product itself?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Is the container transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Based on the label, what measurement unit is used for serving size?",
+        "answer": "Cups"
+      },
+      {
+        "question": "What color are the small circular graphics near the bottom?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Does the container feature a lid or a cover?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the overall format of the nutrition facts?",
+        "answer": "Table"
+      },
+      {
+        "question": "Is there any visible text other than the nutrition facts?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

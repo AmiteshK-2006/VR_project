@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/64/64b1b32e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout and textual content, what is the primary function of this rectangular item?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Examining the prominent numerical value displayed, what is the calorie count per serving?",
+        "answer": "120"
+      },
+      {
+        "question": "Focusing on the detailed breakdown of macronutrients, what is the total fat content in grams per serving?",
+        "answer": "4.5g"
+      },
+      {
+        "question": "Regarding saturated fats, what is the amount present in grams per serving, as clearly indicated?",
+        "answer": "3.5g"
+      },
+      {
+        "question": "What is the sodium content, in milligrams per serving, as specified on the label?",
+        "answer": "160mg"
+      },
+      {
+        "question": "According to the label, what is the total carbohydrate content in grams per serving?",
+        "answer": "19g"
+      },
+      {
+        "question": "What is the total sugar content, presented in grams per serving?",
+        "answer": "10g"
+      },
+      {
+        "question": "Based on the label's data, what is the amount of added sugar, in grams, per serving?",
+        "answer": "9g"
+      },
+      {
+        "question": "Focusing on the protein content, what is the value in grams per serving, as shown on the label?",
+        "answer": "1g"
+      },
+      {
+        "question": "What is the serving size, in ounces, as stated on the label?",
+        "answer": "1oz"
+      },
+      {
+        "question": "What is the approximate number of pieces per serving, according to the label's information?",
+        "answer": "16"
+      },
+      {
+        "question": "Based on the label's information, what is the approximate number of servings per container?",
+        "answer": "5"
+      },
+      {
+        "question": "What is the color scheme predominantly used in the text and background of this label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the rectangular food label?",
+        "answer": "Rectangle"
+      },
+      {
+        "question": "Observing the text's formatting, what is the style of the font used for 'Nutrition Facts'?",
+        "answer": "Bold"
+      }
+    ]
+  }
+]

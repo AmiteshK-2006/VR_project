@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/20/2012aa01.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout and typography, what is the predominant style of the presented information?",
+        "answer": "tabular"
+      },
+      {
+        "question": "What is the primary color used for the text in the header section of this nutritional information?",
+        "answer": "black"
+      },
+      {
+        "question": "Observing the textual content, what is the primary subject being detailed in this document?",
+        "answer": "nutrition"
+      },
+      {
+        "question": "Focusing on the numerical data presented, what is the unit of measurement consistently used for the 'Amount Per Serving' column?",
+        "answer": "grams"
+      },
+      {
+        "question": "What is the descriptive term used for the measured quantity of the primary ingredient in this product?",
+        "answer": "scoop"
+      },
+      {
+        "question": "What is the format of the numerical values indicating the percentage of daily values for each nutrient?",
+        "answer": "percent"
+      },
+      {
+        "question": "What unit is used to quantify the amount of protein present in one serving?",
+        "answer": "grams"
+      },
+      {
+        "question": "What is the term used to denote the amount of servings contained within the product's packaging?",
+        "answer": "servings"
+      },
+      {
+        "question": "What is the name of the nutritional component that is listed as having 20 grams in one serving?",
+        "answer": "collagen"
+      },
+      {
+        "question": "What is the unit of measurement employed for quantifying the amount of calcium in a single serving?",
+        "answer": "milligrams"
+      },
+      {
+        "question": "Based on visual observation, what is the orientation of the text throughout the document?",
+        "answer": "vertical"
+      },
+      {
+        "question": "What type of information does the section labeled 'Supplement Facts' provide?",
+        "answer": "nutritional"
+      },
+      {
+        "question": "Considering the formatting elements, what is used to separate the different nutritional components within the table?",
+        "answer": "lines"
+      },
+      {
+        "question": "What is the background color of the text and numerical information?",
+        "answer": "white"
+      },
+      {
+        "question": "What is the overall shape of the presented nutritional information?",
+        "answer": "rectangular"
+      }
+    ]
+  }
+]

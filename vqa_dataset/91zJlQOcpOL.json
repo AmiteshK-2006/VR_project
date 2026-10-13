@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/77/77838a97.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout and textual information presented, what is the primary subject depicted in the image?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Based on the visual prominence and size of the numerical data presented, what is the most visually striking value displayed in the image?",
+        "answer": "130"
+      },
+      {
+        "question": "What is the dominant color scheme employed in the design of the text and background elements of the displayed information?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Observing the style of the text used throughout the nutritional information panel, what is the overarching font style?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Analyzing the structure of the presented data, what specific dietary aspect occupies the largest section of the visual display?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Examining the layout and organization of data, what is the format used to structure and present the nutritional information?",
+        "answer": "Table"
+      },
+      {
+        "question": "Based on the visual presentation, what is the unit of measurement prominently associated with the caloric value?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Focusing on the textual content, what is the term used to denote a specific quantity of the product?",
+        "answer": "Scoop"
+      },
+      {
+        "question": "Considering the organization of the data in the image, what measurement is used to quantify the amount of product per container?",
+        "answer": "Servings"
+      },
+      {
+        "question": "What is the numerical value assigned to represent the total amount of protein in a single serving of the product?",
+        "answer": "25g"
+      },
+      {
+        "question": "Referring to the visual information presented on the product's nutritional facts, what is the percentage value associated with the daily value of total fat?",
+        "answer": "1%"
+      },
+      {
+        "question": "From the visual representation of nutritional values, what is the percentage daily value attributed to the sodium content?",
+        "answer": "9%"
+      },
+      {
+        "question": "Examining the text indicating the number of servings, what numerical value represents the total number of servings contained within the product packaging?",
+        "answer": "26"
+      },
+      {
+        "question": "Observing the visual presentation of the weight data, what is the weight of a single serving of the product in grams?",
+        "answer": "35g"
+      },
+      {
+        "question": "What is the weight of a single serving of the product as visually indicated?",
+        "answer": "35g"
+      }
+    ]
+  }
+]

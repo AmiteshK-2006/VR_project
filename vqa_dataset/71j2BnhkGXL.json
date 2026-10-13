@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/aa/aab833f3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the face mask depicted in the provided image?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary fabric type used in the construction of this face mask, as visually apparent?",
+        "answer": "Nonwoven"
+      },
+      {
+        "question": "Describe the texture of the face mask's fabric, based on visual observation of its folds and surface?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What is the shape of the face mask when laid flat, evident from the image provided?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the image, what is the overall design style of this particular face mask?",
+        "answer": "Pleated"
+      },
+      {
+        "question": "What material is predominantly used for the ear loops of this face covering, as shown in the image?",
+        "answer": "Elastic"
+      },
+      {
+        "question": "Judging from the image, what is the approximate width of the ear loops of the displayed face mask?",
+        "answer": "Wide"
+      },
+      {
+        "question": "What is the visible texture of the ear loops, as perceived from the image's visual representation?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on what is visible in the image, how many layers of fabric appear to make up the face mask?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "Describe the appearance of the fabric's pleats \u2014 are they sharp, soft, or irregular in the main image?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What seems to be the general feel of the mask based on its visible design and fabric?",
+        "answer": "Comfortable"
+      },
+      {
+        "question": "Does the face mask exhibit any noticeable patterns or prints on its surface, according to the given image?",
+        "answer": "No"
+      },
+      {
+        "question": "Based solely on the image, what is the visible construction of the ear loop attachment to the mask?",
+        "answer": "Seamed"
+      },
+      {
+        "question": "Considering the image alone, are there any visible reinforcement elements or stitching details on the mask?",
+        "answer": "No"
+      },
+      {
+        "question": "From the visual inspection, is the mask's material visibly thick or thin?",
+        "answer": "Thin"
+      }
+    ]
+  }
+]

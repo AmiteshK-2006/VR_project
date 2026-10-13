@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fa/fa719008.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the container's main body?",
+        "answer": "Black"
+      },
+      {
+        "question": "What material appears to constitute the product's container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the overall shape of the product packaging?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What color is the prominent band or label around the container?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "Describe the texture of the container's surface, based on the image.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What type of closure mechanism is visible on the container's top?",
+        "answer": "Screw-top"
+      },
+      {
+        "question": "What is the apparent color of the text on the label?",
+        "answer": "White"
+      },
+      {
+        "question": "Is the container's label primarily text-based or image-based?",
+        "answer": "Text-based"
+      },
+      {
+        "question": "Considering the packaging, what is the likely form of the contained product?",
+        "answer": "Powder"
+      },
+      {
+        "question": "What is the dominant design element on the back of the container?",
+        "answer": "Text"
+      },
+      {
+        "question": "Judging from the image, is the container transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What is the general size of the container, relative to common items?",
+        "answer": "Large"
+      },
+      {
+        "question": "Considering the text, what kind of product is it likely to be?",
+        "answer": "Supplement"
+      },
+      {
+        "question": "Are there any significant graphics or logos visible on the container?",
+        "answer": "No"
+      },
+      {
+        "question": "What color is the lid of the container?",
+        "answer": "Black"
+      }
+    ]
+  }
+]

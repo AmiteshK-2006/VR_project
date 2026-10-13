@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/89/891c8bdc.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall shape of the product depicted in the image, what single word best describes it?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What primary color dominates the packaging visible in the provided image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Based on the visual texture apparent in the image, what material is predominantly used in the product's construction?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Observing the text on the package, what is the most prominent descriptor of this food product, focusing only on visible text?",
+        "answer": "Coffee"
+      },
+      {
+        "question": "What is the most apparent secondary color present in the product's design, evident from the image?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Focusing solely on the visual aspects, what is the primary method of preparation implied by the images on the product?",
+        "answer": "Brewing"
+      },
+      {
+        "question": "Examining the image, what structural element seems crucial for hanging the coffee filter inside a mug?",
+        "answer": "Hook"
+      },
+      {
+        "question": "Describe the type of text predominantly used on the visible surface of the coffee packet.",
+        "answer": "Japanese"
+      },
+      {
+        "question": "Considering only what is visible, what seems to be the weight, in grams, of the coffee contained inside?",
+        "answer": "Seven"
+      },
+      {
+        "question": "From a visual inspection, is the packaging primarily glossy or matte in appearance?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the most prominent graphical element used aside from text, based solely on the image?",
+        "answer": "Symbols"
+      },
+      {
+        "question": "Judging from the visible image, what kind of coffee preparation does this product primarily cater to?",
+        "answer": "Drip"
+      },
+      {
+        "question": "What is the primary function indicated visually on this packaged product?",
+        "answer": "Brewing"
+      },
+      {
+        "question": "Based solely on the images, is there any form of a seal or a tear line observable on the pack?",
+        "answer": "Yes"
+      },
+      {
+        "question": "From the image, what kind of recyclable material is indicated on the packaging?",
+        "answer": "Plastic"
+      }
+    ]
+  }
+]

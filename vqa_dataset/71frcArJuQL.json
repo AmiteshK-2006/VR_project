@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/cb/cb33354c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape and flexible packaging, what is the primary form factor of the presented product?",
+        "answer": "Wrapper"
+      },
+      {
+        "question": "Observing the predominantly off-white background against the dark print, what is the main color scheme of the product packaging?",
+        "answer": "White"
+      },
+      {
+        "question": "Focusing on the texture suggested by the image, is the packaging material glossy, matte, or something else?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on the visual information, what type of print is used for the text and graphics on the product\u2019s package?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the primary function implied by the design and information conveyed on the package?",
+        "answer": "Packaging"
+      },
+      {
+        "question": "Analyzing the textual content, what specific information is predominantly provided on the wrapper?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Regarding the visible print, what is the apparent font style employed throughout the labeling?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Given the design and the details, what kind of product does this package most likely contain?",
+        "answer": "Food"
+      },
+      {
+        "question": "What is the visual style or design aesthetic conveyed by the simplicity of the labeling?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What type of barcode is depicted on the product's packaging for identification purposes?",
+        "answer": "UPC"
+      },
+      {
+        "question": "Judging by the image alone, is the product packaging transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Considering the visual elements, does the packaging feature any prominent logos or branding?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image, what is the general condition of the product's packaging?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "What is the shape of the nutrition information panel presented on the packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Observing the structural integrity of the packaging, does it appear to be intact and undamaged?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

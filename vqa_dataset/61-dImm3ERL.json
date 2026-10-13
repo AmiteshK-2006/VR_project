@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a3/a3b7a35f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color prominently displayed in the background of the product image?",
+        "answer": "Burgundy"
+      },
+      {
+        "question": "What is the typeface style of the product's name as shown in the image?",
+        "answer": "Cursive"
+      },
+      {
+        "question": "What grape varietal is specified for this wine, according to the image?",
+        "answer": "Malbec"
+      },
+      {
+        "question": "What is the wine's region of origin, as indicated visually in the image?",
+        "answer": "Mendoza"
+      },
+      {
+        "question": "Considering the visual presentation, what descriptor best characterizes the wine's body?",
+        "answer": "Light"
+      },
+      {
+        "question": "Based on the graphic representation, what term describes the wine's intensity?",
+        "answer": "Light"
+      },
+      {
+        "question": "What is the color of the text on the product image, excluding the background?",
+        "answer": "Gold"
+      },
+      {
+        "question": "Describe the overall visual style of the product's branding, as depicted in the image.",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What type of information is graphically illustrated regarding the wine's characteristics?",
+        "answer": "Intensity"
+      },
+      {
+        "question": "Considering the text, what adjective best reflects the overall quality of the wine?",
+        "answer": "Delicious"
+      },
+      {
+        "question": "What is the dominant orientation of text elements within the image?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What kind of visual element is used to represent the wine's body and intensity?",
+        "answer": "Slider"
+      },
+      {
+        "question": "Describe the visual arrangement of the 'Body' and 'Intensity' descriptions.",
+        "answer": "Linear"
+      },
+      {
+        "question": "What is the relative position of the wine varietal name compared to the region name?",
+        "answer": "Adjacent"
+      },
+      {
+        "question": "What is the visual form used to contrast the levels of 'Body' and 'Intensity'?",
+        "answer": "Triangle"
+      }
+    ]
+  }
+]

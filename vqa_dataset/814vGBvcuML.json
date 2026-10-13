@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/af/af92640e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall geometric shape of the tabletop, as viewed from above?",
+        "answer": "Triangular"
+      },
+      {
+        "question": "Considering the visible grain and tone, what type of wood appears to be used?",
+        "answer": "Oak"
+      },
+      {
+        "question": "Describe the dominant color of the wooden surface, ignoring any slight variations.",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the apparent finish of the wooden surface—is it glossy, matte, or something else?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on the image, does the wood grain run predominantly parallel or perpendicular to any edge?",
+        "answer": "Parallel"
+      },
+      {
+        "question": "Are there any noticeable knots or other significant imperfections visible in the wood?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the general visual texture of the tabletop surface—smooth, rough, or something in between?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the tabletop exhibit a uniform or non-uniform color distribution?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Focusing solely on the edges, are they sharply defined or somewhat rounded?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Considering its apparent size and thickness, what would be the most likely use for this object?",
+        "answer": "Tabletop"
+      },
+      {
+        "question": "Disregarding the wood grain, what is the single most visually prominent feature?",
+        "answer": "Shape"
+      },
+      {
+        "question": "Are there any visible signs of distressing or artificial aging applied to the wood?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the visual uniformity of the wood's color across the entire surface.",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Considering the visible details, is the wood likely solid wood or veneer?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Are there any visible markings or engravings present on the tabletop's surface?",
+        "answer": "No"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5f/5fe86594.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape and the detailed text layout, what is the primary format of this product's information?",
+        "answer": "Panel"
+      },
+      {
+        "question": "Based on the prominent header at the top, what specific type of information does this product panel display?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the color of the background where the nutritional values are displayed?",
+        "answer": "White"
+      },
+      {
+        "question": "Observing the text's visual characteristics, what is the primary font style used throughout the panel?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Looking at the structure, how many distinct sections are there for different nutritional components?",
+        "answer": "Nine"
+      },
+      {
+        "question": "What is the color of the text that presents the nutritional information in terms of percentages?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the general tone of the text color used for the main headings and subheadings?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Based on visual inspection, what is the most prominent numeric value displayed in terms of size and location?",
+        "answer": "70"
+      },
+      {
+        "question": "Considering the fine print at the bottom, what additional nutrients or minerals are listed along with their corresponding values?",
+        "answer": "Vitamins"
+      },
+      {
+        "question": "What is the unit of measurement used for the 'Serving Size' specification?",
+        "answer": "Ounces"
+      },
+      {
+        "question": "Observing the layout, what is the general arrangement of information within each section (e.g., horizontal, vertical)?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the method used to visually separate the different nutritional components (e.g., lines, spacing)?",
+        "answer": "Lines"
+      },
+      {
+        "question": "Looking at the numerical values for various nutritional components, what unit is used to quantify the amount of sodium?",
+        "answer": "mg"
+      },
+      {
+        "question": "What is the overall textual alignment across all sections within the nutrition panel?",
+        "answer": "Left"
+      },
+      {
+        "question": "In terms of the texture displayed, what kind of surface does the nutrition information panel appear to have?",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

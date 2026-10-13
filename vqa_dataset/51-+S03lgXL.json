@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/05/054c5ba6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what single-word descriptor best captures the dominant shape of this item as shown in the provided image?",
+        "answer": "Elongated"
+      },
+      {
+        "question": "Focusing on the primary color displayed prominently on the majority of the object's surface, what is it?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What is the most prominent secondary color visible on the side of the item, contrasting with the primary hue?",
+        "answer": "Pink"
+      },
+      {
+        "question": "Observing the item's surface texture, what is the appearance of the visible primary colored area?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Examining the object's structure, is it solid, or does it display visible internal components or layers?",
+        "answer": "Layered"
+      },
+      {
+        "question": "Based on the image's detail and lack thereof, what is the apparent overall texture of the object?",
+        "answer": "Silky"
+      },
+      {
+        "question": "Considering the object's apparent composition, what material seems most likely to be present?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the implied purpose or use of this item based solely on its form?",
+        "answer": "Packaging"
+      },
+      {
+        "question": "Describing the primary color's intensity, is it vivid and intense or muted and pale?",
+        "answer": "Vivid"
+      },
+      {
+        "question": "Looking at the object's form, what is the best single word to describe its curvature?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Considering the image's resolution and color depth, is the object's color representation exceptionally sharp or slightly indistinct?",
+        "answer": "Indistinct"
+      },
+      {
+        "question": "What is the most noticeable color gradient visible near the object's bottom?",
+        "answer": "White"
+      },
+      {
+        "question": "If the object was to be described by the orientation of its longest side, what would it be?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Disregarding any potential branding or text, what is the most descriptive term for the object's overall appearance?",
+        "answer": "Sleek"
+      },
+      {
+        "question": "Judging from the image's clarity, is the object's surface highly reflective, or relatively matte?",
+        "answer": "Matte"
+      }
+    ]
+  }
+]

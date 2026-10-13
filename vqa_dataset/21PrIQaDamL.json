@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9b/9bec6972.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the rectangular object shown?",
+        "answer": "Red"
+      },
+      {
+        "question": "Considering the object's dimensions, what is its overall shape?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on its appearance, what material seems to constitute the item?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Judging by the visual texture, what is the surface finish of the object?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the object exhibit any noticeable surface markings or patterns?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the product display any visible seams or stitching?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the item's form, what is its apparent primary function?",
+        "answer": "Storage"
+      },
+      {
+        "question": "Is there any visible branding, logos, or text on the product?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the photo, is the item flexible or rigid in its structure?",
+        "answer": "Rigid"
+      },
+      {
+        "question": "Based on the image, what is the approximate height of the object?",
+        "answer": "Twelve"
+      },
+      {
+        "question": "Does the image show any visible hardware or fasteners on the item?",
+        "answer": "No"
+      },
+      {
+        "question": "From the image, describe the object's overall visual aesthetic?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the apparent level of gloss or shine on the object's surface?",
+        "answer": "Low"
+      },
+      {
+        "question": "Based on its appearance, is the object likely waterproof or water-resistant?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by its visual properties, is the object likely heavy or lightweight?",
+        "answer": "Lightweight"
+      }
+    ]
+  }
+]

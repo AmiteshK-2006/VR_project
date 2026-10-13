@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/00/001ee932.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the container holding the product, as depicted in the provided image?",
+        "answer": "Bottle"
+      },
+      {
+        "question": "Considering the image, what is the predominant color of the liquid inside the bottle?",
+        "answer": "Red"
+      },
+      {
+        "question": "Based on the visual details, what appears to be the material of the product container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Judging from the image, what is the apparent texture of the bottle's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the shape of the top of the container, as shown in the image?",
+        "answer": "Round"
+      },
+      {
+        "question": "Describe the color of the bottle cap, as observed in the image.",
+        "answer": "White"
+      },
+      {
+        "question": "What kind of label is present on the container shown in the image?",
+        "answer": "Text"
+      },
+      {
+        "question": "Describe the background color of the label on the bottle in the given image.",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the primary color of the text present on the bottle label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the general design style of the label displayed on the container in the image?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Does the label include any images or illustrations, and if so, what is their general nature?",
+        "answer": "Botanical"
+      },
+      {
+        "question": "What is the apparent condition of the product's container based on the image provided?",
+        "answer": "Full"
+      },
+      {
+        "question": "Can you describe the overall style of the packaging visible in the image?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Is there any noticeable damage or imperfection visible on the product container in the image?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the image, is the container transparent, translucent, or opaque?",
+        "answer": "Opaque"
+      }
+    ]
+  }
+]

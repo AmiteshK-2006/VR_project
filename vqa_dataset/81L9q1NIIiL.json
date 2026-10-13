@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/92/92daaee5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what is the dominant color scheme visually apparent on the nutrition label?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the primary font style used for displaying the 'Nutrition Facts' header?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Judging from the image, what seems to be the text formatting for the values listed under each nutrient?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the shape of the text block that presents the nutritional information?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visual appearance, does the label show any noticeable graphics or illustrations?",
+        "answer": "No"
+      },
+      {
+        "question": "What seems to be the overall texture of the label's surface based on its visual appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From what you can visually discern, what is the size of the text relative to the entire label area?",
+        "answer": "Small"
+      },
+      {
+        "question": "Visually, what can you say about the spacing between various sections (e.g., 'Serving Size' and 'Amount Per Serving')?",
+        "answer": "Tight"
+      },
+      {
+        "question": "What is the apparent contrast between the text and the background of the nutrition facts label?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the arrangement or layout style of information within the nutrition fact box?",
+        "answer": "Columnar"
+      },
+      {
+        "question": "Judging only by the visual cues, does the label appear to have any visible damage or defects?",
+        "answer": "No"
+      },
+      {
+        "question": "What type of paper or material does the label appear to be printed on, based only on the image?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Considering the visible text, what is the unit of measurement used for the serving size?",
+        "answer": "tsp"
+      },
+      {
+        "question": "What is the visual format used to present the percentage of Daily Values (%DV)?",
+        "answer": "Parenthetical"
+      },
+      {
+        "question": "Does the label indicate any specific dietary claims or certifications visually?",
+        "answer": "No"
+      }
+    ]
+  }
+]

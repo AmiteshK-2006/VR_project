@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/cc/cc876e88.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary text's orientation displayed on the product's label?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the predominant color used for the text on the label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the background color of the label's informational text area?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "What is the primary subject of the textual information displayed?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Considering the label's structure, what is the type of text arrangement shown?",
+        "answer": "List"
+      },
+      {
+        "question": "What is the style of the typeface used for the labeling?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Given the style, what is the overall tone conveyed by the label's font?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "What is the nature of the ingredients detailed in the label's text?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What specific type of extract is explicitly listed among the ingredients?",
+        "answer": "Vanilla"
+      },
+      {
+        "question": "What additional information beyond ingredients is stated regarding manufacturing?",
+        "answer": "Facility"
+      },
+      {
+        "question": "What type of substance is mentioned in relation to facility processing?",
+        "answer": "Nuts"
+      },
+      {
+        "question": "Besides nuts, what dairy product is mentioned in the production details?",
+        "answer": "Milk"
+      },
+      {
+        "question": "What poultry product is noted as processed alongside nuts and milk?",
+        "answer": "Eggs"
+      },
+      {
+        "question": "What type of legume is included in the processing facility's details?",
+        "answer": "Soy"
+      },
+      {
+        "question": "What liquid is explicitly listed as an ingredient in this product?",
+        "answer": "Water"
+      }
+    ]
+  }
+]

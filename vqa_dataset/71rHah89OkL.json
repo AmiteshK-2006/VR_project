@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fe/fec2fd36.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the textual information prominently displayed on the packaging, what type of beverage is depicted?",
+        "answer": "Water"
+      },
+      {
+        "question": "Based on the visual depiction, what is the primary characteristic of this water?",
+        "answer": "Sparkling"
+      },
+      {
+        "question": "Observing the label, what descriptor indicates the flavor profile of this sparkling water?",
+        "answer": "Original"
+      },
+      {
+        "question": "What is the overall color scheme of the product packaging, specifically focusing on the background?",
+        "answer": "White"
+      },
+      {
+        "question": "What color is the logo prominently featured on the packaging, which seems to be an identifying mark of a brand?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What kind of text is used for the main product description, 'Refreshing Original Sparkling Water'?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the shape of the logo that is prominently displayed on the packaging,  a brand identifier?",
+        "answer": "Circular"
+      },
+      {
+        "question": "Considering the rectangular shape of the product packaging, what number shows the quantity in the package?",
+        "answer": "Twelve"
+      },
+      {
+        "question": "What is the general texture implied by the background design of the packaging, possibly indicative of bubbles?",
+        "answer": "Fizzy"
+      },
+      {
+        "question": "What is the style of text used for the branding details, suggesting a particular aesthetic?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Looking at the bar code situated on the right, what is its function on a product package?",
+        "answer": "Identification"
+      },
+      {
+        "question": "What is the format of the nutrition facts that are provided on the left of the product packaging?",
+        "answer": "List"
+      },
+      {
+        "question": "What is the orientation of the main textual descriptions on the packaging, regarding the product details?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What type of packaging is used for this product, shown in the given image?",
+        "answer": "Box"
+      },
+      {
+        "question": "What is the general appearance of the text font used on the package, pertaining to the brand logo?",
+        "answer": "Bold"
+      }
+    ]
+  }
+]

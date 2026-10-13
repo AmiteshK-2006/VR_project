@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/88/88f2907b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the battery casing, as visibly apparent in the provided image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the image, what is the overall three-dimensional shape of the battery pack?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the image, what material appears to constitute the outer shell of the battery?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What prominent branding is visible on the surface of the battery pack, as shown in the picture?",
+        "answer": "Amazon"
+      },
+      {
+        "question": "Observing the provided image, what is the text indicating the battery's voltage rating?",
+        "answer": "7.4V"
+      },
+      {
+        "question": "What is the visible text specifying the battery's capacity in milliampere-hours (mAh)?",
+        "answer": "1800mAh"
+      },
+      {
+        "question": "From the image, what type of battery technology is explicitly stated on the battery?",
+        "answer": "Lithium"
+      },
+      {
+        "question": "What safety warning is prominently displayed on the battery's label in the image?",
+        "answer": "Caution"
+      },
+      {
+        "question": "What is the visible text stating the country of manufacture of this battery?",
+        "answer": "China"
+      },
+      {
+        "question": "What is visible on the label that indicates the compliance with certain safety and quality standards?",
+        "answer": "CE"
+      },
+      {
+        "question": "What is the visible text specifying the battery's energy capacity in watt-hours (Wh)?",
+        "answer": "13.3Wh"
+      },
+      {
+        "question": "Based on the visible text in the image, for which brand of camcorders is this battery designed?",
+        "answer": "Canon"
+      },
+      {
+        "question": "What is visible on the image that indicates the battery's model or product identifier?",
+        "answer": "12270"
+      },
+      {
+        "question": "What are the visible metallic contact points on the battery, as shown in the product image?",
+        "answer": "Terminals"
+      },
+      {
+        "question": "Describe the visible texture of the battery's casing as seen in the provided image.",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

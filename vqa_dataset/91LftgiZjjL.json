@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5a/5a8e4000.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the bottle's main body, as shown in the image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What material appears to constitute the bottle's primary structure, based on visual inspection?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Considering the image, what type of closure does the bottle possess at its apex?",
+        "answer": "Screw-top"
+      },
+      {
+        "question": "What is the color of the printed text on the label, which is visible around the bottle's circumference?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on what's visible, what is the overall shape of the product container?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Observing the image closely, what is the apparent texture of the bottle's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Is there a seal visible on the product bottle in the provided image?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What appears to be the color of the seal on the bottle's cap, considering the visual evidence?",
+        "answer": "Silver"
+      },
+      {
+        "question": "Does the image clearly show any noticeable damage or defects on the bottle itself?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent state of the bottle's label—is it clean and intact?",
+        "answer": "Intact"
+      },
+      {
+        "question": "Judging from the image, what is the visible color of the text indicating the product's name?",
+        "answer": "Green"
+      },
+      {
+        "question": "Considering the visual detail, is the bottle depicted full or partially empty?",
+        "answer": "Full"
+      },
+      {
+        "question": "What is the general format of the text appearing on the bottle's side panel?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Can you identify any visible markings other than text on the bottle?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on what's shown, what is the color of the small symbols or logo near the bar code?",
+        "answer": "Black"
+      }
+    ]
+  }
+]

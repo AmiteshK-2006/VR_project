@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/24/247b8881.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary textual element dominating the visual field of this rectangular nutritional fact label?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Considering the overall design, what is the prominent numerical value displayed, representing a key metric per serving?",
+        "answer": "410"
+      },
+      {
+        "question": "What is the specified measurement unit for the calorie count presented on this nutritional label?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Based on the provided nutritional information, what is the total amount of carbohydrates listed per serving, in grams?",
+        "answer": "50g"
+      },
+      {
+        "question": "What is the listed amount of sodium per serving, expressed in milligrams?",
+        "answer": "240mg"
+      },
+      {
+        "question": "Considering the label's layout and information hierarchy, what is the total fat content per serving in grams?",
+        "answer": "22g"
+      },
+      {
+        "question": "Examining the typography and organization, what is the stated serving size of the product?",
+        "answer": "Pie"
+      },
+      {
+        "question": "According to the label's detailed breakdown of nutrients, what is the total sugar content per serving, in grams?",
+        "answer": "30g"
+      },
+      {
+        "question": "What is the designated quantity of servings included in the entire package of the product?",
+        "answer": "6"
+      },
+      {
+        "question": "Looking at the detailed nutrient breakdown, what is the protein content of each serving, quantified in grams?",
+        "answer": "4g"
+      },
+      {
+        "question": "In terms of the visual presentation of the information, what is the specified weight, in grams, of a single serving?",
+        "answer": "123g"
+      },
+      {
+        "question": "Observing the distinct sections of the label's structured information, what is the amount of saturated fat present per serving, measured in grams?",
+        "answer": "14g"
+      },
+      {
+        "question": "What is the specified dietary fiber content per serving in grams?",
+        "answer": "2g"
+      },
+      {
+        "question": "Considering the font, what is the unit used to quantify the cholesterol level per serving?",
+        "answer": "mg"
+      },
+      {
+        "question": "Referring to the visual arrangement of the data, what is the type of nutrient displayed just below the total fat information?",
+        "answer": "Saturated"
+      }
+    ]
+  }
+]

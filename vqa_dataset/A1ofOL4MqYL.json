@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4b/4b6f7d55.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the visible fabric?",
+        "answer": "Navy"
+      },
+      {
+        "question": "What is the apparent texture of the displayed material?",
+        "answer": "Suede"
+      },
+      {
+        "question": "Considering the visual appearance, what is the likely material type?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Based on the image, is the surface of the material uniformly colored?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the visual texture suggest a smooth or rough surface finish?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Judging by the image, what is the overall tone of the presented fabric?",
+        "answer": "Dark"
+      },
+      {
+        "question": "From the image, describe the visible grain or pattern of the fabric?",
+        "answer": "None"
+      },
+      {
+        "question": "Does the material exhibit any noticeable sheen or glossiness?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent level of detail or clarity in the material texture?",
+        "answer": "Fine"
+      },
+      {
+        "question": "Judging by appearance, how would you describe the material's surface uniformity?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Based solely on the visual, does the fabric appear to be woven or non-woven?",
+        "answer": "Non-woven"
+      },
+      {
+        "question": "From the visual details, what is the primary visual characteristic of the fabric?",
+        "answer": "Color"
+      },
+      {
+        "question": "Does the image suggest any significant variations in the fabric's coloring?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the picture, how would you rate the material's visual density?",
+        "answer": "High"
+      },
+      {
+        "question": "Based on the image alone, is there any visible pattern in the fabric's texture?",
+        "answer": "No"
+      }
+    ]
+  }
+]

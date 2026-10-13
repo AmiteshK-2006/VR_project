@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/dd/dd252eca.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the presented pharmaceutical capsule?",
+        "answer": "Oval"
+      },
+      {
+        "question": "What dominant color characterizes the exterior of the capsule?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent surface finish of the capsule?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image, what appears to be the primary material composition of the capsule?",
+        "answer": "Gelatin"
+      },
+      {
+        "question": "Judging by the image, does the capsule exhibit any visible markings or imprints?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent size of the capsule relative to the provided scale?",
+        "answer": "Small"
+      },
+      {
+        "question": "From the image, can you determine if the capsule has a discernible coating?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the image show any visible internal components within the capsule?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the approximate length of the capsule, visually estimated?",
+        "answer": "One"
+      },
+      {
+        "question": "Considering the image's clarity, is the capsule's surface uniformly colored?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the visual appearance, is the capsule translucent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Does the image reveal any evidence of damage or defects on the capsule?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by its look, is the capsule designed for oral administration?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the capsule appear to be filled with a visibly distinct substance?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the provided scale, is the capsule exceptionally large or small?",
+        "answer": "Small"
+      }
+    ]
+  }
+]

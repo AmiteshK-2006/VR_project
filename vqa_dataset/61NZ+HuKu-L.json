@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3d/3dfb68ea.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the packaging, as shown in the provided image?",
+        "answer": "White"
+      },
+      {
+        "question": "Observing the product's packaging, what is the primary text color used?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the image, what single word describes the product's overall shape?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary material evident in the packaging of the cleansing wipes, as seen in the picture?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Considering the packaging design, what is the most prominent textual feature?",
+        "answer": "Branding"
+      },
+      {
+        "question": "Describe the texture of the packaging shown in the image, relative to other materials.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the general layout of the product information on the package?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What descriptive word best characterizes the typeface used for the product name?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What kind of additional text is visible below the main product description?",
+        "answer": "Multilingual"
+      },
+      {
+        "question": "What is the indicated function of the product as displayed on the packaging?",
+        "answer": "Cleansing"
+      },
+      {
+        "question": "What is explicitly stated as a key feature of the product regarding skin type?",
+        "answer": "Sensitive"
+      },
+      {
+        "question": "Considering the presented image, what is the stated scent of the product?",
+        "answer": "Fragrance-free"
+      },
+      {
+        "question": "Based on the image, what adjective describes the testing status of the product?",
+        "answer": "Dermatologically"
+      },
+      {
+        "question": "What is the explicit claim regarding skin type compatibility?",
+        "answer": "All"
+      },
+      {
+        "question": "What is the product's purpose based on its packaging?",
+        "answer": "Wipes"
+      }
+    ]
+  }
+]

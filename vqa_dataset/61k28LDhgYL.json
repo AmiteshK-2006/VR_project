@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/42/42d40e0b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the provided text, what primary ingredient is explicitly detailed as being purified?",
+        "answer": "Oil"
+      },
+      {
+        "question": "Based on the label, what specific type of ingredient is used to help maintain freshness, and which plant is it derived from?",
+        "answer": "Soy"
+      },
+      {
+        "question": "What type of fish, according to the ingredients list, is explicitly mentioned as being included?",
+        "answer": "Tuna"
+      },
+      {
+        "question": "The label lists various fish; name one which is known for its oily flesh and is often used in culinary applications.",
+        "answer": "Salmon"
+      },
+      {
+        "question": "What common food additive, used as a binding or gelling agent, is present in the product, as indicated by the label?",
+        "answer": "Gelatin"
+      },
+      {
+        "question": "What kind of substance, a natural compound found in many fats and oils, is listed among the ingredients?",
+        "answer": "Glycerin"
+      },
+      {
+        "question": "What's mentioned as being used to enhance the product's taste profile, according to the ingredients list?",
+        "answer": "Flavor"
+      },
+      {
+        "question": "What liquid, a crucial component of most living organisms, is purified and included in the recipe, as stated in the label?",
+        "answer": "Water"
+      },
+      {
+        "question": "According to the ingredient list, what is another crucial component commonly used in confectionery and other food products?",
+        "answer": "Gelatin"
+      },
+      {
+        "question": "What type of fish, commonly found in coastal waters and occasionally used in canning or other food preservation techniques, appears on the list of ingredients?",
+        "answer": "Sardine"
+      },
+      {
+        "question": "Referring to the text, what specific fish, also known as a clupeid fish, is mentioned as a component of this product?",
+        "answer": "Herring"
+      },
+      {
+        "question": "Besides fish, what other type of ingredient is explicitly mentioned as being present and coming from a plant-based source?",
+        "answer": "Soy"
+      },
+      {
+        "question": "What type of nut, frequently associated with allergic reactions, is mentioned in the text as potentially being processed in the same facility?",
+        "answer": "Peanut"
+      },
+      {
+        "question": "According to the label, what food commonly used in baking and many other food preparations was processed in the same location?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "What type of food, frequently associated with allergic reactions, is mentioned as having been processed in the same location?",
+        "answer": "Milk"
+      }
+    ]
+  }
+]

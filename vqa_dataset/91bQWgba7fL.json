@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/20/201524cc.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the dinnerware set, as visibly apparent in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe the visible banding pattern encircling each piece of the dinnerware set, based on visual observation?",
+        "answer": "Striped"
+      },
+      {
+        "question": "Considering only visual evidence, what color are the stripes decorating the edges of the plates and bowl?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Based solely on visual inspection, what appears to be the material of the dinner plates and bowl shown?",
+        "answer": "Porcelain"
+      },
+      {
+        "question": "Judging from the image alone, what is the overall shape of the individual dinner plates presented?",
+        "answer": "Round"
+      },
+      {
+        "question": "From the image, what seems to be the apparent finish of the dinnerware surface?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What is the number of visible blue lines forming the stripe pattern on each dish?",
+        "answer": "Two"
+      },
+      {
+        "question": "Focusing only on the visual details, what is the apparent style of the dinnerware set?",
+        "answer": "Classic"
+      },
+      {
+        "question": "Considering only the provided image, what is the visible number of pieces in the set displayed?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the apparent size relationship between the dinner plate, bowl, and mug depicted?",
+        "answer": "Nested"
+      },
+      {
+        "question": "Based on the image, what is the visible texture of the dinnerware?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent design element running around each piece of this dinnerware set?",
+        "answer": "Lines"
+      },
+      {
+        "question": "What is the visible shape of the included serving bowl from the image?",
+        "answer": "Round"
+      },
+      {
+        "question": "Based purely on visual inspection, what seems to be the primary function of the presented items?",
+        "answer": "Dining"
+      },
+      {
+        "question": "What is the visible style of the mug handle, present on the smaller mug in the image?",
+        "answer": "Curved"
+      }
+    ]
+  }
+]

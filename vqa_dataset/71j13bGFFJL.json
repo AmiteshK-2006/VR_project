@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f0/f0d62e1c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form and structure, what is the dominant shape of the product container?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the apparent material composition of the primary body of the product container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on the visual appearance, what is the prevailing color of the container?",
+        "answer": "White"
+      },
+      {
+        "question": "Examining the top of the bottle, what type of closure or cap is present?",
+        "answer": "Flip-top"
+      },
+      {
+        "question": "Observing the label, what appears to be the dominant color of the graphic design elements?",
+        "answer": "Green"
+      },
+      {
+        "question": "Analyzing the label's textual content, what is indicated to be the nature of the product?",
+        "answer": "Conditioner"
+      },
+      {
+        "question": "Focusing on the label, what is the discernible visual element accompanying the text?",
+        "answer": "Leaves"
+      },
+      {
+        "question": "What is the texture of the product container judging by the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the product's presentation, what is the likely intended usage?",
+        "answer": "Hair"
+      },
+      {
+        "question": "By observing the label, what does it convey regarding the product's attributes?",
+        "answer": "Hydrating"
+      },
+      {
+        "question": "Based on the visual information, does the container appear to be transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Examining the bottle, does it have a visible manufacturing marking or a barcode?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the label, what is the overall impression of the design style?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Based solely on the image, what kind of label does this product have?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Judging by the visual details, what is the general condition of the product container?",
+        "answer": "New"
+      }
+    ]
+  }
+]

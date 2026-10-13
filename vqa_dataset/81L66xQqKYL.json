@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/16/16c1f19f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the primary shape of the depicted product, as shown in the packaging image?",
+        "answer": "Elongated"
+      },
+      {
+        "question": "Based on the image, what appears to be the dominant color of the item illustrated on the packaging?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "Judging from the visual representation, what material is explicitly claimed to be used in the manufacturing of the product shown?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "From the packaging image, what word is used to describe the product's impact on sensitive skin?",
+        "answer": "Hypoallergenic"
+      },
+      {
+        "question": "Observing the image, what specific term describes the cotton used in the product's production, as labeled on the packaging?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Analyzing the illustration, is there a noticeable presence of any sort of applicator or dispensing mechanism depicted in the product's packaging?",
+        "answer": "Yes"
+      },
+      {
+        "question": "According to the provided visual, does the product seem to have any evident surface texture, such as smoothness or roughness?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based solely on the packaging's image, does the product seem to have any discernible pattern or design elements printed on it?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image, can you identify if the product appears to possess a single-use or reusable characteristic based on its visual presentation alone?",
+        "answer": "Single-use"
+      },
+      {
+        "question": "Referring only to the image, is there any evidence of packaging or wrapping material other than what is shown on the packaging itself?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image, does the product shown in the packaging seem to have any individually identifiable markings or labels aside from what's shown?",
+        "answer": "No"
+      },
+      {
+        "question": "From just the picture, is there any indication suggesting that the item might be individually sealed, wrapped, or contained within a secondary wrapper?",
+        "answer": "No"
+      },
+      {
+        "question": "Based only on the visual, does the product in the image seem to have a noticeable level of flexibility or rigidity?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Considering the image, does the product's visual presentation suggest a disposable or a long-term use design?",
+        "answer": "Disposable"
+      },
+      {
+        "question": "Based solely on the packaging illustration, does the product appear to include any additional components or accessories besides what is clearly shown?",
+        "answer": "No"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/06/0658d1fc.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the detailed visual presentation, what is the primary subject depicted in the image's entirety?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Based on the image's visual layout and textual elements, what specific type of information is prominently showcased?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Observing the textual elements, what is the quantitative value listed for 'Calories' per serving?",
+        "answer": "90"
+      },
+      {
+        "question": "Examining the visual structure of the data, what is the serving size expressed in terms of weight?",
+        "answer": "28g"
+      },
+      {
+        "question": "What is the specified unit of measurement used for the 'Total Fat' quantity?",
+        "answer": "g"
+      },
+      {
+        "question": "According to the image's numerical data, what is the percentage of the daily value for 'Total Fat'?",
+        "answer": "1%"
+      },
+      {
+        "question": "What is the numerical value displayed for 'Sodium' content, expressed in milligrams?",
+        "answer": "125mg"
+      },
+      {
+        "question": "In terms of the image's provided information, what is the numerical value listed for 'Total Carbohydrate'?",
+        "answer": "13g"
+      },
+      {
+        "question": "Based solely on the image's visual components, what is the unit of measurement for dietary fiber?",
+        "answer": "g"
+      },
+      {
+        "question": "What is the percentage daily value associated with 'Dietary Fiber', as visually presented?",
+        "answer": "4%"
+      },
+      {
+        "question": "Referring to the image's numerical data, what is the amount of 'Total Sugars', as visually shown?",
+        "answer": "3g"
+      },
+      {
+        "question": "What is the amount of 'Added Sugars', in grams, shown in the image?",
+        "answer": "1g"
+      },
+      {
+        "question": "What is the specified quantity of 'Protein', expressed in grams, as visually presented?",
+        "answer": "2g"
+      },
+      {
+        "question": "Focusing on the visual presentation, what is the value for 'Vitamin D', in micrograms?",
+        "answer": "0mcg"
+      },
+      {
+        "question": "Based on the image's visual information, what is the numerical value for 'Potassium', expressed in milligrams?",
+        "answer": "0mg"
+      }
+    ]
+  }
+]

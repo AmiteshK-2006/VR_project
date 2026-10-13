@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1e/1e4c093d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the font style and size variations within the text block, what is the overall text layout design?",
+        "answer": "List"
+      },
+      {
+        "question": "What is the primary color used for the background of the ingredient list?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the text's visual appearance, what is the likely printing method used for this ingredient list?",
+        "answer": "Digital"
+      },
+      {
+        "question": "Observing the text's arrangement, what is the primary organizational structure employed to list the ingredients?",
+        "answer": "Hierarchical"
+      },
+      {
+        "question": "Considering the text's density and line spacing, what impression is conveyed regarding the quantity of listed ingredients?",
+        "answer": "Abundant"
+      },
+      {
+        "question": "Judging from the typeface and letter casing, what style is employed in presenting the ingredient names?",
+        "answer": "Formal"
+      },
+      {
+        "question": "Focusing on the 'CONTAINS' statement at the bottom, what is the color of its text?",
+        "answer": "Black"
+      },
+      {
+        "question": "Observing the visual hierarchy, what is the text size relative to the main ingredient categories?",
+        "answer": "Smaller"
+      },
+      {
+        "question": "Considering the formatting, what punctuation is used to separate distinct ingredient components within the parentheses?",
+        "answer": "Commas"
+      },
+      {
+        "question": "Regarding the visual prominence, what is the case used for the word 'INGREDIENTS' at the start of the list?",
+        "answer": "Upper"
+      },
+      {
+        "question": "What is the overall visual impression regarding the readability of the listed ingredients?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Based on the text's alignment, what is the dominant horizontal positioning of the ingredient list?",
+        "answer": "Left"
+      },
+      {
+        "question": "Considering the visual weight, how much space is dedicated to the 'CONTAINS' statement relative to the main ingredient list?",
+        "answer": "Less"
+      },
+      {
+        "question": "Regarding the font, what is the general weight or thickness of the lettering used throughout the ingredient list?",
+        "answer": "Regular"
+      },
+      {
+        "question": "What is the orientation of the text block on the page, as depicted in the image?",
+        "answer": "Vertical"
+      }
+    ]
+  }
+]

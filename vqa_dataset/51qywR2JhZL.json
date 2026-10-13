@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/28/28996636.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the packaging shown in the image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the overall shape of the product's packaging as depicted?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the primary material composing the product's container?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Considering the image, what kind of text is prominently displayed on the packaging?",
+        "answer": "Descriptive"
+      },
+      {
+        "question": "Based on the image, what is the general finish or texture of the packaging surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the packaging in the image show any noticeable graphics or illustrations?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image, are there any noticeable embossed or debossed elements on the package?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the orientation of the text presented on the visible side of the packaging?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "From the image, what is the apparent size of the depicted product packaging relative to a typical hand?",
+        "answer": "Long"
+      },
+      {
+        "question": "What kind of code, if any, is visible on the packaging in the provided image?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "Based on the image, does the packaging appear to be sealed or openable?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Does the product packaging display any symbols or logos aside from text?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent condition of the product packaging in the given image?",
+        "answer": "New"
+      },
+      {
+        "question": "From observing the image, what language(s) seem to be used in the packaging text?",
+        "answer": "English"
+      },
+      {
+        "question": "Considering the image, how many distinct panels are apparent on the packaging's visible side?",
+        "answer": "One"
+      }
+    ]
+  }
+]

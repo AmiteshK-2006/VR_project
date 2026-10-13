@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/58/58868331.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the depicted shipping box?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What appears to be the primary material used for the packaging box?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Describe the overall three-dimensional form of the presented product.",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the visible surface, what is the apparent texture of the box?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image, are there any noticeable markings or printing on the box?",
+        "answer": "None"
+      },
+      {
+        "question": "Does the box exhibit a glossy or matte finish, judging from its visual appearance?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the apparent condition of the outer packaging; is it damaged or intact?",
+        "answer": "Intact"
+      },
+      {
+        "question": "Considering its size relative to the person, how would you describe the box's dimensions?",
+        "answer": "Small"
+      },
+      {
+        "question": "Is the box presented sealed, open, or partially opened, based on the image?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "What is the apparent weight of the package, based solely on visual inspection?",
+        "answer": "Light"
+      },
+      {
+        "question": "Does the box's shape suggest any specific purpose, judging from visual clues?",
+        "answer": "Shipping"
+      },
+      {
+        "question": "Judging by its appearance, is the box designed for single or multiple items?",
+        "answer": "Single"
+      },
+      {
+        "question": "What is the apparent manufacturing quality of the shown packaging based on visual cues?",
+        "answer": "Standard"
+      },
+      {
+        "question": "Based on the visuals, is the packaging rigid or flexible in its structural integrity?",
+        "answer": "Rigid"
+      },
+      {
+        "question": "Does the provided image depict any additional components along with the box?",
+        "answer": "None"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/45/4523001d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the shoe's outsole as shown in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the apparent texture of the shoe's outsole, based on visible patterns?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Considering the image, what is the overall shape of the shoe's sole?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging by the image, what material seems to constitute the shoe's sole?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Based solely on the visual evidence, what is the pattern on the outsole?",
+        "answer": "Grid"
+      },
+      {
+        "question": "Does the image reveal any noticeable branding or logos on the outsole?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent thickness of the sole, as visible in the provided image?",
+        "answer": "Moderate"
+      },
+      {
+        "question": "Judging from the image, is the sole's surface smooth or patterned?",
+        "answer": "Patterned"
+      },
+      {
+        "question": "Does the image show any visible wear or damage to the shoe's sole?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the general appearance of the outsole's edge or perimeter?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image, what seems to be the flexibility of the shoe's sole?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Considering the visible texture, is the outsole likely to provide good grip?",
+        "answer": "Yes"
+      },
+      {
+        "question": "From the image, does the sole appear to be made from a single piece of material?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on visual inspection, how would you describe the overall condition of the outsole?",
+        "answer": "New"
+      },
+      {
+        "question": "Considering the image, what is the visible design feature on the outsole?",
+        "answer": "Lines"
+      }
+    ]
+  }
+]

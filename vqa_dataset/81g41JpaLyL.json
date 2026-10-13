@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f7/f7e93d5b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the container shown in the provided image?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the overall shape, what geometric form best describes the product container?",
+        "answer": "Cylinder"
+      },
+      {
+        "question": "What is the predominant material visually apparent in the construction of the product container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Examining the label, what is the primary method used for displaying product information?",
+        "answer": "Print"
+      },
+      {
+        "question": "Does the product container exhibit any visible texture, and if so, what is the nature of the texture?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the visual inspection, what is the overall height of the product container, relative to the label's visible portion?",
+        "answer": "Tall"
+      },
+      {
+        "question": "Are there any discernible graphics or logos apparent on the product container's label?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the visual information present, what kind of information is prominently displayed on the label?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the apparent font style used for the text on the nutrition label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the color of the text present on the label, contrasting with the background?",
+        "answer": "Black"
+      },
+      {
+        "question": "Judging from the visual appearance, what is the estimated volume or size capacity of the product container?",
+        "answer": "Large"
+      },
+      {
+        "question": "Does the image clearly show any visible markings, codes, or unique identifiers on the container?",
+        "answer": "No"
+      },
+      {
+        "question": "Is there any evidence of a cap or lid on the container in the shown image?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the provided visual data, is the product container transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Judging by the visual data, does the container have any noticeable imperfections or damages?",
+        "answer": "No"
+      }
+    ]
+  }
+]

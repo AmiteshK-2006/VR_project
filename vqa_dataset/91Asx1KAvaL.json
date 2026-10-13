@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/73/73dec3bf.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the device's outer casing?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary material used in the device's construction?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the visible ports, what type of network connection does this device seem to support?",
+        "answer": "Ethernet"
+      },
+      {
+        "question": "Based on the image, how many Ethernet ports are clearly visible on the device's exterior?",
+        "answer": "Two"
+      },
+      {
+        "question": "Describe the general shape or form factor of the depicted device.",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Observing the ports' labeling, what is indicated as the input connection point?",
+        "answer": "In"
+      },
+      {
+        "question": "What is indicated as the output connection point on the device?",
+        "answer": "Out"
+      },
+      {
+        "question": "What seems to be the texture of the outer surface of the device?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the device show any visible screws or fastening elements?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging by its appearance, what is the likely function of this device?",
+        "answer": "Networking"
+      },
+      {
+        "question": "Considering the visible ports, what kind of cables would likely connect to this device?",
+        "answer": "Network"
+      },
+      {
+        "question": "Does the device show any visible branding, logos, or labels besides the port markings?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the overall design aesthetic of the device; is it minimalist or ornate?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the apparent size relative to a human hand (e.g., small, medium, large)?",
+        "answer": "Small"
+      },
+      {
+        "question": "Considering the visible construction, does it seem rugged or delicate?",
+        "answer": "Rugged"
+      }
+    ]
+  }
+]

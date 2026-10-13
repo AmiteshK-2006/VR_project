@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/86/86412db1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color scheme of the nutritional information panel?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What is the primary font style used to display the 'Calories' value, considering its size and weight?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Judging by the visual structure, how many servings are indicated per container, as depicted in the top section?",
+        "answer": "Four"
+      },
+      {
+        "question": "Based on visual inspection of the data table, what is the approximate serving size in grams, as presented numerically?",
+        "answer": "88"
+      },
+      {
+        "question": "What is the numerical value displayed for 'Total Fat' in grams, as shown in the fat content section?",
+        "answer": "0"
+      },
+      {
+        "question": "Focusing on the sodium content, what is the numerical value presented in milligrams, considering its position in the table?",
+        "answer": "410"
+      },
+      {
+        "question": "What is the numerical value shown for 'Total Sugars' in grams as depicted in the carbohydrate section?",
+        "answer": "4"
+      },
+      {
+        "question": "What numerical value is provided for 'Protein' in grams, shown within the macronutrient section?",
+        "answer": "9"
+      },
+      {
+        "question": "Observing the data table, what is the numerical value for 'Potassium' listed in milligrams, regarding the mineral content?",
+        "answer": "310"
+      },
+      {
+        "question": "Examining the visual layout, what is the term used to represent the reference values for daily intake?",
+        "answer": "Daily"
+      },
+      {
+        "question": "What is the unit of measurement used consistently throughout the table for quantities of various nutrients?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Based purely on visual observation, what is the general shape of the nutritional information panel?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the type of text used to list the various nutrients, considering its style and size?",
+        "answer": "Regular"
+      },
+      {
+        "question": "In terms of visual prominence, how is the 'Calories' value presented compared to other nutritional information?",
+        "answer": "Larger"
+      },
+      {
+        "question": "Considering the visual arrangement, where is the 'Serving Size' information positioned relative to the 'Calories' data?",
+        "answer": "Above"
+      }
+    ]
+  }
+]

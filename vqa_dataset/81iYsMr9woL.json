@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5c/5c9c8540.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the prominent text displayed at the very top of the depicted nutritional information panel?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Considering the overall visual design, what is the primary color scheme used throughout the nutritional facts panel?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the primary shape of the nutritional facts panel, as clearly visible in the provided image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on visual observation of the information provided, what is the numerical value of calories per serving?",
+        "answer": "170"
+      },
+      {
+        "question": "What is the unit of measurement used to express the serving size in the given nutritional facts label?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the total amount of fat, in grams, per serving as visually presented on the label?",
+        "answer": "12"
+      },
+      {
+        "question": "Visually examine the label: what is the quantitative value for total carbohydrates listed in grams?",
+        "answer": "15"
+      },
+      {
+        "question": "Observe the label carefully; what is the value in grams of dietary fiber per serving according to the visual information presented?",
+        "answer": "2"
+      },
+      {
+        "question": "Referring to the image, what is the quantitative value for total sugars in grams per serving as shown on the label?",
+        "answer": "14"
+      },
+      {
+        "question": "What is the amount of added sugar in grams per serving, as clearly indicated on the nutritional facts panel?",
+        "answer": "13"
+      },
+      {
+        "question": "According to the image, what is the quantity of protein, in grams, provided per serving?",
+        "answer": "1"
+      },
+      {
+        "question": "Based on the visual data, what is the amount of sodium in milligrams per serving as indicated on the provided nutritional label?",
+        "answer": "95"
+      },
+      {
+        "question": "Examining the label visually, what is the percentage of the daily value for total fat as displayed on the provided nutrition label?",
+        "answer": "15"
+      },
+      {
+        "question": "What is the percentage of the daily value for total carbohydrates as shown on the provided nutritional facts panel?",
+        "answer": "5"
+      },
+      {
+        "question": "What is the visual representation of the measurement unit for cholesterol (mg, g, etc.) on this nutritional label?",
+        "answer": "mg"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f7/f7915b67.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary text displayed prominently across the top of the image?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Considering the organizational structure, what specific dietary component is prominently featured in the numerical values?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Based on the visual layout, what is the total calorie count per serving, as depicted numerically?",
+        "answer": "290"
+      },
+      {
+        "question": "Focusing on the quantitative information presented, what is the total fat content, in grams, per serving?",
+        "answer": "8"
+      },
+      {
+        "question": "What is the serving size, expressed quantitatively in grams?",
+        "answer": "117"
+      },
+      {
+        "question": "What is the measurement unit consistently used for quantifying elements like fat, cholesterol, and sodium?",
+        "answer": "grams"
+      },
+      {
+        "question": "What is the quantitative amount of cholesterol present per serving?",
+        "answer": "15"
+      },
+      {
+        "question": "Referring to the numerical data, what is the sodium content listed in milligrams?",
+        "answer": "550"
+      },
+      {
+        "question": "Examining the dietary breakdown, how many grams of total carbohydrates are contained in each serving?",
+        "answer": "47"
+      },
+      {
+        "question": "What is the amount of added sugar included in a single serving, expressed in grams?",
+        "answer": "7"
+      },
+      {
+        "question": "According to the visible data, how many grams of total sugar are present per serving?",
+        "answer": "9"
+      },
+      {
+        "question": "What is the protein content, in grams, per serving as shown on the label?",
+        "answer": "7"
+      },
+      {
+        "question": "What is the amount of dietary fiber present in each serving expressed in grams?",
+        "answer": "1"
+      },
+      {
+        "question": "Based on the nutritional information provided, what is the percentage daily value for total fat?",
+        "answer": "10"
+      },
+      {
+        "question": "What is the vitamin D content per serving measured in micrograms?",
+        "answer": "0"
+      }
+    ]
+  }
+]

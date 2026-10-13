@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2f/2f2a57e2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color displayed across the entire fabric sample?",
+        "answer": "Taupe"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent weave type of this fabric?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Based on the image's visual clues, what is the overall surface texture of the material?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging from the image, what is the general thickness or weight of the fabric?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Describe the visual uniformity of the color throughout the sample's surface?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "What is the apparent level of sheen or gloss exhibited by the fabric's surface?",
+        "answer": "Slight"
+      },
+      {
+        "question": "Does the fabric show any visible patterns, prints, or designs on its surface?",
+        "answer": "None"
+      },
+      {
+        "question": "From the image, can you determine if the fabric appears to be tightly or loosely woven?",
+        "answer": "Tightly"
+      },
+      {
+        "question": "What is the visual impression of the fabric's drape or flexibility, based solely on the image?",
+        "answer": "Drapable"
+      },
+      {
+        "question": "Does the fabric show any visible irregularities such as knots, or slubs?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on visual inspection, what kind of fiber is predominantly used in this fabric?",
+        "answer": "Unknown"
+      },
+      {
+        "question": "What is the main visual characteristic which helps define the overall appearance of the fabric?",
+        "answer": "Color"
+      },
+      {
+        "question": "From the photo, is the material's finish matte, satin, or something else?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Given the image, how would you describe the visual softness of the textile?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Does the fabric display a visible pile or nap on its surface, based on the image?",
+        "answer": "No"
+      }
+    ]
+  }
+]

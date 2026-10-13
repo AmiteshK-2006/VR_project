@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d3/d3371da9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the individual product packaging?",
+        "answer": "Purple"
+      },
+      {
+        "question": "What is the overall shape of the individual product packages?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material appears to constitute the outer packaging box?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What color is the large shipping carton visible in the image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the packaging, what is the apparent product type?",
+        "answer": "Diapers"
+      },
+      {
+        "question": "What is the color of the primary text on the individual packages?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe the texture of the shipping carton based on visual observation.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the primary brand name visible on the product packaging?",
+        "answer": "True"
+      },
+      {
+        "question": "What numerical value is prominently displayed on each individual product package?",
+        "answer": "20"
+      },
+      {
+        "question": "What appears to be the form factor of the product inside the packages?",
+        "answer": "Underwear"
+      },
+      {
+        "question": "Describe the shape of the cut-out handle on the shipping carton.",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent size of the shipping carton relative to the individual packages?",
+        "answer": "Large"
+      },
+      {
+        "question": "Based on visual cues, what is the inferred content of the box?",
+        "answer": "Bulk"
+      },
+      {
+        "question": "What is the apparent state of the shipping carton\u2014opened or closed?",
+        "answer": "Opened"
+      },
+      {
+        "question": "Describe the design elements found on the product packaging, beyond text and color.",
+        "answer": "Heart"
+      }
+    ]
+  }
+]

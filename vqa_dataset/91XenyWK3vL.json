@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e9/e92ee5c3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual appearance, what is the dominant color of this rectangular item?",
+        "answer": "Red"
+      },
+      {
+        "question": "Based on the image, what seems to be the primary material used in the construction of this object?",
+        "answer": "Foam"
+      },
+      {
+        "question": "Judging from the image, what is the most apparent shape of the presented product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Observing the surface texture, would you describe the visual feel of this item as smooth or rough?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the absence of patterns, decorations, or logos, how would you classify the design of the object?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Can you identify any visible seams, folds, or other structural details on this item's surface?",
+        "answer": "None"
+      },
+      {
+        "question": "From a visual standpoint, what would be the best description of this item's overall thickness?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Does the image reveal any noticeable signs of wear, tear, or imperfections on the object's surface?",
+        "answer": "None"
+      },
+      {
+        "question": "If you were to describe the overall visual impression of the object's finish, what would it be?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on its appearance, what might be the likely function or purpose of this object?",
+        "answer": "Padding"
+      },
+      {
+        "question": "What is the apparent level of reflectivity shown on the surface of this red item?",
+        "answer": "Low"
+      },
+      {
+        "question": "Considering its visual uniformity, how would you describe the color saturation of this item?",
+        "answer": "High"
+      },
+      {
+        "question": "Focusing solely on the visual aspects, what is the apparent overall quality of the item's construction?",
+        "answer": "Good"
+      },
+      {
+        "question": "Considering its visual properties, would this item be deemed as lightweight or heavy?",
+        "answer": "Lightweight"
+      },
+      {
+        "question": "Based solely on its visual appearance, is this item flexible or rigid?",
+        "answer": "Flexible"
+      }
+    ]
+  }
+]

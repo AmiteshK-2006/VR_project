@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/cc/ccfb80fc.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color displayed across the entire surface?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visual texture, what material is most convincingly mimicked?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Describing the visible grain, what is its directional orientation?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Based on the image, what is the overall visual impression of the surface's finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Observing the pattern's consistency, how would you characterize its regularity?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Judging from the image's detail, is the texture smooth or rough in appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Analyzing the color variations, what is the range of shades present?",
+        "answer": "Light"
+      },
+      {
+        "question": "Considering the visual representation, what is the apparent surface's overall tone?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "From the image, what is the visible pattern's primary characteristic?",
+        "answer": "Linear"
+      },
+      {
+        "question": "What is the suggested visual impression of the material's density?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Based on the visible texture, how would you describe the grain's visual prominence?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "In the image, what is the primary visual element conveying the surface's nature?",
+        "answer": "Grain"
+      },
+      {
+        "question": "Regarding the color depth, how would you characterize the image's hue variation?",
+        "answer": "Slight"
+      },
+      {
+        "question": "Judging from the visual texture, what is the implied depth of the pattern?",
+        "answer": "Shallow"
+      },
+      {
+        "question": "Based on the image, does the surface appear to be glossy or non-glossy?",
+        "answer": "Non-glossy"
+      }
+    ]
+  }
+]

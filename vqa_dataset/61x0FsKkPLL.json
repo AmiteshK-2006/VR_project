@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1f/1f627070.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what is the dominant color scheme of the nutritional facts panel shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Focusing on the textual elements, what is the typeface used for the header 'Nutrition Facts'?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Regarding the structure of the information, how many columns are present in the main nutritional data table?",
+        "answer": "Three"
+      },
+      {
+        "question": "Analyzing the layout, what is the orientation of the nutritional information panel?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Observing the visual hierarchy, which element is most prominently displayed at the top?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "In terms of visual communication, what is the primary method used to present numerical data?",
+        "answer": "Tables"
+      },
+      {
+        "question": "Regarding the textual content, what is the unit of measurement used for 'Calories'?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Concerning the data presented, what is the unit of measurement used for 'Total Fat'?",
+        "answer": "Grams"
+      },
+      {
+        "question": "In terms of the graphic design, what type of lines are used to separate the data rows?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Analyzing the visual elements, what is the visual weight of the 'Calories' section compared to other sections?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "Based on the visual presentation, what is the style of the numbers used throughout the panel?",
+        "answer": "Arabic"
+      },
+      {
+        "question": "From the visual characteristics, what is the overall texture of the panel?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the visual characteristics, what is the background color of the nutritional panel?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the visual elements, what is the style of the borders around the data sections?",
+        "answer": "None"
+      },
+      {
+        "question": "Observing the visual design, what is the relative size of the 'Serving Size' text compared to other text?",
+        "answer": "Large"
+      }
+    ]
+  }
+]

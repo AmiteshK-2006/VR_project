@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/49/493fba69.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant textual characteristic of the displayed item?",
+        "answer": "Linear"
+      },
+      {
+        "question": "What is the most apparent color used in the textual display of the item's details?",
+        "answer": "Black"
+      },
+      {
+        "question": "Given the image, what appears to be the primary material used in the production of this item?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Observing the visual layout, what can be described as the structural organization of the information presented?",
+        "answer": "List"
+      },
+      {
+        "question": "Based on the textual style, what is the most likely method utilized for the creation of this item's text?",
+        "answer": "Print"
+      },
+      {
+        "question": "Analyzing the text's visual properties, what typeface best approximates the one used in the display?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the apparent size of the text used for each individual ingredient?",
+        "answer": "Small"
+      },
+      {
+        "question": "Regarding the spacing between lines of text, what visual characteristic is most noticeable?",
+        "answer": "Even"
+      },
+      {
+        "question": "What is the style of lettering used to create the words 'INGREDIENTS' and other labels?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What visual method differentiates the individual components of the ingredient list from the descriptive headers?",
+        "answer": "Indent"
+      },
+      {
+        "question": "In terms of contrast, what visual characteristic best describes the relation between the text and its background?",
+        "answer": "High"
+      },
+      {
+        "question": "By visual inspection, what is the approximate length of the longest ingredient descriptor?",
+        "answer": "Medium"
+      },
+      {
+        "question": "If we look closely at the image, what is the text's apparent visual alignment?",
+        "answer": "Left"
+      },
+      {
+        "question": "Based on the image only, what could be the descriptive characteristic of the overall visual density of the displayed text?",
+        "answer": "High"
+      },
+      {
+        "question": "Focusing only on the visual details, what style is used for the punctuation of the item's description?",
+        "answer": "Standard"
+      }
+    ]
+  }
+]

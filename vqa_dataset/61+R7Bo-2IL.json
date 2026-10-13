@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fa/faefe8a8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what single word best describes the dominant shape of this object, as viewed from the provided angle?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What is the most apparent and visually dominant color of the product's surface, based on the image provided?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based solely on visual inspection of the image, what appears to be the primary material used in the object's construction?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Observing the product's surface texture, what single-word descriptor best captures its visual appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Focusing on the ends of the object, what descriptive term best represents their shape and how they connect to the main body?",
+        "answer": "Squared"
+      },
+      {
+        "question": "Examining the object's profile, ignoring any potential functionality, what geometrical term best approximates its overall form?",
+        "answer": "Planar"
+      },
+      {
+        "question": "Considering the object in its entirety, excluding any functional implications, what adjective best encapsulates its apparent design aesthetic?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Disregarding functionality, what is the primary visual characteristic that distinguishes this item from similar objects?",
+        "answer": "Uniformity"
+      },
+      {
+        "question": "Ignoring any potential use, describe the object's surface glossiness with one word, based on the image's visual cues.",
+        "answer": "Matte"
+      },
+      {
+        "question": "What single word conveys the visible degree of reflectivity present on the surface of the depicted object?",
+        "answer": "Low"
+      },
+      {
+        "question": "From a visual perspective, excluding any possible usage, what is the main visual impression the product evokes?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Based on the image, what is the most obvious visual feature of the object's edge or perimeter?",
+        "answer": "Sharp"
+      },
+      {
+        "question": "What single word aptly describes the visual absence of significant surface features or markings on this item?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Visually appraising the object, disregarding any function, what single word captures its apparent weight or mass?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "What single word describes the visual impression of the product's overall finish?",
+        "answer": "Unblemished"
+      }
+    ]
+  }
+]

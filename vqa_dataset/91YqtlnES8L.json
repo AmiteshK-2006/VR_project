@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0a/0a9e8d34.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the packaging's background?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the primary text color on the package?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the food package?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the material of the food packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What prominent logo is displayed on the packaging?",
+        "answer": "Wholefoods"
+      },
+      {
+        "question": "What instruction is printed on the package regarding disposal?",
+        "answer": "Recycle"
+      },
+      {
+        "question": "What type of nutritional information is prominently featured?",
+        "answer": "Facts"
+      },
+      {
+        "question": "What is the color of the smaller text on the nutritional panel?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the general texture of the packaging?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall design style of the package?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "How many servings are indicated per container?",
+        "answer": "Three"
+      },
+      {
+        "question": "What unit is used to measure calories per serving?",
+        "answer": "Calories"
+      },
+      {
+        "question": "What is the main color of the nutrition label?",
+        "answer": "White"
+      },
+      {
+        "question": "What type of product is indicated by the packaging design?",
+        "answer": "Food"
+      },
+      {
+        "question": "Is there a barcode present on the package?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

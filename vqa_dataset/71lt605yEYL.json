@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5f/5f1e6b5c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual design, what single word best captures the style of this shoe?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Based on the image, what is the predominant color of the shoe's upper?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What material appears to constitute the majority of the shoe's visible surface?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Describe the pattern decorating the shoe's main body, visible in the image?",
+        "answer": "Perforated"
+      },
+      {
+        "question": "Observing the shoe's sole, what color is the visible part of the sole unit?",
+        "answer": "White"
+      },
+      {
+        "question": "What shape best describes the overall form of the shoe's visible outline?",
+        "answer": "Oval"
+      },
+      {
+        "question": "Judging by the image, what type of shoe is displayed; is it a slip-on or laced?",
+        "answer": "Slip-on"
+      },
+      {
+        "question": "What is the visual texture of the shoe's upper, is it smooth, coarse, or perforated?",
+        "answer": "Perforated"
+      },
+      {
+        "question": "Looking at the insole, what brand name is visible within the shoe's interior?",
+        "answer": "Symbol"
+      },
+      {
+        "question": "What kind of closure mechanism does the shoe appear to utilize (e.g., laces, straps, slip-on)?",
+        "answer": "Slip-on"
+      },
+      {
+        "question": "What is the apparent level of formalness or informality suggested by the shoe's visual design?",
+        "answer": "Casual"
+      },
+      {
+        "question": "Judging from the image, what is the material of the insole; is it leather, fabric, or other?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Considering the overall visual style of the shoe, is the design simple or complex?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Based on the visible seams and construction, what is the shoe's apparent construction method?",
+        "answer": "Stitched"
+      },
+      {
+        "question": "What is the general appearance of the shoe's toe cap, is it rounded, pointed or squared?",
+        "answer": "Rounded"
+      }
+    ]
+  }
+]

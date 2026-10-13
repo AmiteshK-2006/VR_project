@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/41/410af8ab.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual layout, what is the primary textual element dominating the image?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the prominent, repeated design element structuring the provided data?",
+        "answer": "Columns"
+      },
+      {
+        "question": "What is the font style of the header prominently placed at the top?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the color scheme mostly used in the background of the nutritional information display?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the color of the text primarily used in the table data?",
+        "answer": "Black"
+      },
+      {
+        "question": "Observing the visual organization, how many primary columns are in the presented data?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the distinct color of the header, clearly distinct from the rest?",
+        "answer": "Darkbrown"
+      },
+      {
+        "question": "What is the overall visual presentation style; formal, informal, or artistic?",
+        "answer": "Formal"
+      },
+      {
+        "question": "What is the type of information predominantly featured in this visual data?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Describing the texture, what is the feel of the visual presentation; rough or smooth?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What kind of lines are used to delineate the data within the sections, solid or dashed?",
+        "answer": "Solid"
+      },
+      {
+        "question": "What is the visual format for presenting nutritional values; graph, table, or list?",
+        "answer": "Table"
+      },
+      {
+        "question": "Considering the information presented, what is the main subject presented?",
+        "answer": "Food"
+      },
+      {
+        "question": "What visual element separates the header from the main content, is it a line or a space?",
+        "answer": "Space"
+      },
+      {
+        "question": "What is the visual state of the presented information; clean or cluttered?",
+        "answer": "Clean"
+      }
+    ]
+  }
+]

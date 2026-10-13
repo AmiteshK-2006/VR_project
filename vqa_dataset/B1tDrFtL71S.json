@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/75/75adcb4c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the provided image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent material of the displayed fabric?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "Based on the image, what is the overall visual appearance of the fabric's texture?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Describe the visual weave pattern of the fabric shown in the image.",
+        "answer": "Woven"
+      },
+      {
+        "question": "Does the fabric image depict a visible sheen or gloss?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging from the image, is there any discernible pattern in the fabric's weave?",
+        "answer": "No"
+      },
+      {
+        "question": "What kind of visual density does the fabric appear to possess in the image?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Considering its texture, would you classify the fabric as smooth or coarse?",
+        "answer": "Coarse"
+      },
+      {
+        "question": "From the image, is the coloration of the fabric uniform or varied?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Does the fabric image show any prominent irregularities in its texture or weave?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image, does the fabric have any visible surface details?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the image, how would you characterize the visual weight of the fabric?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "Considering its visual properties, what is the apparent drape of this fabric?",
+        "answer": "Stiff"
+      },
+      {
+        "question": "What is the general visual impression of this fabric's structure?",
+        "answer": "Solid"
+      },
+      {
+        "question": "In the provided image, is the fabric's surface visibly plied or looped?",
+        "answer": "Woven"
+      }
+    ]
+  }
+]

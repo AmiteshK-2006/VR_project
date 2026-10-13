@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ee/ee41ca7a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the fabric shown in the image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the overall texture of the textile depicted, considering its visual appearance?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Considering the visible weave and fiber density, what kind of material is suggested?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "Based on the image, what is the apparent finish of the fabric's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describing the visible threads, what is the overall pattern or style of the weave?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Considering the visual details, what is the general appearance of the fabric's color?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Based on the image, how would you characterize the density of the fabric's weave?",
+        "answer": "Tight"
+      },
+      {
+        "question": "From the image, what seems to be the fiber's visible length in the fabric?",
+        "answer": "Short"
+      },
+      {
+        "question": "What impression of the fabric's thickness does the image provide?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the visible level of sheen or gloss on the fabric's surface?",
+        "answer": "Low"
+      },
+      {
+        "question": "Considering the fabric's visual properties, what is its implied softness?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Based on the image's visual texture, what is the fabric's implied drape?",
+        "answer": "Good"
+      },
+      {
+        "question": "Does the fabric exhibit any noticeable visual patterns or irregularities?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the visual clarity or definition of the fabric's weave structure?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the apparent uniformity of the color and texture across the fabric sample?",
+        "answer": "High"
+      }
+    ]
+  }
+]

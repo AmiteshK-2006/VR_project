@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/7d/7d805674.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what single word best describes the product's shape as depicted in the image?",
+        "answer": "Elongated"
+      },
+      {
+        "question": "Based on the visible texture and the apparent material, what is the most likely material of the primary component?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Disregarding any packaging, what is the dominant color of the main product element visible in the picture?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the most prominent visual feature, besides the shape and color, that stands out on the object's surface?",
+        "answer": "Grain"
+      },
+      {
+        "question": "If you were to describe the overall surface finish, choosing only one word, what would it be?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the object's design, which single word best captures its aesthetic style or presentation?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Focusing on the product's apparent functionality, what single word describes its likely primary use?",
+        "answer": "Handle"
+      },
+      {
+        "question": "Judging by the image, what seems to be the primary component visible in the product's packaging?",
+        "answer": "Stick"
+      },
+      {
+        "question": "Given its dimensions and shape, which single word describes the product's size relative to everyday objects?",
+        "answer": "Small"
+      },
+      {
+        "question": "Based solely on its appearance, what is the most likely purpose of the thin, dark element on the product?",
+        "answer": "Fastener"
+      },
+      {
+        "question": "What is the best single word to describe the visible markings, if any, present on the side of the item?",
+        "answer": "Lines"
+      },
+      {
+        "question": "Considering the image, what is the color of the small, visible element near the top of the product?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the best single word to describe the visible texture of the object's main body, considering its smoothness?",
+        "answer": "Unblemished"
+      },
+      {
+        "question": "Considering its structure and composition, what single word best describes the apparent manufacturing process?",
+        "answer": "Carved"
+      },
+      {
+        "question": "What single word describes the state of the product in the image, whether it is whole, broken, or otherwise?",
+        "answer": "Intact"
+      }
+    ]
+  }
+]

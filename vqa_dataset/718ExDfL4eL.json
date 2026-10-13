@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/cb/cb435fe1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall design, what is the primary color scheme of the product packaging, focusing on the most prominent hues?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the principal textual information conveyed on the product's packaging, describing its core nature?",
+        "answer": "Crackers"
+      },
+      {
+        "question": "Observing the box's shape and dimensions, what is its overall geometrical form?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Analyzing the product's packaging, what is the material primarily used in its construction?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Considering the textual content, what specific flavor variant of crackers is highlighted?",
+        "answer": "Oyster"
+      },
+      {
+        "question": "Focusing on the brand identifier, what name is prominently featured on the packaging?",
+        "answer": "365"
+      },
+      {
+        "question": "Based on the visual texture of the packaging, is it smooth or does it show any perceptible texture?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Examining the packaging, what is the overall style or aesthetic of the design – modern, rustic, minimalist etc. ?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What type of graphic elements, excluding text, are used in the design, such as illustrations or patterns?",
+        "answer": "Abstract"
+      },
+      {
+        "question": "Based on the font style employed in the primary text, describe the font's overall feel.",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Is the barcode located on the back of the box printed vertically or horizontally?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Is there a visible seal or tamper-evident feature present on the packaging?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the color palette, would you describe the overall tone as warm, cool, or neutral?",
+        "answer": "Cool"
+      },
+      {
+        "question": "Looking at the size of the text, would you say the font size is large or small?",
+        "answer": "Large"
+      },
+      {
+        "question": "What is the dominant color used in the small rectangular logo at the top of the packaging?",
+        "answer": "Green"
+      }
+    ]
+  }
+]

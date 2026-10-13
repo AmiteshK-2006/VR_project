@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/7f/7fe42c6b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the provided text, what primary ingredient is prominently featured, given its multiple mentions?",
+        "answer": "Peanuts"
+      },
+      {
+        "question": "Based on the text, what other nut, besides peanuts, is repeatedly listed as an ingredient?",
+        "answer": "Almonds"
+      },
+      {
+        "question": "According to the text, what kind of nut is explicitly mentioned among the ingredients?",
+        "answer": "Cashews"
+      },
+      {
+        "question": "As per the text, which type of nut is included in the ingredient list?",
+        "answer": "Pecans"
+      },
+      {
+        "question": "What kind of nut is specified as part of the product's composition, according to the text?",
+        "answer": "Hazelnuts"
+      },
+      {
+        "question": "What type of oil is mentioned as an ingredient in the given text?",
+        "answer": "Sunflower"
+      },
+      {
+        "question": "In the context of the provided text, what allergen is explicitly indicated as a potential cross-contaminant?",
+        "answer": "Milk"
+      },
+      {
+        "question": "Based on the text, what other allergen might be present due to shared processing?",
+        "answer": "Eggs"
+      },
+      {
+        "question": "According to the text, which additional allergen is mentioned as a potential contaminant?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "As stated in the text, which other allergen could potentially be present?",
+        "answer": "Soy"
+      },
+      {
+        "question": "What is the overall shape of the provided text block?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the primary color used in the presented text?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the dominant background color of the text?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the general font style observed in the printed text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the overall texture of the surface upon which the text is printed, observed visually?",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

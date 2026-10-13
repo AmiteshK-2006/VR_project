@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3f/3fcf775f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the device's exterior, as visibly shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the visible battery compartment, what type of batteries does this device utilize?",
+        "answer": "AAA"
+      },
+      {
+        "question": "Based on the image, what appears to be the primary material of the device's casing?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the overall shape of the visible portion of the electronic device?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging by the visible components, what is the likely function of this device (broadly)?",
+        "answer": "Electronic"
+      },
+      {
+        "question": "Does the device show any visible markings or text besides the battery information?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Describing the surface texture of the device's visible parts, is it glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on the image, are there any visible buttons or switches on the device's exterior?",
+        "answer": "No"
+      },
+      {
+        "question": "From the provided view, does the device appear to have any external ports or connectors?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the battery compartment, how many batteries are visibly present?",
+        "answer": "Two"
+      },
+      {
+        "question": "What seems to be the design style of the electronic device (e.g., modern, vintage)?",
+        "answer": "Modern"
+      },
+      {
+        "question": "Does the image show any noticeable damage or wear to the device?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the visible markings, can the manufacturer be identified from the picture alone?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent size of the device relative to common household items (estimate)?",
+        "answer": "Small"
+      },
+      {
+        "question": "From the image, does the device appear to have any visible hinges or moving parts?",
+        "answer": "No"
+      }
+    ]
+  }
+]

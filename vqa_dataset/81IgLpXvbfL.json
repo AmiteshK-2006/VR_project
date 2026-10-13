@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d2/d22af3c0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the powdered substance shown in the image?",
+        "answer": "Red"
+      },
+      {
+        "question": "Considering the texture, would you describe the powder as fine or coarse?",
+        "answer": "Fine"
+      },
+      {
+        "question": "Based on its appearance, what is the likely form of the product presented?",
+        "answer": "Powder"
+      },
+      {
+        "question": "What is the overall shape of the pile of spice shown in the image?",
+        "answer": "Mounded"
+      },
+      {
+        "question": "Considering the image, what seems to be the consistency of this product?",
+        "answer": "Dry"
+      },
+      {
+        "question": "Describe the visual texture of the spice powder as seen in the image?",
+        "answer": "Granular"
+      },
+      {
+        "question": "From the image, how would you characterize the shade of the red powder?",
+        "answer": "Deep"
+      },
+      {
+        "question": "Judging by its appearance, is the powder homogenous or heterogeneous?",
+        "answer": "Homogenous"
+      },
+      {
+        "question": "Does the powder appear to contain any visible large inclusions or clumps?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent state of the presented product, solid, liquid, or gas?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Describe the illumination of the image showing the product sample",
+        "answer": "Bright"
+      },
+      {
+        "question": "Does the product show any signs of moisture or dampness?",
+        "answer": "No"
+      },
+      {
+        "question": "Is the pile of powder uniformly distributed, or unevenly piled?",
+        "answer": "Unevenly"
+      },
+      {
+        "question": "Considering the image, does the powder appear to be shiny or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the product display any noticeable patterns or markings?",
+        "answer": "No"
+      }
+    ]
+  }
+]

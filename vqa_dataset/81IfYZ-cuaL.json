@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/86/86b54d33.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the visible surface of the product?",
+        "answer": "Purple"
+      },
+      {
+        "question": "What is the overall shape of the product, as observed in the image?",
+        "answer": "Round"
+      },
+      {
+        "question": "Considering its texture, is the product's surface smooth or rough?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Describe the apparent texture of the product's exterior; what kind of surface does it display?",
+        "answer": "Granular"
+      },
+      {
+        "question": "Based on visual appearance, what material seems to constitute this item?",
+        "answer": "Candy"
+      },
+      {
+        "question": "Does the product exhibit any discernible pattern or design on its face?",
+        "answer": "None"
+      },
+      {
+        "question": "Judging by the image, is the product's form consistent, or irregular in any way?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Considering the displayed dimensions, is this a large or small object?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the approximate size of the product relative to a US quarter?",
+        "answer": "Similar"
+      },
+      {
+        "question": "Does the product show evidence of any visible markings, imprints, or lettering?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent homogeneity of the color across the product's surface?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "From the image, does the item appear to be solid or hollow?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Observing the surface, are there any visible defects or imperfections?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the given view, what is the total number of visible sides?",
+        "answer": "One"
+      },
+      {
+        "question": "Does the provided image display any noticeable shine or gloss on the product?",
+        "answer": "No"
+      }
+    ]
+  }
+]

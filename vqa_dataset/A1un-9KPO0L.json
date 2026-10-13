@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0d/0d48e653.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the wallet shown in the image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What appears to be the primary material used in constructing this wallet?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Considering its shape when held, what geometric form best describes the wallet's profile?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on its visual appearance, what is the apparent texture of the wallet's exterior?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging from the image, how many visible compartments or sections does the wallet seem to have?",
+        "answer": "One"
+      },
+      {
+        "question": "Does the wallet in the image exhibit any noticeable decorative stitching or patterns?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent size of the wallet relative to the person's hand and pocket?",
+        "answer": "Compact"
+      },
+      {
+        "question": "Judging by the image, what type of closure mechanism does the wallet appear to utilize?",
+        "answer": "None"
+      },
+      {
+        "question": "From the visual evidence, what is the wallet's apparent thickness when folded?",
+        "answer": "Slim"
+      },
+      {
+        "question": "Considering its overall appearance, would you describe the wallet's design as minimalist or ornate?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Does the image show any visible branding or logos on the wallet's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Based solely on the image, what style of pocket is the wallet being placed into?",
+        "answer": "Back"
+      },
+      {
+        "question": "Based on the image, is the wallet shown being held by a male or female hand?",
+        "answer": "Male"
+      },
+      {
+        "question": "From the visual depiction, is the depicted wallet being held in the left or right pocket?",
+        "answer": "Right"
+      },
+      {
+        "question": "Judging by its visual characteristics, is the depicted wallet designed for everyday carry or formal events?",
+        "answer": "Everyday"
+      }
+    ]
+  }
+]

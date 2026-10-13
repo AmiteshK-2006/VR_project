@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1e/1edcfd23.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color visually presented on the product's primary label?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the overall shape, what geometric form best describes the product container?",
+        "answer": "Cylinder"
+      },
+      {
+        "question": "What is the primary ingredient explicitly stated on the product's label?",
+        "answer": "Whey"
+      },
+      {
+        "question": "Based on the image, what is the form of the protein as indicated on the packaging?",
+        "answer": "Powder"
+      },
+      {
+        "question": "What specific flavor is prominently advertised on the product's packaging?",
+        "answer": "Chocolate"
+      },
+      {
+        "question": "What material appears to constitute the main body of the product container?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Observing the label, what is the net weight of the product as indicated in ounces?",
+        "answer": "33"
+      },
+      {
+        "question": "What is the descriptor used to qualify the chocolate flavor on the packaging?",
+        "answer": "Natural"
+      },
+      {
+        "question": "What is the brand name clearly visible on the product's label?",
+        "answer": "365"
+      },
+      {
+        "question": "Referring to the graphic on the label, what is depicted in the splash illustration?",
+        "answer": "Liquid"
+      },
+      {
+        "question": "What is the unit of measurement for the protein content indicated on the packaging?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What number represents the protein content per serving as displayed on the label?",
+        "answer": "16"
+      },
+      {
+        "question": "Considering the texture of the graphic, how would you describe the appearance of the chocolate depiction?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What letter is visible in the lower left corner of the main label?",
+        "answer": "D"
+      },
+      {
+        "question": "What is the visual texture of the product container overall?",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

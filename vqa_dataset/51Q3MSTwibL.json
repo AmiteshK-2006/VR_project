@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2b/2be9eb0e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the container holding the cleaning solution?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the shape of the container shown in the product image?",
+        "answer": "Jug"
+      },
+      {
+        "question": "What material appears to constitute the main body of the product container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the product's label, what is the primary function of this liquid?",
+        "answer": "Cleaning"
+      },
+      {
+        "question": "What specific type of trap does this product clean, as indicated on its label?",
+        "answer": "Grease"
+      },
+      {
+        "question": "What secondary function is prominently mentioned on the container label?",
+        "answer": "Maintaining"
+      },
+      {
+        "question": "What is the color of the prominent rectangular band on the product label?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What type of closure is present at the top of the product's container?",
+        "answer": "Cap"
+      },
+      {
+        "question": "Does the container have a handle for easier pouring or transportation?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the text color on the main part of the product label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall texture of the container, based on its visual appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image, is the container transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What is the approximate size of the container judging by its appearance?",
+        "answer": "Gallon"
+      },
+      {
+        "question": "What brand is prominently displayed on the label, according to the image?",
+        "answer": "Amazon"
+      },
+      {
+        "question": "Is there any visible indication of the product's volume on the packaging?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

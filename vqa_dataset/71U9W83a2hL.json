@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f4/f4ce4173.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the computer mouse shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the overall form, what is the dominant shape of this pointing device?",
+        "answer": "Oval"
+      },
+      {
+        "question": "Based on its appearance, what material seems to constitute the mouse's exterior?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Judging by the image, does the mouse appear to have any noticeable texture?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Can you describe the visual design style of the computer mouse in the provided image?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Examining the image, how many buttons are visibly present on the mouse's surface?",
+        "answer": "Two"
+      },
+      {
+        "question": "From the picture, is there a scroll wheel evident on the top of the mouse?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the image suggest the mouse is wired or wireless, based on its visual features?",
+        "answer": "Wired"
+      },
+      {
+        "question": "Considering its size relative to the hand, how would you describe the mouse's dimensions?",
+        "answer": "Compact"
+      },
+      {
+        "question": "Does the mouse in the picture show any visible branding or logos?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the image, is there any indication of specialized features on this mouse?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the image, what is the overall condition of the computer mouse shown?",
+        "answer": "New"
+      },
+      {
+        "question": "From the provided picture, what seems to be the intended use of this device?",
+        "answer": "Computing"
+      },
+      {
+        "question": "Looking at the image, what hand position is shown when using the computer mouse?",
+        "answer": "Palm"
+      },
+      {
+        "question": "What is the apparent surface the mouse is resting on in this image?",
+        "answer": "Table"
+      }
+    ]
+  }
+]

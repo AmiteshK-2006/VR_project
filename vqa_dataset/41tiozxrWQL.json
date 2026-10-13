@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ac/acefab79.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what best describes the primary shape of the product's container?",
+        "answer": "Triangular"
+      },
+      {
+        "question": "What is the dominant color of the product contained within the main packaging?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe the apparent texture of the product's primary container, judging by its visual appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What material seems to primarily constitute the product's packaging, based solely on visual inspection?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the design, what is the overall structural appearance of the product's packaging?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Observing the image, what specific type of packaging is used to hold the product?",
+        "answer": "Tube"
+      },
+      {
+        "question": "Based on what is visually apparent, describe the primary finish of the visible product surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the visible color of the secondary, smaller component at the base of the product?",
+        "answer": "White"
+      },
+      {
+        "question": "Can you describe the apparent design characteristic of the upper portion of the container?",
+        "answer": "Conical"
+      },
+      {
+        "question": "Analyzing the image, is there any noticeable text or labeling directly on the product?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the most apparent function that the cap of the product performs?",
+        "answer": "Seal"
+      },
+      {
+        "question": "What is the apparent shape of the cap on the top of the product?",
+        "answer": "Round"
+      },
+      {
+        "question": "Judging from the image, what is the primary visual appearance of the product's label?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Based on the visual observation, is the product's package transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What seems to be the most obvious design characteristic of the main container of this product?",
+        "answer": "Angled"
+      }
+    ]
+  }
+]

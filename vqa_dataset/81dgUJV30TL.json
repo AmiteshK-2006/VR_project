@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8e/8eccbb8a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the supplement bottle as shown in the image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What material appears to constitute the bottle's primary structure?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Considering the image, what shape best describes the supplement container?",
+        "answer": "Cylinder"
+      },
+      {
+        "question": "What is the apparent color of the capsules visible inside the bottle?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Based on visual inspection, what seems to be the type of closure on the bottle?",
+        "answer": "Screw-top"
+      },
+      {
+        "question": "What is the color of the lid or cap of the supplement bottle?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the overall texture of the bottle's surface, as it appears in the provided image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the visible text on the bottle, what language appears to be used?",
+        "answer": "English"
+      },
+      {
+        "question": "What kind of printing is observed on the bottle's label—raised or flat?",
+        "answer": "Flat"
+      },
+      {
+        "question": "What is the apparent size of the text on the main label of the container, relative to the bottle itself?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the visible condition of the bottle—is there damage or significant wear visible?",
+        "answer": "Intact"
+      },
+      {
+        "question": "Describe the visible format of the printed information on the supplement bottle.",
+        "answer": "Blocks"
+      },
+      {
+        "question": "What is the apparent level of fill of capsules in the bottle, based on the image?",
+        "answer": "Full"
+      },
+      {
+        "question": "Does the image show any visible tamper evidence on the packaging?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the general appearance of the printed bar code on the bottle?",
+        "answer": "Linear"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/40/40f3d194.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the primary text on the product packaging, specifically focusing on the words prominently displayed near the center?",
+        "answer": "Teal"
+      },
+      {
+        "question": "Considering the overall form of the product's packaging, ignoring any text or images, what geometric shape best describes its primary structure?",
+        "answer": "Triangular"
+      },
+      {
+        "question": "Observing the material that constitutes the product's packaging, is it primarily flexible or rigid in its physical properties?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "What seems to be the primary material used for the bag containing the product, indicated by the visual texture and creases?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Is there any noticeable image of a fruit on the packaging, indicating a potential flavor or ingredient?",
+        "answer": "Coconut"
+      },
+      {
+        "question": "Considering the style of the product's textual branding, would you characterize it as modern, classic, or rustic?",
+        "answer": "Modern"
+      },
+      {
+        "question": "Does the overall color scheme of the packaging lean towards warm or cool tones?",
+        "answer": "Cool"
+      },
+      {
+        "question": "What appears to be the primary function or use of this product, indicated by the text and implied content?",
+        "answer": "Snack"
+      },
+      {
+        "question": "Is there any visible indication of a seal or closure mechanism at the top of the bag to maintain freshness?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the texture of the package, would you describe its surface as glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the packaging include detailed nutritional information, depicted in smaller text on the side?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the visible text and the image of the coconut, what is a likely ingredient of the product?",
+        "answer": "Coconut"
+      },
+      {
+        "question": "Judging by the size and shape of the bag, is it likely a single-serving or multi-serving package?",
+        "answer": "Multi"
+      },
+      {
+        "question": "Does the visible text on the packaging prominently display the brand name or product name?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the general design aesthetic, is the packaging minimalist or ornate in its style?",
+        "answer": "Minimalist"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a6/a656a26f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the rectangular surface shown?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the overall form, what geometric term best describes the product's shape?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on visual texture, what is the apparent surface finish of the item?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the image, what material appears to constitute this product?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Examining the edges, what descriptive term captures the edge profile of the item?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Considering the visual uniformity, does the product exhibit any noticeable patterns?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the image's visual cues, what is the apparent thickness of the product?",
+        "answer": "Thin"
+      },
+      {
+        "question": "From the image, how would you describe the overall visual appearance of the product?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Based on its appearance, does this product seem to be flexible or rigid?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Does the product shown exhibit any noticeable markings or logos?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering its shape and size, what is the likely intended function of this item?",
+        "answer": "Mat"
+      },
+      {
+        "question": "From the visual depiction, is the color of the product uniform across the surface?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on its visual features, is the product's surface matte or glossy?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on the visual texture, is the surface of the product rough or smooth?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering its apparent composition, would you consider this product waterproof?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

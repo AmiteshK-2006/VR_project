@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/7a/7a9084dd.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the presented nutrition facts label, considering the text and background?",
+        "answer": "White"
+      },
+      {
+        "question": "Observing the textual layout, what is the primary organizational structure employed to present the nutrition information?",
+        "answer": "Columns"
+      },
+      {
+        "question": "Based on the visual information provided, what is the measurement unit used for 'Serving Size'?",
+        "answer": "Cup"
+      },
+      {
+        "question": "What is the numerical value representing the total number of servings contained within the product's packaging, as shown on the label?",
+        "answer": "Four"
+      },
+      {
+        "question": "What is the visual representation of the quantity of 'Servings Per Container', as presented in the image?",
+        "answer": "Number"
+      },
+      {
+        "question": "Focusing solely on the visual appearance, what is the textual style of the major headers within the presented nutrition facts?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Judging by the image, what is the font type used to display the term 'Nutrition Facts' at the top?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Examining the label, what is the font size variation between the headers and the numerical data?",
+        "answer": "Large"
+      },
+      {
+        "question": "What is the predominant visual characteristic of the numbers detailing the nutritional values?",
+        "answer": "Black"
+      },
+      {
+        "question": "Judging by the provided nutrition information, what is the format used to represent percentages?",
+        "answer": "Numeric"
+      },
+      {
+        "question": "What is the visual characteristic of the parentheses enclosing the percentage Daily Values in the nutrition information?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering only the visual details, what is the style of the lines separating different nutritional components?",
+        "answer": "None"
+      },
+      {
+        "question": "In the image, what is the visual format of the data presented about different nutrients, like vitamins and minerals?",
+        "answer": "List"
+      },
+      {
+        "question": "What is the text color of the 'DV' abbreviation representing Daily Values in the nutrition fact information?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall visual impression of the density of the textual information within the nutrition facts panel?",
+        "answer": "Dense"
+      }
+    ]
+  }
+]

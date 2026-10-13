@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bd/bd001f65.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the packaging visible in the image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the overall shape of the product's packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material appears to be used for the product packaging?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the dominant text color on the packaging?",
+        "answer": "Black"
+      },
+      {
+        "question": "Is the packaging texture predominantly smooth or rough?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the prominent brand name visible on the packaging?",
+        "answer": "Vedaka"
+      },
+      {
+        "question": "What is the indicated net weight of the product, as shown on the packaging?",
+        "answer": "500g"
+      },
+      {
+        "question": "What type of printing appears to have been used for the brand name?",
+        "answer": "Text"
+      },
+      {
+        "question": "Does the packaging depict any images or illustrations besides text?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall style of the packaging design?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Considering the visible text, what appears to be the primary language used?",
+        "answer": "English"
+      },
+      {
+        "question": "Is the text on the bag primarily serif or sans-serif font?",
+        "answer": "Serif"
+      },
+      {
+        "question": "Are there any noticeable seals or tamper-evident features on the bag?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the approximate size of the visible text compared to the bag?",
+        "answer": "Small"
+      },
+      {
+        "question": "Considering only the visible portion, is the bag sealed at the top?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

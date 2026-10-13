@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/33/3303c291.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant textual element depicted prominently and centrally in the provided image, conveying crucial information regarding the product's nutritional composition?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Considering the textual content, what numerical value, expressed in grams, signifies the total amount of carbohydrates present in a single serving of the product?",
+        "answer": "27"
+      },
+      {
+        "question": "Based on the label, what is the total calorie count for a single serving, as numerically indicated in the image?",
+        "answer": "290"
+      },
+      {
+        "question": "What is the amount of protein, in grams, that is visually evident in this image's nutritional information?",
+        "answer": "6"
+      },
+      {
+        "question": "According to the presented label, how many grams of total fat are contained in one serving of this particular product?",
+        "answer": "20"
+      },
+      {
+        "question": "Observing the textual data, what numerical value represents the percentage of the daily value for total fat contained within this particular food item's serving size?",
+        "answer": "26"
+      },
+      {
+        "question": "As shown on the label, how many milligrams of sodium does a single serving of this product contain?",
+        "answer": "105"
+      },
+      {
+        "question": "Based on the label's information, what is the percentage of the daily value for sodium found within this product's serving size?",
+        "answer": "5"
+      },
+      {
+        "question": "What is the amount of fiber, in grams, that this food product's nutritional label clearly and numerically specifies?",
+        "answer": "4"
+      },
+      {
+        "question": "In accordance with the visible nutritional information, what is the percentage of the daily value for fiber within one serving of the food item?",
+        "answer": "15"
+      },
+      {
+        "question": "According to the nutrition facts presented visually, how many grams of total sugars are included in one serving of the product?",
+        "answer": "17"
+      },
+      {
+        "question": "Based on the provided image, what percentage of the daily value is represented by the added sugars found within one serving of the food item?",
+        "answer": "22"
+      },
+      {
+        "question": "What is the weight, in grams, of the entire package of the food item as shown in the image's nutritional facts?",
+        "answer": "57"
+      },
+      {
+        "question": "What is the serving size indicated in the nutrition facts shown in the image?",
+        "answer": "1"
+      },
+      {
+        "question": "What is the specified unit of measurement utilized for the serving size, as clearly presented in the product's nutritional information?",
+        "answer": "1"
+      }
+    ]
+  }
+]

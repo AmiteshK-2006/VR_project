@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/18/185650b6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the presented sheet?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the apparent texture of the surface shown?",
+        "answer": "Fleece"
+      },
+      {
+        "question": "Considering the image, what is the overall shape presented?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on visual observation, what seems to be the material?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Does the sheet exhibit a pattern or design?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image, how would you describe the finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the apparent level of sheen or gloss?",
+        "answer": "Low"
+      },
+      {
+        "question": "Examining the picture, is the color uniform throughout?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging from the visual, what is the apparent thickness?",
+        "answer": "Thin"
+      },
+      {
+        "question": "From the provided image, what is the visible surface quality?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the image, are there any visible fibers?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based purely on visual inspection, how would you characterize the density?",
+        "answer": "Light"
+      },
+      {
+        "question": "What kind of visual impression does the color give?",
+        "answer": "Pastel"
+      },
+      {
+        "question": "Does the visible surface exhibit any noticeable flaws?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the visual, what is the apparent softness level?",
+        "answer": "Soft"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/56/56583d07.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout and organization, what is the primary function of this product's packaging?",
+        "answer": "Information"
+      },
+      {
+        "question": "Based on the visual prominence and font size, what is the most crucial piece of information conveyed?",
+        "answer": "Calories"
+      },
+      {
+        "question": "What is the predominant color used for the textual information and numbers against the white background?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the shape of the nutritional information panel as shown in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What type of font is used throughout the nutritional facts panel, considering the serif or sans-serif characteristic?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Observing the textual content, what aspect of food does this label primarily detail?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Judging by the visual structure, how many servings are indicated per container of this product?",
+        "answer": "Eight"
+      },
+      {
+        "question": "What is the weight, in grams, of a single serving of this food item?",
+        "answer": "Twenty-eight"
+      },
+      {
+        "question": "What is the total fat content, in grams, per serving, as shown on this food product's packaging?",
+        "answer": "Seven"
+      },
+      {
+        "question": "According to the visual data, how many milligrams of cholesterol are present per serving?",
+        "answer": "Five"
+      },
+      {
+        "question": "What is the amount of sodium, in milligrams, per serving, as presented on the label?",
+        "answer": "Two-hundredsixty"
+      },
+      {
+        "question": "What is the total carbohydrate content, in grams, for one serving of this food item, based on the image?",
+        "answer": "Seventeen"
+      },
+      {
+        "question": "Based on the visual information, how many grams of total sugars are included per serving?",
+        "answer": "Three"
+      },
+      {
+        "question": "How many grams of protein are included in a single serving of the food product, according to its label?",
+        "answer": "Three"
+      },
+      {
+        "question": "Considering the size and style, what is the overall visual style of the text on the nutrition facts panel?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

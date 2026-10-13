@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b9/b99d4150.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant textual characteristic displayed on the image?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the primary text's orientation relative to the image's frame, as observed?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Based on the visual structure, what is the format of the listed items?",
+        "answer": "List"
+      },
+      {
+        "question": "Considering the font's visual style, what would you describe its overall appearance?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Given the visual details, what is the apparent color scheme of the displayed text?",
+        "answer": "Black"
+      },
+      {
+        "question": "Judging by the visual appearance, what is the case of the lettering used in this image?",
+        "answer": "Lowercase"
+      },
+      {
+        "question": "Considering the image's content, what is the general topic the visual details convey?",
+        "answer": "Food"
+      },
+      {
+        "question": "In terms of visual density, how would you characterize the arrangement of textual information?",
+        "answer": "Dense"
+      },
+      {
+        "question": "What is the apparent size of the text relative to the image's dimensions?",
+        "answer": "Small"
+      },
+      {
+        "question": "Based on the visual texture, how would you describe the overall text appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the typeface's visual characteristics, what is its style of lettering?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Considering the visual clarity, how would you describe the legibility of the textual information?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the apparent visual style of the text's formatting?",
+        "answer": "Block"
+      },
+      {
+        "question": "Based on the visual arrangement, how many paragraphs or sections of text can you visually discern?",
+        "answer": "Four"
+      },
+      {
+        "question": "Judging from the image, what term precedes the detailed enumeration of the product constituents?",
+        "answer": "Ingredients"
+      }
+    ]
+  }
+]

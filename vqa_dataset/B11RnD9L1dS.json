@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ac/ac6886c1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color displayed across the entire fabric sample?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent weave structure of this fabric?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Based on its appearance, what is the most likely material composition of this textile?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "Describe the overall visual texture, considering the density and arrangement of fibers?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Judging by the image, what is the general visual finish of this fabric sample?",
+        "answer": "Matte"
+      },
+      {
+        "question": "From the image, what is the implied weight or density of this particular fabric?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Considering the subtle variations in shade, what is the overall visual tone of the fabric?",
+        "answer": "Muted"
+      },
+      {
+        "question": "What kind of visible pattern, if any, is evident in the fabric's structure?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Does the image show any noticeable sheen or glossiness in the fabric's texture?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from its visual characteristics, what is the implied drape of the fabric?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the dominant visual direction or orientation of the visible fibers?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Observing the image, is the fabric exhibiting any visible imperfections?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the general impression of the color saturation in the given fabric sample?",
+        "answer": "Low"
+      },
+      {
+        "question": "Considering the color and texture, what is the overall aesthetic impression?",
+        "answer": "Subdued"
+      },
+      {
+        "question": "What kind of visual uniformity in terms of color and texture is evident?",
+        "answer": "Consistent"
+      }
+    ]
+  }
+]

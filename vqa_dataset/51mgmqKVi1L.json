@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1e/1e4ef376.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant textual element depicted on the label's surface, concerning the product's composition?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What specific artificial additive is listed among the other components of this product?",
+        "answer": "Fructose"
+      },
+      {
+        "question": "What natural flavoring agent is mentioned as part of the product's formulation?",
+        "answer": "Cherry"
+      },
+      {
+        "question": "What acidic compound is included in the list of additional ingredients?",
+        "answer": "Citric"
+      },
+      {
+        "question": "What type of acid, originating from a vegetable source, is present in the product?",
+        "answer": "Stearic"
+      },
+      {
+        "question": "What substance, derived from a vegetable source, is among the listed ingredients?",
+        "answer": "Stearate"
+      },
+      {
+        "question": "Which type of dioxide is listed as an ingredient in this product?",
+        "answer": "Silicon"
+      },
+      {
+        "question": "What sodium-containing compound is included in the list of ingredients?",
+        "answer": "Croscarmellose"
+      },
+      {
+        "question": "What salt of magnesium is among the components listed on the product's label?",
+        "answer": "Stearate"
+      },
+      {
+        "question": "Which nut type is mentioned in relation to the production facility's processing?",
+        "answer": "Tree"
+      },
+      {
+        "question": "What dairy product is noted in the context of the facility's processing operations?",
+        "answer": "Milk"
+      },
+      {
+        "question": "What poultry product is listed regarding potential cross-contamination during manufacturing?",
+        "answer": "Eggs"
+      },
+      {
+        "question": "What type of seafood is mentioned in relation to the production facility's processing?",
+        "answer": "Shellfish"
+      },
+      {
+        "question": "What grain is listed in relation to the production facility's processing?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "What legume is mentioned as a potential cross-contaminant in the production environment?",
+        "answer": "Soy"
+      }
+    ]
+  }
+]

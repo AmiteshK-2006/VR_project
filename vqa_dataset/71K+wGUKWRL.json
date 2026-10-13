@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d9/d966f96e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the nutritional label's prominent display, what is the primary food category represented by this product?",
+        "answer": "Beef"
+      },
+      {
+        "question": "Based on the visible text, what specific cut of beef is prominently featured in this product?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Observing the nutrition facts, what is the total caloric content per serving of this packaged food?",
+        "answer": "310"
+      },
+      {
+        "question": "Analyzing the ingredient list, which ingredient is explicitly highlighted due to its potential for allergies?",
+        "answer": "Soy"
+      },
+      {
+        "question": "According to the nutrition facts, what is the amount of protein in grams per serving of this food item?",
+        "answer": "15"
+      },
+      {
+        "question": "Examining the text, what is one of the listed preparation methods used for the main protein component?",
+        "answer": "Seared"
+      },
+      {
+        "question": "Based on the nutrition facts, what is the amount of total fat in grams contained in a single serving?",
+        "answer": "26"
+      },
+      {
+        "question": "What specific type of oil is listed as an ingredient within the garlic aioli component?",
+        "answer": "Canola"
+      },
+      {
+        "question": "Referring to the ingredients, what type of vinegar is included in the preparation of the aioli?",
+        "answer": "Apple"
+      },
+      {
+        "question": "What is the serving size, as indicated on the packaging label, expressed in grams?",
+        "answer": "125"
+      },
+      {
+        "question": "According to the label's cautionary statement, what other common food allergens might this product have been prepared with?",
+        "answer": "Eggs"
+      },
+      {
+        "question": "From the ingredients list, identify one type of powder used in the creation of the product.",
+        "answer": "Soymilk"
+      },
+      {
+        "question": "What is the primary type of starch indicated amongst the ingredients?",
+        "answer": "Corn"
+      },
+      {
+        "question": "Based on the ingredient list, what kind of broth is used as a component of this food product?",
+        "answer": "Beef"
+      },
+      {
+        "question": "What is one kind of pepper identified in the ingredient listing?",
+        "answer": "Black"
+      }
+    ]
+  }
+]

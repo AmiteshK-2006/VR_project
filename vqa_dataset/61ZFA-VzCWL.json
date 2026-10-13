@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/85/85e6b518.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the primary descriptive characteristic of the provided image?",
+        "answer": "Textual"
+      },
+      {
+        "question": "Focusing on the textual content, what is the dominant category of information conveyed within the image?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Disregarding any specific words, what is the most apparent visual property of the textual content?",
+        "answer": "Black"
+      },
+      {
+        "question": "Observing the spatial arrangement, what is the organizational pattern of the text blocks in the image?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Given the font used, what is the general visual style or feel that is expressed through the typography?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Considering the text's legibility, what is the general readability of the words and characters in the image?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Based purely on visual characteristics, what is the likely size of the textual content if printed on paper?",
+        "answer": "Small"
+      },
+      {
+        "question": "Ignoring context, what is the apparent visual tone or mood created by the textual presentation?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "What is the visual appearance of the background surface on which the text is displayed?",
+        "answer": "White"
+      },
+      {
+        "question": "Disregarding grammatical accuracy, what is the dominant grammatical structure of the sentences in the image?",
+        "answer": "Declarative"
+      },
+      {
+        "question": "Without understanding the context, what is the apparent visual density or compactness of the textual information?",
+        "answer": "High"
+      },
+      {
+        "question": "Based on the text's visual uniformity, what is the overall formatting consistency of the presented information?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "What is the primary visual means used to separate the different parts of the textual content?",
+        "answer": "Spacing"
+      },
+      {
+        "question": "What is the visual appearance of the lines and punctuation marks in relation to the rest of the text?",
+        "answer": "Subdued"
+      },
+      {
+        "question": "In terms of visual aesthetics, what is the overall design principle employed in the layout of the textual information?",
+        "answer": "Linear"
+      }
+    ]
+  }
+]

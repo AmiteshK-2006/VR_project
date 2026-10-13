@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/68/68fb4d02.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary text displayed on the rectangular label, indicating the product's core ingredient?",
+        "answer": "Canola"
+      },
+      {
+        "question": "Considering the label's text, what specific processing method was used to extract the oil?",
+        "answer": "Expeller"
+      },
+      {
+        "question": "What is the overall shape of the product, as clearly evidenced by its visible label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based solely on visual inspection, what appears to be the background color of the printed label?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "Describe the typeface used for the text on the product label, based purely on visual observation?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What word precedes the description of the oil's extraction method on the label?",
+        "answer": "Pressed"
+      },
+      {
+        "question": "Observing the product label, what word follows 'Pressed' in describing the oil's source?",
+        "answer": "Canola"
+      },
+      {
+        "question": "What word follows the word 'Canola' on the label, indicating the product's state?",
+        "answer": "Oil"
+      },
+      {
+        "question": "What is the apparent texture of the label's surface based on the image’s resolution?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall color of the printed text on the product's label?",
+        "answer": "Dark"
+      },
+      {
+        "question": "What word is used to introduce the description of the item's components?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Considering the text only, what is the term describing the ingredient's processing?",
+        "answer": "Pressed"
+      },
+      {
+        "question": "What is the style of the lettering used in the word 'Ingredients' on the label?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Judging from the image, what seems to be the material of the product’s label?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Describe the visual alignment of the text on the product label in relation to each other",
+        "answer": "Left"
+      }
+    ]
+  }
+]

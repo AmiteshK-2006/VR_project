@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/40/4043f433.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the outer packaging?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What appears to be the material of the item inside the box?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Describe the overall shape of the item within its packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent texture of the outer packaging material?",
+        "answer": "Corrugated"
+      },
+      {
+        "question": "What seems to be the apparent finish of the item inside?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Is the product inside the box seemingly uniform in color?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the packaging, what might be the item's fragility?",
+        "answer": "Low"
+      },
+      {
+        "question": "What kind of material seems to make up the packaging box?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Does the item inside show any visible markings or labels?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the packaging, how might the product be shipped?",
+        "answer": "Mail"
+      },
+      {
+        "question": "What is the general orientation of the item within the box?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Does the packaging seem to provide ample protection?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent length-to-width ratio of the item?",
+        "answer": "High"
+      },
+      {
+        "question": "Based on the visual, is the product's packaging sealed?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the apparent condition of the outer packaging",
+        "answer": "New"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/28/28fb1ef8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the illustrated assembly steps, what is the overall shape of the assembled product, as depicted in the final image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visual depictions, what appears to be the primary material used in the construction of this product?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Judging by the images provided, what color is the primary external surface of the assembled product?",
+        "answer": "White"
+      },
+      {
+        "question": "Examining the product illustrations, what seems to be the primary function suggested by its design and the instructions?",
+        "answer": "Dispensing"
+      },
+      {
+        "question": "From the provided images, can you identify any visible text or markings on the product itself?",
+        "answer": "None"
+      },
+      {
+        "question": "Observing the illustrations, is there any apparent texture to the product's outer surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the images, what is the approximate size of the product in relation to a human hand?",
+        "answer": "Small"
+      },
+      {
+        "question": "From the provided visual depictions, are there any noticeable seams or joints visible on the assembled product?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the images, how many distinct parts appear to compose the entire product?",
+        "answer": "Two"
+      },
+      {
+        "question": "Looking at the illustrations, does the product appear to have any openings or ports?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging by the images, does the product seem to contain any internal components that are visually apparent?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the images alone, what is the apparent level of complexity in the product\u2019s design?",
+        "answer": "Simple"
+      },
+      {
+        "question": "From the visual depictions, is the product's form predominantly geometric or organic?",
+        "answer": "Geometric"
+      },
+      {
+        "question": "Observing the images, can you determine if the product has any prominent or unique design features?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the illustrations, is the product designed to be portable or stationary?",
+        "answer": "Portable"
+      }
+    ]
+  }
+]

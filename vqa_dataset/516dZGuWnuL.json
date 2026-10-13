@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1c/1c95aed0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the text on the nutrition label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the shape of the nutritional information panel?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the overall background color of the nutrition facts panel?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "What is the font style of the 'Nutrition Facts' heading?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What color is the smaller text detailing the nutritional values?",
+        "answer": "Black"
+      },
+      {
+        "question": "What unit is used for measuring the serving size?",
+        "answer": "tsp"
+      },
+      {
+        "question": "What is the color of the small rectangular blocks of color used to separate the sections?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the number of servings per container indicated?",
+        "answer": "25"
+      },
+      {
+        "question": "What is the weight of one serving in grams?",
+        "answer": "0.6g"
+      },
+      {
+        "question": "Is there a mention of calories per serving in the image?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the number of calories listed per serving?",
+        "answer": "0"
+      },
+      {
+        "question": "Does the label indicate the amount of sodium per serving?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the amount of total fat per serving, in grams?",
+        "answer": "0g"
+      },
+      {
+        "question": "Is the amount of protein per serving specified?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the label provide information on Vitamin A content?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fa/fa740035.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the vacuum sealer's exterior casing?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary material used in the construction of the device?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describing the overall shape of the vacuum sealer, what geometric form best fits it?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the design feature visible on the top surface of the machine?",
+        "answer": "Circular"
+      },
+      {
+        "question": "Based on the images, what seems to be the main function of this appliance?",
+        "answer": "Sealing"
+      },
+      {
+        "question": "What type of bags does the machine appear designed to work with?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the visual details, what is the apparent texture of the device's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the images, what is the apparent size of the vacuum sealer relative to a hand?",
+        "answer": "Small"
+      },
+      {
+        "question": "What seems to be the method of operation implied by the image sequence?",
+        "answer": "Manual"
+      },
+      {
+        "question": "What appears to be the method used to remove air from the bag, visually speaking?",
+        "answer": "Suction"
+      },
+      {
+        "question": "What is the color of the bag containing the vegetables in most images?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Describe the type of food shown within the plastic bags in the images.",
+        "answer": "Vegetables"
+      },
+      {
+        "question": "What is the apparent condition of the vacuum sealer in the images; is it new or used?",
+        "answer": "New"
+      },
+      {
+        "question": "What is the apparent power source for the appliance, given the visual cues?",
+        "answer": "Electrical"
+      },
+      {
+        "question": "Judging by its appearance, is the vacuum sealer designed for commercial or domestic use?",
+        "answer": "Domestic"
+      }
+    ]
+  }
+]

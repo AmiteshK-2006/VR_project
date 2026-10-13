@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/dc/dc9c57bb.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color of this product?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Based on its visual texture and drape, what material is most likely used in the product's construction?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "What is the primary shape suggested by the product's form and how it hangs?",
+        "answer": "Tapered"
+      },
+      {
+        "question": "Observing the product's form, how many visible sections or panels are present?",
+        "answer": "Three"
+      },
+      {
+        "question": "Focusing on the product's mid-section, what design element is clearly visible?",
+        "answer": "Band"
+      },
+      {
+        "question": "Judging by the appearance of the folds and creases, what is the general texture of the material?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Regarding the central band, what is its most apparent function in relation to the overall design?",
+        "answer": "Tie"
+      },
+      {
+        "question": "If we consider the item's hanging form, does it seem to be primarily rigid or flexible?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Analyzing the coloration, is the shade of gray uniform across the whole product or varied?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Looking closely at the edges and seams, how would you describe their visible finish?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Can you describe the visual appearance of the fabric, is it glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Observing the overall construction, is the product's design symmetrical or asymmetrical?",
+        "answer": "Symmetrical"
+      },
+      {
+        "question": "Considering the image, does the product suggest any specific functional use or purpose?",
+        "answer": "Curtain"
+      },
+      {
+        "question": "If you were to touch the product, would the fabric feel coarse or fine?",
+        "answer": "Fine"
+      },
+      {
+        "question": "Based on the visual appearance, would you classify the product as simple or ornate in its design?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

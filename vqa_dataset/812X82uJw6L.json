@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/97/971a0a9b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the meat visible in the package?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What is the overall shape of the bacon package?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent texture of the bacon slices?",
+        "answer": "Striated"
+      },
+      {
+        "question": "What food product is depicted in this image?",
+        "answer": "Bacon"
+      },
+      {
+        "question": "What kind of smoking method is indicated on the label?",
+        "answer": "Applewood"
+      },
+      {
+        "question": "What is the material of the primary packaging?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the general visual appearance of the bacon?",
+        "answer": "Meaty"
+      },
+      {
+        "question": "Describe the arrangement of the bacon slices within the package.",
+        "answer": "Stacked"
+      },
+      {
+        "question": "What color is the prominent label on the bacon packaging?",
+        "answer": "Green"
+      },
+      {
+        "question": "What word is prominently displayed on the green label?",
+        "answer": "Fresh"
+      },
+      {
+        "question": "What kind of preparation method is mentioned in the description?",
+        "answer": "Smoked"
+      },
+      {
+        "question": "Is the bacon presented in individual slices or a block?",
+        "answer": "Block"
+      },
+      {
+        "question": "What is the visible state of the bacon; fresh or cooked?",
+        "answer": "Fresh"
+      },
+      {
+        "question": "Considering the product's image, would you describe its presentation as neatly arranged?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the image, does the bacon appear to be uniform in color and thickness?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

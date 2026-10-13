@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5b/5b6ac03e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color visible on the right half of the depicted sphere?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What is the predominant color visible on the left half of the depicted sphere?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the textural quality of the orange half of the sphere?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What appears to be the textural quality of the black half of the sphere?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What seems to be the overall three-dimensional form of the object shown?",
+        "answer": "Sphere"
+      },
+      {
+        "question": "What kind of visual division separates the orange and black sections?",
+        "answer": "Line"
+      },
+      {
+        "question": "Considering the material and appearance, what is a likely material for this object?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Describing the pattern on the orange section, what kind of geometric shape is repeated?",
+        "answer": "Squares"
+      },
+      {
+        "question": "Considering the image, what is the most apparent characteristic of the surface texture?",
+        "answer": "Patterned"
+      },
+      {
+        "question": "What is the apparent visual weight distribution shown in the image’s color arrangement?",
+        "answer": "Bisected"
+      },
+      {
+        "question": "What is the overall impression conveyed by the color contrast in the image?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the visible condition of the surface of this sphere in the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What can be visually inferred about the sphere's intended use based on its material and design?",
+        "answer": "Sport"
+      },
+      {
+        "question": "Based on the image, what might the surface provide to a user's grip?",
+        "answer": "Friction"
+      },
+      {
+        "question": "What is the visible method of color application to the sphere's surface?",
+        "answer": "Divided"
+      }
+    ]
+  }
+]

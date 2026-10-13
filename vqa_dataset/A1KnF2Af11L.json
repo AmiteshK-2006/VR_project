@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1d/1d7fde7e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color observed across the entire fabric sample?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent feel of this fabric?",
+        "answer": "Fuzzy"
+      },
+      {
+        "question": "Based on the image, what would you describe the overall surface texture as?",
+        "answer": "Textured"
+      },
+      {
+        "question": "From a visual standpoint, what is the general appearance of the material?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Judging by its appearance, what type of fabric is likely represented?",
+        "answer": "Fleece"
+      },
+      {
+        "question": "Does the image suggest any visible pattern or print on the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the uniformity of color distribution throughout the fabric sample.",
+        "answer": "Even"
+      },
+      {
+        "question": "Is there any sheen or glossiness visible on the surface of the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the implied visual weight of the material in the image?",
+        "answer": "Light"
+      },
+      {
+        "question": "Considering the image's detail, how would you characterize the fabric's density?",
+        "answer": "Dense"
+      },
+      {
+        "question": "What is the predominant shade visible in the presented fabric swatch?",
+        "answer": "Slate"
+      },
+      {
+        "question": "Considering the visual grain, how would you describe the fabric's weave?",
+        "answer": "Pile"
+      },
+      {
+        "question": "Based on the image, is the color consistent throughout the displayed fabric?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What kind of finish does the fabric's surface visually appear to have?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the image show any obvious irregularities or flaws in the fabric?",
+        "answer": "No"
+      }
+    ]
+  }
+]

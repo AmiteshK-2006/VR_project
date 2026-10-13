@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/18/18b5a2e5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color scheme used in the presented nutritional information panel?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the nutritional information panel, as depicted in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the font styles employed, what is the predominant font weight used throughout the panel?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the numerical value displayed prominently for the 'Calories' per serving?",
+        "answer": "220"
+      },
+      {
+        "question": "What is the unit of measurement used for the 'Serving size' as specified on the panel?",
+        "answer": "Cupcake"
+      },
+      {
+        "question": "What is the total number of servings listed per container of the food product?",
+        "answer": "Six"
+      },
+      {
+        "question": "Based on the visual representation, what is the type of information presented in the image?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Observing the panel's structure, what is the organizational method used to present the different nutritional components?",
+        "answer": "Table"
+      },
+      {
+        "question": "Regarding the textual content, what is the style of capitalization utilized for the category headings?",
+        "answer": "Sentence"
+      },
+      {
+        "question": "What is the unit of measurement consistently used for 'Total Fat', 'Saturated Fat', and other related components?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the numerical value displayed adjacent to 'Added Sugars', indicating the quantity per serving?",
+        "answer": "21"
+      },
+      {
+        "question": "What is the unit of measurement used for 'Cholesterol' as depicted on the label?",
+        "answer": "Milligrams"
+      },
+      {
+        "question": "What is the percentage daily value shown for 'Total Fat' according to the information on the panel?",
+        "answer": "14"
+      },
+      {
+        "question": "What is the numerical value shown for 'Protein' in grams, as presented on the label?",
+        "answer": "One"
+      },
+      {
+        "question": "What is the abbreviation used to represent 'Potassium' within the nutrition facts?",
+        "answer": "Potas"
+      }
+    ]
+  }
+]

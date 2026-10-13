@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/74/747decca.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color scheme employed in the product's labeling?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Observing the textual elements, what is the primary font style used throughout the ingredient list?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the visual inspection of the text, what is the primary language used for conveying product information?",
+        "answer": "English"
+      },
+      {
+        "question": "Examining the visual layout, how many distinct sections of text are clearly identifiable within the image?",
+        "answer": "Two"
+      },
+      {
+        "question": "Judging from the visual appearance, what is the primary texture of the labeling surface as depicted?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the arrangement of elements, what is the general orientation of the text blocks displayed?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Focusing on the typography, what is the case of the lettering used for the main heading \"INGREDIENTS\"?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Looking at the written components, is there any significant variation in font size used across the text sections?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Assessing the overall design, what is the visual style of the ingredient list \u2013 formal or informal?",
+        "answer": "Formal"
+      },
+      {
+        "question": "Judging from the visual presentation, what is the apparent level of detail in the ingredient descriptions?",
+        "answer": "High"
+      },
+      {
+        "question": "In terms of image quality, is the legibility of the text consistently maintained across all parts?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Observing the visual elements, what is the primary method for separating different ingredient entries?",
+        "answer": "Line breaks"
+      },
+      {
+        "question": "Based on the style used, what type of list is presented (ordered or unordered)?",
+        "answer": "Unordered"
+      },
+      {
+        "question": "Considering the visual design, is there presence of any visual separators or bullets?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the use of bolding, are specific sections of the text highlighted for emphasis?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

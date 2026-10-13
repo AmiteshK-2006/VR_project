@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9d/9dd7114d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the product's packaging?",
+        "answer": "Purple"
+      },
+      {
+        "question": "What is the overall three-dimensional shape of the product container?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the packaging, what material appears to be used for the box?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the general texture of the outer packaging surface, as visually observed?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the visible text, what is the primary function suggested by the product name?",
+        "answer": "Reduction"
+      },
+      {
+        "question": "Does the packaging prominently display any graphic design elements besides text?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the packaging closely, is the print high resolution or low resolution?",
+        "answer": "Low"
+      },
+      {
+        "question": "Judging by its appearance, what is the likely size of the product box in relation to daily items?",
+        "answer": "Medium"
+      },
+      {
+        "question": "From the visible text, what brand is mentioned in relation to the product?",
+        "answer": "Basic"
+      },
+      {
+        "question": "What technology/assistant is mentioned on the packaging illustration?",
+        "answer": "Alexa"
+      },
+      {
+        "question": "What is the orientation of the product box in the provided image?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Considering the design, what is the general style of the product packaging?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Is the packaging visually appealing with vibrant colors and design or mundane?",
+        "answer": "Mundane"
+      },
+      {
+        "question": "Does the packaging display any warnings or safety symbols visually?",
+        "answer": "No"
+      },
+      {
+        "question": "Based solely on visual cues, what category is this product likely in?",
+        "answer": "Medicine"
+      }
+    ]
+  }
+]

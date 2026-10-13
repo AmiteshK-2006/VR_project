@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0c/0c98ff24.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color scheme of this nutritional label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary textual information conveyed prominently across the top of the nutritional label?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Regarding the textual layout, what is the organizational structure primarily employed to present the nutritional information?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the descriptive term specifically used to denote the quantity of a single serving of the food item?",
+        "answer": "Serving"
+      },
+      {
+        "question": "Based on the visual appearance, what unit of measurement is used to express the size of a single serving?",
+        "answer": "Ounce"
+      },
+      {
+        "question": "In terms of visual prominence, what specific nutrient is highlighted in bold typeface near the beginning of the label?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Considering the visual presentation, what macro-nutrient category is listed immediately below 'Calories'?",
+        "answer": "Fat"
+      },
+      {
+        "question": "What specific textual element is presented to denote the percentage of the daily value for each listed nutrient?",
+        "answer": "Percent"
+      },
+      {
+        "question": "What is the primary type of font used throughout the majority of the nutritional label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Focusing on the layout, what textual element is repeatedly positioned to the right of each listed nutrient's value?",
+        "answer": "Percent"
+      },
+      {
+        "question": "What is the visual representation used to denote the separation or distinction between various nutrient categories?",
+        "answer": "Lines"
+      },
+      {
+        "question": "Focusing on the textual style, what is the visual distinction between the nutritional values and other textual elements?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the design element used to visually separate the main nutritional facts from the footnote?",
+        "answer": "Lines"
+      },
+      {
+        "question": "What is the visual style used to represent the values for different nutrients?",
+        "answer": "Numbers"
+      },
+      {
+        "question": "What is the visual characteristic of the text's alignment across the label?",
+        "answer": "Left"
+      }
+    ]
+  }
+]

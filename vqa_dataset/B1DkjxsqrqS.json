@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5a/5a47b9db.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the displayed material sample?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent material type?",
+        "answer": "Stone"
+      },
+      {
+        "question": "Based on the image, what is the overall surface finish of the material?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Describe the visual pattern or grain evident across the sample surface?",
+        "answer": "Streaked"
+      },
+      {
+        "question": "Does the sample present a consistent or varied coloration throughout?",
+        "answer": "Varied"
+      },
+      {
+        "question": "Judging from the image, how would you characterize the material's density?",
+        "answer": "Dense"
+      },
+      {
+        "question": "What is the apparent level of reflectivity of the material's surface?",
+        "answer": "Low"
+      },
+      {
+        "question": "From the visual data, can you describe the material's apparent porosity?",
+        "answer": "Low"
+      },
+      {
+        "question": "In observing the image, what is the overall tone of the material's color?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Based on the visual inspection, is the texture coarse or fine?",
+        "answer": "Coarse"
+      },
+      {
+        "question": "What is the visual impression of the material's grain orientation?",
+        "answer": "Random"
+      },
+      {
+        "question": "Considering the image, is the surface mostly smooth or rough to the touch?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Observing the image, how would you describe the visual weight of the material?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "Does the image depict any noticeable inclusions or imperfections?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the visual texture, what is the likely fabrication method?",
+        "answer": "Natural"
+      }
+    ]
+  }
+]

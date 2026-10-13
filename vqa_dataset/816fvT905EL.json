@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a2/a224c796.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the product packaging, as shown in the provided image?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the image, what is the primary shape of the container holding the product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visual representation, what material appears to be the primary component of the product's packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Judging from the image, what is the text prominently displayed on the product packaging?",
+        "answer": "Simply"
+      },
+      {
+        "question": "What is the texture of the product packaging primarily shown in the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What specific feature is clearly highlighted as a key attribute of the product, based on the packaging image?",
+        "answer": "Anti-Slip"
+      },
+      {
+        "question": "What is the apparent finish type being described for the product, according to the label in the image?",
+        "answer": "Gloss"
+      },
+      {
+        "question": "What is the indicated method of application for this floor product, as shown on the packaging?",
+        "answer": "Spray"
+      },
+      {
+        "question": "Based on the image, what is the product's stated function, as indicated on its label?",
+        "answer": "Restorer"
+      },
+      {
+        "question": "What type of surface is the product designed to treat, as depicted by the image shown?",
+        "answer": "Floor"
+      },
+      {
+        "question": "What is the visible format of the product information presented on the packaging in the image?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the overall style of the packaging design in the image, considering its visual appeal?",
+        "answer": "Clean"
+      },
+      {
+        "question": "What is the apparent size of the product packaging depicted in the image, in relative terms?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the design element included alongside the product name that appears in the image?",
+        "answer": "Logo"
+      },
+      {
+        "question": "What is the apparent weight of the container, as inferred by its image?",
+        "answer": "Light"
+      }
+    ]
+  }
+]

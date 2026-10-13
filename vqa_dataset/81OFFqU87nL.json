@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f6/f6780faa.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed textile sample?",
+        "answer": "Green"
+      },
+      {
+        "question": "Considering the visible texture, what is the apparent surface feel of the fabric?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on visual inspection, what is the overall shade of the material presented?",
+        "answer": "Dark"
+      },
+      {
+        "question": "From the image, what kind of finish does the fabric appear to possess?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging by the visual evidence, what is the most apparent characteristic of this textile?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Does the textile sample show any visible pattern or print on its surface?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the general visual impression of the material's texture, based on the image?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Considering the image, can you determine if the fabric shows a sheen or gloss?",
+        "answer": "No"
+      },
+      {
+        "question": "In terms of visual appearance, how would you describe the depth of the color shown?",
+        "answer": "Rich"
+      },
+      {
+        "question": "Given what is visually apparent, is the fabric’s surface overtly textured or visibly rough?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the textile exhibit any discernible visual flaws or imperfections?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the color shown, how would you classify the overall tone of the material?",
+        "answer": "Muted"
+      },
+      {
+        "question": "What is the apparent state or condition of the fabric displayed in the image?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Does the image clearly depict the material's composition or fiber content?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the visual presentation, is the material’s coloring consistent throughout?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

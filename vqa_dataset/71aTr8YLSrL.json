@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fc/fc8bcc74.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the label's background, providing a visual context for the nutritional information presented?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the overall design, what is the primary style of the text font used to display the 'Supplement Facts' heading and its associated data?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Observing the label, what is the shape of the container that the nutritional information is printed on, assuming a standard packaging format?",
+        "answer": "Bottle"
+      },
+      {
+        "question": "Based on the visual layout, what is the general organizational pattern used to present the detailed nutritional components and their corresponding values?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the texture of the label surface indicated by the subtle light reflections and uniform appearance in the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging from the image, what is the overall tone of the label's color scheme, considering the background and text colors?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "Examining the label closely, what is the material of the label itself, judging from its smooth surface and print quality?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the type of information primarily conveyed on the label, pertaining to the product's composition and dietary aspects?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the style of the numerical values representing the percentages and milligrams on the supplement facts?",
+        "answer": "Arabic"
+      },
+      {
+        "question": "Considering the layout, what is the orientation of the text blocks and data entries on the nutritional label?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the visual prominence of the 'Supplement Facts' heading in comparison to other textual elements?",
+        "answer": "High"
+      },
+      {
+        "question": "Describe the visual appearance of the lines separating the rows of data on the nutritional information table.",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the overall visual clarity and readability of the text and numbers displayed on the label?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Observing the image, what is the format of the units of measurement presented for the different nutrients (mg, mcg, g)?",
+        "answer": "Metric"
+      },
+      {
+        "question": "What is the style of the border around the 'Supplement Facts' section, if any?",
+        "answer": "None"
+      }
+    ]
+  }
+]

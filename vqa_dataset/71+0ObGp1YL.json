@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/17/17e1569d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the packaging, as visibly apparent in the provided image?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the overall shape, what geometric form best describes the product's packaging?",
+        "answer": "Bag"
+      },
+      {
+        "question": "What material appears to compose the main body of the product's packaging?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Focusing on the labeling, what prominent number is displayed on the packaging?",
+        "answer": "365"
+      },
+      {
+        "question": "Examining the text on the label, what dietary attribute is specifically highlighted?",
+        "answer": "Gluten"
+      },
+      {
+        "question": "Based on the visible text, what specific type of pasta is indicated on the package?",
+        "answer": "Penne"
+      },
+      {
+        "question": "What secondary grain, besides corn, is mentioned in the ingredient list shown on the product packaging?",
+        "answer": "Rice"
+      },
+      {
+        "question": "Describe the dominant texture of the packaging's outer surface, as observed in the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall shape of the pasta itself as implied by the product's name on the packaging?",
+        "answer": "Rigate"
+      },
+      {
+        "question": "What is the color of the text prominently displayed on the label, excluding the number 365?",
+        "answer": "Black"
+      },
+      {
+        "question": "What color is the informational block providing details about the product, such as ingredients?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What is the texture of the pasta depicted (although not directly visible, implied by the product type)",
+        "answer": "Dry"
+      },
+      {
+        "question": "Disregarding the number, what style of font is predominantly used on the product's label?",
+        "answer": "Serif"
+      },
+      {
+        "question": "Observe the packaging's seal. What is its most prominent visual characteristic?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Considering the image, does the package display any noticeable tears or damage?",
+        "answer": "No"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0d/0d7e36cb.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the detailed text displayed, what is the primary subject matter depicted in this image?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Observing the provided text, what specific type of ingredient list is showcased?",
+        "answer": "Other"
+      },
+      {
+        "question": "Based on the visual information, what is the text's overall alignment, left, right, or centered?",
+        "answer": "Left"
+      },
+      {
+        "question": "In reference to the presented text, what is the primary style of font used throughout?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the discernible color of the text presented within the image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visual details, what is the approximate size of the text relative to a standard printed page?",
+        "answer": "Small"
+      },
+      {
+        "question": "Judging from the visual representation, what type of background color characterizes this image?",
+        "answer": "White"
+      },
+      {
+        "question": "If focusing on the visual presentation, does the image's background have any noticeable texture or pattern?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the text's visual characteristics, what could you infer about the potential purpose of this image?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Focusing solely on the visual elements, does the image include any illustrations, symbols, or logos?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the visual information suggest the presence of any specific brand names or trademarks?",
+        "answer": "No"
+      },
+      {
+        "question": "By evaluating the visual aspects of the text, what is the apparent line spacing within the provided textual data?",
+        "answer": "Single"
+      },
+      {
+        "question": "From the visual observation, what format does the presented information appear to be in?",
+        "answer": "List"
+      },
+      {
+        "question": "Considering the visual text layout, does the presentation appear to follow a hierarchical or structural order?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the displayed text, what is indicated concerning possible allergen information?",
+        "answer": "Present"
+      }
+    ]
+  }
+]

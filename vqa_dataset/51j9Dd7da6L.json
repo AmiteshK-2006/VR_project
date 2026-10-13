@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f9/f95f2396.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the rectangular object shown?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What appears to be the primary material used in the construction of this item?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Considering its dimensions and apparent sturdiness, what is the likely purpose of this object?",
+        "answer": "Packaging"
+      },
+      {
+        "question": "Considering the visible surface, what is the overall texture of this product?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the object exhibit a consistent and uniform color across its visible surface?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging by the image, is there any visible branding or markings on the rectangular item?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the picture, does the object have any noticeable perforations or creases?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the most prominent geometric shape of the object presented in the image.",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging by its size relative to the hands, is the item relatively large or small?",
+        "answer": "Small"
+      },
+      {
+        "question": "Based on the appearance, what is the likely weight of the product shown in relation to its size?",
+        "answer": "Light"
+      },
+      {
+        "question": "Considering the material and build, would you describe the object as rigid or flexible?",
+        "answer": "Rigid"
+      },
+      {
+        "question": "What is the overall impression of the product's quality given its visual appearance?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Observing closely, are there any noticeable flaws or damage on the object's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the object's visual presentation suggest that it is intended for single or multiple use?",
+        "answer": "Single"
+      },
+      {
+        "question": "Does the rectangular item have any visible flaps, seals, or closures?",
+        "answer": "No"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c7/c7d69310.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the displayed textile sample?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent material of the sample?",
+        "answer": "Felt"
+      },
+      {
+        "question": "Based on the image, how would you describe the overall surface texture of the material?",
+        "answer": "Napped"
+      },
+      {
+        "question": "Does the material exhibit a consistent or varied color throughout its visible area?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Judging from the image, what is the implied density or thickness of the material?",
+        "answer": "Thick"
+      },
+      {
+        "question": "What kind of visual finish or effect does the surface of the textile appear to possess?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering its texture, would you describe the textile's surface as smooth or rough?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Does the material appear to have any noticeable pattern or visible weave?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the visual appearance, is the textile's finish glossy or non-glossy?",
+        "answer": "Non-glossy"
+      },
+      {
+        "question": "From the image, how would you describe the uniformity of the textile's coloration?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What impression regarding the level of reflectivity does the textile's surface give?",
+        "answer": "Low"
+      },
+      {
+        "question": "Considering the visual characteristics, what is the likely tactile quality of the material?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Does the sample exhibit a visible sheen or luster in the given image?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image, is the sample of material a solid or variegated color?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Does the image indicate the textile is likely heavy or lightweight in nature?",
+        "answer": "Heavy"
+      }
+    ]
+  }
+]

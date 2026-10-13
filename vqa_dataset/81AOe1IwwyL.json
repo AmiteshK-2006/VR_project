@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3f/3f5a6399.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the displayed material sample?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the apparent texture of the surface shown in the image?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Based on visual assessment, what material type seems to be depicted?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Considering the image, how would you describe the overall visual tone?",
+        "answer": "Solid"
+      },
+      {
+        "question": "From a visual perspective, what is the primary visual characteristic?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Does the image suggest any noticeable pattern on the material?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the apparent level of sheen or glossiness visible on the surface?",
+        "answer": "Slight"
+      },
+      {
+        "question": "Judging by the image, how would you characterize the material's grain?",
+        "answer": "Fine"
+      },
+      {
+        "question": "Considering the image, what is the implied visual depth of the material?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Does the image display any visible irregularities or imperfections in the material?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the visual, what is the perceived visual density of the material?",
+        "answer": "Dense"
+      },
+      {
+        "question": "How would you characterize the visible color saturation of the displayed material?",
+        "answer": "High"
+      },
+      {
+        "question": "Does the image show evidence of any distinct markings on the material?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent light reflectivity of the displayed surface?",
+        "answer": "Low"
+      },
+      {
+        "question": "Considering the image, how would you describe the visual homogeneity of the material?",
+        "answer": "High"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/88/882fcf97.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the visible surface of the presented object?",
+        "answer": "Copper"
+      },
+      {
+        "question": "What is the overall shape of the displayed metallic item?",
+        "answer": "Round"
+      },
+      {
+        "question": "Describe the apparent texture of the item's uppermost surface based on the image.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What seems to be the primary material used in the construction of this object?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Considering the reflective qualities, what is the finish of the object's surface?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Judging by the image, what is the apparent depth or concavity of the object?",
+        "answer": "Shallow"
+      },
+      {
+        "question": "Does the object show any visible patterns or markings on its surface?",
+        "answer": "Swirls"
+      },
+      {
+        "question": "What is the general visual impression of the object's surface treatment?",
+        "answer": "Polished"
+      },
+      {
+        "question": "Considering the image, what is the apparent weight or heft of the object?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "Based on the image, describe the edge profile of the round object shown.",
+        "answer": "Curved"
+      },
+      {
+        "question": "What is the apparent size relative to average household items?",
+        "answer": "Large"
+      },
+      {
+        "question": "Is the visible surface of the object uniformly colored?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the metallic object have a matte or a shiny appearance?",
+        "answer": "Shiny"
+      },
+      {
+        "question": "What is the general design style of the displayed object?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the apparent function suggested by the shape and material of the object?",
+        "answer": "Decorative"
+      }
+    ]
+  }
+]

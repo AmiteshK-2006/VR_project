@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ba/babf7ed0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary textual information conveyed on the presented rectangular product surface?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Considering the overall color scheme, what is the dominant shade observed across the majority of the product's surface?",
+        "answer": "Beige"
+      },
+      {
+        "question": "In terms of visual structure, how would you classify the arrangement of the information presented on the item?",
+        "answer": "Tabular"
+      },
+      {
+        "question": "What is the text size of the prominent nutritional value figures prominently displayed on the product?",
+        "answer": "Large"
+      },
+      {
+        "question": "Considering the font style used throughout the product's labeling, what is its general classification?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the overall orientation of the labeling on the surface of this particular food product?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the texture implied by the visual appearance of the label's surface, as shown in the product image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What material is most likely used for the packaging, judging from its visual characteristics?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Describe the format of the data presented on the label, based on the visual arrangement of its elements",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the general appearance of the typeface used in the header at the top of the nutritional information section?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Based on the provided visual, what seems to be the nature of the food item's packaging, given the presence of nutritional information?",
+        "answer": "Box"
+      },
+      {
+        "question": "Considering the textural details of the image, is the product label glossy or matte in appearance?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the shape of the container, as visually suggested by the dimensions of the printed nutrition information?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent condition of the product label, judging from its visual clarity and lack of damage?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Observing the product image carefully, describe the layout style of the displayed nutritional content?",
+        "answer": "Columnar"
+      }
+    ]
+  }
+]

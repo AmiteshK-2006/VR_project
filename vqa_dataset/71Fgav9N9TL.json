@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/34/3471503a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall shape and structure, what is the most prominent geometric form of this product?",
+        "answer": "Cylinder"
+      },
+      {
+        "question": "What is the primary color of the bottle containing the product, as observed in the image?",
+        "answer": "Amber"
+      },
+      {
+        "question": "Observing the cap, what material appears to have been predominantly used in its construction?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on the visual texture of the bottle, what is the most appropriate tactile description?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What color is the main label on the product bottle, noticeable at the center of the image?",
+        "answer": "Purple"
+      },
+      {
+        "question": "What is the apparent material of the main body of the product container, given the visual cues?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Based on the image, what appears to be the dominant design element on the main label?",
+        "answer": "Text"
+      },
+      {
+        "question": "Judging by the image, what does the primary text on the label seem to identify the contents as?",
+        "answer": "Oil"
+      },
+      {
+        "question": "What is the apparent visual state of the liquid inside the bottle \u2013 is it clear or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What is the visual characteristic of the cap's surface, is it glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the observed color of the text on the main label of the product?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe the visual style of the text font on the product label \u2014is it serif or sans-serif?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Is there any other secondary label visible on the bottle besides the primary one?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the image, is the bottle transparent or translucent?",
+        "answer": "Translucent"
+      },
+      {
+        "question": "What is the apparent size of the bottle, based on its visual representation relative to the image boundaries?",
+        "answer": "Small"
+      }
+    ]
+  }
+]

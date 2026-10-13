@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/af/afde8d16.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the handbag shown in the provided image?",
+        "answer": "Tan"
+      },
+      {
+        "question": "What appears to be the primary material used in the construction of this handbag?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Considering the overall form, what is the most accurate geometric description of the handbag's shape?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the image, what type of closure mechanism is visibly present on the handbag?",
+        "answer": "Buckle"
+      },
+      {
+        "question": "What is the apparent texture of the handbag's exterior, as depicted in the provided image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Focusing solely on what is visually apparent, how many handles does the bag possess?",
+        "answer": "Two"
+      },
+      {
+        "question": "Does the shoulder strap of the handbag seem to be detachable, based on visual inspection of the image?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging from the image, is the bag's main compartment seemingly spacious or compact?",
+        "answer": "Spacious"
+      },
+      {
+        "question": "What style of strap is affixed to the bag for carrying it across the body?",
+        "answer": "Shoulder"
+      },
+      {
+        "question": "Based on visual assessment, what is the apparent overall style of the handbag shown?",
+        "answer": "Classic"
+      },
+      {
+        "question": "What metallic color appears on the hardware of the bag (buckles, etc.)?",
+        "answer": "Gold"
+      },
+      {
+        "question": "Does the visual appearance of the bag suggest it is designed for formal or casual use?",
+        "answer": "Casual"
+      },
+      {
+        "question": "Observing the image carefully, are there any visible patterns or designs on the bag's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the visual presentation of the bag, what would describe its overall size?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the apparent finish of the leather, based on the light reflection in the image?",
+        "answer": "Glossy"
+      }
+    ]
+  }
+]

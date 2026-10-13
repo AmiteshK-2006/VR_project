@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e2/e2e81d37.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the detailed font and layout, what is the primary subject matter depicted in this image?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Based on the visual layout and distinct sections, what specific type of information is being presented?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Observing the numerical data, what is the primary unit used for measuring caloric content?",
+        "answer": "Calories"
+      },
+      {
+        "question": "What is the unit used for measuring the quantity of total fat presented within the provided information?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What term is used to quantify the amount of saturated fat included in the nutritional details?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What measurement unit is used to quantify cholesterol in the presented nutritional data?",
+        "answer": "Milligrams"
+      },
+      {
+        "question": "Examining the provided nutritional information, what unit is used for the measurement of sodium?",
+        "answer": "Milligrams"
+      },
+      {
+        "question": "Focusing on the carbohydrate section, what unit is used to represent the total carbohydrate content?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What unit is employed to represent the quantity of dietary fiber listed in the nutritional information?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What unit of measurement is used for the amount of protein presented in the nutritional facts?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the unit used to express the percentage values related to daily recommended intake?",
+        "answer": "Percent"
+      },
+      {
+        "question": "Observing the layout, what is the primary organizational structure used to present the nutritional data?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the serving size specified in relation to the overall container's contents?",
+        "answer": "Half"
+      },
+      {
+        "question": "What is the overall formatting style of the presented textual information?",
+        "answer": "Columns"
+      },
+      {
+        "question": "In terms of visual presentation, what style is used to highlight key data points?",
+        "answer": "Bold"
+      }
+    ]
+  }
+]

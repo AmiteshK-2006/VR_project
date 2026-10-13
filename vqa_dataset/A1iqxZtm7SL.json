@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bd/bd8450b9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the displayed rug, based on its visual appearance?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering the texture apparent in the image, what is the overall feel of the rug's surface?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Judging solely from the image provided, what appears to be the primary material used in the rug's construction?",
+        "answer": "Jute"
+      },
+      {
+        "question": "Based on the image, what is the general shape of the presented floor covering?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the visible overall design style of the rug, as shown in the image?",
+        "answer": "Simple"
+      },
+      {
+        "question": "From the image, how would you describe the apparent density or thickness of the rug?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What kind of visual pattern or structure is observed in the fibers of the shown rug?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Looking closely, is there any discernible sheen or glossiness apparent on the rug's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the rug in the image appear to have any noticeable embellishments or decorative elements?",
+        "answer": "No"
+      },
+      {
+        "question": "Based purely on visual observation, how would you characterize the overall tone of the rug's coloring?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "Considering what is visibly shown, how would you describe the uniformity of the rug's color and texture?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "From the image, what level of detail is visually apparent in the rug's weave or construction?",
+        "answer": "Low"
+      },
+      {
+        "question": "Does the image reveal any noticeable flaws or imperfections in the rug's visual presentation?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the visual evidence, what kind of visual impression does the rug project, in terms of its aesthetic?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Does the photograph offer a clear and detailed view of the rug's edges or borders?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

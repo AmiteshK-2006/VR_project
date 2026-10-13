@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9c/9cc25bff.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary textual element depicted in this image, concerning the product's composition?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Considering the textual information provided, what specific component is listed as a modified element?",
+        "answer": "Cellulose"
+      },
+      {
+        "question": "Based on the text, what type of cellulose is used in the composition of this product?",
+        "answer": "Vegetable"
+      },
+      {
+        "question": "According to the provided text, what processing note is given regarding the manufacturing location?",
+        "answer": "Produced"
+      },
+      {
+        "question": "What type of nut is mentioned in the cautionary statement about the processing facility?",
+        "answer": "Tree"
+      },
+      {
+        "question": "In addition to tree nuts, what other allergen is mentioned concerning the processing facility?",
+        "answer": "Shellfish"
+      },
+      {
+        "question": "Besides tree nuts and shellfish, what other allergen is noted regarding the processing plant?",
+        "answer": "Soy"
+      },
+      {
+        "question": "What is the grammatical structure of the primary statement about the other ingredients?",
+        "answer": "Declarative"
+      },
+      {
+        "question": "What is the grammatical function of the word 'modified' in the ingredients list?",
+        "answer": "Adjective"
+      },
+      {
+        "question": "What is the grammatical tense used in the statement about the manufacturing facility's processes?",
+        "answer": "Passive"
+      },
+      {
+        "question": "What is the general style of the text found within this image, in terms of its font?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the color of the ink used to print the provided textual information?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the general style of the text presented, considering aspects like size and spacing?",
+        "answer": "Formal"
+      },
+      {
+        "question": "What is the overall visual presentation of the provided information?",
+        "answer": "Textual"
+      },
+      {
+        "question": "In what form is the product information shown?",
+        "answer": "Printed"
+      }
+    ]
+  }
+]

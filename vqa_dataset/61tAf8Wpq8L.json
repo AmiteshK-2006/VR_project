@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1f/1f3fbdc9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the depicted medication packaging?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What type of pain relief does the box claim to address?",
+        "answer": "Muscle"
+      },
+      {
+        "question": "What is the stated dosage of the active ingredient per tablet?",
+        "answer": "220mg"
+      },
+      {
+        "question": "What is the name of the active pharmaceutical ingredient?",
+        "answer": "Naproxen"
+      },
+      {
+        "question": "What is the shape of the illustrated packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the brand name prominently displayed on the box?",
+        "answer": "Basic"
+      },
+      {
+        "question": "What is the total number of tablets contained in the box?",
+        "answer": "24"
+      },
+      {
+        "question": "What type of medication is this, according to the label?",
+        "answer": "NSAID"
+      },
+      {
+        "question": "What additional ailment does the product claim to treat?",
+        "answer": "Fever"
+      },
+      {
+        "question": "What is the indicated duration of pain relief?",
+        "answer": "12"
+      },
+      {
+        "question": "What is the texture of the box illustrated in the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall form of the product packaging?",
+        "answer": "Box"
+      },
+      {
+        "question": "What is the colour of the tablets shown on the packaging?",
+        "answer": "LightBlue"
+      },
+      {
+        "question": "What is the type of lettering used for the brand name?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What part of the body does the product target for pain relief, according to the image?",
+        "answer": "Back"
+      }
+    ]
+  }
+]

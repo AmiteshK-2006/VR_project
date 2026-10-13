@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9b/9be619a8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual layout, what is the predominant orientation of the displayed information?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Focusing on the textual content, what is the primary subject matter being conveyed?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Based on the text's appearance, what printing method seems to have been utilized for the product label?",
+        "answer": "Offset"
+      },
+      {
+        "question": "Observing the textual arrangement, what is the general alignment of the majority of the text blocks?",
+        "answer": "Left"
+      },
+      {
+        "question": "Looking closely at the font style used, what best describes its overall appearance?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the grayscale palette, what is the dominant color observed in the text and background?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Judging by the visual texture, what would you describe the surface feel of the product's label?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "In terms of the informational density, how would you characterize the amount of text present on the label?",
+        "answer": "High"
+      },
+      {
+        "question": "Examining the size and scale of the text elements, what is the approximate relative size of the main headings in comparison to the body text?",
+        "answer": "Larger"
+      },
+      {
+        "question": "Concerning the visual presentation, what can be said of the overall organization and arrangement of information?",
+        "answer": "Structured"
+      },
+      {
+        "question": "If one were to describe the visual style of the text, what adjective best summarizes the overall aesthetic?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Considering the clarity of the typography, how would you evaluate the legibility of the product information?",
+        "answer": "High"
+      },
+      {
+        "question": "Looking at the visual hierarchy established by the label, which section seems to hold the most prominence?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Analyzing the background, what visual texture or pattern is primarily noticeable across the surface?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Based on the text, what is the name of the company distributing this product?",
+        "answer": "Wholefoods"
+      }
+    ]
+  }
+]

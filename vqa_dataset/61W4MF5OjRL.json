@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bb/bbefbad1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the primary color scheme of this product's label, considering the background and text?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Based on the text's visual appearance, what is the typeface used for the product name and ingredient list?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Examining the text's alignment and visual structure, how is the ingredient list formatted on the product's packaging?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Judging by the text's visual characteristics, what is the size of the font used for the primary product identifier?",
+        "answer": "Large"
+      },
+      {
+        "question": "Considering the label's visual details, what is the primary method used to delineate sections of the text, such as ingredient and nutritional information?",
+        "answer": "Spacing"
+      },
+      {
+        "question": "Looking at the image, what is the overall shape of the provided label or packaging for this product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visual information, what is the texture of the background on the product label?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the visual layout of the label, what is the position of the product name on the package?",
+        "answer": "Bottom"
+      },
+      {
+        "question": "Based on the visual presentation of the text, what is the style of the lettering used for the ingredients?",
+        "answer": "Plain"
+      },
+      {
+        "question": "From the visual characteristics, what is the apparent material of the label or package shown?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Considering the visible details on the product label, is there a barcode present?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging by the visual information, what is the color of the text on the product label?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Based solely on visual observation, what is the style of the barcode on the package?",
+        "answer": "Standard"
+      },
+      {
+        "question": "Judging by the image, does the label contain any graphics, aside from text and barcodes?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the visual characteristics of the product label, does it show any certification marks or logos?",
+        "answer": "No"
+      }
+    ]
+  }
+]

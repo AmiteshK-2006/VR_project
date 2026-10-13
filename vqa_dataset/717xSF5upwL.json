@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1b/1b107f66.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the sausages depicted in the provided image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What appears to be the primary material composing the sausages shown?",
+        "answer": "Meat"
+      },
+      {
+        "question": "Considering the image, what is the apparent shape of each individual sausage?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Based on the image, what kind of packaging is the sausage product contained within?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the apparent overall shape of the sausage packaging as viewed from the side?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Judging from the image, what is the approximate number of sausages in the package?",
+        "answer": "Four"
+      },
+      {
+        "question": "From the image, describe the surface texture of the sausages shown?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on visual inspection, is there any visible labeling on the sausages themselves?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What color is the primary background on the packaging label?",
+        "answer": "White"
+      },
+      {
+        "question": "Does the packaging appear to be sealed or openable from the side shown?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Judging by the image, what is the apparent transparency level of the packaging?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Does the image reveal any visible signs of damage or imperfections on the packaging?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on visual inspection, are there any noticeable markings or branding on the packaging?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent overall size of the packaging relative to a human hand?",
+        "answer": "Small"
+      },
+      {
+        "question": "In the provided image, describe the apparent degree of glossiness of the sausage casings?",
+        "answer": "Slight"
+      }
+    ]
+  }
+]

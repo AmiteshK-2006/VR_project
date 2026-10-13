@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/db/db39afb9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall shape of the bottle, what best describes its form, as seen in the image?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What is the predominant color of the liquid inside the bottle, as visibly apparent?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Based solely on the image, what appears to be the primary material of the bottle itself?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Examining the bottle's cap, what color is it, based on visual observation?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the material that the cap appears to be made of, as seen in the product image?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is visually depicted on the bottle's label, in relation to the product's purpose?",
+        "answer": "Pancakes"
+      },
+      {
+        "question": "Describe the texture of the pancake shown on the label, as you visually perceive it from the image.",
+        "answer": "Fluffy"
+      },
+      {
+        "question": "What type of food is depicted being poured with the syrup, according to the image's label?",
+        "answer": "Pancakes"
+      },
+      {
+        "question": "What is the word that immediately follows 'Original' on the label, in the product's description?",
+        "answer": "Pancake"
+      },
+      {
+        "question": "What single word best describes the consistency suggested by the image of the syrup?",
+        "answer": "Syrupy"
+      },
+      {
+        "question": "In the image, what is the primary color used in the logo displayed on the bottle?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What's the shape of the logo on the bottle, ignoring the text inside?",
+        "answer": "Circular"
+      },
+      {
+        "question": "What is the overall visual impression of the syrup's shade, viewed in the container?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Looking at the label, what word follows 'Pancake' in describing the product?",
+        "answer": "Syrup"
+      },
+      {
+        "question": "Disregarding text, what is the shape of the syrup bottle's main body, as observed in the picture?",
+        "answer": "Bulbous"
+      }
+    ]
+  }
+]

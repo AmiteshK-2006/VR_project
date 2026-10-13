@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a5/a5392ffa.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape and the presence of textual information, what is the primary format of this product's packaging?",
+        "answer": "Box"
+      },
+      {
+        "question": "Observing the color scheme, what is the dominant background color of the nutritional information panel?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the visual layout, what is the type of information prominently displayed across the majority of the surface?",
+        "answer": "Text"
+      },
+      {
+        "question": "Analyzing the typography, what is the style of the prominent 'Nutrition Facts' heading?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Given the visual structure, what is the overall organizational method used to present the nutritional data?",
+        "answer": "Table"
+      },
+      {
+        "question": "Judging by the text's arrangement, what is the style of the font predominantly used for the nutritional values?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Focusing on the detailed entries, what is the unit of measurement used for values such as 'Total Fat' and 'Cholesterol'?",
+        "answer": "mg"
+      },
+      {
+        "question": "Looking at the fine print, what unit is consistently used for 'calories from fat' and other energy-related values?",
+        "answer": "kcal"
+      },
+      {
+        "question": "Considering the color contrast, what color is used for the smaller text describing the serving size and other details?",
+        "answer": "Black"
+      },
+      {
+        "question": "By observing the visual hierarchy, what is the overall tone conveyed by the presentation of the nutritional information?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Examining the visual presentation of each nutrient, what is the formatting style for percentages indicating daily values?",
+        "answer": "Small"
+      },
+      {
+        "question": "Looking at the detailed breakdown, what is the general color of the text that presents percentages of daily values?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the texture evident from the image, what would be the likely texture of the product's carton?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image and considering packaging conventions, what is the likely material of the product's outer packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "By observing the printed details, what is the language used for the displayed nutritional information?",
+        "answer": "English"
+      }
+    ]
+  }
+]

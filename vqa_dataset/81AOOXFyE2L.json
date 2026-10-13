@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/20/2067f879.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color scheme of the product packaging, visually dominant in the image?",
+        "answer": "Purple"
+      },
+      {
+        "question": "What type of pet is depicted on the product's packaging, clearly visible on the main panel?",
+        "answer": "Dog"
+      },
+      {
+        "question": "What is the stated application method of the product, indicated in the packaging text?",
+        "answer": "Topical"
+      },
+      {
+        "question": "Considering the package's design and labeling, what is the target species for the product?",
+        "answer": "Dogs"
+      },
+      {
+        "question": "Based on the image, what pests are specifically targeted by this product, as indicated on the packaging?",
+        "answer": "Fleas"
+      },
+      {
+        "question": "What shape does the main packaging container take, as shown in the provided image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the material of the primary packaging, as visually suggested by its appearance?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the number of individual units contained within the main packaging, as indicated on the box?",
+        "answer": "Three"
+      },
+      {
+        "question": "Describe the overall texture of the product packaging, as presented in the image.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the general design style of the product packaging, considering visual elements?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What word is prominently displayed as the brand name on the packaging?",
+        "answer": "SOLMO"
+      },
+      {
+        "question": "What additional pests are mentioned, aside from fleas, on the product packaging?",
+        "answer": "Ticks"
+      },
+      {
+        "question": "Considering the design, what is the overall visual impression of the packaging?",
+        "answer": "Clean"
+      },
+      {
+        "question": "What is the form factor of the individual application units, visually implied but not directly shown?",
+        "answer": "Tubes"
+      },
+      {
+        "question": "What warning is prominently displayed on the product packaging?",
+        "answer": "Caution"
+      }
+    ]
+  }
+]

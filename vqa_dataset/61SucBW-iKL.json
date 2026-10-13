@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/64/644192c4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the phone case shown in the main image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What material is explicitly mentioned in the image's description as comprising the phone case?",
+        "answer": "TPU"
+      },
+      {
+        "question": "Considering the image, what is the overall shape of the phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visual, describe the apparent flexibility of the phone case material?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Judging from the image, what is the apparent texture of the phone case's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Referring to the image, does the phone case appear to have any prominent patterns or designs?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the phone case shown appear to have cutouts for buttons or ports?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent finish of the phone case; is it glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "From the main image, what phone model does the case seem designed to fit?",
+        "answer": "M31"
+      },
+      {
+        "question": "Judging from the image, is the case shown a single or multi-piece design?",
+        "answer": "Single"
+      },
+      {
+        "question": "According to the provided visual, what is the thickness of the phone case?",
+        "answer": "Slim"
+      },
+      {
+        "question": "Based on the image, how many camera lens cutouts are visible on the case?",
+        "answer": "Three"
+      },
+      {
+        "question": "Does the image suggest any branding or logos on the case itself?",
+        "answer": "No"
+      },
+      {
+        "question": "From the provided visual, what is the general style of the phone case?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Judging from the image, what is the primary function of the displayed item?",
+        "answer": "Protection"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/09/09f37c06.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form and arrangement, what is the dominant geometrical attribute of this produce package?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Disregarding any labels, what is the most prominent hue observed across the entirety of the visible produce?",
+        "answer": "Orange"
+      },
+      {
+        "question": "Focusing solely on the visible produce, what is the most apparent textural quality of the product's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the visible produce items individually, what is the general shape of each unit shown in the package?",
+        "answer": "Conical"
+      },
+      {
+        "question": "Based on visual characteristics alone, what appears to be the primary material composing the majority of this item's contents?",
+        "answer": "Vegetable"
+      },
+      {
+        "question": "What kind of packaging material is predominantly used to enclose and protect the item's contents?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the packaging design, can you determine the most visible type of information provided on the primary label?",
+        "answer": "Text"
+      },
+      {
+        "question": "In reference to the produce's form, describe the typical orientation of the items within their packaging.",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Considering the visual information available, what is the apparent condition of the produce (fresh, wilted, etc.)?",
+        "answer": "Fresh"
+      },
+      {
+        "question": "What is the dominant color of the main label affixed to the exterior of this product's packaging?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Judging from the image, what appears to be the approximate quantity of produce items enclosed within the packaging?",
+        "answer": "Five"
+      },
+      {
+        "question": "Regarding the item's contents, describe the visual consistency of these similar objects within their packaging.",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Describe the clarity of the plastic packaging showing the produce items contained inside.",
+        "answer": "Clear"
+      },
+      {
+        "question": "Observing the produce items, does their surface display any notable blemishes or imperfections?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the packaging, are there any noticeable perforations or openings designed for easy access or ventilation?",
+        "answer": "No"
+      }
+    ]
+  }
+]

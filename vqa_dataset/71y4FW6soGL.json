@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b1/b104e6bc.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what is the dominant color scheme employed in the provided nutrition label?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What term prominently features at the very top of this nutritional information panel?",
+        "answer": "Guaranteed"
+      },
+      {
+        "question": "Focusing on the textual content, what specific nutrient's minimum percentage is indicated?",
+        "answer": "Protein"
+      },
+      {
+        "question": "What is the highest percentage value listed for any of the listed nutrients or components?",
+        "answer": "Nine"
+      },
+      {
+        "question": "What is the stated maximum percentage for moisture content, as presented within the provided data?",
+        "answer": "Eight"
+      },
+      {
+        "question": "Referring to the listed information, what is the minimum percentage value provided for crude fat?",
+        "answer": "Six"
+      },
+      {
+        "question": "Based on the presented information, what is the maximum percentage for crude fiber, as specified in the data?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the label's secondary, descriptive term that follows the word \"Guaranteed\"?",
+        "answer": "Analysis"
+      },
+      {
+        "question": "What is the maximum percentage value provided for crude fat, according to the given data?",
+        "answer": "Nine"
+      },
+      {
+        "question": "Observing the data, which nutrient's value is listed as both a minimum and a maximum?",
+        "answer": "Fat"
+      },
+      {
+        "question": "What unit of measurement is consistently appended to each numerical value provided in this analysis?",
+        "answer": "Percent"
+      },
+      {
+        "question": "What is the primary subject or focus outlined in the presented information block?",
+        "answer": "Analysis"
+      },
+      {
+        "question": "What word describes the kind of analysis displayed?",
+        "answer": "Guaranteed"
+      },
+      {
+        "question": "In the context of the provided nutritional data, what is the minimum percentage for a particular component?",
+        "answer": "Six"
+      },
+      {
+        "question": "In this nutritional breakdown, what is the maximum percentage of a specific constituent?",
+        "answer": "Nine"
+      }
+    ]
+  }
+]

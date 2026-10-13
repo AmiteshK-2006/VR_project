@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/80/80aa6c03.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what geometric shape best describes the product's container?",
+        "answer": "Cylinder"
+      },
+      {
+        "question": "What is the predominant color of the bottle's main body, as observed in the provided image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Based on visual inspection, what appears to be the material of the bottle's primary structure?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the most prominent text featured on the label, identifying the retailer?",
+        "answer": "Wholefoods"
+      },
+      {
+        "question": "Judging by the image, what kind of seal is visibly present on the bottle's cap?",
+        "answer": "Tamper"
+      },
+      {
+        "question": "What type of label is used on this product, featuring detailed product information?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Observing the label, what is the primary color of the text used throughout?",
+        "answer": "Black"
+      },
+      {
+        "question": "Looking at the text on the label, what is the indication of quality assurance?",
+        "answer": "GMP"
+      },
+      {
+        "question": "Considering the design, is there any noticeable logo present on the container?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Observing the base of the container, what is the text visible near the barcode?",
+        "answer": "Number"
+      },
+      {
+        "question": "What type of print does the brand name appear to be on the label?",
+        "answer": "Text"
+      },
+      {
+        "question": "Is there a discernible barcode visible on the label that shows product identification?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the structure, what feature indicates a closure mechanism to protect the content?",
+        "answer": "Cap"
+      },
+      {
+        "question": "Based on the image, what seems to be the overall condition of the product's packaging?",
+        "answer": "New"
+      },
+      {
+        "question": "Does the bottle exhibit any apparent scratches, dents, or signs of prior use?",
+        "answer": "No"
+      }
+    ]
+  }
+]

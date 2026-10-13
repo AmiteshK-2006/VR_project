@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/63/63669c4a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed fabric sample?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the apparent texture of the fabric, based on visual inspection?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Considering the visual details, what is the most apparent material type?",
+        "answer": "Linen"
+      },
+      {
+        "question": "Judging from the image, what is the general visual appearance of the weave?",
+        "answer": "Tight"
+      },
+      {
+        "question": "Based on the image, does the fabric seem to have a noticeable sheen?",
+        "answer": "No"
+      },
+      {
+        "question": "If you were to describe the fabric's visual grain, what term would apply?",
+        "answer": "Linear"
+      },
+      {
+        "question": "What visual characteristic best describes the color's intensity?",
+        "answer": "Subdued"
+      },
+      {
+        "question": "Considering its visual uniformity, what would you call the fabric's pattern?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Does the fabric visually suggest a rough or smooth hand-feel?",
+        "answer": "Rough"
+      },
+      {
+        "question": "From the visual information alone, what is the visual weight of the fabric?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Observing the visual details, is the fabric's pattern regular or irregular?",
+        "answer": "Regular"
+      },
+      {
+        "question": "Based solely on the image's visual details, what is the overall visual tone?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "Judging by the image, what is the visual level of color variation?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "From a visual standpoint, is the fabric's surface visually matte or glossy?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the weave's visual density, how would you describe its visual openness?",
+        "answer": "Close"
+      }
+    ]
+  }
+]

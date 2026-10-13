@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d9/d9a9d619.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall structure and layout, what is the primary function of this rectangular graphic, visually dominated by text organized into columns and rows?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the overall color scheme used for the text and borders within this structured informational graphic?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Focusing on the text headers, what is the dominant typeface used to convey the title and subheadings?",
+        "answer": "Serif"
+      },
+      {
+        "question": "Based on the visual style of the fonts and the arrangement of the data, what is the intended audience for this clearly formatted information?",
+        "answer": "Consumers"
+      },
+      {
+        "question": "Observing the text content, primarily numeric values, what is the central subject being quantitatively described?",
+        "answer": "Food"
+      },
+      {
+        "question": "What is the format of the data displayed in the majority of cells within the grid-like structure, conveying specific measurements?",
+        "answer": "Numeric"
+      },
+      {
+        "question": "Considering the units used for measurements like 'mg' and 'g', what is the most likely unit system used?",
+        "answer": "Metric"
+      },
+      {
+        "question": "What is the textual label displayed prominently at the top of this informational graphic, denoting its core purpose?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Considering the size and prominence of the values, which nutritional component has the highest numerical value?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Observing the table's content and formatting, what is the nature of the information displayed in the final row of the table?",
+        "answer": "Vitamins"
+      },
+      {
+        "question": "What is the text displayed below the main numerical table, containing supplementary clarifications?",
+        "answer": "Footnote"
+      },
+      {
+        "question": "What is the term repeatedly used in the data table, indicating percentage values relative to recommended daily intake?",
+        "answer": "Percent"
+      },
+      {
+        "question": "What is the term used to refer to the quantity of food being measured, typically per serving?",
+        "answer": "Serving"
+      },
+      {
+        "question": "What descriptor describes the state of the food before and after cooking (as indicated in the text)?",
+        "answer": "Cooked"
+      },
+      {
+        "question": "What is the specific type of information provided on the food item in this detailed table?",
+        "answer": "Facts"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c5/c54d3a20.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant shape of each individual item in the image?",
+        "answer": "Sphere"
+      },
+      {
+        "question": "What is the primary color of the item positioned on the left?",
+        "answer": "Red"
+      },
+      {
+        "question": "What color is the item situated in the central position?",
+        "answer": "Orange"
+      },
+      {
+        "question": "Describing the hue of the rightmost item, what color is it?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "Considering the overall visual texture, how would you describe its appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What seems to be the general material of the objects depicted?",
+        "answer": "Gummy"
+      },
+      {
+        "question": "Based on the image, are there any discernible patterns or markings on the items?",
+        "answer": "None"
+      },
+      {
+        "question": "In terms of their apparent physical attributes, what is the size comparison between the three items?",
+        "answer": "Similar"
+      },
+      {
+        "question": "Judging by the visual characteristics, what is the likely consistency of these items?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Based solely on the appearance, what is the probable tactile feel of these items?",
+        "answer": "Chewy"
+      },
+      {
+        "question": "Considering the visual detail, are these items seemingly translucent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Looking at the image, what appears to be the degree of glossiness of these items?",
+        "answer": "Slight"
+      },
+      {
+        "question": "How would you describe the overall color saturation of these items in terms of vibrancy?",
+        "answer": "High"
+      },
+      {
+        "question": "Judging from the image, how many individual items are presented in total?",
+        "answer": "Three"
+      },
+      {
+        "question": "Observing the arrangement, how would you describe the positioning of the items in relation to each other?",
+        "answer": "Linear"
+      }
+    ]
+  }
+]

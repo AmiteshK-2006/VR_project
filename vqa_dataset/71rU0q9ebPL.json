@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6e/6e018e97.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary ingredient explicitly listed on the label, as visually confirmed?",
+        "answer": "Semolina"
+      },
+      {
+        "question": "What secondary grain type is mentioned within the ingredient list, clearly visible in the image?",
+        "answer": "Durum"
+      },
+      {
+        "question": "Based solely on the image, what is the visual style of the text used in the ingredient list?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the overall visual color scheme predominantly displayed across the text labels in this image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering only the visual aspects, what is the background's texture or appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Focusing solely on the visual details, what is the label's overall shape or orientation?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on what is directly visible, what is the primary form of information presented on this label?",
+        "answer": "Text"
+      },
+      {
+        "question": "In relation to the text, what is the visual size or scale of the 'INGREDIENTS' heading?",
+        "answer": "Large"
+      },
+      {
+        "question": "Observing only the image, what appears to be the main function of this visually presented text?",
+        "answer": "Informative"
+      },
+      {
+        "question": "From what is readily visible, does the label display any images or illustrations?",
+        "answer": "No"
+      },
+      {
+        "question": "What seems to be the visual level of contrast between the text and the background?",
+        "answer": "High"
+      },
+      {
+        "question": "Judging purely by the image's visible features, is the font weight used for the label text predominantly bold or thin?",
+        "answer": "Bold"
+      },
+      {
+        "question": "From a purely visual standpoint, are there any visible logos or brand markings on the label itself?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image, what is the apparent visual quality or resolution of the printed text?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Based purely on visual inspection, what seems to be the paper type or texture used for the label?",
+        "answer": "Matte"
+      }
+    ]
+  }
+]

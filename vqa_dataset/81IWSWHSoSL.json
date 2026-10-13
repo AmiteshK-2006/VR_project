@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a3/a34b9889.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the detailed rectangular layout and organized tabular data, what is the primary function of this visually presented information?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Observing the prominent text at the top, what concisely describes the content displayed within the boundaries of the rectangle?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Focusing on the numerical values provided, what is the specified quantity of calories per serving as clearly indicated?",
+        "answer": "100"
+      },
+      {
+        "question": "Examining the text, what is the weight given for a single serving of the item, presented in parentheses?",
+        "answer": "40g"
+      },
+      {
+        "question": "Based on the visual layout, what specific unit is used to measure the quantity of each nutrient displayed?",
+        "answer": "grams"
+      },
+      {
+        "question": "Looking at the nutritional values, what is the measurement displayed for total fat content in grams?",
+        "answer": "1"
+      },
+      {
+        "question": "Observing the nutritional information, what is the amount of sodium measured in milligrams?",
+        "answer": "170"
+      },
+      {
+        "question": "Focusing on the carbohydrate data, what value is given for total carbohydrates in grams?",
+        "answer": "18"
+      },
+      {
+        "question": "Based on the visual layout, how many servings are indicated as being within the entire container of the product?",
+        "answer": "17"
+      },
+      {
+        "question": "From the visual text, what is the amount of protein listed in grams?",
+        "answer": "4"
+      },
+      {
+        "question": "Examining the detailed list, what is the indicated quantity of sugars in grams?",
+        "answer": "1"
+      },
+      {
+        "question": "Based on the visual data, what is the amount of dietary fiber in grams (with less than symbol)?",
+        "answer": "<1"
+      },
+      {
+        "question": "Referring to the micronutrient details, what is the value for iron content, stated in milligrams?",
+        "answer": "1.1"
+      },
+      {
+        "question": "By observing the text and the values in the table, which unit is consistently used to present cholesterol levels?",
+        "answer": "mg"
+      },
+      {
+        "question": "Looking at the visual information provided, what is the overall color scheme predominantly used for the text and background?",
+        "answer": "White"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a1/a1a01892.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the food container shown in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "What appears to be the primary material used in the construction of this container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the overall geometry, what best describes the shape of this food container?",
+        "answer": "Square"
+      },
+      {
+        "question": "Based on the image, what seems to be the primary function of this product?",
+        "answer": "Packaging"
+      },
+      {
+        "question": "Describe the texture of the visible surfaces of this disposable container?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Are there any noticeable embossed or impressed markings on the container's surface?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering its apparent design, would you classify this container as rigid or flexible?",
+        "answer": "Rigid"
+      },
+      {
+        "question": "Does the container exhibit any visible signs of lids or closure mechanisms?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the image, is the container designed for single-use or multiple uses?",
+        "answer": "Single"
+      },
+      {
+        "question": "What is the apparent size or scale of the container relative to a human hand?",
+        "answer": "Large"
+      },
+      {
+        "question": "Looking at the edges of the container, are they sharp or rounded?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Does the image indicate the presence of any handles or carrying features on the container?",
+        "answer": "No"
+      },
+      {
+        "question": "Observe the bottom of the container; is it flat or does it have any unique features?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Based on visual inspection, is the container transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Considering its appearance, what is the likely intended use of this product?",
+        "answer": "Food"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/db/db5ab0e9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the provided text, what primary ingredient is explicitly mentioned in the product description?",
+        "answer": "Semolina"
+      },
+      {
+        "question": "Based on the textual information, what type of wheat is utilized in the product's composition?",
+        "answer": "Durum"
+      },
+      {
+        "question": "According to the label, does the product contain any wheat-based components?",
+        "answer": "Yes"
+      },
+      {
+        "question": "As indicated on the packaging, where was this product manufactured concerning egg processing?",
+        "answer": "Facility"
+      },
+      {
+        "question": "What specific allergenic element is noted as being processed in the product's production location?",
+        "answer": "Eggs"
+      },
+      {
+        "question": "What is the format of the text shown, likely found on a product's packaging?",
+        "answer": "Label"
+      },
+      {
+        "question": "What kind of information is presented, regarding the product's makeup and creation?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the overall color scheme of the text present on the label?",
+        "answer": "Black"
+      },
+      {
+        "question": "In terms of typography, what type of font style is predominantly used for the listed text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the general text orientation of the product information displayed?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the background color of the label where the ingredients are listed?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the layout style of the information given on the product ingredients?",
+        "answer": "List"
+      },
+      {
+        "question": "Describing the visual presentation, is the text bold, thin or standard?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the language used for the text visible on the product packaging?",
+        "answer": "English"
+      },
+      {
+        "question": "What is the case used throughout the presented text information on the label?",
+        "answer": "Uppercase"
+      }
+    ]
+  }
+]

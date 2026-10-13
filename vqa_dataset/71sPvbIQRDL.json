@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6a/6ae63e61.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the primary color scheme of the product packaging, focusing on the dominant hues?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "Based on the image's text, what language(s) are prominently used for the product's ingredient labeling, considering the textual information shown?",
+        "answer": "English"
+      },
+      {
+        "question": "Analyzing the textual layout, what type of information is predominantly displayed on the product packaging, given the extensive textual content?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "From the visible text, what is the name of at least one ingredient conspicuously listed in the product description that consumers should take note of?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "Observing the textual elements, what is the primary method of conveying crucial information about potential allergens in the product?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Considering the typography and arrangement, what is the style of font used for the primary text indicating ingredient information on the packaging?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "In terms of design elements, is there any clear indication of a specific brand or logo apparent on the product\u2019s packaging?",
+        "answer": "No"
+      },
+      {
+        "question": "Examining the product image, what is the overall shape or configuration of the product packaging, based on the visible external structure?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "From visual inspection, what seems to be the primary material used for the packaging of this product, focusing on the packaging itself?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Regarding visual texture, what would you describe the surface texture of the product packaging as in terms of its visual appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the visual layout, what is the format of the text on the product packaging in terms of the arrangement of its information?",
+        "answer": "List"
+      },
+      {
+        "question": "From a visual assessment, what is the general size of the text used in the ingredient list on the product packaging, considering its readability?",
+        "answer": "Small"
+      },
+      {
+        "question": "Based on the image's visible text, which of the listed ingredients is shown as having a specific percentage included in the product?",
+        "answer": "Butter"
+      },
+      {
+        "question": "From the visible text, what is stated about the product's suitability for individuals with specific dietary restrictions, considering the information presented?",
+        "answer": "Not"
+      },
+      {
+        "question": "Considering the overall visual appearance, is there any use of images or illustrations on the product\u2019s packaging, beyond text?",
+        "answer": "No"
+      }
+    ]
+  }
+]

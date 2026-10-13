@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ac/acf3caaa.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the provided image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent weave structure of this textile?",
+        "answer": "Linen"
+      },
+      {
+        "question": "Based on the image, what is the overall visual feel of the fabric's surface?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Judging from the image, what is the primary material implied by the fabric's appearance?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Does the provided image reveal any noticeable patterns or designs on the textile?",
+        "answer": "None"
+      },
+      {
+        "question": "From the image alone, can one ascertain the fabric's level of sheen or glossiness?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the visible fibers, what kind of visual density does the fabric exhibit?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Observing the image closely, what is the predominant visual tone of the fabric?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "What kind of visual uniformity is present across the whole fabric sample?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "In terms of visual weight, what impression does the fabric's texture communicate?",
+        "answer": "Light"
+      },
+      {
+        "question": "Based on the visual characteristics, what is the likely visual drape of the fabric?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What is the apparent visual thickness or thinness of the material shown?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What degree of visual intricacy is observed in the fabric's woven structure?",
+        "answer": "Low"
+      },
+      {
+        "question": "Observing the image carefully, is there any visible color variation in the fabric?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "Based on visual inspection, does the fabric appear to have any visible embellishments?",
+        "answer": "No"
+      }
+    ]
+  }
+]

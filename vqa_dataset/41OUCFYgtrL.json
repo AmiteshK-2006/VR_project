@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/82/82cd3c19.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's visual presentation, what is the primary ingredient explicitly stated?",
+        "answer": "Strawberries"
+      },
+      {
+        "question": "Based on the image's typography, what is the font style used for 'Ingredients'?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Observing the text's visual characteristics, what is the case of the lettering?",
+        "answer": "Upper"
+      },
+      {
+        "question": "What is the color of the text, judging from the image's visual representation?",
+        "answer": "Black"
+      },
+      {
+        "question": "Judging from the image, what appears to be the background color of the label?",
+        "answer": "White"
+      },
+      {
+        "question": "From a visual standpoint, what punctuation mark concludes the 'Ingredients' line?",
+        "answer": "Period"
+      },
+      {
+        "question": "Considering the image, what word precedes the colon after 'Ingredients'?",
+        "answer": "Strawberries"
+      },
+      {
+        "question": "What is the visual appearance of the text's alignment, left or right?",
+        "answer": "Left"
+      },
+      {
+        "question": "In terms of visual spacing, how would you describe the spacing between words?",
+        "answer": "Even"
+      },
+      {
+        "question": "Based purely on the image, is the text horizontally or vertically oriented?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the apparent overall style of the text: formal, informal, or other?",
+        "answer": "Formal"
+      },
+      {
+        "question": "Regarding the visual density, is the text densely packed or spaced out?",
+        "answer": "Spaced"
+      },
+      {
+        "question": "What is the visual weight of the text in relation to the background?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "From the image, what can you tell about the overall legibility of the text?",
+        "answer": "High"
+      },
+      {
+        "question": "Judging by the visual details, what appears to be the print method used for the label?",
+        "answer": "Inkjet"
+      }
+    ]
+  }
+]

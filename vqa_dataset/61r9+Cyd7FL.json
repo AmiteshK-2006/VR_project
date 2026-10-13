@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3e/3ebff994.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the dominant three-dimensional shape of this object, as seen in the image?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the predominant color of the top cylindrical portion of this product, as visually apparent in the image?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Judging only by the image provided, what appears to be the primary material used in the construction of the upper section of the object?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on visual inspection, what seems to be the finish or texture of the main beige section of the product shown?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From the visual data, what is the apparent color of the bottom, slender, vertical component of the object displayed?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based solely on visual inspection of the image, what seems to be the material of the lower, cylindrical component of the item shown?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What is the visual characteristic of the connection between the top and bottom components of this object, as depicted in the image?",
+        "answer": "Attached"
+      },
+      {
+        "question": "In the provided image, how many distinct sections or parts can be clearly observed in the product's design?",
+        "answer": "Two"
+      },
+      {
+        "question": "Based solely on the image, what appears to be the overall length ratio of the top to the bottom sections of the item?",
+        "answer": "Long"
+      },
+      {
+        "question": "From the image, describe the visual appearance of the surface of the black section of the object shown, concerning its texture.",
+        "answer": "Matte"
+      },
+      {
+        "question": "Describe the visible surface details of the top, larger cylindrical part of the product in the provided image.",
+        "answer": "Unmarked"
+      },
+      {
+        "question": "Judging from the image, what is the apparent diameter ratio between the top and bottom sections of the displayed object?",
+        "answer": "Wide"
+      },
+      {
+        "question": "Describe the apparent surface quality of the larger, beige section of the object in the provided image.",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Considering the image, is there any indication of text or markings present on the upper part of this item?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the visual information provided, what is the most likely purpose of the vertical black stem or component?",
+        "answer": "Support"
+      }
+    ]
+  }
+]

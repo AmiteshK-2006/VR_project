@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/22/223237dd.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the prominent textual display, what is the primary subject matter depicted in this image?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Focusing on the numerical data presented, what is the total calorie count per serving?",
+        "answer": "110"
+      },
+      {
+        "question": "Based on the nutritional information, what is the quantity of total fat in grams per serving?",
+        "answer": "7g"
+      },
+      {
+        "question": "Examining the detailed nutritional breakdown, how many milligrams of sodium are present per serving?",
+        "answer": "350mg"
+      },
+      {
+        "question": "According to the provided data, what is the amount of protein in grams contained within a single serving?",
+        "answer": "10g"
+      },
+      {
+        "question": "From the nutritional label, what is the serving size described in terms of units?",
+        "answer": "Links"
+      },
+      {
+        "question": "What is the serving size in grams as shown on the food label?",
+        "answer": "59g"
+      },
+      {
+        "question": "Referring to the quantitative data, what is the percentage daily value of saturated fat?",
+        "answer": "10%"
+      },
+      {
+        "question": "Based on the visual information available, what is the amount of cholesterol in milligrams per serving?",
+        "answer": "35mg"
+      },
+      {
+        "question": "What is the total carbohydrate content, in grams, per serving as indicated in the provided data?",
+        "answer": "3g"
+      },
+      {
+        "question": "Analyzing the components of the nutritional facts, how many grams of total sugars are present?",
+        "answer": "2g"
+      },
+      {
+        "question": "From the label, what is the amount of added sugars, in grams, contained within each serving?",
+        "answer": "1g"
+      },
+      {
+        "question": "According to the nutrition facts, what is the amount of potassium, in milligrams, present in a single serving?",
+        "answer": "110mg"
+      },
+      {
+        "question": "What is the indicated amount of Iron, in milligrams, per serving based on the nutrition facts?",
+        "answer": "0.5mg"
+      },
+      {
+        "question": "Observing the layout, what is the main heading prominently displayed at the top of the presented data?",
+        "answer": "Nutrition"
+      }
+    ]
+  }
+]

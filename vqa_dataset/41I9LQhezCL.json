@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/01/014c3ea8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the highest energy efficiency rating displayed on the label?",
+        "answer": "A+"
+      },
+      {
+        "question": "What color is the bar representing the highest energy efficiency rating?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the overall shape of the energy efficiency label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary color used for the text on the label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What language(s) is the text on the label printed in?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "What unit is used to measure energy consumption?",
+        "answer": "kWh"
+      },
+      {
+        "question": "What is the value of energy consumption displayed on the label?",
+        "answer": "9"
+      },
+      {
+        "question": "What is the timeframe for the energy consumption value?",
+        "answer": "1000h"
+      },
+      {
+        "question": "What is the background color of the main energy efficiency rating scale?",
+        "answer": "White"
+      },
+      {
+        "question": "What type of graphic is used to represent energy efficiency ratings?",
+        "answer": "Bars"
+      },
+      {
+        "question": "Does the label have a barcode or similar identification?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall texture of the label appear to be?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the material that the label is printed on?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Is the label mainly vertically or horizontally oriented?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Are there any logos or symbols on the label besides text?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

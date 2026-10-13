@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/38/38fb4edd.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the fabric shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall texture of the material presented in the detailed close-up?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Based on the image's visual texture, what is the likely fiber type of this fabric?",
+        "answer": "Synthetic"
+      },
+      {
+        "question": "Considering the visual density, is the fabric's weave loose or tight?",
+        "answer": "Tight"
+      },
+      {
+        "question": "Judging from the image, does the fabric show visible surface shine or gloss?",
+        "answer": "Slight"
+      },
+      {
+        "question": "Does the image show any noticeable pattern or design in the fabric structure?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the visual texture, how would you describe the fabric's hand feel (rough/smooth)?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent thickness of the fabric as suggested by the image's texture?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Based on the image alone, is the fabric's surface even or uneven in terms of texture?",
+        "answer": "Even"
+      },
+      {
+        "question": "Does the close-up image reveal any visible imperfections or irregularities in the fabric?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "From a visual assessment, what is the probable weight of this fabric (light, medium, heavy)?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Observing the image closely, does the material appear to be opaque or translucent?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Based on the image's visual characteristics, what is the likely drape of the fabric?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the image, does the fabric appear to have a pile or nap?",
+        "answer": "No"
+      },
+      {
+        "question": "From the visual inspection, is the fabric seemingly absorbent or water-resistant?",
+        "answer": "Unknown"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ef/effc382b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form and dimensions, what is the most accurate single-word description of this item's shape?",
+        "answer": "Bottle"
+      },
+      {
+        "question": "Based on the visual appearance, what is the dominant color of the plastic container?",
+        "answer": "Pink"
+      },
+      {
+        "question": "Judging solely from the image, what appears to be the primary material used in manufacturing this item?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Focusing on the cap's design, what single word best describes its overall form?",
+        "answer": "Conical"
+      },
+      {
+        "question": "What single word describes the texture of the bottle's surface, evident in the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Given the image, what single word describes the overall transparency level of the bottle?",
+        "answer": "Translucent"
+      },
+      {
+        "question": "Considering the label's visual elements, what color is the dominant background hue visible on the bottle?",
+        "answer": "Orange"
+      },
+      {
+        "question": "Concentrating on the labeling, what single word best encapsulates the general style of the textual information?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the single word that best describes the condition of this item's labeling as observed in the image?",
+        "answer": "Intact"
+      },
+      {
+        "question": "Regarding the packaging, what single word captures the overall visual impression of the label's color scheme?",
+        "answer": "Vibrant"
+      },
+      {
+        "question": "Observing the bottle's base, what is the single word that accurately describes its shape?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Considering the image, what is the single-word description of the overall visual impression of the bottle's design?",
+        "answer": "Sleek"
+      },
+      {
+        "question": "What is the single word that best describes the type of closure mechanism that is visually evident on the bottle?",
+        "answer": "Screw"
+      },
+      {
+        "question": "What is the single word that accurately characterizes the design of the label on the bottle?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Focusing on the details shown in the image, what single word describes the physical state of the liquid inside the bottle?",
+        "answer": "Liquid"
+      }
+    ]
+  }
+]

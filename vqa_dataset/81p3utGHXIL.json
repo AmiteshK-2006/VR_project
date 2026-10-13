@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a4/a4d1fb91.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the primary shape of the shoe's sole as viewed from the bottom?",
+        "answer": "Oval"
+      },
+      {
+        "question": "What material appears to constitute the majority of the shoe's outer sole, judging by its texture and appearance?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Describe the overall color of the shoe's sole, based solely on its visual presentation in the image.",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the dominant textural quality observed across the surface of the shoe's outer sole?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Observing the design, are there any discernible patterns or markings etched into the sole's surface?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Focusing on the heel area, can you determine the specific pattern or texture present?",
+        "answer": "Dotted"
+      },
+      {
+        "question": "Considering the midsole, what design element is predominantly visible in this region of the sole?",
+        "answer": "Lines"
+      },
+      {
+        "question": "Given the image, how would you characterize the overall condition of the sole, implying its usage or wear?",
+        "answer": "New"
+      },
+      {
+        "question": "What is the apparent thickness of the shoe's outer sole as depicted from this bottom view?",
+        "answer": "Thick"
+      },
+      {
+        "question": "What does the central, larger area of the sole appear to be made of, in terms of material?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Observing the image, what is the most prominent feature in the sole's design near the arch area?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Focusing on the image's details, can you visually identify any branding or logo markings on the sole?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Describe the flexibility implied by the sole's overall design and curvature in the provided image.",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Considering the edges of the sole, how would you describe their overall profile or form?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Based on the image, does the sole appear to possess any noticeable signs of damage or wear?",
+        "answer": "No"
+      }
+    ]
+  }
+]

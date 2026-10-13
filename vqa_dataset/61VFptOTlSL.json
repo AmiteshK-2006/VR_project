@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0d/0d91fb87.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the presented item?",
+        "answer": "Red"
+      },
+      {
+        "question": "Considering the image, what is the most apparent material type?",
+        "answer": "Wire"
+      },
+      {
+        "question": "Based on the visual evidence, what is the overall shape of each element?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Judging from the picture, what is the surface texture of the object?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What appears to be the primary function of the item shown?",
+        "answer": "Conducting"
+      },
+      {
+        "question": "Analyzing the provided image, how many individual wires are shown?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the apparent diameter of each individual wire?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Observing the image, does the wire seem to have any visible insulation?",
+        "answer": "Yes"
+      },
+      {
+        "question": "According to the image, is the wire flexible or rigid?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Does the visual presentation suggest the wire is solid or stranded?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Examining the image, does the wire exhibit any visible markings or branding?",
+        "answer": "No"
+      },
+      {
+        "question": "From the image, what is the apparent length of the longest section?",
+        "answer": "Long"
+      },
+      {
+        "question": "Judging by the image, what is the approximate level of glossiness?",
+        "answer": "Shiny"
+      },
+      {
+        "question": "Based on the image alone, is the wire coiled or straight?",
+        "answer": "Coiled"
+      },
+      {
+        "question": "Considering the picture, are the wires neatly organized or haphazard?",
+        "answer": "Neat"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/15/15b7ffbc.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the depicted food item's dominant hue, what single word best describes its overall color?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "Based on the image, what shape best represents the illustrated food pieces?",
+        "answer": "Round"
+      },
+      {
+        "question": "Judging from the container's design, what material seems most likely used for its construction?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the primary design element used repeatedly across the container's surface to highlight the product?",
+        "answer": "Illustration"
+      },
+      {
+        "question": "Analyzing the illustration style used on the product's packaging, what single word best captures its aesthetic?",
+        "answer": "Cartoonish"
+      },
+      {
+        "question": "Observing the graphical elements surrounding the product depictions, what is the main color accent besides the primary color?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the apparent texture of the food items as depicted on the label's illustration?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Examining the text on the product packaging, what category of food does it explicitly indicate?",
+        "answer": "Onions"
+      },
+      {
+        "question": "Judging by the product's packaging design and labeling, what is the product's primary intended use?",
+        "answer": "Food"
+      },
+      {
+        "question": "What shape best describes the overall form of the food container?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Based solely on the visual information, what is the indicated form of the contained food?",
+        "answer": "Pieces"
+      },
+      {
+        "question": "Describing the visual representation of the food on the packaging, what is the depicted consistency?",
+        "answer": "Solid"
+      },
+      {
+        "question": "What is the primary language used on the container's label for textual information?",
+        "answer": "English"
+      },
+      {
+        "question": "Considering the packaging illustration's visual style, what word describes the overall feeling of its design?",
+        "answer": "Playful"
+      },
+      {
+        "question": "Based on the visual representation, what is the apparent state of the food (e.g., fresh, processed)?",
+        "answer": "Processed"
+      }
+    ]
+  }
+]

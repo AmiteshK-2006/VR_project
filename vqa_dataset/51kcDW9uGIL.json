@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1d/1d8eedba.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the visual details, what is the primary color observed in the presented text?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the image's visual characteristics, what is the background color of the text?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "Observing the image closely, what is the overall textual arrangement?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Describe the font style used in the 'INGREDIENTS:' label in the image?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the capitalization style of the words 'INGREDIENTS' and 'CONTAINS'?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Based on visual observation, what is the case of the words after 'INGREDIENTS:'?",
+        "answer": "Title"
+      },
+      {
+        "question": "Focusing on the visual elements, what is the general appearance of the text?",
+        "answer": "Printed"
+      },
+      {
+        "question": "Analyzing the provided image, how is the text aligned?",
+        "answer": "Left"
+      },
+      {
+        "question": "Based on the visual information, what is the main content of the text?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the apparent visual presentation style of the ingredients list?",
+        "answer": "List"
+      },
+      {
+        "question": "In the image, what separates each listed ingredient?",
+        "answer": "Commas"
+      },
+      {
+        "question": "What punctuation mark ends the ingredients list in the image?",
+        "answer": "Period"
+      },
+      {
+        "question": "What is the visual presentation of the word 'CONTAINS' in relation to 'INGREDIENTS'?",
+        "answer": "Below"
+      },
+      {
+        "question": "Based on the visual characteristics, does the text appear to be handwritten or typed?",
+        "answer": "Typed"
+      },
+      {
+        "question": "What is the visual state of the text, i.e. is it clear or faded?",
+        "answer": "Clear"
+      }
+    ]
+  }
+]

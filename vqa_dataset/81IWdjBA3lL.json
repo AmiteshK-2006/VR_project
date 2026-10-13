@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/48/480873ff.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape and the detailed layout presented, what is the primary form of this item?",
+        "answer": "Label"
+      },
+      {
+        "question": "Observing the prominent display of nutritional information, what is the clear function of this rectangular item?",
+        "answer": "Inform"
+      },
+      {
+        "question": "Focusing on the text's presentation, describe the style of lettering consistently used throughout the entire label?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Given the prevalence of numerical data and percentages, what specific aspect of food is predominantly detailed?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Based on the presence of a 'Serving Size' section and individual nutrient breakdowns, what type of product is the label for?",
+        "answer": "Food"
+      },
+      {
+        "question": "Examining the detailed listing of components (fats, sugars, etc.), what is the precise nature of the presented data?",
+        "answer": "Quantitive"
+      },
+      {
+        "question": "Noticing the use of percentages alongside values, what is being compared against a daily recommended amount?",
+        "answer": "Nutrients"
+      },
+      {
+        "question": "Looking at the consistent black text against the white background, describe the overall color scheme.",
+        "answer": "Monochrome"
+      },
+      {
+        "question": "Observing the organizational structure of the text blocks, describe the arrangement and alignment of the data?",
+        "answer": "tabular"
+      },
+      {
+        "question": "Considering the visual density of information and the small text size, describe the amount of detail shown?",
+        "answer": "Extensive"
+      },
+      {
+        "question": "Given the clear categorization of nutrients into fats, carbohydrates, and proteins, what is the overall organization based on?",
+        "answer": "Category"
+      },
+      {
+        "question": "Based on the specified weight for a serving, what unit of measurement is being utilized?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Considering the title at the top of the label, what is the official name given to this table of information?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Examining the textual layout, what is the dominant orientation of the information within the label's rectangle?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Considering the fine print at the very bottom providing additional context, what is the nature of this additional information?",
+        "answer": "Clarification"
+      }
+    ]
+  }
+]

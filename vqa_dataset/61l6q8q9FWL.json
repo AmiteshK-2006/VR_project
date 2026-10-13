@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/af/af44ddd2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the visible exterior surfaces of this furniture piece?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering its overall form, what is the most accurate geometrical description for this item?",
+        "answer": "Cuboid"
+      },
+      {
+        "question": "Based on the image, what appears to be the primary material used in its construction?",
+        "answer": "Wood"
+      },
+      {
+        "question": "How many visible drawers are present on the side of this item that is shown in the image?",
+        "answer": "Two"
+      },
+      {
+        "question": "Judging by the visible side, does the piece possess any noticeable surface texture?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent finish applied to the exterior of the furniture piece, as observed in the image?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the item display any visible decorative elements, patterns, or embellishments on its surface?",
+        "answer": "None"
+      },
+      {
+        "question": "Does the image indicate the presence of any visible handles or knobs on the drawers?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the visible side, is the drawer depth consistent from top to bottom?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent overall style or aesthetic of the furniture, as presented in the photograph?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Does the item appear to have any visible joints, seams, or gaps on the presented side?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the image reveal any type of visible branding, labeling, or markings?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the visible parts of the product, what could be inferred about the assembly method?",
+        "answer": "Assembled"
+      },
+      {
+        "question": "Based on the image, what is the general condition of the item's visible surfaces?",
+        "answer": "New"
+      },
+      {
+        "question": "From the image, does the piece seem to have any noticeable damages or imperfections?",
+        "answer": "No"
+      }
+    ]
+  }
+]

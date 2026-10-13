@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9e/9ef08832.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color scheme of the depicted product label?",
+        "answer": "Aqua"
+      },
+      {
+        "question": "Based on the textual content displayed, what primary ingredient is explicitly mentioned on the product label?",
+        "answer": "Water"
+      },
+      {
+        "question": "What descriptive adjective best describes the textual font style used on the label, considering its visual appearance?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Observing the image closely, what specific word precedes the colon in the label's text?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Focusing on the visual texture, how would you characterize the background pattern of the product label?",
+        "answer": "Granular"
+      },
+      {
+        "question": "From a visual standpoint, what is the text alignment of the label's primary statement?",
+        "answer": "Center"
+      },
+      {
+        "question": "Considering the visual elements, what single word best describes the style of the lettering on the label?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What word immediately follows the colon within the label's prominent text statement?",
+        "answer": "Spring"
+      },
+      {
+        "question": "Judging by the visual contrast, what color is the main text on the label?",
+        "answer": "White"
+      },
+      {
+        "question": "Analyzing the visual presentation, is the case of the text uppercase or lowercase?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "In terms of visual composition, how many words are utilized to list the ingredients?",
+        "answer": "Three"
+      },
+      {
+        "question": "What word follows 'Spring' in the label's main ingredient description?",
+        "answer": "Water"
+      },
+      {
+        "question": "Regarding the visual clarity, what is the apparent text weight of the lettering on the label?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "Judging from visual characteristics, what is the overall visual tone of the product label's design?",
+        "answer": "Informative"
+      },
+      {
+        "question": "What is the visual appearance of the background, if considering texture and opacity?",
+        "answer": "Opaque"
+      }
+    ]
+  }
+]

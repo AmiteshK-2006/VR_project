@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/89/89bef754.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the highest energy efficiency rating displayed on the label?",
+        "answer": "A+"
+      },
+      {
+        "question": "What is the color of the highest energy efficiency rating box?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the overall shape of the energy label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary color of the background of the energy label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the unit of measurement for energy consumption shown on the label?",
+        "answer": "kWh"
+      },
+      {
+        "question": "What is the specified energy consumption value per 1000 hours?",
+        "answer": "5.5"
+      },
+      {
+        "question": "What is the lowest energy efficiency rating displayed on the label?",
+        "answer": "E"
+      },
+      {
+        "question": "What color is the lowest energy efficiency rating box?",
+        "answer": "Red"
+      },
+      {
+        "question": "What language(s) are used on the label, visually identifiable?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "What type of information is predominantly displayed on the label?",
+        "answer": "Energy"
+      },
+      {
+        "question": "What kind of graphic is used to represent energy efficiency?",
+        "answer": "Bar"
+      },
+      {
+        "question": "Is the label primarily text-based or graphic-based?",
+        "answer": "Graphic"
+      },
+      {
+        "question": "Does the label include alphanumeric codes or numbers?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the texture of the label;  assuming it is printed on paper?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the design, is this label intended for appliances or lighting?",
+        "answer": "Appliances"
+      }
+    ]
+  }
+]

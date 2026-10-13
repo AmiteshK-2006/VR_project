@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/00/0099ca07.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the garment's label?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What brand name is prominently displayed on the label?",
+        "answer": "Amazonbasics"
+      },
+      {
+        "question": "What is the overall texture of the fabric shown in the image?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What type of material does the label appear to be made of?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "What is the general shape of the label, considering its edges?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What kind of stitching is visible at the label's edge?",
+        "answer": "Overlocked"
+      },
+      {
+        "question": "What is the primary method of conveying care instructions?",
+        "answer": "Symbols"
+      },
+      {
+        "question": "Describe the appearance of the printed text on the label.",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the general orientation of the text and symbols?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What type of fabric is implied by the care instructions?",
+        "answer": "Machine-washable"
+      },
+      {
+        "question": "What is the visible style of the label's font?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What kind of information is provided beyond brand and care?",
+        "answer": "Composition"
+      },
+      {
+        "question": "What is the overall tone of the label's color?",
+        "answer": "Dark"
+      },
+      {
+        "question": "What is the density of the displayed text and symbols?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the position of the brand logo in relation to the instructions?",
+        "answer": "Top"
+      }
+    ]
+  }
+]

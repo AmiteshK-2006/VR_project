@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/09/09a898fe.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall appearance, what is the primary textual characteristic of this product?",
+        "answer": "Instructional"
+      },
+      {
+        "question": "Based on the visual details, what is the most prominent language presented on the item?",
+        "answer": "German"
+      },
+      {
+        "question": "Observing the image carefully, what appears to be the format of the instructions?",
+        "answer": "Multi-lingual"
+      },
+      {
+        "question": "Focusing on the textual layout, what type of presentation method is employed for the information?",
+        "answer": "Paragraph"
+      },
+      {
+        "question": "Given the visual evidence, what seems to be the principal purpose of this product?",
+        "answer": "Guidance"
+      },
+      {
+        "question": "Judging from the visual data, what is the apparent physical form of the presented information?",
+        "answer": "Label"
+      },
+      {
+        "question": "From the appearance, what is suggested as a likely location for this item?",
+        "answer": "Packaging"
+      },
+      {
+        "question": "Based on its visual texture, what would you describe the surface of the product as?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "According to visual inspection, what would be the likely material of this product?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What color is the dominant background visible on the image?",
+        "answer": "White"
+      },
+      {
+        "question": "If you were to describe the color of the text, what would it be?",
+        "answer": "Black"
+      },
+      {
+        "question": "Examining the edges of the product closely, are they neat or rough?",
+        "answer": "Neat"
+      },
+      {
+        "question": "Analyzing the print quality, is the text sharp or blurry?",
+        "answer": "Sharp"
+      },
+      {
+        "question": "Considering the visual presentation, how would you describe the overall design?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Is there any noticeable image, logo, or iconography present on the shown product?",
+        "answer": "None"
+      }
+    ]
+  }
+]

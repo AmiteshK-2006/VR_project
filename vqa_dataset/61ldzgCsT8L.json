@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/59/5918a6cb.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the presented textile item?",
+        "answer": "Navy"
+      },
+      {
+        "question": "Considering its folded state, what is the primary shape of this fabric item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on its appearance, what is the likely texture of the fabric shown?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the image, what material seems most plausible for this product?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Does the textile exhibit any visible patterns or designs on its surface?",
+        "answer": "No"
+      },
+      {
+        "question": "From the image, is there evidence of any visible seams or stitching?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering its folded configuration, how many layers are clearly apparent?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the overall visual impression of the fabric's drape or fold?",
+        "answer": "Neat"
+      },
+      {
+        "question": "Does the color of the fabric appear uniform across the visible surface?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the folded fabric suggest any noticeable thickness or weight?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the apparent finish of the textile; glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on visual cues, what is the likely purpose of this textile item?",
+        "answer": "Sheet"
+      },
+      {
+        "question": "Is there any visible embellishment on the visible portion of the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the presentation of the fabric suggest a high or low level of formality?",
+        "answer": "Low"
+      },
+      {
+        "question": "Are there any visible flaws or imperfections in the fabric visible?",
+        "answer": "No"
+      }
+    ]
+  }
+]

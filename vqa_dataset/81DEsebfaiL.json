@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/03/0369fe0a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color used in the prominent text displayed on this nutritional label?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the overall design, what is the most apparent style of this nutritional fact label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the texture of the surface on which the information is printed, given its visual appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the visual information, what is the material that this nutrition label seems to be printed on?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Observing the text, what is the primary font style used throughout the label's text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the layout structure employed to organize the data presented on the nutrition label?",
+        "answer": "tabular"
+      },
+      {
+        "question": "Considering the visual characteristics, what is the overall tone conveyed by the color palette used?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "What is the format of the numerical data shown regarding the nutritional content of the product?",
+        "answer": "Decimal"
+      },
+      {
+        "question": "Regarding the organization of the nutritional values, what units are primarily utilized in this nutrition label?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the overall shape of the individual text blocks comprising the nutritional information?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the visual representation used to indicate percentages in this nutrition facts section?",
+        "answer": "Numbers"
+      },
+      {
+        "question": "Describe the visual appearance of the lines separating the different categories of nutritional information on the label?",
+        "answer": "Thin"
+      },
+      {
+        "question": "What is the visual method employed for emphasizing the crucial nutritional information on the label?",
+        "answer": "Bolding"
+      },
+      {
+        "question": "What is the overall design or composition pattern of the nutritional information layout on the label?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Considering the visual details, what is the overall clarity of the text displayed on the nutritional label?",
+        "answer": "Clear"
+      }
+    ]
+  }
+]

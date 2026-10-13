@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5f/5f038203.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the flexible packaging, as visually apparent in the provided image?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the overall shape, what geometric form best describes the product's packaging?",
+        "answer": "Bag"
+      },
+      {
+        "question": "What appears to be the primary material used in the construction of this product's packaging, based on its visual appearance?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Observing the visible textual elements on the package, what type of information seems predominantly displayed?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the apparent style or type of printing visible on the packaging, based solely on the provided image?",
+        "answer": "Graphic"
+      },
+      {
+        "question": "Focusing on the discernible surface texture, how would you describe the feel of the external packaging?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What color is the most prominent branding element or logo, as directly visible on the packaging?",
+        "answer": "Red"
+      },
+      {
+        "question": "Based on the visible features, what is the most apparent form or function of this item's packaging?",
+        "answer": "Container"
+      },
+      {
+        "question": "Considering its shape and apparent flexibility, what is the likely use of the packaging shown in the image?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "What is the most notable feature of the packaging's design, excluding the logo or text?",
+        "answer": "Seamless"
+      },
+      {
+        "question": "Observing the edges and seams of the package, how would you describe the overall construction?",
+        "answer": "Folded"
+      },
+      {
+        "question": "Based purely on the visual attributes, what is the apparent size of the packaging?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What type of closure or seal is visually evident on the product's packaging, if any?",
+        "answer": "Open"
+      },
+      {
+        "question": "Are there any visible perforations or tear lines present on the surface of the packaging shown?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the overall visual presentation, what is the apparent condition of the packaging?",
+        "answer": "New"
+      }
+    ]
+  }
+]

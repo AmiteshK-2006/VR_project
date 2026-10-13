@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/30/309b8d23.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the primary shape of this product container?",
+        "answer": "Bottle"
+      },
+      {
+        "question": "Based on the visual appearance, what material is the main body of the container made from?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Observing the dispensing mechanism, what type of closure is present on the bottle?",
+        "answer": "Pump"
+      },
+      {
+        "question": "Judging by the image, what is the predominant color of the liquid inside the bottle?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "From the image, what appears to be the main color of the bottle's label?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe the texture of the liquid, as visually implied by the image.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the color of the dispensing pump on top of the bottle?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the visible text, what seems to be the product's primary scent?",
+        "answer": "Lemon"
+      },
+      {
+        "question": "Does the product label display any certifications or logos regarding its eco-friendliness?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Describe the visual style of the label's typography.",
+        "answer": "Simple"
+      },
+      {
+        "question": "Judging from the visible design, how many sections can be observed on the main label?",
+        "answer": "Two"
+      },
+      {
+        "question": "Considering the barcode's visual placement, on which part of the bottle is it located?",
+        "answer": "Back"
+      },
+      {
+        "question": "Based solely on appearance, what is the apparent viscosity of the product inside?",
+        "answer": "Fluid"
+      },
+      {
+        "question": "Considering the overall presentation, how would you describe the bottle's design aesthetic?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What type of information is predominantly displayed on the product's back label?",
+        "answer": "Text"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ea/ea44c695.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the supplement container as depicted in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the predominant color of the text on the supplement facts label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the background color of the supplement facts label section?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary type of information displayed on the visible label?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Considering the text's size and density, is the font style primarily small or large?",
+        "answer": "Small"
+      },
+      {
+        "question": "Describe the arrangement of the nutritional information on the label.",
+        "answer": "Tabular"
+      },
+      {
+        "question": "Considering the visible text, what language is predominantly used on the label?",
+        "answer": "English"
+      },
+      {
+        "question": "What kind of data is presented next to each listed ingredient?",
+        "answer": "Numerical"
+      },
+      {
+        "question": "What units are predominantly used to denote quantities in the numerical data?",
+        "answer": "mg"
+      },
+      {
+        "question": "Does the label present percentages next to the ingredient quantities?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is there any visible image or icon on the label besides text?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the visual texture of the label surface shown in the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Is the label material seemingly glossy or matte in appearance?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the label appear to be printed on a thin or thick substrate?",
+        "answer": "Thin"
+      },
+      {
+        "question": "What is the overall style of the label's design; simple or complex?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

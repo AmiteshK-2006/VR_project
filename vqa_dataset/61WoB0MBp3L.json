@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fa/faa56703.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the phone stand's visible surface?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What appears to be the primary material used in the construction of this stand?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What is the overall geometric shape of the phone stand's base?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the stand's design, what is its primary function?",
+        "answer": "Support"
+      },
+      {
+        "question": "Describe the surface texture of the phone stand's visible parts, based on appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the general style or aesthetic of the product's design?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "How many visible sections or components comprise this phone stand?",
+        "answer": "Two"
+      },
+      {
+        "question": "Does the phone stand present any visible branding or markings?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging from the angle, what is the phone stand's approximate height?",
+        "answer": "Low"
+      },
+      {
+        "question": "What kind of device is shown being held by the phone stand?",
+        "answer": "Phone"
+      },
+      {
+        "question": "Considering the image context, what is the likely intended use environment?",
+        "answer": "Desk"
+      },
+      {
+        "question": "Based on its visible features, is the stand foldable or adjustable?",
+        "answer": "Foldable"
+      },
+      {
+        "question": "What is the orientation of the phone displayed on the stand?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Does the stand have any visible mechanisms for adjusting the phone's position?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image, what seems to be the stand's weight-bearing capacity?",
+        "answer": "Light"
+      }
+    ]
+  }
+]

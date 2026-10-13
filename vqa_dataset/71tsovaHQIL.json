@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fe/fec745c5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual design, what is the predominant color scheme of the presented nutrition facts label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the primary font style used for displaying the prominent 'Nutrition Facts' header?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Focusing solely on the visual presentation, what numerical value is prominently featured to denote calories per serving?",
+        "answer": "250"
+      },
+      {
+        "question": "Based on the image, what is the specified serving size in terms of the food item's unit of measurement?",
+        "answer": "Link"
+      },
+      {
+        "question": "Observing the layout, what measurement unit is consistently used to express the quantity of nutrients?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the quantitative value displayed for 'Total Fat' in grams, as shown directly on the label?",
+        "answer": "20"
+      },
+      {
+        "question": "According to the visual information provided, what is the percentage Daily Value (%DV) for 'Total Fat'?",
+        "answer": "26"
+      },
+      {
+        "question": "Looking at the label's visual structure, what is the numerical value for 'Sodium' expressed in milligrams?",
+        "answer": "650"
+      },
+      {
+        "question": "What is the numerical value listed for 'Protein' content in grams on the nutrition facts label?",
+        "answer": "15"
+      },
+      {
+        "question": "Examining the nutritional information, what is the quantitative value given for 'Cholesterol' in milligrams?",
+        "answer": "65"
+      },
+      {
+        "question": "What is the visual representation for the quantitative value of 'Dietary Fiber' in grams as shown on the label?",
+        "answer": "0"
+      },
+      {
+        "question": "What is the text-based representation for the number of servings found per container according to the label's image?",
+        "answer": "4"
+      },
+      {
+        "question": "What is the number representing the percentage Daily Value (%DV) for 'Sodium' visually presented on the label?",
+        "answer": "28"
+      },
+      {
+        "question": "Based on the image alone, what is the visual representation of the weight, in grams, of one serving?",
+        "answer": "85"
+      },
+      {
+        "question": "What is the total number of lines of text, visually apparent, comprising the nutritional information panel?",
+        "answer": "16"
+      }
+    ]
+  }
+]

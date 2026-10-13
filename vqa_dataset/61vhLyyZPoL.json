@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/77/779e1417.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the product's label, as depicted in the provided image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the primary container, what material appears to constitute the main body of the packaging?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on the visible text, what flavor variant of the product is shown?",
+        "answer": "Chocolate"
+      },
+      {
+        "question": "What is the shape of the primary container holding the product, as illustrated in the image?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Observing the lid of the container, what color is it?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall texture implied by the appearance of the container's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the text on the container, what is the primary ingredient or component explicitly mentioned?",
+        "answer": "Protein"
+      },
+      {
+        "question": "What word is prominently displayed at the top of the label, indicating the brand?",
+        "answer": "SOLMO"
+      },
+      {
+        "question": "Does the product packaging show any visible images apart from the text?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the label design, what kind of font is used for the product name?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Observing the packaging, are there any noticeable textures or embossing details on the label?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent weight of the product, as indicated on the packaging?",
+        "answer": "16oz"
+      },
+      {
+        "question": "Does the image reveal any seals or tamper-evident features on the container?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the label, is the product's flavor described as artificial or natural?",
+        "answer": "Natural"
+      },
+      {
+        "question": "What is the overall style of the product's labeling, considering its text and design?",
+        "answer": "Minimalist"
+      }
+    ]
+  }
+]

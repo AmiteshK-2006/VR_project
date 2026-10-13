@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d2/d26d9f77.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the product's label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of the container holding the product?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What material appears to constitute the primary packaging of the product?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What brand is prominently displayed on the product label?",
+        "answer": "WholeFoods"
+      },
+      {
+        "question": "What secondary color accents the white background on the label?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the texture of the depicted chocolate chips on the label?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Describe the shape of the brand logo on the product's label?",
+        "answer": "Circular"
+      },
+      {
+        "question": "What is the overall style of the product's label design?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What type of information is provided prominently on the container's back?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Considering the label, what is one ingredient depicted visually?",
+        "answer": "Chocolate"
+      },
+      {
+        "question": "What is the visible format of the nutritional information on the label?",
+        "answer": "Tabular"
+      },
+      {
+        "question": "What is the apparent condition of the product container's lid?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "What is the dominant font style used on the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the visible text, what is the product's form?",
+        "answer": "Powder"
+      },
+      {
+        "question": "What type of image is used to represent the product's flavor?",
+        "answer": "Photographic"
+      }
+    ]
+  }
+]

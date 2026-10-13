@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fa/fa17f474.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary ingredient explicitly stated on the product label, as visually confirmed?",
+        "answer": "Ginger"
+      },
+      {
+        "question": "Considering the visible text, what adjective describes the featured ingredient's cultivation method?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Based solely on the label's textual information, which tree-related product is mentioned in relation to the manufacturing process?",
+        "answer": "Nuts"
+      },
+      {
+        "question": "According to the visible text, what other dairy product is listed among the ingredients processed in the same facility?",
+        "answer": "Milk"
+      },
+      {
+        "question": "What animal product is indicated as processed in the same facility as the product shown?",
+        "answer": "Eggs"
+      },
+      {
+        "question": "Besides nuts and milk, what other plant-based product is mentioned in relation to the product's manufacturing facility?",
+        "answer": "Soy"
+      },
+      {
+        "question": "What is the overall textual style presented on the food label, considering its font and layout?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the visual context, what is the apparent color scheme used in the text displayed on the product label?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What type of information is predominantly communicated on the surface of the image?",
+        "answer": "Text"
+      },
+      {
+        "question": "Considering the visual information, what is the general background color or tone of the product label?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the grammatical form of the primary statement declaring the key ingredient?",
+        "answer": "Declarative"
+      },
+      {
+        "question": "What is the case of the 'Ginger' word in the displayed label text?",
+        "answer": "Nominative"
+      },
+      {
+        "question": "Regarding the label's design, what is the type of punctuation at the end of the statement specifying the main ingredient?",
+        "answer": "Period"
+      },
+      {
+        "question": "What is the visual format of the given text on the food label, concerning its arrangement?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Excluding the main ingredient, how many additional ingredients are noted in the processing facility statement?",
+        "answer": "Four"
+      }
+    ]
+  }
+]

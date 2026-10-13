@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/51/51dd3c23.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary ingredient visibly declared on the product's label?",
+        "answer": "Carrots"
+      },
+      {
+        "question": "What is the stated preparation method for the carrots as indicated on the label?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What additional liquid component is explicitly listed among the ingredients?",
+        "answer": "Water"
+      },
+      {
+        "question": "Based on the label, what company is responsible for distributing this product?",
+        "answer": "AFS"
+      },
+      {
+        "question": "What state is mentioned as the location of the distributor of this product?",
+        "answer": "Washington"
+      },
+      {
+        "question": "What city is identified as the distributor's location?",
+        "answer": "Seattle"
+      },
+      {
+        "question": "What organization is named as the certifier for the product's organic status?",
+        "answer": "Quality"
+      },
+      {
+        "question": "What is the final word of the certification statement shown on the label?",
+        "answer": "International"
+      },
+      {
+        "question": "What type of font is predominantly used for the text on the product label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the overall color scheme used for the text on the packaging label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the background color of the label that presents the product information?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe the text alignment in the label that presents product information and credentials",
+        "answer": "Left"
+      },
+      {
+        "question": "What is the apparent visual texture of the label's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the format of the contact number shown on the label?",
+        "answer": "Telephone"
+      },
+      {
+        "question": "What is the general layout or structure of information on the label?",
+        "answer": "Vertical"
+      }
+    ]
+  }
+]

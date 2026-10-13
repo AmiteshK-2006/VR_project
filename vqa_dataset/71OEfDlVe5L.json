@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/78/78cbb4a2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed nutrition label's background?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary font color used for the text on the nutrition label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the overall shape, what geometric form best describes the label's configuration?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What is the apparent texture of the label, assuming it's a typical food label?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on its context, what kind of information is primarily conveyed on this label?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the overall visual style of the label's typography (e.g., serif, sans-serif)?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Is the label's layout predominantly vertical or horizontal in its orientation?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Considering its visual features, does this label appear to be printed or handwritten?",
+        "answer": "Printed"
+      },
+      {
+        "question": "Does the label include any noticeable graphical elements beyond text?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent material that the label seems to be printed on?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Focusing solely on the text, is the font size consistent throughout the entire label?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Are there any noticeable visual imperfections or irregularities in the print of the label?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the label's text appear to be aligned neatly or somewhat haphazardly?",
+        "answer": "Neatly"
+      },
+      {
+        "question": "Considering the density of information, would you describe the label's text as sparse or dense?",
+        "answer": "Dense"
+      },
+      {
+        "question": "What is the overall visual impression of the label; is it busy or clean?",
+        "answer": "Clean"
+      }
+    ]
+  }
+]

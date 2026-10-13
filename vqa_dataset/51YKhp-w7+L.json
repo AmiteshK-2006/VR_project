@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2b/2b557851.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary descriptor for the product's form, indicating its individual units?",
+        "answer": "Softgel"
+      },
+      {
+        "question": "Considering the textual information provided, what specific nutrient is prominently highlighted?",
+        "answer": "Vitamin"
+      },
+      {
+        "question": "Based on the visual presentation, what is the overall color scheme of the label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the dominant textual element at the top of the label?",
+        "answer": "Supplement"
+      },
+      {
+        "question": "What is the shape of the container implied by the label dimensions?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What unit of measurement is employed to quantify the vitamin content?",
+        "answer": "IU"
+      },
+      {
+        "question": "What is the descriptor for the amount of the product consumed in one instance?",
+        "answer": "Serving"
+      },
+      {
+        "question": "Considering the product label, what is the numerical value corresponding to the daily intake percentage?",
+        "answer": "1333"
+      },
+      {
+        "question": "What is the text style used to present the name of the nutrient?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What form of vitamin E is specified on the label?",
+        "answer": "Alpha"
+      },
+      {
+        "question": "Describing the texture of the label's surface, is it glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the printing method apparent on the nutritional facts panel, likely offset or inkjet?",
+        "answer": "Inkjet"
+      },
+      {
+        "question": "Considering the typography, what font is most probably used in the label's text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Given the layout, what is the orientation of the label elements—vertical or horizontal?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the general style of the label design—modern, vintage, or minimalist?",
+        "answer": "Minimalist"
+      }
+    ]
+  }
+]

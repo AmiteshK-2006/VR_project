@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/64/640e9ed1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant visual characteristic of the text displayed in the provided image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the visual appearance, what is the overall textual orientation on the shown surface?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Based on visual inspection, what is the apparent font style utilized for the displayed text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Judging from its visual presentation, what is the approximate size of the text relative to a standard font?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the most apparent visual style of the displayed ingredient information?",
+        "answer": "List"
+      },
+      {
+        "question": "From a visual perspective, how many distinct lines of text are present in the provided image?",
+        "answer": "Four"
+      },
+      {
+        "question": "Judging from visual observation, what single word best describes the text's visual arrangement?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Regarding visual aspects, what single word describes the text's contrast against the background?",
+        "answer": "High"
+      },
+      {
+        "question": "What single word describes the overall visual appearance of the text's formatting?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Considering visual aspects, what word describes the text's visual density on the image?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Based solely on visual elements, what is the text's apparent visual clarity?",
+        "answer": "Clear"
+      },
+      {
+        "question": "From a visual standpoint, what kind of text is primarily used in the presented image?",
+        "answer": "Descriptive"
+      },
+      {
+        "question": "In terms of visual design, how would you describe the spacing between words in the provided text?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Considering only what is visually evident, what is the visual style of the text's capitalization?",
+        "answer": "Title"
+      },
+      {
+        "question": "Based on visual observation alone, what is the text's visible alignment?",
+        "answer": "Left"
+      }
+    ]
+  }
+]

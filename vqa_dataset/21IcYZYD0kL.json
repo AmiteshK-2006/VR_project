@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2d/2d362855.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary material used in the composition of this item, as clearly indicated on the label?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Considering the label's information, what specific type of cotton is this product made from?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Based on the label, what percentage of the composition is derived from the specified material?",
+        "answer": "100%"
+      },
+      {
+        "question": "What is the overall color of the text present on the displayed label?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Describe the text's alignment, focusing on its arrangement within the visible area.",
+        "answer": "Left"
+      },
+      {
+        "question": "What is the overall background color or shade of the shown label?",
+        "answer": "White"
+      },
+      {
+        "question": "Judging from the visual appearance, what is the likely printing method employed for the label's text?",
+        "answer": "Ink"
+      },
+      {
+        "question": "Describe the font style used for the words on the shown product label.",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the case of the letters used in the text present on this label?",
+        "answer": "Upper"
+      },
+      {
+        "question": "Considering the label, what is the word appearing before the material specification?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Describe the texture visually observed on the surface bearing the displayed label.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the visual evidence, what is the general format of the given information?",
+        "answer": "Text"
+      },
+      {
+        "question": "What word directly follows 'Made with' on this product's label?",
+        "answer": "Certified"
+      },
+      {
+        "question": "What term is used to describe the material composition on the label?",
+        "answer": "Composition"
+      },
+      {
+        "question": "Considering the visual characteristics, what is the overall shape of the label shown?",
+        "answer": "Rectangular"
+      }
+    ]
+  }
+]

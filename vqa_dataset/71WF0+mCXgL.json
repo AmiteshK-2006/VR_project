@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1b/1b6bcf95.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall color scheme predominantly used in the presented nutritional facts label?",
+        "answer": "Burgundy"
+      },
+      {
+        "question": "Considering the visual design, what is the primary textual style utilized throughout the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the image, what is the format in which the nutritional information is presented?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the primary method used to organize and categorize the nutritional components?",
+        "answer": "Columns"
+      },
+      {
+        "question": "Observing the label, what is the text's arrangement relative to the label's boundaries?",
+        "answer": "Aligned"
+      },
+      {
+        "question": "What is the general appearance of the text's density and spacing on the nutrition label?",
+        "answer": "Compact"
+      },
+      {
+        "question": "Focusing solely on the visual aspects, what is the background color of the nutrition facts label?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Regarding the visual design, what is the visual weight or prominence of the \"Nutrition Facts\" heading?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Judging from the image alone, what is the readability of the text on the label?",
+        "answer": "Good"
+      },
+      {
+        "question": "If you were to describe the text's typeface, what is the most descriptive and apparent characteristic?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Considering the visual clarity, what is the overall legibility of the information presented?",
+        "answer": "High"
+      },
+      {
+        "question": "From a purely visual perspective, how would you describe the overall visual presentation of the information?",
+        "answer": "Organized"
+      },
+      {
+        "question": "Based only on visual observations, what is the style of the numerical data representation?",
+        "answer": "Decimal"
+      },
+      {
+        "question": "Based on the image's visual elements, what appears to be the intended purpose of the label?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Describe the visual texture of the label's surface, based only on the image provided.",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

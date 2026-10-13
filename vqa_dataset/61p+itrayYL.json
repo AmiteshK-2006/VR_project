@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/aa/aaa7a0e2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall design, what is the primary visual function of this rectangular item, prominently displaying textual information organized in rows and columns, with distinct header sections and numerical values presented against a white backdrop?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Focusing on the textual elements, what specific type of dietary information is comprehensively detailed, categorized into fats, carbohydrates, proteins, and vitamins?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Observing the color scheme, what is the predominant shade used for the background, providing a neutral contrast for the predominantly black textual elements?",
+        "answer": "White"
+      },
+      {
+        "question": "Regarding the textual style, what is the font weight primarily employed, creating a sense of clarity and readability across the various data points?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Analyzing the textual layout, what type of structural organization is evident, characterized by clearly delineated sections and the systematic presentation of values?",
+        "answer": "Table"
+      },
+      {
+        "question": "Based on the visual presentation, what is the unit of measurement consistently used for quantities, indicating portion sizes and nutrient amounts?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Considering the typography, what is the capitalization style of the main heading, emphasizing its significance and providing a clear hierarchy?",
+        "answer": "Title"
+      },
+      {
+        "question": "Analyzing the content's structure, what percentage values consistently appear alongside nutrient amounts, offering context regarding daily intake?",
+        "answer": "Percent"
+      },
+      {
+        "question": "Examining the numerical data, what specific unit is used to quantify the caloric content of a single serving, providing energy information for consumers?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Considering the textual details, what type of fat is highlighted separately, differentiating it from other fat types based on its saturated nature?",
+        "answer": "Saturated"
+      },
+      {
+        "question": "Analyzing the visual content, what nutrient is emphasized with a dedicated category and a detailed breakdown into different subtypes?",
+        "answer": "Fat"
+      },
+      {
+        "question": "Regarding the numerical data, what is the unit used to express the amount of cholesterol in a serving, providing information on cardiovascular health?",
+        "answer": "Milligrams"
+      },
+      {
+        "question": "Observing the textual arrangement, what element is used to separate the various categories and subsections of nutritional information, improving clarity?",
+        "answer": "Lines"
+      },
+      {
+        "question": "Analyzing the visual content, which mineral, crucial for bone health, is listed with its respective daily value percentage?",
+        "answer": "Calcium"
+      },
+      {
+        "question": "Considering the presented data, what is the macronutrient, essential for building and repairing tissues, with its quantity provided in grams per serving?",
+        "answer": "Protein"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/62/62308eb1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the most accurate single-word description of the object's three-dimensional shape, as presented in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What single-word color best captures the predominant hue visible across the surface of the object in the provided image?",
+        "answer": "Teal"
+      },
+      {
+        "question": "Based solely on visual observation of the object's surface, what is the most apparent single-word descriptor of its texture?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the image carefully, what single-word term best represents the visible material composition of the object?",
+        "answer": "Metallic"
+      },
+      {
+        "question": "From a visual standpoint, disregarding any contextual information, what single-word term best encapsulates the object's apparent finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Disregarding any other information, what single-word adjective best describes the object's general visual appeal based solely on the image?",
+        "answer": "Subdued"
+      },
+      {
+        "question": "What single word best describes the apparent visual uniformity of the item's color and texture?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Considering the image only, what is the most appropriate single-word descriptor for the object's perceived weight, based solely on visual cues?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "Given only the visual information in the picture, what is the most suitable one-word term for the overall style of the item?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Judging purely from the image, what single word accurately represents the object's apparent state of preservation?",
+        "answer": "Intact"
+      },
+      {
+        "question": "What single word best describes the apparent level of visual detail present on the object\u2019s surface, as shown in the provided image?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "Based only on visual evidence, what single-word term best describes the object's perceived manufacturing process?",
+        "answer": "Cast"
+      },
+      {
+        "question": "From the image, what single word best describes the apparent reflectivity of the object's surface?",
+        "answer": "Low"
+      },
+      {
+        "question": "Disregarding any other context, what single-word term best captures the object's apparent purpose based solely on its visual characteristics?",
+        "answer": "Functional"
+      },
+      {
+        "question": "What single word best summarizes the visual impression created by the object's color and shape in the image?",
+        "answer": "Solid"
+      }
+    ]
+  }
+]

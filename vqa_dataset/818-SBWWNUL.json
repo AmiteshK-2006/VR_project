@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ad/ada4e5cf.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the bread loaf itself, as shown in the product image?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the packaging, what is the primary color used on the label, aside from the text?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What type of bread is explicitly indicated on the product's label, as shown?",
+        "answer": "Sandwich"
+      },
+      {
+        "question": "Based on its visual form, what is the overall shape of the bread product shown?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent texture of the sliced bread surface, as seen in the image?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What kind of packaging material is primarily used to encase the bread loaf?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the main descriptive word used in the product's label, pertaining to the bread's color?",
+        "answer": "White"
+      },
+      {
+        "question": "What word describes the style of bread presented, as labeled on the package?",
+        "answer": "Classic"
+      },
+      {
+        "question": "Observing the image, how many slices of bread are visibly apparent in the package?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "What is the brand name shown on the label of the bread packaging?",
+        "answer": "365"
+      },
+      {
+        "question": "Considering the visual presentation, what is the apparent state of the bread; sliced or unsliced?",
+        "answer": "Sliced"
+      },
+      {
+        "question": "What design element is repeatedly used on the label; a symbolic representation of grains?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "What is the visual appearance of the bread's crumb or inside, based on the image?",
+        "answer": "Pale"
+      },
+      {
+        "question": "Considering the packaging's design, what is the overall color scheme, beyond the text?",
+        "answer": "Light"
+      },
+      {
+        "question": "What is the general form or type of the loaf shown; round, oblong or other?",
+        "answer": "Oblong"
+      }
+    ]
+  }
+]

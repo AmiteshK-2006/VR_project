@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/83/8337b060.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the predominant three-dimensional shape of the presented item?",
+        "answer": "Tubular"
+      },
+      {
+        "question": "Based on the visual texture, what is the surface feel likely to be like when touched?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Disregarding the folds, what single geometric form best describes a cross-section of this object?",
+        "answer": "Circular"
+      },
+      {
+        "question": "Judging by the appearance, what is the most apparent material composition of the product?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "From the image, what single color most accurately describes the item's hue?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the most visually obvious characteristic of the product's surface finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Observing the item's structure, how many individual strands or pieces are visibly present?",
+        "answer": "Three"
+      },
+      {
+        "question": "Regarding the arrangement, how are the multiple pieces of the item configured?",
+        "answer": "Coiled"
+      },
+      {
+        "question": "What is the general physical condition of the product shown, as implied by the image?",
+        "answer": "Intact"
+      },
+      {
+        "question": "What is the predominant visual aspect of the product's external surface?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Considering the image's quality, how would you classify the resolution and clarity of the picture?",
+        "answer": "High"
+      },
+      {
+        "question": "Based purely on visual assessment, what level of flexibility does this product appear to possess?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Analyzing the image, are there any visible markings, patterns, or logos on the item?",
+        "answer": "None"
+      },
+      {
+        "question": "In terms of appearance, how would you describe the level of detail present in this object?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "Given its form and material, what is the most likely application of this product?",
+        "answer": "Industrial"
+      }
+    ]
+  }
+]

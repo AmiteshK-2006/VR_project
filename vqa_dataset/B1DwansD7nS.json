@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/55/55819ba5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the displayed textile?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the texture, what is the apparent fabric type?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on visual inspection, what is the overall shape of the item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent weave pattern of the visible fabric?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Judging by the image, what is the overall surface finish of the fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the fabric show any visible discernible pattern or print?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent level of sheen or gloss on the fabric surface?",
+        "answer": "Low"
+      },
+      {
+        "question": "What is the visible material composition indicated on the label?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "From the image, can you determine if the material is thick or thin?",
+        "answer": "Thin"
+      },
+      {
+        "question": "What is the apparent softness or coarseness of the textile's feel?",
+        "answer": "Soft"
+      },
+      {
+        "question": "From the image provided, is the material transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What is the apparent drape or hang of the fabric when laid flat?",
+        "answer": "Flat"
+      },
+      {
+        "question": "What is the visible certification label found on the image?",
+        "answer": "Oeko-Tex"
+      },
+      {
+        "question": "Based solely on the visual, what brand is indicated on the label?",
+        "answer": "Amazonbasics"
+      },
+      {
+        "question": "Does the fabric exhibit any visible pilling or damage?",
+        "answer": "No"
+      }
+    ]
+  }
+]

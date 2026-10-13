@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d5/d5b621e3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the primary color scheme employed in the product's labeling?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Based on the text's visual characteristics, what is the font style predominantly used for the nutritional information?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Judging by the visual density of the text, what level of detail is given to the product's ingredients?",
+        "answer": "Extensive"
+      },
+      {
+        "question": "From a visual standpoint, how is the calorie content information presented in relation to the other text elements?",
+        "answer": "Prominently"
+      },
+      {
+        "question": "Considering the overall visual layout, what is the dominant organizational principle of the nutritional facts?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "In terms of visual hierarchy, what section of text is most visually prominent on the label?",
+        "answer": "Calorie"
+      },
+      {
+        "question": "Examining the visual texture of the text, does the label appear to be printed on glossy or matte material?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on the visual clarity of the text, what can be said about the label's print quality?",
+        "answer": "Clear"
+      },
+      {
+        "question": "From a visual perspective, what is the overall text alignment of the nutritional information?",
+        "answer": "Left"
+      },
+      {
+        "question": "Judging by the visual spacing between lines, what is the level of visual density of the text block?",
+        "answer": "High"
+      },
+      {
+        "question": "Observing the image, is the text in uppercase or lowercase letters?",
+        "answer": "Mixed"
+      },
+      {
+        "question": "Based on visual appearance, does the background show any notable patterns or imagery?",
+        "answer": "None"
+      },
+      {
+        "question": "Judging by the visual appearance of the text, is the font weight generally bold, regular, or light?",
+        "answer": "Regular"
+      },
+      {
+        "question": "Considering the visual style, does the label include any use of decorative elements or graphical icons?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the visual shape of the text block on the product label?",
+        "answer": "Rectangular"
+      }
+    ]
+  }
+]

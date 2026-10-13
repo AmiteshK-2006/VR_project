@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8f/8f19d0a6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the visible surface of the product?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the overall shape of the presented item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the texture apparent on the product's outer layer, based solely on visual inspection?",
+        "answer": "Flocked"
+      },
+      {
+        "question": "What kind of visible pattern is imprinted or woven onto the product's face?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Considering the apparent construction, what is the likely primary material of the outer layer?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Based on its visual attributes, what is the likely function or use of this product?",
+        "answer": "Mattress"
+      },
+      {
+        "question": "Are there any noticeable seams or stitching visible on the edges of the item?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent thickness or depth of the product, judging by the image?",
+        "answer": "Shallow"
+      },
+      {
+        "question": "Describe the visual uniformity of the color across the entire surface area?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Considering the visible construction, what is the suggested level of firmness or softness?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Does the product exhibit any visible logos, branding, or identifying marks?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the image, what is the visible condition of the product—new or used?",
+        "answer": "New"
+      },
+      {
+        "question": "Based solely on visual clues, what is the approximate size ratio—long vs. wide?",
+        "answer": "Wide"
+      },
+      {
+        "question": "What kind of overall design aesthetic does the product visually present?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Describe the visible edge finish of the item along its perimeter.",
+        "answer": "Finished"
+      }
+    ]
+  }
+]

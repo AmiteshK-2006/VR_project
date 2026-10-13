@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3a/3a976f0f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the visible top surface of this piece of furniture?",
+        "answer": "LightBrown"
+      },
+      {
+        "question": "What is the apparent material of the top surface, judging by its texture and grain?",
+        "answer": "Wood"
+      },
+      {
+        "question": "What is the overall shape of this piece of furniture, considering its visible dimensions?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the main color of the visible body and drawer front of the furniture?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the most noticeable visual component below the top surface, assuming its function?",
+        "answer": "Drawer"
+      },
+      {
+        "question": "Describe the apparent material of the drawer handle, judging from its color and texture.",
+        "answer": "Wood"
+      },
+      {
+        "question": "What is the visible shape of the drawer handle, ignoring any minor details?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the apparent grain, does the wood on the top appear to be of a uniform type?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Describe the overall visual finish of the white portion of this piece of furniture.",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the wood grain on the top surface of the furniture appear to be visibly prominent?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the visible orientation of the wood grain on the top, running horizontally or vertically?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Considering the image, how many visible drawers are present in this piece of furniture?",
+        "answer": "One"
+      },
+      {
+        "question": "Does the top surface of the furniture appear to extend visibly beyond the sides of the body?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Describe the texture of the top surface, based on its visual appearance.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the general style of the visible drawer pull, simple or ornate?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

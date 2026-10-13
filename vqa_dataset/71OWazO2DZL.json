@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/62/62022429.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form and dimensions, what is the most accurate descriptor for the product's shape?",
+        "answer": "Bottle"
+      },
+      {
+        "question": "What color is the liquid contained within the transparent bottle, indicating the product's nature?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What material is the primary container of this product made of, based solely on visual inspection?",
+        "answer": "Glass"
+      },
+      {
+        "question": "What is the color of the cap or closure at the top of the bottle, indicating a specific design choice?",
+        "answer": "Green"
+      },
+      {
+        "question": "What kind of cap does the bottle utilize, describing its form and functionality?",
+        "answer": "Screw"
+      },
+      {
+        "question": "Observing the label design, what is the dominant color used as a background on the bottle?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the primary text displayed on the product's label, specifying the type of oil?",
+        "answer": "Solmo"
+      },
+      {
+        "question": "What secondary text clearly communicates the grade or quality of this oil?",
+        "answer": "Extra"
+      },
+      {
+        "question": "What is the text indicating the exact type of oil the product is?",
+        "answer": "Virgin"
+      },
+      {
+        "question": "What is the single word following the description of the oil that clarifies its nature?",
+        "answer": "Olive"
+      },
+      {
+        "question": "Examining the label, what type of activity is the oil indicated as suitable for?",
+        "answer": "Marinating"
+      },
+      {
+        "question": "Based on visual inspection, what are the images on the label depicting?",
+        "answer": "Olives"
+      },
+      {
+        "question": "What is the material of the cap suggesting the potential for use and stability?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "In the lower portion of the label, what is the second activity suggested for product use?",
+        "answer": "Salting"
+      },
+      {
+        "question": "What is the third suggested usage for the product, based on label text?",
+        "answer": "Cooking"
+      }
+    ]
+  }
+]

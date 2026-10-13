@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ee/ee8afb45.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme visually apparent on the product packaging?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the visual elements, what is the overall shape of the product packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material appears to be predominantly used for the product packaging, judging by its visual texture and sheen?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the apparent style or design of the typography used on the product's visual labels?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on visual observation, what appears to be the primary graphical element used for emphasis on the product packaging?",
+        "answer": "Checkmarks"
+      },
+      {
+        "question": "Observing the visual details, what is the primary method employed for conveying product attributes on the packaging?",
+        "answer": "Bullet-points"
+      },
+      {
+        "question": "What is the overall visual impression of the packaging design, such as minimalist, colorful, or ornate?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What color is prominently used to highlight key product features, such as 'Vegan' or 'Gluten Free'?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What is the apparent texture of the product packaging's surface, based on its visual appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the relative size of the text compared to the size of the checkmarks, as visually apparent?",
+        "answer": "Large"
+      },
+      {
+        "question": "Judging by visual appearance, how many distinct sections or areas are visually present on the product packaging?",
+        "answer": "One"
+      },
+      {
+        "question": "Considering the visual aspects, is there any noticeable visual pattern or texture on the packaging itself?",
+        "answer": "None"
+      },
+      {
+        "question": "What type of background color is immediately visible behind the primary text elements?",
+        "answer": "White"
+      },
+      {
+        "question": "Based purely on the image's visual clarity, is the text on the label predominantly clear or blurry?",
+        "answer": "Clear"
+      },
+      {
+        "question": "By observing the provided visual, what is the general visual quality or definition of the packaging image?",
+        "answer": "High"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/12/12822ea8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the object depicted in the provided image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the overall form, what single word best describes the shape of this item?",
+        "answer": "Teardrop"
+      },
+      {
+        "question": "Based on visual inspection, what material appears to have been used in the manufacturing of this component?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Observing the surface, what is the apparent texture of the product shown in the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "How many visible circular fasteners are affixed to the outer perimeter of the item?",
+        "answer": "Eight"
+      },
+      {
+        "question": "Examining the image, what is the most prominent feature on the item's surface besides the fasteners?",
+        "answer": "Curvature"
+      },
+      {
+        "question": "Focusing on the central region, what is the shape of the circular depression or opening?",
+        "answer": "Circular"
+      },
+      {
+        "question": "Considering the visible construction, does the object appear to consist of one or multiple pieces?",
+        "answer": "One"
+      },
+      {
+        "question": "What is the apparent overall finish or treatment of the external surface of this component?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging by the image, is there evidence of any visible text or markings on the component?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the design, what is the most likely purpose or function of the central circular opening?",
+        "answer": "Access"
+      },
+      {
+        "question": "Considering the product's visible features, what is the likely manufacturing process used?",
+        "answer": "Molding"
+      },
+      {
+        "question": "Based on the overall visual presentation, what is the likely application of the item?",
+        "answer": "Automotive"
+      },
+      {
+        "question": "From the image, can you determine if the item is symmetrical along a single axis?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the item possess any noticeable ridges, grooves, or protrusions beyond the fasteners?",
+        "answer": "No"
+      }
+    ]
+  }
+]

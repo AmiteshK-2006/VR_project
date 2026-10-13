@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a2/a2a34ce7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the cylindrical container's label?",
+        "answer": "Purple"
+      },
+      {
+        "question": "What is the overall shape of the food product's packaging?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What material appears to constitute the main body of the container?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Describing the texture of the label, is it glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What type of information is prominently displayed on one side of the container?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is depicted on the main label graphic, providing a contextual clue?",
+        "answer": "Landscape"
+      },
+      {
+        "question": "What is the overall color scheme of the label's illustrative elements?",
+        "answer": "Monochromatic"
+      },
+      {
+        "question": "Does the label include any text indicating dietary restrictions or certifications?",
+        "answer": "Vegan"
+      },
+      {
+        "question": "Observing the bottom, what style is the printing of the barcode?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the general appearance of the text on the label, font style?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Are there any noticeable markings or symbols near the barcode suggesting certification?",
+        "answer": "Symbols"
+      },
+      {
+        "question": "Considering the container's closure, what type is it?",
+        "answer": "Lid"
+      },
+      {
+        "question": "What kind of printing technique seems to have been used for the label?",
+        "answer": "Offset"
+      },
+      {
+        "question": "Judging from the image, what is the approximate size of the container?",
+        "answer": "Large"
+      },
+      {
+        "question": "Considering the overall presentation, would you classify the design as minimalist or ornate?",
+        "answer": "Minimalist"
+      }
+    ]
+  }
+]

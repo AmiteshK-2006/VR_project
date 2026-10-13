@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c6/c65e2c37.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape and the presence of detailed text blocks, what is the primary function suggested by the image?",
+        "answer": "Label"
+      },
+      {
+        "question": "What is the dominant color of the background against which the text is prominently displayed?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "Given the prominent use of capital letters and the structured formatting, what is the text's intended purpose?",
+        "answer": "Information"
+      },
+      {
+        "question": "Focusing on the text's font style, what is the overall impression it conveys, from a design standpoint?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Based on the text's content and organization, what is the product category to which it most likely belongs?",
+        "answer": "Food"
+      },
+      {
+        "question": "Examining the text's style, what is the character of the information being conveyed, from a communication perspective?",
+        "answer": "Descriptive"
+      },
+      {
+        "question": "Based on the words 'organic' and other ingredients listed, what is the likely nature of the product?",
+        "answer": "Natural"
+      },
+      {
+        "question": "Judging by the length and detail of the text, what is the degree of information provided to the consumer?",
+        "answer": "Extensive"
+      },
+      {
+        "question": "Given the ingredients specified, what is the potential nature of any dietary restrictions the product might have?",
+        "answer": "Specific"
+      },
+      {
+        "question": "Considering the structure of the text, what is the format used to present the ingredients list?",
+        "answer": "List"
+      },
+      {
+        "question": "In terms of the design's readability, what is the level of visual clarity of the text information?",
+        "answer": "High"
+      },
+      {
+        "question": "By the text's tone and content, what is the implied attitude towards the product's composition?",
+        "answer": "Straightforward"
+      },
+      {
+        "question": "Based on visual inspection, how is the text's layout organized in relation to the label's edges?",
+        "answer": "Centered"
+      },
+      {
+        "question": "What is the apparent style and size of the font used for the main heading?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Looking at the text's overall density, what is the word arrangement to ensure information is easily understood?",
+        "answer": "Organized"
+      }
+    ]
+  }
+]

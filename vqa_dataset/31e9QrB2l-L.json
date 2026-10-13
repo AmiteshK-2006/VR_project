@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c1/c1ca5a5e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant visual characteristic of the cylindrical object's surface, apparent from its reflective properties?",
+        "answer": "Shiny"
+      },
+      {
+        "question": "Considering the object's dimensions and the scale provided by the human hand, what is its most prominent shape?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Based on the image's visual cues, what material seems to primarily constitute the object?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Judging by the visual uniformity of the surface texture, what is the general feel of the object?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall color or tone of the object as observed directly in the picture?",
+        "answer": "Silver"
+      },
+      {
+        "question": "From the image, are there any apparent noticeable patterns or textures on the cylindrical surface?",
+        "answer": "None"
+      },
+      {
+        "question": "Observing the object's form, are there any visible seams, joints, or other structural elements?",
+        "answer": "None"
+      },
+      {
+        "question": "Regarding the object's apparent construction, does it show any signs of being hollow or solid?",
+        "answer": "Hollow"
+      },
+      {
+        "question": "Considering the object's size and proportions, as judged by the hand's placement, what could its potential use be?",
+        "answer": "Container"
+      },
+      {
+        "question": "Does the object's surface appear to reflect ambient lighting, implying what material property?",
+        "answer": "Metallic"
+      },
+      {
+        "question": "By comparing the object against the human hand, how would you characterize its overall size?",
+        "answer": "Long"
+      },
+      {
+        "question": "What is the approximate length of the object, visually estimated by the accompanying scale?",
+        "answer": "Twelve"
+      },
+      {
+        "question": "Considering its shape and the uniformity of its color and texture, how would you describe the object's form?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "From a visual perspective, is the object's surface highly reflective or somewhat matte in appearance?",
+        "answer": "Reflective"
+      },
+      {
+        "question": "Is the object presented in the image clearly and distinctly visible, free from any obscuring elements?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

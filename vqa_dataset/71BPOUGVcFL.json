@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/90/90b3f184.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what is the predominant color scheme of the displayed text on this food label?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What specific allergenic ingredient is prominently declared on the label as a component?",
+        "answer": "Soy"
+      },
+      {
+        "question": "What is the text style employed for the 'Other Ingredients' and 'Contains' headings on the label?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Regarding the typeface used, what is the overall style applied to the words on the food product label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Observing the details, what is the case of the lettering used in declaring the soy ingredient's presence?",
+        "answer": "Upper"
+      },
+      {
+        "question": "Disregarding the specific ingredients, what is the background texture of the presented label section?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "In terms of the label's design, is the arrangement of the lines of text vertical or horizontal?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Focusing solely on the visual aspects, what is the format of the 'Contains' statement on the label?",
+        "answer": "Declarative"
+      },
+      {
+        "question": "Based on what you see in the image, what word is used before 'Soy Lecithin' in the list of ingredients?",
+        "answer": "Other"
+      },
+      {
+        "question": "What is the format of the list of additional components declared after the words, 'Other Ingredients'?",
+        "answer": "List"
+      },
+      {
+        "question": "Looking at the image provided, what is the general appearance of the font on the product label?",
+        "answer": "Clear"
+      },
+      {
+        "question": "In the given image, what is the overall visual appearance of the words written on the label?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Is the text on the label aligned to the left, center, or right side of the rectangle?",
+        "answer": "Left"
+      },
+      {
+        "question": "Judging by the visual appearance, what single word follows the term 'Contains' on the label?",
+        "answer": "Soy"
+      },
+      {
+        "question": "Considering the visual characteristics, is the style of the text on this food label formal or informal?",
+        "answer": "Formal"
+      }
+    ]
+  }
+]

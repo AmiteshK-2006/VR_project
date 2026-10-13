@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f3/f3aec70c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's overall presentation, what is the dominant color scheme employed?",
+        "answer": "Black"
+      },
+      {
+        "question": "What specific food item is prominently mentioned within the provided text?",
+        "answer": "Sunflower"
+      },
+      {
+        "question": "Based on the textual information, what is the culinary preparation method used for the primary ingredient?",
+        "answer": "Roasted"
+      },
+      {
+        "question": "Observing the text, what is the secondary ingredient listed after the main component?",
+        "answer": "Salt"
+      },
+      {
+        "question": "Examining the style of the text, what kind of typeface appears to be used for the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What word is used to label the ingredient list in the image?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Describing the textual alignment, how is the information arranged on the label?",
+        "answer": "Left"
+      },
+      {
+        "question": "In terms of the lettering case, how are the words displayed on the product label?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Regarding the formatting of the text, what punctuation mark concludes the ingredient list?",
+        "answer": "Period"
+      },
+      {
+        "question": "What is the visual appearance of the background surface?",
+        "answer": "White"
+      },
+      {
+        "question": "What appears to be the overall shape of the labeled information?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based solely on the visual information presented, what is the apparent texture of the label?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the text's structure, what is the layout style of the ingredient information?",
+        "answer": "Linear"
+      },
+      {
+        "question": "What is the overall visual style of the text and its presentation on the label?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What seems to be the general condition of the label shown in the image?",
+        "answer": "Clean"
+      }
+    ]
+  }
+]

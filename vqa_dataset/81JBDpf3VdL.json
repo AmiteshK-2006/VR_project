@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/78/783155fa.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the label's background, as visually apparent on the product packaging?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the overall design, what is the most prominent style or category of information displayed on the front label?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Describe the typeface used for the large numerical value prominently displayed on the container's label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the shape of the individual serving container shown, if any, implied by the label's dimensions and shape?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the texture of the label, in terms of its finish (glossy, matte, etc.) as perceived from the image?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What kind of font weight is primarily used for the text displayed in the label's nutritional information section?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the apparent material of the product container, which is evident from the appearance of the product in the image?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What color is the text that indicates the serving size, in the nutritional fact section?",
+        "answer": "Black"
+      },
+      {
+        "question": "Judging from the visual appearance, what is the primary method of providing nutritional information on this product?",
+        "answer": "Table"
+      },
+      {
+        "question": "Is the label predominantly characterized by horizontal or vertical layout of its textual information?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the overall tone of the label's color palette, as perceived from the image provided?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "Based on the image, is there any visible branding or logo immediately identifiable on the product's label?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the label exhibit a noticeable pattern, texture, or design elements beyond basic text and lines?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the visual size of the text on the product label, relative to the entire label area?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the apparent finish of the nutritional facts section on the product label?",
+        "answer": "Glossy"
+      }
+    ]
+  }
+]

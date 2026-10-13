@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/cb/cb88403b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the door shown in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "What appears to be the primary material used in constructing this door?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Considering the visible design, what style best describes the door's paneling?",
+        "answer": "Raised"
+      },
+      {
+        "question": "How many distinct vertical panels are clearly visible on the door's face?",
+        "answer": "Three"
+      },
+      {
+        "question": "Based on the image, what is the overall shape of the door itself?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging by its visual appearance, what is the door's surface texture?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the door in the image seem to feature any prominent decorative molding?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the visible hinge placement, which way does the door swing open?",
+        "answer": "Inward"
+      },
+      {
+        "question": "What kind of door handle or knob is visibly attached to the door?",
+        "answer": "Round"
+      },
+      {
+        "question": "Examining the image, what color is the door handle or knob?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Judging from the image, is the door frame visible and of a similar color?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What kind of visible trim surrounds the door?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the apparent finish of the door's surface; glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on the visual evidence, is the door shown fully closed or ajar?",
+        "answer": "Ajar"
+      },
+      {
+        "question": "Does the image clearly showcase any visible damage or imperfections on the door?",
+        "answer": "No"
+      }
+    ]
+  }
+]

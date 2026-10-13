@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fd/fd815b94.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the watch face, as distinctly visible in the provided image?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the image, what appears to be the primary material composing the watchband?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Based on visual inspection, what shape best describes the watch's case?",
+        "answer": "Round"
+      },
+      {
+        "question": "From the image, what color is the watch case, excluding the watch face?",
+        "answer": "Black"
+      },
+      {
+        "question": "Judging solely from the provided image, what type of clasp does the watch band seem to have?",
+        "answer": "Hidden"
+      },
+      {
+        "question": "Does the image show any noticeable markings or logos on the watch face?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent texture of the watch band, as directly observed in the provided picture?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image alone, does the watch have visible hand indicators?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the overall style of the watch, as depicted in the image?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Judging by the image, does the watch have any noticeable embellishments or decorations?",
+        "answer": "No"
+      },
+      {
+        "question": "What appears to be the overall design aesthetic of the watch from the image alone?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Is the watch band shown in the image attached to the watch case in any visible way?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the image, what seems to be the thickness of the watch case?",
+        "answer": "Thin"
+      },
+      {
+        "question": "What does the image reveal about the watch face's clarity or legibility?",
+        "answer": "Clear"
+      },
+      {
+        "question": "From the provided image, can you determine if the watch band is adjustable?",
+        "answer": "No"
+      }
+    ]
+  }
+]

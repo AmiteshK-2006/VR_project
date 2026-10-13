@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e8/e814b6dd.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant textual feature displayed on the product?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Based on the text's visual characteristics, what is the font style used for 'INGREDIENTS'?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Judging from the visual appearance, what is the case of the lettering used for the listed ingredients?",
+        "answer": "Upper"
+      },
+      {
+        "question": "What is the apparent color of the text, judging by visual inspection of the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the visual background color of the product shown in the image?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "Considering the visual clarity, is the textual information presented in a single line or multiple?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "Judging by the image, what punctuation mark appears after the ingredient list?",
+        "answer": "Period"
+      },
+      {
+        "question": "From a purely visual analysis, what is the apparent size of the text relative to the image's dimensions?",
+        "answer": "Large"
+      },
+      {
+        "question": "What is the apparent spacing between the 'INGREDIENTS' and the ingredient list, from a visual perspective?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Describe the visual alignment of the text within the image's frame.",
+        "answer": "Left"
+      },
+      {
+        "question": "Based on visual assessment, is there any noticeable visual distortion of the text?",
+        "answer": "None"
+      },
+      {
+        "question": "From visual inspection, what is the general visual arrangement of the words within each line?",
+        "answer": "Linear"
+      },
+      {
+        "question": "What is the apparent visual texture of the surface upon which the text is presented?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the visual presentation, what is the style of the text's typography?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Judging by visual assessment, what is the overall legibility of the text?",
+        "answer": "High"
+      }
+    ]
+  }
+]

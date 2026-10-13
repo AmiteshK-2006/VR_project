@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d8/d8db7bbe.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the primary purpose of this item depicted in the image?",
+        "answer": "Label"
+      },
+      {
+        "question": "What is the dominant color of the text displayed on this product's informational component?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the background color of the textual information presented on this food product's packaging?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the visible text, what category of food does the image's component represent?",
+        "answer": "Dairy"
+      },
+      {
+        "question": "Observing the label's text, what ingredient is specifically denoted as a color additive?",
+        "answer": "Annatto"
+      },
+      {
+        "question": "What is the textual formatting applied to the main header, indicating product composition?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "What is the written description of the milk's processing that is explicitly stated in the label?",
+        "answer": "Pasteurized"
+      },
+      {
+        "question": "From the label's description, which additional element is used during the production process?",
+        "answer": "Enzymes"
+      },
+      {
+        "question": "What additive, besides annatto, is used in making the product, as visually indicated on the label?",
+        "answer": "Salt"
+      },
+      {
+        "question": "Based on the textual information, is there any additional component besides milk present in the product?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What type of enzyme is explicitly mentioned as part of the ingredient list?",
+        "answer": "Microbial"
+      },
+      {
+        "question": "What additional information is communicated concerning an ingredient present in the product?",
+        "answer": "Milk"
+      },
+      {
+        "question": "What is the textual component used to distinguish the list of ingredients of this product?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the visible style of the text font used throughout this informational product label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the format of the list of constituents on the product label in the image?",
+        "answer": "List"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fd/fd5928a3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the phone case shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary material used for the construction of this phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the texture visible across the surface of the phone case in the main image?",
+        "answer": "Carbon"
+      },
+      {
+        "question": "Considering the overall shape, what geometric form best describes this phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on visual observation, what seems to be the design pattern imprinted on the case's back?",
+        "answer": "Grid"
+      },
+      {
+        "question": "Are there any noticeable raised edges or bumpers around the camera or screen area?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging by the image, are there cutouts present for access to phone ports?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent design style, characterized by its minimalist or detailed nature?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Can you visually identify any buttons which appear tactile or raised on the phone case?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What appears to be the finish or coating on the phone case's outer layer?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging solely by the image, does the phone case look to provide edge-to-edge protection?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the image depict any branding or logos visible on the phone case itself?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the material and design, how would you describe the overall feel of the phone case?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the displayed case appear to be a hard case or a soft, flexible case?",
+        "answer": "Hard"
+      },
+      {
+        "question": "Based on the image, is the case designed for a specific phone model or generally compatible?",
+        "answer": "Specific"
+      }
+    ]
+  }
+]

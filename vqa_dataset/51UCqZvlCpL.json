@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a7/a7e65c23.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary ingredient prominently displayed on the label?",
+        "answer": "Coenzyme"
+      },
+      {
+        "question": "What is the dosage of the primary ingredient per serving, as indicated on the label?",
+        "answer": "60mg"
+      },
+      {
+        "question": "What type of capsule is explicitly mentioned in the ingredient list?",
+        "answer": "Vegan"
+      },
+      {
+        "question": "What is one of the listed ingredients besides the primary component?",
+        "answer": "Rice"
+      },
+      {
+        "question": "What is another filler ingredient clearly listed on the label?",
+        "answer": "Cellulose"
+      },
+      {
+        "question": "What is a third ingredient mentioned in the 'Other Ingredients' section?",
+        "answer": "Silicon"
+      },
+      {
+        "question": "According to the label, what is the serving size of this supplement?",
+        "answer": "Capsule"
+      },
+      {
+        "question": "What is one substance explicitly stated as being processed in the production facility?",
+        "answer": "Milk"
+      },
+      {
+        "question": "What is another substance listed as being processed in the production facility?",
+        "answer": "Soy"
+      },
+      {
+        "question": "What is one more allergen explicitly stated as being processed in the facility?",
+        "answer": "Eggs"
+      },
+      {
+        "question": "What is the form factor of the supplement as depicted in the label?",
+        "answer": "Capsules"
+      },
+      {
+        "question": "What is the color of the text on the supplement facts label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall color scheme of the label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the shape of the listed supplement?",
+        "answer": "Oval"
+      },
+      {
+        "question": "Considering the label's design, what is the overall style of the text?",
+        "answer": "Sans-serif"
+      }
+    ]
+  }
+]

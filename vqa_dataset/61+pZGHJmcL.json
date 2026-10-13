@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/83/83bb535b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout and typography, what is the primary function indicated by the prominent text and numerical data presented on the rectangular label?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Based on the visual structure, what is the specified serving size, as clearly displayed in the label's upper section?",
+        "answer": "3Tbsp"
+      },
+      {
+        "question": "Observing the numerical values presented, what is the total number of calories per serving, as shown prominently in the label?",
+        "answer": "25"
+      },
+      {
+        "question": "Focusing on the nutritional data, what is the total amount of protein, in grams, per serving, indicated in the lower section?",
+        "answer": "5g"
+      },
+      {
+        "question": "Examining the detailed nutritional breakdown, what is the amount of sodium, in milligrams, contained in a single serving, as presented in the label?",
+        "answer": "75mg"
+      },
+      {
+        "question": "Analyzing the data concerning fats, what is the total amount of saturated fat, in grams, per serving, clearly displayed on the label?",
+        "answer": "0g"
+      },
+      {
+        "question": "Looking at the carbohydrate information, what is the total amount of carbohydrates, in grams, found in a single serving, as indicated on the label?",
+        "answer": "0g"
+      },
+      {
+        "question": "Referring to the section detailing sugars, what is the total amount of total sugars, in grams, present in one serving according to the label?",
+        "answer": "0g"
+      },
+      {
+        "question": "In the vitamin and mineral section, what is the amount of Vitamin D, in micrograms, listed per serving on the nutrition label?",
+        "answer": "0mcg"
+      },
+      {
+        "question": "Checking the mineral information, how many milligrams of calcium are present in one serving, as stated in the label's lower section?",
+        "answer": "4mg"
+      },
+      {
+        "question": "In the mineral data section, what is the listed quantity of iron, in milligrams, contained within a single serving, according to the label?",
+        "answer": "0mg"
+      },
+      {
+        "question": "Based on the label's lowermost section, what is the quantity of potassium, in milligrams, present in a single serving, as indicated on the label?",
+        "answer": "75mg"
+      },
+      {
+        "question": "Considering the overall design, what is the dominant color scheme used across the entire nutrition label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the text's characteristics, what is the overall typeface style that consistently appears throughout the entire nutrition facts label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the label's composition, what is the overall shape of the nutrition facts label presented in the provided image?",
+        "answer": "Rectangle"
+      }
+    ]
+  }
+]

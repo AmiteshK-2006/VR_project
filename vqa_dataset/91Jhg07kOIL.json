@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/df/df7a9ded.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the flexible packaging visible in the image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What appears to be the primary material composing the product's outer packaging?",
+        "answer": "Foil"
+      },
+      {
+        "question": "Considering the overall form, what is the shape of the product's package?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visible text, what kind of food product is contained within?",
+        "answer": "Snack"
+      },
+      {
+        "question": "Judging by the image, what is the general texture of the outer package?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the most prominent design element showcased on the bag's surface?",
+        "answer": "Text"
+      },
+      {
+        "question": "Does the packaging depict any images related to the food product inside?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent style of the typography used in the main branding?",
+        "answer": "Script"
+      },
+      {
+        "question": "What type of seal or closure appears to be present at the top of the pouch?",
+        "answer": "Resealable"
+      },
+      {
+        "question": "Observing the text, what dietary label or claim is evident on the package?",
+        "answer": "Gluten-free"
+      },
+      {
+        "question": "Does the back of the package include a nutrition information panel?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the image, does the product's packaging include a barcode?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the package's visual design, what overall mood does it project?",
+        "answer": "Calm"
+      },
+      {
+        "question": "What is the primary method of conveying product details to the consumer?",
+        "answer": "Text"
+      },
+      {
+        "question": "What color(s) are used in the text on the packaging?",
+        "answer": "White"
+      }
+    ]
+  }
+]

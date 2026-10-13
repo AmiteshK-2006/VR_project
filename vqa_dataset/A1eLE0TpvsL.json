@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/81/817fc760.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed material sample?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the visible texture, what is the apparent material type?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Based on the image, what is the overall finish of the material sample?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the material exhibit a noticeable grain or pattern?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging from the image, how would you describe the surface texture?",
+        "answer": "Grainy"
+      },
+      {
+        "question": "Is the displayed material sample uniformly colored throughout?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent thickness of the material sample shown?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Describe the visual uniformity of the color and texture across the sample.",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Can any sheen or glossiness be observed on the material's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "From the visual evidence, what kind of surface does the material appear to have?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image, does the sample appear to be soft or stiff?",
+        "answer": "Stiff"
+      },
+      {
+        "question": "Is there any visible damage, markings, or imperfections?",
+        "answer": "No"
+      },
+      {
+        "question": "What kind of light reflection is exhibited by the material?",
+        "answer": "Diffuse"
+      },
+      {
+        "question": "In the picture, how would you describe the material's visual density?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Considering the texture, how would you characterize the material's feel?",
+        "answer": "Coarse"
+      }
+    ]
+  }
+]

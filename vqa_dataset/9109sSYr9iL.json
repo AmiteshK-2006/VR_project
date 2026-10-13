@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/44/4415eef1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the packaging's primary background?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the overall shape of the product packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material appears to be used for the product's outer packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the primary text color used on the packaging?",
+        "answer": "White"
+      },
+      {
+        "question": "What brand name is prominently displayed on the packaging?",
+        "answer": "WholeFoods"
+      },
+      {
+        "question": "What kind of information dominates the packaging's front side?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Does the packaging contain any visible images or illustrations?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the texture of the packaging, based on visual observation?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Is the overall design of the packaging simple or complex?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Is there a prominent logo visible on the packaging?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Are there any noticeable warning labels or symbols on the packaging?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the primary font style used in the text on the packaging?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Does the packaging have any perforations or tear lines visible?",
+        "answer": "No"
+      },
+      {
+        "question": "What type of information is printed in a smaller font size?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Based on the visual, does the packaging indicate recyclability?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/78/7871d9a4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the product's primary visible surface, considering its overall hue and saturation?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering its overall form and proportions, what is the most accurate geometric description of the product's shape?",
+        "answer": "Rectilinear"
+      },
+      {
+        "question": "What material appears to be the primary component used in the product's construction, judging by its reflective and pliable qualities?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on the appearance of the surface, what is the most prominent textural attribute of the product's exterior?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the bag's folds and curves, what is its overall three-dimensional configuration; is it flat, voluminous, or something else?",
+        "answer": "Voluminous"
+      },
+      {
+        "question": "Does the product exhibit any form of noticeable print, design, or branding elements on its main visible surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the product's shape, what is its most analogous everyday object from common packaging; is it a box, bag or something else?",
+        "answer": "Bag"
+      },
+      {
+        "question": "What is the general condition of the product's exterior, with respect to any apparent damage, wear, or significant imperfections?",
+        "answer": "Intact"
+      },
+      {
+        "question": "Focusing on the seams and edges, is there any visible evidence of unfinished construction or inconsistencies in the product's assembly?",
+        "answer": "No"
+      },
+      {
+        "question": "Describing the bag's overall appearance, how would you characterize its visual appeal; is it plain, elaborate, or something else?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Considering the material and design, what is the likely primary function of the product, from a practical viewpoint?",
+        "answer": "Packaging"
+      },
+      {
+        "question": "Considering its size and shape, what would be the most likely contents of the product's inner cavity?",
+        "answer": "Granular"
+      },
+      {
+        "question": "Given the visual properties, what is the overall impression of the product's texture; is it rough, soft, or something else?",
+        "answer": "Shiny"
+      },
+      {
+        "question": "What is the degree of transparency of the product's primary material; is it opaque, translucent, or transparent?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Observing the edges, what is the general nature of the product's finish; is it rough, smooth, or something else?",
+        "answer": "Sealed"
+      }
+    ]
+  }
+]

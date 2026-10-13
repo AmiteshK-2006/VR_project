@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ad/ad4453a4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the dominant three-dimensional shape of the product container as depicted?",
+        "answer": "Jar"
+      },
+      {
+        "question": "Observing the container's surface, what is the apparent texture of the glass material?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the visual appearance, what is the predominant color of the contained food product?",
+        "answer": "Red"
+      },
+      {
+        "question": "Focusing on the jar's closure, what type of lid is visibly present on the top?",
+        "answer": "Screw"
+      },
+      {
+        "question": "Examining the label, what is the brand name clearly indicated on the product packaging?",
+        "answer": "Whole"
+      },
+      {
+        "question": "What is the most prominent graphic element depicted on the label's central area?",
+        "answer": "Illustration"
+      },
+      {
+        "question": "Analyzing the jar's base, is it flat or does it exhibit any distinctive features?",
+        "answer": "Round"
+      },
+      {
+        "question": "What is the apparent material of the product's primary container?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Concentrating on the label's text, what category of food does it predominantly identify?",
+        "answer": "Sauce"
+      },
+      {
+        "question": "From the visible details, what is the approximate level of the sauce within the container?",
+        "answer": "Full"
+      },
+      {
+        "question": "Examining the label's design, what is the overall style or aesthetic?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Focusing on the labeling, does it appear to include nutritional information?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the jar's body, is its shape consistent from top to bottom or does it taper?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "What is the visible condition of the jar's surface (e.g., damaged, clean)?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Analyzing the label, is there a barcode or similar identification markings visible?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

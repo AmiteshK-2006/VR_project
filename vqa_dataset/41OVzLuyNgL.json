@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/66/667b2550.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's visual characteristics, what is the primary color used for the product's ingredient list?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Based on the image, what is the overall typeface style used to present the ingredients?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Judging by the image, what is the text's alignment concerning the packaging's edge?",
+        "answer": "Left"
+      },
+      {
+        "question": "What is the case of the lettering style employed in the ingredient description?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "From the visual information, what kind of tea is predominantly mentioned in the ingredients?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the text's apparent orientation relative to the vertical axis of the container?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Judging solely from the visual appearance, what is the word before the phrase \"leaf black tea\"?",
+        "answer": "Full"
+      },
+      {
+        "question": "What is the visual prominence of the word 'Organic' in the provided text regarding ingredients?",
+        "answer": "Prominent"
+      },
+      {
+        "question": "In terms of its visual structure, what is the type of textual presentation used for the ingredient information?",
+        "answer": "List"
+      },
+      {
+        "question": "What is the word following the description of the tea type on the container?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What is the visual arrangement of the words within the product's ingredient list?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Based solely on the image, what is the font weight used in the ingredient description?",
+        "answer": "Regular"
+      },
+      {
+        "question": "What is the visual density of the text, referring to the spacing between letters and words?",
+        "answer": "Normal"
+      },
+      {
+        "question": "What adjective modifies the \"flavors\" listed as part of the product's composition?",
+        "answer": "Natural"
+      },
+      {
+        "question": "What is the color of the text used in the ingredient list on the package, in simple terms?",
+        "answer": "Beige"
+      }
+    ]
+  }
+]

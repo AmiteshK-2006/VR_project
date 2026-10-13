@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fa/fa978bf5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color observed across the entire fabric swatch?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visible weave, what is the primary textural quality of the fabric?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Based on the image's visual details, what appears to be the main material composition?",
+        "answer": "Linen"
+      },
+      {
+        "question": "Judging by the visual appearance, how would you describe the overall finish of the fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the most apparent pattern or design visible within the fabric's structure?",
+        "answer": "Plain"
+      },
+      {
+        "question": "From a visual standpoint, what is the general shade or tone of the gray displayed?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Examining the image closely, is there any visible sheen or gloss on the fabric's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the visible threads, how would you classify the fabric's density or tightness?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the most prominent visual characteristic that defines the fabric's weave?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Does the fabric exhibit any distinct markings or irregularities in its texture?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "From a visual perspective, how uniform is the color distribution across the fabric sample?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Based solely on the visual data, is the fabric visibly patterned or subtly textured?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "Observing the weave closely, how even are the threads throughout the fabric?",
+        "answer": "Even"
+      },
+      {
+        "question": "Based on the image, what is the overall impression of the fabric's weight or substance?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Does the visual presentation of the fabric suggest it is tightly or loosely woven?",
+        "answer": "Medium"
+      }
+    ]
+  }
+]

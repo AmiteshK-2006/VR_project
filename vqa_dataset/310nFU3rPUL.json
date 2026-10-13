@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/18/18c66fbf.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the packaging visible on the product box?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the product's packaging, considering its dimensions?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the primary material used for the product's outer packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Considering the size relative to the person, is the product relatively large or small?",
+        "answer": "Small"
+      },
+      {
+        "question": "Based on the image, what seems to be the general texture of the product packaging?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the packaging display any prominent text or branding information visible?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent orientation of the product packaging in the provided image?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Is the product's packaging sealed or open, according to visual observation?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Can any specific design elements (logos, images, etc.) be clearly discerned on the packaging?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging by the image, what is the approximate number of visible text lines on the packaging?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the most noticeable color of text prominently displayed on the product's packaging?",
+        "answer": "White"
+      },
+      {
+        "question": "Does the packaging suggest any specific usage or contents based on its label?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is the packaging in the image showing any signs of damage or wear?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the provided view, are there any visible perforations or tear lines on the package?",
+        "answer": "No"
+      },
+      {
+        "question": "In terms of its visual appearance, does the packaging convey a sense of premium quality?",
+        "answer": "No"
+      }
+    ]
+  }
+]

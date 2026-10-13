@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c8/c8e2c668.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the image?",
+        "answer": "Green"
+      },
+      {
+        "question": "Considering the weave and texture, what is the apparent material of this textile?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Describe the overall visual texture of the displayed textile sample, considering its weave?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Based on the image, what is the general visual pattern or design of the fabric?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Does the image show any visible embellishments or additional design elements on the fabric?",
+        "answer": "None"
+      },
+      {
+        "question": "Judging by the image, what is the most apparent quality of the fabric's weave?",
+        "answer": "Even"
+      },
+      {
+        "question": "Describe the shade of green displayed by the textile, considering its depth and tone?",
+        "answer": "Dark"
+      },
+      {
+        "question": "What is the visual impression of the fabric's surface: smooth or coarse?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the uniformity of color across the entire visible surface of the fabric sample?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Does the fabric appear to have any visible sheen or glossiness in the image?",
+        "answer": "No"
+      },
+      {
+        "question": "Is there any evidence of a discernible pattern, other than weave, apparent on the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the image, is the fabric's surface noticeably textured or relatively flat?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Based solely on visual assessment, how would you characterize the fabric's visual weight?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the visual impression of the fabric's surface finish: matte or shiny?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the overall visual impression of the provided fabric sample: simple or complex?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

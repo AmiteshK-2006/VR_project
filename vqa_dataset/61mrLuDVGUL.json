@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/70/70fbbab0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual layout, what is the dominant visual element depicted in the provided image?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the primary textual content presented in the image, describing the product's composition?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Focusing on the textual style, what typeface appears to be used for the word 'INGREDIENTS'?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the predominant color of the background against which the text is displayed?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Based on the text's alignment, how is the ingredient list arranged on the background?",
+        "answer": "Left"
+      },
+      {
+        "question": "Examining the text's visual characteristics, what is its overall case (uppercase, lowercase, or mixed)?",
+        "answer": "Mixed"
+      },
+      {
+        "question": "In terms of visual hierarchy, which ingredient is listed first, indicating a prominent component?",
+        "answer": "Water"
+      },
+      {
+        "question": "Observing the text's density, would you describe the ingredient list as sparse or dense?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Disregarding any explicit labels, what color appears to be mentioned as a contributing element?",
+        "answer": "Black"
+      },
+      {
+        "question": "What specific type of juice is identified as a natural flavoring component, in terms of color?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based purely on visual inspection, what is the text's approximate font size?",
+        "answer": "Small"
+      },
+      {
+        "question": "In terms of visual texture, would the background be described as rough or smooth?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the overall visual presentation, what kind of visual style does the image present?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Based on visual assessment, which ingredient appears to act as a natural coloring agent?",
+        "answer": "Carrot"
+      },
+      {
+        "question": "Focusing on visual clarity, how legible is the text in the provided image?",
+        "answer": "Clear"
+      }
+    ]
+  }
+]

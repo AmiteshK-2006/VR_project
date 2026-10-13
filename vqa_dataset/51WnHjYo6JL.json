@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1b/1b3e4627.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant pattern displayed across the entire surface?",
+        "answer": "Wavy"
+      },
+      {
+        "question": "What is the overall shape or form of the depicted item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the lines, what is their primary directional orientation?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Describe the color palette used in the visual representation of the product.",
+        "answer": "White"
+      },
+      {
+        "question": "What appears to be the primary material composition, considering the visual characteristics?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Based on the image, what is the texture of the depicted item, smooth or otherwise?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent primary line weight across the fabric surface pattern?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Judging by the image, what is the implied level of transparency of this item?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What can be visually inferred regarding the overall design aesthetic of this textile?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Based solely on the image, describe the surface finish of the item, glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the item appear to have any form of visual embellishment beyond the lines?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the lines, what is the implied visual depth or three-dimensionality?",
+        "answer": "Flat"
+      },
+      {
+        "question": "What is the apparent overall visual weight or boldness of the pattern presence?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "Does the image suggest any visible folds or creases in the surface texture?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the implied level of sheen or gloss present on the fabric surface?",
+        "answer": "None"
+      }
+    ]
+  }
+]

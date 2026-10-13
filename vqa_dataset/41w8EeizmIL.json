@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9f/9fc98b50.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme visually apparent on this product's label, predominantly used for the text and lines?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the prominent text displayed at the very top of this product's label, indicating its informational purpose?",
+        "answer": "Supplement"
+      },
+      {
+        "question": "Considering the label's textual information, what is the specified serving size for a single administration?",
+        "answer": "Capsule"
+      },
+      {
+        "question": "Based on the displayed label, what specific nutrient is the product's primary focus, denoted as the main component?",
+        "answer": "Chromium"
+      },
+      {
+        "question": "According to the product's label, in what chemical form is the primary nutrient presented, as indicated by the parenthetical note?",
+        "answer": "Picolinate"
+      },
+      {
+        "question": "Observing the label, what unit of measurement is used to quantify the amount of the primary nutrient per serving?",
+        "answer": "mcg"
+      },
+      {
+        "question": "What is the numerical value, as visibly displayed on the label, representing the amount of the primary nutrient in one serving?",
+        "answer": "200"
+      },
+      {
+        "question": "As per the product's label, what percentage of the daily recommended value does one serving of the primary nutrient provide?",
+        "answer": "167"
+      },
+      {
+        "question": "What is the type of information provided on the label of this supplement product, as indicated in large font?",
+        "answer": "Facts"
+      },
+      {
+        "question": "What is the general layout style of the label's information, as evidenced by the arrangement of the information presented?",
+        "answer": "tabular"
+      },
+      {
+        "question": "What term is utilized to describe the quantity of the supplement component provided in a single intake, as shown on the product label?",
+        "answer": "Serving"
+      },
+      {
+        "question": "What kind of visual elements are used to separate the different sections and categories of information on the product label?",
+        "answer": "Lines"
+      },
+      {
+        "question": "What is the background color of the product label, visually observed as the primary backdrop for the text and lines?",
+        "answer": "White"
+      },
+      {
+        "question": "Besides the primary nutrient, what other information is provided that relates to the daily intake recommendation?",
+        "answer": "Value"
+      },
+      {
+        "question": "What style of font is predominantly used in the label, visually evident in terms of its overall appearance and character?",
+        "answer": "Bold"
+      }
+    ]
+  }
+]

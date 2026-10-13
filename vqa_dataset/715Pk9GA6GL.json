@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1a/1ada8f3c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color of the product shown within the clear plastic container?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the image, what appears to be the primary textural quality of the food product inside the container?",
+        "answer": "Crumbly"
+      },
+      {
+        "question": "Observing the product closely, what shape do the individual pieces of food seem to predominantly exhibit?",
+        "answer": "Irregular"
+      },
+      {
+        "question": "Judging by the visual appearance alone, what type of food product does the image depict?",
+        "answer": "Cheese"
+      },
+      {
+        "question": "What is the material of the container holding the food item, as directly visible in the provided image?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What appears to be the overall form or shape of the container in which the food is presented?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Focusing on the label design, what kind of graphic or image is shown prominently on the container?",
+        "answer": "Cow"
+      },
+      {
+        "question": "Judging solely from its visible characteristics, what seems to be the consistency of this food item?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What color, aside from white, is noticeably present within the product's appearance?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the nature of the noticeable small speckles interspersed throughout the food product?",
+        "answer": "Veins"
+      },
+      {
+        "question": "Based on the image, what is visible on the container related to food-related certification?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Describe the apparent condition or state of the food product shown, is it fresh or processed?",
+        "answer": "Processed"
+      },
+      {
+        "question": "Does the image show any significant imperfections or irregularities across the surface of the food product?",
+        "answer": "No"
+      },
+      {
+        "question": "What style or type of container design is this food product presented in?",
+        "answer": "Tupperware"
+      },
+      {
+        "question": "Is the product's presentation homogeneous or does it showcase diversity in the pieces' sizes?",
+        "answer": "Heterogeneous"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a3/a308c06e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the depicted tomatoes on the can label?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the primary shape of the container holding the tomatoes?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What material appears to constitute the main body of the product packaging?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What is the text describing the main contents of this canned product?",
+        "answer": "Tomatoes"
+      },
+      {
+        "question": "Based on the label, what is the indicated preparation of the tomatoes inside?",
+        "answer": "Peeled"
+      },
+      {
+        "question": "What adjective best describes the condition of the tomatoes according to the label?",
+        "answer": "Whole"
+      },
+      {
+        "question": "What term on the label indicates the type of agricultural practice used?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the word describing the absence of a certain chemical in the can's lining?",
+        "answer": "BPA"
+      },
+      {
+        "question": "What is the term describing the absence of a certain chemical in the can's lining?",
+        "answer": "Non"
+      },
+      {
+        "question": "What organization's seal is visible on the can's label, indicating organic certification?",
+        "answer": "USDA"
+      },
+      {
+        "question": "What is the visible term indicating purity on the product label?",
+        "answer": "Pure"
+      },
+      {
+        "question": "What brand is displayed prominently on the product label?",
+        "answer": "365"
+      },
+      {
+        "question": "What is the unit of weight stated on the label for the net contents of the product?",
+        "answer": "Oz"
+      },
+      {
+        "question": "What is the term indicating the general nature of the product, suggesting it's preserved?",
+        "answer": "Canned"
+      },
+      {
+        "question": "Describe the overall visual style of the product's labeling and design?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

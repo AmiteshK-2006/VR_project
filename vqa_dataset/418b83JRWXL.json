@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/70/70901a31.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the main packaging material, visually apparent in the provided image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the overall form, what is the most accurate geometric description of the product's packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on visual texture, what is the apparent surface feel of the product's outer packaging?",
+        "answer": "Corrugated"
+      },
+      {
+        "question": "What single word best describes the type of coffee roast indicated on the box\u2019s label?",
+        "answer": "Light"
+      },
+      {
+        "question": "What is the primary material used for the product's immediate packaging, as visually observed?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "According to the labeling clearly visible on the box, what type of beverage is within?",
+        "answer": "Coffee"
+      },
+      {
+        "question": "Considering the labeling's typography and layout, what would you describe the overall aesthetic as?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Visually inspecting the box, what is the serving size of the contained coffee, as explicitly stated?",
+        "answer": "Single"
+      },
+      {
+        "question": "What is the brand name prominently displayed on the box's frontal surface?",
+        "answer": "SOLMO"
+      },
+      {
+        "question": "From the visible text, what is the total count of individual coffee servings within?",
+        "answer": "100"
+      },
+      {
+        "question": "What is the overall shape of the product's packaging, considering the visible structural elements?",
+        "answer": "Cuboid"
+      },
+      {
+        "question": "Judging from the visual clarity and arrangement, what is the overall style of the text on the box?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Based on the image, what is the primary function of the visible product packaging?",
+        "answer": "Container"
+      },
+      {
+        "question": "What type of print can you visually confirm on the cardboard packaging?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the visible weight of the product, in kilograms, as shown on the package?",
+        "answer": "1.2"
+      }
+    ]
+  }
+]

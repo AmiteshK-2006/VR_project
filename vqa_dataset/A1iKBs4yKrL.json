@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/50/50b98ca2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the visible fabric?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What material composition is explicitly stated on the label?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "What is the overall texture of the displayed fabric?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image, what is the apparent weave type of the cloth?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Does the fabric show any visible patterns or prints?",
+        "answer": "No"
+      },
+      {
+        "question": "What type of label is attached to the fabric sample?",
+        "answer": "Care"
+      },
+      {
+        "question": "What is the primary language used on the care instructions?",
+        "answer": "English"
+      },
+      {
+        "question": "Judging from the image, is the fabric glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the shape of the visible portion of the fabric?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the label, is the fabric suitable for machine washing?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the label, is tumble drying recommended for this fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the label show an ironing instruction symbol?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging visually, how thick does the fabric appear to be?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What brand is indicated on the visible label?",
+        "answer": "Amazonbasics"
+      },
+      {
+        "question": "Is the fabric's appearance consistent throughout the visible area?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

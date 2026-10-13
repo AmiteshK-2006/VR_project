@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ee/eee1745b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the box's primary label?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the overall shape of the product's packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What kind of beverage does the box contain, as indicated on its label?",
+        "answer": "Water"
+      },
+      {
+        "question": "What textural characteristic best describes the box's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the image scale, what is the approximate size of the package relative to an average adult?",
+        "answer": "Small"
+      },
+      {
+        "question": "What material appears to constitute the product's outer packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the general condition of the packaging presented in the image?",
+        "answer": "New"
+      },
+      {
+        "question": "What descriptive term best characterizes the water type indicated on the label?",
+        "answer": "Sparkling"
+      },
+      {
+        "question": "What is the general color of the secondary, smaller text on the packaging?",
+        "answer": "Black"
+      },
+      {
+        "question": "Does the packaging exhibit any noticeable surface damage or imperfections?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the primary design feature of the box's graphic label?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the overall orientation of the box in the provided image?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Does the image show any added illustrations or imagery beyond text on the box?",
+        "answer": "No"
+      },
+      {
+        "question": "What type of printing is apparent on the product's packaging?",
+        "answer": "Label"
+      },
+      {
+        "question": "Considering the presence of size indicators, is the image meant to demonstrate packaging dimensions?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

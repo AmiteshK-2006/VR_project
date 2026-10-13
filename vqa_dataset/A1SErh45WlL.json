@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/64/64d4e0da.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the displayed fabric sample?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall texture of the fabric, as observed visually?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Considering the weave, what kind of fabric is suggested by the image?",
+        "answer": "Linen"
+      },
+      {
+        "question": "Describe the visual appearance of the fabric's weave pattern?",
+        "answer": "Grid"
+      },
+      {
+        "question": "Is the fabric's surface visibly smooth or rough?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What is the apparent visual weight or density of the fabric?",
+        "answer": "Light"
+      },
+      {
+        "question": "Does the image suggest any visible sheen or glossiness to the fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging by the image, how tightly is the fabric woven?",
+        "answer": "Close"
+      },
+      {
+        "question": "What is the visual uniformity of the fabric's color and texture?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Is there any visible pattern besides the weave in the fabric sample?",
+        "answer": "None"
+      },
+      {
+        "question": "Based on the visual details, how thick is the fabric shown?",
+        "answer": "Thin"
+      },
+      {
+        "question": "What is the shape of the displayed item shown in the image?",
+        "answer": "Square"
+      },
+      {
+        "question": "What is the apparent visual opacity of the presented fabric?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Does the fabric show any signs of stretching or distortion?",
+        "answer": "No"
+      },
+      {
+        "question": "Is the presented fabric sample visibly stained or marked?",
+        "answer": "No"
+      }
+    ]
+  }
+]

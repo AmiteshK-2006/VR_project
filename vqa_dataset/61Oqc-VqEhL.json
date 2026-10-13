@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/21/21986260.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color scheme of this product's nutritional information panel?",
+        "answer": "Black"
+      },
+      {
+        "question": "Examining the text's layout and structure, what specific type of information is prominently displayed on this product's packaging?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Based on the font style and size variations, what is the main piece of data highlighted within the provided nutrition information?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Focusing on the numerical values, what is the total number of calories per serving as explicitly indicated on the packaging?",
+        "answer": "140"
+      },
+      {
+        "question": "Observing the distinct text blocks, what is the unit of measurement used to quantify the 'Serving Size' of the food product?",
+        "answer": "Cookies"
+      },
+      {
+        "question": "Looking at the various components, what specific nutrient is numerically listed alongside the quantity '7g'?",
+        "answer": "Sugars"
+      },
+      {
+        "question": "By observing the text, which unit of measurement is used to represent the amount of 'Total Fat' contained within a single serving?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the quantitative value presented for the element 'Saturated Fat', presented in grams?",
+        "answer": "2"
+      },
+      {
+        "question": "Based on the presented data, what is the quantitative value for 'Sodium', in milligrams?",
+        "answer": "90"
+      },
+      {
+        "question": "Referring to the numerical data provided, what is the total amount of 'Total Carbohydrate', expressed in grams?",
+        "answer": "22"
+      },
+      {
+        "question": "What is the specified amount of 'Dietary Fiber', less than a certain value, presented in grams?",
+        "answer": "1"
+      },
+      {
+        "question": "What unit is used to express the 'Protein' content of one serving?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Observing the listed nutrients, what is the measurement unit used for 'Vitamin D', 'Calcium', 'Iron', and 'Potassium'?",
+        "answer": "mg"
+      },
+      {
+        "question": "Based on the layout of the text, what is the term describing the percentage values listed next to each nutrient?",
+        "answer": "Daily"
+      },
+      {
+        "question": "What is the general term for the type of information displayed on this food product packaging?",
+        "answer": "Facts"
+      }
+    ]
+  }
+]

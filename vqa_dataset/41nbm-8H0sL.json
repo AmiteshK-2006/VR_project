@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5d/5da158e2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what single word best describes the dominant color of the label's background?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "Based on the image, what is the primary text style used on the label, considering its weight and appearance?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Judging from the image's visual features, what is the most prominent ingredient listed on the label?",
+        "answer": "Olive"
+      },
+      {
+        "question": "From the visual inspection, what is the case of the lettering featured on the label?",
+        "answer": "Upper"
+      },
+      {
+        "question": "Given the visual characteristics, what word describes the format of the ingredient information displayed?",
+        "answer": "List"
+      },
+      {
+        "question": "What is the visible shape of the label as depicted in the provided image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on what is visually apparent, what is the overall texture of the label's surface, as observed?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From a visual standpoint, what is the single word that best describes the appearance of the text's color?",
+        "answer": "Black"
+      },
+      {
+        "question": "In terms of visual prominence, what single word indicates the label's overall design style?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Considering the image provided, what word best describes the overall length of the label, relative to its width?",
+        "answer": "Long"
+      },
+      {
+        "question": "What is the single word describing the orientation of the text on the food label?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Visually, what word best describes the type of information conveyed on the label?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What adjective best describes the visual clarity of the printed text on the label?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the single word that specifies the visible type of oil mentioned on the label?",
+        "answer": "Virgin"
+      },
+      {
+        "question": "Considering the image, what word best represents the type of font used for the label's text?",
+        "answer": "Sans-serif"
+      }
+    ]
+  }
+]

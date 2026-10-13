@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/49/49c5633c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the packaging visible in the image?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the overall shape of the product's packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material appears to constitute the main packaging?",
+        "answer": "Foil"
+      },
+      {
+        "question": "What type of text is predominantly featured on the packaging?",
+        "answer": "Descriptive"
+      },
+      {
+        "question": "What is the apparent texture of the packaging's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the visible text, what is the product's main ingredient?",
+        "answer": "Durum"
+      },
+      {
+        "question": "Is there any indication of organic certification on the package?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the overall style of the package design (e.g., minimalist, ornate)?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Does the packaging display nutritional information?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the predominant visual aspect of the label's design?",
+        "answer": "Text"
+      },
+      {
+        "question": "Is a barcode visible on the package?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What color is the logo visible on the packaging?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the general condition of the packaging depicted?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "What kind of seal or closure is apparent on the package?",
+        "answer": "Heat"
+      },
+      {
+        "question": "Can one discern any particular brand name on the packaging?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

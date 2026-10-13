@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/25/2531e9db.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual design, what best describes the dominant textual layout?",
+        "answer": "tabular"
+      },
+      {
+        "question": "What is the primary color used for the prominent numerical values indicating the calories per serving?",
+        "answer": "black"
+      },
+      {
+        "question": "Based on the image, what is the most frequently used font weight for the textual information presented?",
+        "answer": "bold"
+      },
+      {
+        "question": "What is the background color of the nutritional information panel as a whole?",
+        "answer": "white"
+      },
+      {
+        "question": "Observing the image, what is the primary shape of the nutritional facts panel displayed?",
+        "answer": "rectangular"
+      },
+      {
+        "question": "What is the overall texture displayed in the visual representation of the nutritional information panel?",
+        "answer": "smooth"
+      },
+      {
+        "question": "What is the color of the text used for the 'Nutrition Facts' header label?",
+        "answer": "black"
+      },
+      {
+        "question": "What is the primary font style (e.g., serif, sans-serif) used throughout the information panel?",
+        "answer": "sans-serif"
+      },
+      {
+        "question": "Focusing on the numerical data, what is the unit used to represent the amount of total carbohydrates?",
+        "answer": "grams"
+      },
+      {
+        "question": "What is the primary color of the text denoting percentage daily values?",
+        "answer": "black"
+      },
+      {
+        "question": "Considering the layout, what is the visual element used to visually separate different nutritional components?",
+        "answer": "lines"
+      },
+      {
+        "question": "What is the color of the text indicating the serving size in grams?",
+        "answer": "black"
+      },
+      {
+        "question": "Considering the visual presentation of the nutritional values, what is the unit used for 'Sodium'?",
+        "answer": "milligrams"
+      },
+      {
+        "question": "What is the predominant color of the header 'Nutrition Facts'?",
+        "answer": "black"
+      },
+      {
+        "question": "What is the format used to present the amount of 'Total Fat' in a serving?",
+        "answer": "grams"
+      }
+    ]
+  }
+]

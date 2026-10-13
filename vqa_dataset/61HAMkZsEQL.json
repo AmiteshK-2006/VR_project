@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/32/32314858.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary shape of the individual supplement units depicted on the label?",
+        "answer": "Oval"
+      },
+      {
+        "question": "Considering the label's description, what is the dosage form of the vitamin E supplement?",
+        "answer": "Softgel"
+      },
+      {
+        "question": "Based on the provided label, what specific form of vitamin E is included in each serving?",
+        "answer": "Tocopherol"
+      },
+      {
+        "question": "What color is the background of the 'Supplement Facts' label shown in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the font color used for the heading 'Supplement Facts' on the label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the primary descriptor used to denote the quantity of each serving?",
+        "answer": "IU"
+      },
+      {
+        "question": "What is the texture implied for the vitamin E supplement units, judging from the image and its description?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What is the main vitamin highlighted and quantified on the supplement facts label?",
+        "answer": "Vitamin"
+      },
+      {
+        "question": "What is the overall layout of the information presented on the nutrition facts label?",
+        "answer": "tabular"
+      },
+      {
+        "question": "Observing the label, what is the percentage of the daily value provided by one serving?",
+        "answer": "1333%"
+      },
+      {
+        "question": "Judging by the clarity of the label, what can be said about the printing quality of the product information?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the style of the text font utilized throughout the supplement facts section?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the size format, in terms of units, indicated for one serving size of the product?",
+        "answer": "One"
+      },
+      {
+        "question": "What is the material implied for the container based on the label's context (not explicitly shown)?",
+        "answer": "Bottle"
+      },
+      {
+        "question": "What kind of information does the label primarily display about the product contents?",
+        "answer": "Nutritional"
+      }
+    ]
+  }
+]

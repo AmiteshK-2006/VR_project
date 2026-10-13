@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1a/1affa430.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color scheme of the nutrition label's text and background?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the textual layout, what is the primary organizational structure of the nutrition information?",
+        "answer": "Table"
+      },
+      {
+        "question": "Focusing solely on the visible numbers, what is the total caloric count per serving as stated?",
+        "answer": "70"
+      },
+      {
+        "question": "What is the specified unit of measurement for the serving size, as depicted on the label?",
+        "answer": "Tablespoon"
+      },
+      {
+        "question": "What is the numerical value presented for total fat in grams per serving, as shown on the label?",
+        "answer": "4g"
+      },
+      {
+        "question": "Based on the visual information, what is the amount of saturated fat listed, in grams per serving?",
+        "answer": "2.5g"
+      },
+      {
+        "question": "What is the numerical value for dietary fiber in grams, as displayed on the label?",
+        "answer": "1g"
+      },
+      {
+        "question": "Based on the image, what is the amount of total sugar in grams per serving shown on the label?",
+        "answer": "8g"
+      },
+      {
+        "question": "What is the quantity of protein, in grams, indicated per serving as shown in the label?",
+        "answer": "<1g"
+      },
+      {
+        "question": "What is the style of the font used for the main 'Nutrition Facts' heading?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Describe the visual texture of the nutrition label's surface as shown in the image.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "In terms of visual hierarchy, what is the size of the font of 'Calories per serving' compared to other entries?",
+        "answer": "Large"
+      },
+      {
+        "question": "What is the overall shape of the nutrition facts panel as seen in the picture?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the type of information conveyed by the panel based on its visible content?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the overall visual presentation quality of the label's typography and layout?",
+        "answer": "Clear"
+      }
+    ]
+  }
+]

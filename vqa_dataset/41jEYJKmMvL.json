@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ea/ea3514f4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the main food item, considering its overall hue?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the visible texture, what is the apparent surface texture of the base food item?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What shape most accurately describes the overall form of the main food product?",
+        "answer": "Round"
+      },
+      {
+        "question": "What is the color of the citrus slice used as a garnish on top of the food?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What type of citrus fruit is visible as a garnish atop the main food item?",
+        "answer": "Lemon"
+      },
+      {
+        "question": "Describe the visual form or arrangement of the small green components surrounding the lemon slice.",
+        "answer": "Clustered"
+      },
+      {
+        "question": "What seems to be the general type of green elements, visually, used as a garnish?",
+        "answer": "Herbs"
+      },
+      {
+        "question": "What is the apparent size of the main food item, relative to a standard dinner plate?",
+        "answer": "Small"
+      },
+      {
+        "question": "What kind of surface is the food item presented on, based on its visual characteristics?",
+        "answer": "Wooden"
+      },
+      {
+        "question": "What is the color of the surface the food item is resting on?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Based on the visible elements, what seems to be the general culinary style of the food item?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the general appearance of the edges of the main food item?",
+        "answer": "Irregular"
+      },
+      {
+        "question": "Considering the visual presentation, does the main food item appear moist or dry?",
+        "answer": "Dry"
+      },
+      {
+        "question": "Disregarding the garnishes, what is the predominant shade of the base food component?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the general style of presentation of the food item, from a visual standpoint?",
+        "answer": "Minimalist"
+      }
+    ]
+  }
+]

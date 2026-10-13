@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d0/d0f5412f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color scheme employed in the nutritional information panel?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the primary typeface used for presenting the nutritional values and descriptions in this image?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What language(s) are used for labeling the nutritional information, given the visual display?",
+        "answer": "Multilingual"
+      },
+      {
+        "question": "Observing the layout structure, what format is used to represent the nutritional data\u2014per serving or per total package?",
+        "answer": "Per"
+      },
+      {
+        "question": "Based on visual inspection, what units are consistently used to quantify the nutritional components?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the visual format in which the nutritional information is presented (e.g., table, list, chart)?",
+        "answer": "Table"
+      },
+      {
+        "question": "What visual element is frequently used to separate the different nutritional components in this image?",
+        "answer": "Lines"
+      },
+      {
+        "question": "Considering the text size and style, what level of emphasis is given to the 'Energy' values compared to other nutrients?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the text alignment employed for the different column headers (e.g., 'Per 100g' and nutrient names)?",
+        "answer": "Left"
+      },
+      {
+        "question": "Based on the visual characteristics, is the font weight used for the numerical values generally bold or regular?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Considering the overall presentation, does the nutritional information use icons, illustrations, or only text?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the general appearance of the background color on which the nutritional information is printed or displayed?",
+        "answer": "Light"
+      },
+      {
+        "question": "Observing the visual structure, are the values for each nutrient presented in a single line or multiple lines?",
+        "answer": "Single"
+      },
+      {
+        "question": "Does the visual design include any visual cues like borders, shading, or highlights to improve readability?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the visual representation, what is the orientation of the nutritional information panel (e.g., portrait or landscape)?",
+        "answer": "Portrait"
+      }
+    ]
+  }
+]

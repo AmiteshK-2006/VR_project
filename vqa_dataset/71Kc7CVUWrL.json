@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9b/9b9c904c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual appearance, what is the primary color of the text displayed on the product's label?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the visual elements, what is the predominant background color of the packaging's label?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Examining the label's text, what is the word that is prominently displayed at the very top of the label?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the typeface style used for the text displayed across the label, considering the visual characteristics of the letters?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Judging by the image, what is the overall shape of the label section shown?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on what's visually apparent, what is the material type of the label, based on its appearance?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What specific spice is listed first among the ingredients, according to the label's text?",
+        "answer": "Paprika"
+      },
+      {
+        "question": "Considering the visual depiction, is the text on the label bold or not?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Looking at the image, what is the text's alignment on the label — left, right, or center?",
+        "answer": "Left"
+      },
+      {
+        "question": "From the visual information, can you ascertain whether the text is aligned in a single or multiple columns?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "Judging from the visual characteristics, what is the approximate size of the text on the label, in relation to typical font sizes?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Based on the visual evidence, is the text on the product's label mostly uppercase or lowercase letters?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Does the text on the label's visual presentation appear to use a specific font weight, like light, regular or bold?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Based on the visual characteristics, does the label text utilize any special formatting like italics or underlining?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image, what is the overall visual texture of the label, considering the smoothness or roughness?",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

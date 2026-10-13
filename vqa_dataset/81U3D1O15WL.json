@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e4/e46f4e9b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the bottle's body, as observed in the image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What material appears to constitute the bottle's main structure, based on visual inspection?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the overall shape of the container shown in the provided product image?",
+        "answer": "Round"
+      },
+      {
+        "question": "Judging by the image, what kind of seal is visible on the bottle's top?",
+        "answer": "Shrink"
+      },
+      {
+        "question": "Based solely on visual assessment, what is the apparent finish of the bottle's surface?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Does the bottle's surface show any noticeable texture besides the glossy finish?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image, can you identify any prominent markings on the bottle's cap?",
+        "answer": "Text"
+      },
+      {
+        "question": "What color is the text visible around the outer rim of the bottle's seal?",
+        "answer": "Dark"
+      },
+      {
+        "question": "From visual observation, is the bottle transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Observing the image, describe the apparent thickness of the bottle's walls.",
+        "answer": "Thick"
+      },
+      {
+        "question": "What is the apparent size of the bottle based on its proportions in the image?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Are there any visible damage or imperfections on the product's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image, is the bottle's cap designed for easy opening?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall visual impression of the product's quality from the image?",
+        "answer": "Good"
+      },
+      {
+        "question": "In the image, does the bottle appear to have any additional components besides the main body and cap?",
+        "answer": "No"
+      }
+    ]
+  }
+]

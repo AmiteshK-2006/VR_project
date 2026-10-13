@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d8/d89ae6fc.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the product container?",
+        "answer": "Red"
+      },
+      {
+        "question": "What appears to be the material of the product container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the overall shape of the product container?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What type of lid does the product container have?",
+        "answer": "Screw-top"
+      },
+      {
+        "question": "What color is the cap or lid of the container?",
+        "answer": "Red"
+      },
+      {
+        "question": "Is there visible text on the container's back label?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent texture of the container?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the container seem transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What kind of information is prominently displayed on the back?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the overall condition of the container in the image?",
+        "answer": "New"
+      },
+      {
+        "question": "Are there any visible markings or designs besides text?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the container show signs of damage or wear?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent size of the container relative to a human hand?",
+        "answer": "Large"
+      },
+      {
+        "question": "Is the printing on the label high quality or low quality?",
+        "answer": "High"
+      },
+      {
+        "question": "Does the container have any visible seams or joins?",
+        "answer": "No"
+      }
+    ]
+  }
+]

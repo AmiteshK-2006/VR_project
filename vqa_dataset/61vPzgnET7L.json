@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0e/0ea4e662.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the primary packaging of this food product, as shown in the image?",
+        "answer": "Triangular"
+      },
+      {
+        "question": "What appears to be the dominant color of the inner packaging visible through the primary packaging?",
+        "answer": "Green"
+      },
+      {
+        "question": "What material is the outer packaging of this food product seemingly constructed from?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the visual elements, what seems to be the primary material of the product contained within?",
+        "answer": "Nuts"
+      },
+      {
+        "question": "What is the general color profile of the product's contents, as hinted at through the packaging?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Judging by the packaging's design, what is the likely method of resealing after opening?",
+        "answer": "Resealable"
+      },
+      {
+        "question": "Given the packaging's shape, how might this product be most easily displayed on a shelf?",
+        "answer": "Upright"
+      },
+      {
+        "question": "What is the general texture of the outer packaging material?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image, what seems to be the primary function of the outer packaging?",
+        "answer": "Protection"
+      },
+      {
+        "question": "Does the primary packaging have any noticeable text or logos printed on it?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent condition of the packaging in the provided image?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "What is the approximate size, visually estimated, of the outer packaging?",
+        "answer": "Large"
+      },
+      {
+        "question": "Is there any visible damage to the packaging in this image?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image, does the packaging seem to be transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What seems to be the overall visual impression of the packaging design?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

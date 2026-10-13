@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/72/72530130.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall shape and form, what best describes the product's physical structure?",
+        "answer": "Gummy"
+      },
+      {
+        "question": "Based on the visual evidence, what is the primary color of the product?",
+        "answer": "Purple"
+      },
+      {
+        "question": "From the image, what seems to be the texture of the product, judging by its appearance?",
+        "answer": "Chewy"
+      },
+      {
+        "question": "Judging from the image, what material seems to be primarily used in the product's composition?",
+        "answer": "Gelatin"
+      },
+      {
+        "question": "What is the most apparent design feature visible on the product itself, if any?",
+        "answer": "None"
+      },
+      {
+        "question": "What can be visually discerned about the product's size relative to a typical human hand?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the general shape of each individual item in the product container?",
+        "answer": "Bear"
+      },
+      {
+        "question": "What is the inferred way of consuming this item according to its appearance and visual cues?",
+        "answer": "Chewing"
+      },
+      {
+        "question": "Considering the color uniformity across the visible product units, how consistent is the coloring?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "What, if anything, is visually apparent in terms of text or branding on the product itself?",
+        "answer": "None"
+      },
+      {
+        "question": "Based on the image, can you determine the approximate number of units within the packaging?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "Considering the visual details, is there any visible sign of damage or imperfection?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the image, how would you characterize the overall finish or glossiness of the product's surface?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Based on the visual information, does the product appear to have any discernible layers or internal structure?",
+        "answer": "No"
+      },
+      {
+        "question": "What additional elements, if any, are visually detectable within the packaging along with the main product?",
+        "answer": "None"
+      }
+    ]
+  }
+]

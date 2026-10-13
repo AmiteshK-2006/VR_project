@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/01/0130a3dc.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the flexible packaging visible in the provided image?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What primary material constitutes the product's external packaging, judging by its appearance and texture?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the overall form, what geometric shape best describes the product's packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the image, what kind of seal is visible at the top of the package?",
+        "answer": "Heat-sealed"
+      },
+      {
+        "question": "What is the predominant textural characteristic of the depicted packaging?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Discerning from the visible text, what type of nut is contained within the bag?",
+        "answer": "Walnut"
+      },
+      {
+        "question": "What is the visible descriptor of the walnut's production method depicted on the packaging?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the text indicating the weight of contents, judging solely by what's visually present?",
+        "answer": "250g"
+      },
+      {
+        "question": "Considering the packaging design, is it primarily made from recyclable or non-recyclable materials?",
+        "answer": "Recyclable"
+      },
+      {
+        "question": "Considering the package structure, does it display any major tears or perforations?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall print quality, and is the text easily legible?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Based on visible branding, does the product possess a clearly identifiable logo or emblem?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What type of information does the back of the package seem to display?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Judging from the image, are there any noticeable flaws or defects in the product's packaging?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the package's material, is it matte or glossy in appearance?",
+        "answer": "Matte"
+      }
+    ]
+  }
+]

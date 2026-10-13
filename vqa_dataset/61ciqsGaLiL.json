@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0b/0b10b51f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the phone case shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Judging from the image, what appears to be the primary material of this phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on the provided image, what is the overall shape of the phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What color is the visible portion of the side accents of this mobile phone case?",
+        "answer": "Gold"
+      },
+      {
+        "question": "Considering the image, what design element is noticeable near the phone's camera cutout?",
+        "answer": "Circular"
+      },
+      {
+        "question": "Does the phone case in the image exhibit a glossy or matte finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "From the image, what seems to be the texture of the phone case surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the provided image, is the case design minimalist or ornate?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Observing the image carefully, how many visible cutouts are present on the phone case?",
+        "answer": "Three"
+      },
+      {
+        "question": "Does the image show any noticeable patterns or prints on the phone case?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the apparent thickness of the phone case based on the image?",
+        "answer": "Slim"
+      },
+      {
+        "question": "Judging by the image, what is the overall style of the phone case: rugged or sleek?",
+        "answer": "Sleek"
+      },
+      {
+        "question": "Based on the visual, does the case seem flexible or rigid?",
+        "answer": "Rigid"
+      },
+      {
+        "question": "What is the apparent level of detail in the phone case's design: high or low?",
+        "answer": "Low"
+      },
+      {
+        "question": "From the image, describe the case's fit: snug or loose?",
+        "answer": "Snug"
+      }
+    ]
+  }
+]

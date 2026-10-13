@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/45/45e4f735.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the product container, considering its base and top?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the primary color of the bottle's body, excluding labels and text?",
+        "answer": "White"
+      },
+      {
+        "question": "What type of dispensing mechanism is visibly present on the top of the bottle?",
+        "answer": "Pump"
+      },
+      {
+        "question": "What appears to be the primary material of the product container itself?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the dominant graphic element on the bottle's label, focusing on its color and shape?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What is the apparent texture of the bottle's surface, based on its visual appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What kind of design style is employed on the product label, with reference to its visual elements?",
+        "answer": "Illustrative"
+      },
+      {
+        "question": "Considering the label illustration, what kind of plant is depicted?",
+        "answer": "Oats"
+      },
+      {
+        "question": "What color are the leaves illustrated on the product label?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the general tone or feeling conveyed by the product's label design?",
+        "answer": "Natural"
+      },
+      {
+        "question": "Based on the visual elements, what type of product might this container hold?",
+        "answer": "Lotion"
+      },
+      {
+        "question": "Does the label include any text besides the graphic elements?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the general color scheme of the label, considering all visual elements?",
+        "answer": "Pastel"
+      },
+      {
+        "question": "Is the bottle transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What kind of barcode is present on the label?",
+        "answer": "UPC"
+      }
+    ]
+  }
+]

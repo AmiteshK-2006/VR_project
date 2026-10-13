@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d0/d00220c0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the bag containing the food product, as visibly apparent in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the bag's overall form, what geometrical shape best describes its primary outline?",
+        "answer": "Triangular"
+      },
+      {
+        "question": "What material is primarily used in the construction of the bag holding the food item?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Observing the bag closely, what is the overall texture of its surface, as visually perceived?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Is there any noticeable text or labeling present on the food bag, excluding nutritional information?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent overall condition of the bag, exhibiting any signs of damage or wear?",
+        "answer": "Intact"
+      },
+      {
+        "question": "Based on the visible contents, can the type of food be broadly identified as solid or liquid?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Focusing on the contents, is there any visible indication of color variation within the bag?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Can the bag's seal be visually identified as open, closed, or partially sealed?",
+        "answer": "Closed"
+      },
+      {
+        "question": "What color is the small rectangular label at the bottom of the bag?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the bag's design, are there any noticeable perforations or ventilation holes present?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the primary color of the nutritional information section on the packaging?",
+        "answer": "Black"
+      },
+      {
+        "question": "Describe the position of the nutritional information section on the bag's surface.",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Judging from the image, is the bag's packaging transparent or opaque?",
+        "answer": "Transparent"
+      },
+      {
+        "question": "Does the visible nutritional information include a clear indication of the food's weight or serving size?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

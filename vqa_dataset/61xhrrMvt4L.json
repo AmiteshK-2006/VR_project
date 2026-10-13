@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/7d/7d9dd0f1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual layout, what is the primary purpose of this rectangular item, as evident from its textual content and structured format?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Based on the prominent numerical value displayed, what is the total caloric content, per serving, of the food item described in this detailed chart?",
+        "answer": "150"
+      },
+      {
+        "question": "Examining the textual details, what specific unit of measurement is consistently used to quantify the amount of fat, carbohydrates, and other nutrients listed?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Looking at the provided data, what specific type of nutrient is shown to be completely absent, based on the '0g' value indicated?",
+        "answer": "Cholesterol"
+      },
+      {
+        "question": "Referring to the information presented, what is the total amount of dietary fiber, expressed as a range or specific value, in grams per serving?",
+        "answer": "<1"
+      },
+      {
+        "question": "Focusing solely on the visual presentation, what is the dominant color used for the text in this rectangular information display?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the visual structure, what is the font style primarily used for the main headings, such as 'Nutrition Facts' and 'Calories'?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Judging by the visual appearance, what is the overall background color of this detailed nutrient information panel?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the text's visual organization, what is the term used to represent the percentage of the recommended daily intake for various nutrients?",
+        "answer": "Daily"
+      },
+      {
+        "question": "From a visual standpoint, describe the arrangement of the numerical data and its associated textual labels within the table structure.",
+        "answer": "Columnar"
+      },
+      {
+        "question": "Focusing solely on the image, what is the format in which the nutrient values and their corresponding daily values are presented?",
+        "answer": "Table"
+      },
+      {
+        "question": "Judging from the visual details, what is the general shape of this item, providing information on the nutrient content of a certain food product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the provided image, what term precedes the detailed breakdown of the amount of various components per serving?",
+        "answer": "Amount"
+      },
+      {
+        "question": "By observing the visual presentation, what is the term used to describe the quantity of a given food item consumed in one instance?",
+        "answer": "Serving"
+      },
+      {
+        "question": "Observing the visual structure, what is the word that signifies the complete compilation of the nutritional components of the food?",
+        "answer": "Facts"
+      }
+    ]
+  }
+]

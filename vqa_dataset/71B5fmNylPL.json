@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1d/1dc99951.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the food container shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary material used in the construction of the bowl?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering its form, what is the most accurate geometric description of the bowl's shape?",
+        "answer": "Round"
+      },
+      {
+        "question": "Based on the visual evidence, what kind of food is presented inside the container?",
+        "answer": "Salad"
+      },
+      {
+        "question": "What is the apparent texture of the outer surface of the black bowl?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Is there any visible pattern or design etched into the exterior of the bowl?",
+        "answer": "Ribbed"
+      },
+      {
+        "question": "Does the image depict a single bowl or are there multiple bowls present in the scene?",
+        "answer": "Single"
+      },
+      {
+        "question": "What is the apparent color of the disposable base or liner under the bowl?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the apparent material of the disposable base or liner present beneath the bowl?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Excluding the food, are there any other items directly adjacent to the main container?",
+        "answer": "Fork"
+      },
+      {
+        "question": "What is the apparent shape of the accompanying serving or base piece under the bowl?",
+        "answer": "Circular"
+      },
+      {
+        "question": "What is the relative size of the container compared to a standard laptop keyboard?",
+        "answer": "Large"
+      },
+      {
+        "question": "What is the apparent condition of the bowl - is it new or visibly used?",
+        "answer": "New"
+      },
+      {
+        "question": "What appears to be the intended use or function of the presented container?",
+        "answer": "Serving"
+      },
+      {
+        "question": "Based on visual cues, what is the likely setting where this container would be used?",
+        "answer": "Office"
+      }
+    ]
+  }
+]

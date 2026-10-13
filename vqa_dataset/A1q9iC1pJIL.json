@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0c/0cd2d4cb.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant visible color of the textile sample shown?",
+        "answer": "Grey"
+      },
+      {
+        "question": "Considering the weave, what is the apparent texture of the fabric?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Based on visual inspection, what is the overall appearance of the fabric's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging from the image, what type of material is most likely presented?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Does the fabric exhibit any discernible patterns or designs on its surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Describing the visual grain, what direction is the weave predominantly oriented?",
+        "answer": "Diagonal"
+      },
+      {
+        "question": "What is the primary impression regarding the fabric's visual density or weight?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Does the image indicate a matte, satin or glossy finish for the fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the uniformity, how consistent is the coloring across the sample?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Judging by its visual characteristics, what could be a possible application for this fabric?",
+        "answer": "Apparel"
+      },
+      {
+        "question": "From what is shown, is the fabric visibly thick or thin in construction?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Is there any visible pilling or fuzziness evident in the fabric's image?",
+        "answer": "No"
+      },
+      {
+        "question": "Based solely on the image, is the fabric's surface noticeably shiny or dull?",
+        "answer": "Dull"
+      },
+      {
+        "question": "Does the displayed textile sample show any visible seams or stitching?",
+        "answer": "No"
+      },
+      {
+        "question": "What overall aesthetic impression does the fabric's visual quality give?",
+        "answer": "Subdued"
+      }
+    ]
+  }
+]

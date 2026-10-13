@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d8/d8ecf777.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the overall texture of the upholstery material?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Describe the visible stitching pattern on the fabric's surface.",
+        "answer": "Linear"
+      },
+      {
+        "question": "What appears to be the primary material of the shown product component?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "What is the general shape of the visible section of the product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent thickness of the fabric's upper edge?",
+        "answer": "Thick"
+      },
+      {
+        "question": "How would you describe the tightness or looseness of the fabric weave?",
+        "answer": "Tight"
+      },
+      {
+        "question": "What kind of seam is present at the top edge of the shown section?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Based on the image, what is the primary visual aspect of the surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Is the visible part of the product uniformly colored or patterned?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Does the image show any visible flaws or imperfections in the fabric?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the texture, what would be the likely feeling of the fabric?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What is the general direction of the visible fabric grain?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What seems to be the most noticeable design feature on this fabric section?",
+        "answer": "Plain"
+      },
+      {
+        "question": "What style of seam construction is visible at the corner of this object?",
+        "answer": "Mitered"
+      }
+    ]
+  }
+]

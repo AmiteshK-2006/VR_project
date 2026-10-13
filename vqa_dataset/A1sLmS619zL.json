@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1b/1ba4444f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color observed across the entire fabric sample?",
+        "answer": "Burgundy"
+      },
+      {
+        "question": "Considering the visual texture, what is the primary tactile feel implied by the fabric?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image, what type of weave or pattern is predominantly present in the fabric?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Does the fabric exhibit a noticeable sheen or luster under the lighting conditions of the image?",
+        "answer": "Slight"
+      },
+      {
+        "question": "From the visual inspection, what is the overall apparent thickness or weight of the fabric?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Judging solely by its visual appearance, what is the fabric's most prominent textural characteristic?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "Does the image display any visible irregularities or imperfections in the fabric's consistency?",
+        "answer": "No"
+      },
+      {
+        "question": "What could be inferred about the drape of the fabric from its depicted texture and structure?",
+        "answer": "Fluid"
+      },
+      {
+        "question": "Considering the image, does the fabric appear to have a matte or glossy finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "How would you describe the density of the visible lines running through the fabric?",
+        "answer": "Close"
+      },
+      {
+        "question": "What single word best describes the overall visual impression of the fabric's color?",
+        "answer": "Rich"
+      },
+      {
+        "question": "In the presented image, what is the most apparent characteristic of the fabric's structure?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Based on the visual texture, what is the likely overall level of sheen in the fabric?",
+        "answer": "Low"
+      },
+      {
+        "question": "What single word would best convey the visual uniformity of the fabric sample?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "From the image, what is the most obvious visual characteristic of the fabric's surface?",
+        "answer": "Striated"
+      }
+    ]
+  }
+]

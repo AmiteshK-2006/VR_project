@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c3/c3bb757d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the visual texture and apparent fragility, what is the predominant textural quality of the food items within the package?",
+        "answer": "Crispy"
+      },
+      {
+        "question": "What is the overall shape of the individual food pieces contained within the transparent package?",
+        "answer": "Irregular"
+      },
+      {
+        "question": "Based on the image's color palette, what is the dominant hue of the product?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Judging by the visual presentation, what seems to be the likely culinary form of the product inside?",
+        "answer": "Crostini"
+      },
+      {
+        "question": "Given the product's visual appearance, what type of packaging material is used to contain the product?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the visual impression of the overall consistency of the food items shown in the image?",
+        "answer": "Dry"
+      },
+      {
+        "question": "Considering the image's clarity, how would you describe the shape of the primary packaging?",
+        "answer": "Triangular"
+      },
+      {
+        "question": "Based on its appearance in the photograph, what is the apparent state of the product inside the bag?",
+        "answer": "Fragile"
+      },
+      {
+        "question": "Regarding the product's visual attributes, what descriptive word best captures its seeming lightness?",
+        "answer": "Light"
+      },
+      {
+        "question": "What is the visual appearance of the surface texture of the food pieces in the package?",
+        "answer": "Rough"
+      },
+      {
+        "question": "In terms of its visual appearance, how would you characterize the color of the food inside the package?",
+        "answer": "Pale"
+      },
+      {
+        "question": "Considering the image's details, what word best summarizes the overall appearance of the product in terms of its color?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Based solely on visual observation, what is the apparent structural integrity of the product within its packaging?",
+        "answer": "Loose"
+      },
+      {
+        "question": "How many distinct sections of the packaging are predominantly visible in the provided image?",
+        "answer": "One"
+      },
+      {
+        "question": "From a purely visual perspective, what is the predominant visual characteristic of the food contained within the packaging?",
+        "answer": "Crumbly"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/43/4323cfbb.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the depicted object?",
+        "answer": "Black"
+      },
+      {
+        "question": "What primary geometric shape best describes the object's overall form?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering its apparent construction, what material seems most likely?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Based on its visual attributes, what is the object's most likely function?",
+        "answer": "Support"
+      },
+      {
+        "question": "Observing its form, how would you describe the object's structural profile?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Judging by its visual texture, how would you characterize its surface finish?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the object exhibit any noticeable surface markings, engravings, or patterns?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering its dimensions relative to the human silhouette, how would you classify its size?",
+        "answer": "Small"
+      },
+      {
+        "question": "Examining the image, is the object's construction overtly complex or simplistic?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Does the object appear to possess any additional attached components or elements?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by its design, does the object appear to be mass-produced or handcrafted?",
+        "answer": "Mass-produced"
+      },
+      {
+        "question": "Does the image suggest the object is intended for indoor or outdoor use?",
+        "answer": "Indoor"
+      },
+      {
+        "question": "Based on its visual characteristics, is the object's design contemporary or antique?",
+        "answer": "Contemporary"
+      },
+      {
+        "question": "From its appearance, what is the object's approximate length in centimeters?",
+        "answer": "Five"
+      },
+      {
+        "question": "Considering its form and function, what is the most likely application of this product?",
+        "answer": "Mounting"
+      }
+    ]
+  }
+]

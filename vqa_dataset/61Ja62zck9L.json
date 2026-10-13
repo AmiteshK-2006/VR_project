@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5b/5beafe87.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form and the presence of a dispensing mechanism, what is the most probable function of this object?",
+        "answer": "Dispenser"
+      },
+      {
+        "question": "Based on its cylindrical structure and the smooth, unblemished surface, what is the most likely material of the main container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Observing the dominant hue covering the majority of the object's surface, what is its primary color?",
+        "answer": "White"
+      },
+      {
+        "question": "Focusing on the top section, what specific component facilitates the controlled release of the contained substance?",
+        "answer": "Pump"
+      },
+      {
+        "question": "Given its slender shape and the absence of a wide base, how would you describe the general form factor of this product?",
+        "answer": "Bottle"
+      },
+      {
+        "question": "Considering the textural characteristics,  how would you describe the appearance of the primary surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Regarding the text printed on the product, can you classify its typographic style?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Referring to the shape of the primary container, what geometric term best describes it?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Looking at the upper part of the bottle, what is the shape of the dispensing mechanism?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What is the general character of the text found on the body of this object, in terms of its function?",
+        "answer": "Informative"
+      },
+      {
+        "question": "In terms of the graphic design, how would you describe the overall style of the labeling on the object?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Considering the visible bar code, what aspect of this product's metadata does it denote?",
+        "answer": "Identification"
+      },
+      {
+        "question": "Observing the arrangement of textual details on the product, how would you describe their positioning?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the overall texture of the object's surface?",
+        "answer": "Slick"
+      },
+      {
+        "question": "Considering the design features present, what is the predominant style of this object?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

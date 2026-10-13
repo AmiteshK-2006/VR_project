@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1a/1adbb00f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the text indicating the product name?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What color is the dominant background of the product packaging image?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What is the color of the text spelling out the product name?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the primary color of the Happy Belly logo?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What shape best describes the Happy Belly logo?",
+        "answer": "Circular"
+      },
+      {
+        "question": "What is the main typeface used for the product name?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the image's composition, what is the most apparent product feature being promoted?",
+        "answer": "Name"
+      },
+      {
+        "question": "What color is the smaller text detailing product information?",
+        "answer": "Black"
+      },
+      {
+        "question": "What word is immediately below the logo and above the product name?",
+        "answer": "Butter"
+      },
+      {
+        "question": "What is the second word appearing in large font, descriptive of the product?",
+        "answer": "Mintoes"
+      },
+      {
+        "question": "What is the overall style of the text presentation: formal or informal?",
+        "answer": "Informal"
+      },
+      {
+        "question": "Describe the visual texture of the background: smooth or rough?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the image's overall presentation feel modern or vintage?",
+        "answer": "Modern"
+      },
+      {
+        "question": "Considering the color palette, does the image present a warm or cool aesthetic?",
+        "answer": "Warm"
+      },
+      {
+        "question": "Considering the text elements alone, how would you describe the graphic style: minimalist or ornate?",
+        "answer": "Minimalist"
+      }
+    ]
+  }
+]

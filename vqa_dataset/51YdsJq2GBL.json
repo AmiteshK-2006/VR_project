@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/60/60baf812.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the primary shape of the object depicted in this image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on visual texture, what seems to be the surface quality of the item shown?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the visible hue, what single word best describes the item's color?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What material is most strongly suggested by the item's visual appearance and texture?",
+        "answer": "Wood"
+      },
+      {
+        "question": "From the image's perspective, is the object's surface glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the image reveal any noticeable patterns or designs on the object's surface?",
+        "answer": "None"
+      },
+      {
+        "question": "Ignoring the background, what is the approximate aspect ratio of the visible object?",
+        "answer": "Tall"
+      },
+      {
+        "question": "Judging from the image, does the object appear to be made from a single piece of material?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the visible edges, how would you describe the sharpness or bluntness of the object's corners?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Is there any visible evidence of grain or fibrous structure in the object's material?",
+        "answer": "No"
+      },
+      {
+        "question": "Based solely on what is visually apparent, does the object have any visible fasteners or joints?",
+        "answer": "No"
+      },
+      {
+        "question": "If you were to classify the visual style, how would you describe its overall aesthetic?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Does the object's surface appear to be uniform in tone and texture across the whole visible area?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the image's detail, can you identify any markings, engravings, or labels on the object?",
+        "answer": "No"
+      },
+      {
+        "question": "In terms of light reflection, does the item display high or low reflectivity?",
+        "answer": "Low"
+      }
+    ]
+  }
+]

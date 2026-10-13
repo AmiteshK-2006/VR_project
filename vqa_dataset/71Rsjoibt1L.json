@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/df/dfe2369e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the dominant shape of the product container as presented?",
+        "answer": "Bottle"
+      },
+      {
+        "question": "What material is primarily used in the construction of the product container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on the visible contents, what is the apparent color of the product inside the container?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe the texture of the container's surface, primarily visible along its side?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the most prominent color featured on the product's label, adjacent to the nutritional information?",
+        "answer": "Red"
+      },
+      {
+        "question": "What color is the topmost cap or closure of the product container?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the design, what type of closure is present at the top of the bottle?",
+        "answer": "Screw"
+      },
+      {
+        "question": "Describe the label's primary layout, encompassing both text and graphics on the bottle?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What type of text is primarily displayed on the label that provides key product information?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Ignoring any text, is there a notable design element or symbol on the label?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the shape's base, how wide is the bottom of the container relative to its top?",
+        "answer": "Wider"
+      },
+      {
+        "question": "Considering the labeling, what kind of information is clearly presented in a striped format?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "Describing the general style, what could be said about the label's visual design aesthetic?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the apparent overall condition of the container shown; is it damaged or intact?",
+        "answer": "Intact"
+      },
+      {
+        "question": "What kind of printing technique seems to have been used to render the label and its information?",
+        "answer": "Digital"
+      }
+    ]
+  }
+]

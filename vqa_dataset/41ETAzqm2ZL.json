@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c2/c2a3b0de.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the primary purpose of this item, judging by its text and design?",
+        "answer": "Label"
+      },
+      {
+        "question": "What color is the main background of this product's visual representation?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "What is the dominant text color used in the detailed description of the product?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the text, what primary ingredient is noticeably highlighted in the item's ingredient list?",
+        "answer": "Rice"
+      },
+      {
+        "question": "Examining the textual details, what other ingredient is specified besides the primary one?",
+        "answer": "Sugar"
+      },
+      {
+        "question": "According to the information provided, what potential allergen is mentioned as a possible contaminant?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "What additional potential allergen, based on the provided description, might be present in the manufacturing environment?",
+        "answer": "Peanuts"
+      },
+      {
+        "question": "What other kind of nut is mentioned as a possibility given the manufacturing process?",
+        "answer": "Tree"
+      },
+      {
+        "question": "Focusing on the visual aspect, what appears to be the overall texture of the product's label surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What style of font is predominantly used in writing out the ingredient details?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Judging by the visual elements, what is the overall format of the textual information presented?",
+        "answer": "List"
+      },
+      {
+        "question": "If we consider the bottom right portion, what is the name of a company mentioned?",
+        "answer": "Whole"
+      },
+      {
+        "question": "What is the primary style of the lettering used throughout the label?",
+        "answer": "Capital"
+      },
+      {
+        "question": "What term is specifically used to indicate other ingredients aside from the main components?",
+        "answer": "May"
+      },
+      {
+        "question": "What part of the item conveys information about who distributes the product?",
+        "answer": "Bottom"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8a/8aa16944.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the displayed material sample?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the apparent texture of the surface, as seen in the image?",
+        "answer": "Grained"
+      },
+      {
+        "question": "Considering the visual characteristics, what material is most likely depicted?",
+        "answer": "Leatherette"
+      },
+      {
+        "question": "Based on the image's visual appearance, how would you describe the finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging by the image, what is the overall visual tone or feel of the material?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Does the material appear to have any noticeable shine or gloss?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image's scale, is the depicted material patterned?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the texture appear uniform across the displayed sample?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the visual impression of the material's thickness in the image?",
+        "answer": "Moderate"
+      },
+      {
+        "question": "Based purely on visual observation, is the surface smooth or rough?",
+        "answer": "Rough"
+      },
+      {
+        "question": "From the image alone, is the material's grain regular or irregular?",
+        "answer": "Regular"
+      },
+      {
+        "question": "What is the apparent density of the material's surface texture?",
+        "answer": "High"
+      },
+      {
+        "question": "Does the material's surface texture show any distinct lines?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging visually, how fine or coarse is the material's grain?",
+        "answer": "Fine"
+      },
+      {
+        "question": "Based on the visual appearance, does the material seem pliable or stiff?",
+        "answer": "Pliable"
+      }
+    ]
+  }
+]

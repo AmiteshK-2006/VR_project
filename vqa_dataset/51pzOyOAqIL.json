@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f2/f21976fb.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the label prominently displayed on the product container?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of the product container as depicted in the provided image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the visible text and design elements, what is the apparent function of this product as indicated on its label?",
+        "answer": "Food"
+      },
+      {
+        "question": "What kind of information, crucial for consumers, is predominantly featured on the label?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Based on the label's design and information layout, what is the likely format of the product inside the container?",
+        "answer": "Liquid"
+      },
+      {
+        "question": "What is the overall visual texture of the product label as presented in the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the predominant style of the font used for the major text on the product label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the general color of the text visible on the nutrition facts label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the format of the key numerical values present on the label concerning the product's nutritional content?",
+        "answer": "Digits"
+      },
+      {
+        "question": "Describe the arrangement of the textual information in terms of its organization on the product's label.",
+        "answer": "Tabular"
+      },
+      {
+        "question": "Based on the label's visual elements, what is the overall style of the product's branding?",
+        "answer": "Clean"
+      },
+      {
+        "question": "What is the visual element separating the different nutritional components listed on the label?",
+        "answer": "Lines"
+      },
+      {
+        "question": "What is the general design of the label in terms of its use of graphics or illustrations?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the material of the label itself judging by its appearance in the image?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Considering the label's design, what could be inferred about the target audience for this product?",
+        "answer": "General"
+      }
+    ]
+  }
+]

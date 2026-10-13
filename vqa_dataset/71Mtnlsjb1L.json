@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/16/16ce1751.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the prominent text's visual characteristics, what is the primary compositional element depicted in the image?",
+        "answer": "Text"
+      },
+      {
+        "question": "Based on the visual appearance of the text's formatting, what is the type of information being conveyed?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the specific type of wheat flour listed as an ingredient, judging by its visual representation in the text?",
+        "answer": "Durum"
+      },
+      {
+        "question": "Observing the textual details, what other ingredient, besides wheat flour, is prominently mentioned?",
+        "answer": "Eggs"
+      },
+      {
+        "question": "What specific form of the egg is indicated as an ingredient in the image's text?",
+        "answer": "Yolks"
+      },
+      {
+        "question": "Judging from the text's visual presentation, what nutrient is explicitly listed as an ingredient?",
+        "answer": "Niacin"
+      },
+      {
+        "question": "According to the image's visible text, what additional ingredient is presented within parentheses, seemingly specifying a type of mineral?",
+        "answer": "Iron"
+      },
+      {
+        "question": "From the text's visual analysis, what compound is shown as an ingredient, seemingly related to Vitamin B1?",
+        "answer": "Thiamin"
+      },
+      {
+        "question": "Based on the visual presentation of the textual details, what vitamin is explicitly listed as an ingredient?",
+        "answer": "Riboflavin"
+      },
+      {
+        "question": "What other nutrient, as evident in the textual layout, is listed among the ingredients?",
+        "answer": "Folic"
+      },
+      {
+        "question": "Focusing on the visual arrangement of the information, what is the secondary category of information displayed besides ingredients?",
+        "answer": "Contains"
+      },
+      {
+        "question": "Visually observing the text's formatting, what allergen is specifically identified in the 'Contains' section?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "What other allergen, as visually confirmed within the 'Contains' text, is also included?",
+        "answer": "Egg"
+      },
+      {
+        "question": "From the visible text, what is the overall visual style that the text displays?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Considering the overall visual presentation of the text, what would best describe the typography?",
+        "answer": "Sans-serif"
+      }
+    ]
+  }
+]

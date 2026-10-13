@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fb/fbff510b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the phone case's frame, as visibly shown?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Considering the visible portion, what material appears to constitute the case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on the image, what is the overall shape of the phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging by the visual clarity, what is the level of transparency of the phone case?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the apparent finish of the phone case's visible surfaces?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Does the phone case exhibit any noticeable texturing or patterns on its surface?",
+        "answer": "None"
+      },
+      {
+        "question": "What seems to be the primary function of the depicted object, as visually evidenced?",
+        "answer": "Protection"
+      },
+      {
+        "question": "How many camera cutouts are clearly visible on the phone case shown?",
+        "answer": "Two"
+      },
+      {
+        "question": "Considering the image, what color is the phone shown inside the case?",
+        "answer": "Black"
+      },
+      {
+        "question": "Focusing on the visible edges, what is the profile of the phone case's border?",
+        "answer": "Raised"
+      },
+      {
+        "question": "Does the phone case show any apparent branding or logos in the provided image?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image, what is the style of the phone case, considering its design elements?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Observing the image, are there any noticeable scratches or blemishes on the case?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image's detail, is the phone case flexible or rigid?",
+        "answer": "Rigid"
+      },
+      {
+        "question": "Considering the camera cutouts' placement, is the case designed for a particular phone?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

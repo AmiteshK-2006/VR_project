@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8f/8faabf44.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the depicted artwork, based purely on visual observation?",
+        "answer": "Black"
+      },
+      {
+        "question": "What type of typeface is predominantly used for the textual content displayed on the artwork?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the visual presentation, what appears to be the primary subject matter depicted in the artwork?",
+        "answer": "Wine"
+      },
+      {
+        "question": "Describe the background texture visible in the provided image, based solely on visual inspection.",
+        "answer": "Off-white"
+      },
+      {
+        "question": "What is the overall shape or format of the displayed artwork, as directly perceived from its visual appearance?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on a purely visual assessment, what seems to be the material of the displayed item?",
+        "answer": "Canvas"
+      },
+      {
+        "question": "Considering the image only, what style best describes the artistic aesthetic of the presented piece?",
+        "answer": "Vintage"
+      },
+      {
+        "question": "What is the apparent orientation of the presented design element, as determined solely by visual analysis?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "If we consider the visual arrangement, is the text aligned in a particular pattern within the design?",
+        "answer": "Columnar"
+      },
+      {
+        "question": "What decorative elements or embellishments are noticeable near the top and bottom of the text section, based on the image?",
+        "answer": "Borders"
+      },
+      {
+        "question": "Disregarding any textual content, describe the visual appearance of the graphic design's structure.",
+        "answer": "Simple"
+      },
+      {
+        "question": "Based on visual analysis, what is the size relation between the text and the design's frame?",
+        "answer": "Proportional"
+      },
+      {
+        "question": "Considering just what the picture shows, what is the apparent texture of the text in the design?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "How would one describe the overall visual impression of the graphic's color contrast?",
+        "answer": "High"
+      },
+      {
+        "question": "Based solely on the image, what is the visual prominence of the wine varietal names listed?",
+        "answer": "High"
+      }
+    ]
+  }
+]

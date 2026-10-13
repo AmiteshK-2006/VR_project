@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/75/75c1d600.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the overall design on the presented square item?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What is the most apparent geometric pattern visible across the entire surface?",
+        "answer": "Damask"
+      },
+      {
+        "question": "Considering the visible texture, what is the likely primary material used in construction?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "What is the shape of the item as displayed in the provided product image?",
+        "answer": "Square"
+      },
+      {
+        "question": "Describe the general visual texture of the item's surface—smooth, rough, or other?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on visual observation, what is the apparent sheen or gloss level of the product?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the color of the small label affixed to the upper part of the product?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the secondary color present in the repeating design pattern on the product?",
+        "answer": "White"
+      },
+      {
+        "question": "Are there any noticeable seams or stitching details visible on the item's edges?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What would you describe the style of the pattern on the product as—modern, vintage, or other?",
+        "answer": "Vintage"
+      },
+      {
+        "question": "Is the main design pattern consistent and regularly repeated across the surface?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Describe the overall visual impression of the item's design—simple, ornate, or other?",
+        "answer": "Ornate"
+      },
+      {
+        "question": "What kind of visual impression does the item's pattern create—bold, subtle, or other?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "Does the item appear to be rigid or flexible, judging by its presentation?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "What is the approximate number of visibly distinct seams present on the item's perimeter?",
+        "answer": "Four"
+      }
+    ]
+  }
+]

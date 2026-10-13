@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/66/66bb9342.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the depicted mailing envelope?",
+        "answer": "White"
+      },
+      {
+        "question": "What appears to be the primary material used for this envelope?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Considering the visual structure, what is the overall shape of the envelope?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the image, does this envelope seem to have a self-adhesive closure?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the image closely, what is the apparent texture of the envelope's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by its appearance, what is the likely intended use of this item?",
+        "answer": "Mailing"
+      },
+      {
+        "question": "Does the image show any visible patterns or designs on the envelope?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from its size and shape, what type of contents would it likely hold?",
+        "answer": "Documents"
+      },
+      {
+        "question": "What is the apparent thickness or weight of the envelope's material?",
+        "answer": "Thin"
+      },
+      {
+        "question": "From visual inspection, are there any visible perforations or tear lines?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the depicted envelope appear to have any visible flaps or folds beyond the top?",
+        "answer": "No"
+      },
+      {
+        "question": "In the provided image, what is the apparent opacity of the envelope material?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "From the image alone, does it seem to be designed for heavy or light items?",
+        "answer": "Light"
+      },
+      {
+        "question": "Is there any visible branding or logo on the envelope in the image?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image, is the envelope seemingly padded or non-padded?",
+        "answer": "Non-padded"
+      }
+    ]
+  }
+]

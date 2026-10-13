@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e7/e777240d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout and organization of the presented information, what is the primary subject matter depicted?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Focusing on the numerical data provided, what is the unit of measurement consistently used for caloric information?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Observing the provided data, what specific nutrient is presented in milligrams (mg) and exhibits values such as 25 and 70?",
+        "answer": "Cholesterol"
+      },
+      {
+        "question": "Based on the presented nutritional information, what is the serving size specified, expressed in ounces?",
+        "answer": "Ounces"
+      },
+      {
+        "question": "Analyzing the data on the left side of the table, what is the value of total sugars in one serving, represented in grams?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the metric unit used to measure fats and sugars as indicated within the nutritional fact table?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What specific unit is employed to quantify the percentage of daily values for various nutrients?",
+        "answer": "Percent"
+      },
+      {
+        "question": "Examining the provided nutritional information, what mineral is quantified in milligrams (mg), showing values of 120 and 370?",
+        "answer": "Potassium"
+      },
+      {
+        "question": "Focusing on the numerical values in the provided table, what is the smallest single-digit value found in the data?",
+        "answer": "Zero"
+      },
+      {
+        "question": "Considering the table's structure and values, which component is measured in milligrams (mg) and shows values involving the numbers 510 and 1550?",
+        "answer": "Sodium"
+      },
+      {
+        "question": "What nutrient category, presented in grams, shows values of 9 and 27 in the given nutrition facts?",
+        "answer": "Carbohydrate"
+      },
+      {
+        "question": "Observing the values related to 'Total Fat', what is the unit used to express the quantity of fat in a single serving?",
+        "answer": "Grams"
+      },
+      {
+        "question": "In the context of the table's information, what is the highest two-digit number found in the section of daily values percentages?",
+        "answer": "Sixty-seven"
+      },
+      {
+        "question": "What metric unit is used to represent the protein content, with values such as 10 and 31?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Focusing on the dietary fiber information, what is the symbol used to indicate a value less than 1 gram?",
+        "answer": "Less-than"
+      }
+    ]
+  }
+]

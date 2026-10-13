@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e2/e2a36143.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall composition, what is the primary subject depicted in the image, which appears to be a photograph of a scene?",
+        "answer": "Doorway"
+      },
+      {
+        "question": "What color are the main wooden components, such as the door and the visible portion of the staircase?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Describing the texture of the door, is it smooth, rough, or something else?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What material appears to make up the structure of the main door and the visible part of the staircase, judging from the visual elements?",
+        "answer": "Wood"
+      },
+      {
+        "question": "What color are the steps of the staircase that is partially visible through the opening?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the material of the frame that appears to be surrounding the image, judging by its appearance?",
+        "answer": "Wood"
+      },
+      {
+        "question": "What is the shape of the opening that appears to be leading to the staircase, given the visual details?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the visual clues, what is the apparent condition of the wall adjacent to the doorway?",
+        "answer": "Weathered"
+      },
+      {
+        "question": "What color is the wall visible next to the doorway, based on the image's visual cues?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the apparent orientation of the door, considering the direction of its opening?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What type of architectural feature is partially visible behind the slightly opened door, based solely on visual cues?",
+        "answer": "Stairs"
+      },
+      {
+        "question": "Based on what is visually depicted in the image, what is the general style of the depicted setting?",
+        "answer": "Rustic"
+      },
+      {
+        "question": "Based on its visual characteristics, what is the style of the frame holding the print?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What seems to be the overall visual aspect of the photograph presented, considering its aesthetic?",
+        "answer": "Warm"
+      },
+      {
+        "question": "What is the apparent state of the door concerning whether it is open or closed?",
+        "answer": "Ajar"
+      }
+    ]
+  }
+]

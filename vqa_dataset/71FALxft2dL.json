@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1b/1b66175d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant visible texture across the entire surface?",
+        "answer": "Fuzzy"
+      },
+      {
+        "question": "What is the overall shape of the presented cosmetic item?",
+        "answer": "Round"
+      },
+      {
+        "question": "What is the primary color of the observed cleansing pad?",
+        "answer": "White"
+      },
+      {
+        "question": "What material appears to constitute the main body of this product?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Describing the edge, is there any visible finishing detail present?",
+        "answer": "Stitched"
+      },
+      {
+        "question": "Considering the texture, is the surface smooth or otherwise?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What is the apparent manufacturing process indicated by the visible texture?",
+        "answer": "Woven"
+      },
+      {
+        "question": "What is the most prominent visible feature concerning its apparent function?",
+        "answer": "Absorbent"
+      },
+      {
+        "question": "Considering its visual characteristics, what is its likely intended use?",
+        "answer": "Cleaning"
+      },
+      {
+        "question": "Does the product exhibit any noticeable irregularities in its form?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What is the apparent degree of thickness of the cosmetic disk shown?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Are there any noticeable embellishments present on the product's face?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the style of the visible stitching detail around the circumference?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Judging by visual attributes, is the object's construction robust or delicate?",
+        "answer": "Delicate"
+      },
+      {
+        "question": "Based on appearance, what is the single most likely category for this product?",
+        "answer": "Cosmetic"
+      }
+    ]
+  }
+]

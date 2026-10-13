@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ab/ab4eafac.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's overall appearance, what single word best describes its print style?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the visible text, what specific ingredient is prominently featured?",
+        "answer": "Cumin"
+      },
+      {
+        "question": "What descriptor is used to modify the main ingredient's production method?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the primary function or purpose suggested by the presented text?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the dominant color used in the text's presentation?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the style of the lettering, is it stylized or plain?",
+        "answer": "Plain"
+      },
+      {
+        "question": "What color is the background against which the text is printed?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Describe the arrangement of words in the text display based on its layout.",
+        "answer": "Linear"
+      },
+      {
+        "question": "Regarding the typeface, does it appear bold, light or regular weight?",
+        "answer": "Regular"
+      },
+      {
+        "question": "What is the case of the letters used in the 'Ingredients' label?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Is there any visible separation between the words?",
+        "answer": "Yes"
+      },
+      {
+        "question": "If you were to describe the text alignment in terms of justification, what would it be?",
+        "answer": "Left"
+      },
+      {
+        "question": "What is the grammatical function of the word 'Organic'?",
+        "answer": "Adjective"
+      },
+      {
+        "question": "Does the text use punctuation? If so, what type?",
+        "answer": "Period"
+      },
+      {
+        "question": "What is the font size relative to the other elements in the image?",
+        "answer": "Large"
+      }
+    ]
+  }
+]

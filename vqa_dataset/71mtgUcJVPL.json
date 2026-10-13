@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/29/297c15ab.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what is the primary function of this depicted item, based solely on visual information?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Observing the visual layout, what specific dietary information is predominantly displayed?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Focusing on the textual content, what is the unit of measurement predominantly utilized for the quantities listed?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Based on the visual structure, what is the numerical value for calories per serving in the unbaked mix?",
+        "answer": "120"
+      },
+      {
+        "question": "From the visual data, what is the numerical value assigned to 'Total Fat' in grams for a single serving of the baked product?",
+        "answer": "9"
+      },
+      {
+        "question": "According to the visual information provided, what is the percentage of the Daily Value for 'Sodium' in one serving of the unbaked mix?",
+        "answer": "17"
+      },
+      {
+        "question": "Examining the visual presentation, what is the numerical value indicated for 'Total Sugars' (in grams) in a single serving of the unbaked mix?",
+        "answer": "4"
+      },
+      {
+        "question": "What is the numerical value for 'Protein' (in grams) listed per serving of the baked product, as shown in the image?",
+        "answer": "4"
+      },
+      {
+        "question": "Based on the visual display, what is the amount of 'Cholesterol' (in mg) per serving of the baked scone?",
+        "answer": "40"
+      },
+      {
+        "question": "What is the visual representation of the serving size indicated for the unbaked mix?",
+        "answer": "1/3"
+      },
+      {
+        "question": "What is the predominant color palette used in the visual display of this nutritional information?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the visual layout of the nutritional information data presented?",
+        "answer": "Table"
+      },
+      {
+        "question": "Judging from the visual presentation, what is the format of the numerical values, e.g., decimal or whole numbers?",
+        "answer": "Whole"
+      },
+      {
+        "question": "What is the visual style of the font used for the text, is it serif or sans-serif?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on visual characteristics alone, what is the type of information conveyed in the depicted image?",
+        "answer": "Nutritional"
+      }
+    ]
+  }
+]

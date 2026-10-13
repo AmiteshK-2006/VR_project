@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/95/952d3e62.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the displayed nutritional information panel, as shown in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary color used for the text on the nutritional information panel?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the background color of the displayed nutritional facts panel in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the font style predominantly used for the headings in the nutritional information section?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the predominant language used for the information on the panel, based on visual observation?",
+        "answer": "English"
+      },
+      {
+        "question": "Is there a prominent logo visible at the bottom of the image, and what company does it represent?",
+        "answer": "Amazon"
+      },
+      {
+        "question": "What is the color of the Amazon logo present at the bottom of the product image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What measurement unit is used to present the serving size information on the panel?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the total number of calories listed per serving on the panel?",
+        "answer": "150"
+      },
+      {
+        "question": "What is the style of the text used for the numerical values within the nutritional facts table?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the texture of the paper or material that the information is printed on, based on visual appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the general layout and arrangement of the information presented on the panel.",
+        "answer": "Tabular"
+      },
+      {
+        "question": "What is the visual appearance or style of the lines used to separate data in the nutritional information table?",
+        "answer": "Straight"
+      },
+      {
+        "question": "Does the nutritional information appear to be professionally printed or handwritten?",
+        "answer": "Printed"
+      },
+      {
+        "question": "What type of information is primarily contained in the majority of the image?",
+        "answer": "Nutritional"
+      }
+    ]
+  }
+]

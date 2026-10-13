@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a3/a3430b2c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the presented nutrition facts label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the predominant color used for the text on this nutritional information panel?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the background color of the nutrition facts panel shown in the image?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "What is the primary font style used for the words 'Nutrition Facts'?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Considering the text layout, what is the orientation of the nutrition details?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the format of the nutritional values presented, e.g.,  grams, milligrams?",
+        "answer": "Mixed"
+      },
+      {
+        "question": "What measurement unit is used for representing serving size?",
+        "answer": "Ounces"
+      },
+      {
+        "question": "What is the dominant texture of the label's surface as depicted in the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "How many columns are used to organize the nutritional information provided?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the formatting of the percentages denoting daily values?",
+        "answer": "Numerical"
+      },
+      {
+        "question": "What is the material of the label which shows the nutritional information?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What type of information is primarily contained within this rectangular area?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Are there any noticeable illustrations or graphics on the nutrition facts label?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the text, what dietary values are included in this label's information?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "What is the overall style of the nutritional information, simple or complex?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

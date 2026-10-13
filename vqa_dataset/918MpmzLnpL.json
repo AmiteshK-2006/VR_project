@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8f/8fe58286.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall shape and dimensions, what best describes the product's physical form?",
+        "answer": "Capsule"
+      },
+      {
+        "question": "Based on the image, what appears to be the primary color of the product's casing?",
+        "answer": "White"
+      },
+      {
+        "question": "Judging from the visible texture, what is the apparent surface finish of the capsule?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What seems to be the dominant material composing the exterior of the product?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Can you identify any noticeable markings or branding elements present on the capsule itself?",
+        "answer": "None"
+      },
+      {
+        "question": "Does the image reveal the presence of any discernible size indicators for the capsule?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the visible details, is there any indication of a specific opening or closure mechanism?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the image show any variations in color or texture across the capsule's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the lighting, are there any noticeable reflections or shine on the capsule?",
+        "answer": "Yes"
+      },
+      {
+        "question": "From the image, what can you infer about the capsule's overall level of transparency or opacity?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "From a visual perspective, is the capsule's shape perfectly uniform or somewhat irregular?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Judging from visual characteristics, what is the estimated size range of the capsule?",
+        "answer": "Small"
+      },
+      {
+        "question": "Are there any visible seams, joints, or other assembly indications on the capsule?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the image suggest any particular type of packaging for the capsules?",
+        "answer": "Bottle"
+      },
+      {
+        "question": "Based on the visual information, does the capsule appear to contain any internal components?",
+        "answer": "No"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/07/07712c77.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular layout and textual content, what is the primary purpose of this product's visual element, as clearly depicted in the image?",
+        "answer": "Information"
+      },
+      {
+        "question": "Focusing on the prominent, large numerical value presented within a rectangular box, what crucial dietary information does it represent regarding one serving?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Observing the detailed compositional structure, what specific aspect of food composition is predominantly detailed in this presented visual?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Based on the visual presentation of textual data, what is the dominant color scheme used for the header and key values?",
+        "answer": "Black"
+      },
+      {
+        "question": "Regarding the stylistic choices in typeface and layout, what is the overall design style most prominently communicated by this product's visual?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Given the consistent use of numerical data, in what units is the 'Total Fat' value expressed, as visible on the image?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Looking at the provided values for various nutrients, what is the unit of measurement used to quantify the 'Sodium' content?",
+        "answer": "Milligrams"
+      },
+      {
+        "question": "Analyzing the textual information, what is the unit of measurement for the dietary 'Fiber' content, as directly displayed in the image?",
+        "answer": "Grams"
+      },
+      {
+        "question": "According to the text presented in the image, what is the serving size indicated for the product?",
+        "answer": "Tortilla"
+      },
+      {
+        "question": "Examining the visual organization of data, what is the numerical value provided for 'Protein' content per serving, according to this product's labeling?",
+        "answer": "Four"
+      },
+      {
+        "question": "Considering the visual layout of the text, what is the 'Total Carbohydrate' value listed per serving, as visually evident in the image?",
+        "answer": "Twenty-two"
+      },
+      {
+        "question": "Based on the text visible in the image, what is the numerical value given for 'Iron' content in milligrams, per serving?",
+        "answer": "1.9"
+      },
+      {
+        "question": "From the textual information presented, what is the given value for 'Saturated Fat' per serving, in grams?",
+        "answer": "0.5"
+      },
+      {
+        "question": "In the image, focusing on the 'Daily Value' percentage information, what percentage of the daily recommended value for 'Total Fat' is given?",
+        "answer": "Four"
+      },
+      {
+        "question": "What is the total number of servings indicated per container, as clearly shown in the image?",
+        "answer": "Six"
+      }
+    ]
+  }
+]

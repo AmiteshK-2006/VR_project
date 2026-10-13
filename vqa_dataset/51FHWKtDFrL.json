@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fa/faf97c79.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the picture frame's outer border?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the apparent material of the picture frame's visible construction?",
+        "answer": "Wood"
+      },
+      {
+        "question": "What is the overall shape of the outer frame's visible perimeter?",
+        "answer": "Square"
+      },
+      {
+        "question": "What color is the visible matting that surrounds the central image area?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe the apparent texture of the outer frame's visible surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the primary design element visible on the inner mat?",
+        "answer": "Logo"
+      },
+      {
+        "question": "What is the apparent width of the wooden frame's border, in relation to the frame's overall dimensions?",
+        "answer": "Narrow"
+      },
+      {
+        "question": "Is the frame's profile consistently rectilinear or does it show any curves or bevels?",
+        "answer": "Rectilinear"
+      },
+      {
+        "question": "Considering the visible joinery, how does the frame appear to be assembled?",
+        "answer": "Mitered"
+      },
+      {
+        "question": "Does the inner mat have a noticeable visible texture, rough or smooth?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the outer frame's color appear consistent across its visible surface?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is there any visible surface treatment on the outer frame (e.g., gloss, matte)?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the logo's location, is it centrally placed within the inner mat?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the visible style of the lettering in the logo that is visible?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Ignoring the logo, are there any other visible markings on the frame?",
+        "answer": "No"
+      }
+    ]
+  }
+]

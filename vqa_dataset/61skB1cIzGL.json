@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/73/73bb96f1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what single word best describes the product's primary function as indicated by the text?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the most prominent text on the product's surface, describing its contents?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Based on the visible text, what is the primary format of the presented information?",
+        "answer": "List"
+      },
+      {
+        "question": "What is the color of the background on which the text is printed?",
+        "answer": "White"
+      },
+      {
+        "question": "Disregarding any chemical names, what is the overarching category suggested by the ingredient list?",
+        "answer": "Chemicals"
+      },
+      {
+        "question": "What is the typeface of the printed text (e.g., serif, sans-serif)?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What appears to be the overall shape of the product's surface depicted?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the texture of the surface based on the image's visual qualities.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the most noticeable characteristic of the text's visual appearance?",
+        "answer": "Printed"
+      },
+      {
+        "question": "Ignoring the specific chemical names, what general descriptive term would characterize the listed substances?",
+        "answer": "Compounds"
+      },
+      {
+        "question": "Considering only the image, what can you say about the legibility of the printed text?",
+        "answer": "Clear"
+      },
+      {
+        "question": "From a purely visual perspective, how would you characterize the arrangement of the textual content?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Judging from the image only, what seems to be the relative size of the printed text?",
+        "answer": "Small"
+      },
+      {
+        "question": "In terms of visual density, how much of the product's surface area is covered by the printed text?",
+        "answer": "Dense"
+      },
+      {
+        "question": "What is the predominant color of the text itself?",
+        "answer": "Gray"
+      }
+    ]
+  }
+]

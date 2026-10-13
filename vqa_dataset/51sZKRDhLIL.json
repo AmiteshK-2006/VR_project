@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ae/aee6f6e9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the primary package depicted?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What color is the dominant background of the package?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary text color prominently displayed on the package?",
+        "answer": "Black"
+      },
+      {
+        "question": "Describe the surface texture of the depicted packaging material.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall style of the text presented on the packaging?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What kind of information is conveyed predominantly on the package?",
+        "answer": "Instructional"
+      },
+      {
+        "question": "What is the apparent material of the product's external packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the general size and format of this item's outer packaging?",
+        "answer": "Box"
+      },
+      {
+        "question": "How many primary blocks of text are visually distinguishable on the packaging?",
+        "answer": "Three"
+      },
+      {
+        "question": "Does the packaging show any images or graphics?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the text and style, what type of product does the packaging suggest?",
+        "answer": "Medical"
+      },
+      {
+        "question": "Is the package's printing primarily high- or low-resolution?",
+        "answer": "Low"
+      },
+      {
+        "question": "What is the primary language used in the instructions on the package?",
+        "answer": "English"
+      },
+      {
+        "question": "Does the packaging contain a clear brand name or logo?",
+        "answer": "No"
+      },
+      {
+        "question": "Is the font used for the instructions simple and easy to read?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

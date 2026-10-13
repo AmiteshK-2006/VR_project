@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/06/067f6484.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the text detailing the ingredients and allergen information?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the overall presentation, what is the primary visual function of the text?",
+        "answer": "Information"
+      },
+      {
+        "question": "What is the text formatting style employed to highlight specific ingredients?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Describe the arrangement of the ingredient list and the allergen information section on the label.",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the overall background color of the label that displays ingredient details?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the font style used to present the ingredient and allergen details?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What type of capitalization is consistently used in the ingredient list?",
+        "answer": "Sentence"
+      },
+      {
+        "question": "Does the visual presentation indicate a differentiation between ingredients and allergens?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the general visual appeal of the ingredients and allergen list on the food label?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What word is used to introduce the list of ingredients included in the product?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What term is utilized to introduce the list of potential allergens?",
+        "answer": "Contains"
+      },
+      {
+        "question": "What is the case style used for the header that indicates allergens?",
+        "answer": "Upper"
+      },
+      {
+        "question": "Regarding the ingredient list's visual elements, is there any apparent use of icons or illustrations?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the visual elements, is there any use of color coding to categorize the ingredients?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on visual aspects alone, what is the overall style of the label's text?",
+        "answer": "Plain"
+      }
+    ]
+  }
+]

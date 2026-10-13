@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/41/41cf3e14.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall appearance, what is the dominant shape of the pizza?",
+        "answer": "Round"
+      },
+      {
+        "question": "Based on the visual texture, what kind of crust does the pizza appear to have?",
+        "answer": "Crispy"
+      },
+      {
+        "question": "What primary color dominates the pizza's visual presentation?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Judging by the image, what type of cheese is prominently visible on the pizza?",
+        "answer": "Mozzarella"
+      },
+      {
+        "question": "From the image, what appears to be a key topping ingredient on this pizza?",
+        "answer": "Pepperoni"
+      },
+      {
+        "question": "What is the apparent color of the pizza sauce visible under the toppings?",
+        "answer": "Red"
+      },
+      {
+        "question": "Considering the visual details, what seems to be the overall state of the pizza?",
+        "answer": "Baked"
+      },
+      {
+        "question": "What is the texture of the visible cheese based solely on the image?",
+        "answer": "Melted"
+      },
+      {
+        "question": "Judging from the image, what type of crust does the pizza seem to possess?",
+        "answer": "Thin"
+      },
+      {
+        "question": "What is the apparent visual consistency of the pizza sauce shown?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the perceived visual appearance of the pepperoni slices?",
+        "answer": "Circular"
+      },
+      {
+        "question": "What seems to be the overall cooking level of the pizza, based on the image?",
+        "answer": "Well-done"
+      },
+      {
+        "question": "Based on visual evidence, what can be observed regarding the distribution of toppings?",
+        "answer": "Even"
+      },
+      {
+        "question": "From what can be visually ascertained, describe the visual condition of the pizza.",
+        "answer": "Intact"
+      },
+      {
+        "question": "Considering the visual characteristics, how would you describe the pizza's appearance?",
+        "answer": "Appetizing"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/73/739f2312.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the text detailing the product's ingredients?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall background color of the ingredient list?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the style of the font used to list the ingredients?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Is the text's alignment primarily left, right, or centered?",
+        "answer": "Left"
+      },
+      {
+        "question": "What is the case of the text predominantly\u2014uppercase, lowercase, or title case?",
+        "answer": "Title"
+      },
+      {
+        "question": "Does the ingredient list include any parenthetical information after certain ingredients?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What appears to be the primary method of presenting the ingredient information?",
+        "answer": "List"
+      },
+      {
+        "question": "Are the ingredients listed in alphabetical order or any apparent order of importance?",
+        "answer": "No"
+      },
+      {
+        "question": "How many separate lines of text are visibly present in the provided ingredient list?",
+        "answer": "Thirteen"
+      },
+      {
+        "question": "Considering the density of the text, does it appear cramped or well-spaced?",
+        "answer": "Well-spaced"
+      },
+      {
+        "question": "Is there any visible punctuation besides commas and periods in the text?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the list use any unusual or decorative fonts or character styles?",
+        "answer": "No"
+      },
+      {
+        "question": "Is the text formatted using boldface, italics, or underlining for emphasis?",
+        "answer": "No"
+      },
+      {
+        "question": "Is the text predominantly written in English or another language?",
+        "answer": "English"
+      },
+      {
+        "question": "Can you discern any noticeable variations in font size or style within the text?",
+        "answer": "No"
+      }
+    ]
+  }
+]

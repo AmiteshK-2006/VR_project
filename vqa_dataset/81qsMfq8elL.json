@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/71/719bebe1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall hue and saturation, what single word best describes the dominant color of the contained food product, as visually apparent in the image?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What is the apparent shape of the plastic container holding the food item, as clearly shown in the provided image?",
+        "answer": "Oval"
+      },
+      {
+        "question": "Based on visual inspection of the product's texture, as depicted in the image, what single word best describes its appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging solely by the image, what material is the primary packaging container of this food product visibly constructed from?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the image's details, what single word best captures the style of the label's design on the food container?",
+        "answer": "Floral"
+      },
+      {
+        "question": "From a visual assessment of the product label, what single word best describes the style of the text font used on the label?",
+        "answer": "Script"
+      },
+      {
+        "question": "What single word accurately reflects the apparent consistency of the food product inside the container, as visually observed in the image?",
+        "answer": "Creamy"
+      },
+      {
+        "question": "Based purely on visual cues from the image, what is the most prominent fruit depicted on the product's label?",
+        "answer": "Raspberry"
+      },
+      {
+        "question": "What is the apparent finish of the plastic food container, in terms of its visual shine or matte quality, based solely on the image?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Focusing solely on the visual elements of the product, what single word most aptly describes the overall tone or aesthetic of the product\u2019s presentation?",
+        "answer": "Feminine"
+      },
+      {
+        "question": "Considering the image's clarity, what single word best encapsulates the visible transparency level of the container?",
+        "answer": "Translucent"
+      },
+      {
+        "question": "Based only on visual details from the picture, what single word best depicts the overall visual appeal of the container's label?",
+        "answer": "Elegant"
+      },
+      {
+        "question": "What is the most visually prominent color of the flowers featured in the label's illustration, based strictly on image analysis?",
+        "answer": "Pink"
+      },
+      {
+        "question": "Disregarding all text, what single word best characterizes the visible texture of the floral images depicted on the label?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Focusing only on visual details from the image, describe in one word the overall design feel of the packaging, disregarding the textual description on the label itself.",
+        "answer": "Botanical"
+      }
+    ]
+  }
+]

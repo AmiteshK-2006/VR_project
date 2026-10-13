@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8b/8b046a95.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the packaging, considering the largest visible area?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe the overall shape of the product's packaging, ignoring minor folds or creases?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the dominant material used for the product's outer layer?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Considering the graphic design, what is the most prominent design element besides text?",
+        "answer": "Abstract"
+      },
+      {
+        "question": "What is the color of the prominent graphic element that appears to be berry-shaped?",
+        "answer": "Red"
+      },
+      {
+        "question": "What color is the smaller, leaf-shaped element found near the center of the design?",
+        "answer": "Green"
+      },
+      {
+        "question": "What color best describes the section of the design that appears to be a fruit slice?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What seems to be the general texture of the packaging material based on visual observation?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the approximate number of prominently displayed colors on the packaging's main design?",
+        "answer": "Four"
+      },
+      {
+        "question": "What word is largely represented at the top, partially obscured by the packaging's fold?",
+        "answer": "Mango"
+      },
+      {
+        "question": "Considering the packaging's seal at the top, what material appears to be used there?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the color of the textual information printed on the packaging's right side?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the general orientation of the text on the packaging's right side?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Based on the image, what type of product is this, given the packaging and text?",
+        "answer": "Food"
+      },
+      {
+        "question": "What is the overall impression of the packaging's visual design: simple or complex?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

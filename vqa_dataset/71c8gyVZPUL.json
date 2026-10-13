@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6f/6f0992b9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the text describing the ingredients?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the background color of the ingredient list?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the text style used for 'INGREDIENTS'?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the case of the text listing each ingredient?",
+        "answer": "Title"
+      },
+      {
+        "question": "What is the primary ingredient listed?",
+        "answer": "Apple"
+      },
+      {
+        "question": "What form is the apple component in?",
+        "answer": "Puree"
+      },
+      {
+        "question": "What second fruit is included as an ingredient?",
+        "answer": "Banana"
+      },
+      {
+        "question": "What citrus fruit is used in the product?",
+        "answer": "Lemon"
+      },
+      {
+        "question": "In what form is the lemon component?",
+        "answer": "Juice"
+      },
+      {
+        "question": "What additive is listed to maintain color?",
+        "answer": "Acid"
+      },
+      {
+        "question": "What is the specific type of acid used?",
+        "answer": "Ascorbic"
+      },
+      {
+        "question": "What is the overall shape of the text block?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the visual presentation style of the ingredient list?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the relative size of the 'INGREDIENTS' text?",
+        "answer": "Large"
+      },
+      {
+        "question": "What is the overall font of the ingredient list?",
+        "answer": "Sans-serif"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ad/ad9d5cf7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual appearance, what single word best describes the dominant color of the text presented in the image?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the single-word descriptor for the typeface style used to render the textual content in the provided image?",
+        "answer": "Serif"
+      },
+      {
+        "question": "Based on the image, what is the most prominent word in terms of visual representation and placement within the textual display?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Disregarding any additional context, what single word represents the primary subject matter conveyed by the textual components displayed within the picture?",
+        "answer": "Tomato"
+      },
+      {
+        "question": "From the visual information in the image, which one-word description denotes the second ingredient shown?",
+        "answer": "Onion"
+      },
+      {
+        "question": "If solely judging from the visible text, what single-word descriptor represents the third listed ingredient?",
+        "answer": "Jalapeno"
+      },
+      {
+        "question": "Looking solely at the image, what is the single-word name of the final ingredient shown?",
+        "answer": "Cilantro"
+      },
+      {
+        "question": "Considering the visual presentation of the text, what single word captures the general orientation or layout of the words?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Based on the image, what single word best encapsulates the general appearance or formatting of the text?",
+        "answer": "Linear"
+      },
+      {
+        "question": "From a purely visual perspective, what is the apparent textual alignment in this image?",
+        "answer": "Left"
+      },
+      {
+        "question": "What single word best describes the perceived overall state or condition of the visible text in the provided image?",
+        "answer": "Printed"
+      },
+      {
+        "question": "What single word best describes the visual texture of the text shown in the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What single word describes the visual style of the text's lettering?",
+        "answer": "Italic"
+      },
+      {
+        "question": "What is the most visually apparent characteristic of the text's case?",
+        "answer": "Lower"
+      },
+      {
+        "question": "What single word best describes the general visual quality of the text's legibility?",
+        "answer": "Clear"
+      }
+    ]
+  }
+]

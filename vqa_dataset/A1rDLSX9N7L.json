@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8f/8f5d0f49.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the provided image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the most apparent texture observed across the entire surface?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Considering the visual details, what type of material is primarily used?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Based on the image's visual characteristics, what is the overall appearance of the fabric?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Does the fabric display any visible patterns or designs across its surface?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Describe the direction of the visible lines in the fabric’s woven pattern?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What seems to be the density of the weave in the presented fabric?",
+        "answer": "Tight"
+      },
+      {
+        "question": "Are there noticeable inconsistencies in the fabric’s color or texture?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the image, how would you describe the finish of the fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the apparent thickness or weight of the fabric in the picture?",
+        "answer": "Medium"
+      },
+      {
+        "question": "In the image, can you see any sheen or glossiness in the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "Are there any distinct thread colors visible within the fabric’s weave?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What secondary color is subtly visible in the main fabric?",
+        "answer": "White"
+      },
+      {
+        "question": "From the provided image, what seems to be the primary fiber used?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "Based on the visual inspection, is the fabric's structure uniform?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

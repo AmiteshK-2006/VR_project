@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/dd/dd416634.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall cylindrical shape and metallic appearance, what is the primary packaging material of this food product?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Focusing on the label's prominent graphic, what marine creature is depicted to indicate sustainable fishing practices?",
+        "answer": "Dolphin"
+      },
+      {
+        "question": "Based on the text displayed, what type of fish is contained within this can?",
+        "answer": "Tuna"
+      },
+      {
+        "question": "Observing the detailed nutritional information, what is the percentage of protein per serving?",
+        "answer": "30%"
+      },
+      {
+        "question": "Looking at the label, where was this product processed and packaged?",
+        "answer": "Thailand"
+      },
+      {
+        "question": "What is the overall color scheme of the can, primarily observed in the background?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Judging by the label text, is the can liner produced with a BPA-containing material?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the dominant type of text present across the label, mostly used for providing details on the product and manufacturer?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "According to the textual information on the label, what is the weight of this can's contents in grams?",
+        "answer": "141"
+      },
+      {
+        "question": "Given the visible bar code and textual data, can you ascertain the manufacturer of this food product?",
+        "answer": "Wholefoods"
+      },
+      {
+        "question": "Observing the small text near the barcode, what is the general condition of tuna inside the can?",
+        "answer": "Chunk"
+      },
+      {
+        "question": "What is the overall shape of this canned product, visible in its entirety?",
+        "answer": "Cylinder"
+      },
+      {
+        "question": "Considering the label text, what is indicated besides the tuna, used as an additional ingredient?",
+        "answer": "Water"
+      },
+      {
+        "question": "What type of tuna is specified on the label; the text helps to clarify?",
+        "answer": "Skipjack"
+      },
+      {
+        "question": "What is the secondary color observed in the label design, visible in the text and logo?",
+        "answer": "Black"
+      }
+    ]
+  }
+]

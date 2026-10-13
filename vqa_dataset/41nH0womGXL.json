@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/68/687c85d4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's visual characteristics, what is the primary ingredient explicitly mentioned in the upper section of the displayed text?",
+        "answer": "Shrimp"
+      },
+      {
+        "question": "Based on the text's appearance, what secondary ingredient is listed alongside the primary one in the top part?",
+        "answer": "Salt"
+      },
+      {
+        "question": "Observing the visual presentation of the text, what type of salt is specified as an ingredient?",
+        "answer": "Sea"
+      },
+      {
+        "question": "Judging from the text's typography and layout, what additional note is provided regarding the product's composition?",
+        "answer": "Contains"
+      },
+      {
+        "question": "What specific shellfish is mentioned within the lower part of the text, confirming the product's content?",
+        "answer": "Shrimp"
+      },
+      {
+        "question": "Analyzing the visual structure of the text, what word is used before 'ingredients' in the second sentence?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Considering the text's style, is the word 'Ingredients' capitalized in the upper text portion?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the font style used for the text, considering its overall visual appearance?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Regarding the visual aspects, what is the approximate size of the text in the provided image?",
+        "answer": "Small"
+      },
+      {
+        "question": "Judging by the image, what is the color of the text presented on the food packaging?",
+        "answer": "Black"
+      },
+      {
+        "question": "From the image, what appears to be the background color or shade of the packaging's label?",
+        "answer": "White"
+      },
+      {
+        "question": "By observing the visual characteristics, what is the overall style of the lettering?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Judging by visual traits, how is the text aligned on the packaging label?",
+        "answer": "Left"
+      },
+      {
+        "question": "Based on the image, how many lines of text are visibly displayed on the packaging?",
+        "answer": "Two"
+      },
+      {
+        "question": "Analyzing the visual presentation, describe the text's case (uppercase, lowercase, etc.)",
+        "answer": "Uppercase"
+      }
+    ]
+  }
+]

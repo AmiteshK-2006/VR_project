@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fd/fddb8a72.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary textual element shown prominently in the image, which occupies almost the entire visual space?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Considering the font style, what kind of document or label is primarily displayed in the presented image?",
+        "answer": "List"
+      },
+      {
+        "question": "What is the overall background color of the primary textual content shown in the image?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Describe the font weight utilized for the primary heading within the provided image?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Characterizing the textual layout, what is the alignment of the list items presented?",
+        "answer": "Left"
+      },
+      {
+        "question": "What is the overall visual texture of the depicted text, smooth or rough?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the visual pattern observed in the arrangement of the text on the surface?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Given the image's content, what type of food-related information is primarily presented?",
+        "answer": "Recipe"
+      },
+      {
+        "question": "What is the approximate size of the text displayed in the primary area of the image, big or small?",
+        "answer": "Small"
+      },
+      {
+        "question": "Considering the typeface utilized, what style of font is predominantly employed?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Judging from the visual content, what is the density of the text across the image, dense or sparse?",
+        "answer": "Dense"
+      },
+      {
+        "question": "What is the formatting of the individual list items in terms of their presentation?",
+        "answer": "Bulleted"
+      },
+      {
+        "question": "What is the case of the lettering used for the primary heading in the image, upper or lower?",
+        "answer": "Upper"
+      },
+      {
+        "question": "Based on the visual characteristics of the text, what is the relative readability of the text in the image, easy or difficult?",
+        "answer": "Easy"
+      },
+      {
+        "question": "What is the color of the print of the text presented in this image?",
+        "answer": "Black"
+      }
+    ]
+  }
+]

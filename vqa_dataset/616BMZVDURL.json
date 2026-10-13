@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ae/ae9ed280.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape and labeling style, what is the primary form factor of this item as depicted in the image?",
+        "answer": "Container"
+      },
+      {
+        "question": "Observing the three small circles at the bottom, what color is the leftmost one?",
+        "answer": "Cyan"
+      },
+      {
+        "question": "Focusing on the three small circles at the bottom, what color are the two circles on the right?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the visible text, what is the primary ingredient listed on the label?",
+        "answer": "Milk"
+      },
+      {
+        "question": "Examining the textual information, what city is mentioned in the distributor's address?",
+        "answer": "Seattle"
+      },
+      {
+        "question": "What is the state abbreviation found in the distributor's address, directly following the city name?",
+        "answer": "WA"
+      },
+      {
+        "question": "Considering the overall text style and font, what is the general tone of the visible text?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Looking at the texture, what is the apparent surface texture of the container?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the background of the image, what color is the majority of the visible surface?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the visual features of the label, how many lines of text are visible in the ingredients section?",
+        "answer": "Two"
+      },
+      {
+        "question": "Observing the font used in the image, what is the style of text used for the ingredients?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Judging by the image, what seems to be the material of the container?",
+        "answer": "Paperboard"
+      },
+      {
+        "question": "Considering the text, what kind of milk is explicitly mentioned?",
+        "answer": "Nonfat"
+      },
+      {
+        "question": "Based on the distributor's information, what company is distributing the product?",
+        "answer": "Amazon"
+      },
+      {
+        "question": "Looking at the numbers presented, what is the three-digit area code visible in the phone number?",
+        "answer": "877"
+      }
+    ]
+  }
+]

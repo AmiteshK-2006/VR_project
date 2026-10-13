@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a1/a167dd12.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular layout and textual organization, what is the dominant visual characteristic of this product?",
+        "answer": "Label"
+      },
+      {
+        "question": "What is the primary color used for the text in the header of the nutrition information?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the color of the background on which the nutrition facts are presented?",
+        "answer": "White"
+      },
+      {
+        "question": "Observing the numerical values presented, what is the unit of measurement for the 'Calories' entry?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Based on the visual presentation, what is the number of servings indicated per container?",
+        "answer": "Nine"
+      },
+      {
+        "question": "What is the textual descriptor for the amount of each ingredient in a single serving?",
+        "answer": "Amount"
+      },
+      {
+        "question": "In the visual context of the serving size, what fractional part of a cup is specified?",
+        "answer": "Two-thirds"
+      },
+      {
+        "question": "Considering the textual information, what nutrient is listed first below the 'Calories' entry?",
+        "answer": "Fat"
+      },
+      {
+        "question": "Examining the quantitative data, how many grams of total fat are present per serving?",
+        "answer": "Ten"
+      },
+      {
+        "question": "What unit of measurement is used for the quantities of 'Saturated Fat' and 'Trans Fat'?",
+        "answer": "Grams"
+      },
+      {
+        "question": "According to the visual data, how many milligrams of cholesterol are contained in one serving?",
+        "answer": "Thirty"
+      },
+      {
+        "question": "What is the unit of measurement used to express the amount of 'Sodium' in a single serving?",
+        "answer": "Milligrams"
+      },
+      {
+        "question": "What is the term used to describe the carbohydrate content that is not from fiber?",
+        "answer": "Sugars"
+      },
+      {
+        "question": "Examining the text, what is the unit of measurement for the 'Protein' content?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Based on the provided text, what is the unit of measurement for the 'Potassium' content?",
+        "answer": "Milligrams"
+      }
+    ]
+  }
+]

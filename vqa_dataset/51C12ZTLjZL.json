@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5e/5e55e23f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant text color on the label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the primary typeface used for the 'INGREDIENTS' heading on the product label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the visible text, what is one of the primary ingredients listed on the product packaging?",
+        "answer": "Potatoes"
+      },
+      {
+        "question": "What is the apparent style of the text on the label, in terms of its formatting?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Disregarding the information provided in the main body, what is the term used for the section describing the components of the product?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Does the label show any decorative patterns or symbols?",
+        "answer": "No"
+      },
+      {
+        "question": "What additional ingredient is listed alongside Sunflower seed, implying potential variability?",
+        "answer": "Safflower"
+      },
+      {
+        "question": "Besides potatoes, which oil type is mentioned among the ingredients?",
+        "answer": "Canola"
+      },
+      {
+        "question": "What is the additional ingredient used besides the oils and potatoes for flavoring?",
+        "answer": "Salt"
+      },
+      {
+        "question": "Considering the style, how many lines are there in the 'Ingredients' section of the label?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the specific kind of salt included among the ingredients listed?",
+        "answer": "Sea"
+      },
+      {
+        "question": "What is the final component mentioned in the list of ingredients?",
+        "answer": "Salt"
+      },
+      {
+        "question": "Judging by the style, what is the size of the font on the product packaging label?",
+        "answer": "Small"
+      },
+      {
+        "question": "What type of information is presented in the second part of the label, after the ingredient list?",
+        "answer": "Warning"
+      },
+      {
+        "question": "What specific dairy product is mentioned in the facility processing warning?",
+        "answer": "Milk"
+      }
+    ]
+  }
+]

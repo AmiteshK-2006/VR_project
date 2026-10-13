@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1d/1d8fe441.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape of the nutritional facts panel, what is its primary color scheme?",
+        "answer": "White"
+      },
+      {
+        "question": "Focusing on the textual content, what specific nutrient is prominently displayed in large font size?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Observing the layout of the data, how many distinct columns organize the nutritional information?",
+        "answer": "Two"
+      },
+      {
+        "question": "Examining the detailed nutrient breakdown, what is the total amount of sugars per serving, expressed numerically?",
+        "answer": "22g"
+      },
+      {
+        "question": "Considering the different nutritional components listed, what is the amount of added sugars per serving, in grams?",
+        "answer": "17g"
+      },
+      {
+        "question": "Regarding the text's visual characteristics, what is the font style used for the 'Nutrition Facts' heading?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Regarding the data presentation, what is the unit of measurement consistently used for various nutrients?",
+        "answer": "grams"
+      },
+      {
+        "question": "Considering the text formatting, how are the nutrient amounts differentiated from their corresponding percent daily values?",
+        "answer": "Columns"
+      },
+      {
+        "question": "Looking at the numerical values, what's the total amount of fat per serving in grams?",
+        "answer": "3g"
+      },
+      {
+        "question": "Considering the presented measurements, what is the quantity of cholesterol listed per serving?",
+        "answer": "15mg"
+      },
+      {
+        "question": "Observing the nutrient information, what's the amount of protein present in each serving?",
+        "answer": "3g"
+      },
+      {
+        "question": "What's the serving size stated in terms of volume and weight?",
+        "answer": "Tablespoons"
+      },
+      {
+        "question": "What is the total number of servings indicated per container?",
+        "answer": "10"
+      },
+      {
+        "question": "Observing the visual composition, what is the overall orientation of the nutritional label?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the style of the numerical value representing the total calories?",
+        "answer": "Large"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bd/bd2d7377.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the packaging visible in the image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What material appears to constitute the main packaging of the product shown?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Considering the overall form, what is the dominant shape of this product's container?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visible text, what is the net weight of the product contained inside?",
+        "answer": "1kg"
+      },
+      {
+        "question": "Describe the texture of the packaging, based on its visual appearance.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What appears to be the primary function or purpose of the product, according to the visible text?",
+        "answer": "Sugar"
+      },
+      {
+        "question": "Can you describe the design style of the text on the package—is it simple or ornate?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the apparent brand name or label visible on the packaging?",
+        "answer": "Veda"
+      },
+      {
+        "question": "What is the orientation of the text on the primary visible side of the product packaging?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Is there any visible pattern, beyond simple text and branding, on the packaging?",
+        "answer": "None"
+      },
+      {
+        "question": "Is the packaging sealed, or does it show any apparent opening mechanism?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "What is the overall visual impression of the product's packaging: modern, rustic, or other?",
+        "answer": "Rustic"
+      },
+      {
+        "question": "What is the apparent overall condition of the displayed packaging – is it damaged?",
+        "answer": "Undamaged"
+      },
+      {
+        "question": "Does the packaging include any type of additional visible sealing or security feature?",
+        "answer": "None"
+      },
+      {
+        "question": "Ignoring the branding, what is the most prominent graphical element on the packaging?",
+        "answer": "Text"
+      }
+    ]
+  }
+]

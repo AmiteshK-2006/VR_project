@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/16/16a7879e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color scheme of this food label?",
+        "answer": "Purple"
+      },
+      {
+        "question": "Based on the text's visual characteristics, what font style is predominantly used for the ingredient list?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Examining the label's texture, what is the apparent surface finish of this product's packaging?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Analyzing the visual layout, what is the primary method used to present the information on the label?",
+        "answer": "Text"
+      },
+      {
+        "question": "Focusing on the text's visual appearance, what is the case of the lettering employed in 'INGREDIENTS'?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Considering the textual content, what is one of the listed ingredients present in this food item?",
+        "answer": "Milk"
+      },
+      {
+        "question": "Observing the typography, what is the style of the font weight used for 'CONTAINS MILK INGREDIENTS'?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Analyzing the visual characteristics of the text, what is the color of the lettering on the purple background?",
+        "answer": "White"
+      },
+      {
+        "question": "Observing the text's visual features, what punctuation mark ends the ingredient list?",
+        "answer": "Period"
+      },
+      {
+        "question": "Based on visual attributes, what is the overall shape of this particular food label section?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Examining the visual organization of the text, what word separates the ingredients from the statement on milk?",
+        "answer": "Contains"
+      },
+      {
+        "question": "Considering the text's visual characteristics, how many distinct lines of text are visibly present?",
+        "answer": "Two"
+      },
+      {
+        "question": "Judging from the image, what is the visual density of the lettering on the food label?",
+        "answer": "High"
+      },
+      {
+        "question": "Looking at the image, what is the visible text alignment used on the food label?",
+        "answer": "Left"
+      },
+      {
+        "question": "Analyzing the visible text, what is the first word mentioned in the ingredients list?",
+        "answer": "Reduced"
+      }
+    ]
+  }
+]

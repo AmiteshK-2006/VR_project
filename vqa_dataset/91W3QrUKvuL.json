@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/cb/cb65c175.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall hue and saturation, what single word best describes the dominant color of the powder contained within the glass jar?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What is the apparent physical form of the product inside its packaging, based on its visible texture and consistency?",
+        "answer": "Powder"
+      },
+      {
+        "question": "Observing the packaging, what material is predominantly used for the body of the container holding the product?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Based solely on the visual appearance, what shape best describes the jar containing the spice?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What material seems to constitute the lid or cap affixed to the top of the spice jar?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Judging from the image, what is the primary design element present on the jar's label, apart from text and barcodes?",
+        "answer": "Botanical"
+      },
+      {
+        "question": "What is the color of the printed text on the main label of the product's container?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What color is the background of the main label, excluding any design elements or text?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the color of the thin band separating the label's main section from the bottom section?",
+        "answer": "Green"
+      },
+      {
+        "question": "From the visible portion of the label, what appears to be the primary type of text used to describe the product?",
+        "answer": "Cursive"
+      },
+      {
+        "question": "Considering the product's contents and the imagery, what might be the intended culinary use of this product?",
+        "answer": "Spice"
+      },
+      {
+        "question": "Based on the label\u2019s appearance, what descriptive word best describes the product's origins or production method?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Considering the image, what kind of barcode system appears to be used on the label for product identification?",
+        "answer": "UPC"
+      },
+      {
+        "question": "What is the apparent overall style of the jar\u2019s label design, considering its imagery and typeface?",
+        "answer": "Rustic"
+      },
+      {
+        "question": "What is the apparent texture of the product, observed from the image of the content?",
+        "answer": "Fine"
+      }
+    ]
+  }
+]

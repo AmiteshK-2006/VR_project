@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a6/a60158f5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant textual element depicted on the product?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Examining the label's visual structure, what specific dietary component is prominently featured with a numerical value?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Based on the visual appearance of the label, what unit of measurement is employed for serving size?",
+        "answer": "tsp"
+      },
+      {
+        "question": "Analyzing the text's visual style, what is the format of the presented nutritional information?",
+        "answer": "Table"
+      },
+      {
+        "question": "Focusing on the label's visual design, what is the primary color used for the text?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the background color of the nutritional facts label?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the overall structure of the information presented, which specific nutrient is given the most prominence in numerical representation?",
+        "answer": "Calories"
+      },
+      {
+        "question": "What is the apparent font style of the words 'Nutrition Facts'?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Based solely on visual observation, what is the visual style of the font sizes employed on the label?",
+        "answer": "Varied"
+      },
+      {
+        "question": "Observing the overall appearance, what is the apparent texture of the label surface based on the image's resolution?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the visual presentation of data, what is the primary method used for representing values?",
+        "answer": "Numbers"
+      },
+      {
+        "question": "Considering the textual elements, what is the format of the values for each nutritional component?",
+        "answer": "Numerical"
+      },
+      {
+        "question": "Examining the label's design, what is the overall shape of the information panel?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the visual presentation style of the label's information?",
+        "answer": "List"
+      },
+      {
+        "question": "What type of information is prominently displayed on the label?",
+        "answer": "Nutritional"
+      }
+    ]
+  }
+]

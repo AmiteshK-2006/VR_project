@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4d/4d55cbda.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the text detailing the ingredients on the product label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the overall design, what is the background color of this food product's label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the dominant font style used to present the list of ingredients?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the text size of the word 'INGREDIENTS' in relation to the rest of the ingredient list?",
+        "answer": "Larger"
+      },
+      {
+        "question": "What is the case style used for writing 'INGREDIENTS' on this food product's label?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "What is the arrangement style of the ingredient list on the food product label?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What punctuation mark is used to separate the different ingredients within the list?",
+        "answer": "Comma"
+      },
+      {
+        "question": "What is the term used to denote the type of sugar included in the recipe, as shown on this product's label?",
+        "answer": "Cane"
+      },
+      {
+        "question": "Excluding the main label heading, how many lines of text are there in the ingredient list shown?",
+        "answer": "Eight"
+      },
+      {
+        "question": "What word signals the addition of a small amount of sugar per serving on this product label?",
+        "answer": "Adds"
+      },
+      {
+        "question": "What adjective is used to describe the amount of added sugar per serving on this product's label?",
+        "answer": "Trivial"
+      },
+      {
+        "question": "What is the written indication following 'organic cane sugar' that might suggest an additive in this product?",
+        "answer": "Asterisk"
+      },
+      {
+        "question": "What type of spice is noted in the ingredient list, denoted as 'organic'?",
+        "answer": "Cayenne"
+      },
+      {
+        "question": "What is indicated as the last ingredient in this product's list of components?",
+        "answer": "Pepper"
+      },
+      {
+        "question": "What word precedes the comprehensive list of ingredients on this product's label?",
+        "answer": "Ingredients"
+      }
+    ]
+  }
+]

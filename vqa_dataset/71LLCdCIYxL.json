@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a4/a44bf7a2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall shape depicted in the image, what geometric form best describes the container's profile?",
+        "answer": "Oval"
+      },
+      {
+        "question": "What is the predominant color observed on the main label area of the food container, as visually apparent?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Based on visual inspection, what appears to be the primary material used for the food packaging?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Examining the text's visual presentation, what is the overall typeface style used for the nutrition facts?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What color are the numbers indicating the nutritional values, as directly observed in the image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Judging from the image alone, what seems to be the finish of the container's surface texture?",
+        "answer": "Matte"
+      },
+      {
+        "question": "From a visual perspective, what is the style of the text's arrangement, considering the overall layout?",
+        "answer": "Columnar"
+      },
+      {
+        "question": "Focusing solely on what is visible, how many columns are used in the visual presentation of nutritional information?",
+        "answer": "Two"
+      },
+      {
+        "question": "Considering the image, what seems to be the primary language used for the textual information?",
+        "answer": "English"
+      },
+      {
+        "question": "What is the color of the text used for the title \"Nutrition Facts\", according to the provided image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Based purely on what's seen, what size seems to be represented by the 'Serv. size' specification visually?",
+        "answer": "Tablespoon"
+      },
+      {
+        "question": "If considering only what is visible, what is the visual prominence of the 'Calories' value among the other nutritional values?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the apparent visual weight of the 'Nutrition Facts' section compared to other sections in the image?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "Judging by the image's appearance, what is the general visual clarity of the printed nutrition information?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Based on visual analysis, what is the apparent visual density of the text on the label?",
+        "answer": "High"
+      }
+    ]
+  }
+]

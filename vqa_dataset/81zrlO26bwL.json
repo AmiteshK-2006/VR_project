@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/40/40ac72c1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what is the primary color scheme of the nutritional facts label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Examining the text blocks, what is the font style predominantly used for the nutritional information?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the shape of the nutritional facts panel as visually presented in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Focusing on the text layout, what is the primary organizational method of the presented nutrition data?",
+        "answer": "Tabular"
+      },
+      {
+        "question": "What is the texture of the paper or material upon which the nutritional facts are printed, as visually inferred from the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the visual clarity, what is the overall legibility of the nutritional information provided on the label?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the apparent background color of the nutritional facts label, as directly observable in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the size and spacing of the text, what is the overall visual density of the nutritional information?",
+        "answer": "Moderate"
+      },
+      {
+        "question": "Observing the text, what is the overall design style of the nutritional information display?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Considering the contrast between text and background, what is the overall visual contrast of the label?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the format or presentation of the information regarding the daily values?",
+        "answer": "Percentage"
+      },
+      {
+        "question": "Focusing on the header, what is the text explicitly stating the type of information presented?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Considering the numerical data displayed, what is the measurement unit used for 'Calories'?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the visual style of the numerical values for the macronutrients (fat, carbohydrates, etc.)?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Observing the bottom of the label, what are the small print details generally describing the data?",
+        "answer": "Footnote"
+      }
+    ]
+  }
+]

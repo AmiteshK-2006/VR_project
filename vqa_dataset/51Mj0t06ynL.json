@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0a/0ac19a25.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's overall appearance, what is the dominant color scheme of the product's label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the text's font style, what type of product does the label likely describe?",
+        "answer": "Food"
+      },
+      {
+        "question": "Given the visible text's arrangement, what is the primary purpose of this label?",
+        "answer": "Informative"
+      },
+      {
+        "question": "What is the primary formatting characteristic used to categorize the list of ingredients?",
+        "answer": "Bulleted"
+      },
+      {
+        "question": "Judging by the text's density, how much information is conveyed on the label?",
+        "answer": "Extensive"
+      },
+      {
+        "question": "Considering the font size variation, how is the 'Ingredients' section distinguished?",
+        "answer": "Larger"
+      },
+      {
+        "question": "What specific style element is used to separate the 'Ingredients' and 'Contains' information?",
+        "answer": "Spacing"
+      },
+      {
+        "question": "Based on the text's alignment, how is it positioned on the label?",
+        "answer": "Left"
+      },
+      {
+        "question": "What visual characteristic is used to separate the words within the ingredient lists?",
+        "answer": "Commas"
+      },
+      {
+        "question": "Considering the font's overall appearance, what is its primary style?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Analyzing the provided text, what ingredient is mentioned as being 'roasted'?",
+        "answer": "Sesame"
+      },
+      {
+        "question": "According to the text, what dairy product is found in the item?",
+        "answer": "Butter"
+      },
+      {
+        "question": "Considering the specified form of sugar, what is it indicated as in the list?",
+        "answer": "Sugar"
+      },
+      {
+        "question": "What is the type of honey employed as an ingredient?",
+        "answer": "Organic"
+      },
+      {
+        "question": "As per the label, what nut is used in the product?",
+        "answer": "Cashews"
+      }
+    ]
+  }
+]

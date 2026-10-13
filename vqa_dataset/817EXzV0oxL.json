@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a3/a30aaed3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the visible exterior surfaces of this item?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What appears to be the primary material used in the construction of this product?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Considering the visible sides and top, what is the overall shape of this furniture piece?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on its appearance, what is the most likely function of this item, considering its size and features?",
+        "answer": "Storage"
+      },
+      {
+        "question": "Observing the base, what type of feet or supports are visible on this piece of furniture?",
+        "answer": "Feet"
+      },
+      {
+        "question": "What is the apparent finish or texture of the visible surfaces of this cabinet?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the image, how many visible drawers or compartments does this unit possess?",
+        "answer": "None"
+      },
+      {
+        "question": "Does the visible exterior display any noticeable handles, knobs, or pulls?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image, is the overall design of this item simple or ornate?",
+        "answer": "Simple"
+      },
+      {
+        "question": "From this perspective, are there any visible joints or seams apparent on the visible surfaces?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based solely on the visible features, what is the approximate height-to-width ratio of this unit?",
+        "answer": "Tall"
+      },
+      {
+        "question": "What is the apparent condition of the visible surface of the item; is there evidence of damage or wear?",
+        "answer": "New"
+      },
+      {
+        "question": "Examining the visible edges, are they sharply defined or rounded?",
+        "answer": "Sharp"
+      },
+      {
+        "question": "Does the color of the item appear uniform across all visible surfaces, or are there variations?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What is the visible orientation of this object in relation to the viewer's perspective?",
+        "answer": "Side"
+      }
+    ]
+  }
+]

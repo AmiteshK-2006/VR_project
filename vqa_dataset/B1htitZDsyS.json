@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6c/6cbe8a52.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant visual texture apparent across the entire fabric sample?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Considering the overall hue, what single word best describes the fabric's color?",
+        "answer": "Olive"
+      },
+      {
+        "question": "Based on the visual appearance, what is the most likely primary material composition?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Does the fabric exhibit a noticeable sheen or gloss, or is it matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging from the image, what is the general feel or hand of the fabric?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Considering the uniformity of color and texture, how would you describe the fabric's appearance?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Given the image's resolution, what is the visual clarity of the weave structure?",
+        "answer": "Fine"
+      },
+      {
+        "question": "Describe the overall visual impression of the color saturation level.",
+        "answer": "Muted"
+      },
+      {
+        "question": "From the presented visual, what is the apparent weight of the fabric?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Is there any observable pattern or print present on the fabric sample?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the image, what is the apparent density of the woven fibers?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Does the visual suggest any visible imperfections or irregularities in the weave?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "What is the implied level of the fabric's inherent drape or softness?",
+        "answer": "Moderate"
+      },
+      {
+        "question": "If one were to touch this fabric, would it be perceived as a soft or stiff material?",
+        "answer": "Stiff"
+      },
+      {
+        "question": "Based on this image, is there any indication of special treatment or finishing on the fabric?",
+        "answer": "None"
+      }
+    ]
+  }
+]

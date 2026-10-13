@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/47/47058432.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual layout, what is the primary purpose of this product's labeling?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What grade designation is prominently displayed concerning the product's quality?",
+        "answer": "A"
+      },
+      {
+        "question": "Based on the textual information, what processing method has been applied to this product?",
+        "answer": "Homogenized"
+      },
+      {
+        "question": "What specific vitamins are explicitly mentioned as being added to this food product?",
+        "answer": "A&D"
+      },
+      {
+        "question": "What is the total number of servings contained within the product packaging, as stated on the label?",
+        "answer": "Sixteen"
+      },
+      {
+        "question": "According to the label, what is the recommended serving size in milliliters?",
+        "answer": "240"
+      },
+      {
+        "question": "What is the total number of calories per serving, as indicated on the label?",
+        "answer": "90"
+      },
+      {
+        "question": "What is the total amount of carbohydrates, in grams, per serving as indicated on the label?",
+        "answer": "13"
+      },
+      {
+        "question": "What is the amount of protein, in grams, per serving, as specified on the label?",
+        "answer": "9"
+      },
+      {
+        "question": "How much sodium, in milligrams, is present per serving of this food product, according to its label?",
+        "answer": "130"
+      },
+      {
+        "question": "According to the label, what percentage of the recommended daily value of total sugars is contained within one serving?",
+        "answer": "5"
+      },
+      {
+        "question": "In the context of the label, what is the stated measurement unit for the amount of fat?",
+        "answer": "grams"
+      },
+      {
+        "question": "What is the percentage of the recommended daily value of Vitamin D found in one serving of this product?",
+        "answer": "10"
+      },
+      {
+        "question": "According to this label, what is the percentage of recommended daily value of calcium per serving?",
+        "answer": "25"
+      },
+      {
+        "question": "Based on the nutritional facts, what is the percentage of the daily value of iron per serving?",
+        "answer": "0"
+      }
+    ]
+  }
+]

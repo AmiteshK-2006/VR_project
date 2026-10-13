@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/25/255c8525.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color visually apparent in the provided image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visual texture, what is the most apparent surface characteristic?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Based solely on visual observation, what seems to be the material of the displayed item?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Judging from the image, what is the overall visual impression of the texture?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the image's visual details, what is the apparent weave direction of the material?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Does the image show any significant visual pattern or print on the surface?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall visual impression of the depicted material's tone?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "Judging by the image alone, is the visual appearance of the material glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "From the image, how would you describe the visual density of the material's texture?",
+        "answer": "Dense"
+      },
+      {
+        "question": "What is the apparent visual uniformity of the material's color and texture?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "From a visual perspective, what is the overall visual grain direction of the fabric?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Based on visual cues, does the material appear thick or thin?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Is there any noticeable visual sheen or shine to the surface of the material?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the visual subtlety of the color variations in the provided image",
+        "answer": "Subtle"
+      },
+      {
+        "question": "Based on visual observation, how would you characterize the material's visual drape?",
+        "answer": "Straight"
+      }
+    ]
+  }
+]

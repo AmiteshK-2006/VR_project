@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/99/99003ed5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary textual information conveyed prominently across the top of this nutritional label?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Considering the overall structure, what type of data is predominantly presented on this rectangular label?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What numerical value is conspicuously displayed, representing the caloric content per serving?",
+        "answer": "200"
+      },
+      {
+        "question": "What is the measurement unit consistently used to denote the quantity of various components like fats and carbohydrates?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the color of the text used to denote the primary nutrient information throughout the label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the color of the background of this nutrition facts label?",
+        "answer": "White"
+      },
+      {
+        "question": "Focusing on the layout, what is the predominant orientation of the data entries on this label?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Considering the listed nutritional information, what is the value associated with total carbohydrates per serving, in grams?",
+        "answer": "44"
+      },
+      {
+        "question": "Regarding the layout, what is the visual appearance of the lines separating different nutrients and their values?",
+        "answer": "Straight"
+      },
+      {
+        "question": "What is the type of font used on this nutrition facts label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the overall shape of the nutritional information panel itself?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the design, what is the general appearance of the text's weight or boldness?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the arrangement of the different nutritional components such as total fat or total carbohydrates on the label?",
+        "answer": "Listed"
+      },
+      {
+        "question": "Examining the daily values percentage, what is the relative value shown for total fat, expressed as a percentage?",
+        "answer": "2"
+      },
+      {
+        "question": "What is the specified serving size mentioned on this nutritional information panel?",
+        "answer": "3/4"
+      }
+    ]
+  }
+]

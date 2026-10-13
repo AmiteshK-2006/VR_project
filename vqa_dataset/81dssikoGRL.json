@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e3/e366affc.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary textual element dominating the image, conveying crucial product information in a structured format?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Considering the overall visual layout, what is the prominent method used to organize and present the nutritional data, enhancing readability?",
+        "answer": "Table"
+      },
+      {
+        "question": "Focusing on the numerical values provided, what is the total number of calories per serving indicated for this particular product?",
+        "answer": "140"
+      },
+      {
+        "question": "Based on the visual appearance, what is the stated serving size of the food item described within the nutritional information?",
+        "answer": "Bun"
+      },
+      {
+        "question": "What is the weight, expressed in grams, of a single serving of this food product, as visually shown on the label?",
+        "answer": "53"
+      },
+      {
+        "question": "Observing the text, what is the metric unit used consistently to represent the quantitative values of the various nutritional components?",
+        "answer": "Grams"
+      },
+      {
+        "question": "From a visual standpoint, what is the color of the primary font used throughout the Nutrition Facts label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Examining the image closely, what is the general background color of the Nutrition Facts panel against which the text is presented?",
+        "answer": "White"
+      },
+      {
+        "question": "Disregarding the specific numerical values, what is the general term used to indicate the amount of each nutritional component per serving?",
+        "answer": "Amount"
+      },
+      {
+        "question": "In terms of visual presentation, what is the type of information presented to the right of the numerical values in each row of the table?",
+        "answer": "Percent"
+      },
+      {
+        "question": "Visually assessing the label's layout, how many distinct rows or entries are used to convey the detailed nutritional breakdown?",
+        "answer": "Eleven"
+      },
+      {
+        "question": "What is the font style in which the term 'Nutrition Facts' is presented at the very top of the visual display?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Looking at the label, what nutrient is listed after 'Total Carbohydrate'?",
+        "answer": "Dietary"
+      },
+      {
+        "question": "What unit of measurement is used for 'Vitamin D'?",
+        "answer": "Mcg"
+      },
+      {
+        "question": "What is the visual element used to separate the different categories of nutrients in the chart?",
+        "answer": "Lines"
+      }
+    ]
+  }
+]

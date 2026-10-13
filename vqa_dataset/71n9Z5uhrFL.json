@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bb/bbff6053.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape and uniformly distributed text, what is the primary format of this product's labeling?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Observing the dark background and light-colored text, what would you describe as the dominant color scheme of the displayed label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Given the text's consistent font style and size, what would you characterize the typography of the label as?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Based on the visual layout, is there any apparent use of graphic elements beyond the text itself on the product label?",
+        "answer": "No"
+      },
+      {
+        "question": "Regarding the discernible text content, what language appears to be utilized on the product label?",
+        "answer": "Japanese"
+      },
+      {
+        "question": "Judging by the textual layout, does the label appear to provide details related to ingredients or nutritional information?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the presence of circular filled markers in the label, what might these elements signify in relation to the product?",
+        "answer": "Indicators"
+      },
+      {
+        "question": "Based on the visible text, what can you deduce about the nature of the product based on the mentioned names?",
+        "answer": "Seafood"
+      },
+      {
+        "question": "Given the consistent arrangement and repetition, what design approach can you infer in the arrangement of the text blocks?",
+        "answer": "Aligned"
+      },
+      {
+        "question": "What seems to be the main content provided by each individual rectangle in the label's arrangement?",
+        "answer": "Information"
+      },
+      {
+        "question": "From the visible content, are there discernible terms related to the product's weight or quantity in each rectangular label?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging by the size and arrangement of each rectangle, is the overall visual balance of the label consistent?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based solely on visual inspection, is the quality of print on the labels consistent across all instances?",
+        "answer": "Yes"
+      },
+      {
+        "question": "From the textual content, what could you infer about the possible processing method for the mentioned seafood products?",
+        "answer": "Oil-packed"
+      },
+      {
+        "question": "Based on the presence of Japanese characters, is there a reasonable assumption about the region or market intended for the product?",
+        "answer": "Japan"
+      }
+    ]
+  }
+]

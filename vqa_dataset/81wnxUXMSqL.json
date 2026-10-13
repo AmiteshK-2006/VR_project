@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8e/8e033eb1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form and proportions, what best describes the bottle's shape, as seen from the image?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What color is the main body of the bottle, judging from its visible surfaces?",
+        "answer": "Green"
+      },
+      {
+        "question": "Based on visual inspection, what appears to be the primary material of the bottle?",
+        "answer": "Glass"
+      },
+      {
+        "question": "What color is the liquid inside the bottle, as shown in the image?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What is the most prominent color of the cap or lid atop the bottle?",
+        "answer": "Green"
+      },
+      {
+        "question": "Observing the label's design elements, what is the most noticeable color scheme?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the texture of the bottle's surface, judging from the visual appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image, what does the label predominantly indicate regarding the contents?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Considering the bottle's labeling, what appears to be the type of product it contains?",
+        "answer": "Oil"
+      },
+      {
+        "question": "Based on the image, what kind of text is visible on the bottle's label?",
+        "answer": "English"
+      },
+      {
+        "question": "Observing the label, are there any visible barcode or other identification markings?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging by the visual cues, is the bottle's cap visibly sealed or tamper-evident?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the bottle display any additional markings beyond the label, such as embossing or etching?",
+        "answer": "No"
+      },
+      {
+        "question": "Based solely on visual evidence, does the bottle appear to be full or partially full?",
+        "answer": "Full"
+      },
+      {
+        "question": "What is the overall condition of the visible portions of the bottle, in terms of damage or wear?",
+        "answer": "Intact"
+      }
+    ]
+  }
+]

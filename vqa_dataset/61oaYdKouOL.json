@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1f/1f5bd912.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the presented nutritional supplement facts label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the primary font style used for the heading 'Supplement Facts'?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the stated serving size of the collagen supplement, as indicated on the label?",
+        "answer": "Capsule"
+      },
+      {
+        "question": "Considering the text, what specific collagen type is listed as a component of the hydrolyzed collagen complex?",
+        "answer": "II"
+      },
+      {
+        "question": "Based on the visual presentation, what is the overall shape of the information presented on the label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the measurement unit used to quantify the amount of hydrolyzed collagen complex per serving?",
+        "answer": "mg"
+      },
+      {
+        "question": "What is the background color of the label displaying the supplement facts information?",
+        "answer": "White"
+      },
+      {
+        "question": "What other component besides collagen type II is explicitly listed within the parentheses?",
+        "answer": "Chondroitin"
+      },
+      {
+        "question": "Observing the text, which additional component is included in the hydrolyzed collagen complex?",
+        "answer": "Hyaluronic"
+      },
+      {
+        "question": "What is the text style of the disclaimer concerning the daily value?",
+        "answer": "Italic"
+      },
+      {
+        "question": "Describe the alignment of the 'Amount Per Serving' and '% Daily Value' column headers.",
+        "answer": "Aligned"
+      },
+      {
+        "question": "What is the format of the information presented on this label?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the overall texture of the label, assuming a standard printing process?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the font weight of the amount '400 mg' next to the hydrolyzed collagen complex?",
+        "answer": "Regular"
+      },
+      {
+        "question": "What word is used to denote the quantity details of the supplement components?",
+        "answer": "Amount"
+      }
+    ]
+  }
+]

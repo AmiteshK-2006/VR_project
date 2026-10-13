@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/01/01dbf4a8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the bottle's contents, as visibly shown in the product image?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "Considering the overall form, what is the most accurate geometrical description of the bottle's shape?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Based on the image, what material seems to comprise the bottle's cap, judging by its visual characteristics?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What single word best describes the apparent texture of the bottle's surface, visible in the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What color is predominantly displayed on the bottle's cap, as evident from the provided image?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the most prominent feature shown on the back of the bottle, according to the image?",
+        "answer": "Label"
+      },
+      {
+        "question": "Considering the image, what is the general shape of the bottle's body, disregarding the cap?",
+        "answer": "Squeeze"
+      },
+      {
+        "question": "Disregarding the cap, what is the apparent material of the bottle's main body, as suggested by the image?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the most noticeable feature of the label's text, considering the visual representation in the image?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Considering the visual information provided, what is the general style of the bottle's design?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the primary color of the label displayed on the back of the bottle, visible in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the most apparent component of the product shown in the image, besides the bottle itself?",
+        "answer": "Label"
+      },
+      {
+        "question": "Based on the image, what type of product does the bottle appear to hold (referring to its type of contents) ?",
+        "answer": "Sauce"
+      },
+      {
+        "question": "Judging from the image, what is the apparent state of the product within the bottle (solid, liquid, etc.)?",
+        "answer": "Liquid"
+      },
+      {
+        "question": "Based on the provided image, is there any noticeable pattern or design on the bottle's body aside from the label?",
+        "answer": "None"
+      }
+    ]
+  }
+]

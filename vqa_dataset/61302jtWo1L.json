@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/85/8570b754.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall design, what is the primary visual element dominating the entire product surface?",
+        "answer": "Text"
+      },
+      {
+        "question": "What specific type of textual information is prominently displayed across the entire product surface?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the background color of this product, observed across the majority of its visual surface?",
+        "answer": "White"
+      },
+      {
+        "question": "Observing the font style employed for the primary textual content, what would best describe its overall appearance?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What color is the text used for the major headings and values within the nutritional information displayed?",
+        "answer": "Black"
+      },
+      {
+        "question": "Focusing on the numbers detailing the caloric content, what specific numeric value is prominently featured?",
+        "answer": "130"
+      },
+      {
+        "question": "What is the shape of the overall product depicted in its entirety, ignoring individual components?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the texture of the product's surface, what is the most accurate visual description?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the material used, which is visually evident considering the product's physical characteristics and texture?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Describe the arrangement of the information presented, considering both layout and the use of visual separators or boxes.",
+        "answer": "tabular"
+      },
+      {
+        "question": "Examining the content, what is the unit used in measuring the various nutritional components listed?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Observing the visual hierarchy, which component is visually emphasized, suggesting its paramount importance?",
+        "answer": "Calories"
+      },
+      {
+        "question": "What is the style of the borders or lines used to delineate different sections or values in the nutritional data?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Analyzing the visual presentation of the percentage values, what is the color used to display those percentages?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the visual emphasis given to various parts of the product, what is the primary information emphasized?",
+        "answer": "Facts"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/7b/7b48fdf2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the primary subject depicted in the image?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Based on the visual layout, what specific dietary information is prominently displayed?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Observing the textual organization, what quantitative value is most noticeably presented?",
+        "answer": "270"
+      },
+      {
+        "question": "Regarding the typographical emphasis, what nutritional component is highlighted in bold type?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Analyzing the content's structure, what metric is presented as a percentage of daily value?",
+        "answer": "13%"
+      },
+      {
+        "question": "Focusing on the textual details, what nutrient is indicated as having zero milligrams per serving?",
+        "answer": "Cholesterol"
+      },
+      {
+        "question": "According to the visual information, what is the serving size specified in the image?",
+        "answer": "Waffles"
+      },
+      {
+        "question": "Examining the numerical data, what is the quantity of total fat listed in grams?",
+        "answer": "10g"
+      },
+      {
+        "question": "Based on the visual data, how many grams of dietary fiber are present in a single serving?",
+        "answer": "4g"
+      },
+      {
+        "question": "Referring to the presented figures, what is the total amount of sugars in grams per serving?",
+        "answer": "9g"
+      },
+      {
+        "question": "According to the visual content, how many grams of protein are there in a single serving?",
+        "answer": "6g"
+      },
+      {
+        "question": "Judging from the visual representation, how many milligrams of calcium are included per serving?",
+        "answer": "30mg"
+      },
+      {
+        "question": "Considering the visible content, what is the amount of iron in milligrams per serving?",
+        "answer": "1.7mg"
+      },
+      {
+        "question": "From the visual information provided, what is the amount of potassium presented in milligrams?",
+        "answer": "130mg"
+      },
+      {
+        "question": "Based on the visible text, what is the unit of measurement used consistently throughout the information?",
+        "answer": "Grams"
+      }
+    ]
+  }
+]

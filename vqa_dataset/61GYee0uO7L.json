@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ce/ce2c4984.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the prominent header's textual content, what fundamental information regarding the packaged food item does this label primarily convey?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Focusing on the numerical values listed under 'Total Fat', expressed in grams, what quantity of fat is present in a single serving?",
+        "answer": "1"
+      },
+      {
+        "question": "Observing the data presented under 'Sodium', quantified in milligrams, what is the sodium content per serving?",
+        "answer": "520"
+      },
+      {
+        "question": "Referring to the category 'Total Carbohydrate', what is the carbohydrate content, in grams, per serving?",
+        "answer": "19"
+      },
+      {
+        "question": "Examining the information provided for 'Sugars', expressed in grams, what is the amount of sugar in a single serving?",
+        "answer": "0"
+      },
+      {
+        "question": "Based on the listed 'Calories', how many calories are contained within one serving of this food product?",
+        "answer": "90"
+      },
+      {
+        "question": "Looking at the 'Protein' details, what is the protein content, in grams, per serving?",
+        "answer": "1"
+      },
+      {
+        "question": "In the 'Cholesterol' section, measured in milligrams, what is the cholesterol level in each serving?",
+        "answer": "15"
+      },
+      {
+        "question": "Observing the 'Potassium' information presented in milligrams, what is the potassium amount per serving?",
+        "answer": "180"
+      },
+      {
+        "question": "What is the serving size indicated on the label, as it is described with measurement units?",
+        "answer": "Cup"
+      },
+      {
+        "question": "What is the approximate number of servings present within the entire container, expressed as a whole number?",
+        "answer": "2"
+      },
+      {
+        "question": "What is the primary color used for the text on this nutrition facts label, as observed visually?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the visual presentation, what is the general shape of this nutrition facts label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the background color of the Nutrition Facts label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall texture of the label, judging by its appearance?",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

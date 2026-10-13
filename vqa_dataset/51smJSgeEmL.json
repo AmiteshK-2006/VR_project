@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/39/3922a6dd.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary form of the supplement as depicted on the label?",
+        "answer": "Capsules"
+      },
+      {
+        "question": "Considering the label, what is the stated serving size of the product?",
+        "answer": "One"
+      },
+      {
+        "question": "Based on the image, what is the specified amount of L-Lysine per serving?",
+        "answer": "500mg"
+      },
+      {
+        "question": "What type of capsule is explicitly mentioned in the ingredients list?",
+        "answer": "Vegetarian"
+      },
+      {
+        "question": "According to the label, what is one of the components of the capsule shell?",
+        "answer": "Hypromellose"
+      },
+      {
+        "question": "What is one filler ingredient listed in the supplement's composition?",
+        "answer": "Rice"
+      },
+      {
+        "question": "Which compound is listed as a vegetarian source in the supplement's ingredients?",
+        "answer": "Magnesium"
+      },
+      {
+        "question": "What is the other ingredient listed alongside Magnesium Stearate?",
+        "answer": "Cellulose"
+      },
+      {
+        "question": "Based on the label, what is a potential allergen present in the manufacturing facility?",
+        "answer": "Milk"
+      },
+      {
+        "question": "What is another potential allergen mentioned concerning the production facility?",
+        "answer": "Soy"
+      },
+      {
+        "question": "What is a third allergen mentioned regarding the manufacturing process?",
+        "answer": "Eggs"
+      },
+      {
+        "question": "What is a fourth allergen noted in relation to the production environment?",
+        "answer": "Fish"
+      },
+      {
+        "question": "Name a fifth potential allergen indicated by the label's warning",
+        "answer": "Wheat"
+      },
+      {
+        "question": "What is a sixth allergen potentially present due to the manufacturing location?",
+        "answer": "Tree"
+      },
+      {
+        "question": "What is the stated measurement unit for the L-Lysine content?",
+        "answer": "mg"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e9/e9b552f7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall appearance, what is the dominant visual characteristic of this product?",
+        "answer": "Text"
+      },
+      {
+        "question": "Observing the text closely, what is the primary purpose of this printed information?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Analyzing the typeface, how would you best describe the style of the text used?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the visual details, what is the apparent color scheme of the printed content?",
+        "answer": "Black"
+      },
+      {
+        "question": "Focusing on the background, what material does it appear to be printed on?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the apparent surface texture of the material upon which the text is printed?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "In terms of its visual format, how is the information predominantly structured?",
+        "answer": "List"
+      },
+      {
+        "question": "Examining the text content, what is one key ingredient explicitly mentioned?",
+        "answer": "Oil"
+      },
+      {
+        "question": "Considering the overall presentation, how is the text mostly aligned on the page?",
+        "answer": "Left"
+      },
+      {
+        "question": "What is the approximate size of the text relative to a standard text size?",
+        "answer": "Small"
+      },
+      {
+        "question": "Considering the image as a whole, what is its overall shape or geometry?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging from the visual information, is the print mostly bold or light?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the apparent orientation of the text relative to the viewer?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What seems to be the contrast level between the text and the background?",
+        "answer": "High"
+      },
+      {
+        "question": "Is there any noticeable visual indication of logos or brands on the image?",
+        "answer": "None"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/40/40853cf9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the presented square object?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the overall form, what is the primary geometrical shape?",
+        "answer": "Square"
+      },
+      {
+        "question": "Judging by its appearance, what material seems to constitute the object?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on the image, does the surface exhibit a glossy or matte finish?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Observing the edges, are they sharp, rounded, or beveled?",
+        "answer": "Sharp"
+      },
+      {
+        "question": "Does the object present any visible texture, pattern, or design on its face?",
+        "answer": "None"
+      },
+      {
+        "question": "What kind of visible markings or labels are present on the object?",
+        "answer": "None"
+      },
+      {
+        "question": "Judging from the image, is the object seemingly thick or thin?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Based on the visual evidence, does the item show signs of any assembly?",
+        "answer": "No"
+      },
+      {
+        "question": "From the photograph, does the item appear solid or hollow?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Considering the visual details, does the object seem to be rigid or flexible?",
+        "answer": "Rigid"
+      },
+      {
+        "question": "Does the surface show any evidence of reflectivity or shine?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Are there any visible seams, joints, or connections in the image?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image, does the object display any visible internal structure?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the object's surface seem uniformly colored or variegated?",
+        "answer": "Uniform"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2b/2b6df1dd.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary ingredient explicitly stated on the product label?",
+        "answer": "Cashews"
+      },
+      {
+        "question": "What type of nut is listed as a potential allergen?",
+        "answer": "Peanuts"
+      },
+      {
+        "question": "Besides cashews, what other tree nuts might be present as a potential allergen?",
+        "answer": "Nuts"
+      },
+      {
+        "question": "What dairy product is mentioned as being processed in the same facility?",
+        "answer": "Milk"
+      },
+      {
+        "question": "What grain is listed as being processed in the same manufacturing location?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "What legume is indicated as possibly being processed alongside the main ingredient?",
+        "answer": "Soy"
+      },
+      {
+        "question": "What is the overall text orientation observed on the product's label?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the apparent font style of the ingredient details provided?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Describe the visual texture of the background behind the text on the label?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the predominant color of the text printed on this food label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the apparent color of the background surface of this product label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the general tone of the text style regarding allergen warnings?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Does the text utilize any noticeable capitalization conventions?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is the typeface used throughout the label consistent in terms of size?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the general structure of the label's information presentation?",
+        "answer": "List"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/da/da1316a8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the primary displayed information element?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What color is the text indicating the 'Supplement Facts' header?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the dominant color of the background on which the nutritional information is printed?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the text style of the 'Supplement Facts' header?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Considering the textual layout, what is the predominant orientation of the information presented?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the apparent surface texture of the paper or card on which the nutritional information is printed?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the color of the numerical data values within the table format?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the visual characteristic of the lines separating the rows of nutritional information?",
+        "answer": "Thin"
+      },
+      {
+        "question": "What is the primary method of organizing data regarding the nutritional content per serving?",
+        "answer": "Tabular"
+      },
+      {
+        "question": "What type of information is presented in the rightmost column of the nutrition facts?",
+        "answer": "Percentage"
+      },
+      {
+        "question": "Describe the visual appearance of the font used throughout the information panel.",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What units are primarily used to represent the 'Amount Per Serving' of carbohydrates and sugars?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the general visual clarity of the printed text?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the format used to represent vitamin C and riboflavin quantities?",
+        "answer": "Milligrams"
+      },
+      {
+        "question": "What is the visual attribute distinguishing footnotes from the main information?",
+        "answer": "Smaller"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/7c/7c5eaf35.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the presented nutritional information panel?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the predominant color scheme used for the text on the nutritional information?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the background color of the nutritional facts panel?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary font style employed throughout the nutritional information?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the text size for the 'Nutrition Facts' heading in relation to the rest of the information?",
+        "answer": "Larger"
+      },
+      {
+        "question": "What kind of textual organization is used to present the nutritional components?",
+        "answer": "tabular"
+      },
+      {
+        "question": "What are the units primarily used for measuring the quantity of nutrients?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the style of the lines separating the different data rows in the nutritional facts?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What type of data is provided alongside the nutrient quantities?",
+        "answer": "Percentages"
+      },
+      {
+        "question": "Is there any visual differentiation between the macronutrients and micronutrients in terms of font or color?",
+        "answer": "No"
+      },
+      {
+        "question": "Are there any bold-faced words or elements in the information presented?",
+        "answer": "Yes"
+      },
+      {
+        "question": "How many columns are present in the nutritional information table, not including the title column?",
+        "answer": "Two"
+      },
+      {
+        "question": "Is there a clear visual hierarchy within the panel's structure, from headings to details?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the visual alignment of the numbers and text within each data cell?",
+        "answer": "Right"
+      },
+      {
+        "question": "What is the overall style of the visual presentation: simple or complex?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

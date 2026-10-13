@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0e/0ea1ae31.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what is the primary color scheme employed in the nutrition facts label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the predominant typeface used to display the nutritional information?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the shape of the rectangular block containing the nutritional information?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the text arrangement, what is the orientation of the nutritional information?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the material that the nutrition facts label is printed on, judging by its appearance?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Observing the text, what unit is used to represent the serving size?",
+        "answer": "Cup"
+      },
+      {
+        "question": "What measurement unit is used to denote the quantity of total carbohydrate?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the numerical value listed for the total calories per serving?",
+        "answer": "45"
+      },
+      {
+        "question": "Based on the visual information, what is the amount of dietary fiber in grams per serving?",
+        "answer": "3"
+      },
+      {
+        "question": "What is the visual element used to highlight the percentage of daily values?",
+        "answer": "Percent"
+      },
+      {
+        "question": "What is the texture of the label, judging from the image’s resolution?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Looking at the presentation, what is the overall style of the label design?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the formatting style used for the numeric values of the nutrients?",
+        "answer": "Decimal"
+      },
+      {
+        "question": "What is the primary method used to present data on the label?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the visual style of the text, considering its weight and boldness?",
+        "answer": "Regular"
+      }
+    ]
+  }
+]

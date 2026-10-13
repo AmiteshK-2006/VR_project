@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f1/f11932cc.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the rice grains visible through the packaging?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the apparent shape of the individual rice grains shown?",
+        "answer": "Elongated"
+      },
+      {
+        "question": "What kind of packaging material appears to encase the rice?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describing the overall texture of the rice, is it visibly coarse or fine?",
+        "answer": "Fine"
+      },
+      {
+        "question": "Based on the image, what is the transparency level of the packaging material?",
+        "answer": "Translucent"
+      },
+      {
+        "question": "Considering the visual appearance, does the rice seem long-grain or short-grain?",
+        "answer": "Long"
+      },
+      {
+        "question": "What is the apparent state of the rice inside the packaging; is it loose or compacted?",
+        "answer": "Loose"
+      },
+      {
+        "question": "Does the packaging show any noticeable tears or damage that compromise its integrity?",
+        "answer": "No"
+      },
+      {
+        "question": "Is the packaging primarily sealed by a heat-sealed seam or other method?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Does the packaging feature any prominent text apart from the nutrition information?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging by its visual appearance, is this packaging resealable in a practical way?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging only by the image, what is the approximate weight of the rice shown, in kilograms?",
+        "answer": "1"
+      },
+      {
+        "question": "What type of seal is evident at the top of the rice package?",
+        "answer": "Heat"
+      },
+      {
+        "question": "What is the primary language used on the visible package labelling?",
+        "answer": "English"
+      },
+      {
+        "question": "Is there any visible branding or logo aside from the nutrition facts?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

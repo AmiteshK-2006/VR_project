@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ae/aeec2ceb.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the product's packaging?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What material appears to constitute the product's outer layer?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the overall shape of the product's container?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the packaging, what is the primary function indicated?",
+        "answer": "Packaging"
+      },
+      {
+        "question": "Is there a barcode present on the product's packaging?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the texture of the visible packaging surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What recycling message is prominently displayed on the packaging?",
+        "answer": "Recycle"
+      },
+      {
+        "question": "Does the packaging feature any noticeable text aside from the barcode?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the color of the secondary text present on the package?",
+        "answer": "Black"
+      },
+      {
+        "question": "Does the packaging use any additional printing techniques like gloss?",
+        "answer": "No"
+      },
+      {
+        "question": "Are there any significant graphic elements beyond text and barcode?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the material, what is the likely weight of this package?",
+        "answer": "Light"
+      },
+      {
+        "question": "Based on the visible seams, how many panels likely comprise the packaging?",
+        "answer": "Two"
+      },
+      {
+        "question": "Is there any visible damage or wear to the packaging shown?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the general orientation of the barcode on the package?",
+        "answer": "Horizontal"
+      }
+    ]
+  }
+]

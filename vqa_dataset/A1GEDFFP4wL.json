@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ae/aee0172a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the visible surface texture?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What natural material is convincingly mimicked in the image's appearance?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Considering the grain pattern, what type of wood is suggested by the visual texture?",
+        "answer": "Oak"
+      },
+      {
+        "question": "What is the overall visual impression of the surface's tactile quality?",
+        "answer": "Grained"
+      },
+      {
+        "question": "Describe the orientation of the most prominent wood grain lines in the image?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "How would you characterize the density of the visible wood grain pattern?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Are there any visible knots or imperfections in the simulated wood grain?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the general tone of the brown coloration displayed across the surface?",
+        "answer": "Warm"
+      },
+      {
+        "question": "Based on visual texture, how would you classify the surface finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the color variations, what is the range of brown shades present?",
+        "answer": "Light"
+      },
+      {
+        "question": "Describe the visual arrangement of the wood grain patterns across the image?",
+        "answer": "Random"
+      },
+      {
+        "question": "What is the visual effect produced by the subtle variations in wood grain tone?",
+        "answer": "Depth"
+      },
+      {
+        "question": "Describe the image's overall planar shape, ignoring any textural details.",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Does the image show evidence of any artificial coloring or staining?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the most prominent visual feature across the surface of the material?",
+        "answer": "Texture"
+      }
+    ]
+  }
+]

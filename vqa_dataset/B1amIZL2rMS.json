@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4b/4bd3febb.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the provided image?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering the visible weave, what is the primary textural quality of this fabric?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Based on the image's visual details, what material appears to constitute the fabric sample?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "Judging by the image, what is the general appearance of the fabric's surface texture?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the visual pattern or design exhibited on the fabric's surface?",
+        "answer": "Linear"
+      },
+      {
+        "question": "From the image alone, determine the apparent thickness or weight of the presented fabric?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the overall visual impression of the color saturation of the fabric shown?",
+        "answer": "Muted"
+      },
+      {
+        "question": "Considering the visual representation, how would you describe the fabric's sheen or luster?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the apparent directionality of the visible grain or weave in the fabric sample?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Based on visual characteristics, what is the fabric's likely application or use?",
+        "answer": "Upholstery"
+      },
+      {
+        "question": "Describe the visible uniformity or consistency of the color across the fabric sample.",
+        "answer": "Consistent"
+      },
+      {
+        "question": "What is the predominant visual tone conveyed by the color of this fabric sample?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "Based on the image, is the fabric's surface visibly textured or predominantly plain?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Does the fabric shown exhibit any discernible patterns beyond the basic weave structure?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the overall visual impression of the fabric's color depth or intensity.",
+        "answer": "Subdued"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c0/c0a77c25.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall design, what is the dominant shoe style apparent in the image?",
+        "answer": "Canvas"
+      },
+      {
+        "question": "What is the primary color of the upper fabric portion of the shoe?",
+        "answer": "Grey"
+      },
+      {
+        "question": "Describe the texture of the material used for the shoe's upper part, based on visual observation?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What kind of closure mechanism does this shoe model utilize for adjusting the fit?",
+        "answer": "Lace"
+      },
+      {
+        "question": "What is the apparent color of the laces shown on this particular shoe?",
+        "answer": "Black"
+      },
+      {
+        "question": "From the image, what appears to be the material of the sole of this shoe?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Judging by the image, what is the general shape of the shoe's toe area?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Based on visual observation alone, what is the overall height of the shoe's sole?",
+        "answer": "Low"
+      },
+      {
+        "question": "What is the apparent pattern present in the shoe's fabric upper, visible in the image?",
+        "answer": "Heathered"
+      },
+      {
+        "question": "Observing the stitching details, what can be said about the quality of its construction?",
+        "answer": "Neat"
+      },
+      {
+        "question": "Based solely on visual assessment, describe the overall aesthetic of the shoe's design.",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Describe the finish of the shoe's sole, based on what is visible in the picture.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the visible material composition of the eyelets present on the shoe?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Describe the type of fabric that appears to be used in the main body of the shoe.",
+        "answer": "Knit"
+      },
+      {
+        "question": "Considering the design elements, does this shoe seem to be more suitable for casual or formal occasions?",
+        "answer": "Casual"
+      }
+    ]
+  }
+]

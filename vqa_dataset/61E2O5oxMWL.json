@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1e/1e0daeb1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the depicted wardrobe panel?",
+        "answer": "White"
+      },
+      {
+        "question": "What appears to be the dominant material of this vertical panel?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Considering its form, what is the overall shape of this item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "How many visible evenly-spaced holes are present on the panel's surface?",
+        "answer": "Four"
+      },
+      {
+        "question": "Based on the image, what seems to be the panel's intended orientation?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Judging by the image, what is the approximate length of this component?",
+        "answer": "170"
+      },
+      {
+        "question": "Observing the edges, what is the apparent thickness of the wardrobe panel?",
+        "answer": "3"
+      },
+      {
+        "question": "Does the panel's surface exhibit a noticeably textured or smooth finish?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the implied functionality of the regularly spaced perforations?",
+        "answer": "Attachment"
+      },
+      {
+        "question": "Does the panel's profile suggest it is meant for indoor or outdoor use?",
+        "answer": "Indoor"
+      },
+      {
+        "question": "Considering the design, for what type of furniture is this panel intended?",
+        "answer": "Wardrobe"
+      },
+      {
+        "question": "Based on its design, would you describe the panel as simple or ornate?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the overall visual impression projected by the panel's design?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What unit of measurement is used for the dimensions provided in the image?",
+        "answer": "Centimeters"
+      },
+      {
+        "question": "Considering its appearance, does the panel exhibit any visible patterns or branding?",
+        "answer": "None"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/73/736e7a3d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's overall visual presentation, what is the dominant color scheme of this product's ingredient label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Observing the text's arrangement, what is the primary typeface used for the list of ingredients?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Focusing on the text's visual structure, what is the most noticeable text size within the ingredient label?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Analyzing the visual structure of the text, what is the format used to present the list of product ingredients?",
+        "answer": "List"
+      },
+      {
+        "question": "Based on a visual inspection, what is the appearance of the text's spacing between each ingredient line within the label?",
+        "answer": "Even"
+      },
+      {
+        "question": "From the appearance of the text's format, describe the overall visual style of the ingredient labeling?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Based solely on the text's visual characteristics, can you describe the texture of the label's printing?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "By analyzing the visual contrast, what is the visual relationship between the text and the label's background?",
+        "answer": "High"
+      },
+      {
+        "question": "Judging by the visual clarity, what is the overall legibility of the text shown in this image?",
+        "answer": "High"
+      },
+      {
+        "question": "Considering the visual layout, what is the apparent orientation of the ingredient list on the label?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Judging from the visual prominence, what is the visual weight of the words 'Other Ingredients' in relation to the rest?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "Considering the visual spacing and formatting, how is the main ingredient list visually separated from the allergy warning?",
+        "answer": "Space"
+      },
+      {
+        "question": "Based on a purely visual inspection of the text's appearance, what is the apparent condition of the label's printing?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Judging by the visual style of the font, how would you describe the overall tone conveyed by the labeling?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "Examining the visual attributes of the text, what is the visual characteristic of the capitalization used throughout?",
+        "answer": "Sentence"
+      }
+    ]
+  }
+]

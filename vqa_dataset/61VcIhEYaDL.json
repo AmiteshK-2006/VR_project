@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/16/1673da9f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the granular substance shown in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the image, what is the overall texture of the substance displayed?",
+        "answer": "Granular"
+      },
+      {
+        "question": "Based on visual assessment, what is the apparent consistency of the material?",
+        "answer": "Solid"
+      },
+      {
+        "question": "What is the general shape of the pile of material as depicted in the provided image?",
+        "answer": "Mound"
+      },
+      {
+        "question": "Judging solely from the picture, what does the surface of the material appear to be?",
+        "answer": "Crystalline"
+      },
+      {
+        "question": "Does the material in the image seem to exhibit any significant color variations?",
+        "answer": "No"
+      },
+      {
+        "question": "From the image, does the material appear to be composed of individual particles?",
+        "answer": "Yes"
+      },
+      {
+        "question": "In the provided image, is there a noticeable sheen or gloss to the substance?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the approximate size range of the visible individual particles in the pile?",
+        "answer": "Small"
+      },
+      {
+        "question": "Describe the homogeneity of the material's color and texture in the presented image.",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What is the visual impression of the overall volume of the material presented?",
+        "answer": "Small"
+      },
+      {
+        "question": "Based solely on the visual, is the material translucent, opaque, or transparent?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Considering the visual elements, does the material appear naturally occurring or processed?",
+        "answer": "Processed"
+      },
+      {
+        "question": "From a visual perspective, is the material visibly wet or dry?",
+        "answer": "Dry"
+      },
+      {
+        "question": "Does the displayed substance appear to be clumped together or freely flowing?",
+        "answer": "Free-flowing"
+      }
+    ]
+  }
+]

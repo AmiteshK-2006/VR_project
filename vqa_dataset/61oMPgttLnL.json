@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/92/92d88d62.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual presentation, what is the dominant color scheme of the product's label?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Based on the visible text, what primary ingredient is used in the manufacture of this product?",
+        "answer": "Water"
+      },
+      {
+        "question": "As indicated by the label's textual content, what specific type of water is utilized in this product?",
+        "answer": "Mineral"
+      },
+      {
+        "question": "What adjective best describes the state of the water as presented on the label?",
+        "answer": "Carbonated"
+      },
+      {
+        "question": "According to the label's description, what type of flavor has been added to this product?",
+        "answer": "Strawberry"
+      },
+      {
+        "question": "What descriptor preceding the flavor type suggests the source of flavoring?",
+        "answer": "Natural"
+      },
+      {
+        "question": "What term on the label signifies that the flavoring doesn't use artificial ingredients?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Considering the style of text on the label, what is the overall design approach?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the type of information presented on the label, as visually apparent?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the general orientation of the textual content on the product label?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "In terms of visual density, how much space does the text occupy on the label?",
+        "answer": "Moderate"
+      },
+      {
+        "question": "Observing the font's characteristics, what is its general weight?",
+        "answer": "Regular"
+      },
+      {
+        "question": "What is the case (uppercase or lowercase) of the most prominent text segment?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Judging from the label, what is the likely format of the product information?",
+        "answer": "List"
+      },
+      {
+        "question": "What word precedes the itemized list of components on the label?",
+        "answer": "Ingredients"
+      }
+    ]
+  }
+]

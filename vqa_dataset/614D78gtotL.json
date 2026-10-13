@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d6/d627180d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular layout, what is the dominant visual element conveying essential product information?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the descriptive term, prominently displayed at the top, that classifies the provided data?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Focusing on the numerical values, what is the total caloric count per serving, presented in bold typeface?",
+        "answer": "60"
+      },
+      {
+        "question": "What is the primary unit of measurement used for quantifying fat and cholesterol content within the nutritional information?",
+        "answer": "Grams"
+      },
+      {
+        "question": "In reference to the serving size description, what is the specified number of slices per serving?",
+        "answer": "Five"
+      },
+      {
+        "question": "What is the weight, in grams, as defined for a single serving of this product?",
+        "answer": "55"
+      },
+      {
+        "question": "Observing the listed macronutrients, what is the quantitative value corresponding to the total fat content per serving?",
+        "answer": "1.5"
+      },
+      {
+        "question": "According to the provided table, what is the measured amount of cholesterol present in milligrams per serving?",
+        "answer": "20"
+      },
+      {
+        "question": "What is the total amount of protein, in grams, present per serving based on the given data?",
+        "answer": "10"
+      },
+      {
+        "question": "Regarding the sodium content of this product, what is its measurement in milligrams per serving?",
+        "answer": "420"
+      },
+      {
+        "question": "What is the measurement unit used for expressing the amount of carbohydrates?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Referring to the information on sugars, what is the value specified for added sugars?",
+        "answer": "0"
+      },
+      {
+        "question": "What is the format of the data presentation in this image, such as a chart, table, or list?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the type of font used for the majority of text in the information?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the color of the text used in this nutritional information?",
+        "answer": "Black"
+      }
+    ]
+  }
+]

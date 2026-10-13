@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2b/2b5523be.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the provided image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visual texture, what is the most apparent weave type of this fabric?",
+        "answer": "Linen"
+      },
+      {
+        "question": "Based solely on the image, what is the overall visual appearance of the fabric's surface?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Judging from the image, does the fabric appear to have a noticeable sheen or gloss?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the most apparent surface characteristic of the presented material, considering the image only?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Does the image reveal any discernible patterns or motifs within the fabric's structure?",
+        "answer": "None"
+      },
+      {
+        "question": "If one were to describe the fabric's visual density, what term best applies based on the picture?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Considering the image, is the fabric's color uniform throughout the visible area?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on visual assessment of the image, what is the primary visual characteristic of the fabric?",
+        "answer": "Plain"
+      },
+      {
+        "question": "From the image provided, what word describes the fabric's apparent weight or substance?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "Judging from the image, is the displayed fabric's surface rough or smooth to the touch?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What would best describe the overall aesthetic impression of the fabric's visual texture?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "Considering the image, what is the general visual tone of the fabric color?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "Based on the image, what single word best describes the fabric's visual consistency?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Does the image suggest that the fabric has any visible imperfections or irregularities?",
+        "answer": "No"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e3/e361af70.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the main body of the container, as observed in the provided image?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the overall shape of the container, what geometric term best describes it?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Based on visual inspection, what material appears to constitute the primary body of the container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What color is the cap or lid situated at the top of the container, as visually apparent?",
+        "answer": "Black"
+      },
+      {
+        "question": "Describe the texture of the container's surface based solely on the image's visual cues.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the shape of the container's cap, if discernible from the image?",
+        "answer": "Round"
+      },
+      {
+        "question": "What appears to be the primary function of this container, inferred from its design and shape?",
+        "answer": "Storage"
+      },
+      {
+        "question": "What is the color of the rectangular label affixed to the side of the container?",
+        "answer": "Teal"
+      },
+      {
+        "question": "Is there any noticeable text or graphic present on the side of the container?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the image suggest the container is transparent or opaque in nature?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What type of finish does the surface of the container seem to exhibit (e.g., glossy, matte)?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging from the image, what appears to be the approximate size or volume of the container?",
+        "answer": "Large"
+      },
+      {
+        "question": "Does the container appear to have any additional features beyond the cap and label?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the visible condition of the container—is it new, used, or damaged?",
+        "answer": "New"
+      },
+      {
+        "question": "Based on the image alone, can the material of the container's cap be definitively identified?",
+        "answer": "No"
+      }
+    ]
+  }
+]

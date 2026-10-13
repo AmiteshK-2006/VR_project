@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/16/1672b65b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the product's packaging?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What is the apparent material of the primary product inside the box?",
+        "answer": "Aluminum"
+      },
+      {
+        "question": "What is the overall shape of the product contained within the box?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the texture of the visible portion of the product?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the general color of the product itself, excluding the packaging?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the product's shape, what is its most likely function?",
+        "answer": "Wrapping"
+      },
+      {
+        "question": "What seems to be the material of the outer box?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Is the surface of the product reflective or matte?",
+        "answer": "Reflective"
+      },
+      {
+        "question": "What appears to be the primary purpose of the object in the image?",
+        "answer": "Food"
+      },
+      {
+        "question": "Describe the design of the box's opening mechanism?",
+        "answer": "Folding"
+      },
+      {
+        "question": "What is the general condition of the product within the box?",
+        "answer": "Rolled"
+      },
+      {
+        "question": "What is the predominant tone of the product's reflective surface?",
+        "answer": "Silver"
+      },
+      {
+        "question": "Does the product packaging appear sturdy or flimsy?",
+        "answer": "Sturdy"
+      },
+      {
+        "question": "What is the printing style on the packaging of the product?",
+        "answer": "Text"
+      },
+      {
+        "question": "Based on its appearance, what is the product's likely thickness?",
+        "answer": "Thin"
+      }
+    ]
+  }
+]

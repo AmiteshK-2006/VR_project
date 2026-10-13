@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/11/11ef81b8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the background on which the ingredients are listed?",
+        "answer": "Green"
+      },
+      {
+        "question": "Considering the text's appearance, what is the most likely font style used for the ingredient list?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Describing the overall visual texture, how would you characterize the appearance of the label?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent orientation of the text on the presented food label?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Based on the visual contrast, what color is the text of the ingredient list?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary subject depicted in the provided image?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the overall shape of the presented product label area?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the image's focus, how would you best describe the visual style of the label?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Given the text's presentation, which language is most likely utilized on the label?",
+        "answer": "English"
+      },
+      {
+        "question": "In terms of size and arrangement, how is the text on the product label presented?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Considering the content, what type of food product does this label likely belong to?",
+        "answer": "Dairy"
+      },
+      {
+        "question": "Based solely on visual cues, what is the overall condition of the label?",
+        "answer": "Intact"
+      },
+      {
+        "question": "From a visual perspective, what is the apparent clarity of the text displayed?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Considering the typography, what is the apparent overall readability of the text?",
+        "answer": "High"
+      },
+      {
+        "question": "Regarding the context provided, what aspect of the food product is prominently displayed?",
+        "answer": "Composition"
+      }
+    ]
+  }
+]

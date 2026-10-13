@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/58/58aa572a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall text displayed, what is the primary ingredient conspicuously mentioned?",
+        "answer": "Milk"
+      },
+      {
+        "question": "Focusing on the textual information provided, what specific type of milk is indicated?",
+        "answer": "Fat-free"
+      },
+      {
+        "question": "Based on the text, which vitamin is explicitly listed as an additive in the product?",
+        "answer": "Vitamin"
+      },
+      {
+        "question": "Examining the text, which other vitamin, besides A palmitate, is named as an ingredient?",
+        "answer": "D3"
+      },
+      {
+        "question": "What company's name is clearly printed as the distributor of this product?",
+        "answer": "Amazon"
+      },
+      {
+        "question": "According to the text, what city is the distributor of this product located in?",
+        "answer": "Seattle"
+      },
+      {
+        "question": "What state's postal code is displayed as part of the distributor's address?",
+        "answer": "WA"
+      },
+      {
+        "question": "What is the stated treatment status of the cows from which the milk is sourced?",
+        "answer": "Untreated"
+      },
+      {
+        "question": "According to the label, is there any significant difference between milk from treated and untreated cows?",
+        "answer": "No"
+      },
+      {
+        "question": "In the provided text, what does the abbreviation 'RBST' seem to refer to?",
+        "answer": "Treatment"
+      },
+      {
+        "question": "What is the font style used in this product's label description?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the case of the letters in the textual information presented on this image?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "What is the general color of the text visible on the product label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Is the text orientation on the product label presented horizontally or vertically?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Judging from the visible text, is this label mainly descriptive or instructional in nature?",
+        "answer": "Descriptive"
+      }
+    ]
+  }
+]

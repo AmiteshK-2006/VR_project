@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5d/5d7f30f5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed material sample?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent material type?",
+        "answer": "Leatherette"
+      },
+      {
+        "question": "Based on the image, what is the overall surface finish of the material?",
+        "answer": "Grained"
+      },
+      {
+        "question": "Describe the visual pattern of the material's surface texture?",
+        "answer": "Linear"
+      },
+      {
+        "question": "What kind of visual effect is produced by the material's surface?",
+        "answer": "Embossed"
+      },
+      {
+        "question": "Judging by the appearance, is the material shiny or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What would you describe as the primary tone of the brown color?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Does the material show significant variations in color intensity?",
+        "answer": "No"
+      },
+      {
+        "question": "How would you characterize the visual depth of the surface texture?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "Describe the general uniformity of the material's visual pattern?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Does the material exhibit any noticeable surface imperfections?",
+        "answer": "No"
+      },
+      {
+        "question": "Is the material’s texture smooth or rough to the touch (visually inferred)?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What kind of visual impression does the overall texture provide?",
+        "answer": "Natural"
+      },
+      {
+        "question": "Considering the visual appearance, is the material likely synthetic or natural?",
+        "answer": "Synthetic"
+      },
+      {
+        "question": "What is the primary visual characteristic of the material's surface?",
+        "answer": "Texture"
+      }
+    ]
+  }
+]

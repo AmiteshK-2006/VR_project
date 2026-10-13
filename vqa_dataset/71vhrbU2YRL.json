@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/90/90491276.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the bottle's body, as shown in the provided image?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the image, what appears to be the material of the bottle's container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on the visual inspection of the product image, what is the overall shape of the bottle?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Observing the image, what color is the bottle cap, specifically?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the type of label seen on the bottle in the provided image?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the overall texture of the bottle's visible surface, judging from the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the format of the text on the bottle, specifically the ingredient listing?",
+        "answer": "Columnar"
+      },
+      {
+        "question": "What brand's logo is visible on the product, judging by the image provided?",
+        "answer": "Wholefoods"
+      },
+      {
+        "question": "Judging from the image, what is the primary format of the information displayed on the bottle?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the main design element noticeable on the bottle's side based on the image?",
+        "answer": "Label"
+      },
+      {
+        "question": "Is there a visible barcode on the product, confirming your observation from the image?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What type of closure does the bottle use, as seen in the image?",
+        "answer": "Screw"
+      },
+      {
+        "question": "Describe the visibility and sharpness of the text on the product label in the image.",
+        "answer": "Clear"
+      },
+      {
+        "question": "Based on the image, what type of container is the product packaged in?",
+        "answer": "Bottle"
+      },
+      {
+        "question": "What's the apparent size of the print on the product's label, according to the visual data?",
+        "answer": "Small"
+      }
+    ]
+  }
+]

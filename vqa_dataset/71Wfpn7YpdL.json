@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/cd/cd25fbb0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the packaging, as observed in the provided image?",
+        "answer": "Red"
+      },
+      {
+        "question": "Considering the image, what type of meat product is indicated on the packaging?",
+        "answer": "Sausage"
+      },
+      {
+        "question": "Based on the visual data, what specific type of sausage is this product identified as?",
+        "answer": "Pork"
+      },
+      {
+        "question": "Describe the overall shape of the product's packaging, apparent in the image.",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the text describing the nature of the pork product presented on the packaging?",
+        "answer": "Classic"
+      },
+      {
+        "question": "What brand's logo is displayed on the lower portion of the package, as shown in the image?",
+        "answer": "365"
+      },
+      {
+        "question": "Describe the texture of the packaging material, as seen in the provided image.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent material of the packaging, as shown in the visual data provided?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the orientation of the text 'Classic Pork' relative to the rest of the text?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the dominant visual style of the text displayed on the product's packaging?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What color are the smaller rectangular elements within the 365 logo?",
+        "answer": "Multicolored"
+      },
+      {
+        "question": "Describe the placement of the '365' logo in relation to the primary text.",
+        "answer": "Below"
+      },
+      {
+        "question": "What kind of print is utilized for the text 'Breakfast Sausage' on the packaging?",
+        "answer": "White"
+      },
+      {
+        "question": "Besides the brand name and product description, is there other text visually apparent?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the packaging show any additional graphics beyond text and the brand logo?",
+        "answer": "No"
+      }
+    ]
+  }
+]

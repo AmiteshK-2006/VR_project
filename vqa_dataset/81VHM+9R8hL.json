@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/dc/dcdbaa3b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the depicted coffee bag, considering its dimensions and the configuration of its seams and folds?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What primary color dominates the bag's surface, forming the base for other design elements?",
+        "answer": "Silver"
+      },
+      {
+        "question": "Describe the material of the bag, noting its apparent texture and level of sheen from the image.",
+        "answer": "Foil"
+      },
+      {
+        "question": "What is the dominant color of the central graphic design on the coffee bag, encompassing a significant portion of the front panel?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the texture of the green graphic design, observing its visual appearance \u2013 is it smooth or does it contain noticeable variations?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What is the style of the text on the bag, noting its font, size, and arrangement relative to other design elements?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the main message conveyed by the text on the bag, focusing on its most prominent and easily readable phrase?",
+        "answer": "Personal"
+      },
+      {
+        "question": "Considering the bag's construction, what seems to be the primary mechanism employed for sealing and closing the bag's opening?",
+        "answer": "Fold"
+      },
+      {
+        "question": "Describe the layout of the text blocks on the bag, whether they're arranged vertically, horizontally, or in some other configuration.",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What secondary color is present in the graphic design, creating contrast against the primary green color?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall visual impression of the bag, taking into account its color palette, design elements, and material?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What design element separates the central graphic design from the text blocks that appear lower on the bag?",
+        "answer": "Lines"
+      },
+      {
+        "question": "What color is subtly present in the side panel of the bag, alongside the main silver color?",
+        "answer": "Green"
+      },
+      {
+        "question": "Judging from its visual characteristics, what does the bag seem to contain, considering the text, shape and overall impression?",
+        "answer": "Coffee"
+      },
+      {
+        "question": "What is the apparent condition of the bag, suggesting whether it is new or shows signs of wear or use?",
+        "answer": "New"
+      }
+    ]
+  }
+]

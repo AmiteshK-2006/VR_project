@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c3/c3165bbc.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the food container shown in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "What primary geometric shape best describes the overall form of this container?",
+        "answer": "Square"
+      },
+      {
+        "question": "Judging from the image, what material appears to constitute the container?",
+        "answer": "Bagasse"
+      },
+      {
+        "question": "Considering the visible texture, how would you characterize the container's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the container exhibit any noticeable patterns or designs on its exterior?",
+        "answer": "Ribbed"
+      },
+      {
+        "question": "Based on its visual characteristics, what is the most likely intended use of this item?",
+        "answer": "Food"
+      },
+      {
+        "question": "Focusing on the top surface, what shape is the central, raised portion of the container?",
+        "answer": "Square"
+      },
+      {
+        "question": "Observing the container's base, what is the shape of the outermost area?",
+        "answer": "Square"
+      },
+      {
+        "question": "Does the image indicate if the container features a lid or closure mechanism?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image, is the container translucent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "In the provided image, does the container seem to show any significant markings or text?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent overall condition of the container shown in the image?",
+        "answer": "New"
+      },
+      {
+        "question": "Looking closely at the edges and corners, how would you describe their sharpness or roundness?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What is the visible depth or height of this container relative to its width?",
+        "answer": "Shallow"
+      },
+      {
+        "question": "Based on the visual impression, is the container designed for single-use or multiple uses?",
+        "answer": "Single"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/18/18af71c9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary textual element displayed prominently on the rectangular label?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What specific chemical compound is explicitly listed as the ingredient?",
+        "answer": "Sodium"
+      },
+      {
+        "question": "What is the complete chemical name of the ingredient declared on the label?",
+        "answer": "Bicarbonate"
+      },
+      {
+        "question": "What is the overall shape of the label containing the product information?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What color is the background of the label upon which the text is printed?",
+        "answer": "White"
+      },
+      {
+        "question": "What color is the font used to print the product ingredient information?",
+        "answer": "Black"
+      },
+      {
+        "question": "Describe the font style used for the words 'INGREDIENTS:' on the label.",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Describe the texture apparent on the surface of the label in the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent finish or coating of the labeling material?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What kind of material does the label appear to be made of, based on its visual appearance?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Considering the font style and its visual presentation, what is the overall design style?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Does the label display any additional graphics or images beyond the text?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the orientation of the text on the rectangular product label?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the visual appearance of the text in terms of its clarity and legibility?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the relative size of the text in comparison to the overall dimensions of the label?",
+        "answer": "Large"
+      }
+    ]
+  }
+]

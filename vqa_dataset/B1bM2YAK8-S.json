@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ae/aec26506.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the fabric shown in the image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visible weave, what is the likely texture of this fabric?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Based on the image's appearance, what is the general type of fabric depicted?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Judging by the image, what seems to be the main composition of this fabric?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Does the fabric's surface appear smooth or rough to the touch, according to the image?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What is the most apparent visual characteristic regarding the fabric's weave?",
+        "answer": "Tight"
+      },
+      {
+        "question": "Describe the overall visual appearance of the fiber arrangement within the fabric.",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Can you describe the visual consistency of the color across the whole fabric sample?",
+        "answer": "Even"
+      },
+      {
+        "question": "Does the image suggest any distinct patterns within the visible weave structure?",
+        "answer": "None"
+      },
+      {
+        "question": "Based on what's visible, what is the dominant visual effect of the fabric's texture?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What type of finish does the fabric in the image appear to have based purely on visual observation?",
+        "answer": "Plain"
+      },
+      {
+        "question": "In terms of visual weight, how would you describe the fabric's overall appearance?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "Judging by the image only, what is the apparent density of the fabric's weave?",
+        "answer": "High"
+      },
+      {
+        "question": "Does the fabric sample present any sheen or gloss in the image?",
+        "answer": "No"
+      },
+      {
+        "question": "Based solely on the provided image, how would you classify the overall visual style of the fabric?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

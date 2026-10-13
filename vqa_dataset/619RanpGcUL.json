@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/84/84bfb765.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the predominant three-dimensional shape of the item depicted?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the most apparent color covering the majority of the item's surface?",
+        "answer": "Aqua"
+      },
+      {
+        "question": "Disregarding any text, what is the most visible printed feature on the item's surface?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "Observing the ends, what color is the visible edge of the item?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based solely on visual assessment, what appears to be the item's primary manufacturing material?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the finish, how would you describe the visual texture of the main surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the object's visible features, what seems to be the object's main function or use?",
+        "answer": "Packaging"
+      },
+      {
+        "question": "What is the apparent overall style of the design, considering visual elements?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Focusing on the barcode's appearance, what is its defining orientation on the object?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "From a visual standpoint, what is the apparent level of shine or gloss on the item?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Analyzing the item's surface, how many distinct colors are clearly and visually present?",
+        "answer": "Two"
+      },
+      {
+        "question": "Considering the edges, what seems to be their dominant profile in terms of sharpness or rounding?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What is the visible level of detail in the design of the item on its surface?",
+        "answer": "Low"
+      },
+      {
+        "question": "Ignoring all markings, what could you describe the object's overall surface uniformity?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Based solely on visuals, is the item's surface entirely flat or does it have any raised or indented features?",
+        "answer": "Flat"
+      }
+    ]
+  }
+]

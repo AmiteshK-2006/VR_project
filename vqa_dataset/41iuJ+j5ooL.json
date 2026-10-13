@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c1/c1cc152c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's visual presentation, what is the overall typeface style employed for the product information?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the image, what is the dominant color of the text providing the product ingredients and production details?",
+        "answer": "Black"
+      },
+      {
+        "question": "Observing the image carefully, what appears to be the background color of the label section shown?",
+        "answer": "White"
+      },
+      {
+        "question": "From the visual appearance, what is the apparent orientation of the text, is it horizontal or vertical?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Judging from the image, what is the predominant size of the text relative to the image's frame?",
+        "answer": "Small"
+      },
+      {
+        "question": "What specific type of information is prominently displayed in the upper part of the visible label?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "According to the image, what is one of the listed ingredients present in the product?",
+        "answer": "Glycerin"
+      },
+      {
+        "question": "What natural oil is indicated as an ingredient, based on the visible portion of the label?",
+        "answer": "Peppermint"
+      },
+      {
+        "question": "The text mentions a production process; what type of facility is mentioned in relation to this process?",
+        "answer": "Facility"
+      },
+      {
+        "question": "What type of nut is specifically named as being processed in the facility where this product is made?",
+        "answer": "Tree"
+      },
+      {
+        "question": "Based on the label, what other food group besides nuts is also processed in the same facility?",
+        "answer": "Shellfish"
+      },
+      {
+        "question": "What is the other major food item named, in addition to nuts and shellfish, that the facility processes?",
+        "answer": "Soy"
+      },
+      {
+        "question": "What is the visual condition of the text, is it clear or blurred?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Is the text's style consistently uniform or does it show variation in size or style?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Does the image contain any illustrations or symbols aside from the text?",
+        "answer": "No"
+      }
+    ]
+  }
+]

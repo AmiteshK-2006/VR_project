@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2a/2ac88e3c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the candy on the left?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the dominant color of the candy on the right?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What is the overall shape of each individual candy?",
+        "answer": "Dome"
+      },
+      {
+        "question": "What appears to be the texture of the candy's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent consistency or state of the candy?",
+        "answer": "Gelatinous"
+      },
+      {
+        "question": "Considering the translucence, what can be inferred about the candy?",
+        "answer": "See-through"
+      },
+      {
+        "question": "How many candies are shown in the provided image?",
+        "answer": "Two"
+      },
+      {
+        "question": "Are there any visible markings or patterns on the candies?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the colors, what is a likely flavor profile?",
+        "answer": "Fruity"
+      },
+      {
+        "question": "What kind of product is depicted based on its appearance?",
+        "answer": "Candy"
+      },
+      {
+        "question": "Describe the level of glossiness on the candies' surface.",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What might be the overall size relative to a human hand?",
+        "answer": "Small"
+      },
+      {
+        "question": "Based on the image, what is the likely type of candy?",
+        "answer": "Gummy"
+      },
+      {
+        "question": "Does the image show any wrappers or packaging?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the image, what is the candy's approximate form?",
+        "answer": "Solid"
+      }
+    ]
+  }
+]

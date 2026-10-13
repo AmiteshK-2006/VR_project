@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ce/ce98f9ab.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation and layout, what is the dominant textual feature depicted in the provided image?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the specific type of food information presented in the primary section of the image?",
+        "answer": "Facts"
+      },
+      {
+        "question": "What is the numerical value corresponding to the total amount of calories per serving as explicitly stated?",
+        "answer": "90"
+      },
+      {
+        "question": "Based on the textual details, what is the serving size specified for this particular food product?",
+        "answer": "Slices"
+      },
+      {
+        "question": "According to the nutritional information, what is the total amount of fat in grams per serving?",
+        "answer": "3g"
+      },
+      {
+        "question": "What is the total amount of sodium, in milligrams, according to the nutritional information?",
+        "answer": "270mg"
+      },
+      {
+        "question": "What is the amount of saturated fat, in grams, that constitutes this nutritional data?",
+        "answer": "2.5g"
+      },
+      {
+        "question": "In the provided image, what unit of measurement is consistently used for indicating the amount of various nutrients?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the amount of carbohydrates, in grams, present according to the provided data?",
+        "answer": "1g"
+      },
+      {
+        "question": "What is the specified amount of protein, in grams, contained in a single serving?",
+        "answer": "4g"
+      },
+      {
+        "question": "What is the style of the text font, in terms of its visual characteristics, used throughout the nutritional details?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the predominant color of the text, as it appears within the provided image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the general shape of the nutritional information panel as a whole, excluding its inner details?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the general background color of the nutritional information panel?",
+        "answer": "White"
+      },
+      {
+        "question": "What type of nutritional information is this panel providing?",
+        "answer": "Facts"
+      }
+    ]
+  }
+]

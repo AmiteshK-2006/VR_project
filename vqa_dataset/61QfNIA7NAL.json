@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a6/a604fdc1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the prominent text's layout and overall presentation, what is the primary function of this item?",
+        "answer": "Label"
+      },
+      {
+        "question": "Based on the extensive list of ingredients, what is the overall nature of the product this label describes?",
+        "answer": "Food"
+      },
+      {
+        "question": "Considering the detailed breakdown of the confectionery components, what is the overarching type of the product?",
+        "answer": "Candy"
+      },
+      {
+        "question": "Focusing on the explicit declaration of potential allergens, what is a key ingredient present in this product?",
+        "answer": "Peanuts"
+      },
+      {
+        "question": "Given the extensive list of ingredients and additives, what is another key allergen present?",
+        "answer": "Milk"
+      },
+      {
+        "question": "Observing the distinct sections within the text, what is a specific ingredient indicated as being present in less than 1%?",
+        "answer": "Corn"
+      },
+      {
+        "question": "Examining the numerous color additives mentioned, what is one such coloring agent listed?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Noticing the variety of nuts specified, what is another type of nut besides peanuts explicitly mentioned?",
+        "answer": "Almonds"
+      },
+      {
+        "question": "Considering the list of ingredients used in the main candy component, what is the primary sweetener used?",
+        "answer": "Sugar"
+      },
+      {
+        "question": "Focusing on the components used to give texture, what is a specific type of wax listed?",
+        "answer": "Carnauba"
+      },
+      {
+        "question": "Considering the numerous ingredients, what type of oil is used?",
+        "answer": "Vegetable"
+      },
+      {
+        "question": "Observing the detailed ingredient list, what type of fruit is added to the mix?",
+        "answer": "Raisins"
+      },
+      {
+        "question": "Based on the ingredients indicated, what is another type of nut contained in the product?",
+        "answer": "Cashews"
+      },
+      {
+        "question": "Considering the listed additives, what is a type of gum used in the product?",
+        "answer": "Acacia"
+      },
+      {
+        "question": "Looking at the allergen warning section, what is another allergen present besides peanuts and milk?",
+        "answer": "Soy"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f1/f151e311.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant design pattern on the outsole of this shoe, visually apparent in the provided image?",
+        "answer": "Hexagonal"
+      },
+      {
+        "question": "Considering the image, what appears to be the primary color of the shoe's outer sole?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the visual evidence, what material seems to constitute the majority of the shoe's outsole?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Judging by the provided image, what is the overall shape of the presented shoe's sole?",
+        "answer": "Curved"
+      },
+      {
+        "question": "From the image, what texture is most prominent on the visible portion of the shoe's outsole?",
+        "answer": "Patterned"
+      },
+      {
+        "question": "What is the color of the visible upper portion of the shoe, as shown in the provided image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the image, what is the apparent design of the textured pattern on the outer sole of the shoe?",
+        "answer": "Geometric"
+      },
+      {
+        "question": "Does the provided image show a shoe with a noticeably thick or thin outsole?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Considering only the visual details, what might be the intended use of this shoe, based on its outsole design?",
+        "answer": "Running"
+      },
+      {
+        "question": "Based on the image, is there any visible branding or logo on the sole of the shoe?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the general style of the outsole pattern depicted on the presented shoe, as seen in the image?",
+        "answer": "Repetitive"
+      },
+      {
+        "question": "According to the image, is the outsole's pattern uniform or does it vary across the sole\u2019s surface?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "From the image, is the outsole flat or does it have a noticeable degree of concavity or convexity?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Based purely on the image, does the outsole's design seem to offer good grip or poor grip on various surfaces?",
+        "answer": "Good"
+      },
+      {
+        "question": "Judging from the visual details, what is the apparent depth of the grooves within the outsole's design?",
+        "answer": "Shallow"
+      }
+    ]
+  }
+]

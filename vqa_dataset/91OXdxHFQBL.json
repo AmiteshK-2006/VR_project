@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/7f/7fad2eb0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the primary function of this rectangular item, clearly indicated by its textual content and structured layout?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the predominant color used for the title 'Nutrition Facts' prominently displayed at the top of this product?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the visual information, what is the stated serving size in grams for this particular food item?",
+        "answer": "43g"
+      },
+      {
+        "question": "Observing the quantitative data presented, what is the total number of servings contained within this food product?",
+        "answer": "16"
+      },
+      {
+        "question": "According to the visual details provided, what is the total amount of calories per serving?",
+        "answer": "110"
+      },
+      {
+        "question": "From the data displayed, what is the amount of total carbohydrates per serving, in grams, denoted in this nutrition facts label?",
+        "answer": "21g"
+      },
+      {
+        "question": "What is the quantitative value provided for total sugars, in grams per serving?",
+        "answer": "3g"
+      },
+      {
+        "question": "According to the label's visual display, what is the amount of protein found in one serving, in grams?",
+        "answer": "4g"
+      },
+      {
+        "question": "In the presented visual data, what is the amount of sodium per serving, expressed in milligrams?",
+        "answer": "200mg"
+      },
+      {
+        "question": "Observing the label closely, what is the amount of dietary fiber per serving expressed in grams?",
+        "answer": "1g"
+      },
+      {
+        "question": "What is the visual texture of the nutrition label itself?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall shape of this informative product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging from the visual characteristics, what is the main material composing the nutrition label?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the font style of the text displayed in this nutrition fact label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the visual information, what is the color scheme predominantly used for the quantitative values?",
+        "answer": "Black"
+      }
+    ]
+  }
+]

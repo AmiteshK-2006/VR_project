@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a3/a3539a47.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout and organization, what is the primary function of this product's packaging?",
+        "answer": "Information"
+      },
+      {
+        "question": "Based on the prominent header and its content, what key nutritional aspect is this label primarily concerned with?",
+        "answer": "Facts"
+      },
+      {
+        "question": "What specific unit of measurement is consistently used throughout the table to quantify the various nutritional components?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the color of the text used to provide information about the percentage of daily values?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the descriptive term for the style of the font chosen for the major headings and subheadings?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Describe the overall visual arrangement of data within the main nutritional component table.",
+        "answer": "Tabular"
+      },
+      {
+        "question": "Observing the visual hierarchy, what is the most dominant textual element on the label?",
+        "answer": "Title"
+      },
+      {
+        "question": "What is the background color of the information displayed regarding the servings per container?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the color of the box's background where information about the 'Serving Size' is found?",
+        "answer": "White"
+      },
+      {
+        "question": "Judging by the visual layout, what is the relative size of the text used for 'Calories' compared to other nutritional values?",
+        "answer": "Large"
+      },
+      {
+        "question": "What is the general texture of the surface on which the nutritional facts are printed?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the color of the text used for the 'Calories from Fat' values.",
+        "answer": "Black"
+      },
+      {
+        "question": "Describe the visual style of the numerical data presented (e.g., bold, italicized).",
+        "answer": "Bold"
+      },
+      {
+        "question": "Considering the image, what is the general shape of the nutritional facts label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the general orientation of the text throughout the nutritional fact label?",
+        "answer": "Vertical"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1a/1ad855dd.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color observed across the entire fabric sample?",
+        "answer": "Mustard"
+      },
+      {
+        "question": "Considering the visible texture, what is the primary material of this fabric?",
+        "answer": "Linen"
+      },
+      {
+        "question": "Based on the image, what is the overall visual texture of the fabric sample?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Describe the visual grain direction noticeable within the fabric's weave?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Judging from the appearance, what is the general level of sheen or gloss?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Can you describe the uniformity of color across the displayed fabric?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "What is the general impression of the fabric's weight or density from the image?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Does the image reveal any visible pattern or print on the fabric's surface?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the overall look, how would you describe the fabric's feel?",
+        "answer": "Rough"
+      },
+      {
+        "question": "From the image, what kind of weave structure is primarily visible?",
+        "answer": "Plain"
+      },
+      {
+        "question": "What is the approximate visual opacity of the fabric sample shown?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Judging by the image, does the fabric look naturally or artificially dyed?",
+        "answer": "Natural"
+      },
+      {
+        "question": "Based solely on visual assessment, what is the fabric's implied drape?",
+        "answer": "Straight"
+      },
+      {
+        "question": "Does the image suggest any visible imperfections or irregularities in the weave?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the overall visual characteristics, what is the implied application of this fabric?",
+        "answer": "Upholstery"
+      }
+    ]
+  }
+]

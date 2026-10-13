@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/23/23dc8248.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout, what is the dominant visual element in this product image?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the primary color used for the background of this nutrition facts label?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the visual style, what is the likely purpose of this rectangular item?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Considering the typography, what is the font style used for the headings?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Describe the visual texture of the majority of the product surface in this image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the visual shape of the main information panel presented in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What type of information appears in the darkest, most prominent font size?",
+        "answer": "Calories"
+      },
+      {
+        "question": "What is the visual appearance of the lines separating different nutritional facts categories?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Regarding color consistency, what color are most numerical values printed in?",
+        "answer": "Black"
+      },
+      {
+        "question": "Describe the overall style of the text within the nutrition facts?",
+        "answer": "Formal"
+      },
+      {
+        "question": "Focusing on the text formatting, what is the style of the label title?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "What is the general alignment of textual information within each nutritional fact entry?",
+        "answer": "Left"
+      },
+      {
+        "question": "Disregarding any specific numbers, what is the format of the daily values?",
+        "answer": "Percentage"
+      },
+      {
+        "question": "Examining the visual elements, does the label have any visual illustrations or icons?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the language used in the text displayed on this product image?",
+        "answer": "English"
+      }
+    ]
+  }
+]

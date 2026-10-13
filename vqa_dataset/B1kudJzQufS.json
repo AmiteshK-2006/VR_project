@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/27/27e240ba.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the displayed material sample?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the apparent texture of the surface presented in the image?",
+        "answer": "Grained"
+      },
+      {
+        "question": "Considering the visual characteristics, what material type does this resemble?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Based on the image, how would you describe the overall finish of the material?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the image show a uniform or varied color distribution across the material?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Judging from the visual details, what is the implied tactile quality of this material?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From the image alone, is the surface of the material shiny or dull?",
+        "answer": "Dull"
+      },
+      {
+        "question": "What is the apparent visual depth of the texture visible in the image?",
+        "answer": "Moderate"
+      },
+      {
+        "question": "Does the material appear to have any distinct patterns or markings?",
+        "answer": "No"
+      },
+      {
+        "question": "In terms of visual density, does the surface appear to be porous or compact?",
+        "answer": "Compact"
+      },
+      {
+        "question": "If you were to touch it, would the surface feel rough or soft?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Based purely on its appearance, would you say this material is light or heavy?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "Is the depicted texture consistently distributed across the image?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the image suggest any visible signs of wear or damage on the material?",
+        "answer": "No"
+      },
+      {
+        "question": "How would you classify the visual clarity and definition of the texture shown?",
+        "answer": "Clear"
+      }
+    ]
+  }
+]

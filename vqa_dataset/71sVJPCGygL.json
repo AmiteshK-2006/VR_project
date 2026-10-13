@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3c/3c3f9803.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color scheme of the product label?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the font style and text arrangement, what is the general aesthetic of the label design?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Examining the text blocks, what is the primary purpose of this label, as visually indicated?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Focusing on the typography, what can be observed about the case of the lettering used throughout the label?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Observing the text's alignment, how is the ingredient list primarily organized on the label?",
+        "answer": "Left"
+      },
+      {
+        "question": "Judging from the label's text density, how would you describe the overall information presented?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Considering the visual prominence of different sections, what is highlighted most conspicuously on the label?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Based on the visual style, how would you characterize the overall tone conveyed by the label design?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "Analyzing the visual clarity and legibility, how would you describe the readability of the text on the label?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Given the visual structure, what specific information is provided at the very bottom of the label?",
+        "answer": "Warning"
+      },
+      {
+        "question": "Regarding the text's appearance, what is the apparent font family utilized in the label's text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Observing the visual formatting, what punctuation marks are frequently used in the ingredients list?",
+        "answer": "Parentheses"
+      },
+      {
+        "question": "Judging by the visual presentation, what is the apparent size of the label's font relative to typical packaging text?",
+        "answer": "Small"
+      },
+      {
+        "question": "Analyzing the label's visual characteristics, what is the apparent overall layout of the information presented?",
+        "answer": "List"
+      },
+      {
+        "question": "In terms of visual hierarchy, what is the relative visual weight of the 'Ingredients' heading compared to the ingredient list itself?",
+        "answer": "Bold"
+      }
+    ]
+  }
+]

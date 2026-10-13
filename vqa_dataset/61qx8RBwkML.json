@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1a/1a0e2941.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the food product inside the packaging?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What type of plastic appears to be used for the primary packaging?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the general shape of the plastic food container?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What kind of meat seems to be contained within the package?",
+        "answer": "Ribs"
+      },
+      {
+        "question": "What is the cooking style implied by the product's labeling?",
+        "answer": "BBQ"
+      },
+      {
+        "question": "Is the plastic container showing any obvious signs of damage or cracks?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the packaging include a nutritional information label?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the overall presentation, how would you describe the product's condition?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "What is the apparent texture of the meat product within the package?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What is the overall shape of the meat product within its package?",
+        "answer": "Oblong"
+      },
+      {
+        "question": "Is the label on the packaging primarily printed in color or monochrome?",
+        "answer": "Monochrome"
+      },
+      {
+        "question": "What seems to be the primary material of the food's packaging?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on the image, is the product primarily cooked or raw?",
+        "answer": "Cooked"
+      },
+      {
+        "question": "Does the packaging provide details about the product's weight or quantity?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the primary form in which the meat product appears?",
+        "answer": "Sliced"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bc/bc62e9a5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the two displayed items?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the overall texture, what is the apparent surface feel?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on visual inspection, what appears to be the primary material?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Judging by the image, what is the general shape of each individual item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the image's quality, what is the level of visible sheen or glossiness?",
+        "answer": "Matte"
+      },
+      {
+        "question": "From the appearance, how many individual pieces are presented in the image?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the visible uniformity of color across both pieces?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Does the image reveal any discernible patterns or designs on the surface?",
+        "answer": "None"
+      },
+      {
+        "question": "Judging by the edges, what is the evident finish or hem type of the items?",
+        "answer": "Raw"
+      },
+      {
+        "question": "Based solely on appearance, what is the apparent thickness of the individual items?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Observing the items' layout, what is their relative spatial arrangement?",
+        "answer": "Side-by-side"
+      },
+      {
+        "question": "What is the overall impression of the image's color saturation level?",
+        "answer": "Low"
+      },
+      {
+        "question": "Based on visual cues, what is the implied weight or density of each piece?",
+        "answer": "Light"
+      },
+      {
+        "question": "What is the apparent visual clarity of the items shown?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Considering the visual evidence, are there any visible seams or stitching details?",
+        "answer": "No"
+      }
+    ]
+  }
+]

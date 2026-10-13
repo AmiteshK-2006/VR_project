@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fc/fccda764.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape and the density of the text, what is the primary format of the presented information?",
+        "answer": "List"
+      },
+      {
+        "question": "Observing the uniformly sized font and consistent spacing between lines, what is the apparent method used for text arrangement?",
+        "answer": "Block"
+      },
+      {
+        "question": "Given the capitalization style used and consistent sentence structure, what is the implied nature of the text presented?",
+        "answer": "Formal"
+      },
+      {
+        "question": "Based on the type of details listed, concerning various food components, what is the most likely subject of this detailed textual description?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Considering the extensive list of components and their precise quantities, what is the intended purpose for this text's creation?",
+        "answer": "Declaration"
+      },
+      {
+        "question": "Noting the presence of chemical names and descriptive terms, what is the apparent nature of this specific text concerning food composition?",
+        "answer": "Technical"
+      },
+      {
+        "question": "Given the style and the detailed information on food components, what could be this written material\u2019s intended audience?",
+        "answer": "Consumers"
+      },
+      {
+        "question": "Considering the structure of the textual information, what could be this written material\u2019s intended use?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Regarding the use of terminology and style, what is the apparent tone of the presented text?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "Based on the listed substances, what is the text mostly describing?",
+        "answer": "Food"
+      },
+      {
+        "question": "Considering the structure of the text, what is its primary organization method?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Based on the words used, what is the overall textual style?",
+        "answer": "Descriptive"
+      },
+      {
+        "question": "Based on the text\u2019s density, what is the overall textual impact?",
+        "answer": "Detailed"
+      },
+      {
+        "question": "Considering the left alignment of the text, what is the intended effect?",
+        "answer": "Clarity"
+      },
+      {
+        "question": "Based on the absence of images or graphics, what is the primary medium employed?",
+        "answer": "Text"
+      }
+    ]
+  }
+]

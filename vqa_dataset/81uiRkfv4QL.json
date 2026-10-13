@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f7/f71975b8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color displayed prominently on the carton's front?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What is the primary material used for the packaging of this product?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Considering the overall shape, what geometric form best describes the container?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What type of text is predominantly displayed on the container's surface?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Based on the visible text, what kind of information is presented in the detail?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Describe the orientation of the text blocks on the packaging's side panel.",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Considering the product's structure, what is its general form factor?",
+        "answer": "Aseptic"
+      },
+      {
+        "question": "Describe the appearance of the surface texture of the carton's outer layer.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall tone or color palette reflected in the design elements?",
+        "answer": "Pastel"
+      },
+      {
+        "question": "Given the visible labels, what aspect does the package emphasize?",
+        "answer": "Health"
+      },
+      {
+        "question": "Based on the size of the text, what is its general legibility?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the style of the font in the visible text blocks?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the visible format of the presented nutritional information?",
+        "answer": "Table"
+      },
+      {
+        "question": "What units of measurement are shown with the serving size?",
+        "answer": "Milliliters"
+      },
+      {
+        "question": "Considering the text, what is the primary metric being shown?",
+        "answer": "Calories"
+      }
+    ]
+  }
+]

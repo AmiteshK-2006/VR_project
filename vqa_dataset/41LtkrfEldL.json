@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/29/29d603d2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the image's textual content, what is the primary descriptor of the listed ingredients?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Based on the provided text, what is one of the key oil types included in the composition?",
+        "answer": "Soybean"
+      },
+      {
+        "question": "According to the text, which specific type of vinegar is mentioned as an ingredient?",
+        "answer": "Red"
+      },
+      {
+        "question": "What type of sweetener is listed among the ingredients, based on the provided text?",
+        "answer": "Tapioca"
+      },
+      {
+        "question": "Referring to the textual content, what aromatic herb is explicitly mentioned?",
+        "answer": "Basil"
+      },
+      {
+        "question": "Based on the textual content, what type of spice is included in the composition?",
+        "answer": "Black"
+      },
+      {
+        "question": "According to the text, what specific type of oil is part of the ingredient list?",
+        "answer": "Olive"
+      },
+      {
+        "question": "What is one of the other vinegars in the list of ingredients, based solely on what the image shows?",
+        "answer": "Balsamic"
+      },
+      {
+        "question": "Based on the image, what is the name of the gum used in this product?",
+        "answer": "Xanthan"
+      },
+      {
+        "question": "Focusing solely on the visual information, what is the name of the herb described in the list of ingredients?",
+        "answer": "Rosemary"
+      },
+      {
+        "question": "What is another herb ingredient, based on the text from the image?",
+        "answer": "Marjoram"
+      },
+      {
+        "question": "What kind of extract is mentioned in the ingredient list of the shown image?",
+        "answer": "Extract"
+      },
+      {
+        "question": "What is the adjective describing the process of the soybean oil production, according to the image?",
+        "answer": "Expeller"
+      },
+      {
+        "question": "According to the image's text, what is the name of the listed ingredient that is a type of syrup?",
+        "answer": "Sirup"
+      },
+      {
+        "question": "What is the name of a substance that acts as a thickening agent, according to the image's text?",
+        "answer": "Gum"
+      }
+    ]
+  }
+]

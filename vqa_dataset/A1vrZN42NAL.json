@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b5/b5cb2f9b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the visible product surface?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the subtle variations in tone, what is the overall shade?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Based on the image's reflection characteristics, what is the likely surface finish?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Judging by the smooth appearance and lack of visible texture, what is the likely material?",
+        "answer": "Ceramic"
+      },
+      {
+        "question": "What is the overall shape of the visible portion of the product?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Describing the curvature, is the object's shape predominantly concave or convex?",
+        "answer": "Convex"
+      },
+      {
+        "question": "Considering the smoothness, is there any significant surface texturing evident?",
+        "answer": "No"
+      },
+      {
+        "question": "Are there any visible markings, designs, or patterns on the surface?",
+        "answer": "None"
+      },
+      {
+        "question": "Does the product appear to have any noticeable seams or joints?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image's quality, what is the apparent thickness of the product?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Judging from the edge profile, is the thickness uniform throughout?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the visible portion, can you determine the approximate dimensions of the product?",
+        "answer": "Unknown"
+      },
+      {
+        "question": "What is the overall visual impression of the product's material quality?",
+        "answer": "High"
+      },
+      {
+        "question": "Does the product's appearance reflect a sense of modernity or traditional design?",
+        "answer": "Modern"
+      },
+      {
+        "question": "Does the product seem to be designed with a particular function in mind?",
+        "answer": "Unknown"
+      }
+    ]
+  }
+]

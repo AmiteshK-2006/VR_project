@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fd/fd6a8fc3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the textual content, what is the primary stated purpose of this product?",
+        "answer": "Treatment"
+      },
+      {
+        "question": "Based on the visible text, what specific acid is listed as an active ingredient?",
+        "answer": "Salicylic"
+      },
+      {
+        "question": "What numerical value, likely representing concentration, is associated with the active ingredient?",
+        "answer": "2"
+      },
+      {
+        "question": "Observing the overall presentation, what is the most prominent textual element on the label?",
+        "answer": "Active"
+      },
+      {
+        "question": "What is the general shape suggested by the rectangular appearance of the provided image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the textual style, which font type best describes the lettering on the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Judging by the visual clarity, what is the overall quality of the image's print resolution?",
+        "answer": "Low"
+      },
+      {
+        "question": "What is the color of the background on which the text is printed, as observed in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the color of the text present on the provided image label, seemingly consistent throughout?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the context of the label, what is the inferred use case for the product in question?",
+        "answer": "Medical"
+      },
+      {
+        "question": "What term immediately follows 'Active ingredient' in the visible text of the image?",
+        "answer": "Salicylic"
+      },
+      {
+        "question": "In the given image, what word is aligned with the right margin, indicating a product attribute?",
+        "answer": "Purpose"
+      },
+      {
+        "question": "Considering the listed ingredient, what type of product is implied in the image provided?",
+        "answer": "Cosmetic"
+      },
+      {
+        "question": "What is the visual layout of the information presented; is it structured or unstructured?",
+        "answer": "Structured"
+      },
+      {
+        "question": "What is the texture of the surface on which the text is printed in the image provided?",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/04/0480ae2a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the footwear shown in the provided image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the apparent material of the upper section of this footwear?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Considering the overall style, what type of footwear is depicted?",
+        "answer": "Chelsea"
+      },
+      {
+        "question": "Describe the visible texture of the leather upper, based on the image alone?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent material of the outsole of this boot, as shown in the image?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "What is the shape of the toe of the boot shown in the image?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Does the boot exhibit any visible decorative stitching or embellishments?",
+        "answer": "No"
+      },
+      {
+        "question": "Focusing on the heel, what is its approximate height in relation to the sole?",
+        "answer": "Low"
+      },
+      {
+        "question": "Judging from the provided image, how many elastic side panels does the boot have?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the general style of the sole, as depicted in the provided image?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Observing the image carefully, is the boot's silhouette pointed or rounded?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Based on the image, describe the overall finish or appearance of the leather.",
+        "answer": "Polished"
+      },
+      {
+        "question": "What is the apparent construction of the sole, is it stitched or cemented?",
+        "answer": "Cemented"
+      },
+      {
+        "question": "Judging from the image, describe the pull tab's apparent material and color?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Considering only the image, what is the boot's closure mechanism?",
+        "answer": "Elastic"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/09/09ecdd78.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant textual characteristic of this product image?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the most prominent visual element in terms of its size and spatial dominance within the image?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the primary visual method employed for conveying the product's information?",
+        "answer": "Typography"
+      },
+      {
+        "question": "Describe the visual arrangement or organization of the textual elements; what geometric pattern is created?",
+        "answer": "Triangular"
+      },
+      {
+        "question": "What is the overall color scheme; what single color dominates the visual field?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the font style or typeface employed throughout the textual components?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Judging from the text's visual properties, what might be the intended purpose or function of the item?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Disregarding the content, what is the approximate visual size of the text block relative to the image's boundaries?",
+        "answer": "Large"
+      },
+      {
+        "question": "Based purely on visual observation, what is the apparent textual density or concentration of words?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the perceived visual weight of the text block's arrangement in the picture?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "Describe the text's visual alignment within the image, is it predominantly left, right, or center-aligned?",
+        "answer": "Center"
+      },
+      {
+        "question": "What visual style or aesthetic is predominantly evident in the image; what design approach is used?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Considering the visual clarity of the textual content, what would you rate the readability of the text?",
+        "answer": "High"
+      },
+      {
+        "question": "Based on the visual attributes, what could be the likely physical form of this item's packaging?",
+        "answer": "Label"
+      },
+      {
+        "question": "What is the visual state or condition of the text\u2014e.g., bold, italic, underlined?",
+        "answer": "Plain"
+      }
+    ]
+  }
+]

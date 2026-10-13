@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/62/6273530c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape and the text's alignment, what is the primary format of this product's label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the text's visual characteristics, what is the font style primarily used on the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Observing the text's color against the background, what is the primary color of the printed text?",
+        "answer": "Black"
+      },
+      {
+        "question": "Given the background's even tone and lack of visible texture, what is the apparent texture of the label's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the presence of an ingredient list, what is the main purpose of this visual element?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Looking at the wording, what type of food product is this label associated with?",
+        "answer": "Dairy"
+      },
+      {
+        "question": "Considering the words used, what aspect of the ingredients does the label clearly highlight?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Based on the label's content, what dairy ingredient is explicitly mentioned as being present?",
+        "answer": "Milk"
+      },
+      {
+        "question": "From the ingredients, what additive is listed alongside milk?",
+        "answer": "Salt"
+      },
+      {
+        "question": "What additional ingredient is mentioned in the list of components besides milk and salt?",
+        "answer": "Enzymes"
+      },
+      {
+        "question": "What is the predominant color of the label's background?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Judging by the overall neat arrangement of the information, what is the style of label design?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Does the label present additional information beyond the main ingredient listing?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is the lettering on the label clearly legible and easy to decipher?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Overall, what is the level of detail presented on the label concerning the product's composition?",
+        "answer": "Detailed"
+      }
+    ]
+  }
+]

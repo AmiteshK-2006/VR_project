@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1f/1f00fd3c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the device shown in the image, considering its overall appearance?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the primary material that appears to constitute the majority of the handheld device's body?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describing the general form of the object, what is its overall shape, disregarding minor details?",
+        "answer": "Elliptical"
+      },
+      {
+        "question": "What is the text labeling the prominent switch, which suggests the device's operational state?",
+        "answer": "On"
+      },
+      {
+        "question": "What is the text printed adjacent to the 'ON' switch, indicating the opposite operational state?",
+        "answer": "Off"
+      },
+      {
+        "question": "Considering the grip area, what is the texture apparent on that section of the device?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Considering the device's operational controls, what is the type of switch used to control the power?",
+        "answer": "Toggle"
+      },
+      {
+        "question": "Observing the design of the device's end, what kind of element is present, suggesting possible additional functionalities?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Inspecting the surface carefully, what is the overall finish of the device's exterior, in relation to light reflection?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering its dimensions, what is the aspect ratio of the device, broadly characterizing its proportions?",
+        "answer": "Long"
+      },
+      {
+        "question": "Based on its form and apparent function, what is the device likely to be used for, according to its visual attributes?",
+        "answer": "Control"
+      },
+      {
+        "question": "What is the dominant design element of the end opposite the control switches, suggesting functional utility?",
+        "answer": "Pointy"
+      },
+      {
+        "question": "Considering the design, what seems to be the purpose of the slightly indented area near the switches, based on its position?",
+        "answer": "Grip"
+      },
+      {
+        "question": "What is the overall visual impression of the device's construction quality, based on the image?",
+        "answer": "Sturdy"
+      },
+      {
+        "question": "Based solely on its visual appearance, what is the design style of the device\u2014modern, vintage, etc.?",
+        "answer": "Modern"
+      }
+    ]
+  }
+]

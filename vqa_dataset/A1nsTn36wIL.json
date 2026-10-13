@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/22/22455b59.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color visibly present across the entire product surface?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent surface finish of the material?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on visual inspection, what is the most prominent textural characteristic of this item?",
+        "answer": "Granular"
+      },
+      {
+        "question": "Judging by the image, what appears to be the overall material of the displayed object?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "What would you describe the visual uniformity of the product's texture across the shown area?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "From the image, what is the general impression of the product's surface sheen or gloss?",
+        "answer": "Dull"
+      },
+      {
+        "question": "Describe the visual appearance of the surface in terms of its smoothness or roughness.",
+        "answer": "Rough"
+      },
+      {
+        "question": "What visual impression does the color and texture combination of the product provide?",
+        "answer": "Dark"
+      },
+      {
+        "question": "If we assess its visual aspects, what is the apparent overall tone of the product's appearance?",
+        "answer": "Subdued"
+      },
+      {
+        "question": "Considering the product's visual texture, what might be its potential tactile feel?",
+        "answer": "Coarse"
+      },
+      {
+        "question": "Based on image analysis, what seems to be the product's density from a visual standpoint?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Analyzing its visual structure, what can you say about the density and distribution of the grain?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Judging by the visible texture, what can you infer regarding the product's weight?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "What is the apparent visual depth or dimensionality of the texture in the image?",
+        "answer": "Shallow"
+      },
+      {
+        "question": "Does the image reveal any distinct patterns or repeating motifs on the product's surface?",
+        "answer": "None"
+      }
+    ]
+  }
+]

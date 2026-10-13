@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/09/097b6fc1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the textile product shown in the image?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What is the overall shape or form of the presented textile item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent texture of the surface, considering the visible pattern?",
+        "answer": "Woven"
+      },
+      {
+        "question": "What is the primary material seemingly used to construct this item?",
+        "answer": "Jute"
+      },
+      {
+        "question": "Judging from the visual appearance, what is the weave type of this textile?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Considering the image, what is the general visual appearance of the fabric's surface?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Based on the visible pattern, describe the level of detailing in the weave pattern?",
+        "answer": "Fine"
+      },
+      {
+        "question": "Describe the visual consistency of the color across the entire textile surface.",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What is the apparent weight or density of the textile, given its visual presentation?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Based solely on the image, describe the textile's implied level of softness or roughness.",
+        "answer": "Rough"
+      },
+      {
+        "question": "Considering the visible weave, is the fabric visibly translucent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Does the textile's surface exhibit any noticeable sheen or luster?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Describe the overall impression of the textile's design in terms of simplicity or complexity.",
+        "answer": "Simple"
+      },
+      {
+        "question": "Is there any visible fringe or trim along the edges of the textile item?",
+        "answer": "No"
+      },
+      {
+        "question": "From the image alone, can you discern any visible patterns aside from the weave?",
+        "answer": "No"
+      }
+    ]
+  }
+]

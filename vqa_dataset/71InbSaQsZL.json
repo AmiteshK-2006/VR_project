@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5e/5edda11d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form and the liquid contained, what is the primary shape of this product?",
+        "answer": "Bottle"
+      },
+      {
+        "question": "What is the dominant color of the liquid visibly contained within the plastic bottle?",
+        "answer": "Orange"
+      },
+      {
+        "question": "Based on its appearance, what material seems to be used for the body of the container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Given the visual texture of the liquid, what would you describe its general consistency as?",
+        "answer": "Liquid"
+      },
+      {
+        "question": "Judging by the packaging design, what is the most likely use for this bottled liquid?",
+        "answer": "Drink"
+      },
+      {
+        "question": "Observing the bottle's closure, what type of top does it appear to have?",
+        "answer": "Cap"
+      },
+      {
+        "question": "What color is the cap on top of the orange liquid-filled bottle?",
+        "answer": "White"
+      },
+      {
+        "question": "From the label's visual attributes, what is the most likely presence within the bottle?",
+        "answer": "Juice"
+      },
+      {
+        "question": "Considering the design of the bottle, is it meant for single-serving or larger quantities?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "Based on the visible label details, what information is most likely included on the bottle's body?",
+        "answer": "Details"
+      },
+      {
+        "question": "Considering the image, does the bottle have any noticeable indentations or ridges?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the bottle's label contain any images or graphic elements besides text?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What color is the predominant background color on the product label?",
+        "answer": "Green"
+      },
+      {
+        "question": "Is the text on the label primarily legible and clearly visible in the image provided?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is there any clear indication of a recycling symbol present on the product's label?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9f/9f1c9cb1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the can's label?",
+        "answer": "Green"
+      },
+      {
+        "question": "What primary material composes the product's container?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What shape best describes the overall form of the product?",
+        "answer": "Cylinder"
+      },
+      {
+        "question": "What is the texture of the can's surface, visually apparent?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the predominant style of the text on the can's label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Observing the label, what type of food does this product contain?",
+        "answer": "Olives"
+      },
+      {
+        "question": "Describe the overall visual appearance of the label's design",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Based on the label, is there indication of recycling?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What color is the text on the nutrition facts panel?",
+        "answer": "Black"
+      },
+      {
+        "question": "Does the can exhibit any noticeable damage or imperfections?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the color of the background on the ingredient section?",
+        "answer": "White"
+      },
+      {
+        "question": "Does the can have a visible seam or closure?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Are there any images or graphics present on the can's label?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the general condition of the can in the image?",
+        "answer": "New"
+      },
+      {
+        "question": "Is the product label primarily text-based or image-based?",
+        "answer": "Text-based"
+      }
+    ]
+  }
+]

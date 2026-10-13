@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/76/7611b416.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall appearance, what is the primary textual content of this product's label?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the main liquid component explicitly mentioned in the ingredients list, as visually presented?",
+        "answer": "Water"
+      },
+      {
+        "question": "Based on the label's visual details, what type of sugar is used in this product's formulation?",
+        "answer": "Cane"
+      },
+      {
+        "question": "According to the ingredient list visible in the image, what fruit juice is included, from concentrate?",
+        "answer": "Apple"
+      },
+      {
+        "question": "Examining the text, what other fruit, in juice form, is listed as an ingredient?",
+        "answer": "Pear"
+      },
+      {
+        "question": "As presented on the label, what organic extract is used as an ingredient?",
+        "answer": "Ginger"
+      },
+      {
+        "question": "Focusing on the visible text, identify the type of acid mentioned in the product's recipe.",
+        "answer": "Malic"
+      },
+      {
+        "question": "What term appears on the label to describe the artificially added tastes?",
+        "answer": "Flavors"
+      },
+      {
+        "question": "What other type of organic sweetener can be visually seen in the ingredient list?",
+        "answer": "Caramel"
+      },
+      {
+        "question": "What is the descriptive adjective consistently used before many ingredients on the label?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What word precedes the words 'water' in the list of ingredients on the label?",
+        "answer": "Carbonated"
+      },
+      {
+        "question": "In the provided visual, what word indicates the state of the apple and pear juice?",
+        "answer": "Concentrate"
+      },
+      {
+        "question": "From the image, what is the textual descriptor for the provided list of contents?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Observing the label, what is the style of the text's typeface (excluding font name)?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the color of the label's text as visibly apparent in the provided image?",
+        "answer": "Black"
+      }
+    ]
+  }
+]

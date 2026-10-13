@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/93/932e1bc0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's visual characteristics, what is the overall font style primarily used in this product's ingredient list?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the visual appearance of the text, what is the case of the lettering used for the main heading 'INGREDIENTS'?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Judging from the image, what color ink is employed for the majority of the text on this product's label?",
+        "answer": "Black"
+      },
+      {
+        "question": "In terms of visual organization, how are the individual ingredients listed on the label?",
+        "answer": "Vertically"
+      },
+      {
+        "question": "Analyzing the visual layout, what punctuation mark separates each ingredient or ingredient group in the list?",
+        "answer": "Comma"
+      },
+      {
+        "question": "Considering the text's visual presentation, what word marks the beginning of each new line of ingredients?",
+        "answer": "Organic"
+      },
+      {
+        "question": "From a visual perspective, what is the general alignment of the text within the label's designated area?",
+        "answer": "Left"
+      },
+      {
+        "question": "Judging from the image's visual characteristics, what word indicates the end of the ingredient list?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Examining the visual aspect of the label, which word signals the product's key ingredient?",
+        "answer": "Yogurt"
+      },
+      {
+        "question": "Based on the visual characteristics of the text, what is the text's alignment relative to the left edge of the label?",
+        "answer": "Flush"
+      },
+      {
+        "question": "From a visual standpoint, what kind of text formatting is predominantly utilized for ingredient descriptions?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Considering the overall visual presentation, does the label include any significant visual elements besides text?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image, what is the text's density, considering the space it occupies on the label?",
+        "answer": "High"
+      },
+      {
+        "question": "Judging from the visual clarity, what is the general readability of the text on this label?",
+        "answer": "Good"
+      },
+      {
+        "question": "Considering the visual consistency, is there any variation in font size or style within the ingredients list?",
+        "answer": "No"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/00/00e0fddf.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme used throughout the nutritional information panel, considering both the background and text colors?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering the overall layout, what is the primary organizational structure used to present the nutritional content data?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the typeface or font style predominantly used for the labels and values within the nutrition facts?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the primary method of differentiating between the 'As Packaged' and 'As Cooked' nutritional values, evident in the table's structure?",
+        "answer": "Columns"
+      },
+      {
+        "question": "What is the format of the values representing percentages of daily values for various nutrients listed in the nutritional facts?",
+        "answer": "Numeric"
+      },
+      {
+        "question": "What is the text size of the main heading 'Nutrition Facts' compared to the other text within the panel?",
+        "answer": "Larger"
+      },
+      {
+        "question": "What is the style of the lines used to separate various sections and values in the nutritional information panel?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the overall shape of the information panel itself, disregarding minor elements such as rounded corners?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What kind of material does the background of the nutrition facts label appear to be printed on, judging by visual texture and reflectivity?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the design element or visual cue used to emphasize the footnote regarding cooking procedures?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the style of the footnote, concerning changes in nutritional values after cooking, in relation to the main body text?",
+        "answer": "Smaller"
+      },
+      {
+        "question": "Considering the text formatting, what is the style of the unit of measure abbreviations used for grams and milligrams?",
+        "answer": "Abbreviated"
+      },
+      {
+        "question": "What is the textual position of the footnote text block concerning cooking procedures in relation to the nutrition facts table?",
+        "answer": "Below"
+      },
+      {
+        "question": "What are the overall visual characteristics of the text regarding the serving size and servings per container?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Considering the overall visual presentation, what is the layout's readability in terms of ease of understanding and information access?",
+        "answer": "High"
+      }
+    ]
+  }
+]

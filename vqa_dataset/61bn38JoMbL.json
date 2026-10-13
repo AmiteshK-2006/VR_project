@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9f/9fe14141.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular design, what is the primary shape of the presented nutrition facts panel?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Observing the text's arrangement, what is the dominant orientation of the nutritional information?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Focusing on the color palette, what is the predominant shade used for the background of the panel?",
+        "answer": "White"
+      },
+      {
+        "question": "Analyzing the typography, what color is the text detailing the nutritional values?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the image's visual cues, what is the apparent texture of the nutrition facts label?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the visual elements, what type of information is prominently displayed on the label?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Examining the structure, is the information presented in a tabular format, organized into rows and columns?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Regarding the text size, is the 'Calories' value presented significantly larger than other values?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Regarding the visual prominence, what measurement unit is used consistently for quantities like fat, sugars, and protein?",
+        "answer": "Grams"
+      },
+      {
+        "question": "In terms of visual hierarchy, are the percentage daily values clearly marked next to each nutrient?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the visual design, are there any noticeable logos or brand markings on this nutrition label?",
+        "answer": "No"
+      },
+      {
+        "question": "In terms of visual style, would you classify the font used as serif or sans-serif?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Regarding the visual clarity, is the text sharp and easily legible, free from blurring or distortion?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Observing the design, are bold fonts used to highlight key nutritional information like calories and total fat?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the layout, is there a clear distinction between different nutritional categories (e.g., fats, carbohydrates)?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

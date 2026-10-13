@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/dd/ddefe2a8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color visually perceived across the entire fabric sample?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent weave type of this fabric?",
+        "answer": "Knit"
+      },
+      {
+        "question": "Based solely on visual inspection, what is the overall surface finish of the textile?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging from the image, how would you describe the general visual density of the fabric?",
+        "answer": "Dense"
+      },
+      {
+        "question": "What is the primary visual impression regarding the fabric's implied weight or thickness?",
+        "answer": "Medium"
+      },
+      {
+        "question": "From the image, what is the most apparent visual characteristic of the yarn used?",
+        "answer": "Fine"
+      },
+      {
+        "question": "Does the image suggest a visible pattern or design within the fabric structure?",
+        "answer": "No"
+      },
+      {
+        "question": "Examining the image closely, what is the apparent uniformity of the fabric's color?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Considering the visual texture, how would you characterize the fabric's surface feel?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on visual assessment, what type of fiber is suggested by the texture?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Does the image reveal any visible sheen or glossiness in the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "Is there any visual evidence of embellishments or additional elements on the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on its visual appearance, what is the likely intended use of this fabric?",
+        "answer": "Apparel"
+      },
+      {
+        "question": "Judging from the image, how would you describe the visible drape or flexibility?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What is the apparent visual depth or dimensionality of the fabric texture?",
+        "answer": "Low"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f0/f0cc464c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the presented textile item?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the texture, what is the apparent feel of the fabric?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Based on the folds, what is the likely material of the item shown?",
+        "answer": "Terry"
+      },
+      {
+        "question": "What is the overall shape of the product displayed in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging by its appearance, what is the main function of this item?",
+        "answer": "Towel"
+      },
+      {
+        "question": "Does the textile exhibit any visible patterns or prints?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent thickness or weight of the folded textile?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Considering its dimensions, how large would you estimate the item to be?",
+        "answer": "Large"
+      },
+      {
+        "question": "Observing the edges, how would you describe the finish of the item?",
+        "answer": "Neat"
+      },
+      {
+        "question": "From the image, is the textile's pile uniform across its surface?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What type of weave does the textile seem to showcase?",
+        "answer": "Loop"
+      },
+      {
+        "question": "Judging from its appearance, what is the item's absorbency level likely to be?",
+        "answer": "High"
+      },
+      {
+        "question": "Given its visual characteristics, what is the most likely use of this item?",
+        "answer": "Bath"
+      },
+      {
+        "question": "Considering the material, how would you describe its apparent drape or flow?",
+        "answer": "Plump"
+      },
+      {
+        "question": "Does the image clearly depict any visible damage or defects in the item?",
+        "answer": "No"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/54/542c9aeb.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout and text organization, what is the dominant theme depicted on this food packaging?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Based on the prominent numerical value displayed, what is the caloric content per serving of this food item?",
+        "answer": "160"
+      },
+      {
+        "question": "Examining the text concerning fat content, what is the amount of saturated fat per serving, in grams?",
+        "answer": "1.5"
+      },
+      {
+        "question": "Focusing on the carbohydrate information, what is the total amount of carbohydrates per serving, in grams?",
+        "answer": "27"
+      },
+      {
+        "question": "What is the serving size, as explicitly stated on the label, given in units of weight and item type?",
+        "answer": "Bun"
+      },
+      {
+        "question": "According to the label, how many servings are contained within this particular package?",
+        "answer": "6"
+      },
+      {
+        "question": "What is the amount of protein, in grams, provided per single serving of this food product?",
+        "answer": "5"
+      },
+      {
+        "question": "What is the amount of dietary fiber, in grams, found in one serving of this item, as specified in the nutritional details?",
+        "answer": "2"
+      },
+      {
+        "question": "Referring to the label's sodium content data, what is the amount of sodium per serving, in milligrams?",
+        "answer": "270"
+      },
+      {
+        "question": "In terms of added sugar, how many grams are included in each serving of this product?",
+        "answer": "3"
+      },
+      {
+        "question": "Observing the label's cholesterol information, what is the quantity of cholesterol per serving, in milligrams?",
+        "answer": "20"
+      },
+      {
+        "question": "What is the weight, in grams, of a single serving of this food, according to the nutrition facts?",
+        "answer": "50"
+      },
+      {
+        "question": "Based on the information provided, what is the percentage of the daily recommended value for saturated fat in a single serving?",
+        "answer": "8"
+      },
+      {
+        "question": "What is the unit of measurement consistently used to quantify the various components outlined in the nutrition facts?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Referring to the micronutrients, what is the amount of potassium per serving, in milligrams?",
+        "answer": "100"
+      }
+    ]
+  }
+]

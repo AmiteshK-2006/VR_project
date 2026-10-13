@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6e/6e0ab06b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the displayed fabric swatch?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the visible texture, what is the fabric's apparent weave type?",
+        "answer": "Ribbed"
+      },
+      {
+        "question": "Based on the image, what is the overall visual appearance of the fabric's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the image, what is the general implied thickness of the material?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Does the fabric show any visible patterns or designs on its surface?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent level of sheen or glossiness exhibited by the fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Describe the uniformity of the color and texture across the entire swatch.",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Does the image display any visible imperfections or irregularities in the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "From a visual assessment, how would you describe the fabric's drape or fall?",
+        "answer": "Slight"
+      },
+      {
+        "question": "Can you identify any distinctive markings or treatments on the fabric's surface?",
+        "answer": "None"
+      },
+      {
+        "question": "Is there any indication of the fabric's composition based solely on visual inspection?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent density of the fabric’s weave based on visual analysis?",
+        "answer": "Close"
+      },
+      {
+        "question": "What is the apparent reflectivity of the fabric's surface in the image?",
+        "answer": "Low"
+      },
+      {
+        "question": "Judging from the image, what is the fabric's apparent weight or hand-feel?",
+        "answer": "Light"
+      },
+      {
+        "question": "Does the image suggest any significant transparency or opacity of the fabric?",
+        "answer": "Opaque"
+      }
+    ]
+  }
+]

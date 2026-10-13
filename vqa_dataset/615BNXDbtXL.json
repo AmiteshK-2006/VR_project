@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/61/61ae93c8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall shape and dimensions, what best describes the product's form factor as depicted in the image?",
+        "answer": "Bag"
+      },
+      {
+        "question": "What primary color dominates the packaging's base and bottom section, providing a visual contrast?",
+        "answer": "Pink"
+      },
+      {
+        "question": "Based on the image's representation, what appears to be the primary material used for the product's packaging?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Judging by the visual texture shown in the image, what is the surface feel of the primary packaging likely to be?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What color best represents the food product displayed prominently on the front of the packaging?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Looking closely at the visual depiction of the food, what shape are the individual food items shown?",
+        "answer": "Irregular"
+      },
+      {
+        "question": "What appears to be the dominant graphic element depicted on the product packaging, besides the textual labels?",
+        "answer": "Image"
+      },
+      {
+        "question": "What is the apparent overall color scheme that the product packaging primarily uses in its design?",
+        "answer": "Beige"
+      },
+      {
+        "question": "If you look closely at the packaging, what is the style and type of the text used for branding and product information?",
+        "answer": "Italic"
+      },
+      {
+        "question": "In the image, what descriptive words are visually apparent on the packaging which may refer to the food's kind?",
+        "answer": "Pretzel"
+      },
+      {
+        "question": "Observe the imagery on the package and determine the arrangement of the food items' display relative to one another",
+        "answer": "Clustered"
+      },
+      {
+        "question": "By examining the packaging, what appears to be the general orientation or posture of the bag?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What might you deduce about the product's seal based on visual indications present in the image?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Focus on the packaging text; identify a word which suggests the product's nature or type",
+        "answer": "Snack"
+      },
+      {
+        "question": "What is the apparent condition of the product packaging as seen in the image, suggesting usage or newness?",
+        "answer": "New"
+      }
+    ]
+  }
+]

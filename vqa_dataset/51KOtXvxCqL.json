@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/42/420e0482.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the dominant shape of the depicted product?",
+        "answer": "Linear"
+      },
+      {
+        "question": "What appears to be the primary material used in the construction of this object?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What is the most prominent color observable throughout the entirety of the product shown?",
+        "answer": "Black"
+      },
+      {
+        "question": "Focusing on the terminal ends, what is the shape of each of the visible end caps?",
+        "answer": "Spherical"
+      },
+      {
+        "question": "Based on the visual details, what seems to be the surface texture of the central rod section?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the connectors joining the central rod and end caps, what is their apparent structural design?",
+        "answer": "Fixed"
+      },
+      {
+        "question": "From the image, what is the most apparent finish or coating present on the item?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the overall length, what could this object plausibly be used for?",
+        "answer": "Rod"
+      },
+      {
+        "question": "Considering its construction and apparent function, what is the likely design purpose of this object?",
+        "answer": "Support"
+      },
+      {
+        "question": "Based on the image, is there any visible branding or markings on the depicted product?",
+        "answer": "None"
+      },
+      {
+        "question": "Judging from the provided image, does the item appear to have a hollow or solid core?",
+        "answer": "Solid"
+      },
+      {
+        "question": "From the visual details provided, is there any noticeable curvature in the product's rod?",
+        "answer": "No"
+      },
+      {
+        "question": "What can you visually infer about the object's apparent weight or mass based on the image?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "Considering its size and apparent sturdiness, what function does this product likely serve?",
+        "answer": "Structural"
+      },
+      {
+        "question": "Regarding the manufacturing quality, what level of precision is apparent in the displayed item?",
+        "answer": "High"
+      }
+    ]
+  }
+]

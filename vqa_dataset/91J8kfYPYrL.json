@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ff/ffc97516.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed fabric swatch?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent fabric type?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Based on the image, does the material appear to have a noticeable grain or pattern?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging by the visual, what is the overall finish of the fabric surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the provided image show any visible stitching or seams on the swatch?",
+        "answer": "No"
+      },
+      {
+        "question": "From the image, is the fabric's surface smooth or textured to the touch?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Based solely on visual inspection, what is the general appearance of the material?",
+        "answer": "Solid"
+      },
+      {
+        "question": "If you were to describe the fabric's sheen, what would it be?",
+        "answer": "None"
+      },
+      {
+        "question": "Can any significant irregularities or imperfections be visually detected on the material?",
+        "answer": "No"
+      },
+      {
+        "question": "What shape best describes the presented fabric sample?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Does the provided image suggest the presence of any embellishments or designs?",
+        "answer": "No"
+      },
+      {
+        "question": "Is the product's color uniform or does it display variations in shade?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "From the visual perspective, does the material show signs of wear or damage?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent thickness of the material shown in the picture?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Based on the image's detail, does the material look thick or thin?",
+        "answer": "Thick"
+      }
+    ]
+  }
+]

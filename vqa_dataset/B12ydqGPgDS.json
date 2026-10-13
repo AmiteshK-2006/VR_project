@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c3/c368d1aa.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed material sample?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What natural material is predominantly shown in the image?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Considering the visible texture, how would you describe the leather's finish?",
+        "answer": "Grained"
+      },
+      {
+        "question": "Does the leather exhibit a uniform or varied color throughout?",
+        "answer": "Varied"
+      },
+      {
+        "question": "Based on its appearance, what is the approximate thickness of the leather?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What kind of visual effect is created by the leather's texture and color variations?",
+        "answer": "Distressed"
+      },
+      {
+        "question": "Is the overall appearance of the material smooth or rugged?",
+        "answer": "Rugged"
+      },
+      {
+        "question": "Describe the main visual pattern observed in the leather's surface texture.",
+        "answer": "Irregular"
+      },
+      {
+        "question": "What is the general visual impression given by the color tone of the leather?",
+        "answer": "Muted"
+      },
+      {
+        "question": "Does the image reveal any visible signs of artificial coloring or treatments?",
+        "answer": "Yes"
+      },
+      {
+        "question": "How would you characterize the intensity of the leather's color saturation?",
+        "answer": "Low"
+      },
+      {
+        "question": "What is the apparent level of glossiness or shine exhibited by the leather surface?",
+        "answer": "Low"
+      },
+      {
+        "question": "Does the provided image show any particular markings or imperfections in the leather?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the image, can you identify any noticeable patterns in the leather's grain?",
+        "answer": "No"
+      },
+      {
+        "question": "Based solely on visual observation, is the material supple or rigid in appearance?",
+        "answer": "Supple"
+      }
+    ]
+  }
+]

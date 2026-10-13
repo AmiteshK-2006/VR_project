@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/58/58f8a0a6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the visual presentation, what is the dominant color scheme employed in the nutritional information display?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the image, what is the primary text style utilized for showcasing the nutritional facts?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Examining the visual layout, what is the method used to categorize and present the various nutritional components?",
+        "answer": "Table"
+      },
+      {
+        "question": "Judging from the image alone, what is the overall shape of the nutritional information panel depicted?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the visual representation, what is the primary material that the nutritional label appears to be printed on?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Based on visual assessment, what is the prominent numerical value indicated for the calorie count?",
+        "answer": "190"
+      },
+      {
+        "question": "What is the textual format utilized to present the 'Daily Value' percentages associated with each nutritional component?",
+        "answer": "Percentage"
+      },
+      {
+        "question": "What is the measurement unit displayed alongside the quantitative values for various nutrients like 'fat' and 'sugar'?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Judging by the visual details, what is the measurement unit used to present the cholesterol content?",
+        "answer": "mg"
+      },
+      {
+        "question": "Considering the image only, what is the term explicitly used to specify the quantity of added sugars?",
+        "answer": "Added"
+      },
+      {
+        "question": "What is the unit used for the measurement of dietary fiber in the provided nutritional information?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What unit is used for the sodium content in the nutritional label?",
+        "answer": "mg"
+      },
+      {
+        "question": "What is the textual description used for the overall nutritional details?",
+        "answer": "Facts"
+      },
+      {
+        "question": "What is the unit used for potassium content?",
+        "answer": "mg"
+      },
+      {
+        "question": "Based solely on visual cues, what is the nutritional fact section's heading?",
+        "answer": "Nutrition"
+      }
+    ]
+  }
+]

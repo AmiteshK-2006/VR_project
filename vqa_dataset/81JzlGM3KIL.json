@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1f/1f135033.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the displayed fabric?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the subtle variations, what is the overall shade of the material?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Based on its visual appearance, what is the likely texture of this fabric?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the fabric show any discernible patterns or designs?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image, how would you describe the overall finish of the material?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Is there any visible sheen or glossiness apparent on the fabric's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent visual uniformity of the fabric's coloring?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Observing the image closely, does the fabric appear thick or thin?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Can you detect any visible weaving or knit structure in the provided image?",
+        "answer": "No"
+      },
+      {
+        "question": "From the image, does the material appear to have a natural or synthetic origin?",
+        "answer": "Synthetic"
+      },
+      {
+        "question": "Considering the image's resolution and visual clarity, what is the overall softness of the fabric?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Judging from the image, is the material transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What is the visual impact of the fabric's overall color saturation?",
+        "answer": "Rich"
+      },
+      {
+        "question": "Based on the image, what is the visual impression regarding the fabric's weight?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "What is the visible level of reflectivity from the fabric surface?",
+        "answer": "Low"
+      }
+    ]
+  }
+]

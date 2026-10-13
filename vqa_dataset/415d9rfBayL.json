@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e1/e1ec2826.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the textual information presented, what primary ingredient is explicitly stated in the product description?",
+        "answer": "Milk"
+      },
+      {
+        "question": "Based on the visible text, what processing method is used for the milk component of the product?",
+        "answer": "Pasteurized"
+      },
+      {
+        "question": "As indicated by the text, what additional component is utilized in the preparation of this product?",
+        "answer": "Salt"
+      },
+      {
+        "question": "According to the label's description, which minor ingredient contributes to the product's formation?",
+        "answer": "Enzymes"
+      },
+      {
+        "question": "What kind of milk is specified as an ingredient in the provided text?",
+        "answer": "Part-skim"
+      },
+      {
+        "question": "Judging from the label's description, what term describes the milk's treatment before processing?",
+        "answer": "Cultured"
+      },
+      {
+        "question": "What is the overall textual style of the information presented on the product label?",
+        "answer": "Block"
+      },
+      {
+        "question": "What is the primary font color used for the displayed text on the product's label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the background color of the label text area?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the overall orientation of the text within the provided image?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the visual appearance of the font on the label—bold or regular?",
+        "answer": "Regular"
+      },
+      {
+        "question": "In terms of typography, is the text on the label evenly spaced?",
+        "answer": "Yes"
+      },
+      {
+        "question": "In a textual sense, are there any line breaks visible in the product's label?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Observing the label's text, are there any symbols or icons visible?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the format, is the label text arranged in a list format?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

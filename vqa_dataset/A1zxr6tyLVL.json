@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/01/01ef8fed.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the close-up image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the apparent texture of the upholstery fabric?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Considering the weave and color variations, what is the overall fabric type?",
+        "answer": "Tweed"
+      },
+      {
+        "question": "Describe the visible pattern or design of the upholstery fabric, if any?",
+        "answer": "Heathered"
+      },
+      {
+        "question": "What is the primary shape of the visible upholstered area in this image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the image's detail, what kind of material is most likely used for the upholstery?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Does the fabric show a consistent or uneven color distribution?",
+        "answer": "Uneven"
+      },
+      {
+        "question": "What is the overall visual impression of the fabric's weave structure?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Judging from the image, how would you describe the softness or coarseness of the fabric?",
+        "answer": "Coarse"
+      },
+      {
+        "question": "From the close-up view, does the fabric appear to be tightly or loosely woven?",
+        "answer": "Tightly"
+      },
+      {
+        "question": "Considering the image, what is the most prominent visual attribute of this fabric?",
+        "answer": "Color"
+      },
+      {
+        "question": "What is the apparent overall feel of the material texture based on the visible details?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Does the fabric feature any noticeable visual embellishments or unique details?",
+        "answer": "None"
+      },
+      {
+        "question": "Describe the visible state of the fabric: is it smooth, creased, or otherwise?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the general style that the fabric's texture and color evoke?",
+        "answer": "Modern"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/08/08c5960e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the cosmetic container, as depicted in the provided image?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What primary color dominates the visible portion of the product packaging?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on visual inspection, what material appears to constitute the product bottle?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the image, what type of dispensing mechanism is clearly visible on the container?",
+        "answer": "Pump"
+      },
+      {
+        "question": "Describe the cap's transparency as observed in the product image provided.",
+        "answer": "Transparent"
+      },
+      {
+        "question": "What color is the text predominantly displayed on the product's label?",
+        "answer": "Gold"
+      },
+      {
+        "question": "What is the apparent finish or texture of the product container's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging from the visual provided, what is the general style of the product's label design?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Can you describe the general density or opacity of the cosmetic product inside the bottle?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "In the given image, what is the apparent size of the text on the cosmetic label?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the color of the product's pump mechanism, according to the product image?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Considering the image, is the packaging label predominantly adorned with graphics or text?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the visible orientation of the product's label text on the container?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Observing the image, does the product container appear to have a matte or glossy finish?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Based solely on visual analysis of the image, what is the apparent volume of the product in milliliters as printed on the label?",
+        "answer": "200"
+      }
+    ]
+  }
+]

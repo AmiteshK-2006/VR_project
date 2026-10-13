@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/22/222b0c5d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the primary color scheme dominating the product's packaging?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Examining the textual elements, what is the most prominent brand name displayed on the packaging?",
+        "answer": "WholeFoods"
+      },
+      {
+        "question": "Based on the image, what type of food product is depicted in the provided image?",
+        "answer": "Cheese"
+      },
+      {
+        "question": "What is the texture of the background on which the text is printed, judging from visual cues?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Observing the label, what is the main language used to convey the product information?",
+        "answer": "English"
+      },
+      {
+        "question": "Regarding the label design, what is the overall shape of the packaging presented in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent material used for the packaging of this food item, based on visual inspection?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Analyzing the textual content and visual appearance, can you determine the style of font for the brand name?",
+        "answer": "Serif"
+      },
+      {
+        "question": "What is the general appearance or look of the text on the packaging, considering the font characteristics and color?",
+        "answer": "Formal"
+      },
+      {
+        "question": "Based on the label's visual cues, what is the intended orientation of the product during display or storage?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Considering the image, is there any significant visual pattern or texture on the food packaging besides the text?",
+        "answer": "None"
+      },
+      {
+        "question": "Based on the image alone, what type of information is provided in the smaller text at the bottom of the packaging?",
+        "answer": "Legal"
+      },
+      {
+        "question": "Based on visual inspection of the packaging, is the brand logo primarily textual or symbolic?",
+        "answer": "Textual"
+      },
+      {
+        "question": "Focusing on the label's visual components, what color is the small text on the lower section of the packaging?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Considering the image, what is the overall level of detail in the packaging design, in terms of visual elements?",
+        "answer": "Minimal"
+      }
+    ]
+  }
+]

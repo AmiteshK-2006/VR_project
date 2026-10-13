@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/eb/eb603c0d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the container's label, prominently displaying the product name?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What flavor variant of the plant protein is specified on the label?",
+        "answer": "Vanilla"
+      },
+      {
+        "question": "What is the dominant descriptor of the protein source, as displayed on the label?",
+        "answer": "Plant"
+      },
+      {
+        "question": "What is the shape of the main product container holding the protein powder?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What material appears to constitute the main container of this product, judging by its texture and translucency?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the overall textual description of the protein blend, indicating its comprehensive nutritional profile?",
+        "answer": "All-in-one"
+      },
+      {
+        "question": "Considering the images on the label, what specific ingredient is visually emphasized as a flavoring agent?",
+        "answer": "Vanilla"
+      },
+      {
+        "question": "What is the text that describes the weight of the product in ounces as displayed on the container?",
+        "answer": "15"
+      },
+      {
+        "question": "What is the brand name visible on the container's lower right corner?",
+        "answer": "Wholefoods"
+      },
+      {
+        "question": "What is the form that the protein is presented in, as implied by its packaged state?",
+        "answer": "Powder"
+      },
+      {
+        "question": "What is the general color of the vanilla beans showcased in the image on the label?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the label, what type of product is suggested to be found inside this container?",
+        "answer": "Protein"
+      },
+      {
+        "question": "Judging by the visible text and labeling, what is the primary function of the product within a diet?",
+        "answer": "Supplement"
+      },
+      {
+        "question": "What is the general format of the nutritional information presented on the label?",
+        "answer": "List"
+      },
+      {
+        "question": "What is the apparent unit of weight presented on the container, representing the product's net weight?",
+        "answer": "Ounces"
+      }
+    ]
+  }
+]

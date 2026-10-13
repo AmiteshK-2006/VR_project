@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/7b/7b49ee05.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the bread depicted in the provided image, considering the overall hue and visible ingredients?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the visible texture and ingredients, what is the apparent type of bread shown in the image?",
+        "answer": "Sandwich"
+      },
+      {
+        "question": "Based on the visible inclusions within the bread, what is one of its key ingredients?",
+        "answer": "Oats"
+      },
+      {
+        "question": "Judging by its shape and packaging, how is the bread presented for retail sale?",
+        "answer": "Loaf"
+      },
+      {
+        "question": "What is the visible and apparent material of the bread's outer packaging?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What type of wheat is prominently mentioned on the packaging label?",
+        "answer": "Sprouted"
+      },
+      {
+        "question": "What secondary ingredient, besides wheat and oats, is highlighted on the label?",
+        "answer": "Honey"
+      },
+      {
+        "question": "Based on the label and overall appearance, what is one of the bread's qualifying attributes?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the overall shape of the loaf of bread in the provided image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the visible texture of the bread's surface, considering the visible ingredients and crumb structure.",
+        "answer": "Rough"
+      },
+      {
+        "question": "Based on the packaging, what is the brand name associated with this product?",
+        "answer": "365"
+      },
+      {
+        "question": "What is the visible overall condition of the bread presented in the image?",
+        "answer": "Fresh"
+      },
+      {
+        "question": "Describe the visible color of the visible small inclusions in the bread, in reference to the dominant brown color.",
+        "answer": "Light"
+      },
+      {
+        "question": "Based on its apparent density and visible ingredients, what would you say is the overall texture of the bread?",
+        "answer": "Dense"
+      },
+      {
+        "question": "What is the primary visual characteristic of the labeling on the bread packaging?",
+        "answer": "Green"
+      }
+    ]
+  }
+]

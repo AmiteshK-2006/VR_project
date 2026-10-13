@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/64/6454fb15.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall cylindrical shape and metallic gleam, what is the primary packaging material of this food product?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Observing the label's color scheme, which dominant hue immediately catches the eye?",
+        "answer": "Pink"
+      },
+      {
+        "question": "Based on the prominent text on the label's central section, what type of pet food is contained within?",
+        "answer": "Cat"
+      },
+      {
+        "question": "Given the visual clarity of the label's typography, what is the brand name prominently displayed?",
+        "answer": "Whole"
+      },
+      {
+        "question": "Examining the text on the bottom, where is this particular product exclusively sold?",
+        "answer": "Market"
+      },
+      {
+        "question": "Focusing on the label's top, what specific claim regarding the can's lining is visually apparent?",
+        "answer": "BPA"
+      },
+      {
+        "question": "Considering the label's detailed ingredients list, what is one explicitly mentioned allergen excluded?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "What other commonly avoided ingredient is clearly marked as absent from this food?",
+        "answer": "Soy"
+      },
+      {
+        "question": "Referring to the label's smaller text, what is one other category of ingredient excluded?",
+        "answer": "Meat"
+      },
+      {
+        "question": "Looking closely at the label, what specific weight is mentioned regarding the contents?",
+        "answer": "5.5"
+      },
+      {
+        "question": "According to the label, what is the primary protein source within this food?",
+        "answer": "Salmon"
+      },
+      {
+        "question": "What other protein source is also mentioned as part of the composition?",
+        "answer": "Chicken"
+      },
+      {
+        "question": "What unit of measurement is used to express the weight of this can's contents?",
+        "answer": "Oz"
+      },
+      {
+        "question": "What is the specific format of the salmon and chicken in this product?",
+        "answer": "Shredded"
+      },
+      {
+        "question": "What is the form of the product inside the can according to the label?",
+        "answer": "Stew"
+      }
+    ]
+  }
+]

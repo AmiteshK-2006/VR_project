@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/01/017ed8c9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the device's exterior?",
+        "answer": "White"
+      },
+      {
+        "question": "What type of port is prominently featured on the device's surface?",
+        "answer": "USB-C"
+      },
+      {
+        "question": "What is the overall shape of the presented electronic device?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the apparent texture of the device's casing material?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the primary material seemingly used in the device's construction?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the visible features, what is the device's likely function?",
+        "answer": "Adapter"
+      },
+      {
+        "question": "Is there any noticeable branding or logo visible on the device's face?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the approximate size ratio \u2013 height to width \u2013 of the item?",
+        "answer": "Tall"
+      },
+      {
+        "question": "Besides the USB-C port, are there any other visible openings or features?",
+        "answer": "Hole"
+      },
+      {
+        "question": "How many USB-C ports are visibly present on the product's exterior?",
+        "answer": "One"
+      },
+      {
+        "question": "Does the device's surface appear glossy or matte in finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the object's overall design, how would you describe its aesthetic?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What small, dark feature is positioned above the USB-C port?",
+        "answer": "Dot"
+      },
+      {
+        "question": "Based on the image, is the device likely to be thick or thin?",
+        "answer": "Thin"
+      },
+      {
+        "question": "What is the visible curvature of the device's corners?",
+        "answer": "Rounded"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b4/b4b169ec.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant shape of the individual units shown on the label?",
+        "answer": "Capsule"
+      },
+      {
+        "question": "What color is the text of the 'Supplement Facts' heading?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the background color of the nutritional information panel?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall style of the label's typography?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the color of the 'Supplement Facts' heading?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the text color of the ingredient list?",
+        "answer": "Black"
+      },
+      {
+        "question": "What unit of measurement is used for the amounts of each ingredient?",
+        "answer": "mg"
+      },
+      {
+        "question": "What is the serving size, as indicated on the label?",
+        "answer": "Capsule"
+      },
+      {
+        "question": "What is the primary material that the nutritional information is printed on?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the format of the presented nutritional information?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the style of the numbers indicating Daily Value percentages?",
+        "answer": "Arabic"
+      },
+      {
+        "question": "Besides the ingredients, what else is present on the panel?",
+        "answer": "Percentages"
+      },
+      {
+        "question": "What kind of information is provided in the bottom-most line of text?",
+        "answer": "Footnote"
+      },
+      {
+        "question": "What is the overall tone of the label's text?",
+        "answer": "Informative"
+      },
+      {
+        "question": "What vitamin is listed with the highest percentage Daily Value?",
+        "answer": "C"
+      }
+    ]
+  }
+]

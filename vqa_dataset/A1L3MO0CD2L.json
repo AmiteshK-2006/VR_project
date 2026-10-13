@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e2/e2f5a9b0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant visual texture depicted across the entire sample?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Considering the overall tonality, what single word best describes the color?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Based on visual characteristics, what is the most likely material of this sample?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Judging from the image, does the surface display a high or low sheen?",
+        "answer": "Low"
+      },
+      {
+        "question": "Considering the visible weave, what is the general direction of the threads?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "From a visual standpoint, is the color uniform throughout the sample?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent density of the visible weave structure?",
+        "answer": "Tight"
+      },
+      {
+        "question": "Describe the visual uniformity of the color and texture across the area shown.",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Does the sample show any significant visual pattern beyond the basic weave?",
+        "answer": "No"
+      },
+      {
+        "question": "If the material was to be described as 'smooth' or 'rough', which would be closer?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall impression of the visual appearance of the texture?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "Judging from appearance, is the material likely transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Does the image suggest the material has a noticeably soft or hard feel?",
+        "answer": "Soft"
+      },
+      {
+        "question": "How would you describe the visual weight or heaviness of the texture?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the predominant visual characteristic of the fabric sample?",
+        "answer": "Solid"
+      }
+    ]
+  }
+]

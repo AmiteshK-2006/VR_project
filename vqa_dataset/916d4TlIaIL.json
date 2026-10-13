@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fc/fce6a2b1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall condition of the depicted optical disc?",
+        "answer": "Broken"
+      },
+      {
+        "question": "Considering the fragments, what is the primary shape of the disc?",
+        "answer": "Circular"
+      },
+      {
+        "question": "What is the dominant color of the visible disc surface?",
+        "answer": "Silver"
+      },
+      {
+        "question": "Observing the fractured edges, what appears to be the disc's material?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on the image, how many major fragments comprise the broken disc?",
+        "answer": "Five"
+      },
+      {
+        "question": "What is the texture of the fractured surfaces of the disc pieces?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Describe the appearance of the central hole in the broken disc?",
+        "answer": "Intact"
+      },
+      {
+        "question": "Judging from the image, what type of data storage medium is shown?",
+        "answer": "CD"
+      },
+      {
+        "question": "What is the approximate color of the disc's underside, visible through cracks?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the apparent surface finish of the unbroken sections of the disc?",
+        "answer": "Shiny"
+      },
+      {
+        "question": "Describe the visual uniformity of the disc's surface before breakage?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Is there any visible text or labeling on the broken disc's surface?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the fragments, is the breakage pattern consistent throughout?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall visual impression given by the fragmented disc?",
+        "answer": "Damaged"
+      },
+      {
+        "question": "Considering the image, what appears to be the background's color?",
+        "answer": "Gray"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2e/2eeb32e7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual appearance on the container's surface, what is the predominant color scheme employed for the product's labeling and ingredient information?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the image's visual details, what specific style of font is consistently utilized for the presentation of the item's nutritional content and other details?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Observing the text's orientation and alignment across the product's surface, describe the manner in which the textual information is arranged on the container's exterior.",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Analyzing the visible text on the product packaging, what is the primary language used to convey the information about the item's ingredients, nutritional composition, and other pertinent details?",
+        "answer": "English"
+      },
+      {
+        "question": "Examining the visual characteristics of the text, what is the overall level of detail in the presentation of information?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the apparent density or compactness of the text that appears on the product's container?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Based solely on the visual properties of the text, characterize the text's overall appearance in terms of its clarity and legibility.",
+        "answer": "Clear"
+      },
+      {
+        "question": "Describe the visible patterns or arrangements of text, if any, that are observed on the exterior of the product's packaging.",
+        "answer": "Linear"
+      },
+      {
+        "question": "Considering the available visual information, specify the visual style or design used to display the product's ingredients and other details.",
+        "answer": "Plain"
+      },
+      {
+        "question": "Judging from the visual characteristics of the text, determine the text's approximate size relative to the overall dimensions of the product's packaging.",
+        "answer": "Small"
+      },
+      {
+        "question": "Focusing on the visual appearance of the text, describe the texture or visual feel of the lettering on the product's container.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the visual properties of the text, what type of text is used: serif or sans-serif?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the most prominent characteristic visually relating to the overall layout of the text presented on the container?",
+        "answer": "Blocks"
+      },
+      {
+        "question": "Describe the visual uniformity of the text size throughout the labeling of the product.",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Considering the visual characteristics of the typography, identify the general style of the lettering on the package.",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

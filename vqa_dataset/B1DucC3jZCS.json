@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/17/17a68a70.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant visual texture displayed across the entire fabric sample?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Considering the minute details, what is the predominant visual characteristic of the fabric's construction?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Based on the image, what single word best describes the overall color of the fabric?",
+        "answer": "Grey"
+      },
+      {
+        "question": "Analyzing the visual representation, what is the apparent material of the presented sample?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Judging solely from the image's visual cues, what is the implied form of the product?",
+        "answer": "Sheet"
+      },
+      {
+        "question": "From a purely visual perspective, how would you describe the color's lightness or darkness?",
+        "answer": "Light"
+      },
+      {
+        "question": "If you were to describe the visual appearance of the surface, what single word would you use?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What single word best captures the visual impression of the fabric's weave pattern?",
+        "answer": "Tight"
+      },
+      {
+        "question": "Given its appearance, what is the implied visual uniformity of the fabric's color?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "What single word would effectively communicate the visual density of the weave?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Considering the visible elements, what single word describes the fabric's visual finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the apparent visual homogeneity of the fabric's texture?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Based solely on visual inspection, what single word best describes the fabric's sheen?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "From what is visually observable, what is the general visual impression of the fabric's weight?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What single word best captures the visual impression of the displayed fabric's color saturation?",
+        "answer": "Muted"
+      }
+    ]
+  }
+]

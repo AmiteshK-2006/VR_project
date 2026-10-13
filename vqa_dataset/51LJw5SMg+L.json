@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2b/2b831a5e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary ingredient conspicuously displayed on the product's label?",
+        "answer": "Psyllium"
+      },
+      {
+        "question": "Considering the label's text, what is the form of the psyllium ingredient?",
+        "answer": "Flakes"
+      },
+      {
+        "question": "Based on the label's text, what adjective describes the psyllium?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is explicitly stated regarding the production facility's processing of other ingredients?",
+        "answer": "TreeNuts"
+      },
+      {
+        "question": "In addition to tree nuts, what other allergen is specifically mentioned in relation to the production facility?",
+        "answer": "Milk"
+      },
+      {
+        "question": "What is the third allergen that is included in the production facility declaration?",
+        "answer": "Eggs"
+      },
+      {
+        "question": "What seafood allergen is included in the product's production facility declaration?",
+        "answer": "Shellfish"
+      },
+      {
+        "question": "Which other seafood allergen is listed in the label's declaration of production facility practices?",
+        "answer": "Fish"
+      },
+      {
+        "question": "What grain-based allergen is indicated in the production facility information?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "In addition to the aforementioned allergens, what other main allergen is mentioned in the production facility details?",
+        "answer": "Soy"
+      },
+      {
+        "question": "What is the overall text color of the label's ingredients and production facility statements?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the general background color of the label on which the text is printed?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the font style appearing to be used for the ingredient list and production details?",
+        "answer": "SansSerif"
+      },
+      {
+        "question": "What is the approximate size of the text relative to the area of the label?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the type of product information presented on this label?",
+        "answer": "Ingredients"
+      }
+    ]
+  }
+]

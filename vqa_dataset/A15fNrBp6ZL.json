@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/73/73d9e70c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the displayed fabric sample?",
+        "answer": "Green"
+      },
+      {
+        "question": "Considering the visual texture, what is the fabric's likely feel?",
+        "answer": "Fuzzy"
+      },
+      {
+        "question": "Based on the image, what is the overall appearance of the fabric's surface?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Judging from the image, what kind of material is most likely depicted?",
+        "answer": "Fleece"
+      },
+      {
+        "question": "Does the fabric show any visible patterns or prints in the provided image?",
+        "answer": "No"
+      },
+      {
+        "question": "Is the color of the fabric uniform throughout the shown area?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the image indicate a glossy or matte finish to the fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the density, how would you describe the fabric's weave?",
+        "answer": "Dense"
+      },
+      {
+        "question": "From the image's texture, can we determine the fabric's thickness?",
+        "answer": "Thick"
+      },
+      {
+        "question": "What is the implied softness based on the visual texture?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Judging by the visual, is the fabric likely to be absorbent?",
+        "answer": "Yes"
+      },
+      {
+        "question": "How would you characterize the overall tone of the fabric's color?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Does the fabric appear to have a pile or nap?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the image suggest any visible sheen or shine on the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on visual appearance, is the fabric's weight light or heavy?",
+        "answer": "Heavy"
+      }
+    ]
+  }
+]

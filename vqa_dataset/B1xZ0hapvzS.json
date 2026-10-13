@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d4/d4495960.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the depicted textile sample?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent material type?",
+        "answer": "Felt"
+      },
+      {
+        "question": "Based solely on the image, what is the overall surface finish of the fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Describe the visual texture of the fabric; is it smooth or rough?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Judging from the image, what is the general thickness of the textile?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Does the fabric show any visible pattern or design elements?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent density of the fibers in this textile sample?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Judging by the image, how would you describe the uniformity of the color?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What is the primary visual characteristic of the presented fabric?",
+        "answer": "Texture"
+      },
+      {
+        "question": "Is there any noticeable sheen or gloss to the fabric's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Based purely on visuals, does the fabric appear to be woven or non-woven?",
+        "answer": "Non-woven"
+      },
+      {
+        "question": "From visual assessment, what is the level of light reflection from the material?",
+        "answer": "Low"
+      },
+      {
+        "question": "Can any specific fiber type be definitively identified from the image alone?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the visual homogeneity of the textile's surface structure.",
+        "answer": "Homogeneous"
+      },
+      {
+        "question": "Does the provided sample show any visible irregularities or defects?",
+        "answer": "No"
+      }
+    ]
+  }
+]

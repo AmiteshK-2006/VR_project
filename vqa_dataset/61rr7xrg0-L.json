@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3d/3dcc8b2d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the displayed rectangular object?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the edges and corners, what is the overall shape of the item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on its appearance, what seems to be the primary material of construction?",
+        "answer": "Canvas"
+      },
+      {
+        "question": "Judging by the image, does the surface exhibit a noticeable texture or is it smooth?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From the visual evidence, is there any pattern or design visible on the surface?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering its visual characteristics, what is the apparent thickness of the item?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Does the image suggest that the item's surface is glossy or matte in nature?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Observing the edges, are they sharp, rounded, or beveled in nature?",
+        "answer": "Sharp"
+      },
+      {
+        "question": "Judging by the overall presentation, what might be the intended function of this item?",
+        "answer": "Painting"
+      },
+      {
+        "question": "Considering the visual evidence, is the surface of the item flexible or rigid?",
+        "answer": "Rigid"
+      },
+      {
+        "question": "Does the provided image show any visible markings or branding on the item?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image, what is the apparent uniformity of color across the surface?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "From the visual data, does the item appear to be framed or unframed?",
+        "answer": "Unframed"
+      },
+      {
+        "question": "What is the visible aspect ratio of the rectangular object displayed?",
+        "answer": "Portrait"
+      },
+      {
+        "question": "What is the overall impression of the item in terms of its visual simplicity?",
+        "answer": "Plain"
+      }
+    ]
+  }
+]

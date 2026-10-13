@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/59/59c62f81.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the depicted item, considering its overall hue and tonal variations?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Based on the image's visual texture, what is the apparent surface finish of the product?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the image's overall shape and lack of apparent features, what is the most accurate geometric description?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Examining the image closely for any visible markings or patterns, what textual elements are present?",
+        "answer": "None"
+      },
+      {
+        "question": "From the visual evidence, what is the most likely material composition based on its uniform appearance?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the implied dimensionality of the object shown, based on its visual representation?",
+        "answer": "Two-dimensional"
+      },
+      {
+        "question": "Judging from the lack of visual depth and shadows, what is the apparent thickness of this item?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Considering its visual uniformity and the absence of seams or joints, does this item appear to be constructed of multiple parts?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image, does the item exhibit any discernible texture, aside from its uniform appearance?",
+        "answer": "None"
+      },
+      {
+        "question": "Does the image suggest any special treatment or finishing on the object's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "In the presented image, are there any prominent design elements present on the object's surface?",
+        "answer": "None"
+      },
+      {
+        "question": "Does the image display any evidence of folds, creases, or other forms of deformation in the item?",
+        "answer": "No"
+      },
+      {
+        "question": "Is there any discernible reflection or sheen on the product surface that can be visually observed?",
+        "answer": "None"
+      },
+      {
+        "question": "Based on the image's overall presentation, what is the overall condition of the item presented?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Considering the overall visual impression, does the item appear to have any visible damage or imperfections?",
+        "answer": "No"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6a/6aed5447.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the depicted surface?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What kind of texture is prominently displayed on the surface?",
+        "answer": "Woodgrain"
+      },
+      {
+        "question": "What material is the visual representation most indicative of?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Considering the visual grain patterns, what is the surface's apparent directionality?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Based on the image, what is the overall visual impression of the grain?",
+        "answer": "Linear"
+      },
+      {
+        "question": "What is the general visual tone of the displayed sample, considering its hue?",
+        "answer": "Warm"
+      },
+      {
+        "question": "If this were a real material, how would you describe its likely tactile quality?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Judging from the image, what is the implied depth or dimensionality of the grain?",
+        "answer": "Three-dimensional"
+      },
+      {
+        "question": "From this visual representation, what would be its most accurate categorisation?",
+        "answer": "Laminate"
+      },
+      {
+        "question": "What is the visual density of the grain pattern in the showcased sample?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the visual consistency of the grain pattern in the depicted example?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "From the visual, what is the nature of the color variations in the grain?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "Does the image suggest any noticeable knots or imperfections in the visual grain?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Observing the visual structure, what is the primary visual feature present?",
+        "answer": "Texture"
+      },
+      {
+        "question": "What is the apparent overall finish of the displayed wood-like surface?",
+        "answer": "Matte"
+      }
+    ]
+  }
+]

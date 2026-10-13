@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/53/536cacc1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the visible product component?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of the primary product element?",
+        "answer": "Dome"
+      },
+      {
+        "question": "What appears to be the primary material used in the product's construction?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describing the surface texture, is it rough or smooth?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the visible design, is it ornate or simple?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Does the product exhibit any noticeable patterns or markings?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the apparent level of transparency exhibited by the product?",
+        "answer": "Translucent"
+      },
+      {
+        "question": "Based on visual observation, how many distinct parts constitute the product?",
+        "answer": "One"
+      },
+      {
+        "question": "Judging from the image, what is the approximate size relative to a human hand?",
+        "answer": "Small"
+      },
+      {
+        "question": "Considering the shape, could this item be described as having a lip or flange?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the product's visible surface show any signs of significant texture variation?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the product's form, is it symmetrical or asymmetrical in its structure?",
+        "answer": "Symmetrical"
+      },
+      {
+        "question": "Does the product appear to be rigid or flexible in nature based on its visual characteristics?",
+        "answer": "Rigid"
+      },
+      {
+        "question": "Considering the visual clarity, is the product's interior easily observable?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the product's design include any visible fasteners, joints, or seams?",
+        "answer": "No"
+      }
+    ]
+  }
+]

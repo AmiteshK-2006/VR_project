@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/7c/7c93ee05.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape and the presence of nutritional information, what kind of product label is depicted in the image?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What language is primarily used for the labeling of this food product's nutritional components?",
+        "answer": "Japanese"
+      },
+      {
+        "question": "Focusing on the text's color, what shade is predominantly used for displaying the nutritional values and their respective units?",
+        "answer": "Black"
+      },
+      {
+        "question": "Regarding the background of the nutritional label, what color is the primary field behind the nutritional details and headings?",
+        "answer": "White"
+      },
+      {
+        "question": "Observing the textual elements within the nutritional information, what is the font style predominantly used to present the nutritional data?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the primary unit of measurement used to quantify the energy content of this food item as detailed on the label?",
+        "answer": "kcal"
+      },
+      {
+        "question": "Based on the labeling, what is the measurement unit used to express the quantity of carbohydrates in this food product?",
+        "answer": "g"
+      },
+      {
+        "question": "According to the nutritional label, what is the measurement unit used to indicate the amount of protein contained in the food?",
+        "answer": "g"
+      },
+      {
+        "question": "Examining the nutritional facts, what unit is used to express the quantity of fat present in the food item as labeled?",
+        "answer": "g"
+      },
+      {
+        "question": "What specific unit is employed to quantify the amount of salt equivalent in the nutritional information provided for this product?",
+        "answer": "g"
+      },
+      {
+        "question": "What is the typeface or font family employed to present the header, '\u6804\u990a\u6210\u5206\u8868\u793a', prominently displayed at the top of the nutritional facts section?",
+        "answer": "Mincho"
+      },
+      {
+        "question": "Describe the overall visual alignment of the nutritional information listed on the product label.",
+        "answer": "Left"
+      },
+      {
+        "question": "What is the text orientation for the nutritional information and headings presented on the food label?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Observe the nutritional label's composition. What is the primary style of the border surrounding the nutritional information?",
+        "answer": "Box"
+      },
+      {
+        "question": "What is the overall texture of the label's surface as visibly depicted?",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

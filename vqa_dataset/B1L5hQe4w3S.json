@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/93/9317f72e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the depicted fabric sample?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the overall texture of the fabric sample shown?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Considering the weave and appearance, what is the likely material of this fabric?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "Based solely on visual inspection, how would you describe the fabric's finish?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the visual uniformity of the color and texture across the fabric sample.",
+        "answer": "Consistent"
+      },
+      {
+        "question": "What is the apparent thickness of the textile sample presented?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Judging from the image, what is the primary visual characteristic of the fabric's weave?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Does the fabric exhibit a noticeable sheen or glossiness?",
+        "answer": "Slight"
+      },
+      {
+        "question": "What kind of visual pattern or design is present on the textile?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Describe the density of the visible weave within the fabric sample.",
+        "answer": "Tight"
+      },
+      {
+        "question": "If the fabric is held up to the light, what would the light transmittance appear as?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Is there any visible piling or fuzziness present in the fabric sample?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image, is this textile a highly structured fabric?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is the fabric seemingly pliable and able to bend or fold easily?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the visual appearance suggest a luxurious or casual textile type?",
+        "answer": "Casual"
+      }
+    ]
+  }
+]

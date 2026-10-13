@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/28/28889878.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary material visibly composing the container's body?",
+        "answer": "Stainless"
+      },
+      {
+        "question": "Considering the overall form, what is the most accurate geometric descriptor for the container?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Based on the image, what seems to be the dominant color of the entire canister?",
+        "answer": "Silver"
+      },
+      {
+        "question": "Does the container possess a separate, detachable lid as a visible component?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Examining the lid's surface, what is the most apparent textural quality displayed?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging from the visible image, what is the apparent finish of the metallic surface?",
+        "answer": "Brushed"
+      },
+      {
+        "question": "Is there any visible evidence of a pattern or design imprinted on the container's side?",
+        "answer": "No"
+      },
+      {
+        "question": "From the perspective presented, can you confirm the presence of any visible handles or grips?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the most apparent shape of the visible container's lid?",
+        "answer": "Circular"
+      },
+      {
+        "question": "Judging from the photo, does the container appear to be transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Observing the visible seams, are they noticeable or almost invisible in the canister's construction?",
+        "answer": "Noticeable"
+      },
+      {
+        "question": "Based solely on the visual, is there any visible damage apparent on the container?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall implied functionality, based on the canister's form and features?",
+        "answer": "Storage"
+      },
+      {
+        "question": "Considering the image alone, is the container's surface glossy or matte in appearance?",
+        "answer": "Matte"
+      },
+      {
+        "question": "From the provided visual information, is the lid completely flush with the container when closed?",
+        "answer": "No"
+      }
+    ]
+  }
+]

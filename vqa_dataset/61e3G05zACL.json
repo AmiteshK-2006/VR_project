@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c1/c1af6a5f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the appliance's body?",
+        "answer": "Red"
+      },
+      {
+        "question": "What material appears to constitute the majority of the blender's housing?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the control panel, what is the primary operational mode depicted?",
+        "answer": "On"
+      },
+      {
+        "question": "What secondary operational mode is clearly visible on the control panel?",
+        "answer": "Pulse"
+      },
+      {
+        "question": "Based on its visible features, what is the appliance's apparent primary function?",
+        "answer": "Blending"
+      },
+      {
+        "question": "What is the shape of the buttons present on the appliance's control panel?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the overall shape of the visible portion of the blender?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Describe the texture of the appliance's visible surface, based purely on the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent number of feet/supports at the base of the appliance?",
+        "answer": "Four"
+      },
+      {
+        "question": "What is the color of the feet supporting the bottom of the blender?",
+        "answer": "Black"
+      },
+      {
+        "question": "What brand name is subtly visible on the appliance's surface?",
+        "answer": "Amazonbasics"
+      },
+      {
+        "question": "What is the apparent finish of the blender's plastic casing?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What is the text printed above the 'On' switch on the blender?",
+        "answer": "ON"
+      },
+      {
+        "question": "What is the text printed above the 'Pulse' switch?",
+        "answer": "Pulse"
+      },
+      {
+        "question": "What word is printed above the 'Off' switch?",
+        "answer": "OFF"
+      }
+    ]
+  }
+]

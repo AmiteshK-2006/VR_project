@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ce/ce5cb1ff.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the box's background?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the predominant color of the text on the box?",
+        "answer": "Black"
+      },
+      {
+        "question": "What food product does the box contain, as clearly indicated?",
+        "answer": "Cornstarch"
+      },
+      {
+        "question": "What is the overall shape of the product's packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the texture implied by the box's surface image.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What brand name is prominently displayed on the box?",
+        "answer": "365"
+      },
+      {
+        "question": "What is the material of the product's packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What unit of weight is displayed on the product's packaging?",
+        "answer": "Ounces"
+      },
+      {
+        "question": "What kind of illustration is depicted below the product name?",
+        "answer": "Drawings"
+      },
+      {
+        "question": "What baking item is shown in the bottom left illustration?",
+        "answer": "Muffin"
+      },
+      {
+        "question": "What kitchen utensil is shown in the bottom-center illustration?",
+        "answer": "RollingPin"
+      },
+      {
+        "question": "What food is depicted in the illustration next to the rolling pin?",
+        "answer": "Corn"
+      },
+      {
+        "question": "What is the graphic element to the bottom-right of the corn illustration?",
+        "answer": "OvenMitt"
+      },
+      {
+        "question": "What is the color of the small illustrations on the box?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the net weight of the cornstarch, according to the packaging?",
+        "answer": "16"
+      }
+    ]
+  }
+]

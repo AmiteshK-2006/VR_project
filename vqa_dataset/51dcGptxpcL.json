@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bd/bdca4a90.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary ingredient explicitly stated on the label, which is visually prominent?",
+        "answer": "Nutmeg"
+      },
+      {
+        "question": "Considering the text's visual presentation, what is the primary message conveyed by the upper text block?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Based on the visual appearance, what is the secondary message conveyed in the lower text block concerning production?",
+        "answer": "Produced"
+      },
+      {
+        "question": "What is the font style used for the words 'INGREDIENTS' and 'PRODUCED', visually apparent on the label?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Observing the label, what is the text color predominantly used for the product information?",
+        "answer": "Black"
+      },
+      {
+        "question": "Judging by the visual elements, what is the background color of the label predominantly displayed?",
+        "answer": "White"
+      },
+      {
+        "question": "Examining the text's visual layout, is the information presented in a single-column or multi-column format?",
+        "answer": "Single"
+      },
+      {
+        "question": "What is the visual overall format of the information given on the label's surface?",
+        "answer": "List"
+      },
+      {
+        "question": "Considering the text's position on the label, is the information given vertically or horizontally oriented?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Judging from the image, what is the size of the text used to present the primary and secondary information?",
+        "answer": "Medium"
+      },
+      {
+        "question": "From a visual inspection, what is the spacing or the vertical alignment between the upper and lower text blocks?",
+        "answer": "Large"
+      },
+      {
+        "question": "Considering the visual impression, what is the typeface of the 'INGREDIENTS' text block?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the visual characteristics, is the labeling clean, cluttered or neat?",
+        "answer": "Neat"
+      },
+      {
+        "question": "What is the text's apparent visual style on the product label, minimalist or decorative?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "By visual inspection, what is the visual density of the information provided on the label, high or low?",
+        "answer": "Low"
+      }
+    ]
+  }
+]

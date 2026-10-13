@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/40/401ea17a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric covering the furniture piece shown in the image?",
+        "answer": "Green"
+      },
+      {
+        "question": "Considering the image's close-up view, what is the apparent texture of the upholstery?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Based on the visible seams and construction, what is the overall style of the furniture's design?",
+        "answer": "Modern"
+      },
+      {
+        "question": "Judging by the image, what seems to be the primary material used in the visible portion of this furniture item?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "From this close-up view, what kind of weave is predominantly visible on the upholstery?",
+        "answer": "Linen"
+      },
+      {
+        "question": "What seems to be the shade of the green fabric shown, considering its darkness and tone?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Considering its appearance in the image, what does the overall finish of the fabric seem to be like?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the shape suggested by the visible portion of the furniture piece presented?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "From the image, what construction detail is visible at the bottom edge of the piece?",
+        "answer": "Seam"
+      },
+      {
+        "question": "Based on the picture, how would you describe the visible portion of the furniture's cushioning?",
+        "answer": "Plush"
+      },
+      {
+        "question": "What type of visual pattern is discernible in the fabric's weave, from the image's perspective?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Based on the image, does the fabric seem to have a pile, nap, or a similar raised surface?",
+        "answer": "No"
+      },
+      {
+        "question": "What type of visible stitching or joinery is apparent at the section of the fabric shown?",
+        "answer": "Straight"
+      },
+      {
+        "question": "In terms of design emphasis, is the furniture piece shown characterized by elaborate adornments or a simpler approach?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Judging from the visible portion, does the furniture show significant signs of wear or fading from prolonged use?",
+        "answer": "No"
+      }
+    ]
+  }
+]

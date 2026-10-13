@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3b/3bc05078.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the displayed material sample?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent material type?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Based on the image, what is the overall finish of the surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Describe the visible surface texture of the presented material?",
+        "answer": "Grained"
+      },
+      {
+        "question": "Judging by the image, what is the general feel or tactile quality?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Does the material exhibit a noticeable pattern or design element?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the implied form or shape of the presented material piece?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the image's lighting, is there an observed sheen or gloss?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the surface display any visible markings, scratches or imperfections?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent uniformity of the color across the material sample?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "From the image, is the material appearing to be thick or thin?",
+        "answer": "Thick"
+      },
+      {
+        "question": "What is the overall visual impression conveyed by the sample's texture?",
+        "answer": "Natural"
+      },
+      {
+        "question": "Judging from the visual, does the material look heavily processed or natural?",
+        "answer": "Natural"
+      },
+      {
+        "question": "Does the image reveal any visible seams or stitching on the material?",
+        "answer": "No"
+      },
+      {
+        "question": "Can you describe the depth or dimensionality of the material's texture?",
+        "answer": "Deep"
+      }
+    ]
+  }
+]

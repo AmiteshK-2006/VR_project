@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/95/95b0d97e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the bottle's label, based on the visible image?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the bottle's design, what geometric shape best describes its overall form?",
+        "answer": "Cylinder"
+      },
+      {
+        "question": "What material appears to constitute the container holding the supplement?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on the label's textual information, what is the main active ingredient?",
+        "answer": "Glucosamine"
+      },
+      {
+        "question": "Observing the label, what secondary active ingredient is listed along with Glucosamine?",
+        "answer": "Chondroitin"
+      },
+      {
+        "question": "What is the stated quantity of Glucosamine present in each serving, according to the label?",
+        "answer": "1500mg"
+      },
+      {
+        "question": "What is the stated quantity of Chondroitin included in each serving, based on the label's text?",
+        "answer": "1200mg"
+      },
+      {
+        "question": "Judging from the image, what is the visible text indicating the total number of capsules inside?",
+        "answer": "120"
+      },
+      {
+        "question": "What word on the label signifies that this product is a nutritional supplement?",
+        "answer": "Dietary"
+      },
+      {
+        "question": "What is the prominent brand name or logo displayed on the supplement bottle?",
+        "answer": "SOLMO"
+      },
+      {
+        "question": "Describe the style of the text font used on the product label.",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What color is the text printed on the primary label of the supplement bottle?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the overall texture of the visible portion of the supplement bottle?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the image, does the bottle show any visible scratches or imperfections?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the label's text, does the product contain artificial flavors?",
+        "answer": "No"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/64/64ecc772.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the primary color scheme used in this product's label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the image, what is the dominant font style employed in the text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What specific category of information does the text predominantly convey?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Examining the visual composition, what is the orientation of the text presented on the label?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Judging by the visual appearance, what is the approximate size of the font used in the label?",
+        "answer": "Small"
+      },
+      {
+        "question": "Considering the text's visual characteristics, is it presented in uppercase, lowercase, or a combination thereof?",
+        "answer": "Mixed"
+      },
+      {
+        "question": "From the image, what can be observed to be the text's alignment on the label?",
+        "answer": "Left"
+      },
+      {
+        "question": "What is the apparent background color visible behind the text?",
+        "answer": "White"
+      },
+      {
+        "question": "Judging from the image's visual appearance, what is the visual texture of the label's background?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the observed arrangement of the textual information?",
+        "answer": "List"
+      },
+      {
+        "question": "Based on the image's visual properties, what is the style of the text's layout?",
+        "answer": "Block"
+      },
+      {
+        "question": "From a visual standpoint, what is the general presentation of the text's spacing?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "What word signals the beginning of the ingredient list in the label?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the general visual impression of the label's design?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the visual form of the information presented?",
+        "answer": "Text"
+      }
+    ]
+  }
+]

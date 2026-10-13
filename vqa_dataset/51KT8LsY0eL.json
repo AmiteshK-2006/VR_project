@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2f/2f86f30f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the product inside the can, as shown in the main image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What appears to be the primary cooking method used for the chicken pieces, based on visual cues?",
+        "answer": "Grilled"
+      },
+      {
+        "question": "Considering the image, what kind of container holds the food product?",
+        "answer": "Can"
+      },
+      {
+        "question": "Describe the apparent texture of the chicken pieces, based on the provided image.",
+        "answer": "Chunky"
+      },
+      {
+        "question": "Judging from the image, what seems to be the overall shape of the individual chicken pieces?",
+        "answer": "Irregular"
+      },
+      {
+        "question": "Based on visual inspection, what is the apparent culinary preparation style of the chicken?",
+        "answer": "Yakitori"
+      },
+      {
+        "question": "What is the general color of the text 'Premium' on the can's label?",
+        "answer": "Gold"
+      },
+      {
+        "question": "What language is used on the label, excluding English words?",
+        "answer": "Japanese"
+      },
+      {
+        "question": "What appears to be the primary seasoning or flavor profile of this product?",
+        "answer": "Salt"
+      },
+      {
+        "question": "What is the color of the background on which the product label is printed?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the shape of the entire can as shown in the main image?",
+        "answer": "Square"
+      },
+      {
+        "question": "Describe the overall visual presentation of the chicken pieces within the can.",
+        "answer": "Clumped"
+      },
+      {
+        "question": "What is the material of the visible container enclosing the product?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What is the color of the smaller text near the 'Premium' label?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the label's visual cues, what is the indicated origin of the chicken?",
+        "answer": "Kagoshima"
+      }
+    ]
+  }
+]

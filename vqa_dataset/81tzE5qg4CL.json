@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/49/49cd120f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the filament visible on the spool?",
+        "answer": "Silver"
+      },
+      {
+        "question": "What material is explicitly stated on the spool's label?",
+        "answer": "PLA"
+      },
+      {
+        "question": "What is the overall shape of the object shown in the image?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What brand is prominently displayed on the spool's label?",
+        "answer": "Amazonbasics"
+      },
+      {
+        "question": "Describing the texture of the filament, is it smooth or rough?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What appears to be the primary material of the spool itself?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the spool's design, is it a single or multi-layered structure?",
+        "answer": "Single"
+      },
+      {
+        "question": "What is the apparent color of the spool's outer casing?",
+        "answer": "DarkGray"
+      },
+      {
+        "question": "Observing the filament's winding, is it tightly or loosely wound?",
+        "answer": "Tightly"
+      },
+      {
+        "question": "What is the apparent finish of the spool's surface, matte or glossy?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the spool have any visible markings other than text and logo?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the approximate form of the central hole in the spool?",
+        "answer": "Circular"
+      },
+      {
+        "question": "Judging by its appearance, what is the spool's likely function?",
+        "answer": "Storage"
+      },
+      {
+        "question": "Considering the size of the spool, is it large or small?",
+        "answer": "Large"
+      },
+      {
+        "question": "Based on its appearance, what is the filament's likely use?",
+        "answer": "3Dprinting"
+      }
+    ]
+  }
+]

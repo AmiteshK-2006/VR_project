@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9f/9f4ba1ed.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what is the primary function conveyed by the dominant text and layout?",
+        "answer": "Information"
+      },
+      {
+        "question": "What is the predominant color scheme used for the textual information presented?",
+        "answer": "Black"
+      },
+      {
+        "question": "Focusing on the text blocks, what is the primary type of information presented within the rectangular sections?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the apparent background color of the information presented on this product's packaging?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the visual structure, what format is used to organize the provided data, as seen in the image?",
+        "answer": "Table"
+      },
+      {
+        "question": "Observing the arrangement, what type of information is detailed under the 'Amount Per Serving' column?",
+        "answer": "Quantities"
+      },
+      {
+        "question": "Looking closely at the text, what unit of measurement is primarily used to quantify the ingredients listed?",
+        "answer": "Milligrams"
+      },
+      {
+        "question": "What is the term used to describe the suggested intake as presented on the product's label?",
+        "answer": "Serving"
+      },
+      {
+        "question": "Considering the visual elements, what is the heading indicating the detailed breakdown of the product's content?",
+        "answer": "Supplement"
+      },
+      {
+        "question": "Observing the layout, what is the name of the section following the 'Amount Per Serving' column?",
+        "answer": "Daily"
+      },
+      {
+        "question": "What term is used to denote a blend of several ingredients in the presented information?",
+        "answer": "Blend"
+      },
+      {
+        "question": "What is the term used to denote the specified amount for each instance of consumption?",
+        "answer": "Size"
+      },
+      {
+        "question": "Based on visual inspection, what measurement is used to denote the number of doses contained within this product?",
+        "answer": "Servings"
+      },
+      {
+        "question": "Focusing on the terminology, what word describes the percentage relative to a recommended daily intake?",
+        "answer": "Value"
+      },
+      {
+        "question": "What is the term used in the table to represent the relative proportion of daily requirement?",
+        "answer": "Percent"
+      }
+    ]
+  }
+]

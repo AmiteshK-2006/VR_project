@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e0/e0317beb.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what is the dominant text color depicted on the product label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the primary background color of the food label, based on visual observation?",
+        "answer": "White"
+      },
+      {
+        "question": "Observing the text's arrangement, what is the most prominent labeling style employed?",
+        "answer": "List"
+      },
+      {
+        "question": "Based on the visual appearance, what is the general font type used for the ingredients list?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Examining the label, what is the overall design structure and layout?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the primary language used for all the text that is visually apparent?",
+        "answer": "English"
+      },
+      {
+        "question": "Focusing on the ingredient list's text size, describe its relative size in relation to the background?",
+        "answer": "Small"
+      },
+      {
+        "question": "Considering the overall presentation, what is the visual texture of the label?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the visual examination, what is the label's material or surface type?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Considering the visual details, does the label exhibit glossy or matte visual features?",
+        "answer": "Matte"
+      },
+      {
+        "question": "By visual inspection, describe the visual contrast between the text and background?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the visual shape and geometry of the label's overall design?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Does the label contain any visible illustrations or images aside from the text?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the visual orientation of the text blocks on the label, vertical or horizontal?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Considering the visual elements, does the label show any visible brand logos or trademarks?",
+        "answer": "No"
+      }
+    ]
+  }
+]

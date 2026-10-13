@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/34/34cd43d5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's visual presentation, what is the primary color used for the ingredient information?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the predominant background color of the area where the ingredients are listed?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Based on the image, what is the overall font style of the text describing the product's ingredients?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Judging by the visual appearance, what is the case of the letters in the ingredient list?",
+        "answer": "Upper"
+      },
+      {
+        "question": "From the image, determine the type of text alignment used for the text detailing the ingredients?",
+        "answer": "Left"
+      },
+      {
+        "question": "If you examine the image carefully, what is the visible font weight of the text showing the ingredients?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the apparent line spacing between the lines of text specifying the ingredients of this product?",
+        "answer": "Single"
+      },
+      {
+        "question": "By inspecting the image, can you determine if there are any additional symbols or icons accompanying the text explaining the product composition?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the most prominent visible element used as punctuation to separate the ingredients?",
+        "answer": "Comma"
+      },
+      {
+        "question": "According to the image, what is the type of lettering that shows the word 'Ingredients'?",
+        "answer": "Capitalized"
+      },
+      {
+        "question": "Examining the textual details, what specific type of vinegar is mentioned in the product's ingredients?",
+        "answer": "White"
+      },
+      {
+        "question": "What additional ingredient is mentioned alongside water in the dilution process?",
+        "answer": "Vinegar"
+      },
+      {
+        "question": "Based on the image, what percentage acidity is the vinegar diluted to?",
+        "answer": "Five"
+      },
+      {
+        "question": "What type of facility warning is prominently shown on the ingredient label?",
+        "answer": "Allergen"
+      },
+      {
+        "question": "What is the most prominent allergen mentioned that the facility processes?",
+        "answer": "Fish"
+      }
+    ]
+  }
+]

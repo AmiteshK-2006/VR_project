@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/20/2031ca3f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the fabric shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent weave type of this fabric?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Based on its appearance, what is the likely material composition of this textile?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Judging by the image, what is the overall finish of the fabric, matte or glossy?",
+        "answer": "Matte"
+      },
+      {
+        "question": "From the image, what is the suggested drape or fall of the fabric?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Describe the visible edge treatment or hem of this fabric piece?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Considering the folds, how would you describe the fabric's thickness?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the apparent level of sheen or luster exhibited by this fabric?",
+        "answer": "Low"
+      },
+      {
+        "question": "What is the most prominent surface characteristic of the fabric based on appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "How would you characterize the visual uniformity of the fabric's color?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Based on its appearance, what is the implied weight of the fabric?",
+        "answer": "Lightweight"
+      },
+      {
+        "question": "Does the fabric in the image present any visible patterns or designs?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the folds, what is the apparent flexibility of the fabric?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "What is the visible state of the fabric, wrinkled or smooth?",
+        "answer": "Wrinkled"
+      },
+      {
+        "question": "From the image, does the fabric appear to have any noticeable imperfections?",
+        "answer": "No"
+      }
+    ]
+  }
+]

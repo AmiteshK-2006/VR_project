@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/28/2826dfdb.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed textile sample?",
+        "answer": "Olive"
+      },
+      {
+        "question": "What is the overall apparent texture of the fabric shown?",
+        "answer": "Fuzzy"
+      },
+      {
+        "question": "Based on the image, what is the most apparent material type?",
+        "answer": "Suede"
+      },
+      {
+        "question": "Considering the visual characteristics, is the surface smooth or rough?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Does the material exhibit a uniform or variegated color distribution?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Judging by the image, is the fabric's pile long or short?",
+        "answer": "Short"
+      },
+      {
+        "question": "What is the apparent shade of the presented textile sample?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Does the texture suggest a woven or non-woven fabric structure?",
+        "answer": "Non-woven"
+      },
+      {
+        "question": "Observing the image, is the fabric glossy or matte in appearance?",
+        "answer": "Matte"
+      },
+      {
+        "question": "From the visual data, what kind of finish does the fabric seem to have?",
+        "answer": "Brushed"
+      },
+      {
+        "question": "Describe the visible grain or pattern of the fabric texture?",
+        "answer": "Fine"
+      },
+      {
+        "question": "Judging from visual inspection, how would you characterize the fabric's density?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Based on the image, what is the main visual characteristic of the surface?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What level of sheen or luster is visible on the textile sample?",
+        "answer": "Low"
+      },
+      {
+        "question": "Based on visual assessment, how would you describe the color saturation?",
+        "answer": "Low"
+      }
+    ]
+  }
+]

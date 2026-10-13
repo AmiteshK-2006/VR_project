@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3b/3b42d887.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the depicted shopping bag?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary material used in constructing this bag?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Considering its shape, what geometric form best describes the bag's overall structure?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visible image, what is the apparent texture of the shopping bag's exterior?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the image, does the bag possess any noticeable patterns or designs on its surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the bag exhibit any visible handles or straps for carrying purposes?",
+        "answer": "No"
+      },
+      {
+        "question": "What seems to be the apparent level of stiffness or flexibility of the shopping bag?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Considering the contents shown, what is the bag's apparent capacity in terms of volume?",
+        "answer": "Large"
+      },
+      {
+        "question": "Does the bag appear to have any additional features like pockets or compartments?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the visual representation, how would you describe the bag's overall weight?",
+        "answer": "Lightweight"
+      },
+      {
+        "question": "Does the image display any visible stitching or seams on the bag's surface?",
+        "answer": "Yes"
+      },
+      {
+        "question": "From the picture, what type of closure mechanism, if any, is evident on the bag?",
+        "answer": "Open"
+      },
+      {
+        "question": "What is the apparent overall condition of the bag as shown in the image?",
+        "answer": "New"
+      },
+      {
+        "question": "Considering the context, what is the most likely intended use for this type of bag?",
+        "answer": "Shopping"
+      },
+      {
+        "question": "Does the bag appear to be waterproof or water-resistant based on visual evidence?",
+        "answer": "No"
+      }
+    ]
+  }
+]

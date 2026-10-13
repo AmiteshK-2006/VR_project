@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/cf/cff1f0b8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the product packaging, as visibly depicted in the image?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What is the primary shape of the individual containers holding the product, as shown in the image?",
+        "answer": "Tube"
+      },
+      {
+        "question": "What specific material appears to constitute the outer packaging of the product, based on visual observation?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the texture of the packaging, judging solely from the image provided.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent design pattern visible on the product's packaging, based on image analysis?",
+        "answer": "Geometric"
+      },
+      {
+        "question": "Based on the image, what seems to be the primary method of dispensing the product from its container?",
+        "answer": "Squeeze"
+      },
+      {
+        "question": "What is the apparent size of each unit of the product relative to a standard hand, as inferred from the image dimensions?",
+        "answer": "Small"
+      },
+      {
+        "question": "What type of product label appears to be used for the product's branding and details?",
+        "answer": "Text"
+      },
+      {
+        "question": "What word, visually prominent on the product label, describes the item's primary function?",
+        "answer": "Scrub"
+      },
+      {
+        "question": "What word, prominently placed on the product label, appears to be the brand name?",
+        "answer": "Soulmo"
+      },
+      {
+        "question": "What additional descriptive word, after 'Apricot', further specifies the product type?",
+        "answer": "Facial"
+      },
+      {
+        "question": "What is the number of product units shown within the supplied image, as demonstrably evident?",
+        "answer": "Three"
+      },
+      {
+        "question": "Describe the overall style or aesthetic of the product packaging, as visually perceived from the image.",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Considering the image's display, what appears to be the product's intended target demographic or use-case?",
+        "answer": "Cosmetics"
+      },
+      {
+        "question": "What is the color of the text on the product packaging as shown in the image?",
+        "answer": "White"
+      }
+    ]
+  }
+]

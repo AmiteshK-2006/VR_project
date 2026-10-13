@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/53/5384da83.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the background on which the text is printed?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the font style, what is the overall feel of the text presentation?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Based on the visual characteristics, what type of text is predominantly displayed?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the general shape of the area containing the ingredient information?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Does the text display a consistent font size throughout the listing?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the case of the lettering used for the header 'INGREDIENTS'?",
+        "answer": "Upper"
+      },
+      {
+        "question": "Describe the visual layout of the listed ingredients, are they in columns or a single column?",
+        "answer": "Single"
+      },
+      {
+        "question": "What is the overall texture implied by the appearance of the text and background?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the text appear to be printed or handwritten?",
+        "answer": "Printed"
+      },
+      {
+        "question": "Considering the image, what is the primary function of this text panel?",
+        "answer": "Informational"
+      },
+      {
+        "question": "Describe the visual weight of the 'INGREDIENTS' header relative to the rest of the text.",
+        "answer": "Heavy"
+      },
+      {
+        "question": "What is the visual alignment of the ingredient list, left, right, or centered?",
+        "answer": "Left"
+      },
+      {
+        "question": "Is there any noticeable visual separation between the main ingredient list and the allergy warning?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the text exhibit any visual distortions or irregularities?",
+        "answer": "No"
+      },
+      {
+        "question": "What kind of visual hierarchy is used to emphasize certain parts of the text?",
+        "answer": "Size"
+      }
+    ]
+  }
+]

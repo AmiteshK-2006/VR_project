@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9f/9f6969f8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the product's packaging?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What is the overall shape of the product's packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the primary material of the product's packaging?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Does the packaging display a glossy or matte finish?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Is there any noticeable text or labeling on the back of the package?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What type of barcode is visible on the product's packaging?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Describe the visual texture of the packaging surface.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the seal, is the package designed for resealing?",
+        "answer": "No"
+      },
+      {
+        "question": "Are there any noticeable images or graphics printed on the packaging?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the general appearance of the printed text on the packaging?",
+        "answer": "Small"
+      },
+      {
+        "question": "Judging by the package, what is the product likely contained inside?",
+        "answer": "Food"
+      },
+      {
+        "question": "Does the packaging show any signs of damage or wear?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the overall condition of the product's packaging",
+        "answer": "New"
+      },
+      {
+        "question": "What is the approximate size of the packaging?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Is the packaging's color uniform across the entire surface?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

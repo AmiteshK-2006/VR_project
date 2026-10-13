@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/7f/7fe63d5c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the plate visible in the provided image?",
+        "answer": "White"
+      },
+      {
+        "question": "What appears to be the primary material composition of the presented plate?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Considering the image, what is the overall shape of the disposable plate shown?",
+        "answer": "Round"
+      },
+      {
+        "question": "Based on the visual details, what is the apparent texture of the plate's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the image, what type of food item is partially presented on the plate?",
+        "answer": "Sandwich"
+      },
+      {
+        "question": "From the image, what kind of bread appears to be used for the sandwich?",
+        "answer": "Croissant"
+      },
+      {
+        "question": "What seems to be the color of the cheese visible in the sandwich filling?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "Describe the visible leafy green component within the displayed sandwich.",
+        "answer": "Lettuce"
+      },
+      {
+        "question": "What kind of fried potato snack is displayed alongside the main food item?",
+        "answer": "Chips"
+      },
+      {
+        "question": "What color are the majority of the potato chips shown in the image?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What type of fruit is visible in the red and green segments on the plate?",
+        "answer": "Grapes"
+      },
+      {
+        "question": "What is the apparent color of the sliced fruit resembling a tropical fruit?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What appears to be the color of the other fruit arranged near the grapes?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What seems to be the color of the sliced cucumber-like vegetable present?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the apparent overall design style of the displayed plate?",
+        "answer": "Plain"
+      }
+    ]
+  }
+]

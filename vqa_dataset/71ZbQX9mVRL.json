@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b5/b5ca77ca.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual layout, what is the dominant organizational structure of the information presented on the label?",
+        "answer": "Table"
+      },
+      {
+        "question": "Focusing on the text in the 'Active Ingredients' column, what is the most frequently observed numerical designation?",
+        "answer": "30"
+      },
+      {
+        "question": "Examining the 'Purpose' column, what is the prevalent grammatical structure used to describe the effects of each ingredient?",
+        "answer": "Verb"
+      },
+      {
+        "question": "Regarding the typography, what style is used for the 'Active Ingredients' header?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Considering the visual hierarchy, which section is visually emphasized through font size and positioning: 'Active Ingredients' or 'Inactive Ingredients'?",
+        "answer": "Active"
+      },
+      {
+        "question": "What is the font style primarily used for the list of active ingredients and their purposes?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the visual presentation, is there a clear separation between 'Active Ingredients' and 'Inactive Ingredients' sections?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Observing the textual layout, is the text aligned to the left or right margins of the label?",
+        "answer": "Left"
+      },
+      {
+        "question": "What is the primary color used for the text on this label?",
+        "answer": "Black"
+      },
+      {
+        "question": "In terms of the visual density, would you describe the label as sparsely populated or densely populated with information?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Considering the overall format, does the label primarily use paragraphs, lists, or tables to convey its message?",
+        "answer": "Table"
+      },
+      {
+        "question": "Regarding the visual design, are there any visual elements such as graphics or images besides text?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the text's visual prominence, what is the most emphasized phrase across the entire label?",
+        "answer": "HPUS"
+      },
+      {
+        "question": "What visual cues are utilized to distinguish between the active and inactive ingredients?",
+        "answer": "Headers"
+      },
+      {
+        "question": "Based on the visual presentation, what is the primary function of this label?",
+        "answer": "Informational"
+      }
+    ]
+  }
+]

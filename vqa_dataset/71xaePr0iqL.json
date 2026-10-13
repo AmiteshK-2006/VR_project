@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9c/9c039d50.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the text displayed on the product's label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the container showing the ingredient list?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent texture of the surface on which the text is printed?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the font style, what is the general feel of the product's branding?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Based on the visual characteristics, is the label design minimalist or ornate?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the primary material of the label itself, judging from its appearance?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the predominant color of the background behind the text on the label?",
+        "answer": "White"
+      },
+      {
+        "question": "What kind of typography is used for the word 'INGREDIENTS'?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Is the text on the label presented in a single column or multiple columns?",
+        "answer": "Single"
+      },
+      {
+        "question": "What is the case of the lettering used for the ingredient list?",
+        "answer": "Upper"
+      },
+      {
+        "question": "Does the labeling include a list of ingredients or nutritional facts?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Considering the font size and line spacing, is the text easy or hard to read?",
+        "answer": "Easy"
+      },
+      {
+        "question": "What is the orientation of the text on the packaging, vertical or horizontal?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "From visual inspection, is the text printed or hand-written?",
+        "answer": "Printed"
+      },
+      {
+        "question": "Excluding the ingredient names, are there other noticeable markings on the label?",
+        "answer": "None"
+      }
+    ]
+  }
+]

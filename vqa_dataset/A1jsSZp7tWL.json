@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/85/8565a62f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the visible fabric?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the apparent texture of the fabric surface?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Considering the visible portion, what is the overall shape of the item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging by the image, what is the likely material of this product?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Based on the visible edge, how would you describe the fabric's finish?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Does the fabric exhibit any discernible pattern or design?",
+        "answer": "Solid"
+      },
+      {
+        "question": "How would you characterize the visible portion's level of sheen or gloss?",
+        "answer": "Matte"
+      },
+      {
+        "question": "From the image, is the fabric's weave loose or tightly constructed?",
+        "answer": "Tight"
+      },
+      {
+        "question": "Does the fabric's color appear uniform or variegated?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Judging from the visible corner, does the item have sharp or rounded edges?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Does the image reveal any visible stitching or seams?",
+        "answer": "No"
+      },
+      {
+        "question": "Can you identify any noticeable irregularities in the fabric's texture?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the fabric seem heavy-weight or lightweight based on its appearance?",
+        "answer": "Medium"
+      },
+      {
+        "question": "From the image provided, does the product seem soft or stiff to touch?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Observing the visible area, does the product appear to have a pile?",
+        "answer": "No"
+      }
+    ]
+  }
+]

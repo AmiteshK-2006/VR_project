@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/cb/cbfd544d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the can's label, prominently displaying the brand name and product description?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the overall shape of the food container depicted in the provided image?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What material is the primary container made from, based on its appearance and typical use for canned goods?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Considering the image, what is the depicted type of pet food packaging format?",
+        "answer": "Can"
+      },
+      {
+        "question": "What is the dominant color of the cat image featured on the can's label?",
+        "answer": "Calico"
+      },
+      {
+        "question": "What type of food is indicated by the text prominently featured on the can's label?",
+        "answer": "Chicken"
+      },
+      {
+        "question": "What is the color of the pull-tab mechanism on top of the food can, clearly visible in the image?",
+        "answer": "Silver"
+      },
+      {
+        "question": "Describe the texture of the can's metallic surface, as visually apparent in the provided image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the brand name of the pet food product displayed on the can's label?",
+        "answer": "Whole"
+      },
+      {
+        "question": "What is the apparent condition of the can based on the lack of dents or significant damage?",
+        "answer": "Untouched"
+      },
+      {
+        "question": "What word best describes the style of the cat image on the label (realistic, cartoonish, etc.)?",
+        "answer": "Realistic"
+      },
+      {
+        "question": "Considering the text on the label, is this cat food described as containing grains?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the shape of the pull tab on the can's lid?",
+        "answer": "Oval"
+      },
+      {
+        "question": "What is the general appearance of the text font style used on the product label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the format of the weight information presented on the can?",
+        "answer": "Numeric"
+      }
+    ]
+  }
+]

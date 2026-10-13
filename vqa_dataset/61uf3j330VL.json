@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/7c/7c993f30.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual layout, what is the primary purpose of this rectangular item, judging by its textual content and structure?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the dominant color used prominently across the top and bottom of this rectangular label, visually striking the eye?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the main descriptive term in bold, situated at the very top of this product label, immediately catching the reader's attention?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Focusing on the text layout, what is the precise term used to describe the measurable quantity of each component listed within the food data?",
+        "answer": "Serving"
+      },
+      {
+        "question": "What is the numerical unit that is repeatedly used to indicate portion size in the context of the nutrition details?",
+        "answer": "Gram"
+      },
+      {
+        "question": "What is the prominent textual element, describing the quantitative dietary values in terms of percentages, located in the right-hand column of the label?",
+        "answer": "Percent"
+      },
+      {
+        "question": "What specific nutritional component is listed first prominently, indicating its content within each portion of the food product?",
+        "answer": "Fat"
+      },
+      {
+        "question": "Within the provided nutrition details, what dietary element is mentioned in reference to its saturation, as described next to total fat?",
+        "answer": "Saturated"
+      },
+      {
+        "question": "Based on the visual display of the nutritional information, which component is quantified in milligrams, indicating its level within the food?",
+        "answer": "Sodium"
+      },
+      {
+        "question": "Which nutritional component is shown quantitatively, indicating its presence in grams, and categorized as part of the total carbohydrate content?",
+        "answer": "Sugars"
+      },
+      {
+        "question": "What is the textual term explicitly used to denote the amount of protein present per serving, as found in the presented food label?",
+        "answer": "Protein"
+      },
+      {
+        "question": "Looking at the nutrition facts, what vitamin is notably listed near the bottom, alongside Vitamin C, to illustrate the nutrient content?",
+        "answer": "Vitamin"
+      },
+      {
+        "question": "What is the unit of measurement consistently employed to denote the caloric content, as displayed on this food nutrition label?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Examining the label's visual elements, what metric is used to express the amount of liquid contained per serving as shown on this label?",
+        "answer": "Milliliter"
+      },
+      {
+        "question": "In the bottom portion of the label, what term is repeated multiple times to denote limits or acceptable ranges concerning dietary intake?",
+        "answer": "Less"
+      }
+    ]
+  }
+]

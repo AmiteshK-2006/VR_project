@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9f/9f44ea2b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the visible fabric surface?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the apparent texture of the material, based on visual observation?",
+        "answer": "Brushed"
+      },
+      {
+        "question": "Considering the image's visual features, what is the main apparent fiber type?",
+        "answer": "Linen"
+      },
+      {
+        "question": "Based on the visible surface, what is the general perceived feel of the fabric?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the image, what is the general directional pattern of the fabric's texture?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Judging from the image, how would you describe the overall visual sheen of the fabric?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "What is the apparent level of transparency observed in the fabric shown?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "If considering the image alone, does the fabric display noticeable piling?",
+        "answer": "No"
+      },
+      {
+        "question": "From the image, is there an evident pattern or print on the fabric's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on visual analysis of the image, is the fabric's weave visibly tight or loose?",
+        "answer": "Loose"
+      },
+      {
+        "question": "What is the predominant visual directionality of the fabric's brushed texture?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Considering visual details, how would you describe the fabric's weight?",
+        "answer": "Lightweight"
+      },
+      {
+        "question": "Does the image show any noticeable irregularities in the fabric's texture?",
+        "answer": "No"
+      },
+      {
+        "question": "Based solely on visual assessment, how uniform is the fabric's color?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Judging from the visual evidence, is the material heavily textured or relatively plain?",
+        "answer": "Plain"
+      }
+    ]
+  }
+]

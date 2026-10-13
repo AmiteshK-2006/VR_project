@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6c/6ccf040d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant background color of the label?",
+        "answer": "White"
+      },
+      {
+        "question": "What color is the text predominantly in the left section?",
+        "answer": "Black"
+      },
+      {
+        "question": "What color is the text predominantly in the right section?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the general shape of the label's rectangular segments?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary font style used for the text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What word appears prominently on both left and right sections?",
+        "answer": "Inactive"
+      },
+      {
+        "question": "What is the word following 'Inactive' on both sides of the label?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Does the text appear to be printed or handwritten?",
+        "answer": "Printed"
+      },
+      {
+        "question": "What is the apparent texture of the label's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Is the text aligned left, center, or right?",
+        "answer": "Left"
+      },
+      {
+        "question": "Are there any visible images or logos present?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall style of the label's typography?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Does the label have a matte or glossy finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Are there any visible lines or borders separating the sections?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Describe the overall visual layout of the information presented",
+        "answer": "Linear"
+      }
+    ]
+  }
+]

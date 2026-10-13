@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5f/5f1f304c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the product's packaging?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary material of the product's outer packaging?",
+        "answer": "Foil"
+      },
+      {
+        "question": "Describing the overall shape of the product packaging, what is it?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What kind of seal is visible at the top of the packaging?",
+        "answer": "Zip"
+      },
+      {
+        "question": "What is the general texture of the packaging, is it shiny or matte?",
+        "answer": "Shiny"
+      },
+      {
+        "question": "Is there any noticeable branding or logo prominently displayed on the front?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the back, what type of information is printed on the packaging?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the apparent size of the product packaging, considering it as large or small?",
+        "answer": "Large"
+      },
+      {
+        "question": "Based on the image, does the packaging appear flexible or rigid?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "What kind of warnings or symbols are present on the packaging?",
+        "answer": "Caution"
+      },
+      {
+        "question": "Judging by the appearance, what is the likely content of the package?",
+        "answer": "Powder"
+      },
+      {
+        "question": "Does the packaging show any visible seams or perforations?",
+        "answer": "Yes"
+      },
+      {
+        "question": "From the visual, what is the general condition of the product packaging?",
+        "answer": "New"
+      },
+      {
+        "question": "Does the package seem to have any gloss, dull, or any specific finish?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Considering the printing, is the text sharp, blurred or unclear?",
+        "answer": "Sharp"
+      }
+    ]
+  }
+]

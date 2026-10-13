@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/be/be8de0ce.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary textual information conveyed prominently on the depicted object, concerning the nutritional composition of a food item?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Considering the textual content, what specific unit of measurement is prominently displayed, pertaining to the serving size of a product?",
+        "answer": "Ounces"
+      },
+      {
+        "question": "Based on the visible text, what numerical value represents the total calories per serving of the displayed food product?",
+        "answer": "130"
+      },
+      {
+        "question": "What is the textual label indicating the quantity of a single serving of the food product shown?",
+        "answer": "Serving"
+      },
+      {
+        "question": "What is the primary color scheme observed across the textual content of the showcased item?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape or form of the object containing the displayed textual nutritional information?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent background color or shade of the product showcasing nutritional information?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall texture of the area containing the nutritional facts, judging from visual aspects?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the style of the typeface used for the major headings within the displayed nutritional facts?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the font size of the 'Calories' value compared to other text elements?",
+        "answer": "Large"
+      },
+      {
+        "question": "Judging by the appearance, is the provided text in a structured format or a chaotic arrangement?",
+        "answer": "Structured"
+      },
+      {
+        "question": "What appears to be the orientation of the text on the object with nutrition facts; is it vertical, horizontal, or oblique?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Is the text alignment consistently left, right, or centered throughout the nutritional information section?",
+        "answer": "Left"
+      },
+      {
+        "question": "Considering the visual appearance, what is the language of the text displayed within the food's nutrition information?",
+        "answer": "English"
+      },
+      {
+        "question": "What type of data is primarily presented using tables in this item's nutritional information?",
+        "answer": "Numerical"
+      }
+    ]
+  }
+]

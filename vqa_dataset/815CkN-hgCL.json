@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f5/f5606cef.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the majority of the visible items in the image?",
+        "answer": "Red"
+      },
+      {
+        "question": "What appears to be the overall shape of the individual units within the larger collection?",
+        "answer": "Flower"
+      },
+      {
+        "question": "Considering the visual texture and appearance, what is the likely consistency of the items depicted?",
+        "answer": "Dry"
+      },
+      {
+        "question": "Based on the image, what material seems to be used as the container for the product?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "What is the general shape of the container holding the product, considering its overall form?",
+        "answer": "Bag"
+      },
+      {
+        "question": "What is the visible color of the bag or container holding the product?",
+        "answer": "White"
+      },
+      {
+        "question": "What seems to be the nature or type of the items gathered together in the container?",
+        "answer": "Leaves"
+      },
+      {
+        "question": "What is the apparent texture of the bag or container holding the product, judging from the image?",
+        "answer": "Coarse"
+      },
+      {
+        "question": "Considering the arrangement and amount, what is the visual impression of the overall product quantity?",
+        "answer": "Abundant"
+      },
+      {
+        "question": "Given the image, what seems to be the visible state of the product—fresh, dried, or processed?",
+        "answer": "Dried"
+      },
+      {
+        "question": "What seems to be the overall visual arrangement or presentation of the items?",
+        "answer": "Loose"
+      },
+      {
+        "question": "What is the color of the visible certification label in the image?",
+        "answer": "Green"
+      },
+      {
+        "question": "Judging from the visible features, what is the overall visual impression of the items' condition?",
+        "answer": "Intact"
+      },
+      {
+        "question": "What kind of visual pattern or arrangement is displayed by the items in the bag?",
+        "answer": "Clustered"
+      },
+      {
+        "question": "Considering the visual details, what type of agricultural product is suggested?",
+        "answer": "Herb"
+      }
+    ]
+  }
+]

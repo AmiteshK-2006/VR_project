@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ba/ba628757.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular presentation, what is the dominant orientation of this nutritional information panel?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the primary color used for the background of this nutrition facts panel, providing a neutral backdrop for the data?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Focusing on the textual elements, what typeface is predominantly utilized throughout the entire nutrition facts display?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Observing the numerical data, what unit is consistently employed to quantify the amounts of various nutrients within this nutritional table?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Regarding the presentation style, what is the method used to organize and arrange the different components of the nutritional data presented?",
+        "answer": "tabular"
+      },
+      {
+        "question": "In the context of the table's structure, what type of lines are employed to delineate the various categories and values within the presented nutritional facts?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the descriptive term indicating the number of servings contained within a single package of this food product, as stated on the panel?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the textual element that distinguishes the topmost section of this nutrition facts display, identifying its overall purpose?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Focusing on the numerical data presented, what is the unit that quantifies the energy content of each serving, prominently displayed within the table?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Observing the detailed information on the panel, what is the term denoting the amount of the food product used to calculate the nutritional values, as indicated in the panel?",
+        "answer": "Serving"
+      },
+      {
+        "question": "Regarding the nutritional breakdown, what term is used to categorize the nutritional content of fats that are fully saturated with hydrogen atoms, as listed on the table?",
+        "answer": "Saturated"
+      },
+      {
+        "question": "Within the context of the table's presentation, what is the term that describes the quantity of carbohydrates which are not simple sugars or starches, as indicated in the panel?",
+        "answer": "Dietary"
+      },
+      {
+        "question": "Referring to the table's contents, what is the nutritional element that pertains to the mineral element essential for bone health, as listed in the table?",
+        "answer": "Calcium"
+      },
+      {
+        "question": "What is the term used to define the amount of a nutrient in a serving as compared to a daily intake of 2,000 calories as per the panel?",
+        "answer": "Percent"
+      },
+      {
+        "question": "What is the term used to describe the measurement of sodium, indicated within the table as a key component of the nutritional information presented?",
+        "answer": "Milligrams"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0d/0ddcf3cd.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the container's main body?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the apparent material of the product container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What shape best describes the overall form of the product container?",
+        "answer": "Cylinder"
+      },
+      {
+        "question": "What color is the prominent label design on the container?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "Is the container's lid visibly attached or detached from the container?",
+        "answer": "Attached"
+      },
+      {
+        "question": "What type of closure is evident on the top of the container?",
+        "answer": "Screw"
+      },
+      {
+        "question": "Describe the texture of the visible surface of the container?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the label feature any nutritional information or branding elements?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the container's size, is it likely a bulk or single-serving product?",
+        "answer": "Bulk"
+      },
+      {
+        "question": "What kind of print is predominantly used in the visible label design?",
+        "answer": "Text"
+      },
+      {
+        "question": "Are there any visible warnings or symbols present on the container?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the overall design, what might be the product's intended use?",
+        "answer": "Food"
+      },
+      {
+        "question": "Is the container transparent or opaque to its contents?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Does the label include any barcodes or manufacturing codes?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the overall condition of the container, considering visible imperfections?",
+        "answer": "New"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3a/3ace326d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the text on the supplement facts label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the visible portion of the supplement facts label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary type of information displayed on the label?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the unit of measurement used for the Glucosamine Sulfate quantity?",
+        "answer": "mg"
+      },
+      {
+        "question": "What is the listed serving size of the supplement?",
+        "answer": "Capsules"
+      },
+      {
+        "question": "What is the name of the primary supplement ingredient shown?",
+        "answer": "Glucosamine"
+      },
+      {
+        "question": "What is the source of the Glucosamine Sulfate, as indicated on the label?",
+        "answer": "Corn"
+      },
+      {
+        "question": "What is the specified number of servings per container?",
+        "answer": "30"
+      },
+      {
+        "question": "What is the format of the information presented on the label regarding the daily value?",
+        "answer": "Percentage"
+      },
+      {
+        "question": "What word indicates the absence of an established daily value?",
+        "answer": "Established"
+      },
+      {
+        "question": "What is the overall texture of the label's surface, as shown in the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the style of the text's font used in the label's title?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the background color of the main area of the supplement facts panel?",
+        "answer": "White"
+      },
+      {
+        "question": "What type of information is 'Supplement Facts' in relation to the product?",
+        "answer": "Label"
+      },
+      {
+        "question": "What is the design element used to organize the label's information?",
+        "answer": "Lines"
+      }
+    ]
+  }
+]

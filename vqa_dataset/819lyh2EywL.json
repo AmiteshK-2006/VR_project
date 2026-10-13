@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3b/3be22319.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the food product within the container, as shown in the provided image?",
+        "answer": "Red"
+      },
+      {
+        "question": "What appears to be the primary material composing the container holding the food product?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the visible portion, what is the general shape of the food container depicted?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the image, what is the most apparent texture of the food product inside?",
+        "answer": "Chunky"
+      },
+      {
+        "question": "What is the color of the prominent text and logo displayed on the container's label?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the overall shape of the visible portion of the container's top?",
+        "answer": "Square"
+      },
+      {
+        "question": "What brand name is clearly visible on the packaging of the food product shown?",
+        "answer": "Whole"
+      },
+      {
+        "question": "Does the container appear to be transparent or opaque, based on what is visible?",
+        "answer": "Transparent"
+      },
+      {
+        "question": "What type of lid is the container of the food product shown in the image fitted with?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Judging by the image, is the consistency of the contents primarily solid or liquid?",
+        "answer": "Solid"
+      },
+      {
+        "question": "What is the visible design element located at the top-right corner of the container shown?",
+        "answer": "Lid"
+      },
+      {
+        "question": "Describe the general orientation of the label on the product container.",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What seems to be the primary ingredient indicated by the visual elements?",
+        "answer": "Tomato"
+      },
+      {
+        "question": "What is the color of the small pieces visible within the main food product?",
+        "answer": "Green"
+      },
+      {
+        "question": "Judging by the image, what is the general size of the food container shown?",
+        "answer": "Small"
+      }
+    ]
+  }
+]

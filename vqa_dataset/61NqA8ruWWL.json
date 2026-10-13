@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/21/2184f2d7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color scheme of the product label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary textual element displayed prominently on the presented product?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Based on the visible text, which type of flour is explicitly listed among the ingredients?",
+        "answer": "Rice"
+      },
+      {
+        "question": "What specific type of seed is notably mentioned in the list of ingredients?",
+        "answer": "Sesame"
+      },
+      {
+        "question": "Judging by the text, which type of soy-based condiment is included within the product's composition?",
+        "answer": "Soy"
+      },
+      {
+        "question": "According to the visible label, which sweetener appears to be utilized in the product's recipe?",
+        "answer": "Sugar"
+      },
+      {
+        "question": "Considering the fine print, what additional substance is mentioned in the ingredient declaration?",
+        "answer": "Alcohol"
+      },
+      {
+        "question": "What type of text formatting is consistently employed throughout the label's informational components?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Disregarding the ingredients, what other information is provided on the visible portion of the package?",
+        "answer": "Warnings"
+      },
+      {
+        "question": "Considering the style of the lettering, what is the overall design aesthetic of the text presented on the product?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the general orientation and arrangement of the text displayed on the label of this food item?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the apparent material that is used for the base of this food item's packaging?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Based on the text's arrangement, what is the most likely type of product this packaging is associated with?",
+        "answer": "Food"
+      },
+      {
+        "question": "Based on the style of typography, what is the overall impression of the visual design of the label?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Considering the overall aesthetic, would you describe the label design as minimalistic or ornate?",
+        "answer": "Minimalistic"
+      }
+    ]
+  }
+]

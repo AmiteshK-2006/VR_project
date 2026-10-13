@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c9/c918ba28.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed textile?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the apparent texture of the fabric shown in the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the visual evidence, what is the most likely material of the product?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Based on the image, does the fabric appear to have any noticeable pattern?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the image, what is the overall visual appearance of the fabric?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Does the image show any visible weaving or knit structure in the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent level of sheen or glossiness exhibited by the textile?",
+        "answer": "Matte"
+      },
+      {
+        "question": "From the image, can you identify any distinct markings or embellishments on the fabric?",
+        "answer": "None"
+      },
+      {
+        "question": "Based on the visual information, how would you describe the drape of the fabric?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What is the general impression of the fabric's weight or thickness from the image?",
+        "answer": "Light"
+      },
+      {
+        "question": "Does the image reveal any visible pilling or imperfections on the fabric's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the image, is the fabric's surface even and consistent in appearance?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering visual clues, what is the apparent opacity of the textile?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Based on visual inspection, is the color of the fabric consistent throughout?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the implied finish of the fabric, based solely on the visual data?",
+        "answer": "Plain"
+      }
+    ]
+  }
+]

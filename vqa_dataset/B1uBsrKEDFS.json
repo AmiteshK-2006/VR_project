@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a1/a1363a81.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the fabric depicted in the provided image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the apparent texture of the fabric shown in the image?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Considering the visual details, what material is most likely used in the shown fabric?",
+        "answer": "Linen"
+      },
+      {
+        "question": "Based on the image, what is the overall visual pattern or design of the fabric?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Judging by the image, what is the general weave structure of this fabric?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Does the provided image suggest the presence of any noticeable sheen or gloss on the fabric?",
+        "answer": "Slight"
+      },
+      {
+        "question": "From the visual inspection, what is the overall visual appearance of this fabric?",
+        "answer": "Matt"
+      },
+      {
+        "question": "In the provided image, how would you describe the density of the fabric's weave?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Observing the visual properties of the fabric, is the color consistent throughout the image?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based solely on visual analysis, what is the apparent thickness or weight of the fabric?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Judging from the image's visual details, how would you describe the feel of this fabric?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the visible directionality of the fabric weave in the provided image?",
+        "answer": "None"
+      },
+      {
+        "question": "Does the image reveal any visible imperfections or irregularities in the fabric's weave?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image, how would you classify the fabric's visual opacity?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "From a visual perspective, how would you describe the level of detail visible in the fabric's weave?",
+        "answer": "Fine"
+      }
+    ]
+  }
+]

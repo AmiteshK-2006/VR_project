@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d0/d0d7669e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular layout, what is the primary shape of this nutritional facts label?",
+        "answer": "Rectangle"
+      },
+      {
+        "question": "Observing the font style throughout the label, what is the dominant textual style used to convey information?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Focusing on the numerical data, what is the total calorie count per serving as explicitly shown?",
+        "answer": "120"
+      },
+      {
+        "question": "Examining the color scheme, what is the predominant color used for the text and headings?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the image, what is the background color of this nutritional information panel?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the textual content, what is the primary subject matter detailed on this label?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Analyzing the layout, what is the organizational structure used to present the nutritional components?",
+        "answer": "Table"
+      },
+      {
+        "question": "Looking at the text size variations, what size is predominantly used for the caloric value?",
+        "answer": "Large"
+      },
+      {
+        "question": "Regarding the visual presentation, what kind of visual elements are primarily used for emphasis?",
+        "answer": "Text"
+      },
+      {
+        "question": "In terms of visual clarity, how would you describe the overall readability of the nutritional information?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Considering the design elements, what is the visual style or aesthetic of the presented data?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Based on the structure and presentation, what is the overall purpose of this document?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Judging from the visual elements, what is the intended audience for this information?",
+        "answer": "Consumers"
+      },
+      {
+        "question": "Observing the text, what is the unit of measurement used for the serving size?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Analyzing the content, what is the main nutrient highlighted prominently on the label?",
+        "answer": "Calories"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/93/937d81cb.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the product packaging, visually apparent?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What primary material constitutes the outer packaging of the product, based on visual appearance?",
+        "answer": "Foil"
+      },
+      {
+        "question": "Observing the text, what type of protein is prominently featured on the packaging?",
+        "answer": "Whey"
+      },
+      {
+        "question": "What is the specific protein concentration percentage stated on the packaging, visible in the image?",
+        "answer": "100"
+      },
+      {
+        "question": "Judging by the text and imagery, what flavor of protein is suggested on the package?",
+        "answer": "Cocoa"
+      },
+      {
+        "question": "Considering the overall design, what is the shape of the product's outer packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the overall style of the product's text and logo design, as visible in the image?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the primary language used in the larger text present on the product packaging?",
+        "answer": "English"
+      },
+      {
+        "question": "Considering the prominent text, what is the stated purpose of this protein product, as depicted visually?",
+        "answer": "Building"
+      },
+      {
+        "question": "Based solely on visual cues, what is the texture of the product's outer packaging?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What secondary color is prominently used in the packaging design, aside from orange?",
+        "answer": "White"
+      },
+      {
+        "question": "Judging from the visual layout, what is the overall orientation of the text on the packaging?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Based on the image, what is the format of the quantity stated on the package?",
+        "answer": "Numeric"
+      },
+      {
+        "question": "What is the style of the brand's name or logo, as it appears on the product?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the apparent condition of the product's packaging, based on the image?",
+        "answer": "New"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b5/b5221cd7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the provided text, what is the primary grain used in this product?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "Based on the ingredient list, is honey included in this food product's composition?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the ingredient list reveal the presence of oats as a component?",
+        "answer": "Yes"
+      },
+      {
+        "question": "According to the label, is cane sugar among the ingredients?",
+        "answer": "Yes"
+      },
+      {
+        "question": "From the list of ingredients, what type of wheat is explicitly mentioned?",
+        "answer": "Sprouted"
+      },
+      {
+        "question": "What is the indicated use of yeast in the production of this item?",
+        "answer": "Leavening"
+      },
+      {
+        "question": "What type of salt is listed among the product's components?",
+        "answer": "Sea"
+      },
+      {
+        "question": "Does the ingredient list specify the presence of wheat gluten?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What specific component, according to the label, is categorized as 'vital'?",
+        "answer": "Gluten"
+      },
+      {
+        "question": "Besides whole wheat, what other type of wheat is mentioned in the ingredients?",
+        "answer": "Cultured"
+      },
+      {
+        "question": "What part of the oat grain is present in the product?",
+        "answer": "Bran"
+      },
+      {
+        "question": "What is the specified form of the oats used in this product?",
+        "answer": "Rolled"
+      },
+      {
+        "question": "What is the state of the whole wheat used, as described in the ingredients?",
+        "answer": "Sprouted"
+      },
+      {
+        "question": "What other component besides wheat flour is mentioned?",
+        "answer": "Water"
+      },
+      {
+        "question": "What term describes the form of wheat found in the listed ingredients?",
+        "answer": "Whole"
+      }
+    ]
+  }
+]

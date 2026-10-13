@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e6/e6ba0315.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the main product component, excluding packaging?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering its shape and size, what is the product's most likely function?",
+        "answer": "Electronic"
+      },
+      {
+        "question": "Describing its surface texture, what kind of finish does the primary device have?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What material appears to primarily constitute the product's external casing?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on the visible markings, what is indicated on the product's top surface?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the overall shape of the central product component, disregarding any packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What color is the prominently displayed Amazon logo on the packaging?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the apparent material used for the outer shipping container?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the color of the additional included paper-based materials?",
+        "answer": "White"
+      },
+      {
+        "question": "Excluding the product, what type of packaging material is visible besides the box?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the general form factor of the item's main functional component?",
+        "answer": "Compact"
+      },
+      {
+        "question": "Considering the included documentation, what is the likely nature of the product's use?",
+        "answer": "Technical"
+      },
+      {
+        "question": "What seems to be the primary purpose of the smaller white paper item?",
+        "answer": "Instructional"
+      },
+      {
+        "question": "Judging by the packaging, how would you categorize this product's likely retail channel?",
+        "answer": "Online"
+      },
+      {
+        "question": "Considering the visible components, what is one word to describe the overall contents?",
+        "answer": "Electronics"
+      }
+    ]
+  }
+]

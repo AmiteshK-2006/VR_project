@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0a/0ab01ce8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the chair's upholstery?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What material appears to be used for the chair's upholstery?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Describe the texture of the chair's upholstery, based on visual appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the shape of the chair's backrest, judging from the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What kind of decorative elements are visible along the chair's edges?",
+        "answer": "Studs"
+      },
+      {
+        "question": "What color are the decorative studs on the chair's frame?",
+        "answer": "Silver"
+      },
+      {
+        "question": "What seems to be the material of the chair's legs, based on visual inspection?",
+        "answer": "Wood"
+      },
+      {
+        "question": "What is the overall style of the chair, based on its design elements?",
+        "answer": "Traditional"
+      },
+      {
+        "question": "Considering the visible seams, describe the construction of the chair's seat cushion?",
+        "answer": "Tufted"
+      },
+      {
+        "question": "What is the apparent color of the chair's legs?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Based on visual observation, what is the chair's approximate height?",
+        "answer": "Tall"
+      },
+      {
+        "question": "Describe the shape of the chair's arms, judging from the image provided?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What is the overall form of the chair, taking into account the backrest and seat?",
+        "answer": "Armchair"
+      },
+      {
+        "question": "Considering the image, describe the visible level of padding in the chair?",
+        "answer": "Plump"
+      },
+      {
+        "question": "Judging from the image, is the chair designed with a high or low backrest?",
+        "answer": "High"
+      }
+    ]
+  }
+]

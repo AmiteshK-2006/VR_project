@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ae/aeae3330.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the visual layout and textual content, what is the primary subject depicted in the image?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Based on the prominent numerical value displayed, what is the total caloric count per serving?",
+        "answer": "150"
+      },
+      {
+        "question": "Observing the textual information, what is the stated serving size in grams?",
+        "answer": "28"
+      },
+      {
+        "question": "Examining the detailed nutritional breakdown, what is the total fat content per serving in grams?",
+        "answer": "9"
+      },
+      {
+        "question": "According to the provided data, what is the saturated fat content per serving in grams?",
+        "answer": "1"
+      },
+      {
+        "question": "Referring to the label's information, what is the sodium content per serving in milligrams?",
+        "answer": "200"
+      },
+      {
+        "question": "What is the total carbohydrate content stated per serving, in grams?",
+        "answer": "15"
+      },
+      {
+        "question": "Based on the label's information, what is the dietary fiber content per serving, in grams?",
+        "answer": "<1"
+      },
+      {
+        "question": "As per the provided data, what is the total sugar content per serving, in grams?",
+        "answer": "<1"
+      },
+      {
+        "question": "According to the label, what is the protein content per serving, in grams?",
+        "answer": "1"
+      },
+      {
+        "question": "What is the amount of Vitamin D, in micrograms, listed per serving?",
+        "answer": "0"
+      },
+      {
+        "question": "According to the label, what is the calcium content, in milligrams, per serving?",
+        "answer": "0"
+      },
+      {
+        "question": "What is the iron content listed per serving, in milligrams?",
+        "answer": "0.6"
+      },
+      {
+        "question": "Based on the provided data, what is the potassium content per serving, in milligrams?",
+        "answer": "160"
+      },
+      {
+        "question": "What is the overall style of the presented information, as visually observed?",
+        "answer": "tabular"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f5/f59b76c8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual presentation, what single word best describes the style of the text displayed on the product's packaging?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the visible text, what is the primary ingredient mentioned in the product's composition?",
+        "answer": "Hemp"
+      },
+      {
+        "question": "What is the method of processing explicitly indicated for the hemp seeds used in this product's manufacture?",
+        "answer": "Milled"
+      },
+      {
+        "question": "Observing the text, what adjective modifies the 'milled' method of processing employed for the seeds?",
+        "answer": "Cold"
+      },
+      {
+        "question": "From the label, determine the state of the hemp seed ingredient described in the product description?",
+        "answer": "Powder"
+      },
+      {
+        "question": "According to the label, what label attribute does the text 'Ingredients' describe on the product?",
+        "answer": "Composition"
+      },
+      {
+        "question": "Judging by the textual layout, what is the arrangement of words in the label's primary line of information?",
+        "answer": "Linear"
+      },
+      {
+        "question": "What word on the packaging label indicates a special attribute or characteristic of the product's ingredients?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Considering the font's appearance, what is the overall case in which the textual information is presented?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "What is the type of food or agricultural product primarily discussed on the product packaging label?",
+        "answer": "Seed"
+      },
+      {
+        "question": "What part of speech is the word 'Ingredients' that appears at the start of the textual label?",
+        "answer": "Noun"
+      },
+      {
+        "question": "Considering the visual aspects, what is the formatting of the ingredient label, concerning the text structure?",
+        "answer": "Plain"
+      },
+      {
+        "question": "What is the visible tone or color of the displayed text on the product's labeling component?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the format of the list of ingredients given on the item's container in terms of its form?",
+        "answer": "Textual"
+      },
+      {
+        "question": "What is the color of the background in which the label text on the product is printed?",
+        "answer": "White"
+      }
+    ]
+  }
+]

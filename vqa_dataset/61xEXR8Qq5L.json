@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4b/4bfc9603.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape and the predominantly white background with black text detailing nutritional information, what is the primary form factor of this packaged food item?",
+        "answer": "Box"
+      },
+      {
+        "question": "Observing the prominent display of numerical data concerning calories and other nutritional components, what is the dominant textual content of this product packaging?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Given the color scheme primarily utilizing white and black for the detailed text layout on the packaging, what would you describe as the packaging's main color?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the fine print listing multiple ingredients and dietary information, what is the material type of the label on this product?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Based on the clearly visible structured textual content, primarily numerical data, what can you infer about the product's intended information?",
+        "answer": "Facts"
+      },
+      {
+        "question": "From the distinct separation of different nutritional components into clearly defined sections, what is the visual organizational method?",
+        "answer": "Table"
+      },
+      {
+        "question": "Based on the specific listing of quantities of fat, carbohydrates, protein, etc., what is the focus of the information presented?",
+        "answer": "Dietary"
+      },
+      {
+        "question": "Given the detailed breakdown of various nutritional values, what is the implied context of this product information?",
+        "answer": "Health"
+      },
+      {
+        "question": "Judging by the presentation style emphasizing numerical data and the detailed composition list, what is the general style of the nutritional information?",
+        "answer": "Formal"
+      },
+      {
+        "question": "From the concise and direct manner in which the nutritional content is presented, what can you say about its intended readability?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Considering the prominent use of bold and clear fonts for key data like the calorie count, what is the implied design goal for the text?",
+        "answer": "Legibility"
+      },
+      {
+        "question": "From the meticulous arrangement of the nutritional information, what is the visual appearance of the layout?",
+        "answer": "Organized"
+      },
+      {
+        "question": "Given the small print containing additional details at the bottom, what is the role of this supplemental text?",
+        "answer": "Details"
+      },
+      {
+        "question": "Looking at the overall appearance of the label, what is the design's orientation in terms of its presentation?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Judging from the overall aesthetic of the packaging with its predominantly white background and black text, what is the overall visual impression?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

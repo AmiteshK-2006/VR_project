@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ba/baf27bf0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the depicted battery?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the dominant color of the battery's casing?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What size designation is prominently displayed on the battery?",
+        "answer": "AAA"
+      },
+      {
+        "question": "What brand name is clearly visible on the battery's label?",
+        "answer": "Amazonbasics"
+      },
+      {
+        "question": "What type of battery is indicated by the text on the label?",
+        "answer": "Alkaline"
+      },
+      {
+        "question": "What is the visible texture of the battery's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What kind of marking indicates the battery's positive terminal?",
+        "answer": "Plus"
+      },
+      {
+        "question": "What kind of marking indicates the battery's negative terminal?",
+        "answer": "Minus"
+      },
+      {
+        "question": "What material appears to comprise the battery's outer shell?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Considering the label, what is the battery's voltage?",
+        "answer": "1.5V"
+      },
+      {
+        "question": "Is there any visible damage or imperfection on the battery?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the general condition of the battery's casing?",
+        "answer": "Intact"
+      },
+      {
+        "question": "What is the style of the text on the battery's label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Describe the arrangement of the text on the label.",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What color is the text on the battery's label?",
+        "answer": "Black"
+      }
+    ]
+  }
+]

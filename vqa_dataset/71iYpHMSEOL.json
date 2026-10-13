@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3b/3ba59cfc.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the dominant shape of this item, as seen in the image?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What appears to be the primary color of the main body of the product shown?",
+        "answer": "Black"
+      },
+      {
+        "question": "Judging by the visual texture, what material seems most likely to constitute the bag's exterior?",
+        "answer": "Nylon"
+      },
+      {
+        "question": "Based on the image, what kind of carrying mechanism is visibly attached to the product?",
+        "answer": "Handle"
+      },
+      {
+        "question": "Considering the visual details, what seems to be the most prominent design feature on this item?",
+        "answer": "Stripes"
+      },
+      {
+        "question": "According to the image, what secondary color is incorporated into the design of the carrying straps?",
+        "answer": "Grey"
+      },
+      {
+        "question": "What is the apparent primary purpose or function of this visually depicted item, judging solely from the image?",
+        "answer": "Storage"
+      },
+      {
+        "question": "From a visual perspective, what type of closure mechanism appears to be lacking in the design of this product?",
+        "answer": "Zipper"
+      },
+      {
+        "question": "Considering the visual clues, how many distinct sections or compartments appear to be present in the bag's design?",
+        "answer": "Three"
+      },
+      {
+        "question": "Based on the visual features, what seems to be the texture of the grey accents on the product?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What type of label or branding is subtly visible on the central section of this product shown?",
+        "answer": "Text"
+      },
+      {
+        "question": "Based solely on the image, can you describe the visible state of the product, is it used or unused?",
+        "answer": "New"
+      },
+      {
+        "question": "What is the overall visual impression of the item\u2019s condition based on what is shown in the image?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Judging from the image, does the product seem designed for carrying something long and thin?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent size of the product relative to a typical adult human, based on common sense and the image provided?",
+        "answer": "Large"
+      }
+    ]
+  }
+]

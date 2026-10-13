@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b1/b119b35d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall appearance of the item in the image, what is the primary displayed food item?",
+        "answer": "Cookies"
+      },
+      {
+        "question": "Based on the visual details, what is the dominant color of the featured cookie?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Judging from the image, what type of chocolate is prominently featured in the cookies?",
+        "answer": "Chips"
+      },
+      {
+        "question": "From a visual standpoint, what descriptive word best characterizes the size of the chocolate pieces in the cookie?",
+        "answer": "Chunky"
+      },
+      {
+        "question": "What is the apparent shape of the individual cookies depicted in the provided image?",
+        "answer": "Round"
+      },
+      {
+        "question": "In the image, what appears to be the texture of the cookie, considering its visual appearance?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What appears to be the main packaging material used for the product, as shown in the image?",
+        "answer": "Foil"
+      },
+      {
+        "question": "Observing the image, what color is the primary text on the packaging of the product?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the apparent shape of the entire product's packaging, as illustrated in the provided image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "From the image, what appears to be the overall color of the product's secondary packaging element?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the visual details, what color is the logo on the package?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the apparent material of the secondary packaging element visible in the product image?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the apparent texture of the primary packaging material used for the product?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the image, what is the shape of the logo on the package?",
+        "answer": "Circular"
+      },
+      {
+        "question": "Based on the visual appearance, what seems to be the primary ingredient visible in the cookies?",
+        "answer": "Chocolate"
+      }
+    ]
+  }
+]
