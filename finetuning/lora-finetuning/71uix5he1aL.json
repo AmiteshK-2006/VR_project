@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/00/002f15de.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the predominant color scheme utilized in the product's packaging?",
+        "answer": "Red"
+      },
+      {
+        "question": "Focusing on the text displayed, what specific brand name is prominently featured on this product's label?",
+        "answer": "SOLMO"
+      },
+      {
+        "question": "Describe the geometric pattern that forms the background of the product's label, what is its shape?",
+        "answer": "Square"
+      },
+      {
+        "question": "What is the apparent texture of the background pattern, is it smooth or something else?",
+        "answer": "Geometric"
+      },
+      {
+        "question": "Based on visual observation, what language(s) are used for the ingredient list on the product?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "What is the overall shape of the container or package shown in the provided image?",
+        "answer": "Square"
+      },
+      {
+        "question": "What is the font style used for the product's brand name, considering its visual appearance?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Judging by its appearance, what is the likely material of the product's container or packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What color is the text denoting the product's brand name, SOLMO?",
+        "answer": "Gold"
+      },
+      {
+        "question": "Observing the text, which section provides detailed information on the product's components?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Describe the visual presentation of the ingredient list, is it organized or not?",
+        "answer": "Organized"
+      },
+      {
+        "question": "What is the case of the lettering used for the words \"INGREDIENTS\"?",
+        "answer": "Upper"
+      },
+      {
+        "question": "How is the ingredient list formatted, with regard to its visual structure?",
+        "answer": "Columns"
+      },
+      {
+        "question": "What is the style of the smaller text in the background, given its visual style?",
+        "answer": "Repeating"
+      },
+      {
+        "question": "What is the overall visual impression given by the combination of color and pattern choices on the product label?",
+        "answer": "Bold"
+      }
+    ]
+  }
+]

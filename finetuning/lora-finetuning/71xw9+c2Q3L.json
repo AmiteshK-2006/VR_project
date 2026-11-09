@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/60/60c709ea.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form and packaging, what is the primary shape of this baked good product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Observing the loaf's exterior, what dominant color is visibly present throughout the entire product?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Based on visual inspection, what appears to be the predominant texture of the bread's surface?",
+        "answer": "Crumbly"
+      },
+      {
+        "question": "Judging from the image, what material is the outer wrapping of this food item primarily made of?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the visible design feature that seems to indicate the product's potential freshness?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "From a visual standpoint, what is the apparent overall consistency of the item, considering its structure and firmness?",
+        "answer": "Solid"
+      },
+      {
+        "question": "By visual assessment, what is the apparent state of the baked product in terms of its readiness for consumption?",
+        "answer": "Ready"
+      },
+      {
+        "question": "Considering the clarity of the packaging, is the nutritional information label easily readable and visible?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging by the image, how many individual units appear to comprise this food product offering?",
+        "answer": "One"
+      },
+      {
+        "question": "Looking at the product's presentation, does the packaging imply a degree of shelf stability or perishability?",
+        "answer": "Perishable"
+      },
+      {
+        "question": "What is the predominant material implied by the product's appearance and color, suggesting its composition?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "Considering the clarity of the image, is there any evidence of external markings or brand logos on the packaging?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on visual cues, what might be the intended usage or consumption method of this food item?",
+        "answer": "Eating"
+      },
+      {
+        "question": "What is the most prominent visual indicator suggesting this product's purpose, evident in its packaging and shape?",
+        "answer": "Bread"
+      },
+      {
+        "question": "In the provided image, what is the overall visual impression of the product's condition or quality?",
+        "answer": "Fresh"
+      }
+    ]
+  }
+]

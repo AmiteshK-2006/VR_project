@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6c/6c761998.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color observed across the entire fabric sample?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent weave type of this fabric?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Based on the image, what kind of surface texture does the fabric primarily exhibit?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Judging from the image, what is the general visual impression of the fabric's thickness?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the overall visual appearance of the fabric's color saturation?",
+        "answer": "Low"
+      },
+      {
+        "question": "Examining the image, what is the perceived level of sheen or glossiness of the material?",
+        "answer": "Matte"
+      },
+      {
+        "question": "From the image alone, what might be the inferred weight or density of this fabric?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Describe the visual uniformity or consistency of the fabric's color and texture.",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Considering the visual details, what is the apparent fiber type of this fabric?",
+        "answer": "Unknown"
+      },
+      {
+        "question": "Based purely on visual observation, does the fabric look tightly or loosely woven?",
+        "answer": "Tightly"
+      },
+      {
+        "question": "What is the predominant visual pattern exhibited across the fabric's surface?",
+        "answer": "Linear"
+      },
+      {
+        "question": "What is the main visual effect created by the fabric's weave and color?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "What seems to be the general visual softness or stiffness of the fabric?",
+        "answer": "Medium"
+      },
+      {
+        "question": "If considering its visual characteristics, what kind of setting might this fabric suit?",
+        "answer": "Upholstery"
+      },
+      {
+        "question": "What kind of overall visual feel does the fabric's texture create?",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

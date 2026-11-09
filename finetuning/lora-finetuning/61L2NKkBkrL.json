@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/65/65e149f7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what is the primary function of this visually depicted item?",
+        "answer": "Label"
+      },
+      {
+        "question": "What is the dominant color scheme observed throughout the entirety of this product image?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the most prominent textual element found on this label, based on visual prominence?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Describe the font style used for the major textual content on this particular item.",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the primary material or substrate visibly supporting the text and graphic elements?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Identify the shape or format of the labeled item shown in the supplied image.",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the visible texture of the surface area bearing the textual content, based on appearance.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Is there any noticeable logo or branding present on the surface of the product shown in the image?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on visual observation, what appears to be the primary method of printing or marking used on this product?",
+        "answer": "Digital"
+      },
+      {
+        "question": "Identify the language used within the primary textual content visually presented on this item.",
+        "answer": "English"
+      },
+      {
+        "question": "Is the textual content primarily organized in a linear or a non-linear fashion?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Does the visible text contain any capitalized sections, and if so, what is the format?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based purely on visual observation, what is the approximate size of the font used in the primary text section?",
+        "answer": "Small"
+      },
+      {
+        "question": "Describe the layout of the text on the surface of the product, is it aligned left, centered or right?",
+        "answer": "Left"
+      },
+      {
+        "question": "Does the image include any illustrations or graphics alongside the textual content?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

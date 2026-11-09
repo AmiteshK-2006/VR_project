@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/56/56caec42.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual layout, what is the dominant color of the background where the ingredient list is printed?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the primary font color used to display the ingredient list against the background?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the typography, what type of font is primarily utilized for displaying the text detailing the ingredients?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the text's visual presentation, what is the overall case of the ingredient list's lettering?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "If you examine the size and style of the text, is there any significant variation in the font size used for different components within the ingredient list?",
+        "answer": "No"
+      },
+      {
+        "question": "Disregarding punctuation, how many different ingredients can be visually identified in the ingredient list?",
+        "answer": "Nine"
+      },
+      {
+        "question": "Looking at the list, how many of the ingredients listed are explicitly labeled as 'organic'?",
+        "answer": "Eight"
+      },
+      {
+        "question": "From the given list, what ingredient is listed last before the processing facility note?",
+        "answer": "Salt"
+      },
+      {
+        "question": "Inspecting the list's formatting, what word separates the list of ingredients from the processing facility note?",
+        "answer": "Produced"
+      },
+      {
+        "question": "What is the last ingredient specifically mentioned in the ingredients list before the processing facility note?",
+        "answer": "Peppermint"
+      },
+      {
+        "question": "What single word is used to describe the salt contained within the ingredient list?",
+        "answer": "Sea"
+      },
+      {
+        "question": "What is the word that precedes the list of ingredients?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the final item mentioned in the statement regarding the processing facility?",
+        "answer": "Soy"
+      },
+      {
+        "question": "Reading the final cautionary statement, which of these four components: Tree Nuts, Milk, Wheat, or Soy, is listed last?",
+        "answer": "Soy"
+      },
+      {
+        "question": "Examining the text's style, what punctuation mark follows each ingredient?",
+        "answer": "Comma"
+      }
+    ]
+  }
+]

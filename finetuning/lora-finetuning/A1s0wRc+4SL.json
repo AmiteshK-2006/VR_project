@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5a/5ae492c3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed fabric sample?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the apparent texture of the material shown in the image?",
+        "answer": "Suede"
+      },
+      {
+        "question": "Considering the visual appearance, what is the likely material of this fabric?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Based solely on the image, how would you describe the overall visual feel of the fabric?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What is the general tonal range of the depicted fabric sample?",
+        "answer": "Warm"
+      },
+      {
+        "question": "Does the fabric display any pronounced pattern or design elements?",
+        "answer": "No"
+      },
+      {
+        "question": "From the provided close-up, how would you describe the surface uniformity?",
+        "answer": "Even"
+      },
+      {
+        "question": "Considering the visual detail, what is the apparent fiber density?",
+        "answer": "High"
+      },
+      {
+        "question": "Judging by its visual characteristics, is this material likely lightweight or heavy?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "Does the depicted fabric showcase a glossy or matte finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "From visual inspection, what is the overall apparent sheen level?",
+        "answer": "Low"
+      },
+      {
+        "question": "Does the sample display any significant irregularities in its coloration?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the image, is there a visible grain direction in the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image, how would you characterize the color saturation?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Judging visually, does the texture appear smooth or rough to the touch?",
+        "answer": "Rough"
+      }
+    ]
+  }
+]

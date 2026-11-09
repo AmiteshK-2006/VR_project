@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/33/33043cfe.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme employed throughout the entire nutrition facts label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the primary font style used for the numerical values representing dietary components?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the format of the presented data, detailing the nutritional breakdown of each serving?",
+        "answer": "Table"
+      },
+      {
+        "question": "What specific measurement unit is consistently used to quantify the amount of each nutrient or component?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the shape of the rectangular area containing all the essential nutrition information?",
+        "answer": "Rectangle"
+      },
+      {
+        "question": "What is the primary method of presenting percentages to indicate the daily value of different nutritional elements?",
+        "answer": "Numbers"
+      },
+      {
+        "question": "What is the descriptive term prominently displayed at the very top of the nutrition information panel?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the specific term used to describe the size of a single serving, based on weight measurements?",
+        "answer": "Square"
+      },
+      {
+        "question": "What is the textual description of the data presented, emphasizing the nutritional composition of each serving?",
+        "answer": "Facts"
+      },
+      {
+        "question": "What is the term used to describe the total energy content, expressed in numerical form for a single portion?",
+        "answer": "Calories"
+      },
+      {
+        "question": "What is the descriptive term referring to the fats that are considered unhealthy and should be limited in a person's diet?",
+        "answer": "Saturated"
+      },
+      {
+        "question": "What is the type of fat mentioned that is known for being relatively harmless to one's health?",
+        "answer": "Trans"
+      },
+      {
+        "question": "What is the mineral that is crucial for maintaining fluid balance within the body and is listed alongside other nutrients?",
+        "answer": "Potassium"
+      },
+      {
+        "question": "What is the term used to describe a complex carbohydrate that cannot be digested by humans, usually found in plants?",
+        "answer": "Fiber"
+      },
+      {
+        "question": "What is the essential macronutrient that is responsible for building and repairing tissues within the body?",
+        "answer": "Protein"
+      }
+    ]
+  }
+]

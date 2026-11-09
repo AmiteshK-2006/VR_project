@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0d/0d0e5f3b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color scheme of the food label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary shape of the container as depicted in the nutrition label's layout?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Observing the text's organization, what is the most frequently used font style?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the text's visual characteristics, what is the general size of the font used in the label?",
+        "answer": "Small"
+      },
+      {
+        "question": "Analyzing the label's design, what is the most noticeable compositional element?",
+        "answer": "Table"
+      },
+      {
+        "question": "Given the visual content, what type of nutritional information is prominently displayed?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Judging by the text's visual presence, what is the unit of measurement used for serving size?",
+        "answer": "Tablespoon"
+      },
+      {
+        "question": "What is the visual representation of the measurement for sodium content in milligrams?",
+        "answer": "350"
+      },
+      {
+        "question": "Based on the visual information provided, what is the textual representation of the caloric content?",
+        "answer": "Five"
+      },
+      {
+        "question": "From the image, what is the visual style of the text layout primarily used for information presentation?",
+        "answer": "Columnar"
+      },
+      {
+        "question": "What is the visible textual indicator of the serving size?",
+        "answer": "1"
+      },
+      {
+        "question": "Based on what is visually clear, what is the text's orientation on the product container?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the overall visual texture of the presented information?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering visual aspects, what is the textual representation of the measurement unit for total fat?",
+        "answer": "Og"
+      },
+      {
+        "question": "What is the primary visual function of this image?",
+        "answer": "Informative"
+      }
+    ]
+  }
+]

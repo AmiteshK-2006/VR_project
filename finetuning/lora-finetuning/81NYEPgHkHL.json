@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/08/08ce12e2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall textual layout of the size guide presented in this image?",
+        "answer": "tabular"
+      },
+      {
+        "question": "Considering the visual hierarchy, what is the primary organizing principle used to arrange the dog breed information?",
+        "answer": "size"
+      },
+      {
+        "question": "What is the color scheme predominantly used for the text blocks in this infographic?",
+        "answer": "teal"
+      },
+      {
+        "question": "What graphical element is used to represent each dog breed category within the provided size ranges?",
+        "answer": "silhouette"
+      },
+      {
+        "question": "What is the general style of the dog illustrations used within this size guide?",
+        "answer": "lineart"
+      },
+      {
+        "question": "Describe the visual presentation of the weight range for each dog size category.",
+        "answer": "numeric"
+      },
+      {
+        "question": "What is the overall background color of the size guide shown in this image?",
+        "answer": "white"
+      },
+      {
+        "question": "What is the font style used for the text that displays each dog size category?",
+        "answer": "sans-serif"
+      },
+      {
+        "question": "Describe the visual representation of the weight units used in the size guide for dogs.",
+        "answer": "lbs"
+      },
+      {
+        "question": "What is the primary method used to visually distinguish the different size categories in the image?",
+        "answer": "blocks"
+      },
+      {
+        "question": "Considering the image, what is the orientation of the infographic showing dog sizes and breeds?",
+        "answer": "vertical"
+      },
+      {
+        "question": "What is the visual style used for the separation of different sections for dog breed categories?",
+        "answer": "lines"
+      },
+      {
+        "question": "What is the format used to present dog breeds corresponding to each weight range?",
+        "answer": "list"
+      },
+      {
+        "question": "What is the visual style of the numbers depicting the dog weight ranges in the size guide?",
+        "answer": "numeric"
+      },
+      {
+        "question": "Considering the image's content, what is the overall topic of the provided infographic?",
+        "answer": "dogs"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1a/1a45c912.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual layout, what is the primary textual arrangement on the label?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Regarding the text's visual properties, what is the primary font style used throughout the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Focusing on the text's visual characteristics, what is the predominant color of the text on the label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the visual characteristics of the typography, what size is the text in the \"OTHER INGREDIENTS\" section?",
+        "answer": "Small"
+      },
+      {
+        "question": "Observing the text's visual presentation, is there any noticeable variation in font weight within the label?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the visual composition, what is the general shape of each individual textual block on the label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "From a visual perspective, is the text justified, left-aligned, or right-aligned?",
+        "answer": "Left-aligned"
+      },
+      {
+        "question": "What is the spacing between individual lines of text within each block, judged visually?",
+        "answer": "Tight"
+      },
+      {
+        "question": "Judging by visual analysis, what is the background color of the label?",
+        "answer": "White"
+      },
+      {
+        "question": "Visually inspecting the text block, what is the case of the lettering used in the \"CONTAINS SOY INGREDIENTS\" statement?",
+        "answer": "Sentence"
+      },
+      {
+        "question": "What is the visual density of the text information across the label, low or high?",
+        "answer": "High"
+      },
+      {
+        "question": "Considering the visual style, is the overall design of the label simple or complex?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Focusing on the visual details, what is the visual clarity of the text throughout the image?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the visual texture of the label surface, based on the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the visual contrast between the text and background using a single word.",
+        "answer": "High"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/33/33a3ed9b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color displayed across the entire fabric sample?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visible weave, what is the apparent material type?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Based on the image texture, how would you describe the surface feel?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Observing the image closely, what is the overall visual pattern?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Judging from the image, what is the most noticeable visual characteristic of the textile?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Does the fabric exhibit any visible sheen or shine in the provided image?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the predominant shade observed in the textile sample's color?",
+        "answer": "Dark"
+      },
+      {
+        "question": "From the appearance, how would one categorize this textile's weight?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What type of textile construction is primarily visible in this close-up?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Describe the apparent thickness or density of this fabric sample.",
+        "answer": "Thick"
+      },
+      {
+        "question": "From visual inspection, does the fabric show any visible irregularities?",
+        "answer": "None"
+      },
+      {
+        "question": "Based solely on the image, does this fabric present a smooth or rough texture?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What seems to be the implied intended use for this kind of textile?",
+        "answer": "Upholstery"
+      },
+      {
+        "question": "If you were to feel it, how tightly woven do you believe the threads are?",
+        "answer": "Tight"
+      },
+      {
+        "question": "What would you describe the overall style of this fabric sample as?",
+        "answer": "Modern"
+      }
+    ]
+  }
+]

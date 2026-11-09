@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/be/be78b6da.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the packaging, as shown in the image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What material appears to constitute the packaging's primary surface?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the overall shape of the product's packaging, based on visual observation?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the visible text, what brand name is prominently displayed on the packaging?",
+        "answer": "Vedakg"
+      },
+      {
+        "question": "Based on the image, what is the explicitly stated net weight of the product's contents?",
+        "answer": "1kg"
+      },
+      {
+        "question": "What kind of finish does the packaging's surface appear to possess, based on visual texture?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Describe the visual style of the text used for the brand name on the product packaging.",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Observing the image closely, what is the predominant shade of the packaging's background?",
+        "answer": "Lightbrown"
+      },
+      {
+        "question": "What is the apparent texture of the packaging material, as depicted visually?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Is there any noticeable pattern on the packaging apart from text and branding?",
+        "answer": "None"
+      },
+      {
+        "question": "Judging by the image, does the packaging appear to be sealed or openable?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "What is the primary means of information dissemination used on the package, aside from images?",
+        "answer": "Text"
+      },
+      {
+        "question": "Does the packaging showcase a noticeable gloss, sheen or shine?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on visual assessment, is the packaging design minimalistic or ornate?",
+        "answer": "Minimalistic"
+      },
+      {
+        "question": "In the presented image, what is the overall orientation of the product packaging?",
+        "answer": "Vertical"
+      }
+    ]
+  }
+]

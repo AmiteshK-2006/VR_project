@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4a/4a8368ed.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the device shown in the provided image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the overall form, what best describes the device's shape?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the image, what appears to be the primary material of the product's casing?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Observing the device's surface, what is the apparent finish or texture?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What is the visible branding or logo present on the device's top surface?",
+        "answer": "UMI"
+      },
+      {
+        "question": "Located on the device's side, what is the shape of the noticeable button?",
+        "answer": "Circular"
+      },
+      {
+        "question": "Examining the device's features, what type of port is clearly visible?",
+        "answer": "DC"
+      },
+      {
+        "question": "Are there any other clearly visible ports besides the DC port?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the design element apparent on the device\u2019s front?",
+        "answer": "Speaker"
+      },
+      {
+        "question": "What is the general size of the device relative to a human hand?",
+        "answer": "Small"
+      },
+      {
+        "question": "Are there any markings or indicators other than the logo on the top?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering its features, what is the device's possible function?",
+        "answer": "Electronic"
+      },
+      {
+        "question": "Based on its design, is the device portable or stationary?",
+        "answer": "Portable"
+      },
+      {
+        "question": "Does the device show any visible screws or seams?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image, are there any visible LEDs or indicators?",
+        "answer": "No"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/82/82549d8c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall textual presentation style of the product label, considering font, capitalization, and arrangement of information?",
+        "answer": "Block"
+      },
+      {
+        "question": "What color is the primary text used for the 'Active Ingredient' section heading?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the color of the text indicating the active ingredient, Benzalkonium Chloride?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the predominant color used for the inactive ingredients list?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the label, what is the designated purpose of the product?",
+        "answer": "Antiseptic"
+      },
+      {
+        "question": "What color is the 'Purpose' section heading on the label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the background color of the label's informational sections?",
+        "answer": "White"
+      },
+      {
+        "question": "Observing the label's structure, what type of visual separation exists between sections?",
+        "answer": "Lines"
+      },
+      {
+        "question": "Considering the font used throughout the label, what is its general style?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the visual format used to present the listed ingredients?",
+        "answer": "List"
+      },
+      {
+        "question": "What is the case of the lettering used for the inactive ingredients list?",
+        "answer": "Sentence"
+      },
+      {
+        "question": "Describe the arrangement of the 'Active Ingredient' and 'Inactive Ingredient' sections.",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the visual style of the text concerning the concentration of Benzalkonium Chloride?",
+        "answer": "Numerical"
+      },
+      {
+        "question": "What is the overall orientation of the text on the product label?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Disregarding section headers, what is the primary text color found in the ingredient lists?",
+        "answer": "Black"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/59/59c7829a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant textural characteristic of the displayed surface?",
+        "answer": "Grainy"
+      },
+      {
+        "question": "Describe the overall color gradient observed across the entire product?",
+        "answer": "Ombre"
+      },
+      {
+        "question": "What is the primary color shade visible in the product's darker region?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the primary color shade visible in the product's lighter region?",
+        "answer": "Grey"
+      },
+      {
+        "question": "Considering the entire image, what is the shape of the displayed product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visual texture, what could be the material of this item?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "What is the general appearance of the color transition from light to dark?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the consistency of the visible color gradient across the item?",
+        "answer": "Even"
+      },
+      {
+        "question": "What is the most noticeable visual quality present across the entire item?",
+        "answer": "Fade"
+      },
+      {
+        "question": "Observing the texture, is the surface rough or smooth to the touch?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Is there any discernible pattern in the color gradient of the object?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the most prominent visible feature of this product's surface?",
+        "answer": "Texture"
+      },
+      {
+        "question": "If the surface were touched, what would its feel likely be?",
+        "answer": "Coarse"
+      },
+      {
+        "question": "Does the item show any visible imperfections or irregularities?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image alone, what is the apparent finish of the surface?",
+        "answer": "Matte"
+      }
+    ]
+  }
+]

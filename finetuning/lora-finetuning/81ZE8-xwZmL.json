@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0c/0c638882.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color scheme of this food label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the primary font style used for the prominent headings like 'Nutrition Facts' and 'Calories'?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Examining the layout, what is the organizational structure used to present the nutritional information?",
+        "answer": "Tabular"
+      },
+      {
+        "question": "Based on the visual design, what is the primary method used to highlight key nutritional values?",
+        "answer": "Bolding"
+      },
+      {
+        "question": "What is the shape of the individual data cells within the nutritional information table?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the visual texture of the background of the nutrition facts label?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the image's visual elements, how many columns are visibly present in the nutritional information section?",
+        "answer": "Four"
+      },
+      {
+        "question": "What is the general visual style of the numeric data presented on the label?",
+        "answer": "Plain"
+      },
+      {
+        "question": "What is the text alignment used for the major headings, such as 'Calories' and 'Total Fat'?",
+        "answer": "Left"
+      },
+      {
+        "question": "What is the overall visual tone conveyed by the design of the nutrition facts label?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Based on the visual appearance, what is the relative size of the 'Calories' value compared to other nutritional data?",
+        "answer": "Large"
+      },
+      {
+        "question": "Looking at the label, what is the visual way the percentage daily values are presented?",
+        "answer": "Numeric"
+      },
+      {
+        "question": "What is the style of the border or line used to separate different sections within the nutritional information?",
+        "answer": "None"
+      },
+      {
+        "question": "Describe the visual representation of the serving size information on the label.",
+        "answer": "Textual"
+      },
+      {
+        "question": "What is the visual clarity of the font used throughout the nutrition label?",
+        "answer": "Clear"
+      }
+    ]
+  }
+]

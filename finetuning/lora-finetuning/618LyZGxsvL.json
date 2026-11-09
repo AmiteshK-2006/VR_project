@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c8/c8a09920.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape and the detailed text within clearly defined borders, what is the primary format of this displayed product information?",
+        "answer": "Table"
+      },
+      {
+        "question": "Observing the text's alignment and organization within the rectangular frame, what is the dominant orientation of the labels and numerical values?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Focusing on the color palette of the text and background, what color best describes the overall presentation?",
+        "answer": "White"
+      },
+      {
+        "question": "Examining the font style and weight used throughout the displayed nutritional data, what word best describes the typeface?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the detailed layout including labels and values, what is the language used for the nutritional data in this frame?",
+        "answer": "Japanese"
+      },
+      {
+        "question": "Considering the context, what is the most prominent and repeated unit of measurement used to express quantities?",
+        "answer": "Gram"
+      },
+      {
+        "question": "Judging by the textual content alone, what is the most likely subject of this rectangular detailed presentation?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Considering the visual layout, what is the primary method of conveying information in this frame?",
+        "answer": "Text"
+      },
+      {
+        "question": "Considering the precise and structured presentation of values, what would best describe the format of quantitative data?",
+        "answer": "Numerical"
+      },
+      {
+        "question": "Given the use of numbers and labels, what kind of information is being represented concisely in this frame?",
+        "answer": "Data"
+      },
+      {
+        "question": "Based on the structure and arrangement, what is the general style of data presentation used to convey nutritional information?",
+        "answer": "Tabular"
+      },
+      {
+        "question": "Observing the visual style, what would best describe the level of detail in the presentation of nutritional components?",
+        "answer": "Precise"
+      },
+      {
+        "question": "By examining the clear separation of labels and numerical values, what can be described as the level of organization?",
+        "answer": "High"
+      },
+      {
+        "question": "Considering the overall presentation, what is the intended purpose of this information display, judging by visual elements alone?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Considering the context of the presented information, what is the overarching theme communicated in this frame?",
+        "answer": "Nutritional"
+      }
+    ]
+  }
+]

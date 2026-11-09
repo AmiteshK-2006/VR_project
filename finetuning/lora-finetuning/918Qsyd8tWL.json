@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5e/5ebd40e0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout and key arrangement, what is the dominant type of this input device?",
+        "answer": "Keyboard"
+      },
+      {
+        "question": "Based on the visual appearance of the keys and casing, what material seems to be predominantly used in its construction?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Observing the color of the keys and frame, what single word best describes the device's overall chromatic presentation?",
+        "answer": "Black"
+      },
+      {
+        "question": "Examining the keyboard's design, is its form factor typically described as full-size or compact?",
+        "answer": "Full-size"
+      },
+      {
+        "question": "Focusing on the key tops, what is the discernible text imprinted onto each keycap for user input?",
+        "answer": "Letters"
+      },
+      {
+        "question": "Looking closely at the upper right corner, what brand name is subtly visible on the keyboard's casing?",
+        "answer": "Logitech"
+      },
+      {
+        "question": "Considering the keyboard's structure, what is the primary orientation of this input peripheral intended for desktop use?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Based on the visible features, what is the type of connection interface implied by the keyboard's design (wired/wireless)?",
+        "answer": "Wired"
+      },
+      {
+        "question": "Analyzing the surface of the keys, what textural quality do they mostly present (smooth/rough/textured)?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the arrangement of keys, what distinct section is located towards the right side of the main typing area?",
+        "answer": "Numeric"
+      },
+      {
+        "question": "Observing the keyboard's frame, what geometric shape best defines its overall external profile?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Analyzing the keyboard's function keys,  what row is designated at the very top of the keyboard layout?",
+        "answer": "Function"
+      },
+      {
+        "question": "Focusing on the bottom left area, what key is visually identifiable for user control actions?",
+        "answer": "Windows"
+      },
+      {
+        "question": "Observing the key's details, what is the visual appearance of the characters etched on them (raised/recessed/flat)?",
+        "answer": "Raised"
+      },
+      {
+        "question": "Considering the keyboard's components, what is the primary mechanism used for actuation of each key?",
+        "answer": "Membrane"
+      }
+    ]
+  }
+]

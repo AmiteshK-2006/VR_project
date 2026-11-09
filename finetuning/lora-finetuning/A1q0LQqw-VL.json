@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/64/641a0d2e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed fabric swatch?",
+        "answer": "Rust"
+      },
+      {
+        "question": "What is the overall texture of the fabric, based on visual inspection?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the fabric appear to possess a visible pattern or design?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the visual details, what is the likely material?",
+        "answer": "Velvet"
+      },
+      {
+        "question": "Considering the image's resolution, what is the apparent weave or knit type?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Based solely on the image, what is the general tone or shade of the color?",
+        "answer": "Warm"
+      },
+      {
+        "question": "Does the swatch show any noticeable sheen or glossiness?",
+        "answer": "Slight"
+      },
+      {
+        "question": "Is there any noticeable pile or nap apparent on the surface?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the visual texture, does the material seem heavy or light?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "Is there any visible indication of a print, embroidery, or other embellishment?",
+        "answer": "No"
+      },
+      {
+        "question": "What level of color uniformity is presented across the sample?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Does the material's color seem natural or artificially dyed?",
+        "answer": "Dyed"
+      },
+      {
+        "question": "Based on visual inspection, does the fabric appear woven or non-woven?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Is the image showing a close-up view or a wide-shot?",
+        "answer": "Close-up"
+      },
+      {
+        "question": "From visual examination, is the fabric showing any signs of wear?",
+        "answer": "No"
+      }
+    ]
+  }
+]

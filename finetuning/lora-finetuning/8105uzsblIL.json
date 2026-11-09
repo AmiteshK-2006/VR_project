@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/be/be417453.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the displayed packaging box?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What appears to be the primary material used for the box's construction?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Describe the overall three-dimensional shape of the presented package?",
+        "answer": "Cuboid"
+      },
+      {
+        "question": "What is the visible texture of the outer surface of the shipping box?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the image, what seems to be the apparent function of this item?",
+        "answer": "Packaging"
+      },
+      {
+        "question": "What kind of label is affixed to the surface of the cardboard container?",
+        "answer": "Shipping"
+      },
+      {
+        "question": "Based on visual inspection, what is the apparent size of the shipping box relative to average objects?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Disregarding the label, what design elements are prominently visible on the box?",
+        "answer": "None"
+      },
+      {
+        "question": "Can you describe the visible condition of the cardboard packaging in the image?",
+        "answer": "New"
+      },
+      {
+        "question": "Does the box in the image seem to have any significant structural damage or imperfections?",
+        "answer": "No"
+      },
+      {
+        "question": "Focusing solely on the visible portion, is the packaging box sealed or open?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Considering the visible details, what is the apparent weight of this packaging box?",
+        "answer": "Light"
+      },
+      {
+        "question": "Describe the printing quality of the text on the label attached to the box.",
+        "answer": "Clear"
+      },
+      {
+        "question": "What color is the text visible on the label affixed to the box?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the style of the font used on the shipping label attached to the box?",
+        "answer": "Sans-serif"
+      }
+    ]
+  }
+]

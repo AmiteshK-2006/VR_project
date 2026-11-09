@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/00/007f39e5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the container holding the product?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the apparent texture of the product inside the container?",
+        "answer": "Gel"
+      },
+      {
+        "question": "What shape best describes the container's overall form?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the apparent primary color of the label on the container?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "Considering the size relative to the hand, what is the container's size category?",
+        "answer": "Small"
+      },
+      {
+        "question": "What material appears to constitute the container itself?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the general form of the labeling on the product container?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Are there any visible markings or text apart from the primary label?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the product appear to have a translucent or opaque quality?",
+        "answer": "Translucent"
+      },
+      {
+        "question": "Based on the visual presentation, what is the product's likely consistency?",
+        "answer": "Thick"
+      },
+      {
+        "question": "What is the overall design aesthetic of the product's packaging?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Judging by the image, what is the product's apparent state: solid, liquid, or other?",
+        "answer": "Gel"
+      },
+      {
+        "question": "What is the visible color of the product within its packaging?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "Does the container have a lid or closure visible in the image?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the relative height of the product container compared to a human hand?",
+        "answer": "Short"
+      }
+    ]
+  }
+]

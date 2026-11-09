@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e3/e37dce13.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary textual information conveyed across the entire image, indicating its core purpose?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Considering the overall layout, what is the dominant structural element used to organize the data presented?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the predominant color scheme used for the text and background of the nutritional information label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Observing the text, what measurement unit is consistently used to quantify the various nutritional components?",
+        "answer": "mg"
+      },
+      {
+        "question": "Based on the visual layout, what is the most prominent numerical value displayed near the top of the nutritional data?",
+        "answer": "10"
+      },
+      {
+        "question": "Examining the textual content, what specific nutrient's quantity is highlighted with the highest percentage value?",
+        "answer": "Sodium"
+      },
+      {
+        "question": "What is the shape of the container providing the nutrition facts in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the overall size of the container providing the nutrition information in the image?",
+        "answer": "Small"
+      },
+      {
+        "question": "Considering the visual presentation, is the text primarily horizontally or vertically aligned?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the font style of the text used in the 'Nutrition Facts' label and the rest of the table content?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What type of information is given as a percentage for several components in the visual data?",
+        "answer": "Daily"
+      },
+      {
+        "question": "What is the serving size stated in the nutrition facts container in the provided image?",
+        "answer": "2tsp"
+      },
+      {
+        "question": "Considering the overall structure and data presented, what is the category of this image?",
+        "answer": "Food"
+      },
+      {
+        "question": "What specific information can be easily found under the category header \u2018Amount per serving\u2019?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Disregarding the numerical values, what is the category most prominently listed besides the main header?",
+        "answer": "Calories"
+      }
+    ]
+  }
+]

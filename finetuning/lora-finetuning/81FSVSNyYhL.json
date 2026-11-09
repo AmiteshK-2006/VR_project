@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bf/bf46da8e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape and the presence of clearly defined text blocks detailing nutritional information, what is the most prominent feature of the image?",
+        "answer": "Label"
+      },
+      {
+        "question": "Focusing on the prominent numerical value displayed within a large box, what is the quantified characteristic of a single serving?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Observing the textual content and its organization, what specific dietary aspect is the label primarily focused on conveying?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Looking closely at the color palette of the textual components, what is the dominant color used for the label's main text?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the clear division of information, what is the specific unit of measurement consistently used for the quantities listed?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Analyzing the size and style of the typography used, which nutritional component is given the most visual emphasis?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Examining the distinct blocks of data, which section provides information on the amounts of various nutrients per serving?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Considering the detailed information provided, which macronutrient has the highest value per serving according to the label?",
+        "answer": "Carbohydrate"
+      },
+      {
+        "question": "Observing the fine details of the layout, what unit of volume is used in conjunction with the serving size?",
+        "answer": "Ounces"
+      },
+      {
+        "question": "Focusing on the structure of the label, how many servings are indicated to be contained within a single unit of the product?",
+        "answer": "Four"
+      },
+      {
+        "question": "Considering the precise values listed, what specific type of fat is explicitly identified and quantified?",
+        "answer": "Total"
+      },
+      {
+        "question": "Based on the layout and style of the nutritional facts, what aspect of the nutritional content is specifically highlighted within the label?",
+        "answer": "Sugars"
+      },
+      {
+        "question": "Examining the presentation of the data, what is the percentage of daily value indicated for Sodium on a per-serving basis?",
+        "answer": "Two"
+      },
+      {
+        "question": "Observing the format of the information, what specific vitamin is explicitly listed amongst other micronutrients on the label?",
+        "answer": "Vitamin"
+      },
+      {
+        "question": "Considering the range of nutritional information presented, what mineral is explicitly identified and quantified in milligrams?",
+        "answer": "Calcium"
+      }
+    ]
+  }
+]

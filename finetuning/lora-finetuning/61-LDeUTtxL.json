@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e9/e9612146.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the product's packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What primary color dominates the product's packaging?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What material appears to constitute the product's outer packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Describe the texture apparent on the packaging's surface.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent finish of the packaging's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the visible printing, what is the overall style of the packaging design?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What color are the small illustrated items depicted on the box's top?",
+        "answer": "Pastel"
+      },
+      {
+        "question": "Based on the visible text, what type of product is contained within?",
+        "answer": "Hair"
+      },
+      {
+        "question": "What is the apparent condition of the product's packaging?",
+        "answer": "New"
+      },
+      {
+        "question": "What is the dominant tone conveyed by the packaging's color scheme?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "What is visible on one side of the package indicating product details?",
+        "answer": "Text"
+      },
+      {
+        "question": "Is there a barcode visible on the product's packaging?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the box appear to be sealed or opened?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Judging by its size, what is the likely packaging type?",
+        "answer": "Box"
+      },
+      {
+        "question": "What is the general style of the text on the box?",
+        "answer": "Sans-serif"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/18/18117836.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color scheme of the displayed text, based on visual observation?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the font style and text size, what level of readability does the label exhibit?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the background color of the ingredient label, as directly perceived?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of the product label shown in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on visual characteristics, what is the apparent texture of the label surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging from the image, what is the predominant type style used for the text elements?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the overall visual impression of the text's alignment?",
+        "answer": "Left"
+      },
+      {
+        "question": "Describe the case of the lettering used on the nutritional label based solely on the image.",
+        "answer": "Upper"
+      },
+      {
+        "question": "Does the image reveal any noticeable visual imperfections or printing flaws on the label?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent visual density of the text on the product label?",
+        "answer": "High"
+      },
+      {
+        "question": "Considering the arrangement, what is the visual organization of the ingredient list?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Based on the visible text, what is the format of the listed ingredients?",
+        "answer": "List"
+      },
+      {
+        "question": "What is the visual prominence of the 'INGREDIENTS' header compared to other text?",
+        "answer": "High"
+      },
+      {
+        "question": "Describe the visual style of the word 'INGREDIENTS' on the provided label.",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the visual method used to separate individual ingredients in the list?",
+        "answer": "Comma"
+      }
+    ]
+  }
+]

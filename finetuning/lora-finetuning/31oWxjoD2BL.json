@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1e/1e181981.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's visual characteristics, what is the overall color scheme predominantly used in the product's label design?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Based on the image, what appears to be the primary material of the product's packaging, as observed from its texture and reflectivity?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Judging by the visual clarity and style of the font, what is the general design style used for the text on the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "From the image, what kind of information is displayed most prominently, given its visual weight and positioning?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Observing the label, what is the primary tone or mood evoked by the color palette and text style used?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Given the overall style of the text, what is the likely intended audience or market segment for this product based purely on visual appearance?",
+        "answer": "Adults"
+      },
+      {
+        "question": "What word, clearly visible in the image, suggests a key ingredient or flavor profile of the product, as inferred from its visual prominence?",
+        "answer": "Bourbon"
+      },
+      {
+        "question": "Judging from the image, what type of label does the product appear to have - considering its size, placement, and style?",
+        "answer": "Wraparound"
+      },
+      {
+        "question": "What word in the visible text best describes the origin of a primary ingredient used, in the product, as evident in its visual prominence?",
+        "answer": "Organic"
+      },
+      {
+        "question": "In the image, what is the dominant type of text used - is it mostly upper case or lower case letters?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Based on the visual information, can you determine the texture of the surface of the product’s label from its visual appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From the appearance, what aspect of the product does the text prominently highlight in terms of its origin or production method?",
+        "answer": "Aging"
+      },
+      {
+        "question": "What is the state of the label’s print quality, considering its sharpness and clarity in the image?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Based on the image, what is the apparent overall size of the text on the product's label, relative to the product itself?",
+        "answer": "Large"
+      },
+      {
+        "question": "Considering the visual context, what type of food product does the text on the label appear to describe?",
+        "answer": "Syrup"
+      }
+    ]
+  }
+]

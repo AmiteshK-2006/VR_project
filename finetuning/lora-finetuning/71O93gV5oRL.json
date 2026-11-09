@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0c/0cb02d4a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the container as depicted on the label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary color of the text on the supplement facts label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the background color of the nutrition facts panel?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the font style of the 'Supplement Facts' heading?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What unit of measurement is used for serving size?",
+        "answer": "Teaspoons"
+      },
+      {
+        "question": "What is the measurement of the serving size in grams?",
+        "answer": "5.5g"
+      },
+      {
+        "question": "What is the approximate number of servings per container?",
+        "answer": "27"
+      },
+      {
+        "question": "What is the color of the asterisk indicating notes on the label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the unit of measurement used for calories per serving?",
+        "answer": "Calories"
+      },
+      {
+        "question": "What is the unit of measurement used for total carbohydrates?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the unit of measurement used for dietary fiber?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the unit of measurement used for total sugars?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the percentage daily value for dietary fiber?",
+        "answer": "3%"
+      },
+      {
+        "question": "What is the word describing the value for Dietary Fiber?",
+        "answer": "Less"
+      },
+      {
+        "question": "What is the word at the top of the label?",
+        "answer": "Supplement"
+      }
+    ]
+  }
+]

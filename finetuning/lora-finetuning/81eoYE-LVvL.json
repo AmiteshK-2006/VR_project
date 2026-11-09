@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/cc/cc920f41.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what is the primary function of this displayed information?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the dominant color scheme employed in the text and background of this nutritional information panel?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the shape of the nutrition facts panel presented in the image, ignoring the text?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the style of the font used for the heading 'Nutrition Facts' in this presented nutritional label?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Considering the visual layout, how many distinct sections are present in this nutrition facts panel?",
+        "answer": "Nine"
+      },
+      {
+        "question": "What is the unit of measurement used for the quantity of total fat listed in the nutrition facts?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the visual format in which the daily percentage values are presented next to the nutritional components?",
+        "answer": "Numeric"
+      },
+      {
+        "question": "Describe the text formatting of the serving size information in the nutrition facts panel shown.",
+        "answer": "Plain"
+      },
+      {
+        "question": "What is the visual method used to separate the different nutritional components (e.g., fats, carbohydrates) in this panel?",
+        "answer": "Lines"
+      },
+      {
+        "question": "Based on the appearance, is the text alignment of the numerical values consistent across the nutrition facts panel?",
+        "answer": "Right"
+      },
+      {
+        "question": "What is the relative size of the 'Calories' number compared to the other numerical values?",
+        "answer": "Large"
+      },
+      {
+        "question": "What is the overall visual texture of the nutrition facts panel; smooth or rough?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Is there any visual representation of a logo or branding on the presented nutrition facts panel?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the visual style of the numerical data within the nutrition facts panel: italicized, bold, or plain?",
+        "answer": "Plain"
+      },
+      {
+        "question": "What is the style of the lines separating the various sections in the nutrition facts panel: solid, dashed, or dotted?",
+        "answer": "Solid"
+      }
+    ]
+  }
+]

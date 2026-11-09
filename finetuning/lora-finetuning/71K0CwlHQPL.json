@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/db/dbba5f7d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the bottle, as observed in the provided image?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the image, what material appears to constitute the main body of the container?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Based on the visual inspection, what is the overall shape of the presented product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging from the picture, what type of closure or lid is affixed to the top of the bottle?",
+        "answer": "Dropper"
+      },
+      {
+        "question": "What color is the dropper top, as directly observed in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Does the bottle, as shown, exhibit any noticeable texture or surface finish?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the image closely, does the bottle appear to be transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Referring strictly to the provided image, is there a label visible on the bottle?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent material composition of the dropper top, based solely on the image?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Judging by the image, what is the general size or capacity of the container?",
+        "answer": "Small"
+      },
+      {
+        "question": "Considering the image, what is the style of the bottle's neck, specifically?",
+        "answer": "Short"
+      },
+      {
+        "question": "Does the image reveal any noticeable markings or engravings on the bottle's body?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the provided image, what is the overall condition of the container?",
+        "answer": "New"
+      },
+      {
+        "question": "Judging by the image, is the bottle designed for single or multiple uses?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "According to the image, does the bottle's base have any specific design features?",
+        "answer": "Flat"
+      }
+    ]
+  }
+]

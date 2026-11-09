@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/dd/dd6efff9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visual texture, what is the primary weave style of this fabric?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Based solely on visual inspection, what is the apparent surface texture of the material?",
+        "answer": "Textured"
+      },
+      {
+        "question": "From the image, what kind of fiber seems to make up the majority of this fabric?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "Observing the image closely, describe the overall visual pattern of the fabric?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Judging from the image's visual details, what is the fabric's apparent weight or density?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Can you describe the visual appearance of the individual threads in the fabric?",
+        "answer": "Intertwined"
+      },
+      {
+        "question": "If you were to touch this fabric, what would be its likely feel or hand?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the visual evidence, does this fabric appear to have any noticeable sheen or luster?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the image reveal any obvious imperfections or irregularities in the fabric's texture?",
+        "answer": "No"
+      },
+      {
+        "question": "From a visual standpoint, does the fabric appear to have a distinct pile or nap?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the visible directional orientation of the fabric's weave pattern?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Looking closely at the image, are there any discernible color variations within the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall visual impression of the fabric's finish or surface treatment?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Judging from the image, is the fabric's color uniform across the visible area?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

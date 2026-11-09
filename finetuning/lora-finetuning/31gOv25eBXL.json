@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/76/765a458c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant background color of the displayed text, observed in the provided image?",
+        "answer": "Teal"
+      },
+      {
+        "question": "Considering the visual presentation, what is the apparent font style used for the text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the image, what is the capitalization style employed for the words 'Ingredients' and 'Contains'?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "What is the color of the text against its teal background, as shown in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "Examining the image, how many distinct lines of text are present?",
+        "answer": "Two"
+      },
+      {
+        "question": "Judging from the provided image, what is the alignment of the text on the plane?",
+        "answer": "Left"
+      },
+      {
+        "question": "In the provided image, what is the grammatical form of the presented sentences?",
+        "answer": "Declarative"
+      },
+      {
+        "question": "From the image, is the text presented as a full sentence, or as a fragmented part of one?",
+        "answer": "Sentence"
+      },
+      {
+        "question": "What term is displayed before the list of components of the product in the picture?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Considering the image, what information is provided below the list of primary ingredients of this product?",
+        "answer": "Contains"
+      },
+      {
+        "question": "What single word specifies the nature of the ingredients in the second line of the image?",
+        "answer": "Milk"
+      },
+      {
+        "question": "Based on what you see in the image, what are the two main components listed in the first line of the image?",
+        "answer": "Milk"
+      },
+      {
+        "question": "What is the primary ingredient shown in the image, directly following the word 'Ingredients'?",
+        "answer": "Milk"
+      },
+      {
+        "question": "What is the second main component listed after the word 'Milk' in the first line of the image?",
+        "answer": "Cream"
+      },
+      {
+        "question": "What term, after the word 'Contains', clarifies the presence of a specific category of ingredients?",
+        "answer": "Milk"
+      }
+    ]
+  }
+]

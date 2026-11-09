@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1d/1d195dde.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant shade observed across the entire visible surface?",
+        "answer": "Navy"
+      },
+      {
+        "question": "Considering the visual texture, what is the most apparent surface characteristic?",
+        "answer": "Suede"
+      },
+      {
+        "question": "Based on the image, what is the general impression of the material's tactile quality?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What is the apparent surface finish, considering its uniformity and slight variations in tone?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging by the subtle inconsistencies in color and tone, what is the overall appearance of the material?",
+        "answer": "Uneven"
+      },
+      {
+        "question": "Disregarding any potential underlying layers, what single material is primarily visible?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "What is the implied level of sheen or glossiness demonstrated in the visible area?",
+        "answer": "Low"
+      },
+      {
+        "question": "Focusing on the visual texture, how would you describe the fabric's surface structure?",
+        "answer": "Nap"
+      },
+      {
+        "question": "What visual effect is primarily observed on the material, regarding light interaction?",
+        "answer": "Slight"
+      },
+      {
+        "question": "From the image, describe the color depth or intensity as shown in the sample.",
+        "answer": "Deep"
+      },
+      {
+        "question": "Considering the image, describe the fabric's apparent overall visual weight.",
+        "answer": "Heavy"
+      },
+      {
+        "question": "What is the apparent uniformity of the color across the viewed portion of the fabric?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Based on visual analysis, how would you describe the material's implied density?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Considering visual cues, what is the overall visual impression of the material's grain?",
+        "answer": "Fine"
+      },
+      {
+        "question": "How would you describe the apparent level of color saturation in the textile?",
+        "answer": "Rich"
+      }
+    ]
+  }
+]

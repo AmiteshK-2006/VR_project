@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/82/82f03aaa.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the packaging, as depicted in the provided image?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the text and design, what is the overall shape of the product's container?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the image, what appears to be the primary material of the product's packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the prominent brand name or logo displayed on the packaging?",
+        "answer": "Wholefoods"
+      },
+      {
+        "question": "Describe the texture of the visible packaging surface, as it seems in the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the style of the text font used for the product information?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What color is the prominent logo on the product packaging?",
+        "answer": "Green"
+      },
+      {
+        "question": "Is there any noticeable image or graphic design element aside from text on the packaging?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the specified storage condition mentioned on the product label?",
+        "answer": "Refrigerated"
+      },
+      {
+        "question": "What type of milk is listed as the primary ingredient?",
+        "answer": "Lowfat"
+      },
+      {
+        "question": "What other vitamins are listed in the ingredients besides Vitamin A?",
+        "answer": "D3"
+      },
+      {
+        "question": "What is the specified timeframe for optimal consumption after opening?",
+        "answer": "7"
+      },
+      {
+        "question": "What is the format of the date information on the packaging (e.g., year, month, etc.)?",
+        "answer": "Days"
+      },
+      {
+        "question": "What is the text style of the words 'Keep Refrigerated'?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the state indicated in the address on the packaging?",
+        "answer": "Texas"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/00/0017a8e4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the image?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering the visible texture, what is the apparent material of the item?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Based on the image, what is the overall visual texture of the fabric?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the fabric show any visible pattern or design element?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image, how would you describe the sheen or luster of the fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the visible shape of the presented fabric sample?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Are there any noticeable imperfections or irregularities in the fabric's surface?",
+        "answer": "Slight"
+      },
+      {
+        "question": "Observing the image, is the fabric's weave tightly or loosely constructed?",
+        "answer": "Tightly"
+      },
+      {
+        "question": "Does the fabric appear to have any noticeable stretch or give?",
+        "answer": "No"
+      },
+      {
+        "question": "Can you describe the overall visual weight or density of the fabric shown?",
+        "answer": "Light"
+      },
+      {
+        "question": "What is the visible ply of the fabric?",
+        "answer": "Single"
+      },
+      {
+        "question": "Judging by the provided image, what is the apparent thickness of this fabric?",
+        "answer": "Thin"
+      },
+      {
+        "question": "What is the visible state of the edges of the fabric?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Does the image show any noticeable wrinkles or folds in the fabric?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the picture, what is the visible level of transparency of the fabric?",
+        "answer": "Opaque"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/61/61f14591.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the product container as depicted in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the checkmarks, what is the primary claim about artificial ingredients?",
+        "answer": "Free"
+      },
+      {
+        "question": "Based on the image, what is the dominant color scheme of the product label?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the primary declared dietary restriction that the product accommodates?",
+        "answer": "Vegan"
+      },
+      {
+        "question": "Examining the checkmarks, what is indicated about the presence of chemical preservatives?",
+        "answer": "Absent"
+      },
+      {
+        "question": "What is indicated regarding the inclusion of gluten in the product, according to the image?",
+        "answer": "Free"
+      },
+      {
+        "question": "Does the label text prominently show any mention of binders used in manufacturing?",
+        "answer": "No"
+      },
+      {
+        "question": "What word describes the overall visual style of the product's label design?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the prominent textual element aside from the checkmark descriptions?",
+        "answer": "Vegan"
+      },
+      {
+        "question": "What is visually apparent about the color palette of the label's textual elements?",
+        "answer": "Monotone"
+      },
+      {
+        "question": "Based on the image, what is suggested regarding the use of artificial colors?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the image alone, what type of text is used for the listed product attributes?",
+        "answer": "Checkmarked"
+      },
+      {
+        "question": "What is the visual representation of the label's assertions about the product contents?",
+        "answer": "Checkmarks"
+      },
+      {
+        "question": "What appears to be the background color of the label in the product image?",
+        "answer": "White"
+      },
+      {
+        "question": "Judging from the visual style, how would you describe the graphic design of the label?",
+        "answer": "Minimalist"
+      }
+    ]
+  }
+]

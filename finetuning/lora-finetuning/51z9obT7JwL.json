@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/53/5354f338.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the displayed product?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary material composing the object?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describing its three-dimensional form, what is the overall shape of this item?",
+        "answer": "Round"
+      },
+      {
+        "question": "Considering its surface details, what texture does the product exhibit?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Focusing on its structural design, how many distinct sections can be visually identified?",
+        "answer": "Two"
+      },
+      {
+        "question": "Examining the top surface, what kind of pattern is noticeable?",
+        "answer": "Concentric"
+      },
+      {
+        "question": "Considering the product's apparent function, what might be its purpose?",
+        "answer": "Base"
+      },
+      {
+        "question": "Observing the bottom part, is there any visible text or markings?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on visual observation, is the surface glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the apparent overall size relative to a human hand?",
+        "answer": "Small"
+      },
+      {
+        "question": "From the visual perspective, does the item appear solid or hollow?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Considering its visual characteristics, does it seem heavy or lightweight?",
+        "answer": "Lightweight"
+      },
+      {
+        "question": "Observing the image closely, is the item symmetrical?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is the visible surface uniformly colored or does it display variations?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Does the product exhibit any sharp edges or corners?",
+        "answer": "No"
+      }
+    ]
+  }
+]

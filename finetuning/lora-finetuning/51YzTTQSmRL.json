@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ae/aeb9420d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall appearance of the text, what is the primary color scheme employed?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the font style used throughout the label, what can you infer about the overall aesthetic?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the main text regarding the product's ingredients?",
+        "answer": "Quinoa"
+      },
+      {
+        "question": "What does the text describe in terms of potential allergenic substances?",
+        "answer": "Nuts"
+      },
+      {
+        "question": "What dietary restriction is explicitly addressed on the product's label?",
+        "answer": "Vegetarian"
+      },
+      {
+        "question": "What type of information is presented in the bottom section of the label?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the formatting style of the words indicating potential allergens?",
+        "answer": "Bold"
+      },
+      {
+        "question": "In terms of text organization, what is the structural layout used to present information?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Given the overall presentation, what is the dominant feature of the visual design?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the main focus of this food product label\u2019s message?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Focusing on the written details, what is the nature of the advice given to consumers?",
+        "answer": "Allergy"
+      },
+      {
+        "question": "What is the nature of the information presented alongside the list of ingredients?",
+        "answer": "Advice"
+      },
+      {
+        "question": "Examining the provided text, what is the state of the quinoa described?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Considering the information provided, what is one key feature of the product's composition?",
+        "answer": "Gluten"
+      },
+      {
+        "question": "In terms of readability, what is the overall character of the typography?",
+        "answer": "Clear"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b1/b128a84d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary information conveyed by the prominent text at the top of this rectangular label?",
+        "answer": "Supplement"
+      },
+      {
+        "question": "Considering the label's content, what specific nutritional element's quantity is prominently detailed?",
+        "answer": "Vitamin"
+      },
+      {
+        "question": "What is the unit of measurement used to quantify the detailed nutritional element?",
+        "answer": "mcg"
+      },
+      {
+        "question": "Based on the label, what is the specified serving size for this product?",
+        "answer": "Tablet"
+      },
+      {
+        "question": "What percentage of the daily value for the featured vitamin is provided by one serving?",
+        "answer": "100%"
+      },
+      {
+        "question": "Describe the overall color scheme of the textual information on the label.",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the form of the information presented, as visually evident on this label?",
+        "answer": "Table"
+      },
+      {
+        "question": "Considering the structure, what is the overall shape of this informative label?",
+        "answer": "Rectangle"
+      },
+      {
+        "question": "What is the background color of the detailed nutritional information on the label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall style of the text font used throughout the product label?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Considering the visual structure, how many major horizontal sections are present on the label?",
+        "answer": "Four"
+      },
+      {
+        "question": "Describe the orientation of the textual information on this informative label.",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the form of the nutritional information presented in the rows below the serving size?",
+        "answer": "List"
+      },
+      {
+        "question": "What is the specific chemical form of Vitamin K detailed on the label?",
+        "answer": "Phytonadione"
+      },
+      {
+        "question": "What term indicates the standard daily requirement for the listed vitamin?",
+        "answer": "Value"
+      }
+    ]
+  }
+]

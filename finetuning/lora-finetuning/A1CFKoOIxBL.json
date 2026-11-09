@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2f/2ffe5719.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed fabric sample?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent fabric type?",
+        "answer": "Felt"
+      },
+      {
+        "question": "Based on the image, what is the general visual feel of the material's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the fabric exhibit a noticeable pattern or design?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the image's details, what is the material's apparent sheen level?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the overall visual impression of the fabric's thickness?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Judging from the appearance, is the fabric woven or non-woven?",
+        "answer": "Non-woven"
+      },
+      {
+        "question": "Based on the image provided, what is the primary color observed in this swatch?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Considering the image alone, what is the most significant visual characteristic of the fabric?",
+        "answer": "Solid"
+      },
+      {
+        "question": "From the image, is there any noticeable visible grain or fiber direction?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the image reveal any significant irregularities in the fabric's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the visual properties, how would you describe the fabric's density?",
+        "answer": "Dense"
+      },
+      {
+        "question": "What is the visual impression of the color saturation in the image?",
+        "answer": "High"
+      },
+      {
+        "question": "Judging from the provided image, how would you classify the fabric's weight?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "Observing the picture, does the fabric appear to have any visible embellishments?",
+        "answer": "No"
+      }
+    ]
+  }
+]

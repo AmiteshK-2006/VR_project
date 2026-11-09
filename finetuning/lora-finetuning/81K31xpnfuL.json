@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b3/b330639e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the nutritional information panel, as shown in the provided image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the image, what is the primary font style used for displaying the 'Nutrition Facts' heading?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the image, what unit of measurement is used to express the serving size of the product?",
+        "answer": "Cup"
+      },
+      {
+        "question": "What numerical value is displayed as the total amount of calories per serving, as depicted in the image?",
+        "answer": "25"
+      },
+      {
+        "question": "According to the image, what is the total amount of sodium, in milligrams, present in a single serving?",
+        "answer": "260"
+      },
+      {
+        "question": "As shown in the image, what is the total amount of carbohydrates, in grams, per serving of the product?",
+        "answer": "6"
+      },
+      {
+        "question": "Referring to the image, what is the total amount of dietary fiber, in grams, per serving?",
+        "answer": "1"
+      },
+      {
+        "question": "Based on the image, what is the total amount of protein, in grams, contained within a single serving?",
+        "answer": "1"
+      },
+      {
+        "question": "What is the amount of Vitamin D, in micrograms, per serving as indicated in the given image?",
+        "answer": "0"
+      },
+      {
+        "question": "According to the image, what is the amount of iron, in milligrams, present in one serving?",
+        "answer": "1"
+      },
+      {
+        "question": "What is the amount of calcium, in milligrams, per serving, as shown in the image?",
+        "answer": "11"
+      },
+      {
+        "question": "As depicted in the image, what is the quantity of potassium, in milligrams, per serving of the product?",
+        "answer": "273"
+      },
+      {
+        "question": "Observing the image, what is the shape of the nutritional information panel?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the overall layout style used to present the nutritional information, as observed in the image?",
+        "answer": "tabular"
+      },
+      {
+        "question": "Judging from the image, what is the texture of the nutritional information panel?",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

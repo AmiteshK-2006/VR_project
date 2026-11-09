@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f0/f0fd03b4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the dominant three-dimensional shape of this product as a whole?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the primary color of the product's visible surface, excluding any text or markings?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on its appearance, what is the most likely material composition of the product?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Observing the surface texture, how would you describe the general feel of the product to the touch?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Ignoring text and logos, are there any noticeable patterns or designs embossed or printed on the product’s surface?",
+        "answer": "None"
+      },
+      {
+        "question": "Focusing on the edges, describe the edge profile of this product; is it sharp or rounded?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Does the product exhibit any visible signs of folds, creases, or wrinkles on its surface?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What type of text is predominantly used on the product's packaging—for instance, is it printed, stamped, or embossed?",
+        "answer": "Printed"
+      },
+      {
+        "question": "Considering the packaging, is there any indication of the product being pre-cut or perforated in any way?",
+        "answer": "No"
+      },
+      {
+        "question": "From the images, can you discern the presence of any protective seals or wrappers on the product itself?",
+        "answer": "No"
+      },
+      {
+        "question": "Disregarding any writing, are there any discernible logos or trademarks visibly present on the product's surface?",
+        "answer": "Yes"
+      },
+      {
+        "question": "In terms of its overall dimensions, is this item generally considered large, medium, or small?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Does the product appear to have any sort of handle, strap, or other convenient carrying mechanism?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the nature of its packaging, does it seem to be a single-use item or designed for multiple uses?",
+        "answer": "Single"
+      },
+      {
+        "question": "Judging from the packaging's visual cues, what is the intended function or purpose of this product?",
+        "answer": "Cleaning"
+      }
+    ]
+  }
+]

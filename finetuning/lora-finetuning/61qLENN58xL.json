@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0d/0d1bf0e0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color scheme of this product's packaging?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Based on the visual text, what primary language is used for the product's label?",
+        "answer": "English"
+      },
+      {
+        "question": "What is the predominant type of visual information displayed on the rightmost section of the package?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "What style of text is mostly used for the product information on the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the text's visual characteristics, is the font size uniformly consistent throughout the product's label?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the text's visual presentation, what is the apparent nature of the text's visual layout?",
+        "answer": "Linear"
+      },
+      {
+        "question": "In terms of its appearance, what type of visual structure is most prominent on the label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the background and visual elements, what is the overall texture of the product's packaging?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based solely on visual cues, what seems to be the general condition of this product's packaging?",
+        "answer": "New"
+      },
+      {
+        "question": "What seems to be the primary purpose of the text presented on the packaging's surface?",
+        "answer": "Informative"
+      },
+      {
+        "question": "From a purely visual standpoint, what is the shape of the visual element displaying the product's identifier?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the image, what is the level of detail in the visual presentation of the ingredients list?",
+        "answer": "High"
+      },
+      {
+        "question": "From a visual assessment of the text blocks, what appears to be the most prevalent visual element?",
+        "answer": "Text"
+      },
+      {
+        "question": "Considering the visual characteristics of the label's components, how would you visually categorize its style?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the apparent visual state of the barcode on the packaging\u2014clear or unclear?",
+        "answer": "Clear"
+      }
+    ]
+  }
+]

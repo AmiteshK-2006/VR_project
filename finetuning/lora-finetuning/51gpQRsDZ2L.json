@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/64/64c79e1d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary visual element conveying the product's nature, based on its prominent and repeated presence?",
+        "answer": "Text"
+      },
+      {
+        "question": "Considering the textual content's formatting and arrangement, what is the style of presentation employed?",
+        "answer": "List"
+      },
+      {
+        "question": "What is the overall color scheme of the presented information, observed across the entire visual display?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the typeface and its readability, what can be said about the visual clarity of the text?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Describe the background's visual characteristics, focusing on its shade and visual texture.",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the text's organization and arrangement, what is the visual hierarchy suggested?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Based on the visual attributes of the text, what is the apparent font family utilized?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Focusing on the size and scale of the text, what is the visual impact conveyed?",
+        "answer": "Small"
+      },
+      {
+        "question": "Does the text contain any visual cues, like capitalization or bolding, used to highlight specific information?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Describe the spacing and arrangement of the lines of text, focusing on the visual layout.",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Considering the textual content, does it show any visual indicators like numbers or symbols for better comprehension?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the composition, describe the visual alignment of the textual information on the background.",
+        "answer": "Left"
+      },
+      {
+        "question": "Based on the visual design, what is the overall visual density of the information presented?",
+        "answer": "High"
+      },
+      {
+        "question": "Describe the visual presentation's style in terms of minimalism or complexity.",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the most striking visual aspect of the image, grabbing attention immediately?",
+        "answer": "Words"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0f/0f203f5b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the prominent text displayed on the food package's label, indicating the product's nutritional composition?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What specific quantitative dietary information, presented in tabular form, details the nutritional content per serving?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Considering the nutritional information provided, what is the serving size of the product as shown on the package?",
+        "answer": "100g"
+      },
+      {
+        "question": "Based on the label, what is the total number of servings contained within the package of the product?",
+        "answer": "2"
+      },
+      {
+        "question": "What is the primary color of the background of the nutrition label, providing a visual contrast to the text?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the overall shape of the nutrition facts box, showing the product's packaging design?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What type of font is used for the main header, 'Nutrition Facts,' indicating the label's style?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the color of the text used throughout the nutrition facts table, enhancing readability?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall tone of the design of the nutrition label, considering its visual appeal and clarity?",
+        "answer": "Formal"
+      },
+      {
+        "question": "Are there any images or graphics present on this nutrition label, supplementing the textual information?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the style of the borders or lines used in the nutrition facts table, outlining the data?",
+        "answer": "Lines"
+      },
+      {
+        "question": "What is the apparent material of the food packaging on which the label is printed, judging by its surface?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Does the nutrition label show any kind of additional markings beyond text and lines?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the arrangement of the nutritional data displayed on the food label, showing its organisation?",
+        "answer": "Table"
+      },
+      {
+        "question": "Considering the label's overall structure, what is the type of information presented, focusing on its purpose?",
+        "answer": "Nutritional"
+      }
+    ]
+  }
+]

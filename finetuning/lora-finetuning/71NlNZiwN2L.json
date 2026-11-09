@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/24/248d355f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the outer packaging visible in the provided image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the rectangular shape and dimensions, what is the most likely content type of this package?",
+        "answer": "Roll"
+      },
+      {
+        "question": "Based on its length and packaging, what is the probable function or use of the item inside?",
+        "answer": "Printing"
+      },
+      {
+        "question": "What material appears to constitute the primary packaging of the product shown?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Observing the overall form factor, describe the extended shape of this product's packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the surface texture of the outer packaging, considering visible characteristics?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Given the image, what kind of markings or labels are visible on the package?",
+        "answer": "Text"
+      },
+      {
+        "question": "Does the product's packaging show any visible signs of damage or wear?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the size and packaging, what is the probable weight of the item contained within?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "What is the apparent manufacturing or branding information visible on the package?",
+        "answer": "None"
+      },
+      {
+        "question": "Judging from the image, what is the general condition of the product's packaging?",
+        "answer": "New"
+      },
+      {
+        "question": "From the image, is there any clear indication of the product's country of origin?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the predominant visual pattern observed on the packaging's visible surface?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Based on the image, does the packaging exhibit any noticeable creases or folds?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the packaging's features, is it designed for easy opening or handling?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

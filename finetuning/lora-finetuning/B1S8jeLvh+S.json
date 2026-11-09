@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9c/9c2af6ee.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the displayed material sample?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall textural appearance of the material shown?",
+        "answer": "Grainy"
+      },
+      {
+        "question": "Considering the visual texture, what is the likely material type?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Does the material exhibit a uniform or varied texture across its surface?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Judging by the image, is the material's finish matte or glossy?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on visual inspection, what is the apparent thickness of the material?",
+        "answer": "Thick"
+      },
+      {
+        "question": "What kind of visual imperfections, if any, are evident on the material's surface?",
+        "answer": "None"
+      },
+      {
+        "question": "Does the material showcase any discernible pattern or print?",
+        "answer": "No"
+      },
+      {
+        "question": "Is there any sheen or reflection present on the surface of the material sample?",
+        "answer": "No"
+      },
+      {
+        "question": "From the image, does the material seem supple or stiff?",
+        "answer": "Supple"
+      },
+      {
+        "question": "How would you describe the surface's degree of smoothness or roughness?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Does the material's color appear consistent throughout the sample?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is the image clearly showing the grain direction of the material?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the material appear to be naturally occurring or synthetically produced?",
+        "answer": "Synthetic"
+      },
+      {
+        "question": "Considering the visual characteristics, what is the likely intended use of this material?",
+        "answer": "Upholstery"
+      }
+    ]
+  }
+]

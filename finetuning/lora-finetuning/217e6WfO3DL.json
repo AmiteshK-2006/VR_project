@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/06/06a3e66b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the device's casing, as shown in the provided image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the image, what appears to be the primary material used in the construction of the device?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based solely on the visual depiction, what is the overall shape of the handheld device?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging from the image, what type of display technology is integrated into the device?",
+        "answer": "LCD"
+      },
+      {
+        "question": "From the image, what seems to be the primary function or purpose of this device, indicated by its form factor and control elements?",
+        "answer": "Measurement"
+      },
+      {
+        "question": "What is the apparent texture of the device's surface, observable in the product image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Examining the image, are there any noticeable buttons or controls present on the device's exterior?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the image, does the device have any visible markings or labels other than the display?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent orientation of the device's screen, as displayed in the image?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Judging from the provided image, what is the relative size of the device compared to a human hand?",
+        "answer": "Small"
+      },
+      {
+        "question": "Does the image indicate any visible ports or connectors on the device?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the visual appearance, is the device designed to be handheld or stationary?",
+        "answer": "Handheld"
+      },
+      {
+        "question": "Judging from the image, what is the level of detail visible in the device's display?",
+        "answer": "Low"
+      },
+      {
+        "question": "Considering the image, what is the overall visual impression of the device's design?",
+        "answer": "Functional"
+      },
+      {
+        "question": "From the image, is there any evidence of branding or logo visible on the device?",
+        "answer": "No"
+      }
+    ]
+  }
+]

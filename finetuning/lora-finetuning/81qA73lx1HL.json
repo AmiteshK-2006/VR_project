@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/14/144a28c5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form and dispensing mechanism, what is the primary intended use of this product, as visually suggested by its design?",
+        "answer": "Toilet"
+      },
+      {
+        "question": "What is the dominant color of the main body of the container, as observed in the provided image?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What specific type of plastic material seems to comprise the majority of the container, based on its visual appearance?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the shape of the main container, ignoring the dispensing nozzle, focusing on the bottle's overall profile.",
+        "answer": "Curved"
+      },
+      {
+        "question": "What color is the dispensing nozzle or cap situated at the top of the container?",
+        "answer": "Red"
+      },
+      {
+        "question": "Based on the visual texture, how would you characterize the surface of the bottle's main body?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall pattern or design evident on the main body of the container, excluding labels?",
+        "answer": "Ribbed"
+      },
+      {
+        "question": "What is the most prominent color found on the label affixed to the container?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "Describe the general shape of the dispensing nozzle, as seen in the image.",
+        "answer": "Conical"
+      },
+      {
+        "question": "What is the apparent state of the product within the container, as indicated by its visibility and filling level?",
+        "answer": "Liquid"
+      },
+      {
+        "question": "What type of markings or text are visible on the label, indicating the product's purpose?",
+        "answer": "Text"
+      },
+      {
+        "question": "Based purely on visual evidence, what is the apparent size of the container, in relation to common household items?",
+        "answer": "Small"
+      },
+      {
+        "question": "Disregarding labels, what is the most noticeable visual feature on the container's surface?",
+        "answer": "Ribs"
+      },
+      {
+        "question": "Considering the texture, is the surface of the dispensing nozzle visibly rough or smooth?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent material of the dispensing nozzle, based on its visual characteristics?",
+        "answer": "Plastic"
+      }
+    ]
+  }
+]

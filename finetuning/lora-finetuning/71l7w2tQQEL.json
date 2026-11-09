@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/20/20a67a56.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme visually apparent on this product's label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary font style utilized for the textual information presented?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the visual layout, what is the most prominent textual element displayed?",
+        "answer": "Calories"
+      },
+      {
+        "question": "What numerical value is explicitly highlighted concerning the nutritional content?",
+        "answer": "160"
+      },
+      {
+        "question": "What is the unit of measurement used for the serving size of this food product?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What specific food item is this nutrition label associated with, indicated on the label?",
+        "answer": "Naan"
+      },
+      {
+        "question": "What is the total number of servings presented per container of this food item?",
+        "answer": "Four"
+      },
+      {
+        "question": "Considering the visual representation, what is the overall texture of the label's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What type of information is predominantly conveyed through the textual content on the label?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the weight of a single serving specified on the nutrition label?",
+        "answer": "50"
+      },
+      {
+        "question": "What is the overall shape of the nutrition facts label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visual appearance, what material is most likely used to create this label?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the descriptive term used to categorize the information provided on this label?",
+        "answer": "Facts"
+      },
+      {
+        "question": "What visual cues are used to separate the different nutritional components listed?",
+        "answer": "Lines"
+      },
+      {
+        "question": "What is the predominant orientation of the text found on the nutritional label?",
+        "answer": "Vertical"
+      }
+    ]
+  }
+]

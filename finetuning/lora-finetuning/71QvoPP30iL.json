@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c2/c24dc9d9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall packaging, what is the dominant color scheme visually apparent on the product's exterior?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary material of the product's outer packaging, based on visual inspection?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based solely on visual observation, what type of food product does this packaging contain?",
+        "answer": "Dough"
+      },
+      {
+        "question": "Examining the image, what specific kind of dough is indicated on the packaging?",
+        "answer": "Cookie"
+      },
+      {
+        "question": "What is the shape of the primary package in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the texture of the packaging, visually judging by its appearance in the image.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Focusing on the image of the cookies depicted, what color is predominantly used on the icing?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the apparent style of the text font used for the product name on the packaging?",
+        "answer": "Script"
+      },
+      {
+        "question": "What secondary color appears in the icing of the cookies presented in the image?",
+        "answer": "Pink"
+      },
+      {
+        "question": "Observing the packaging closely, what brand logo is visibly printed on it?",
+        "answer": "365"
+      },
+      {
+        "question": "What shape are the cookies shown in the packaging illustration?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "From a visual perspective, what appears to be a key ingredient indicated on the packaging?",
+        "answer": "Sugar"
+      },
+      {
+        "question": "What is the overall visual presentation of the product packaging – simple, ornate, etc.?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Considering the image, is the packaging transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Judging only by visual cues, is the package sealed or open?",
+        "answer": "Sealed"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/93/93b70e6a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the text on the product packaging?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the primary label area on the package?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the texture implied by the image of the product's packaging?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the primary material of this product's packaging based solely on visual analysis?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the style of the typeface used for the brand name 'Whole Foods Market'?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What color is the brand logo's primary element?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the orientation of the text on the label – predominantly vertical or horizontal?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Does the label contain any images or icons besides the brand logo?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent size of the text on this package relative to the area of the label?",
+        "answer": "Small"
+      },
+      {
+        "question": "Is the packaging predominantly glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the text appear to be printed or hand-written?",
+        "answer": "Printed"
+      },
+      {
+        "question": "What is the overall tone or style of the text on the label – formal or informal?",
+        "answer": "Formal"
+      },
+      {
+        "question": "Observing the font weight, is it primarily bold or light?",
+        "answer": "Light"
+      },
+      {
+        "question": "What is the approximate number of distinct sections or blocks of text on the label?",
+        "answer": "Three"
+      },
+      {
+        "question": "Does the text display any unique stylistic flourishes or decorative elements?",
+        "answer": "No"
+      }
+    ]
+  }
+]

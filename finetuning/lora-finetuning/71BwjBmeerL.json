@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/28/28c4c221.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the text detailing the product's ingredients?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the font's style, what best describes its overall appearance?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What specific term precedes the enumerated list of ingredients?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the first ingredient explicitly mentioned in the provided list?",
+        "answer": "Water"
+      },
+      {
+        "question": "What citrus fruit's component is prominently included among the ingredients?",
+        "answer": "Lemon"
+      },
+      {
+        "question": "What chemical compound acts as a preservative, as indicated in the text?",
+        "answer": "Benzoate"
+      },
+      {
+        "question": "Besides benzoate, what other chemical acts as a preservative in this product?",
+        "answer": "Bisulfite"
+      },
+      {
+        "question": "What is the secondary ingredient derived from the lemon fruit itself?",
+        "answer": "Oil"
+      },
+      {
+        "question": "What is the text's alignment within the provided ingredient's list?",
+        "answer": "Left"
+      },
+      {
+        "question": "What is the style of capitalization employed throughout the ingredients list?",
+        "answer": "Sentence"
+      },
+      {
+        "question": "What word describes the state of the water used as an ingredient?",
+        "answer": "Filtered"
+      },
+      {
+        "question": "What concentration percentage threshold is specified for certain ingredients?",
+        "answer": "Two"
+      },
+      {
+        "question": "Which chemical compound acts as a preservative, denoted by parentheses?",
+        "answer": "Sodium"
+      },
+      {
+        "question": "Excluding water, what is the most frequent ingredient word in the list?",
+        "answer": "Lemon"
+      },
+      {
+        "question": "What is the overall orientation of the text concerning the ingredients?",
+        "answer": "Horizontal"
+      }
+    ]
+  }
+]

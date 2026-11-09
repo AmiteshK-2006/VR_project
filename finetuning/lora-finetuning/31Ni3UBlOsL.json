@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/36/366fd44d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the product's outer packaging?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What material appears to constitute the product's packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the overall shape of the product's packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Does the packaging display any prominent branding or logo?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the packaging's dimensions shown, what size is it?",
+        "answer": "Large"
+      },
+      {
+        "question": "What kind of printing is visible on the packaging's surface?",
+        "answer": "Text"
+      },
+      {
+        "question": "Is the surface of the packaging smooth or textured?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image, does the packaging seem sturdy?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Are there any noticeable graphics or images besides text?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the box appear sealed or open?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "What is the apparent condition of the product's packaging?",
+        "answer": "New"
+      },
+      {
+        "question": "Describe the overall style of the product's packaging design.",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Considering the packaging's features, what is its likely function?",
+        "answer": "Shipping"
+      },
+      {
+        "question": "Does the packaging include any visible barcodes or labels?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the general thickness of the outer packaging?",
+        "answer": "Thick"
+      }
+    ]
+  }
+]

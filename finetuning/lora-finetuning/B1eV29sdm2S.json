@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/26/26bc149d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed textile sample?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent surface feel of the fabric?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based solely on the image, what is the most prominent material?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Describe the overall visual appearance of the textile's surface considering its uniformity?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Judging from the image, what seems to be the textile's weave or knit structure?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Does the image suggest any noticeable pattern within the textile?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the general visual impression of the fabric's sheen or luster?",
+        "answer": "Matte"
+      },
+      {
+        "question": "In terms of visual grain, how would you describe the texture of the fabric?",
+        "answer": "Fine"
+      },
+      {
+        "question": "Based on the visual information provided, what is the apparent thickness of the material?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Considering the visual characteristics, how would you describe the fabric's overall density?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Does the image suggest any visible flaws or imperfections in the fabric's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "From the image alone, what is the overall visual impression of the fabric's drape or flow?",
+        "answer": "Slight"
+      },
+      {
+        "question": "Judging by its appearance, what kind of fiber might the fabric be composed of?",
+        "answer": "Unknown"
+      },
+      {
+        "question": "What is the overall visual impression regarding the color saturation of the fabric?",
+        "answer": "Low"
+      },
+      {
+        "question": "Considering the image's resolution, what level of detail is visible in the fabric's texture?",
+        "answer": "Moderate"
+      }
+    ]
+  }
+]

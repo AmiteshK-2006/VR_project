@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8f/8fa021ea.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the dominant shape of the food product package as presented?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What color best describes the majority of the visible food product within the packaging?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What appears to be the primary material used for the external wrapping of this food item?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on the visible texture, what is the apparent consistency of the food product itself?",
+        "answer": "Shredded"
+      },
+      {
+        "question": "What kind of design element, if any, is prominently displayed on the packaging's visible surface?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the general style or orientation of the text visible on the product's packaging?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Disregarding the text, what is the primary color of the package beyond the visible food item?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe the general visual impression of the texture of the transparent portion of the packaging?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall visual impression of the food product's translucency or opacity?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Considering the visual design, is the packaging meant to be resealable?",
+        "answer": "No"
+      },
+      {
+        "question": "From the visual presentation, is the packaging designed with an obvious closure mechanism?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the visual texture of the food product inside, as seen through the packaging?",
+        "answer": "Granular"
+      },
+      {
+        "question": "What seems to be the most prominent color among the texts on the packaging?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the shape of the product, can you describe its overall dimensions as presented?",
+        "answer": "Tall"
+      },
+      {
+        "question": "What is the visible state of the food product inside the packaging; is it wholly intact?",
+        "answer": "Solid"
+      }
+    ]
+  }
+]

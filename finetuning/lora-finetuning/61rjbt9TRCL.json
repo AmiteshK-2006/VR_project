@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/dc/dc396409.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the phone case shown in the primary image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the image's primary view, what is the overall shape of the product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on visual texture, what material is primarily suggested by the phone case's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the case design feature a noticeable bumper, visible from the main product view?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging by the image, what type of protective mechanism is highlighted on the case?",
+        "answer": "Bumper"
+      },
+      {
+        "question": "Observing the case's edge, does the case appear to have a wraparound design?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What appears to be the primary function of the case, indicated in the product image?",
+        "answer": "Protection"
+      },
+      {
+        "question": "From the main image, can you identify the apparent closing mechanism of the case?",
+        "answer": "Flip"
+      },
+      {
+        "question": "From the provided image, does the case have a visible window display area?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent finish or sheen of the phone case's surface, as shown in the main product image?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Based on the image, what is the visible material composition of the phone case's outer layer?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on the main product shot, is the case's protective design shown to be rigid or flexible?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Considering the detail image, are there visible corner reinforcements on the phone case?",
+        "answer": "Yes"
+      },
+      {
+        "question": "In the provided image, is there any visible text or branding on the phone case itself?",
+        "answer": "No"
+      },
+      {
+        "question": "From the overall image, does the case seem to offer full phone coverage or partial coverage?",
+        "answer": "Full"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ec/ec030884.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color scheme of the packaging box, as visually apparent?",
+        "answer": "Green"
+      },
+      {
+        "question": "Considering the overall shape, what geometric form best describes the packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the image, what is the dominant material of the product's outer container?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the visible shape of the individual lozenges depicted on the packaging?",
+        "answer": "Round"
+      },
+      {
+        "question": "Judging by the image, what is the textual description of the product's primary function?",
+        "answer": "Lozenge"
+      },
+      {
+        "question": "What is the prominently displayed numerical value, indicative of strength or dosage?",
+        "answer": "4"
+      },
+      {
+        "question": "What word directly precedes 'Lozenge' on the box, indicating the active ingredient?",
+        "answer": "Nicotine"
+      },
+      {
+        "question": "What is the flavor indicated on the packaging, visually confirmed?",
+        "answer": "Mint"
+      },
+      {
+        "question": "What is the brand name clearly visible on the packaging?",
+        "answer": "Basic"
+      },
+      {
+        "question": "Judging from the image alone, what is the indicated unit of measurement for the dosage?",
+        "answer": "mg"
+      },
+      {
+        "question": "Based on visual analysis, what is the overall texture of the packaging, likely inferred from its material?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the implied method of dispensing the individual product units, based on the illustration?",
+        "answer": "Box"
+      },
+      {
+        "question": "What is the size description relative to a human hand, implying portability?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the color of the individual lozenge as shown on the packaging?",
+        "answer": "White"
+      },
+      {
+        "question": "Does the packaging indicate comparison to another product type as seen on the label?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

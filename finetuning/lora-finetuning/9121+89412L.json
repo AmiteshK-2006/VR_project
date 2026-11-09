@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/32/3212fe84.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the provided image?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What secondary color is prominently featured as an accent on the item?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the texture and visual appearance, what is the likely material of this product?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "Based on its visual characteristics, what is the likely texture of the fabric?",
+        "answer": "Fuzzy"
+      },
+      {
+        "question": "What is the shape of the visible portion of the product in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Can you describe the overall visual appearance of the texture, is it smooth, rough, or something else?",
+        "answer": "Plush"
+      },
+      {
+        "question": "What type of label is attached to the fabric item shown in the image?",
+        "answer": "Care"
+      },
+      {
+        "question": "What brand name is clearly visible on the attached label?",
+        "answer": "Jam"
+      },
+      {
+        "question": "Observing the label, what is the second word in the brand name?",
+        "answer": "Honey"
+      },
+      {
+        "question": "What country of origin is indicated on the product's label?",
+        "answer": "India"
+      },
+      {
+        "question": "What is the visual form of the small accent element in the bottom-left?",
+        "answer": "Circular"
+      },
+      {
+        "question": "Does the main pink fabric have any visible pattern?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall style or appearance of this item's fabric?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Based on the visual appearance, what is the apparent condition of the product?",
+        "answer": "New"
+      },
+      {
+        "question": "Considering the image, what is the likely application of this item?",
+        "answer": "Blanket"
+      }
+    ]
+  }
+]

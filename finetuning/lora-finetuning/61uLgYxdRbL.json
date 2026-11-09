@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/cf/cf7c4984.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the chair's structure, as visibly apparent in the provided image?",
+        "answer": "Pink"
+      },
+      {
+        "question": "Based on the image, what appears to be the primary material used in the chair's construction?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the image, what is the overall shape of the chair's seat, disregarding any legs or backrest?",
+        "answer": "Triangular"
+      },
+      {
+        "question": "Judging from the provided image, what is the most apparent design characteristic of the chair's backrest?",
+        "answer": "Curved"
+      },
+      {
+        "question": "From the visual inspection of the image, what is the style of the chair's legs, considering their form and number?",
+        "answer": "Slanted"
+      },
+      {
+        "question": "What is the visible texture of the chair's surface, based solely on the image's appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "According to the visual detail in the image, what is the apparent finish of the chair's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "In the given image, how many legs does the chair visually appear to possess?",
+        "answer": "Four"
+      },
+      {
+        "question": "Observing the image, what is the general style or aesthetic of the chair's design?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Based on the image's visual representation, is the chair's design simplistic or ornate?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Does the image show any visible seams, joints, or assembly marks on the chair?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the chair's apparent material and form, what is its likely weight classification?",
+        "answer": "Lightweight"
+      },
+      {
+        "question": "From the visual perspective of the image, what is the overall height of the chair, relative to standard seating?",
+        "answer": "Standard"
+      },
+      {
+        "question": "Based on the chair's shape and size in the image, for what purpose is it likely designed?",
+        "answer": "Seating"
+      },
+      {
+        "question": "What is the visible level of ornamentation or decorative detail on the chair's structure?",
+        "answer": "None"
+      }
+    ]
+  }
+]

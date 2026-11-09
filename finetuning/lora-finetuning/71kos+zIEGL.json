@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a4/a4387540.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the container holding the supplement?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What primary color dominates the visible portion of the supplement bottle?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What material appears to constitute the main body of the supplement container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What color is the cap or lid on top of the supplement bottle?",
+        "answer": "Black"
+      },
+      {
+        "question": "Describe the texture of the bottle's surface, based on the image.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent finish of the bottle's surface (e.g., glossy, matte)?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Are there any noticeable markings or labels besides text on the bottle?",
+        "answer": "None"
+      },
+      {
+        "question": "What kind of closure mechanism is visible on the supplement container?",
+        "answer": "Screw"
+      },
+      {
+        "question": "Considering the overall size, would you classify this container as large or small?",
+        "answer": "Small"
+      },
+      {
+        "question": "Does the bottle's design include any noticeable embossing or debossing?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the apparent condition of the container in the provided image?",
+        "answer": "New"
+      },
+      {
+        "question": "Based on the image, what is the transparency of the bottle?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Are there any visible cracks, scratches, or other imperfections on the bottle?",
+        "answer": "None"
+      },
+      {
+        "question": "Is there any visual indication of a label or sticker on the bottle's side?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent weight of the bottle based solely on its appearance?",
+        "answer": "Light"
+      }
+    ]
+  }
+]

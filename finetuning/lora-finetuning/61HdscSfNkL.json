@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b3/b379f1c3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the displayed item?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the overall form, what is the primary shape of the object?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on its appearance, what seems to be the texture of the surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by its visual characteristics, what is the likely material of this product?",
+        "answer": "Canvas"
+      },
+      {
+        "question": "Observing the edges, how would you characterize the appearance of the item's boundaries?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Does the object exhibit any visible patterns or designs on its surface?",
+        "answer": "None"
+      },
+      {
+        "question": "Judging from its visual presentation, what is the apparent thickness of the item?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Considering the overall look, is the item's surface glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the item showcase any visible folds, creases, or wrinkles on its surface?",
+        "answer": "No"
+      },
+      {
+        "question": "From the visual inspection, is the item seemingly stiff or flexible?",
+        "answer": "Stiff"
+      },
+      {
+        "question": "Does the image provide any visible indication of a noticeable sheen or luster?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering its visual attributes, how would you describe the overall feel of the material?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Are there any visible markings, stamps, or logos on the product's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the image, does the item appear to be opaque or translucent?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Considering its visual characteristics, does the item seem to have any apparent perforations?",
+        "answer": "No"
+      }
+    ]
+  }
+]

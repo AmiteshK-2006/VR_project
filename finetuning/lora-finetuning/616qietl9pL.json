@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c1/c1e5b2a4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape and clear text layout, what is the primary purpose of this product's packaging?",
+        "answer": "Information"
+      },
+      {
+        "question": "Examining the text blocks, what language is predominantly used to list the components?",
+        "answer": "English"
+      },
+      {
+        "question": "Focusing on the text, what specific ingredient is prominently highlighted as a primary component?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "Observing the text's arrangement, what is the principal organizational structure used for presenting the product details?",
+        "answer": "List"
+      },
+      {
+        "question": "Based on the visual clarity, what is the overall tone conveyed by the design of the product label?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Considering the font style, what is the general impression of the typography's readability?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Analyzing the text size and style, what is the visual hierarchy established between the main ingredient list and the other statements?",
+        "answer": "Prominent"
+      },
+      {
+        "question": "Observing the textual content, what is the second language used for additional details?",
+        "answer": "French"
+      },
+      {
+        "question": "Based on the layout's structure, what is the visual separation between the English and French ingredient lists?",
+        "answer": "Distinct"
+      },
+      {
+        "question": "Considering the text's characteristics, what is the visual impression of the overall typeface used?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Observing the label, what is the predominant color used in the background of this food item's packaging?",
+        "answer": "White"
+      },
+      {
+        "question": "Examining the text's style, what is the overall visual weight or boldness of the characters used?",
+        "answer": "Regular"
+      },
+      {
+        "question": "Considering the text's presentation, what is the visual effect created by the consistent use of uppercase letters in the ingredients list?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Analyzing the label's layout, what is the relative visual density or spacing between the lines of text?",
+        "answer": "Compact"
+      },
+      {
+        "question": "Based on the label's appearance, what is the overall visual impression of the package's design?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/89/89582282.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the visual layout, what is the primary subject depicted in the provided image?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Based on the image's textual content, what is the primary unit of measurement for serving size?",
+        "answer": "Cup"
+      },
+      {
+        "question": "Observing the provided image, what is the numerical value associated with calories per serving?",
+        "answer": "110"
+      },
+      {
+        "question": "What is the dominant color scheme used in the presented nutritional facts table?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the type of information prominently displayed in the image?",
+        "answer": "Facts"
+      },
+      {
+        "question": "What is the format in which the nutritional information is presented?",
+        "answer": "Table"
+      },
+      {
+        "question": "Judging from the visible text, what is the serving size specified in grams?",
+        "answer": "30"
+      },
+      {
+        "question": "What is the unit of measurement used for 'Total Fat' in the provided nutritional information?",
+        "answer": "Grams"
+      },
+      {
+        "question": "In the context of the image, what is the value for 'Total Sugars' according to the information presented?",
+        "answer": "1"
+      },
+      {
+        "question": "What is the nutritional information presented in this image about?",
+        "answer": "Food"
+      },
+      {
+        "question": "Based on visual analysis, how many servings are there per container?",
+        "answer": "14"
+      },
+      {
+        "question": "What is the numerical value next to 'Sodium' on the nutrition label?",
+        "answer": "40"
+      },
+      {
+        "question": "From the image, determine the unit used for measuring 'Dietary Fiber'",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the percentage daily value for total fat presented in the image?",
+        "answer": "1"
+      },
+      {
+        "question": "What is the unit of measurement used to quantify 'Protein' in the image?",
+        "answer": "Grams"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2f/2f02a4f7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color of the text displayed on this product label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the primary text element that the image shows, considering its size and prominence?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What specific milk type is explicitly listed in the visible ingredient information?",
+        "answer": "Reduced"
+      },
+      {
+        "question": "Based on the visible text, which fat level of milk does the product contain, according to the ingredients?",
+        "answer": "Fat"
+      },
+      {
+        "question": "What vitamin, in a specific palmitate form, is listed as an ingredient in this product?",
+        "answer": "A"
+      },
+      {
+        "question": "Aside from Vitamin A Palmitate, what other vitamin is mentioned in this product's ingredients list?",
+        "answer": "D3"
+      },
+      {
+        "question": "What is the second line of text on the label regarding the product's contents?",
+        "answer": "Contains"
+      },
+      {
+        "question": "What allergenic substance does the label warn consumers might be present?",
+        "answer": "Milk"
+      },
+      {
+        "question": "What is the typeface or style of the font used throughout the text on this product's label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the approximate size of the lettering in relation to one another on this product label?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Describe the visual arrangement of the text; is it in a structured format, like a list?",
+        "answer": "List"
+      },
+      {
+        "question": "What is the overall visual tone or style of the text on the product label, considering its appearance?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Does the label use bolding, italics, or any other text formatting to emphasize anything?",
+        "answer": "No"
+      },
+      {
+        "question": "Is the text aligned to the left, right, or centered on the label in the image?",
+        "answer": "Left"
+      },
+      {
+        "question": "Considering the visible text, what is the general background color of the label?",
+        "answer": "White"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/12/12aaa963.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what is the primary color used for the text in this image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the apparent style of typeface used for conveying the product ingredients?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Focusing on the text's arrangement, what is the orientation of the ingredient list?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Based on the visual appearance, what is the background's color on which the text is printed?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Observing the image closely, what is the apparent texture of the background surface?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Judging from the visual characteristics, what is the size of the text in relation to the image dimensions?",
+        "answer": "Large"
+      },
+      {
+        "question": "Given the image, what seems to be the material on which the ingredient list is printed?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Considering the legibility of the text, what is the overall clarity of the ingredient information presented?",
+        "answer": "Clear"
+      },
+      {
+        "question": "If you were to describe the text's style, which word best captures its visual tone?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Judging from the presentation, how many lines of text are used to list the ingredients?",
+        "answer": "Three"
+      },
+      {
+        "question": "In terms of capitalization, what is the case style of the 'INGREDIENTS' label?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "What is the apparent font weight used for the ingredient labels?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Is the spacing between words consistent throughout the ingredient list?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Regarding the presentation, are there any visual separators or dividers between ingredient lines?",
+        "answer": "No"
+      },
+      {
+        "question": "What seems to be the overall visual design theme of this ingredient label?",
+        "answer": "Minimalist"
+      }
+    ]
+  }
+]

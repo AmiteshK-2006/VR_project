@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a2/a24545fe.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the highest energy efficiency rating displayed on the label?",
+        "answer": "A++"
+      },
+      {
+        "question": "What color is the bar representing the highest energy efficiency rating?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the shape of the main energy efficiency label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the lowest energy efficiency rating shown on the label?",
+        "answer": "E"
+      },
+      {
+        "question": "What color is the bar representing the lowest energy efficiency rating?",
+        "answer": "Red"
+      },
+      {
+        "question": "What unit is used to express energy consumption?",
+        "answer": "kWh"
+      },
+      {
+        "question": "What is the displayed energy consumption value per 1000 hours?",
+        "answer": "6.5"
+      },
+      {
+        "question": "What language(s) are used on the energy label besides English?",
+        "answer": "Greek"
+      },
+      {
+        "question": "What is the general color scheme of the energy efficiency rating bars?",
+        "answer": "Gradient"
+      },
+      {
+        "question": "What type of product does this energy label likely belong to?",
+        "answer": "Appliance"
+      },
+      {
+        "question": "Is the overall design of the label primarily vertical or horizontal?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the background color of the main label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the apparent material of the energy label?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the overall layout of information on the label?",
+        "answer": "Organized"
+      },
+      {
+        "question": "What style of font is predominantly used on the energy label?",
+        "answer": "Sans-serif"
+      }
+    ]
+  }
+]

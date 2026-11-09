@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/62/623b31f9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color dominating the packaging's design, as observed visually?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the packaging's shape, what geometric form best describes its overall structure?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on visual inspection, what material appears to constitute the packaging's main body?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Observing the text present, what seems to be the primary function indicated for this product?",
+        "answer": "Food"
+      },
+      {
+        "question": "Does the packaging display any noticeable markings or branding elements suggesting a particular manufacturer?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What specific kind of nutritional information is prominently displayed on the carton, according to the visual data?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Judging by the visual details, is the product intended for refrigerated storage, as indicated on the packaging?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the text, what appears to be the suggested timeframe for consumption after opening?",
+        "answer": "Days"
+      },
+      {
+        "question": "From a visual assessment, what is the orientation of the text on the carton; is it vertical or horizontal?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Judging from the appearance of the text blocks, is the font style predominantly serif or sans-serif?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on what is visually evident, does the packaging utilize any distinct design patterns or textures?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the packaging reveal any explicit images or illustrations related to the product's contents?",
+        "answer": "No"
+      },
+      {
+        "question": "Visually assessing the text, does the packaging include instructions pertaining to product storage or use?",
+        "answer": "Yes"
+      },
+      {
+        "question": "From a visual inspection, what language is predominantly used in the text present on the packaging?",
+        "answer": "English"
+      },
+      {
+        "question": "Judging visually from the carton's size, would it be suitable for individual or bulk consumption?",
+        "answer": "Individual"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/30/30aa635c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the dominant three-dimensional shape of the product container?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the primary material of the product's outer packaging, visibly apparent in the image?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the transparency of the container, allowing for the visibility of the liquid inside.",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the apparent color of the liquid contained within the clear bottle, as seen through the container?",
+        "answer": "Colorless"
+      },
+      {
+        "question": "Based on the visual texture, what is the surface finish of the product's plastic container?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the most prominent color present on the product's label, discounting the background.",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the shape of the topmost portion of the product's container, seen as the cap or lid?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Focusing on the label, what is the prevalent text color used for the product description?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the entire label, what is the overall style of the product's label design?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the most apparent type of marking or graphic element displayed on the container's label?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the visually apparent color of the top closure component, often termed the cap or lid?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe the visual appearance of the barcode on the label, in terms of its overall shape?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on what is seen, what is the apparent condition of the product; whether it is open or sealed?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Focusing on the base of the container, what is the shape of the bottom of the bottle?",
+        "answer": "Circular"
+      },
+      {
+        "question": "What is the apparent texture of the label, judging from the image?",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

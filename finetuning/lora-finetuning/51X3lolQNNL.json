@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/97/972a6915.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant textual characteristic displayed on the product?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Based on the image's visual content, what is the primary purpose of the text presented?",
+        "answer": "Listing"
+      },
+      {
+        "question": "What is the most prominent word, in terms of size and position, in the text shown in the image?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the general formatting style of the textual information presented in the image?",
+        "answer": "List"
+      },
+      {
+        "question": "Disregarding the actual contents, what is the most noticeable feature of the textual elements' visual style?",
+        "answer": "Lines"
+      },
+      {
+        "question": "From a purely visual standpoint, how would you describe the overall color palette of the displayed text?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on your visual observation, what is the approximate font style used in this visual representation?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Regarding the arrangement of elements, how is the text organized spatially in relation to the image's visual area?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the apparent visual texture of the surface carrying the text based on the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the most common type of punctuation used within the textual information in the image?",
+        "answer": "Comma"
+      },
+      {
+        "question": "Judging from the provided image, what seems to be the background color of the displayed text?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the visible aspect ratio or shape of the product shown in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the visual appearance of the text's layout in terms of alignment or justification?",
+        "answer": "Left"
+      },
+      {
+        "question": "How would you visually classify the general orientation or direction of the text?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "In terms of density, what is the visual packing characteristic of the textual information on the presented item?",
+        "answer": "Dense"
+      }
+    ]
+  }
+]

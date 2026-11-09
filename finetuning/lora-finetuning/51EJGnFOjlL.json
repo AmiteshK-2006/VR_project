@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d8/d80ddb82.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary type of dairy product detailed in the provided text?",
+        "answer": "Cheese"
+      },
+      {
+        "question": "Considering the provided text, what specific type of cheese is prominently mentioned?",
+        "answer": "Colby"
+      },
+      {
+        "question": "Based on the text, name another kind of cheese listed as a component.",
+        "answer": "Monterey"
+      },
+      {
+        "question": "According to the text, what is one of the listed ingredients in the cheese?",
+        "answer": "Milk"
+      },
+      {
+        "question": "What additive, indicated in brackets, is used for coloring, as per the text?",
+        "answer": "Annatto"
+      },
+      {
+        "question": "What ingredient, identified in the text, contributes to cheese fermentation?",
+        "answer": "Culture"
+      },
+      {
+        "question": "As indicated by the text, what common ingredient is used to enhance flavor?",
+        "answer": "Salt"
+      },
+      {
+        "question": "Based on the provided text, what ingredient helps in the cheese-making process?",
+        "answer": "Enzymes"
+      },
+      {
+        "question": "What is the format of the information provided regarding the product components?",
+        "answer": "List"
+      },
+      {
+        "question": "What is the style of the text, as seen in the presented image?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the overall color scheme of the provided text?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the textual alignment of the ingredient list, as presented?",
+        "answer": "Left"
+      },
+      {
+        "question": "What word precedes the list of components of the cheese product?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What word is used to indicate that the product contains milk?",
+        "answer": "Contains"
+      },
+      {
+        "question": "What kind of information, aside from ingredients, is provided about the product?",
+        "answer": "Allergens"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/78/7815622e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the bottle visible in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "What appears to be the material of the container shown?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the overall shape of the product packaging container?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What type of closure is present on the top of the bottle?",
+        "answer": "Screw-top"
+      },
+      {
+        "question": "Is there a label visible on the product's packaging?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What color is the primary text on the visible label section?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the apparent size of the visible text on the bottle?",
+        "answer": "Small"
+      },
+      {
+        "question": "Can you describe the surface texture of the bottle?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the bottle have any significant markings besides text?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the visible packaging, what is the likely product form?",
+        "answer": "Pill"
+      },
+      {
+        "question": "What is the color of the bottle cap in the provided image?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the image, is the bottle transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What kind of printing is used on the product's label?",
+        "answer": "Text"
+      },
+      {
+        "question": "Is the text on the label predominantly horizontal or vertical?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Based on the image, is there a barcode visible on the packaging?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

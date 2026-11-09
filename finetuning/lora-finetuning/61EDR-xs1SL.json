@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ba/ba3a1ee7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the visible portion of the product's contents, judging from the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the bag's shape and construction, what is the most likely packaging material used?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on the image alone, what seems to be the overall shape of the bag containing the product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the most noticeable color prominently featured on the side panel of the bag, aside from white?",
+        "answer": "Red"
+      },
+      {
+        "question": "What appears to be the texture of the product inside, judging by its visual appearance?",
+        "answer": "Granular"
+      },
+      {
+        "question": "What kind of seal is primarily used at the top of the bag, according to the image?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Focusing solely on the visible portion, what is the general visual consistency of the product inside?",
+        "answer": "Solid"
+      },
+      {
+        "question": "What word, other than 'NET WT.', is partially visible on the product's label?",
+        "answer": "SES"
+      },
+      {
+        "question": "Does the bag show any significant transparency, allowing clear view of the product within?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image provided, what is the general state of the product\u2014is it visibly crumbled or whole?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Judging from what is visible, what is the primary design characteristic of the side panel labeling?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What appears to be the dominant color of the secondary design element on the packaging?",
+        "answer": "White"
+      },
+      {
+        "question": "Does the product's label or packaging suggest the presence of any specific flavor or type?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the packaging, what appears to be the product's form factor?",
+        "answer": "Loose"
+      },
+      {
+        "question": "Can you identify any visible perforations or openings on the product's bag aside from the seal?",
+        "answer": "No"
+      }
+    ]
+  }
+]

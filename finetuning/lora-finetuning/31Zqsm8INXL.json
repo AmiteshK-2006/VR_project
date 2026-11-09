@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/98/98991f46.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the bottle's body, as shown in the product image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the primary color of the label text prominently displayed on the bottle?",
+        "answer": "Pink"
+      },
+      {
+        "question": "Considering the image, what material appears to constitute the bottle's main structure?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the shape of the container holding the supplement, as visually apparent?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Judging by the image, what color is the bottle cap affixed to the top?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the image provided, what type of closure is used on the top of the bottle?",
+        "answer": "Screw"
+      },
+      {
+        "question": "What is the overall texture of the bottle, considering both the image and apparent material?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the bottle, as visible in the image, have any noticeable embossing or texturing?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent size of the product, relative to a human hand visible in the image?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Based on visual inspection, what is the number of capsules stated on the bottle label?",
+        "answer": "200"
+      },
+      {
+        "question": "From the image, what key vitamin is explicitly named on the product's label?",
+        "answer": "C"
+      },
+      {
+        "question": "Is there a QR code visible on the bottle's label, within the image provided?",
+        "answer": "Yes"
+      },
+      {
+        "question": "From the visible label, what additional ingredient is mentioned besides Vitamin C?",
+        "answer": "Rosehips"
+      },
+      {
+        "question": "What is the apparent format or form of the supplement presented in the container?",
+        "answer": "Capsules"
+      },
+      {
+        "question": "Considering the image, describe the label's design style (e.g., modern, minimalist, etc.)",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

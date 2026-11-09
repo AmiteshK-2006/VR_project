@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/cb/cb1f8714.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the beverage container, considering its curvature and tapering?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Considering the image, what material is primarily used in the construction of the bottle?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on the image's visual information, what is the predominant color of the bottle itself?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Examining the cap, what color is the closure at the top of the bottle?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the apparent texture of the plastic bottle, based solely on the visual evidence provided?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What type of labeling is predominantly present on the bottle's body, in terms of information?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the prominent design element featured on the label near the bottom right corner?",
+        "answer": "Circular"
+      },
+      {
+        "question": "From the image, what is the general condition of the beverage bottle, considering its cleanliness and intactness?",
+        "answer": "Full"
+      },
+      {
+        "question": "Judging from the picture, what is the approximate size or volume of the bottle, considering its height and width?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the primary function of this item, based on its appearance and typical use for similar items?",
+        "answer": "Beverage"
+      },
+      {
+        "question": "Based on the visual elements, what seems to be the nature of the liquid contained inside the bottle?",
+        "answer": "Carbonated"
+      },
+      {
+        "question": "Disregarding the text, are there any noticeable graphics aside from text on the bottle's label?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the visible style of the font used on the bottle's label, in general terms?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the type of cap, what seems to be the method of opening this beverage bottle?",
+        "answer": "Twist"
+      },
+      {
+        "question": "Are there any noticeable visual imperfections on the bottle or its packaging?",
+        "answer": "No"
+      }
+    ]
+  }
+]

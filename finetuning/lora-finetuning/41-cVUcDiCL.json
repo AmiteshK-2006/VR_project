@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/21/218b7f07.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the highest energy efficiency rating depicted on the label?",
+        "answer": "A+"
+      },
+      {
+        "question": "What color is the bar representing the highest energy efficiency rating?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the lowest energy efficiency rating shown on the energy label?",
+        "answer": "E"
+      },
+      {
+        "question": "What color is the bar representing the lowest energy efficiency rating?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the shape of the overall energy efficiency label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary language used in the main text of the energy label?",
+        "answer": "English"
+      },
+      {
+        "question": "What unit is used to measure energy consumption?",
+        "answer": "kWh"
+      },
+      {
+        "question": "What is the value of the energy consumption per 1000 hours?",
+        "answer": "9"
+      },
+      {
+        "question": "What is the general shape of the individual colored bars representing energy ratings?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the color of the bar representing the 'B' energy rating?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What language besides English is also prominently featured on the energy label?",
+        "answer": "Greek"
+      },
+      {
+        "question": "Is the background of the label predominantly white or colored?",
+        "answer": "White"
+      },
+      {
+        "question": "What type of label is this, based on its visual content?",
+        "answer": "Energy"
+      },
+      {
+        "question": "What is the orientation of the text on the label?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the overall texture of the energy label (assuming a printed version)?",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

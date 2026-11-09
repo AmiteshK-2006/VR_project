@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/37/37c64d81.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the image?",
+        "answer": "Navy"
+      },
+      {
+        "question": "What is the most apparent texture of the presented fabric sample?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Considering the weave and thickness, what is the likely material of this fabric?",
+        "answer": "Linen"
+      },
+      {
+        "question": "Based on the image, what is the overall appearance of the fabric's surface?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Does the fabric exhibit a significant pattern or print on its surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the density of the weave, considering the threads' visibility.",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the general visual impression regarding the softness of the material?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Judging from the weave structure, how would you describe the fabric's drape?",
+        "answer": "Slight"
+      },
+      {
+        "question": "Considering the image's detail, how would you characterize the fabric's sheen?",
+        "answer": "Matte"
+      },
+      {
+        "question": "In terms of the visible fibers, is the weave regular or irregular?",
+        "answer": "Regular"
+      },
+      {
+        "question": "Does the image suggest a discernible directionality or grain to the weave?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the overall visual impression of the color's depth and saturation?",
+        "answer": "Deep"
+      },
+      {
+        "question": "How would you describe the visual uniformity of color and texture across the sample?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Considering the image's resolution, are individual fibers distinctly visible?",
+        "answer": "Slightly"
+      },
+      {
+        "question": "Does the image provide a sense of the fabric's weight or thickness?",
+        "answer": "Medium"
+      }
+    ]
+  }
+]

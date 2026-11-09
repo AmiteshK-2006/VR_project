@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/50/50bf8ee4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's overall visual presentation, what single word best describes the font style used to display the product's ingredient information?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the image, what color is prominently featured in the descriptive text regarding the product's primary ingredient?",
+        "answer": "Red"
+      },
+      {
+        "question": "Focusing solely on the textual element, what is the primary descriptor used to qualify the type of chili pepper included in the product, as indicated in the visual?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What specific type of pepper is listed as an ingredient, according to the visible textual information on the product's packaging?",
+        "answer": "Chili"
+      },
+      {
+        "question": "In the displayed text, what single word best describes the overall state or condition of the chili pepper ingredient as specified?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the word before the word 'Red' in the ingredient description, as shown in the visual?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Observing the image closely, what word precedes 'red' in the presented ingredient information?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the single word that follows 'red' in the displayed ingredient description on the product packaging?",
+        "answer": "Chili"
+      },
+      {
+        "question": "From the image, what is the final word in the displayed ingredients list, excluding punctuation?",
+        "answer": "Pepper"
+      },
+      {
+        "question": "Disregarding punctuation, what is the word following 'chili' within the visible text describing the product?",
+        "answer": "Pepper"
+      },
+      {
+        "question": "Focusing on the visual details, what word indicates the nature of the ingredients' origin?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Examining the text's appearance, what single word best characterizes its overall alignment on the surface?",
+        "answer": "Left"
+      },
+      {
+        "question": "Based on visual observation, what term indicates the nature of the product's main ingredient?",
+        "answer": "Pepper"
+      },
+      {
+        "question": "What word, visible in the provided image, precedes the word 'chili' in the ingredient list?",
+        "answer": "Red"
+      },
+      {
+        "question": "Considering the visible text, what word is used to denote the list of components?",
+        "answer": "Ingredients"
+      }
+    ]
+  }
+]

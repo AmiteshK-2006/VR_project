@@ -1,0 +1,1504 @@
+[2025-05-15 08:04:39] Starting training at 2025-05-15 08:04:39
+[2025-05-15 08:04:39] Configuration: {}
+[2025-05-15 08:04:39] GPU: NVIDIA GeForce RTX 2080 Ti
+[2025-05-15 08:04:39] GPU Memory: 11.55 GB
+[2025-05-15 08:04:39] CUDA Version: 12.6
+[2025-05-15 08:04:39] No pretrained found. Initializing new model from 'blip-vqa-base'
+[2025-05-15 08:04:42] Enabled KV-Cache optimization
+[2025-05-15 08:04:42] Model size: 1467.42 MB
+[2025-05-15 08:04:42] Total parameters: 384,672,572
+[2025-05-15 08:04:42] Trainable parameters: 384,672,572 (100.00%)
+[2025-05-15 08:04:42] Gradient checkpointing enabled
+[2025-05-15 08:04:42] Using device: cuda
+[2025-05-15 08:04:42] Distributed training: DistributedType.NO
+[2025-05-15 08:04:42] Mixed precision: None
+[2025-05-15 08:04:42] Loading samples from ./lora-finetuning...
+[2025-05-15 08:04:48] Loaded 1267560 QA pairs from 84504 unique images
+[2025-05-15 08:04:48] Loading samples from ./validation-dataset/validation...
+[2025-05-15 08:04:48] Loaded 30000 QA pairs from 2000 unique images
+[2025-05-15 08:04:48] Training dataset: 1267560 samples
+[2025-05-15 08:04:48] Validation dataset: 30000 samples
+[2025-05-15 08:04:48] Number of unique images in training dataset: 84504
+[2025-05-15 08:04:48] Using 8-bit AdamW optimizer
+[2025-05-15 08:04:48] Setup completed in 0:00:09
+[2025-05-15 08:07:21] Step 100 | Loss: 9.9184 | LR: 0.0000017 | Images: 213 | Data points: 3200 | Time: 0:02:31
+[2025-05-15 08:07:45] Training script finished.
+[2025-05-15 08:08:50] Starting training at 2025-05-15 08:08:50
+[2025-05-15 08:08:50] Configuration: {}
+[2025-05-15 08:08:50] GPU: NVIDIA GeForce RTX 2080 Ti
+[2025-05-15 08:08:50] GPU Memory: 11.55 GB
+[2025-05-15 08:08:50] CUDA Version: 12.6
+[2025-05-15 08:08:50] No pretrained found. Initializing new model from 'blip-vqa-base'
+[2025-05-15 08:08:53] Enabled KV-Cache optimization
+[2025-05-15 08:08:53] Model size: 1467.42 MB
+[2025-05-15 08:08:53] Total parameters: 384,672,572
+[2025-05-15 08:08:53] Trainable parameters: 384,672,572 (100.00%)
+[2025-05-15 08:08:53] Gradient checkpointing enabled
+[2025-05-15 08:08:53] Using device: cuda
+[2025-05-15 08:08:53] Distributed training: DistributedType.NO
+[2025-05-15 08:08:53] Mixed precision: None
+[2025-05-15 08:08:54] Loading samples from ./lora-finetuning...
+[2025-05-15 08:08:59] Loaded 1267560 QA pairs from 84504 unique images
+[2025-05-15 08:08:59] Loading samples from ./validation-dataset/validation...
+[2025-05-15 08:08:59] Loaded 30000 QA pairs from 2000 unique images
+[2025-05-15 08:08:59] Training dataset: 1267560 samples
+[2025-05-15 08:08:59] Validation dataset: 30000 samples
+[2025-05-15 08:08:59] Number of unique images in training dataset: 84504
+[2025-05-15 08:08:59] Using 8-bit AdamW optimizer
+[2025-05-15 08:08:59] Setup completed in 0:00:08
+[2025-05-15 08:11:35] Step 100 | Loss: 9.9184 | LR: 0.0000017 | Images: 213 | Data points: 3200 | Time: 0:02:35
+[2025-05-15 08:14:21] Step 200 | Loss: 9.9232 | LR: 0.0000034 | Images: 426 | Data points: 6400 | Time: 0:05:21
+[2025-05-15 08:17:00] Step 300 | Loss: 10.0014 | LR: 0.0000050 | Images: 640 | Data points: 9600 | Time: 0:08:00
+[2025-05-15 08:19:38] Step 400 | Loss: 9.8868 | LR: 0.0000067 | Images: 853 | Data points: 12800 | Time: 0:10:38
+[2025-05-15 08:22:16] Step 500 | Loss: 9.8934 | LR: 0.0000084 | Images: 1066 | Data points: 16000 | Time: 0:13:15
+[2025-05-15 08:24:59] Step 600 | Loss: 9.8751 | LR: 0.0000101 | Images: 1279 | Data points: 19200 | Time: 0:15:59
+[2025-05-15 08:27:39] Step 700 | Loss: 9.8832 | LR: 0.0000118 | Images: 1493 | Data points: 22400 | Time: 0:18:39
+[2025-05-15 08:30:17] Step 800 | Loss: 9.8525 | LR: 0.0000135 | Images: 1706 | Data points: 25600 | Time: 0:21:17
+[2025-05-15 08:32:56] Step 900 | Loss: 9.7386 | LR: 0.0000151 | Images: 1919 | Data points: 28800 | Time: 0:23:55
+[2025-05-15 08:33:56] Checkpoint metadata saved to ./working/checkpoints/checkpoint-2000-images_metadata.json
+[2025-05-15 08:33:56] Checkpoint saved at 2000 images / 30008 datapoints
+[2025-05-15 08:35:39] Step 1000 | Loss: 9.7645 | LR: 0.0000168 | Images: 2133 | Data points: 32000 | Time: 0:26:39
+[2025-05-15 08:38:20] Step 1100 | Loss: 9.7372 | LR: 0.0000185 | Images: 2346 | Data points: 35200 | Time: 0:29:20
+[2025-05-15 08:40:58] Step 1200 | Loss: 9.1849 | LR: 0.0000202 | Images: 2559 | Data points: 38400 | Time: 0:31:58
+[2025-05-15 08:43:35] Step 1300 | Loss: 8.8184 | LR: 0.0000219 | Images: 2773 | Data points: 41600 | Time: 0:34:35
+[2025-05-15 08:46:13] Step 1400 | Loss: 8.5299 | LR: 0.0000236 | Images: 2986 | Data points: 44800 | Time: 0:37:13
+[2025-05-15 08:48:51] Step 1500 | Loss: 8.4723 | LR: 0.0000252 | Images: 3199 | Data points: 48000 | Time: 0:39:51
+[2025-05-15 08:51:29] Step 1600 | Loss: 8.3249 | LR: 0.0000269 | Images: 3413 | Data points: 51200 | Time: 0:42:29
+[2025-05-15 08:54:08] Step 1700 | Loss: 8.2436 | LR: 0.0000286 | Images: 3626 | Data points: 54400 | Time: 0:45:07
+[2025-05-15 08:56:46] Step 1800 | Loss: 8.2244 | LR: 0.0000303 | Images: 3839 | Data points: 57600 | Time: 0:47:46
+[2025-05-15 08:58:46] Checkpoint metadata saved to ./working/checkpoints/checkpoint-4001-images_metadata.json
+[2025-05-15 08:58:46] Checkpoint saved at 4001 images / 60016 datapoints
+[2025-05-15 08:59:24] Step 1900 | Loss: 8.2574 | LR: 0.0000320 | Images: 4053 | Data points: 60800 | Time: 0:50:24
+[2025-05-15 09:02:03] Step 2000 | Loss: 8.2331 | LR: 0.0000337 | Images: 4266 | Data points: 64000 | Time: 0:53:03
+[2025-05-15 09:04:41] Step 2100 | Loss: 8.1925 | LR: 0.0000353 | Images: 4480 | Data points: 67200 | Time: 0:55:41
+[2025-05-15 09:07:19] Step 2200 | Loss: 8.2160 | LR: 0.0000370 | Images: 4693 | Data points: 70400 | Time: 0:58:19
+[2025-05-15 09:09:57] Step 2300 | Loss: 8.1985 | LR: 0.0000387 | Images: 4906 | Data points: 73600 | Time: 1:00:57
+[2025-05-15 09:12:35] Step 2400 | Loss: 8.2256 | LR: 0.0000404 | Images: 5120 | Data points: 76800 | Time: 1:03:35
+[2025-05-15 09:15:13] Step 2500 | Loss: 8.1883 | LR: 0.0000421 | Images: 5333 | Data points: 80000 | Time: 1:06:13
+[2025-05-15 09:17:50] Step 2600 | Loss: 8.1887 | LR: 0.0000438 | Images: 5546 | Data points: 83200 | Time: 1:08:50
+[2025-05-15 09:20:27] Step 2700 | Loss: 8.2217 | LR: 0.0000454 | Images: 5760 | Data points: 86400 | Time: 1:11:27
+[2025-05-15 09:23:04] Step 2800 | Loss: 8.2010 | LR: 0.0000471 | Images: 5973 | Data points: 89600 | Time: 1:14:03
+[2025-05-15 09:23:24] Checkpoint metadata saved to ./working/checkpoints/checkpoint-6001-images_metadata.json
+[2025-05-15 09:23:24] Checkpoint saved at 6001 images / 90016 datapoints
+[2025-05-15 09:25:41] Step 2900 | Loss: 8.2114 | LR: 0.0000488 | Images: 6186 | Data points: 92800 | Time: 1:16:40
+[2025-05-15 09:28:17] Step 3000 | Loss: 8.2014 | LR: 0.0000505 | Images: 6400 | Data points: 96000 | Time: 1:19:17
+[2025-05-15 09:30:58] Step 3100 | Loss: 8.3060 | LR: 0.0000522 | Images: 6613 | Data points: 99200 | Time: 1:21:58
+[2025-05-15 09:33:40] Step 3200 | Loss: 8.2350 | LR: 0.0000539 | Images: 6826 | Data points: 102400 | Time: 1:24:40
+[2025-05-15 09:36:17] Step 3300 | Loss: 8.2212 | LR: 0.0000555 | Images: 7040 | Data points: 105600 | Time: 1:27:17
+[2025-05-15 09:38:54] Step 3400 | Loss: 8.1656 | LR: 0.0000572 | Images: 7253 | Data points: 108800 | Time: 1:29:54
+[2025-05-15 09:41:32] Step 3500 | Loss: 8.1354 | LR: 0.0000589 | Images: 7466 | Data points: 112000 | Time: 1:32:32
+[2025-05-15 09:44:09] Step 3600 | Loss: 8.1311 | LR: 0.0000606 | Images: 7680 | Data points: 115200 | Time: 1:35:09
+[2025-05-15 09:46:46] Step 3700 | Loss: 8.2480 | LR: 0.0000623 | Images: 7893 | Data points: 118400 | Time: 1:37:46
+[2025-05-15 09:48:06] Checkpoint metadata saved to ./working/checkpoints/checkpoint-8001-images_metadata.json
+[2025-05-15 09:48:06] Checkpoint saved at 8001 images / 120016 datapoints
+[2025-05-15 09:49:23] Step 3800 | Loss: 8.2464 | LR: 0.0000640 | Images: 8106 | Data points: 121600 | Time: 1:40:23
+[2025-05-15 09:51:59] Step 3900 | Loss: 8.2018 | LR: 0.0000656 | Images: 8320 | Data points: 124800 | Time: 1:42:59
+[2025-05-15 09:54:35] Step 4000 | Loss: 8.1510 | LR: 0.0000673 | Images: 8533 | Data points: 128000 | Time: 1:45:35
+[2025-05-15 09:57:12] Step 4100 | Loss: 8.2307 | LR: 0.0000690 | Images: 8746 | Data points: 131200 | Time: 1:48:12
+[2025-05-15 09:59:49] Step 4200 | Loss: 8.1423 | LR: 0.0000707 | Images: 8960 | Data points: 134400 | Time: 1:50:49
+[2025-05-15 10:02:36] Step 4300 | Loss: 8.1589 | LR: 0.0000724 | Images: 9173 | Data points: 137600 | Time: 1:53:36
+[2025-05-15 10:05:14] Step 4400 | Loss: 8.3931 | LR: 0.0000741 | Images: 9386 | Data points: 140800 | Time: 1:56:14
+[2025-05-15 10:07:52] Step 4500 | Loss: 8.1455 | LR: 0.0000757 | Images: 9600 | Data points: 144000 | Time: 1:58:52
+[2025-05-15 10:10:31] Step 4600 | Loss: 8.1600 | LR: 0.0000774 | Images: 9813 | Data points: 147200 | Time: 2:01:30
+[2025-05-15 10:12:50] Checkpoint metadata saved to ./working/checkpoints/checkpoint-10001-images_metadata.json
+[2025-05-15 10:12:50] Checkpoint saved at 10001 images / 150024 datapoints
+[2025-05-15 10:13:09] Step 4700 | Loss: 8.1601 | LR: 0.0000791 | Images: 10026 | Data points: 150400 | Time: 2:04:09
+[2025-05-15 10:15:47] Step 4800 | Loss: 8.1960 | LR: 0.0000808 | Images: 10240 | Data points: 153600 | Time: 2:06:47
+[2025-05-15 10:18:25] Step 4900 | Loss: 8.1536 | LR: 0.0000825 | Images: 10453 | Data points: 156800 | Time: 2:09:24
+[2025-05-15 10:21:03] Step 5000 | Loss: 8.1987 | LR: 0.0000842 | Images: 10666 | Data points: 160000 | Time: 2:12:03
+[2025-05-15 10:23:42] Step 5100 | Loss: 8.1848 | LR: 0.0000858 | Images: 10880 | Data points: 163200 | Time: 2:14:42
+[2025-05-15 10:26:21] Step 5200 | Loss: 8.1642 | LR: 0.0000875 | Images: 11093 | Data points: 166400 | Time: 2:17:21
+[2025-05-15 10:28:59] Step 5300 | Loss: 8.2664 | LR: 0.0000892 | Images: 11306 | Data points: 169600 | Time: 2:19:59
+[2025-05-15 10:31:44] Step 5400 | Loss: 8.1755 | LR: 0.0000909 | Images: 11520 | Data points: 172800 | Time: 2:22:43
+[2025-05-15 10:34:23] Step 5500 | Loss: 8.1663 | LR: 0.0000926 | Images: 11733 | Data points: 176000 | Time: 2:25:22
+[2025-05-15 10:37:01] Step 5600 | Loss: 8.1472 | LR: 0.0000943 | Images: 11946 | Data points: 179200 | Time: 2:28:01
+[2025-05-15 10:37:43] Checkpoint metadata saved to ./working/checkpoints/checkpoint-12002-images_metadata.json
+[2025-05-15 10:37:43] Checkpoint saved at 12002 images / 180032 datapoints
+[2025-05-15 10:39:39] Step 5700 | Loss: 8.2104 | LR: 0.0000959 | Images: 12159 | Data points: 182400 | Time: 2:30:39
+[2025-05-15 10:42:17] Step 5800 | Loss: 8.1851 | LR: 0.0000976 | Images: 12373 | Data points: 185600 | Time: 2:33:16
+[2025-05-15 10:44:53] Step 5900 | Loss: 8.2155 | LR: 0.0000993 | Images: 12586 | Data points: 188800 | Time: 2:35:53
+[2025-05-15 10:47:32] Step 6000 | Loss: 8.1888 | LR: 0.0001010 | Images: 12799 | Data points: 192000 | Time: 2:38:31
+[2025-05-15 10:50:09] Step 6100 | Loss: 8.1656 | LR: 0.0001027 | Images: 13013 | Data points: 195200 | Time: 2:41:09
+[2025-05-15 10:52:46] Step 6200 | Loss: 8.1831 | LR: 0.0001044 | Images: 13226 | Data points: 198400 | Time: 2:43:46
+[2025-05-15 10:55:24] Step 6300 | Loss: 8.1864 | LR: 0.0001060 | Images: 13439 | Data points: 201600 | Time: 2:46:24
+[2025-05-15 10:58:01] Step 6400 | Loss: 8.1730 | LR: 0.0001077 | Images: 13653 | Data points: 204800 | Time: 2:49:00
+[2025-05-15 11:00:37] Step 6500 | Loss: 8.1658 | LR: 0.0001094 | Images: 13866 | Data points: 208000 | Time: 2:51:37
+[2025-05-15 11:02:18] Checkpoint metadata saved to ./working/checkpoints/checkpoint-14002-images_metadata.json
+[2025-05-15 11:02:18] Checkpoint saved at 14002 images / 210040 datapoints
+[2025-05-15 11:03:15] Step 6600 | Loss: 8.1621 | LR: 0.0001111 | Images: 14079 | Data points: 211200 | Time: 2:54:14
+[2025-05-15 11:05:51] Step 6700 | Loss: 8.1800 | LR: 0.0001128 | Images: 14293 | Data points: 214400 | Time: 2:56:51
+[2025-05-15 11:08:28] Step 6800 | Loss: 8.1484 | LR: 0.0001144 | Images: 14506 | Data points: 217600 | Time: 2:59:27
+[2025-05-15 11:11:09] Step 6900 | Loss: 8.1758 | LR: 0.0001161 | Images: 14719 | Data points: 220800 | Time: 3:02:09
+[2025-05-15 11:13:45] Step 7000 | Loss: 8.2237 | LR: 0.0001178 | Images: 14933 | Data points: 224000 | Time: 3:04:45
+[2025-05-15 11:16:22] Step 7100 | Loss: 8.0890 | LR: 0.0001195 | Images: 15146 | Data points: 227200 | Time: 3:07:22
+[2025-05-15 11:18:59] Step 7200 | Loss: 8.1961 | LR: 0.0001212 | Images: 15359 | Data points: 230400 | Time: 3:09:58
+[2025-05-15 11:21:36] Step 7300 | Loss: 8.1781 | LR: 0.0001229 | Images: 15573 | Data points: 233600 | Time: 3:12:36
+[2025-05-15 11:24:14] Step 7400 | Loss: 8.1567 | LR: 0.0001245 | Images: 15786 | Data points: 236800 | Time: 3:15:13
+[2025-05-15 11:26:52] Step 7500 | Loss: 8.1598 | LR: 0.0001262 | Images: 15999 | Data points: 240000 | Time: 3:17:52
+[2025-05-15 11:26:55] Checkpoint metadata saved to ./working/checkpoints/checkpoint-16003-images_metadata.json
+[2025-05-15 11:26:55] Checkpoint saved at 16003 images / 240048 datapoints
+[2025-05-15 11:29:31] Step 7600 | Loss: 8.1954 | LR: 0.0001279 | Images: 16213 | Data points: 243200 | Time: 3:20:31
+[2025-05-15 11:32:10] Step 7700 | Loss: 8.1572 | LR: 0.0001296 | Images: 16426 | Data points: 246400 | Time: 3:23:10
+[2025-05-15 11:34:49] Step 7800 | Loss: 8.1415 | LR: 0.0001313 | Images: 16639 | Data points: 249600 | Time: 3:25:49
+[2025-05-15 11:37:27] Step 7900 | Loss: 8.1398 | LR: 0.0001330 | Images: 16853 | Data points: 252800 | Time: 3:28:27
+[2025-05-15 11:40:05] Step 8000 | Loss: 8.1275 | LR: 0.0001346 | Images: 17066 | Data points: 256000 | Time: 3:31:05
+[2025-05-15 11:42:43] Step 8100 | Loss: 8.1180 | LR: 0.0001363 | Images: 17279 | Data points: 259200 | Time: 3:33:43
+[2025-05-15 11:45:22] Step 8200 | Loss: 8.2085 | LR: 0.0001380 | Images: 17493 | Data points: 262400 | Time: 3:36:21
+[2025-05-15 11:48:01] Step 8300 | Loss: 8.1723 | LR: 0.0001397 | Images: 17706 | Data points: 265600 | Time: 3:39:00
+[2025-05-15 11:50:39] Step 8400 | Loss: 8.1994 | LR: 0.0001414 | Images: 17919 | Data points: 268800 | Time: 3:41:38
+[2025-05-15 11:51:41] Checkpoint metadata saved to ./working/checkpoints/checkpoint-18003-images_metadata.json
+[2025-05-15 11:51:41] Checkpoint saved at 18003 images / 270056 datapoints
+[2025-05-15 11:53:16] Step 8500 | Loss: 8.1419 | LR: 0.0001431 | Images: 18133 | Data points: 272000 | Time: 3:44:16
+[2025-05-15 11:55:54] Step 8600 | Loss: 8.1394 | LR: 0.0001447 | Images: 18346 | Data points: 275200 | Time: 3:46:54
+[2025-05-15 11:58:34] Step 8700 | Loss: 8.1899 | LR: 0.0001464 | Images: 18559 | Data points: 278400 | Time: 3:49:34
+[2025-05-15 12:01:11] Step 8800 | Loss: 8.1117 | LR: 0.0001481 | Images: 18773 | Data points: 281600 | Time: 3:52:11
+[2025-05-15 12:03:50] Step 8900 | Loss: 8.1348 | LR: 0.0001498 | Images: 18986 | Data points: 284800 | Time: 3:54:50
+[2025-05-15 12:06:27] Step 9000 | Loss: 8.1707 | LR: 0.0001515 | Images: 19199 | Data points: 288000 | Time: 3:57:27
+[2025-05-15 12:09:06] Step 9100 | Loss: 8.2144 | LR: 0.0001532 | Images: 19413 | Data points: 291200 | Time: 4:00:05
+[2025-05-15 12:11:44] Step 9200 | Loss: 8.1505 | LR: 0.0001548 | Images: 19626 | Data points: 294400 | Time: 4:02:43
+[2025-05-15 12:14:22] Step 9300 | Loss: 8.0994 | LR: 0.0001565 | Images: 19839 | Data points: 297600 | Time: 4:05:22
+[2025-05-15 12:16:23] Checkpoint metadata saved to ./working/checkpoints/checkpoint-20004-images_metadata.json
+[2025-05-15 12:16:23] Checkpoint saved at 20004 images / 300064 datapoints
+[2025-05-15 12:17:00] Step 9400 | Loss: 8.2336 | LR: 0.0001582 | Images: 20053 | Data points: 300800 | Time: 4:07:59
+[2025-05-15 12:19:37] Step 9500 | Loss: 8.1648 | LR: 0.0001599 | Images: 20266 | Data points: 304000 | Time: 4:10:37
+[2025-05-15 12:22:15] Step 9600 | Loss: 8.1747 | LR: 0.0001616 | Images: 20479 | Data points: 307200 | Time: 4:13:15
+[2025-05-15 12:24:52] Step 9700 | Loss: 8.1016 | LR: 0.0001633 | Images: 20693 | Data points: 310400 | Time: 4:15:52
+[2025-05-15 12:27:30] Step 9800 | Loss: 8.1700 | LR: 0.0001649 | Images: 20906 | Data points: 313600 | Time: 4:18:29
+[2025-05-15 12:30:08] Step 9900 | Loss: 8.1340 | LR: 0.0001666 | Images: 21119 | Data points: 316800 | Time: 4:21:08
+[2025-05-15 12:32:45] Step 10000 | Loss: 8.1740 | LR: 0.0001683 | Images: 21333 | Data points: 320000 | Time: 4:23:45
+[2025-05-15 12:35:23] Step 10100 | Loss: 8.1531 | LR: 0.0001700 | Images: 21546 | Data points: 323200 | Time: 4:26:22
+[2025-05-15 12:38:00] Step 10200 | Loss: 8.1871 | LR: 0.0001717 | Images: 21759 | Data points: 326400 | Time: 4:29:00
+[2025-05-15 12:40:38] Step 10300 | Loss: 8.1454 | LR: 0.0001734 | Images: 21973 | Data points: 329600 | Time: 4:31:38
+[2025-05-15 12:41:02] Checkpoint metadata saved to ./working/checkpoints/checkpoint-22004-images_metadata.json
+[2025-05-15 12:41:02] Checkpoint saved at 22004 images / 330072 datapoints
+[2025-05-15 12:43:16] Step 10400 | Loss: 8.1719 | LR: 0.0001750 | Images: 22186 | Data points: 332800 | Time: 4:34:16
+[2025-05-15 12:45:54] Step 10500 | Loss: 8.0986 | LR: 0.0001767 | Images: 22399 | Data points: 336000 | Time: 4:36:54
+[2025-05-15 12:48:31] Step 10600 | Loss: 8.1283 | LR: 0.0001784 | Images: 22613 | Data points: 339200 | Time: 4:39:31
+[2025-05-15 12:51:10] Step 10700 | Loss: 8.1761 | LR: 0.0001801 | Images: 22826 | Data points: 342400 | Time: 4:42:09
+[2025-05-15 12:53:48] Step 10800 | Loss: 8.1647 | LR: 0.0001818 | Images: 23039 | Data points: 345600 | Time: 4:44:47
+[2025-05-15 12:56:26] Step 10900 | Loss: 8.2038 | LR: 0.0001835 | Images: 23253 | Data points: 348800 | Time: 4:47:25
+[2025-05-15 12:59:04] Step 11000 | Loss: 8.1916 | LR: 0.0001851 | Images: 23466 | Data points: 352000 | Time: 4:50:04
+[2025-05-15 13:01:42] Step 11100 | Loss: 8.2195 | LR: 0.0001868 | Images: 23679 | Data points: 355200 | Time: 4:52:42
+[2025-05-15 13:04:21] Step 11200 | Loss: 8.1626 | LR: 0.0001885 | Images: 23893 | Data points: 358400 | Time: 4:55:20
+[2025-05-15 13:05:44] Checkpoint metadata saved to ./working/checkpoints/checkpoint-24005-images_metadata.json
+[2025-05-15 13:05:44] Checkpoint saved at 24005 images / 360080 datapoints
+[2025-05-15 13:06:59] Step 11300 | Loss: 8.2182 | LR: 0.0001902 | Images: 24106 | Data points: 361600 | Time: 4:57:59
+[2025-05-15 13:09:36] Step 11400 | Loss: 8.1789 | LR: 0.0001919 | Images: 24319 | Data points: 364800 | Time: 5:00:35
+[2025-05-15 13:12:13] Step 11500 | Loss: 8.1353 | LR: 0.0001936 | Images: 24533 | Data points: 368000 | Time: 5:03:13
+[2025-05-15 13:14:50] Step 11600 | Loss: 8.2017 | LR: 0.0001952 | Images: 24746 | Data points: 371200 | Time: 5:05:49
+[2025-05-15 13:17:25] Step 11700 | Loss: 8.2372 | LR: 0.0001969 | Images: 24959 | Data points: 374400 | Time: 5:08:25
+[2025-05-15 13:20:02] Step 11800 | Loss: 8.1513 | LR: 0.0001986 | Images: 25173 | Data points: 377600 | Time: 5:11:02
+[2025-05-15 13:22:41] Step 11900 | Loss: 8.2468 | LR: 0.0002000 | Images: 25386 | Data points: 380800 | Time: 5:13:40
+[2025-05-15 13:25:19] Step 12000 | Loss: 8.1487 | LR: 0.0001998 | Images: 25599 | Data points: 384000 | Time: 5:16:19
+[2025-05-15 13:27:56] Step 12100 | Loss: 8.2128 | LR: 0.0001996 | Images: 25813 | Data points: 387200 | Time: 5:18:56
+[2025-05-15 13:30:19] Checkpoint metadata saved to ./working/checkpoints/checkpoint-26005-images_metadata.json
+[2025-05-15 13:30:19] Checkpoint saved at 26005 images / 390088 datapoints
+[2025-05-15 13:30:34] Step 12200 | Loss: 8.1174 | LR: 0.0001994 | Images: 26026 | Data points: 390400 | Time: 5:21:34
+[2025-05-15 13:33:10] Step 12300 | Loss: 8.1838 | LR: 0.0001992 | Images: 26239 | Data points: 393600 | Time: 5:24:10
+[2025-05-15 13:35:47] Step 12400 | Loss: 8.2202 | LR: 0.0001990 | Images: 26453 | Data points: 396800 | Time: 5:26:47
+[2025-05-15 13:38:24] Step 12500 | Loss: 8.1940 | LR: 0.0001988 | Images: 26666 | Data points: 400000 | Time: 5:29:24
+[2025-05-15 13:41:00] Step 12600 | Loss: 8.1561 | LR: 0.0001987 | Images: 26879 | Data points: 403200 | Time: 5:32:00
+[2025-05-15 13:43:36] Step 12700 | Loss: 8.1509 | LR: 0.0001985 | Images: 27093 | Data points: 406400 | Time: 5:34:36
+[2025-05-15 13:46:13] Step 12800 | Loss: 8.1826 | LR: 0.0001983 | Images: 27306 | Data points: 409600 | Time: 5:37:13
+[2025-05-15 13:48:51] Step 12900 | Loss: 8.1983 | LR: 0.0001981 | Images: 27519 | Data points: 412800 | Time: 5:39:51
+[2025-05-15 13:51:29] Step 13000 | Loss: 8.1910 | LR: 0.0001979 | Images: 27733 | Data points: 416000 | Time: 5:42:28
+[2025-05-15 13:54:06] Step 13100 | Loss: 8.1961 | LR: 0.0001977 | Images: 27946 | Data points: 419200 | Time: 5:45:06
+[2025-05-15 13:54:51] Checkpoint metadata saved to ./working/checkpoints/checkpoint-28006-images_metadata.json
+[2025-05-15 13:54:51] Checkpoint saved at 28006 images / 420096 datapoints
+[2025-05-15 13:56:45] Step 13200 | Loss: 8.1434 | LR: 0.0001975 | Images: 28159 | Data points: 422400 | Time: 5:47:44
+[2025-05-15 13:59:23] Step 13300 | Loss: 8.1964 | LR: 0.0001974 | Images: 28373 | Data points: 425600 | Time: 5:50:22
+[2025-05-15 14:02:00] Step 13400 | Loss: 8.1013 | LR: 0.0001972 | Images: 28586 | Data points: 428800 | Time: 5:53:00
+[2025-05-15 14:04:37] Step 13500 | Loss: 8.1937 | LR: 0.0001970 | Images: 28799 | Data points: 432000 | Time: 5:55:37
+[2025-05-15 14:07:14] Step 13600 | Loss: 8.2029 | LR: 0.0001968 | Images: 29013 | Data points: 435200 | Time: 5:58:14
+[2025-05-15 14:09:50] Step 13700 | Loss: 8.1243 | LR: 0.0001966 | Images: 29226 | Data points: 438400 | Time: 6:00:50
+[2025-05-15 14:12:27] Step 13800 | Loss: 8.1500 | LR: 0.0001964 | Images: 29439 | Data points: 441600 | Time: 6:03:27
+[2025-05-15 14:15:03] Step 13900 | Loss: 8.1514 | LR: 0.0001962 | Images: 29653 | Data points: 444800 | Time: 6:06:03
+[2025-05-15 14:17:40] Step 14000 | Loss: 8.2368 | LR: 0.0001960 | Images: 29866 | Data points: 448000 | Time: 6:08:40
+[2025-05-15 14:19:24] Checkpoint metadata saved to ./working/checkpoints/checkpoint-30006-images_metadata.json
+[2025-05-15 14:19:24] Checkpoint saved at 30006 images / 450104 datapoints
+[2025-05-15 14:20:17] Step 14100 | Loss: 8.1349 | LR: 0.0001959 | Images: 30079 | Data points: 451200 | Time: 6:11:17
+[2025-05-15 14:22:55] Step 14200 | Loss: 8.1534 | LR: 0.0001957 | Images: 30293 | Data points: 454400 | Time: 6:13:55
+[2025-05-15 14:25:33] Step 14300 | Loss: 8.0801 | LR: 0.0001955 | Images: 30506 | Data points: 457600 | Time: 6:16:33
+[2025-05-15 14:28:12] Step 14400 | Loss: 8.1269 | LR: 0.0001953 | Images: 30719 | Data points: 460800 | Time: 6:19:11
+[2025-05-15 14:30:50] Step 14500 | Loss: 8.1659 | LR: 0.0001951 | Images: 30933 | Data points: 464000 | Time: 6:21:50
+[2025-05-15 14:33:27] Step 14600 | Loss: 8.1350 | LR: 0.0001949 | Images: 31146 | Data points: 467200 | Time: 6:24:27
+[2025-05-15 14:36:05] Step 14700 | Loss: 8.1445 | LR: 0.0001947 | Images: 31359 | Data points: 470400 | Time: 6:27:04
+[2025-05-15 14:38:43] Step 14800 | Loss: 8.1504 | LR: 0.0001945 | Images: 31573 | Data points: 473600 | Time: 6:29:43
+[2025-05-15 14:41:19] Step 14900 | Loss: 8.1299 | LR: 0.0001944 | Images: 31786 | Data points: 476800 | Time: 6:32:19
+[2025-05-15 14:43:55] Step 15000 | Loss: 8.1774 | LR: 0.0001942 | Images: 31999 | Data points: 480000 | Time: 6:34:54
+[2025-05-15 14:44:01] Checkpoint metadata saved to ./working/checkpoints/checkpoint-32007-images_metadata.json
+[2025-05-15 14:44:01] Checkpoint saved at 32007 images / 480112 datapoints
+[2025-05-15 14:46:31] Step 15100 | Loss: 8.2215 | LR: 0.0001940 | Images: 32213 | Data points: 483200 | Time: 6:37:31
+[2025-05-15 14:49:08] Step 15200 | Loss: 8.0793 | LR: 0.0001938 | Images: 32426 | Data points: 486400 | Time: 6:40:08
+[2025-05-15 14:51:44] Step 15300 | Loss: 8.1347 | LR: 0.0001936 | Images: 32639 | Data points: 489600 | Time: 6:42:44
+[2025-05-15 14:54:21] Step 15400 | Loss: 8.1584 | LR: 0.0001934 | Images: 32853 | Data points: 492800 | Time: 6:45:21
+[2025-05-15 14:56:59] Step 15500 | Loss: 8.1417 | LR: 0.0001932 | Images: 33066 | Data points: 496000 | Time: 6:47:58
+[2025-05-15 14:59:37] Step 15600 | Loss: 8.1554 | LR: 0.0001930 | Images: 33279 | Data points: 499200 | Time: 6:50:37
+[2025-05-15 15:02:16] Step 15700 | Loss: 8.1973 | LR: 0.0001929 | Images: 33493 | Data points: 502400 | Time: 6:53:15
+[2025-05-15 15:04:55] Step 15800 | Loss: 8.2151 | LR: 0.0001927 | Images: 33706 | Data points: 505600 | Time: 6:55:54
+[2025-05-15 15:07:33] Step 15900 | Loss: 8.1895 | LR: 0.0001925 | Images: 33919 | Data points: 508800 | Time: 6:58:32
+[2025-05-15 15:08:38] Checkpoint metadata saved to ./working/checkpoints/checkpoint-34007-images_metadata.json
+[2025-05-15 15:08:38] Checkpoint saved at 34007 images / 510120 datapoints
+[2025-05-15 15:10:10] Step 16000 | Loss: 8.1667 | LR: 0.0001923 | Images: 34133 | Data points: 512000 | Time: 7:01:10
+[2025-05-15 15:12:47] Step 16100 | Loss: 8.1071 | LR: 0.0001921 | Images: 34346 | Data points: 515200 | Time: 7:03:47
+[2025-05-15 15:15:25] Step 16200 | Loss: 8.1268 | LR: 0.0001919 | Images: 34559 | Data points: 518400 | Time: 7:06:24
+[2025-05-15 15:18:02] Step 16300 | Loss: 8.1436 | LR: 0.0001917 | Images: 34773 | Data points: 521600 | Time: 7:09:02
+[2025-05-15 15:20:40] Step 16400 | Loss: 8.1974 | LR: 0.0001916 | Images: 34986 | Data points: 524800 | Time: 7:11:39
+[2025-05-15 15:23:17] Step 16500 | Loss: 8.2181 | LR: 0.0001914 | Images: 35199 | Data points: 528000 | Time: 7:14:16
+[2025-05-15 15:25:54] Step 16600 | Loss: 8.1376 | LR: 0.0001912 | Images: 35413 | Data points: 531200 | Time: 7:16:53
+[2025-05-15 15:28:31] Step 16700 | Loss: 8.1417 | LR: 0.0001910 | Images: 35626 | Data points: 534400 | Time: 7:19:30
+[2025-05-15 15:31:08] Step 16800 | Loss: 8.1788 | LR: 0.0001908 | Images: 35839 | Data points: 537600 | Time: 7:22:08
+[2025-05-15 15:33:13] Checkpoint metadata saved to ./working/checkpoints/checkpoint-36008-images_metadata.json
+[2025-05-15 15:33:13] Checkpoint saved at 36008 images / 540128 datapoints
+[2025-05-15 15:33:46] Step 16900 | Loss: 8.1898 | LR: 0.0001906 | Images: 36053 | Data points: 540800 | Time: 7:24:46
+[2025-05-15 15:36:23] Step 17000 | Loss: 8.0806 | LR: 0.0001904 | Images: 36266 | Data points: 544000 | Time: 7:27:23
+[2025-05-15 15:39:01] Step 17100 | Loss: 7.9957 | LR: 0.0001902 | Images: 36479 | Data points: 547200 | Time: 7:30:01
+[2025-05-15 15:41:39] Step 17200 | Loss: 8.1474 | LR: 0.0001901 | Images: 36693 | Data points: 550400 | Time: 7:32:39
+[2025-05-15 15:44:17] Step 17300 | Loss: 8.1667 | LR: 0.0001899 | Images: 36906 | Data points: 553600 | Time: 7:35:17
+[2025-05-15 15:46:54] Step 17400 | Loss: 8.1370 | LR: 0.0001897 | Images: 37119 | Data points: 556800 | Time: 7:37:54
+[2025-05-15 15:49:31] Step 17500 | Loss: 8.2307 | LR: 0.0001895 | Images: 37333 | Data points: 560000 | Time: 7:40:31
+[2025-05-15 15:52:09] Step 17600 | Loss: 8.1240 | LR: 0.0001893 | Images: 37546 | Data points: 563200 | Time: 7:43:09
+[2025-05-15 15:54:47] Step 17700 | Loss: 8.1575 | LR: 0.0001891 | Images: 37759 | Data points: 566400 | Time: 7:45:47
+[2025-05-15 15:57:24] Step 17800 | Loss: 8.1617 | LR: 0.0001889 | Images: 37973 | Data points: 569600 | Time: 7:48:24
+[2025-05-15 15:57:51] Checkpoint metadata saved to ./working/checkpoints/checkpoint-38009-images_metadata.json
+[2025-05-15 15:57:51] Checkpoint saved at 38009 images / 570136 datapoints
+[2025-05-15 16:00:03] Step 17900 | Loss: 8.0754 | LR: 0.0001887 | Images: 38186 | Data points: 572800 | Time: 7:51:02
+[2025-05-15 16:02:39] Step 18000 | Loss: 8.2805 | LR: 0.0001886 | Images: 38399 | Data points: 576000 | Time: 7:53:39
+[2025-05-15 16:05:16] Step 18100 | Loss: 8.0978 | LR: 0.0001884 | Images: 38613 | Data points: 579200 | Time: 7:56:15
+[2025-05-15 16:07:54] Step 18200 | Loss: 8.0990 | LR: 0.0001882 | Images: 38826 | Data points: 582400 | Time: 7:58:53
+[2025-05-15 16:10:31] Step 18300 | Loss: 8.1468 | LR: 0.0001880 | Images: 39039 | Data points: 585600 | Time: 8:01:31
+[2025-05-15 16:13:10] Step 18400 | Loss: 8.0735 | LR: 0.0001878 | Images: 39253 | Data points: 588800 | Time: 8:04:10
+[2025-05-15 16:15:47] Step 18500 | Loss: 8.2026 | LR: 0.0001876 | Images: 39466 | Data points: 592000 | Time: 8:06:47
+[2025-05-15 16:18:25] Step 18600 | Loss: 8.1429 | LR: 0.0001874 | Images: 39679 | Data points: 595200 | Time: 8:09:25
+[2025-05-15 16:21:02] Step 18700 | Loss: 8.2020 | LR: 0.0001873 | Images: 39893 | Data points: 598400 | Time: 8:12:02
+[2025-05-15 16:22:28] Checkpoint metadata saved to ./working/checkpoints/checkpoint-40009-images_metadata.json
+[2025-05-15 16:22:28] Checkpoint saved at 40009 images / 600144 datapoints
+[2025-05-15 16:23:40] Step 18800 | Loss: 7.9946 | LR: 0.0001871 | Images: 40106 | Data points: 601600 | Time: 8:14:40
+[2025-05-15 16:26:17] Step 18900 | Loss: 8.2017 | LR: 0.0001869 | Images: 40319 | Data points: 604800 | Time: 8:17:17
+[2025-05-15 16:28:54] Step 19000 | Loss: 8.1308 | LR: 0.0001867 | Images: 40533 | Data points: 608000 | Time: 8:19:54
+[2025-05-15 16:31:31] Step 19100 | Loss: 8.1224 | LR: 0.0001865 | Images: 40746 | Data points: 611200 | Time: 8:22:31
+[2025-05-15 16:34:08] Step 19200 | Loss: 8.2147 | LR: 0.0001863 | Images: 40959 | Data points: 614400 | Time: 8:25:08
+[2025-05-15 16:36:45] Step 19300 | Loss: 8.1356 | LR: 0.0001861 | Images: 41173 | Data points: 617600 | Time: 8:27:44
+[2025-05-15 16:39:21] Step 19400 | Loss: 8.1192 | LR: 0.0001859 | Images: 41386 | Data points: 620800 | Time: 8:30:21
+[2025-05-15 16:41:58] Step 19500 | Loss: 8.1274 | LR: 0.0001858 | Images: 41599 | Data points: 624000 | Time: 8:32:57
+[2025-05-15 16:44:35] Step 19600 | Loss: 7.9871 | LR: 0.0001856 | Images: 41813 | Data points: 627200 | Time: 8:35:35
+[2025-05-15 16:47:00] Checkpoint metadata saved to ./working/checkpoints/checkpoint-42010-images_metadata.json
+[2025-05-15 16:47:00] Checkpoint saved at 42010 images / 630152 datapoints
+[2025-05-15 16:47:12] Step 19700 | Loss: 8.1686 | LR: 0.0001854 | Images: 42026 | Data points: 630400 | Time: 8:38:12
+[2025-05-15 16:49:49] Step 19800 | Loss: 8.1514 | LR: 0.0001852 | Images: 42239 | Data points: 633600 | Time: 8:40:49
+[2025-05-15 16:52:27] Step 19900 | Loss: 8.1626 | LR: 0.0001850 | Images: 42453 | Data points: 636800 | Time: 8:43:27
+[2025-05-15 16:55:04] Step 20000 | Loss: 8.1592 | LR: 0.0001848 | Images: 42666 | Data points: 640000 | Time: 8:46:04
+[2025-05-15 16:57:40] Step 20100 | Loss: 8.1266 | LR: 0.0001846 | Images: 42879 | Data points: 643200 | Time: 8:48:40
+[2025-05-15 17:00:17] Step 20200 | Loss: 8.1939 | LR: 0.0001844 | Images: 43093 | Data points: 646400 | Time: 8:51:16
+[2025-05-15 17:02:52] Step 20300 | Loss: 8.2393 | LR: 0.0001843 | Images: 43306 | Data points: 649600 | Time: 8:53:52
+[2025-05-15 17:05:30] Step 20400 | Loss: 8.2017 | LR: 0.0001841 | Images: 43519 | Data points: 652800 | Time: 8:56:30
+[2025-05-15 17:08:06] Step 20500 | Loss: 8.1028 | LR: 0.0001839 | Images: 43733 | Data points: 656000 | Time: 8:59:06
+[2025-05-15 17:10:43] Step 20600 | Loss: 8.1371 | LR: 0.0001837 | Images: 43946 | Data points: 659200 | Time: 9:01:42
+[2025-05-15 17:11:30] Checkpoint metadata saved to ./working/checkpoints/checkpoint-44010-images_metadata.json
+[2025-05-15 17:11:30] Checkpoint saved at 44010 images / 660160 datapoints
+[2025-05-15 17:13:19] Step 20700 | Loss: 8.0375 | LR: 0.0001835 | Images: 44159 | Data points: 662400 | Time: 9:04:18
+[2025-05-15 17:15:55] Step 20800 | Loss: 8.0543 | LR: 0.0001833 | Images: 44373 | Data points: 665600 | Time: 9:06:55
+[2025-05-15 17:18:32] Step 20900 | Loss: 8.1968 | LR: 0.0001831 | Images: 44586 | Data points: 668800 | Time: 9:09:32
+[2025-05-15 17:21:09] Step 21000 | Loss: 8.0407 | LR: 0.0001830 | Images: 44799 | Data points: 672000 | Time: 9:12:09
+[2025-05-15 17:23:46] Step 21100 | Loss: 8.1274 | LR: 0.0001828 | Images: 45013 | Data points: 675200 | Time: 9:14:46
+[2025-05-15 17:26:24] Step 21200 | Loss: 8.1010 | LR: 0.0001826 | Images: 45226 | Data points: 678400 | Time: 9:17:24
+[2025-05-15 17:29:02] Step 21300 | Loss: 8.2104 | LR: 0.0001824 | Images: 45439 | Data points: 681600 | Time: 9:20:01
+[2025-05-15 17:31:39] Step 21400 | Loss: 8.1705 | LR: 0.0001822 | Images: 45653 | Data points: 684800 | Time: 9:22:39
+[2025-05-15 17:34:16] Step 21500 | Loss: 8.1194 | LR: 0.0001820 | Images: 45866 | Data points: 688000 | Time: 9:25:16
+[2025-05-15 17:36:04] Checkpoint metadata saved to ./working/checkpoints/checkpoint-46011-images_metadata.json
+[2025-05-15 17:36:04] Checkpoint saved at 46011 images / 690168 datapoints
+[2025-05-15 17:36:55] Step 21600 | Loss: 8.2173 | LR: 0.0001818 | Images: 46079 | Data points: 691200 | Time: 9:27:55
+[2025-05-15 17:39:32] Step 21700 | Loss: 8.0836 | LR: 0.0001816 | Images: 46293 | Data points: 694400 | Time: 9:30:32
+[2025-05-15 17:42:12] Step 21800 | Loss: 8.1179 | LR: 0.0001815 | Images: 46506 | Data points: 697600 | Time: 9:33:11
+[2025-05-15 17:44:49] Step 21900 | Loss: 8.1917 | LR: 0.0001813 | Images: 46719 | Data points: 700800 | Time: 9:35:49
+[2025-05-15 17:47:27] Step 22000 | Loss: 8.2214 | LR: 0.0001811 | Images: 46933 | Data points: 704000 | Time: 9:38:26
+[2025-05-15 17:50:05] Step 22100 | Loss: 8.2605 | LR: 0.0001809 | Images: 47146 | Data points: 707200 | Time: 9:41:05
+[2025-05-15 17:52:43] Step 22200 | Loss: 8.1466 | LR: 0.0001807 | Images: 47359 | Data points: 710400 | Time: 9:43:42
+[2025-05-15 17:55:20] Step 22300 | Loss: 8.1696 | LR: 0.0001805 | Images: 47573 | Data points: 713600 | Time: 9:46:19
+[2025-05-15 17:57:57] Step 22400 | Loss: 8.0596 | LR: 0.0001803 | Images: 47786 | Data points: 716800 | Time: 9:48:56
+[2025-05-15 18:00:34] Step 22500 | Loss: 8.1766 | LR: 0.0001801 | Images: 47999 | Data points: 720000 | Time: 9:51:34
+[2025-05-15 18:00:44] Checkpoint metadata saved to ./working/checkpoints/checkpoint-48011-images_metadata.json
+[2025-05-15 18:00:44] Checkpoint saved at 48011 images / 720176 datapoints
+[2025-05-15 18:03:13] Step 22600 | Loss: 8.0880 | LR: 0.0001800 | Images: 48213 | Data points: 723200 | Time: 9:54:13
+[2025-05-15 18:05:50] Step 22700 | Loss: 8.1615 | LR: 0.0001798 | Images: 48426 | Data points: 726400 | Time: 9:56:50
+[2025-05-15 18:08:28] Step 22800 | Loss: 8.1267 | LR: 0.0001796 | Images: 48639 | Data points: 729600 | Time: 9:59:27
+[2025-05-15 18:11:05] Step 22900 | Loss: 8.1158 | LR: 0.0001794 | Images: 48853 | Data points: 732800 | Time: 10:02:05
+[2025-05-15 18:13:42] Step 23000 | Loss: 8.0496 | LR: 0.0001792 | Images: 49066 | Data points: 736000 | Time: 10:04:42
+[2025-05-15 18:16:19] Step 23100 | Loss: 8.1473 | LR: 0.0001790 | Images: 49279 | Data points: 739200 | Time: 10:07:19
+[2025-05-15 18:18:57] Step 23200 | Loss: 8.1313 | LR: 0.0001788 | Images: 49493 | Data points: 742400 | Time: 10:09:56
+[2025-05-15 18:21:34] Step 23300 | Loss: 8.1195 | LR: 0.0001786 | Images: 49706 | Data points: 745600 | Time: 10:12:34
+[2025-05-15 18:24:12] Step 23400 | Loss: 8.0072 | LR: 0.0001785 | Images: 49919 | Data points: 748800 | Time: 10:15:11
+[2025-05-15 18:25:20] Checkpoint metadata saved to ./working/checkpoints/checkpoint-50012-images_metadata.json
+[2025-05-15 18:25:20] Checkpoint saved at 50012 images / 750184 datapoints
+[2025-05-15 18:26:50] Step 23500 | Loss: 8.0702 | LR: 0.0001783 | Images: 50133 | Data points: 752000 | Time: 10:17:50
+[2025-05-15 18:29:28] Step 23600 | Loss: 8.1426 | LR: 0.0001781 | Images: 50346 | Data points: 755200 | Time: 10:20:28
+[2025-05-15 18:32:07] Step 23700 | Loss: 8.0903 | LR: 0.0001779 | Images: 50559 | Data points: 758400 | Time: 10:23:06
+[2025-05-15 18:34:44] Step 23800 | Loss: 8.1427 | LR: 0.0001777 | Images: 50773 | Data points: 761600 | Time: 10:25:44
+[2025-05-15 18:37:21] Step 23900 | Loss: 8.1366 | LR: 0.0001775 | Images: 50986 | Data points: 764800 | Time: 10:28:21
+[2025-05-15 18:39:59] Step 24000 | Loss: 8.2337 | LR: 0.0001773 | Images: 51199 | Data points: 768000 | Time: 10:30:58
+[2025-05-15 18:42:37] Step 24100 | Loss: 8.1547 | LR: 0.0001772 | Images: 51413 | Data points: 771200 | Time: 10:33:37
+[2025-05-15 18:45:15] Step 24200 | Loss: 8.1525 | LR: 0.0001770 | Images: 51626 | Data points: 774400 | Time: 10:36:15
+[2025-05-15 18:47:53] Step 24300 | Loss: 8.1527 | LR: 0.0001768 | Images: 51839 | Data points: 777600 | Time: 10:38:53
+[2025-05-15 18:50:01] Checkpoint metadata saved to ./working/checkpoints/checkpoint-52012-images_metadata.json
+[2025-05-15 18:50:01] Checkpoint saved at 52012 images / 780192 datapoints
+[2025-05-15 18:50:31] Step 24400 | Loss: 8.1537 | LR: 0.0001766 | Images: 52053 | Data points: 780800 | Time: 10:41:31
+[2025-05-15 18:53:09] Step 24500 | Loss: 8.1781 | LR: 0.0001764 | Images: 52266 | Data points: 784000 | Time: 10:44:09
+[2025-05-15 18:55:47] Step 24600 | Loss: 8.1466 | LR: 0.0001762 | Images: 52479 | Data points: 787200 | Time: 10:46:46
+[2025-05-15 18:58:24] Step 24700 | Loss: 8.1511 | LR: 0.0001760 | Images: 52693 | Data points: 790400 | Time: 10:49:23
+[2025-05-15 19:01:01] Step 24800 | Loss: 8.0598 | LR: 0.0001758 | Images: 52906 | Data points: 793600 | Time: 10:52:01
+[2025-05-15 19:03:39] Step 24900 | Loss: 8.1628 | LR: 0.0001757 | Images: 53119 | Data points: 796800 | Time: 10:54:38
+[2025-05-15 19:06:16] Step 25000 | Loss: 8.1799 | LR: 0.0001755 | Images: 53333 | Data points: 800000 | Time: 10:57:16
+[2025-05-15 19:08:54] Step 25100 | Loss: 8.1557 | LR: 0.0001753 | Images: 53546 | Data points: 803200 | Time: 10:59:54
+[2025-05-15 19:11:32] Step 25200 | Loss: 8.1306 | LR: 0.0001751 | Images: 53759 | Data points: 806400 | Time: 11:02:32
+[2025-05-15 19:14:11] Step 25300 | Loss: 8.1407 | LR: 0.0001749 | Images: 53973 | Data points: 809600 | Time: 11:05:11
+[2025-05-15 19:14:42] Checkpoint metadata saved to ./working/checkpoints/checkpoint-54013-images_metadata.json
+[2025-05-15 19:14:42] Checkpoint saved at 54013 images / 810200 datapoints
+[2025-05-15 19:16:58] Step 25400 | Loss: 8.1213 | LR: 0.0001747 | Images: 54186 | Data points: 812800 | Time: 11:07:58
+[2025-05-15 19:19:37] Step 25500 | Loss: 8.0167 | LR: 0.0001745 | Images: 54399 | Data points: 816000 | Time: 11:10:36
+[2025-05-15 19:22:14] Step 25600 | Loss: 8.1997 | LR: 0.0001743 | Images: 54613 | Data points: 819200 | Time: 11:13:14
+[2025-05-15 19:24:51] Step 25700 | Loss: 8.1372 | LR: 0.0001742 | Images: 54826 | Data points: 822400 | Time: 11:15:51
+[2025-05-15 19:27:28] Step 25800 | Loss: 8.1011 | LR: 0.0001740 | Images: 55039 | Data points: 825600 | Time: 11:18:28
+[2025-05-15 19:30:06] Step 25900 | Loss: 8.1040 | LR: 0.0001738 | Images: 55253 | Data points: 828800 | Time: 11:21:05
+[2025-05-15 19:32:43] Step 26000 | Loss: 8.1900 | LR: 0.0001736 | Images: 55466 | Data points: 832000 | Time: 11:23:42
+[2025-05-15 19:35:20] Step 26100 | Loss: 8.1776 | LR: 0.0001734 | Images: 55679 | Data points: 835200 | Time: 11:26:20
+[2025-05-15 19:37:58] Step 26200 | Loss: 8.1797 | LR: 0.0001732 | Images: 55893 | Data points: 838400 | Time: 11:28:58
+[2025-05-15 19:39:28] Checkpoint metadata saved to ./working/checkpoints/checkpoint-56013-images_metadata.json
+[2025-05-15 19:39:28] Checkpoint saved at 56013 images / 840208 datapoints
+[2025-05-15 19:40:37] Step 26300 | Loss: 8.1177 | LR: 0.0001730 | Images: 56106 | Data points: 841600 | Time: 11:31:37
+[2025-05-15 19:43:16] Step 26400 | Loss: 8.1388 | LR: 0.0001729 | Images: 56319 | Data points: 844800 | Time: 11:34:15
+[2025-05-15 19:45:55] Step 26500 | Loss: 8.1711 | LR: 0.0001727 | Images: 56533 | Data points: 848000 | Time: 11:36:54
+[2025-05-15 19:48:33] Step 26600 | Loss: 8.0256 | LR: 0.0001725 | Images: 56746 | Data points: 851200 | Time: 11:39:33
+[2025-05-15 19:51:12] Step 26700 | Loss: 8.2442 | LR: 0.0001723 | Images: 56959 | Data points: 854400 | Time: 11:42:11
+[2025-05-15 19:53:50] Step 26800 | Loss: 8.0955 | LR: 0.0001721 | Images: 57173 | Data points: 857600 | Time: 11:44:49
+[2025-05-15 19:56:27] Step 26900 | Loss: 8.0996 | LR: 0.0001719 | Images: 57386 | Data points: 860800 | Time: 11:47:27
+[2025-05-15 19:59:04] Step 27000 | Loss: 8.2336 | LR: 0.0001717 | Images: 57599 | Data points: 864000 | Time: 11:50:04
+[2025-05-15 20:01:41] Step 27100 | Loss: 8.1710 | LR: 0.0001715 | Images: 57813 | Data points: 867200 | Time: 11:52:41
+[2025-05-15 20:04:10] Checkpoint metadata saved to ./working/checkpoints/checkpoint-58014-images_metadata.json
+[2025-05-15 20:04:10] Checkpoint saved at 58014 images / 870216 datapoints
+[2025-05-15 20:04:19] Step 27200 | Loss: 8.1162 | LR: 0.0001714 | Images: 58026 | Data points: 870400 | Time: 11:55:18
+[2025-05-15 20:06:56] Step 27300 | Loss: 8.1468 | LR: 0.0001712 | Images: 58239 | Data points: 873600 | Time: 11:57:56
+[2025-05-15 20:09:33] Step 27400 | Loss: 8.1513 | LR: 0.0001710 | Images: 58453 | Data points: 876800 | Time: 12:00:32
+[2025-05-15 20:12:10] Step 27500 | Loss: 8.1285 | LR: 0.0001708 | Images: 58666 | Data points: 880000 | Time: 12:03:09
+[2025-05-15 20:14:47] Step 27600 | Loss: 8.1682 | LR: 0.0001706 | Images: 58879 | Data points: 883200 | Time: 12:05:46
+[2025-05-15 20:17:24] Step 27700 | Loss: 8.2019 | LR: 0.0001704 | Images: 59093 | Data points: 886400 | Time: 12:08:24
+[2025-05-15 20:20:02] Step 27800 | Loss: 8.2142 | LR: 0.0001702 | Images: 59306 | Data points: 889600 | Time: 12:11:02
+[2025-05-15 20:22:41] Step 27900 | Loss: 8.1625 | LR: 0.0001700 | Images: 59519 | Data points: 892800 | Time: 12:13:41
+[2025-05-15 20:25:19] Step 28000 | Loss: 8.1035 | LR: 0.0001699 | Images: 59733 | Data points: 896000 | Time: 12:16:19
+[2025-05-15 20:27:58] Step 28100 | Loss: 8.0937 | LR: 0.0001697 | Images: 59946 | Data points: 899200 | Time: 12:18:58
+[2025-05-15 20:28:49] Checkpoint metadata saved to ./working/checkpoints/checkpoint-60014-images_metadata.json
+[2025-05-15 20:28:49] Checkpoint saved at 60014 images / 900224 datapoints
+[2025-05-15 20:30:37] Step 28200 | Loss: 8.1683 | LR: 0.0001695 | Images: 60159 | Data points: 902400 | Time: 12:21:37
+[2025-05-15 20:33:15] Step 28300 | Loss: 8.0529 | LR: 0.0001693 | Images: 60373 | Data points: 905600 | Time: 12:24:15
+[2025-05-15 20:35:52] Step 28400 | Loss: 8.1308 | LR: 0.0001691 | Images: 60586 | Data points: 908800 | Time: 12:26:52
+[2025-05-15 20:38:31] Step 28500 | Loss: 8.1559 | LR: 0.0001689 | Images: 60799 | Data points: 912000 | Time: 12:29:30
+[2025-05-15 20:41:09] Step 28600 | Loss: 8.0650 | LR: 0.0001687 | Images: 61013 | Data points: 915200 | Time: 12:32:08
+[2025-05-15 20:43:46] Step 28700 | Loss: 8.1068 | LR: 0.0001686 | Images: 61226 | Data points: 918400 | Time: 12:34:46
+[2025-05-15 20:46:24] Step 28800 | Loss: 8.1733 | LR: 0.0001684 | Images: 61439 | Data points: 921600 | Time: 12:37:24
+[2025-05-15 20:49:02] Step 28900 | Loss: 8.0302 | LR: 0.0001682 | Images: 61653 | Data points: 924800 | Time: 12:40:02
+[2025-05-15 20:51:40] Step 29000 | Loss: 8.0997 | LR: 0.0001680 | Images: 61866 | Data points: 928000 | Time: 12:42:39
+[2025-05-15 20:53:35] Checkpoint metadata saved to ./working/checkpoints/checkpoint-62015-images_metadata.json
+[2025-05-15 20:53:35] Checkpoint saved at 62015 images / 930232 datapoints
+[2025-05-15 20:54:22] Step 29100 | Loss: 8.2182 | LR: 0.0001678 | Images: 62079 | Data points: 931200 | Time: 12:45:22
+[2025-05-15 20:57:00] Step 29200 | Loss: 8.2185 | LR: 0.0001676 | Images: 62293 | Data points: 934400 | Time: 12:48:00
+[2025-05-15 20:59:39] Step 29300 | Loss: 8.2108 | LR: 0.0001674 | Images: 62506 | Data points: 937600 | Time: 12:50:38
+[2025-05-15 21:02:17] Step 29400 | Loss: 8.1163 | LR: 0.0001672 | Images: 62719 | Data points: 940800 | Time: 12:53:17
+[2025-05-15 21:04:55] Step 29500 | Loss: 8.1171 | LR: 0.0001671 | Images: 62933 | Data points: 944000 | Time: 12:55:54
+[2025-05-15 21:07:33] Step 29600 | Loss: 8.0702 | LR: 0.0001669 | Images: 63146 | Data points: 947200 | Time: 12:58:33
+[2025-05-15 21:10:12] Step 29700 | Loss: 8.1235 | LR: 0.0001667 | Images: 63359 | Data points: 950400 | Time: 13:01:11
+[2025-05-15 21:12:49] Step 29800 | Loss: 8.1581 | LR: 0.0001665 | Images: 63573 | Data points: 953600 | Time: 13:03:48
+[2025-05-15 21:15:26] Step 29900 | Loss: 8.1741 | LR: 0.0001663 | Images: 63786 | Data points: 956800 | Time: 13:06:26
+[2025-05-15 21:18:03] Step 30000 | Loss: 8.0894 | LR: 0.0001661 | Images: 63999 | Data points: 960000 | Time: 13:09:03
+[2025-05-15 21:18:15] Checkpoint metadata saved to ./working/checkpoints/checkpoint-64015-images_metadata.json
+[2025-05-15 21:18:15] Checkpoint saved at 64015 images / 960240 datapoints
+[2025-05-15 21:20:41] Step 30100 | Loss: 8.1463 | LR: 0.0001659 | Images: 64213 | Data points: 963200 | Time: 13:11:41
+[2025-05-15 21:23:18] Step 30200 | Loss: 8.0800 | LR: 0.0001657 | Images: 64426 | Data points: 966400 | Time: 13:14:17
+[2025-05-15 21:25:54] Step 30300 | Loss: 8.1590 | LR: 0.0001656 | Images: 64639 | Data points: 969600 | Time: 13:16:54
+[2025-05-15 21:28:30] Step 30400 | Loss: 8.1313 | LR: 0.0001654 | Images: 64853 | Data points: 972800 | Time: 13:19:30
+[2025-05-15 21:31:08] Step 30500 | Loss: 8.1596 | LR: 0.0001652 | Images: 65066 | Data points: 976000 | Time: 13:22:07
+[2025-05-15 21:33:45] Step 30600 | Loss: 8.0126 | LR: 0.0001650 | Images: 65279 | Data points: 979200 | Time: 13:24:45
+[2025-05-15 21:36:23] Step 30700 | Loss: 8.1792 | LR: 0.0001648 | Images: 65493 | Data points: 982400 | Time: 13:27:23
+[2025-05-15 21:39:01] Step 30800 | Loss: 8.0796 | LR: 0.0001646 | Images: 65706 | Data points: 985600 | Time: 13:30:00
+[2025-05-15 21:41:38] Step 30900 | Loss: 8.1130 | LR: 0.0001644 | Images: 65919 | Data points: 988800 | Time: 13:32:37
+[2025-05-15 21:42:49] Checkpoint metadata saved to ./working/checkpoints/checkpoint-66015-images_metadata.json
+[2025-05-15 21:42:49] Checkpoint saved at 66015 images / 990240 datapoints
+[2025-05-15 21:44:15] Step 31000 | Loss: 8.0983 | LR: 0.0001643 | Images: 66133 | Data points: 992000 | Time: 13:35:15
+[2025-05-15 21:46:53] Step 31100 | Loss: 8.1761 | LR: 0.0001641 | Images: 66346 | Data points: 995200 | Time: 13:37:52
+[2025-05-15 21:49:30] Step 31200 | Loss: 8.1590 | LR: 0.0001639 | Images: 66559 | Data points: 998400 | Time: 13:40:30
+[2025-05-15 21:52:08] Step 31300 | Loss: 8.1686 | LR: 0.0001637 | Images: 66773 | Data points: 1001600 | Time: 13:43:08
+[2025-05-15 21:54:46] Step 31400 | Loss: 8.1455 | LR: 0.0001635 | Images: 66986 | Data points: 1004800 | Time: 13:45:46
+[2025-05-15 21:57:24] Step 31500 | Loss: 8.2342 | LR: 0.0001633 | Images: 67199 | Data points: 1008000 | Time: 13:48:23
+[2025-05-15 22:00:01] Step 31600 | Loss: 8.1537 | LR: 0.0001631 | Images: 67413 | Data points: 1011200 | Time: 13:51:01
+[2025-05-15 22:02:38] Step 31700 | Loss: 8.1466 | LR: 0.0001629 | Images: 67626 | Data points: 1014400 | Time: 13:53:38
+[2025-05-15 22:05:17] Step 31800 | Loss: 8.1698 | LR: 0.0001628 | Images: 67839 | Data points: 1017600 | Time: 13:56:16
+[2025-05-15 22:07:28] Checkpoint metadata saved to ./working/checkpoints/checkpoint-68015-images_metadata.json
+[2025-05-15 22:07:28] Checkpoint saved at 68015 images / 1020240 datapoints
+[2025-05-15 22:07:55] Step 31900 | Loss: 8.1298 | LR: 0.0001626 | Images: 68053 | Data points: 1020800 | Time: 13:58:55
+[2025-05-15 22:10:33] Step 32000 | Loss: 8.1861 | LR: 0.0001624 | Images: 68266 | Data points: 1024000 | Time: 14:01:33
+[2025-05-15 22:13:10] Step 32100 | Loss: 8.1116 | LR: 0.0001622 | Images: 68479 | Data points: 1027200 | Time: 14:04:10
+[2025-05-15 22:15:47] Step 32200 | Loss: 8.1815 | LR: 0.0001620 | Images: 68693 | Data points: 1030400 | Time: 14:06:47
+[2025-05-15 22:18:24] Step 32300 | Loss: 8.1642 | LR: 0.0001618 | Images: 68906 | Data points: 1033600 | Time: 14:09:24
+[2025-05-15 22:21:01] Step 32400 | Loss: 8.1176 | LR: 0.0001616 | Images: 69119 | Data points: 1036800 | Time: 14:12:00
+[2025-05-15 22:23:37] Step 32500 | Loss: 8.0649 | LR: 0.0001614 | Images: 69333 | Data points: 1040000 | Time: 14:14:37
+[2025-05-15 22:26:14] Step 32600 | Loss: 8.1130 | LR: 0.0001613 | Images: 69546 | Data points: 1043200 | Time: 14:17:14
+[2025-05-15 22:28:51] Step 32700 | Loss: 8.1450 | LR: 0.0001611 | Images: 69760 | Data points: 1046400 | Time: 14:19:51
+[2025-05-15 22:31:29] Step 32800 | Loss: 8.0759 | LR: 0.0001609 | Images: 69973 | Data points: 1049600 | Time: 14:22:29
+[2025-05-15 22:32:01] Checkpoint metadata saved to ./working/checkpoints/checkpoint-70016-images_metadata.json
+[2025-05-15 22:32:01] Checkpoint saved at 70016 images / 1050240 datapoints
+[2025-05-15 22:34:06] Step 32900 | Loss: 8.1935 | LR: 0.0001607 | Images: 70186 | Data points: 1052800 | Time: 14:25:05
+[2025-05-15 22:36:44] Step 33000 | Loss: 8.1495 | LR: 0.0001605 | Images: 70400 | Data points: 1056000 | Time: 14:27:43
+[2025-05-15 22:39:21] Step 33100 | Loss: 8.1059 | LR: 0.0001603 | Images: 70613 | Data points: 1059200 | Time: 14:30:21
+[2025-05-15 22:41:59] Step 33200 | Loss: 8.1639 | LR: 0.0001601 | Images: 70826 | Data points: 1062400 | Time: 14:32:59
+[2025-05-15 22:44:38] Step 33300 | Loss: 8.1398 | LR: 0.0001599 | Images: 71040 | Data points: 1065600 | Time: 14:35:37
+[2025-05-15 22:47:16] Step 33400 | Loss: 8.0827 | LR: 0.0001598 | Images: 71253 | Data points: 1068800 | Time: 14:38:16
+[2025-05-15 22:49:54] Step 33500 | Loss: 8.1216 | LR: 0.0001596 | Images: 71466 | Data points: 1072000 | Time: 14:40:54
+[2025-05-15 22:52:33] Step 33600 | Loss: 8.2234 | LR: 0.0001594 | Images: 71680 | Data points: 1075200 | Time: 14:43:33
+[2025-05-15 22:55:12] Step 33700 | Loss: 8.1132 | LR: 0.0001592 | Images: 71893 | Data points: 1078400 | Time: 14:46:11
+[2025-05-15 22:56:43] Checkpoint metadata saved to ./working/checkpoints/checkpoint-72016-images_metadata.json
+[2025-05-15 22:56:43] Checkpoint saved at 72016 images / 1080240 datapoints
+[2025-05-15 22:57:51] Step 33800 | Loss: 8.0844 | LR: 0.0001590 | Images: 72106 | Data points: 1081600 | Time: 14:48:50
+[2025-05-15 23:00:30] Step 33900 | Loss: 8.1624 | LR: 0.0001588 | Images: 72320 | Data points: 1084800 | Time: 14:51:30
+[2025-05-15 23:03:08] Step 34000 | Loss: 8.1349 | LR: 0.0001586 | Images: 72533 | Data points: 1088000 | Time: 14:54:08
+[2025-05-15 23:05:46] Step 34100 | Loss: 8.1865 | LR: 0.0001585 | Images: 72746 | Data points: 1091200 | Time: 14:56:45
+[2025-05-15 23:08:24] Step 34200 | Loss: 8.2209 | LR: 0.0001583 | Images: 72960 | Data points: 1094400 | Time: 14:59:24
+[2025-05-15 23:11:03] Step 34300 | Loss: 8.1056 | LR: 0.0001581 | Images: 73173 | Data points: 1097600 | Time: 15:02:03
+[2025-05-15 23:13:42] Step 34400 | Loss: 8.1289 | LR: 0.0001579 | Images: 73386 | Data points: 1100800 | Time: 15:04:42
+[2025-05-15 23:16:21] Step 34500 | Loss: 8.1144 | LR: 0.0001577 | Images: 73600 | Data points: 1104000 | Time: 15:07:21
+[2025-05-15 23:19:00] Step 34600 | Loss: 8.1216 | LR: 0.0001575 | Images: 73813 | Data points: 1107200 | Time: 15:09:59
+[2025-05-15 23:21:31] Checkpoint metadata saved to ./working/checkpoints/checkpoint-74016-images_metadata.json
+[2025-05-15 23:21:31] Checkpoint saved at 74016 images / 1110240 datapoints
+[2025-05-15 23:21:39] Step 34700 | Loss: 8.1492 | LR: 0.0001573 | Images: 74026 | Data points: 1110400 | Time: 15:12:39
+[2025-05-15 23:24:17] Step 34800 | Loss: 8.1234 | LR: 0.0001571 | Images: 74240 | Data points: 1113600 | Time: 15:15:17
+[2025-05-15 23:26:55] Step 34900 | Loss: 8.1234 | LR: 0.0001570 | Images: 74453 | Data points: 1116800 | Time: 15:17:54
+[2025-05-15 23:29:32] Step 35000 | Loss: 8.0059 | LR: 0.0001568 | Images: 74666 | Data points: 1120000 | Time: 15:20:32
+[2025-05-15 23:32:09] Step 35100 | Loss: 8.1520 | LR: 0.0001566 | Images: 74880 | Data points: 1123200 | Time: 15:23:09
+[2025-05-15 23:34:46] Step 35200 | Loss: 8.1094 | LR: 0.0001564 | Images: 75093 | Data points: 1126400 | Time: 15:25:46
+[2025-05-15 23:37:22] Step 35300 | Loss: 8.1712 | LR: 0.0001562 | Images: 75306 | Data points: 1129600 | Time: 15:28:22
+[2025-05-15 23:39:59] Step 35400 | Loss: 8.1979 | LR: 0.0001560 | Images: 75520 | Data points: 1132800 | Time: 15:30:59
+[2025-05-15 23:42:35] Step 35500 | Loss: 8.0679 | LR: 0.0001558 | Images: 75733 | Data points: 1136000 | Time: 15:33:35
+[2025-05-15 23:45:12] Step 35600 | Loss: 8.1730 | LR: 0.0001556 | Images: 75946 | Data points: 1139200 | Time: 15:36:11
+[2025-05-15 23:46:03] Checkpoint metadata saved to ./working/checkpoints/checkpoint-76016-images_metadata.json
+[2025-05-15 23:46:03] Checkpoint saved at 76016 images / 1140240 datapoints
+[2025-05-15 23:47:48] Step 35700 | Loss: 8.1938 | LR: 0.0001555 | Images: 76160 | Data points: 1142400 | Time: 15:38:48
+[2025-05-15 23:50:26] Step 35800 | Loss: 8.1385 | LR: 0.0001553 | Images: 76373 | Data points: 1145600 | Time: 15:41:26
+[2025-05-15 23:53:03] Step 35900 | Loss: 8.1262 | LR: 0.0001551 | Images: 76586 | Data points: 1148800 | Time: 15:44:03
+[2025-05-15 23:55:41] Step 36000 | Loss: 8.1254 | LR: 0.0001549 | Images: 76800 | Data points: 1152000 | Time: 15:46:40
+[2025-05-15 23:58:18] Step 36100 | Loss: 8.2121 | LR: 0.0001547 | Images: 77013 | Data points: 1155200 | Time: 15:49:18
+[2025-05-16 00:00:56] Step 36200 | Loss: 8.1113 | LR: 0.0001545 | Images: 77226 | Data points: 1158400 | Time: 15:51:56
+[2025-05-16 00:03:35] Step 36300 | Loss: 8.1504 | LR: 0.0001543 | Images: 77440 | Data points: 1161600 | Time: 15:54:35
+[2025-05-16 00:06:15] Step 36400 | Loss: 8.2071 | LR: 0.0001542 | Images: 77653 | Data points: 1164800 | Time: 15:57:15
+[2025-05-16 00:08:55] Step 36500 | Loss: 7.9880 | LR: 0.0001540 | Images: 77866 | Data points: 1168000 | Time: 15:59:55
+[2025-05-16 00:10:47] Checkpoint metadata saved to ./working/checkpoints/checkpoint-78016-images_metadata.json
+[2025-05-16 00:10:47] Checkpoint saved at 78016 images / 1170240 datapoints
+[2025-05-16 00:11:34] Step 36600 | Loss: 8.1060 | LR: 0.0001538 | Images: 78080 | Data points: 1171200 | Time: 16:02:34
+[2025-05-16 00:14:13] Step 36700 | Loss: 8.1294 | LR: 0.0001536 | Images: 78293 | Data points: 1174400 | Time: 16:05:12
+[2025-05-16 00:16:51] Step 36800 | Loss: 8.1349 | LR: 0.0001534 | Images: 78506 | Data points: 1177600 | Time: 16:07:50
+[2025-05-16 00:19:29] Step 36900 | Loss: 8.1505 | LR: 0.0001532 | Images: 78720 | Data points: 1180800 | Time: 16:10:28
+[2025-05-16 00:22:06] Step 37000 | Loss: 8.2325 | LR: 0.0001530 | Images: 78933 | Data points: 1184000 | Time: 16:13:06
+[2025-05-16 00:24:43] Step 37100 | Loss: 8.1816 | LR: 0.0001528 | Images: 79146 | Data points: 1187200 | Time: 16:15:43
+[2025-05-16 00:27:21] Step 37200 | Loss: 8.0071 | LR: 0.0001527 | Images: 79360 | Data points: 1190400 | Time: 16:18:21
+[2025-05-16 00:29:59] Step 37300 | Loss: 8.1379 | LR: 0.0001525 | Images: 79573 | Data points: 1193600 | Time: 16:20:58
+[2025-05-16 00:32:36] Step 37400 | Loss: 8.1371 | LR: 0.0001523 | Images: 79786 | Data points: 1196800 | Time: 16:23:36
+[2025-05-16 00:35:13] Step 37500 | Loss: 8.0907 | LR: 0.0001521 | Images: 80000 | Data points: 1200000 | Time: 16:26:13
+[2025-05-16 00:35:25] Checkpoint metadata saved to ./working/checkpoints/checkpoint-80016-images_metadata.json
+[2025-05-16 00:35:25] Checkpoint saved at 80016 images / 1200240 datapoints
+[2025-05-16 00:37:51] Step 37600 | Loss: 8.1798 | LR: 0.0001519 | Images: 80213 | Data points: 1203200 | Time: 16:28:51
+[2025-05-16 00:40:28] Step 37700 | Loss: 8.1142 | LR: 0.0001517 | Images: 80426 | Data points: 1206400 | Time: 16:31:28
+[2025-05-16 00:43:05] Step 37800 | Loss: 8.2353 | LR: 0.0001515 | Images: 80640 | Data points: 1209600 | Time: 16:34:05
+[2025-05-16 00:45:42] Step 37900 | Loss: 8.1276 | LR: 0.0001513 | Images: 80853 | Data points: 1212800 | Time: 16:36:41
+[2025-05-16 00:48:18] Step 38000 | Loss: 8.1988 | LR: 0.0001512 | Images: 81066 | Data points: 1216000 | Time: 16:39:18
+[2025-05-16 00:50:56] Step 38100 | Loss: 8.0974 | LR: 0.0001510 | Images: 81280 | Data points: 1219200 | Time: 16:41:56
+[2025-05-16 00:53:35] Step 38200 | Loss: 8.0487 | LR: 0.0001508 | Images: 81493 | Data points: 1222400 | Time: 16:44:34
+[2025-05-16 00:56:12] Step 38300 | Loss: 8.1018 | LR: 0.0001506 | Images: 81706 | Data points: 1225600 | Time: 16:47:12
+[2025-05-16 00:58:51] Step 38400 | Loss: 8.1131 | LR: 0.0001504 | Images: 81920 | Data points: 1228800 | Time: 16:49:50
+[2025-05-16 01:00:02] Checkpoint metadata saved to ./working/checkpoints/checkpoint-82016-images_metadata.json
+[2025-05-16 01:00:02] Checkpoint saved at 82016 images / 1230240 datapoints
+[2025-05-16 01:01:30] Step 38500 | Loss: 8.0835 | LR: 0.0001502 | Images: 82133 | Data points: 1232000 | Time: 16:52:29
+[2025-05-16 01:04:08] Step 38600 | Loss: 8.1691 | LR: 0.0001500 | Images: 82346 | Data points: 1235200 | Time: 16:55:08
+[2025-05-16 01:06:47] Step 38700 | Loss: 8.1497 | LR: 0.0001499 | Images: 82560 | Data points: 1238400 | Time: 16:57:47
+[2025-05-16 01:09:25] Step 38800 | Loss: 8.1811 | LR: 0.0001497 | Images: 82773 | Data points: 1241600 | Time: 17:00:24
+[2025-05-16 01:12:03] Step 38900 | Loss: 8.1338 | LR: 0.0001495 | Images: 82986 | Data points: 1244800 | Time: 17:03:02
+[2025-05-16 01:14:42] Step 39000 | Loss: 8.1226 | LR: 0.0001493 | Images: 83200 | Data points: 1248000 | Time: 17:05:41
+[2025-05-16 01:17:19] Step 39100 | Loss: 8.1181 | LR: 0.0001491 | Images: 83413 | Data points: 1251200 | Time: 17:08:19
+[2025-05-16 01:19:55] Step 39200 | Loss: 8.1237 | LR: 0.0001489 | Images: 83626 | Data points: 1254400 | Time: 17:10:55
+[2025-05-16 01:22:32] Step 39300 | Loss: 8.1522 | LR: 0.0001487 | Images: 83840 | Data points: 1257600 | Time: 17:13:31
+[2025-05-16 01:24:42] Checkpoint metadata saved to ./working/checkpoints/checkpoint-84016-images_metadata.json
+[2025-05-16 01:24:42] Checkpoint saved at 84016 images / 1260240 datapoints
+[2025-05-16 01:25:09] Step 39400 | Loss: 8.0259 | LR: 0.0001485 | Images: 84053 | Data points: 1260800 | Time: 17:16:09
+[2025-05-16 01:27:46] Step 39500 | Loss: 8.1709 | LR: 0.0001484 | Images: 84266 | Data points: 1264000 | Time: 17:18:46
+[2025-05-16 01:30:22] Step 39600 | Loss: 8.1794 | LR: 0.0001482 | Images: 84480 | Data points: 1267200 | Time: 17:21:22
+[2025-05-16 01:43:30] Epoch 1/3 completed in 17:34:30 | Train Loss: 8.2099 | Val Loss: 8.1336 | Images: 84504 | Datapoints: 1267560
+[2025-05-16 01:43:30] Checkpoint metadata saved to ./working/checkpoints/checkpoint-epoch-1_metadata.json
+[2025-05-16 01:43:31] Checkpoint metadata saved to ./working/checkpoints/best_model_metadata.json
+[2025-05-16 01:43:31] New best model saved with validation loss: 8.1336
+[2025-05-16 01:45:49] Step 39700 | Loss: 8.1412 | LR: 0.0001480 | Images: 84691 | Data points: 1270376 | Time: 17:36:49
+[2025-05-16 01:48:26] Step 39800 | Loss: 8.1153 | LR: 0.0001478 | Images: 84905 | Data points: 1273576 | Time: 17:39:25
+[2025-05-16 01:51:03] Step 39900 | Loss: 8.1139 | LR: 0.0001476 | Images: 85118 | Data points: 1276776 | Time: 17:42:03
+[2025-05-16 01:53:41] Step 40000 | Loss: 8.1261 | LR: 0.0001474 | Images: 85331 | Data points: 1279976 | Time: 17:44:41
+[2025-05-16 01:56:19] Step 40100 | Loss: 8.2334 | LR: 0.0001472 | Images: 85545 | Data points: 1283176 | Time: 17:47:19
+[2025-05-16 01:58:58] Step 40200 | Loss: 8.1449 | LR: 0.0001470 | Images: 85758 | Data points: 1286376 | Time: 17:49:57
+[2025-05-16 02:01:35] Step 40300 | Loss: 8.0776 | LR: 0.0001469 | Images: 85971 | Data points: 1289576 | Time: 17:52:35
+[2025-05-16 02:02:09] Checkpoint metadata saved to ./working/checkpoints/checkpoint-86016-images_metadata.json
+[2025-05-16 02:02:09] Checkpoint saved at 86016 images / 1290240 datapoints
+[2025-05-16 02:04:13] Step 40400 | Loss: 8.1713 | LR: 0.0001467 | Images: 86185 | Data points: 1292776 | Time: 17:55:13
+[2025-05-16 02:06:51] Step 40500 | Loss: 8.1146 | LR: 0.0001465 | Images: 86398 | Data points: 1295976 | Time: 17:57:50
+[2025-05-16 02:09:28] Step 40600 | Loss: 8.1504 | LR: 0.0001463 | Images: 86611 | Data points: 1299176 | Time: 18:00:28
+[2025-05-16 02:12:05] Step 40700 | Loss: 8.0369 | LR: 0.0001461 | Images: 86825 | Data points: 1302376 | Time: 18:03:04
+[2025-05-16 02:14:41] Step 40800 | Loss: 8.1382 | LR: 0.0001459 | Images: 87038 | Data points: 1305576 | Time: 18:05:41
+[2025-05-16 02:17:17] Step 40900 | Loss: 8.0783 | LR: 0.0001457 | Images: 87251 | Data points: 1308776 | Time: 18:08:17
+[2025-05-16 02:19:53] Step 41000 | Loss: 8.1979 | LR: 0.0001456 | Images: 87465 | Data points: 1311976 | Time: 18:10:53
+[2025-05-16 02:22:29] Step 41100 | Loss: 8.0780 | LR: 0.0001454 | Images: 87678 | Data points: 1315176 | Time: 18:13:29
+[2025-05-16 02:25:06] Step 41200 | Loss: 8.0603 | LR: 0.0001452 | Images: 87891 | Data points: 1318376 | Time: 18:16:05
+[2025-05-16 02:26:37] Checkpoint metadata saved to ./working/checkpoints/checkpoint-88016-images_metadata.json
+[2025-05-16 02:26:37] Checkpoint saved at 88016 images / 1320240 datapoints
+[2025-05-16 02:27:42] Step 41300 | Loss: 8.1224 | LR: 0.0001450 | Images: 88105 | Data points: 1321576 | Time: 18:18:42
+[2025-05-16 02:30:18] Step 41400 | Loss: 8.1152 | LR: 0.0001448 | Images: 88318 | Data points: 1324776 | Time: 18:21:18
+[2025-05-16 02:32:54] Step 41500 | Loss: 8.0775 | LR: 0.0001446 | Images: 88531 | Data points: 1327976 | Time: 18:23:54
+[2025-05-16 02:35:30] Step 41600 | Loss: 8.1983 | LR: 0.0001444 | Images: 88745 | Data points: 1331176 | Time: 18:26:30
+[2025-05-16 02:38:07] Step 41700 | Loss: 8.0932 | LR: 0.0001442 | Images: 88958 | Data points: 1334376 | Time: 18:29:06
+[2025-05-16 02:40:45] Step 41800 | Loss: 8.1271 | LR: 0.0001441 | Images: 89171 | Data points: 1337576 | Time: 18:31:45
+[2025-05-16 02:43:23] Step 41900 | Loss: 8.0704 | LR: 0.0001439 | Images: 89385 | Data points: 1340776 | Time: 18:34:23
+[2025-05-16 02:46:01] Step 42000 | Loss: 8.1487 | LR: 0.0001437 | Images: 89598 | Data points: 1343976 | Time: 18:37:00
+[2025-05-16 02:48:38] Step 42100 | Loss: 8.0419 | LR: 0.0001435 | Images: 89811 | Data points: 1347176 | Time: 18:39:38
+[2025-05-16 02:51:11] Checkpoint metadata saved to ./working/checkpoints/checkpoint-90016-images_metadata.json
+[2025-05-16 02:51:11] Checkpoint saved at 90016 images / 1350240 datapoints
+[2025-05-16 02:51:17] Step 42200 | Loss: 8.0878 | LR: 0.0001433 | Images: 90025 | Data points: 1350376 | Time: 18:42:17
+[2025-05-16 02:53:56] Step 42300 | Loss: 8.2363 | LR: 0.0001431 | Images: 90238 | Data points: 1353576 | Time: 18:44:56
+[2025-05-16 02:56:35] Step 42400 | Loss: 8.1228 | LR: 0.0001429 | Images: 90451 | Data points: 1356776 | Time: 18:47:35
+[2025-05-16 02:59:13] Step 42500 | Loss: 8.1482 | LR: 0.0001427 | Images: 90665 | Data points: 1359976 | Time: 18:50:13
+[2025-05-16 03:01:51] Step 42600 | Loss: 8.1609 | LR: 0.0001426 | Images: 90878 | Data points: 1363176 | Time: 18:52:51
+[2025-05-16 03:04:29] Step 42700 | Loss: 8.1341 | LR: 0.0001424 | Images: 91091 | Data points: 1366376 | Time: 18:55:29
+[2025-05-16 03:07:07] Step 42800 | Loss: 8.0807 | LR: 0.0001422 | Images: 91305 | Data points: 1369576 | Time: 18:58:06
+[2025-05-16 03:09:44] Step 42900 | Loss: 8.2033 | LR: 0.0001420 | Images: 91518 | Data points: 1372776 | Time: 19:00:44
+[2025-05-16 03:12:22] Step 43000 | Loss: 8.1713 | LR: 0.0001418 | Images: 91731 | Data points: 1375976 | Time: 19:03:22
+[2025-05-16 03:15:00] Step 43100 | Loss: 8.1299 | LR: 0.0001416 | Images: 91945 | Data points: 1379176 | Time: 19:05:59
+[2025-05-16 03:15:53] Checkpoint metadata saved to ./working/checkpoints/checkpoint-92016-images_metadata.json
+[2025-05-16 03:15:53] Checkpoint saved at 92016 images / 1380240 datapoints
+[2025-05-16 03:17:38] Step 43200 | Loss: 8.1399 | LR: 0.0001414 | Images: 92158 | Data points: 1382376 | Time: 19:08:38
+[2025-05-16 03:20:16] Step 43300 | Loss: 8.1443 | LR: 0.0001412 | Images: 92371 | Data points: 1385576 | Time: 19:11:16
+[2025-05-16 03:22:53] Step 43400 | Loss: 8.1698 | LR: 0.0001411 | Images: 92585 | Data points: 1388776 | Time: 19:13:53
+[2025-05-16 03:25:31] Step 43500 | Loss: 8.0923 | LR: 0.0001409 | Images: 92798 | Data points: 1391976 | Time: 19:16:31
+[2025-05-16 03:28:08] Step 43600 | Loss: 8.1813 | LR: 0.0001407 | Images: 93011 | Data points: 1395176 | Time: 19:19:08
+[2025-05-16 03:30:45] Step 43700 | Loss: 8.1359 | LR: 0.0001405 | Images: 93225 | Data points: 1398376 | Time: 19:21:45
+[2025-05-16 03:33:22] Step 43800 | Loss: 8.0954 | LR: 0.0001403 | Images: 93438 | Data points: 1401576 | Time: 19:24:22
+[2025-05-16 03:36:00] Step 43900 | Loss: 8.1394 | LR: 0.0001401 | Images: 93651 | Data points: 1404776 | Time: 19:27:00
+[2025-05-16 03:38:37] Step 44000 | Loss: 8.1659 | LR: 0.0001399 | Images: 93865 | Data points: 1407976 | Time: 19:29:37
+[2025-05-16 03:40:29] Checkpoint metadata saved to ./working/checkpoints/checkpoint-94016-images_metadata.json
+[2025-05-16 03:40:29] Checkpoint saved at 94016 images / 1410240 datapoints
+[2025-05-16 03:41:15] Step 44100 | Loss: 8.1076 | LR: 0.0001398 | Images: 94078 | Data points: 1411176 | Time: 19:32:15
+[2025-05-16 03:43:53] Step 44200 | Loss: 8.1624 | LR: 0.0001396 | Images: 94291 | Data points: 1414376 | Time: 19:34:52
+[2025-05-16 03:46:31] Step 44300 | Loss: 8.1468 | LR: 0.0001394 | Images: 94505 | Data points: 1417576 | Time: 19:37:31
+[2025-05-16 03:49:09] Step 44400 | Loss: 8.1944 | LR: 0.0001392 | Images: 94718 | Data points: 1420776 | Time: 19:40:09
+[2025-05-16 03:51:48] Step 44500 | Loss: 8.0619 | LR: 0.0001390 | Images: 94931 | Data points: 1423976 | Time: 19:42:48
+[2025-05-16 03:54:26] Step 44600 | Loss: 7.9686 | LR: 0.0001388 | Images: 95145 | Data points: 1427176 | Time: 19:45:26
+[2025-05-16 03:57:04] Step 44700 | Loss: 8.1192 | LR: 0.0001386 | Images: 95358 | Data points: 1430376 | Time: 19:48:04
+[2025-05-16 03:59:40] Step 44800 | Loss: 8.0599 | LR: 0.0001384 | Images: 95571 | Data points: 1433576 | Time: 19:50:40
+[2025-05-16 04:02:18] Step 44900 | Loss: 8.1529 | LR: 0.0001383 | Images: 95785 | Data points: 1436776 | Time: 19:53:18
+[2025-05-16 04:04:56] Step 45000 | Loss: 8.1300 | LR: 0.0001381 | Images: 95998 | Data points: 1439976 | Time: 19:55:56
+[2025-05-16 04:05:10] Checkpoint metadata saved to ./working/checkpoints/checkpoint-96016-images_metadata.json
+[2025-05-16 04:05:10] Checkpoint saved at 96016 images / 1440240 datapoints
+[2025-05-16 04:07:34] Step 45100 | Loss: 8.0972 | LR: 0.0001379 | Images: 96211 | Data points: 1443176 | Time: 19:58:34
+[2025-05-16 04:10:12] Step 45200 | Loss: 8.1603 | LR: 0.0001377 | Images: 96425 | Data points: 1446376 | Time: 20:01:12
+[2025-05-16 04:12:49] Step 45300 | Loss: 8.0763 | LR: 0.0001375 | Images: 96638 | Data points: 1449576 | Time: 20:03:49
+[2025-05-16 04:15:26] Step 45400 | Loss: 8.1083 | LR: 0.0001373 | Images: 96851 | Data points: 1452776 | Time: 20:06:26
+[2025-05-16 04:18:03] Step 45500 | Loss: 8.1210 | LR: 0.0001371 | Images: 97065 | Data points: 1455976 | Time: 20:09:03
+[2025-05-16 04:20:40] Step 45600 | Loss: 8.1670 | LR: 0.0001369 | Images: 97278 | Data points: 1459176 | Time: 20:11:39
+[2025-05-16 04:23:16] Step 45700 | Loss: 8.0820 | LR: 0.0001368 | Images: 97491 | Data points: 1462376 | Time: 20:14:15
+[2025-05-16 04:25:52] Step 45800 | Loss: 8.0788 | LR: 0.0001366 | Images: 97705 | Data points: 1465576 | Time: 20:16:51
+[2025-05-16 04:28:28] Step 45900 | Loss: 8.1793 | LR: 0.0001364 | Images: 97918 | Data points: 1468776 | Time: 20:19:27
+[2025-05-16 04:29:39] Checkpoint metadata saved to ./working/checkpoints/checkpoint-98016-images_metadata.json
+[2025-05-16 04:29:39] Checkpoint saved at 98016 images / 1470240 datapoints
+[2025-05-16 04:31:06] Step 46000 | Loss: 8.2171 | LR: 0.0001362 | Images: 98131 | Data points: 1471976 | Time: 20:22:05
+[2025-05-16 04:33:44] Step 46100 | Loss: 8.2200 | LR: 0.0001360 | Images: 98345 | Data points: 1475176 | Time: 20:24:44
+[2025-05-16 04:36:22] Step 46200 | Loss: 8.1082 | LR: 0.0001358 | Images: 98558 | Data points: 1478376 | Time: 20:27:22
+[2025-05-16 04:39:01] Step 46300 | Loss: 8.1464 | LR: 0.0001356 | Images: 98771 | Data points: 1481576 | Time: 20:30:00
+[2025-05-16 04:41:40] Step 46400 | Loss: 8.1276 | LR: 0.0001355 | Images: 98985 | Data points: 1484776 | Time: 20:32:40
+[2025-05-16 04:44:19] Step 46500 | Loss: 8.1561 | LR: 0.0001353 | Images: 99198 | Data points: 1487976 | Time: 20:35:19
+[2025-05-16 04:46:56] Step 46600 | Loss: 8.1088 | LR: 0.0001351 | Images: 99411 | Data points: 1491176 | Time: 20:37:56
+[2025-05-16 04:49:33] Step 46700 | Loss: 8.0251 | LR: 0.0001349 | Images: 99625 | Data points: 1494376 | Time: 20:40:33
+[2025-05-16 04:52:10] Step 46800 | Loss: 8.1193 | LR: 0.0001347 | Images: 99838 | Data points: 1497576 | Time: 20:43:10
+[2025-05-16 04:54:22] Checkpoint metadata saved to ./working/checkpoints/checkpoint-100016-images_metadata.json
+[2025-05-16 04:54:22] Checkpoint saved at 100016 images / 1500240 datapoints
+[2025-05-16 04:54:48] Step 46900 | Loss: 8.2471 | LR: 0.0001345 | Images: 100051 | Data points: 1500776 | Time: 20:45:48
+[2025-05-16 04:57:24] Step 47000 | Loss: 8.0994 | LR: 0.0001343 | Images: 100265 | Data points: 1503976 | Time: 20:48:24
+[2025-05-16 05:00:01] Step 47100 | Loss: 8.1487 | LR: 0.0001341 | Images: 100478 | Data points: 1507176 | Time: 20:51:01
+[2025-05-16 05:02:37] Step 47200 | Loss: 8.1104 | LR: 0.0001340 | Images: 100691 | Data points: 1510376 | Time: 20:53:37
+[2025-05-16 05:05:14] Step 47300 | Loss: 8.0965 | LR: 0.0001338 | Images: 100905 | Data points: 1513576 | Time: 20:56:14
+[2025-05-16 05:07:51] Step 47400 | Loss: 8.1700 | LR: 0.0001336 | Images: 101118 | Data points: 1516776 | Time: 20:58:51
+[2025-05-16 05:10:28] Step 47500 | Loss: 8.0979 | LR: 0.0001334 | Images: 101331 | Data points: 1519976 | Time: 21:01:27
+[2025-05-16 05:13:04] Step 47600 | Loss: 8.1858 | LR: 0.0001332 | Images: 101545 | Data points: 1523176 | Time: 21:04:04
+[2025-05-16 05:15:40] Step 47700 | Loss: 8.1433 | LR: 0.0001330 | Images: 101758 | Data points: 1526376 | Time: 21:06:40
+[2025-05-16 05:18:17] Step 47800 | Loss: 8.1195 | LR: 0.0001328 | Images: 101971 | Data points: 1529576 | Time: 21:09:17
+[2025-05-16 05:18:50] Checkpoint metadata saved to ./working/checkpoints/checkpoint-102016-images_metadata.json
+[2025-05-16 05:18:50] Checkpoint saved at 102016 images / 1530240 datapoints
+[2025-05-16 05:20:55] Step 47900 | Loss: 8.2385 | LR: 0.0001326 | Images: 102185 | Data points: 1532776 | Time: 21:11:55
+[2025-05-16 05:23:32] Step 48000 | Loss: 8.1098 | LR: 0.0001325 | Images: 102398 | Data points: 1535976 | Time: 21:14:32
+[2025-05-16 05:26:09] Step 48100 | Loss: 7.9735 | LR: 0.0001323 | Images: 102611 | Data points: 1539176 | Time: 21:17:09
+[2025-05-16 05:28:46] Step 48200 | Loss: 8.1190 | LR: 0.0001321 | Images: 102825 | Data points: 1542376 | Time: 21:19:46
+[2025-05-16 05:31:24] Step 48300 | Loss: 8.1713 | LR: 0.0001319 | Images: 103038 | Data points: 1545576 | Time: 21:22:23
+[2025-05-16 05:34:01] Step 48400 | Loss: 8.1392 | LR: 0.0001317 | Images: 103251 | Data points: 1548776 | Time: 21:25:01
+[2025-05-16 05:36:39] Step 48500 | Loss: 8.1355 | LR: 0.0001315 | Images: 103465 | Data points: 1551976 | Time: 21:27:39
+[2025-05-16 05:39:17] Step 48600 | Loss: 8.2186 | LR: 0.0001313 | Images: 103678 | Data points: 1555176 | Time: 21:30:17
+[2025-05-16 05:41:55] Step 48700 | Loss: 8.1139 | LR: 0.0001312 | Images: 103891 | Data points: 1558376 | Time: 21:32:55
+[2025-05-16 05:43:27] Checkpoint metadata saved to ./working/checkpoints/checkpoint-104016-images_metadata.json
+[2025-05-16 05:43:27] Checkpoint saved at 104016 images / 1560240 datapoints
+[2025-05-16 05:44:33] Step 48800 | Loss: 8.0947 | LR: 0.0001310 | Images: 104105 | Data points: 1561576 | Time: 21:35:33
+[2025-05-16 05:47:11] Step 48900 | Loss: 8.1752 | LR: 0.0001308 | Images: 104318 | Data points: 1564776 | Time: 21:38:10
+[2025-05-16 05:49:48] Step 49000 | Loss: 8.0650 | LR: 0.0001306 | Images: 104531 | Data points: 1567976 | Time: 21:40:48
+[2025-05-16 05:52:26] Step 49100 | Loss: 8.2082 | LR: 0.0001304 | Images: 104745 | Data points: 1571176 | Time: 21:43:26
+[2025-05-16 05:55:03] Step 49200 | Loss: 8.1360 | LR: 0.0001302 | Images: 104958 | Data points: 1574376 | Time: 21:46:02
+[2025-05-16 05:57:39] Step 49300 | Loss: 8.1589 | LR: 0.0001300 | Images: 105171 | Data points: 1577576 | Time: 21:48:38
+[2025-05-16 06:00:16] Step 49400 | Loss: 8.1869 | LR: 0.0001298 | Images: 105385 | Data points: 1580776 | Time: 21:51:15
+[2025-05-16 06:02:52] Step 49500 | Loss: 8.0586 | LR: 0.0001297 | Images: 105598 | Data points: 1583976 | Time: 21:53:52
+[2025-05-16 06:05:29] Step 49600 | Loss: 8.1357 | LR: 0.0001295 | Images: 105811 | Data points: 1587176 | Time: 21:56:28
+[2025-05-16 06:08:00] Checkpoint metadata saved to ./working/checkpoints/checkpoint-106016-images_metadata.json
+[2025-05-16 06:08:00] Checkpoint saved at 106016 images / 1590240 datapoints
+[2025-05-16 06:08:07] Step 49700 | Loss: 8.1475 | LR: 0.0001293 | Images: 106025 | Data points: 1590376 | Time: 21:59:07
+[2025-05-16 06:10:45] Step 49800 | Loss: 8.1409 | LR: 0.0001291 | Images: 106238 | Data points: 1593576 | Time: 22:01:44
+[2025-05-16 06:13:21] Step 49900 | Loss: 8.1749 | LR: 0.0001289 | Images: 106451 | Data points: 1596776 | Time: 22:04:20
+[2025-05-16 06:15:57] Step 50000 | Loss: 8.1375 | LR: 0.0001287 | Images: 106665 | Data points: 1599976 | Time: 22:06:56
+[2025-05-16 06:18:33] Step 50100 | Loss: 8.2217 | LR: 0.0001285 | Images: 106878 | Data points: 1603176 | Time: 22:09:33
+[2025-05-16 06:21:10] Step 50200 | Loss: 7.9997 | LR: 0.0001283 | Images: 107091 | Data points: 1606376 | Time: 22:12:10
+[2025-05-16 06:23:47] Step 50300 | Loss: 8.1327 | LR: 0.0001282 | Images: 107305 | Data points: 1609576 | Time: 22:14:47
+[2025-05-16 06:26:24] Step 50400 | Loss: 8.1416 | LR: 0.0001280 | Images: 107518 | Data points: 1612776 | Time: 22:17:24
+[2025-05-16 06:29:01] Step 50500 | Loss: 8.1467 | LR: 0.0001278 | Images: 107731 | Data points: 1615976 | Time: 22:20:00
+[2025-05-16 06:31:38] Step 50600 | Loss: 8.0983 | LR: 0.0001276 | Images: 107945 | Data points: 1619176 | Time: 22:22:38
+[2025-05-16 06:32:32] Checkpoint metadata saved to ./working/checkpoints/checkpoint-108016-images_metadata.json
+[2025-05-16 06:32:32] Checkpoint saved at 108016 images / 1620240 datapoints
+[2025-05-16 06:34:17] Step 50700 | Loss: 8.1269 | LR: 0.0001274 | Images: 108158 | Data points: 1622376 | Time: 22:25:17
+[2025-05-16 06:36:54] Step 50800 | Loss: 8.1218 | LR: 0.0001272 | Images: 108371 | Data points: 1625576 | Time: 22:27:54
+[2025-05-16 06:39:32] Step 50900 | Loss: 8.1227 | LR: 0.0001270 | Images: 108585 | Data points: 1628776 | Time: 22:30:32
+[2025-05-16 06:42:10] Step 51000 | Loss: 8.1267 | LR: 0.0001268 | Images: 108798 | Data points: 1631976 | Time: 22:33:09
+[2025-05-16 06:44:47] Step 51100 | Loss: 8.1254 | LR: 0.0001267 | Images: 109011 | Data points: 1635176 | Time: 22:35:46
+[2025-05-16 06:47:24] Step 51200 | Loss: 8.0790 | LR: 0.0001265 | Images: 109225 | Data points: 1638376 | Time: 22:38:24
+[2025-05-16 06:50:02] Step 51300 | Loss: 8.1249 | LR: 0.0001263 | Images: 109438 | Data points: 1641576 | Time: 22:41:02
+[2025-05-16 06:52:39] Step 51400 | Loss: 8.1422 | LR: 0.0001261 | Images: 109651 | Data points: 1644776 | Time: 22:43:39
+[2025-05-16 06:55:17] Step 51500 | Loss: 8.0119 | LR: 0.0001259 | Images: 109865 | Data points: 1647976 | Time: 22:46:16
+[2025-05-16 06:57:08] Checkpoint metadata saved to ./working/checkpoints/checkpoint-110016-images_metadata.json
+[2025-05-16 06:57:08] Checkpoint saved at 110016 images / 1650240 datapoints
+[2025-05-16 06:57:54] Step 51600 | Loss: 8.0626 | LR: 0.0001257 | Images: 110078 | Data points: 1651176 | Time: 22:48:54
+[2025-05-16 07:00:31] Step 51700 | Loss: 8.1037 | LR: 0.0001255 | Images: 110291 | Data points: 1654376 | Time: 22:51:31
+[2025-05-16 07:03:08] Step 51800 | Loss: 8.1166 | LR: 0.0001254 | Images: 110505 | Data points: 1657576 | Time: 22:54:08
+[2025-05-16 07:05:46] Step 51900 | Loss: 8.1656 | LR: 0.0001252 | Images: 110718 | Data points: 1660776 | Time: 22:56:46
+[2025-05-16 07:08:23] Step 52000 | Loss: 8.1725 | LR: 0.0001250 | Images: 110931 | Data points: 1663976 | Time: 22:59:23
+[2025-05-16 07:11:00] Step 52100 | Loss: 8.1186 | LR: 0.0001248 | Images: 111145 | Data points: 1667176 | Time: 23:02:00
+[2025-05-16 07:13:36] Step 52200 | Loss: 8.1436 | LR: 0.0001246 | Images: 111358 | Data points: 1670376 | Time: 23:04:35
+[2025-05-16 07:16:11] Step 52300 | Loss: 8.0617 | LR: 0.0001244 | Images: 111571 | Data points: 1673576 | Time: 23:07:11
+[2025-05-16 07:18:48] Step 52400 | Loss: 8.1494 | LR: 0.0001242 | Images: 111785 | Data points: 1676776 | Time: 23:09:48
+[2025-05-16 07:21:25] Step 52500 | Loss: 8.1297 | LR: 0.0001240 | Images: 111998 | Data points: 1679976 | Time: 23:12:24
+[2025-05-16 07:21:39] Checkpoint metadata saved to ./working/checkpoints/checkpoint-112016-images_metadata.json
+[2025-05-16 07:21:39] Checkpoint saved at 112016 images / 1680240 datapoints
+[2025-05-16 07:24:02] Step 52600 | Loss: 8.1481 | LR: 0.0001239 | Images: 112211 | Data points: 1683176 | Time: 23:15:02
+[2025-05-16 07:26:39] Step 52700 | Loss: 8.1128 | LR: 0.0001237 | Images: 112425 | Data points: 1686376 | Time: 23:17:39
+[2025-05-16 07:29:16] Step 52800 | Loss: 8.1482 | LR: 0.0001235 | Images: 112638 | Data points: 1689576 | Time: 23:20:16
+[2025-05-16 07:31:53] Step 52900 | Loss: 8.0792 | LR: 0.0001233 | Images: 112851 | Data points: 1692776 | Time: 23:22:53
+[2025-05-16 07:34:32] Step 53000 | Loss: 8.1124 | LR: 0.0001231 | Images: 113065 | Data points: 1695976 | Time: 23:25:31
+[2025-05-16 07:37:10] Step 53100 | Loss: 8.0989 | LR: 0.0001229 | Images: 113278 | Data points: 1699176 | Time: 23:28:10
+[2025-05-16 07:39:48] Step 53200 | Loss: 8.0977 | LR: 0.0001227 | Images: 113491 | Data points: 1702376 | Time: 23:30:48
+[2025-05-16 07:42:26] Step 53300 | Loss: 8.2407 | LR: 0.0001225 | Images: 113705 | Data points: 1705576 | Time: 23:33:26
+[2025-05-16 07:45:04] Step 53400 | Loss: 8.1641 | LR: 0.0001224 | Images: 113918 | Data points: 1708776 | Time: 23:36:03
+[2025-05-16 07:46:16] Checkpoint metadata saved to ./working/checkpoints/checkpoint-114016-images_metadata.json
+[2025-05-16 07:46:16] Checkpoint saved at 114016 images / 1710240 datapoints
+[2025-05-16 07:47:42] Step 53500 | Loss: 8.0501 | LR: 0.0001222 | Images: 114131 | Data points: 1711976 | Time: 23:38:41
+[2025-05-16 07:50:19] Step 53600 | Loss: 8.1614 | LR: 0.0001220 | Images: 114345 | Data points: 1715176 | Time: 23:41:19
+[2025-05-16 07:52:56] Step 53700 | Loss: 8.1133 | LR: 0.0001218 | Images: 114558 | Data points: 1718376 | Time: 23:43:56
+[2025-05-16 07:55:33] Step 53800 | Loss: 8.1366 | LR: 0.0001216 | Images: 114771 | Data points: 1721576 | Time: 23:46:33
+[2025-05-16 07:58:11] Step 53900 | Loss: 8.1540 | LR: 0.0001214 | Images: 114985 | Data points: 1724776 | Time: 23:49:11
+[2025-05-16 08:00:48] Step 54000 | Loss: 8.1184 | LR: 0.0001212 | Images: 115198 | Data points: 1727976 | Time: 23:51:48
+[2025-05-16 08:03:25] Step 54100 | Loss: 8.1110 | LR: 0.0001211 | Images: 115411 | Data points: 1731176 | Time: 23:54:25
+[2025-05-16 08:06:03] Step 54200 | Loss: 8.1428 | LR: 0.0001209 | Images: 115625 | Data points: 1734376 | Time: 23:57:02
+[2025-05-16 08:08:40] Step 54300 | Loss: 8.1494 | LR: 0.0001207 | Images: 115838 | Data points: 1737576 | Time: 23:59:39
+[2025-05-16 08:10:50] Checkpoint metadata saved to ./working/checkpoints/checkpoint-116016-images_metadata.json
+[2025-05-16 08:10:50] Checkpoint saved at 116016 images / 1740240 datapoints
+[2025-05-16 08:11:17] Step 54400 | Loss: 8.0959 | LR: 0.0001205 | Images: 116051 | Data points: 1740776 | Time: 1 day, 0:02:16
+[2025-05-16 08:13:53] Step 54500 | Loss: 8.1363 | LR: 0.0001203 | Images: 116265 | Data points: 1743976 | Time: 1 day, 0:04:53
+[2025-05-16 08:16:29] Step 54600 | Loss: 8.1691 | LR: 0.0001201 | Images: 116478 | Data points: 1747176 | Time: 1 day, 0:07:29
+[2025-05-16 08:19:06] Step 54700 | Loss: 8.0918 | LR: 0.0001199 | Images: 116691 | Data points: 1750376 | Time: 1 day, 0:10:06
+[2025-05-16 08:21:43] Step 54800 | Loss: 8.0558 | LR: 0.0001197 | Images: 116905 | Data points: 1753576 | Time: 1 day, 0:12:43
+[2025-05-16 08:24:22] Step 54900 | Loss: 8.0263 | LR: 0.0001196 | Images: 117118 | Data points: 1756776 | Time: 1 day, 0:15:21
+[2025-05-16 08:26:59] Step 55000 | Loss: 8.1105 | LR: 0.0001194 | Images: 117331 | Data points: 1759976 | Time: 1 day, 0:17:59
+[2025-05-16 08:29:37] Step 55100 | Loss: 8.0174 | LR: 0.0001192 | Images: 117545 | Data points: 1763176 | Time: 1 day, 0:20:36
+[2025-05-16 08:32:14] Step 55200 | Loss: 8.1294 | LR: 0.0001190 | Images: 117758 | Data points: 1766376 | Time: 1 day, 0:23:13
+[2025-05-16 08:34:53] Step 55300 | Loss: 8.0504 | LR: 0.0001188 | Images: 117971 | Data points: 1769576 | Time: 1 day, 0:25:53
+[2025-05-16 08:35:26] Checkpoint metadata saved to ./working/checkpoints/checkpoint-118016-images_metadata.json
+[2025-05-16 08:35:26] Checkpoint saved at 118016 images / 1770240 datapoints
+[2025-05-16 08:37:31] Step 55400 | Loss: 8.2109 | LR: 0.0001186 | Images: 118185 | Data points: 1772776 | Time: 1 day, 0:28:30
+[2025-05-16 08:40:08] Step 55500 | Loss: 8.2052 | LR: 0.0001184 | Images: 118398 | Data points: 1775976 | Time: 1 day, 0:31:07
+[2025-05-16 08:42:46] Step 55600 | Loss: 8.0966 | LR: 0.0001182 | Images: 118611 | Data points: 1779176 | Time: 1 day, 0:33:45
+[2025-05-16 08:45:27] Step 55700 | Loss: 8.1703 | LR: 0.0001181 | Images: 118825 | Data points: 1782376 | Time: 1 day, 0:36:26
+[2025-05-16 08:48:12] Step 55800 | Loss: 8.0293 | LR: 0.0001179 | Images: 119038 | Data points: 1785576 | Time: 1 day, 0:39:12
+[2025-05-16 08:50:50] Step 55900 | Loss: 8.1358 | LR: 0.0001177 | Images: 119251 | Data points: 1788776 | Time: 1 day, 0:41:49
+[2025-05-16 08:53:27] Step 56000 | Loss: 8.1897 | LR: 0.0001175 | Images: 119465 | Data points: 1791976 | Time: 1 day, 0:44:27
+[2025-05-16 08:56:05] Step 56100 | Loss: 8.1340 | LR: 0.0001173 | Images: 119678 | Data points: 1795176 | Time: 1 day, 0:47:05
+[2025-05-16 08:58:43] Step 56200 | Loss: 8.1248 | LR: 0.0001171 | Images: 119891 | Data points: 1798376 | Time: 1 day, 0:49:43
+[2025-05-16 09:00:16] Checkpoint metadata saved to ./working/checkpoints/checkpoint-120016-images_metadata.json
+[2025-05-16 09:00:16] Checkpoint saved at 120016 images / 1800240 datapoints
+[2025-05-16 09:01:21] Step 56300 | Loss: 8.1355 | LR: 0.0001169 | Images: 120105 | Data points: 1801576 | Time: 1 day, 0:52:21
+[2025-05-16 09:03:59] Step 56400 | Loss: 8.1423 | LR: 0.0001168 | Images: 120318 | Data points: 1804776 | Time: 1 day, 0:54:58
+[2025-05-16 09:06:36] Step 56500 | Loss: 8.0927 | LR: 0.0001166 | Images: 120531 | Data points: 1807976 | Time: 1 day, 0:57:36
+[2025-05-16 09:09:14] Step 56600 | Loss: 8.0926 | LR: 0.0001164 | Images: 120745 | Data points: 1811176 | Time: 1 day, 1:00:14
+[2025-05-16 09:11:52] Step 56700 | Loss: 8.1433 | LR: 0.0001162 | Images: 120958 | Data points: 1814376 | Time: 1 day, 1:02:51
+[2025-05-16 09:14:30] Step 56800 | Loss: 8.1281 | LR: 0.0001160 | Images: 121171 | Data points: 1817576 | Time: 1 day, 1:05:30
+[2025-05-16 09:17:08] Step 56900 | Loss: 8.1340 | LR: 0.0001158 | Images: 121385 | Data points: 1820776 | Time: 1 day, 1:08:07
+[2025-05-16 09:19:45] Step 57000 | Loss: 8.0729 | LR: 0.0001156 | Images: 121598 | Data points: 1823976 | Time: 1 day, 1:10:45
+[2025-05-16 09:22:22] Step 57100 | Loss: 8.1260 | LR: 0.0001154 | Images: 121811 | Data points: 1827176 | Time: 1 day, 1:13:21
+[2025-05-16 09:24:53] Checkpoint metadata saved to ./working/checkpoints/checkpoint-122016-images_metadata.json
+[2025-05-16 09:24:53] Checkpoint saved at 122016 images / 1830240 datapoints
+[2025-05-16 09:25:00] Step 57200 | Loss: 8.0371 | LR: 0.0001153 | Images: 122025 | Data points: 1830376 | Time: 1 day, 1:15:59
+[2025-05-16 09:27:37] Step 57300 | Loss: 8.0903 | LR: 0.0001151 | Images: 122238 | Data points: 1833576 | Time: 1 day, 1:18:37
+[2025-05-16 09:30:15] Step 57400 | Loss: 8.1329 | LR: 0.0001149 | Images: 122451 | Data points: 1836776 | Time: 1 day, 1:21:15
+[2025-05-16 09:32:54] Step 57500 | Loss: 8.1558 | LR: 0.0001147 | Images: 122665 | Data points: 1839976 | Time: 1 day, 1:23:54
+[2025-05-16 09:35:33] Step 57600 | Loss: 8.1546 | LR: 0.0001145 | Images: 122878 | Data points: 1843176 | Time: 1 day, 1:26:33
+[2025-05-16 09:38:12] Step 57700 | Loss: 8.1622 | LR: 0.0001143 | Images: 123091 | Data points: 1846376 | Time: 1 day, 1:29:12
+[2025-05-16 09:40:50] Step 57800 | Loss: 8.1761 | LR: 0.0001141 | Images: 123305 | Data points: 1849576 | Time: 1 day, 1:31:50
+[2025-05-16 09:43:30] Step 57900 | Loss: 8.2146 | LR: 0.0001139 | Images: 123518 | Data points: 1852776 | Time: 1 day, 1:34:30
+[2025-05-16 09:46:08] Step 58000 | Loss: 8.1652 | LR: 0.0001138 | Images: 123731 | Data points: 1855976 | Time: 1 day, 1:37:08
+[2025-05-16 09:48:46] Step 58100 | Loss: 7.9454 | LR: 0.0001136 | Images: 123945 | Data points: 1859176 | Time: 1 day, 1:39:46
+[2025-05-16 09:49:39] Checkpoint metadata saved to ./working/checkpoints/checkpoint-124016-images_metadata.json
+[2025-05-16 09:49:39] Checkpoint saved at 124016 images / 1860240 datapoints
+[2025-05-16 09:51:25] Step 58200 | Loss: 8.1916 | LR: 0.0001134 | Images: 124158 | Data points: 1862376 | Time: 1 day, 1:42:24
+[2025-05-16 09:54:04] Step 58300 | Loss: 8.1102 | LR: 0.0001132 | Images: 124371 | Data points: 1865576 | Time: 1 day, 1:45:03
+[2025-05-16 09:56:42] Step 58400 | Loss: 8.1484 | LR: 0.0001130 | Images: 124585 | Data points: 1868776 | Time: 1 day, 1:47:41
+[2025-05-16 09:59:20] Step 58500 | Loss: 8.1040 | LR: 0.0001128 | Images: 124798 | Data points: 1871976 | Time: 1 day, 1:50:20
+[2025-05-16 10:01:59] Step 58600 | Loss: 8.1327 | LR: 0.0001126 | Images: 125011 | Data points: 1875176 | Time: 1 day, 1:52:58
+[2025-05-16 10:04:37] Step 58700 | Loss: 8.1753 | LR: 0.0001125 | Images: 125225 | Data points: 1878376 | Time: 1 day, 1:55:37
+[2025-05-16 10:07:14] Step 58800 | Loss: 8.0946 | LR: 0.0001123 | Images: 125438 | Data points: 1881576 | Time: 1 day, 1:58:14
+[2025-05-16 10:09:51] Step 58900 | Loss: 8.1139 | LR: 0.0001121 | Images: 125651 | Data points: 1884776 | Time: 1 day, 2:00:50
+[2025-05-16 10:12:28] Step 59000 | Loss: 8.1730 | LR: 0.0001119 | Images: 125865 | Data points: 1887976 | Time: 1 day, 2:03:27
+[2025-05-16 10:14:20] Checkpoint metadata saved to ./working/checkpoints/checkpoint-126016-images_metadata.json
+[2025-05-16 10:14:20] Checkpoint saved at 126016 images / 1890240 datapoints
+[2025-05-16 10:15:06] Step 59100 | Loss: 8.1397 | LR: 0.0001117 | Images: 126078 | Data points: 1891176 | Time: 1 day, 2:06:06
+[2025-05-16 10:17:43] Step 59200 | Loss: 8.1376 | LR: 0.0001115 | Images: 126291 | Data points: 1894376 | Time: 1 day, 2:08:43
+[2025-05-16 10:20:20] Step 59300 | Loss: 8.1618 | LR: 0.0001113 | Images: 126505 | Data points: 1897576 | Time: 1 day, 2:11:20
+[2025-05-16 10:22:56] Step 59400 | Loss: 8.0750 | LR: 0.0001111 | Images: 126718 | Data points: 1900776 | Time: 1 day, 2:13:56
+[2025-05-16 10:25:33] Step 59500 | Loss: 8.1238 | LR: 0.0001110 | Images: 126931 | Data points: 1903976 | Time: 1 day, 2:16:33
+[2025-05-16 10:28:10] Step 59600 | Loss: 8.1811 | LR: 0.0001108 | Images: 127145 | Data points: 1907176 | Time: 1 day, 2:19:10
+[2025-05-16 10:30:47] Step 59700 | Loss: 8.1286 | LR: 0.0001106 | Images: 127358 | Data points: 1910376 | Time: 1 day, 2:21:46
+[2025-05-16 10:33:24] Step 59800 | Loss: 8.1119 | LR: 0.0001104 | Images: 127571 | Data points: 1913576 | Time: 1 day, 2:24:24
+[2025-05-16 10:36:02] Step 59900 | Loss: 8.1141 | LR: 0.0001102 | Images: 127785 | Data points: 1916776 | Time: 1 day, 2:27:01
+[2025-05-16 10:38:39] Step 60000 | Loss: 8.1771 | LR: 0.0001100 | Images: 127998 | Data points: 1919976 | Time: 1 day, 2:29:39
+[2025-05-16 10:38:54] Checkpoint metadata saved to ./working/checkpoints/checkpoint-128016-images_metadata.json
+[2025-05-16 10:38:54] Checkpoint saved at 128016 images / 1920240 datapoints
+[2025-05-16 10:41:18] Step 60100 | Loss: 8.1690 | LR: 0.0001098 | Images: 128211 | Data points: 1923176 | Time: 1 day, 2:32:18
+[2025-05-16 10:43:57] Step 60200 | Loss: 8.2075 | LR: 0.0001096 | Images: 128425 | Data points: 1926376 | Time: 1 day, 2:34:56
+[2025-05-16 10:46:35] Step 60300 | Loss: 8.0774 | LR: 0.0001095 | Images: 128638 | Data points: 1929576 | Time: 1 day, 2:37:34
+[2025-05-16 10:49:14] Step 60400 | Loss: 8.1160 | LR: 0.0001093 | Images: 128851 | Data points: 1932776 | Time: 1 day, 2:40:13
+[2025-05-16 10:51:52] Step 60500 | Loss: 8.1182 | LR: 0.0001091 | Images: 129065 | Data points: 1935976 | Time: 1 day, 2:42:52
+[2025-05-16 10:54:30] Step 60600 | Loss: 8.1056 | LR: 0.0001089 | Images: 129278 | Data points: 1939176 | Time: 1 day, 2:45:30
+[2025-05-16 10:57:08] Step 60700 | Loss: 8.0588 | LR: 0.0001087 | Images: 129491 | Data points: 1942376 | Time: 1 day, 2:48:08
+[2025-05-16 10:59:46] Step 60800 | Loss: 8.1162 | LR: 0.0001085 | Images: 129705 | Data points: 1945576 | Time: 1 day, 2:50:46
+[2025-05-16 11:02:23] Step 60900 | Loss: 8.1257 | LR: 0.0001083 | Images: 129918 | Data points: 1948776 | Time: 1 day, 2:53:23
+[2025-05-16 11:03:35] Checkpoint metadata saved to ./working/checkpoints/checkpoint-130016-images_metadata.json
+[2025-05-16 11:03:35] Checkpoint saved at 130016 images / 1950240 datapoints
+[2025-05-16 11:05:00] Step 61000 | Loss: 8.0859 | LR: 0.0001081 | Images: 130131 | Data points: 1951976 | Time: 1 day, 2:56:00
+[2025-05-16 11:07:38] Step 61100 | Loss: 8.1352 | LR: 0.0001080 | Images: 130345 | Data points: 1955176 | Time: 1 day, 2:58:38
+[2025-05-16 11:10:16] Step 61200 | Loss: 8.1614 | LR: 0.0001078 | Images: 130558 | Data points: 1958376 | Time: 1 day, 3:01:16
+[2025-05-16 11:12:53] Step 61300 | Loss: 8.1298 | LR: 0.0001076 | Images: 130771 | Data points: 1961576 | Time: 1 day, 3:03:53
+[2025-05-16 11:15:31] Step 61400 | Loss: 8.1670 | LR: 0.0001074 | Images: 130985 | Data points: 1964776 | Time: 1 day, 3:06:30
+[2025-05-16 11:18:08] Step 61500 | Loss: 8.1295 | LR: 0.0001072 | Images: 131198 | Data points: 1967976 | Time: 1 day, 3:09:07
+[2025-05-16 11:20:45] Step 61600 | Loss: 8.1768 | LR: 0.0001070 | Images: 131411 | Data points: 1971176 | Time: 1 day, 3:11:45
+[2025-05-16 11:23:23] Step 61700 | Loss: 8.1729 | LR: 0.0001068 | Images: 131625 | Data points: 1974376 | Time: 1 day, 3:14:22
+[2025-05-16 11:25:59] Step 61800 | Loss: 8.1162 | LR: 0.0001067 | Images: 131838 | Data points: 1977576 | Time: 1 day, 3:16:59
+[2025-05-16 11:28:16] Checkpoint metadata saved to ./working/checkpoints/checkpoint-132016-images_metadata.json
+[2025-05-16 11:28:16] Checkpoint saved at 132016 images / 1980248 datapoints
+[2025-05-16 11:28:41] Step 61900 | Loss: 8.1133 | LR: 0.0001065 | Images: 132051 | Data points: 1980776 | Time: 1 day, 3:19:41
+[2025-05-16 11:31:18] Step 62000 | Loss: 8.1565 | LR: 0.0001063 | Images: 132265 | Data points: 1983976 | Time: 1 day, 3:22:17
+[2025-05-16 11:33:55] Step 62100 | Loss: 8.0935 | LR: 0.0001061 | Images: 132478 | Data points: 1987176 | Time: 1 day, 3:24:54
+[2025-05-16 11:36:31] Step 62200 | Loss: 8.0622 | LR: 0.0001059 | Images: 132691 | Data points: 1990376 | Time: 1 day, 3:27:31
+[2025-05-16 11:39:09] Step 62300 | Loss: 8.0772 | LR: 0.0001057 | Images: 132905 | Data points: 1993576 | Time: 1 day, 3:30:09
+[2025-05-16 11:41:45] Step 62400 | Loss: 8.1168 | LR: 0.0001055 | Images: 133118 | Data points: 1996776 | Time: 1 day, 3:32:45
+[2025-05-16 11:44:24] Step 62500 | Loss: 8.1510 | LR: 0.0001053 | Images: 133331 | Data points: 1999976 | Time: 1 day, 3:35:24
+[2025-05-16 11:47:02] Step 62600 | Loss: 8.1209 | LR: 0.0001052 | Images: 133545 | Data points: 2003176 | Time: 1 day, 3:38:02
+[2025-05-16 11:49:39] Step 62700 | Loss: 8.1233 | LR: 0.0001050 | Images: 133758 | Data points: 2006376 | Time: 1 day, 3:40:39
+[2025-05-16 11:52:17] Step 62800 | Loss: 8.0960 | LR: 0.0001048 | Images: 133971 | Data points: 2009576 | Time: 1 day, 3:43:16
+[2025-05-16 11:52:50] Checkpoint metadata saved to ./working/checkpoints/checkpoint-134017-images_metadata.json
+[2025-05-16 11:52:50] Checkpoint saved at 134017 images / 2010256 datapoints
+[2025-05-16 11:54:54] Step 62900 | Loss: 8.1389 | LR: 0.0001046 | Images: 134185 | Data points: 2012776 | Time: 1 day, 3:45:54
+[2025-05-16 11:57:31] Step 63000 | Loss: 8.2225 | LR: 0.0001044 | Images: 134398 | Data points: 2015976 | Time: 1 day, 3:48:31
+[2025-05-16 12:00:10] Step 63100 | Loss: 8.1055 | LR: 0.0001042 | Images: 134611 | Data points: 2019176 | Time: 1 day, 3:51:09
+[2025-05-16 12:02:48] Step 63200 | Loss: 8.1785 | LR: 0.0001040 | Images: 134825 | Data points: 2022376 | Time: 1 day, 3:53:48
+[2025-05-16 12:05:26] Step 63300 | Loss: 8.1132 | LR: 0.0001038 | Images: 135038 | Data points: 2025576 | Time: 1 day, 3:56:25
+[2025-05-16 12:08:04] Step 63400 | Loss: 8.1349 | LR: 0.0001037 | Images: 135251 | Data points: 2028776 | Time: 1 day, 3:59:04
+[2025-05-16 12:10:43] Step 63500 | Loss: 8.1458 | LR: 0.0001035 | Images: 135465 | Data points: 2031976 | Time: 1 day, 4:01:43
+[2025-05-16 12:13:22] Step 63600 | Loss: 8.1446 | LR: 0.0001033 | Images: 135678 | Data points: 2035176 | Time: 1 day, 4:04:22
+[2025-05-16 12:16:01] Step 63700 | Loss: 8.1552 | LR: 0.0001031 | Images: 135891 | Data points: 2038376 | Time: 1 day, 4:07:01
+[2025-05-16 12:17:38] Checkpoint metadata saved to ./working/checkpoints/checkpoint-136017-images_metadata.json
+[2025-05-16 12:17:38] Checkpoint saved at 136017 images / 2040264 datapoints
+[2025-05-16 12:18:43] Step 63800 | Loss: 8.1174 | LR: 0.0001029 | Images: 136105 | Data points: 2041576 | Time: 1 day, 4:09:43
+[2025-05-16 12:21:21] Step 63900 | Loss: 8.1431 | LR: 0.0001027 | Images: 136318 | Data points: 2044776 | Time: 1 day, 4:12:20
+[2025-05-16 12:23:59] Step 64000 | Loss: 8.1395 | LR: 0.0001025 | Images: 136531 | Data points: 2047976 | Time: 1 day, 4:14:59
+[2025-05-16 12:26:38] Step 64100 | Loss: 8.1378 | LR: 0.0001024 | Images: 136745 | Data points: 2051176 | Time: 1 day, 4:17:38
+[2025-05-16 12:29:16] Step 64200 | Loss: 8.1350 | LR: 0.0001022 | Images: 136958 | Data points: 2054376 | Time: 1 day, 4:20:15
+[2025-05-16 12:31:53] Step 64300 | Loss: 8.0855 | LR: 0.0001020 | Images: 137171 | Data points: 2057576 | Time: 1 day, 4:22:53
+[2025-05-16 12:34:31] Step 64400 | Loss: 8.0720 | LR: 0.0001018 | Images: 137385 | Data points: 2060776 | Time: 1 day, 4:25:31
+[2025-05-16 12:37:09] Step 64500 | Loss: 8.0619 | LR: 0.0001016 | Images: 137598 | Data points: 2063976 | Time: 1 day, 4:28:09
+[2025-05-16 12:39:47] Step 64600 | Loss: 8.1493 | LR: 0.0001014 | Images: 137811 | Data points: 2067176 | Time: 1 day, 4:30:47
+[2025-05-16 12:42:22] Checkpoint metadata saved to ./working/checkpoints/checkpoint-138018-images_metadata.json
+[2025-05-16 12:42:22] Checkpoint saved at 138018 images / 2070272 datapoints
+[2025-05-16 12:42:27] Step 64700 | Loss: 8.0263 | LR: 0.0001012 | Images: 138025 | Data points: 2070376 | Time: 1 day, 4:33:26
+[2025-05-16 12:45:04] Step 64800 | Loss: 8.1158 | LR: 0.0001010 | Images: 138238 | Data points: 2073576 | Time: 1 day, 4:36:04
+[2025-05-16 12:47:42] Step 64900 | Loss: 8.1362 | LR: 0.0001009 | Images: 138451 | Data points: 2076776 | Time: 1 day, 4:38:42
+[2025-05-16 12:50:20] Step 65000 | Loss: 8.1249 | LR: 0.0001007 | Images: 138665 | Data points: 2079976 | Time: 1 day, 4:41:20
+[2025-05-16 12:52:59] Step 65100 | Loss: 8.1102 | LR: 0.0001005 | Images: 138878 | Data points: 2083176 | Time: 1 day, 4:43:59
+[2025-05-16 12:55:38] Step 65200 | Loss: 8.0922 | LR: 0.0001003 | Images: 139091 | Data points: 2086376 | Time: 1 day, 4:46:37
+[2025-05-16 12:58:16] Step 65300 | Loss: 8.1432 | LR: 0.0001001 | Images: 139305 | Data points: 2089576 | Time: 1 day, 4:49:15
+[2025-05-16 13:00:53] Step 65400 | Loss: 8.0814 | LR: 0.0000999 | Images: 139518 | Data points: 2092776 | Time: 1 day, 4:51:53
+[2025-05-16 13:03:32] Step 65500 | Loss: 8.2040 | LR: 0.0000997 | Images: 139731 | Data points: 2095976 | Time: 1 day, 4:54:32
+[2025-05-16 13:06:10] Step 65600 | Loss: 8.1368 | LR: 0.0000995 | Images: 139945 | Data points: 2099176 | Time: 1 day, 4:57:10
+[2025-05-16 13:07:05] Checkpoint metadata saved to ./working/checkpoints/checkpoint-140018-images_metadata.json
+[2025-05-16 13:07:05] Checkpoint saved at 140018 images / 2100280 datapoints
+[2025-05-16 13:08:49] Step 65700 | Loss: 8.1444 | LR: 0.0000994 | Images: 140158 | Data points: 2102376 | Time: 1 day, 4:59:48
+[2025-05-16 13:11:27] Step 65800 | Loss: 8.1395 | LR: 0.0000992 | Images: 140371 | Data points: 2105576 | Time: 1 day, 5:02:26
+[2025-05-16 13:14:06] Step 65900 | Loss: 8.1025 | LR: 0.0000990 | Images: 140585 | Data points: 2108776 | Time: 1 day, 5:05:05
+[2025-05-16 13:16:44] Step 66000 | Loss: 8.1377 | LR: 0.0000988 | Images: 140798 | Data points: 2111976 | Time: 1 day, 5:07:44
+[2025-05-16 13:19:23] Step 66100 | Loss: 8.1510 | LR: 0.0000986 | Images: 141011 | Data points: 2115176 | Time: 1 day, 5:10:23
+[2025-05-16 13:22:02] Step 66200 | Loss: 8.1499 | LR: 0.0000984 | Images: 141225 | Data points: 2118376 | Time: 1 day, 5:13:01
+[2025-05-16 13:24:41] Step 66300 | Loss: 8.1812 | LR: 0.0000982 | Images: 141438 | Data points: 2121576 | Time: 1 day, 5:15:40
+[2025-05-16 13:27:19] Step 66400 | Loss: 8.0259 | LR: 0.0000981 | Images: 141651 | Data points: 2124776 | Time: 1 day, 5:18:19
+[2025-05-16 13:29:58] Step 66500 | Loss: 8.0907 | LR: 0.0000979 | Images: 141865 | Data points: 2127976 | Time: 1 day, 5:20:57
+[2025-05-16 13:31:53] Checkpoint metadata saved to ./working/checkpoints/checkpoint-142019-images_metadata.json
+[2025-05-16 13:31:53] Checkpoint saved at 142019 images / 2130288 datapoints
+[2025-05-16 13:32:36] Step 66600 | Loss: 8.1628 | LR: 0.0000977 | Images: 142078 | Data points: 2131176 | Time: 1 day, 5:23:36
+[2025-05-16 13:35:14] Step 66700 | Loss: 8.0173 | LR: 0.0000975 | Images: 142291 | Data points: 2134376 | Time: 1 day, 5:26:14
+[2025-05-16 13:37:52] Step 66800 | Loss: 8.0597 | LR: 0.0000973 | Images: 142505 | Data points: 2137576 | Time: 1 day, 5:28:52
+[2025-05-16 13:40:31] Step 66900 | Loss: 8.1223 | LR: 0.0000971 | Images: 142718 | Data points: 2140776 | Time: 1 day, 5:31:30
+[2025-05-16 13:43:09] Step 67000 | Loss: 8.1378 | LR: 0.0000969 | Images: 142931 | Data points: 2143976 | Time: 1 day, 5:34:09
+[2025-05-16 13:45:47] Step 67100 | Loss: 8.1917 | LR: 0.0000967 | Images: 143145 | Data points: 2147176 | Time: 1 day, 5:36:46
+[2025-05-16 13:48:26] Step 67200 | Loss: 8.1531 | LR: 0.0000966 | Images: 143358 | Data points: 2150376 | Time: 1 day, 5:39:25
+[2025-05-16 13:51:05] Step 67300 | Loss: 8.1054 | LR: 0.0000964 | Images: 143571 | Data points: 2153576 | Time: 1 day, 5:42:05
+[2025-05-16 13:53:43] Step 67400 | Loss: 8.1962 | LR: 0.0000962 | Images: 143785 | Data points: 2156776 | Time: 1 day, 5:44:43
+[2025-05-16 13:56:21] Step 67500 | Loss: 8.1017 | LR: 0.0000960 | Images: 143998 | Data points: 2159976 | Time: 1 day, 5:47:20
+[2025-05-16 13:56:37] Checkpoint metadata saved to ./working/checkpoints/checkpoint-144019-images_metadata.json
+[2025-05-16 13:56:37] Checkpoint saved at 144019 images / 2160296 datapoints
+[2025-05-16 13:58:59] Step 67600 | Loss: 8.1616 | LR: 0.0000958 | Images: 144211 | Data points: 2163176 | Time: 1 day, 5:49:58
+[2025-05-16 14:01:36] Step 67700 | Loss: 8.1495 | LR: 0.0000956 | Images: 144425 | Data points: 2166376 | Time: 1 day, 5:52:35
+[2025-05-16 14:04:12] Step 67800 | Loss: 8.1160 | LR: 0.0000954 | Images: 144638 | Data points: 2169576 | Time: 1 day, 5:55:12
+[2025-05-16 14:06:48] Step 67900 | Loss: 8.1284 | LR: 0.0000952 | Images: 144851 | Data points: 2172776 | Time: 1 day, 5:57:48
+[2025-05-16 14:09:25] Step 68000 | Loss: 8.1101 | LR: 0.0000951 | Images: 145065 | Data points: 2175976 | Time: 1 day, 6:00:25
+[2025-05-16 14:12:01] Step 68100 | Loss: 8.1190 | LR: 0.0000949 | Images: 145278 | Data points: 2179176 | Time: 1 day, 6:03:01
+[2025-05-16 14:14:38] Step 68200 | Loss: 8.1491 | LR: 0.0000947 | Images: 145491 | Data points: 2182376 | Time: 1 day, 6:05:38
+[2025-05-16 14:17:14] Step 68300 | Loss: 8.1628 | LR: 0.0000945 | Images: 145705 | Data points: 2185576 | Time: 1 day, 6:08:14
+[2025-05-16 14:19:52] Step 68400 | Loss: 8.1000 | LR: 0.0000943 | Images: 145918 | Data points: 2188776 | Time: 1 day, 6:10:52
+[2025-05-16 14:21:09] Checkpoint metadata saved to ./working/checkpoints/checkpoint-146020-images_metadata.json
+[2025-05-16 14:21:09] Checkpoint saved at 146020 images / 2190304 datapoints
+[2025-05-16 14:22:31] Step 68500 | Loss: 8.1143 | LR: 0.0000941 | Images: 146131 | Data points: 2191976 | Time: 1 day, 6:13:31
+[2025-05-16 14:25:10] Step 68600 | Loss: 8.1810 | LR: 0.0000939 | Images: 146345 | Data points: 2195176 | Time: 1 day, 6:16:10
+[2025-05-16 14:27:49] Step 68700 | Loss: 8.1228 | LR: 0.0000938 | Images: 146558 | Data points: 2198376 | Time: 1 day, 6:18:48
+[2025-05-16 14:30:28] Step 68800 | Loss: 8.0729 | LR: 0.0000936 | Images: 146771 | Data points: 2201576 | Time: 1 day, 6:21:28
+[2025-05-16 14:33:07] Step 68900 | Loss: 8.0581 | LR: 0.0000934 | Images: 146985 | Data points: 2204776 | Time: 1 day, 6:24:07
+[2025-05-16 14:35:45] Step 69000 | Loss: 8.1086 | LR: 0.0000932 | Images: 147198 | Data points: 2207976 | Time: 1 day, 6:26:45
+[2025-05-16 14:38:23] Step 69100 | Loss: 8.0983 | LR: 0.0000930 | Images: 147411 | Data points: 2211176 | Time: 1 day, 6:29:23
+[2025-05-16 14:41:02] Step 69200 | Loss: 8.0366 | LR: 0.0000928 | Images: 147625 | Data points: 2214376 | Time: 1 day, 6:32:01
+[2025-05-16 14:43:40] Step 69300 | Loss: 8.1693 | LR: 0.0000926 | Images: 147838 | Data points: 2217576 | Time: 1 day, 6:34:39
+[2025-05-16 14:45:55] Checkpoint metadata saved to ./working/checkpoints/checkpoint-148020-images_metadata.json
+[2025-05-16 14:45:55] Checkpoint saved at 148020 images / 2220312 datapoints
+[2025-05-16 14:46:18] Step 69400 | Loss: 8.1408 | LR: 0.0000924 | Images: 148051 | Data points: 2220776 | Time: 1 day, 6:37:17
+[2025-05-16 14:48:55] Step 69500 | Loss: 8.1213 | LR: 0.0000923 | Images: 148265 | Data points: 2223976 | Time: 1 day, 6:39:55
+[2025-05-16 14:51:33] Step 69600 | Loss: 8.1158 | LR: 0.0000921 | Images: 148478 | Data points: 2227176 | Time: 1 day, 6:42:33
+[2025-05-16 14:54:11] Step 69700 | Loss: 8.0747 | LR: 0.0000919 | Images: 148691 | Data points: 2230376 | Time: 1 day, 6:45:11
+[2025-05-16 14:56:49] Step 69800 | Loss: 8.0577 | LR: 0.0000917 | Images: 148905 | Data points: 2233576 | Time: 1 day, 6:47:48
+[2025-05-16 14:59:26] Step 69900 | Loss: 8.1447 | LR: 0.0000915 | Images: 149118 | Data points: 2236776 | Time: 1 day, 6:50:26
+[2025-05-16 15:02:04] Step 70000 | Loss: 8.0291 | LR: 0.0000913 | Images: 149331 | Data points: 2239976 | Time: 1 day, 6:53:04
+[2025-05-16 15:04:41] Step 70100 | Loss: 8.1039 | LR: 0.0000911 | Images: 149545 | Data points: 2243176 | Time: 1 day, 6:55:41
+[2025-05-16 15:07:19] Step 70200 | Loss: 8.1356 | LR: 0.0000909 | Images: 149758 | Data points: 2246376 | Time: 1 day, 6:58:18
+[2025-05-16 15:09:56] Step 70300 | Loss: 8.1189 | LR: 0.0000908 | Images: 149971 | Data points: 2249576 | Time: 1 day, 7:00:56
+[2025-05-16 15:10:34] Checkpoint metadata saved to ./working/checkpoints/checkpoint-150021-images_metadata.json
+[2025-05-16 15:10:34] Checkpoint saved at 150021 images / 2250320 datapoints
+[2025-05-16 15:12:35] Step 70400 | Loss: 8.1820 | LR: 0.0000906 | Images: 150185 | Data points: 2252776 | Time: 1 day, 7:03:35
+[2025-05-16 15:15:13] Step 70500 | Loss: 8.0706 | LR: 0.0000904 | Images: 150398 | Data points: 2255976 | Time: 1 day, 7:06:13
+[2025-05-16 15:17:50] Step 70600 | Loss: 8.1515 | LR: 0.0000902 | Images: 150611 | Data points: 2259176 | Time: 1 day, 7:08:50
+[2025-05-16 15:20:27] Step 70700 | Loss: 8.1134 | LR: 0.0000900 | Images: 150825 | Data points: 2262376 | Time: 1 day, 7:11:27
+[2025-05-16 15:23:05] Step 70800 | Loss: 8.1291 | LR: 0.0000898 | Images: 151038 | Data points: 2265576 | Time: 1 day, 7:14:04
+[2025-05-16 15:25:42] Step 70900 | Loss: 8.1695 | LR: 0.0000896 | Images: 151251 | Data points: 2268776 | Time: 1 day, 7:16:42
+[2025-05-16 15:28:19] Step 71000 | Loss: 8.1953 | LR: 0.0000894 | Images: 151465 | Data points: 2271976 | Time: 1 day, 7:19:19
+[2025-05-16 15:30:57] Step 71100 | Loss: 8.0275 | LR: 0.0000893 | Images: 151678 | Data points: 2275176 | Time: 1 day, 7:21:57
+[2025-05-16 15:33:35] Step 71200 | Loss: 8.1432 | LR: 0.0000891 | Images: 151891 | Data points: 2278376 | Time: 1 day, 7:24:34
+[2025-05-16 15:35:11] Checkpoint metadata saved to ./working/checkpoints/checkpoint-152021-images_metadata.json
+[2025-05-16 15:35:11] Checkpoint saved at 152021 images / 2280328 datapoints
+[2025-05-16 15:36:12] Step 71300 | Loss: 8.1000 | LR: 0.0000889 | Images: 152105 | Data points: 2281576 | Time: 1 day, 7:27:12
+[2025-05-16 15:38:51] Step 71400 | Loss: 8.1008 | LR: 0.0000887 | Images: 152318 | Data points: 2284776 | Time: 1 day, 7:29:50
+[2025-05-16 15:41:28] Step 71500 | Loss: 8.0816 | LR: 0.0000885 | Images: 152531 | Data points: 2287976 | Time: 1 day, 7:32:28
+[2025-05-16 15:44:06] Step 71600 | Loss: 8.1277 | LR: 0.0000883 | Images: 152745 | Data points: 2291176 | Time: 1 day, 7:35:06
+[2025-05-16 15:46:43] Step 71700 | Loss: 8.0385 | LR: 0.0000881 | Images: 152958 | Data points: 2294376 | Time: 1 day, 7:37:43
+[2025-05-16 15:49:21] Step 71800 | Loss: 8.1022 | LR: 0.0000880 | Images: 153171 | Data points: 2297576 | Time: 1 day, 7:40:21
+[2025-05-16 15:51:59] Step 71900 | Loss: 8.1487 | LR: 0.0000878 | Images: 153385 | Data points: 2300776 | Time: 1 day, 7:42:59
+[2025-05-16 15:54:38] Step 72000 | Loss: 8.1319 | LR: 0.0000876 | Images: 153598 | Data points: 2303976 | Time: 1 day, 7:45:38
+[2025-05-16 15:57:16] Step 72100 | Loss: 8.2410 | LR: 0.0000874 | Images: 153811 | Data points: 2307176 | Time: 1 day, 7:48:15
+[2025-05-16 15:59:52] Checkpoint metadata saved to ./working/checkpoints/checkpoint-154022-images_metadata.json
+[2025-05-16 15:59:52] Checkpoint saved at 154022 images / 2310336 datapoints
+[2025-05-16 15:59:54] Step 72200 | Loss: 8.0800 | LR: 0.0000872 | Images: 154025 | Data points: 2310376 | Time: 1 day, 7:50:53
+[2025-05-16 16:02:32] Step 72300 | Loss: 8.1687 | LR: 0.0000870 | Images: 154238 | Data points: 2313576 | Time: 1 day, 7:53:31
+[2025-05-16 16:05:11] Step 72400 | Loss: 8.1628 | LR: 0.0000868 | Images: 154451 | Data points: 2316776 | Time: 1 day, 7:56:10
+[2025-05-16 16:07:49] Step 72500 | Loss: 8.1509 | LR: 0.0000866 | Images: 154665 | Data points: 2319976 | Time: 1 day, 7:58:49
+[2025-05-16 16:10:26] Step 72600 | Loss: 8.1836 | LR: 0.0000865 | Images: 154878 | Data points: 2323176 | Time: 1 day, 8:01:26
+[2025-05-16 16:13:03] Step 72700 | Loss: 8.1610 | LR: 0.0000863 | Images: 155091 | Data points: 2326376 | Time: 1 day, 8:04:03
+[2025-05-16 16:15:40] Step 72800 | Loss: 8.0961 | LR: 0.0000861 | Images: 155305 | Data points: 2329576 | Time: 1 day, 8:06:39
+[2025-05-16 16:18:16] Step 72900 | Loss: 8.1481 | LR: 0.0000859 | Images: 155518 | Data points: 2332776 | Time: 1 day, 8:09:16
+[2025-05-16 16:20:53] Step 73000 | Loss: 8.0447 | LR: 0.0000857 | Images: 155731 | Data points: 2335976 | Time: 1 day, 8:11:53
+[2025-05-16 16:23:30] Step 73100 | Loss: 8.1080 | LR: 0.0000855 | Images: 155945 | Data points: 2339176 | Time: 1 day, 8:14:30
+[2025-05-16 16:24:27] Checkpoint metadata saved to ./working/checkpoints/checkpoint-156022-images_metadata.json
+[2025-05-16 16:24:27] Checkpoint saved at 156022 images / 2340344 datapoints
+[2025-05-16 16:26:07] Step 73200 | Loss: 8.1892 | LR: 0.0000853 | Images: 156158 | Data points: 2342376 | Time: 1 day, 8:17:06
+[2025-05-16 16:28:44] Step 73300 | Loss: 8.1349 | LR: 0.0000851 | Images: 156371 | Data points: 2345576 | Time: 1 day, 8:19:44
+[2025-05-16 16:31:22] Step 73400 | Loss: 8.1095 | LR: 0.0000850 | Images: 156585 | Data points: 2348776 | Time: 1 day, 8:22:21
+[2025-05-16 16:33:58] Step 73500 | Loss: 8.1440 | LR: 0.0000848 | Images: 156798 | Data points: 2351976 | Time: 1 day, 8:24:58
+[2025-05-16 16:36:35] Step 73600 | Loss: 8.0042 | LR: 0.0000846 | Images: 157011 | Data points: 2355176 | Time: 1 day, 8:27:35
+[2025-05-16 16:39:13] Step 73700 | Loss: 8.0776 | LR: 0.0000844 | Images: 157225 | Data points: 2358376 | Time: 1 day, 8:30:12
+[2025-05-16 16:41:49] Step 73800 | Loss: 8.0793 | LR: 0.0000842 | Images: 157438 | Data points: 2361576 | Time: 1 day, 8:32:49
+[2025-05-16 16:44:25] Step 73900 | Loss: 8.1548 | LR: 0.0000840 | Images: 157651 | Data points: 2364776 | Time: 1 day, 8:35:25
+[2025-05-16 16:47:01] Step 74000 | Loss: 8.0824 | LR: 0.0000838 | Images: 157865 | Data points: 2367976 | Time: 1 day, 8:38:01
+[2025-05-16 16:48:58] Checkpoint metadata saved to ./working/checkpoints/checkpoint-158023-images_metadata.json
+[2025-05-16 16:48:58] Checkpoint saved at 158023 images / 2370352 datapoints
+[2025-05-16 16:49:39] Step 74100 | Loss: 8.1365 | LR: 0.0000837 | Images: 158078 | Data points: 2371176 | Time: 1 day, 8:40:38
+[2025-05-16 16:52:15] Step 74200 | Loss: 8.1151 | LR: 0.0000835 | Images: 158291 | Data points: 2374376 | Time: 1 day, 8:43:15
+[2025-05-16 16:54:52] Step 74300 | Loss: 8.1619 | LR: 0.0000833 | Images: 158505 | Data points: 2377576 | Time: 1 day, 8:45:52
+[2025-05-16 16:57:30] Step 74400 | Loss: 8.1355 | LR: 0.0000831 | Images: 158718 | Data points: 2380776 | Time: 1 day, 8:48:30
+[2025-05-16 17:00:09] Step 74500 | Loss: 8.1226 | LR: 0.0000829 | Images: 158931 | Data points: 2383976 | Time: 1 day, 8:51:09
+[2025-05-16 17:02:47] Step 74600 | Loss: 8.0947 | LR: 0.0000827 | Images: 159145 | Data points: 2387176 | Time: 1 day, 8:53:47
+[2025-05-16 17:05:26] Step 74700 | Loss: 8.0792 | LR: 0.0000825 | Images: 159358 | Data points: 2390376 | Time: 1 day, 8:56:25
+[2025-05-16 17:08:03] Step 74800 | Loss: 8.1219 | LR: 0.0000823 | Images: 159571 | Data points: 2393576 | Time: 1 day, 8:59:03
+[2025-05-16 17:10:42] Step 74900 | Loss: 8.0170 | LR: 0.0000822 | Images: 159785 | Data points: 2396776 | Time: 1 day, 9:01:41
+[2025-05-16 17:13:20] Step 75000 | Loss: 8.1516 | LR: 0.0000820 | Images: 159998 | Data points: 2399976 | Time: 1 day, 9:04:20
+[2025-05-16 17:13:39] Checkpoint metadata saved to ./working/checkpoints/checkpoint-160024-images_metadata.json
+[2025-05-16 17:13:39] Checkpoint saved at 160024 images / 2400360 datapoints
+[2025-05-16 17:15:58] Step 75100 | Loss: 8.1155 | LR: 0.0000818 | Images: 160211 | Data points: 2403176 | Time: 1 day, 9:06:58
+[2025-05-16 17:18:36] Step 75200 | Loss: 8.1628 | LR: 0.0000816 | Images: 160425 | Data points: 2406376 | Time: 1 day, 9:09:36
+[2025-05-16 17:21:14] Step 75300 | Loss: 8.1582 | LR: 0.0000814 | Images: 160638 | Data points: 2409576 | Time: 1 day, 9:12:14
+[2025-05-16 17:23:51] Step 75400 | Loss: 8.0934 | LR: 0.0000812 | Images: 160851 | Data points: 2412776 | Time: 1 day, 9:14:51
+[2025-05-16 17:26:29] Step 75500 | Loss: 8.1354 | LR: 0.0000810 | Images: 161065 | Data points: 2415976 | Time: 1 day, 9:17:28
+[2025-05-16 17:29:06] Step 75600 | Loss: 8.2011 | LR: 0.0000808 | Images: 161278 | Data points: 2419176 | Time: 1 day, 9:20:06
+[2025-05-16 17:31:44] Step 75700 | Loss: 8.1195 | LR: 0.0000807 | Images: 161491 | Data points: 2422376 | Time: 1 day, 9:22:44
+[2025-05-16 17:34:22] Step 75800 | Loss: 8.1034 | LR: 0.0000805 | Images: 161705 | Data points: 2425576 | Time: 1 day, 9:25:21
+[2025-05-16 17:36:59] Step 75900 | Loss: 8.0440 | LR: 0.0000803 | Images: 161918 | Data points: 2428776 | Time: 1 day, 9:27:59
+[2025-05-16 17:38:18] Checkpoint metadata saved to ./working/checkpoints/checkpoint-162024-images_metadata.json
+[2025-05-16 17:38:18] Checkpoint saved at 162024 images / 2430368 datapoints
+[2025-05-16 17:39:38] Step 76000 | Loss: 8.0952 | LR: 0.0000801 | Images: 162131 | Data points: 2431976 | Time: 1 day, 9:30:37
+[2025-05-16 17:42:15] Step 76100 | Loss: 8.1492 | LR: 0.0000799 | Images: 162345 | Data points: 2435176 | Time: 1 day, 9:33:15
+[2025-05-16 17:44:51] Step 76200 | Loss: 8.1196 | LR: 0.0000797 | Images: 162558 | Data points: 2438376 | Time: 1 day, 9:35:51
+[2025-05-16 17:47:25] Step 76300 | Loss: 8.1535 | LR: 0.0000795 | Images: 162771 | Data points: 2441576 | Time: 1 day, 9:38:24
+[2025-05-16 17:49:58] Step 76400 | Loss: 8.0534 | LR: 0.0000794 | Images: 162985 | Data points: 2444776 | Time: 1 day, 9:40:58
+[2025-05-16 17:52:32] Step 76500 | Loss: 8.1642 | LR: 0.0000792 | Images: 163198 | Data points: 2447976 | Time: 1 day, 9:43:31
+[2025-05-16 17:55:05] Step 76600 | Loss: 8.1436 | LR: 0.0000790 | Images: 163411 | Data points: 2451176 | Time: 1 day, 9:46:05
+[2025-05-16 17:57:38] Step 76700 | Loss: 8.1632 | LR: 0.0000788 | Images: 163625 | Data points: 2454376 | Time: 1 day, 9:48:38
+[2025-05-16 18:00:11] Step 76800 | Loss: 8.1358 | LR: 0.0000786 | Images: 163838 | Data points: 2457576 | Time: 1 day, 9:51:11
+[2025-05-16 18:02:27] Checkpoint metadata saved to ./working/checkpoints/checkpoint-164025-images_metadata.json
+[2025-05-16 18:02:27] Checkpoint saved at 164025 images / 2460376 datapoints
+[2025-05-16 18:02:46] Step 76900 | Loss: 7.9760 | LR: 0.0000784 | Images: 164051 | Data points: 2460776 | Time: 1 day, 9:53:46
+[2025-05-16 18:05:19] Step 77000 | Loss: 8.2015 | LR: 0.0000782 | Images: 164265 | Data points: 2463976 | Time: 1 day, 9:56:19
+[2025-05-16 18:07:52] Step 77100 | Loss: 8.0115 | LR: 0.0000780 | Images: 164478 | Data points: 2467176 | Time: 1 day, 9:58:52
+[2025-05-16 18:10:25] Step 77200 | Loss: 8.1647 | LR: 0.0000779 | Images: 164691 | Data points: 2470376 | Time: 1 day, 10:01:25
+[2025-05-16 18:12:59] Step 77300 | Loss: 8.0948 | LR: 0.0000777 | Images: 164905 | Data points: 2473576 | Time: 1 day, 10:03:59
+[2025-05-16 18:15:33] Step 77400 | Loss: 8.1086 | LR: 0.0000775 | Images: 165118 | Data points: 2476776 | Time: 1 day, 10:06:32
+[2025-05-16 18:18:07] Step 77500 | Loss: 8.1686 | LR: 0.0000773 | Images: 165331 | Data points: 2479976 | Time: 1 day, 10:09:06
+[2025-05-16 18:20:40] Step 77600 | Loss: 8.1463 | LR: 0.0000771 | Images: 165545 | Data points: 2483176 | Time: 1 day, 10:11:40
+[2025-05-16 18:23:15] Step 77700 | Loss: 8.1333 | LR: 0.0000769 | Images: 165758 | Data points: 2486376 | Time: 1 day, 10:14:15
+[2025-05-16 18:25:50] Step 77800 | Loss: 8.1725 | LR: 0.0000767 | Images: 165971 | Data points: 2489576 | Time: 1 day, 10:16:50
+[2025-05-16 18:26:30] Checkpoint metadata saved to ./working/checkpoints/checkpoint-166025-images_metadata.json
+[2025-05-16 18:26:30] Checkpoint saved at 166025 images / 2490384 datapoints
+[2025-05-16 18:28:26] Step 77900 | Loss: 8.1418 | LR: 0.0000765 | Images: 166185 | Data points: 2492776 | Time: 1 day, 10:19:25
+[2025-05-16 18:31:01] Step 78000 | Loss: 8.1343 | LR: 0.0000764 | Images: 166398 | Data points: 2495976 | Time: 1 day, 10:22:01
+[2025-05-16 18:33:37] Step 78100 | Loss: 8.0063 | LR: 0.0000762 | Images: 166611 | Data points: 2499176 | Time: 1 day, 10:24:36
+[2025-05-16 18:36:11] Step 78200 | Loss: 8.1040 | LR: 0.0000760 | Images: 166825 | Data points: 2502376 | Time: 1 day, 10:27:11
+[2025-05-16 18:38:46] Step 78300 | Loss: 8.1723 | LR: 0.0000758 | Images: 167038 | Data points: 2505576 | Time: 1 day, 10:29:45
+[2025-05-16 18:41:20] Step 78400 | Loss: 8.1654 | LR: 0.0000756 | Images: 167251 | Data points: 2508776 | Time: 1 day, 10:32:20
+[2025-05-16 18:43:56] Step 78500 | Loss: 8.1210 | LR: 0.0000754 | Images: 167465 | Data points: 2511976 | Time: 1 day, 10:34:56
+[2025-05-16 18:46:35] Step 78600 | Loss: 8.1515 | LR: 0.0000752 | Images: 167678 | Data points: 2515176 | Time: 1 day, 10:37:34
+[2025-05-16 18:49:10] Step 78700 | Loss: 8.0838 | LR: 0.0000751 | Images: 167891 | Data points: 2518376 | Time: 1 day, 10:40:10
+[2025-05-16 18:50:47] Checkpoint metadata saved to ./working/checkpoints/checkpoint-168026-images_metadata.json
+[2025-05-16 18:50:47] Checkpoint saved at 168026 images / 2520392 datapoints
+[2025-05-16 18:51:44] Step 78800 | Loss: 8.1492 | LR: 0.0000749 | Images: 168105 | Data points: 2521576 | Time: 1 day, 10:42:44
+[2025-05-16 18:54:17] Step 78900 | Loss: 8.0333 | LR: 0.0000747 | Images: 168318 | Data points: 2524776 | Time: 1 day, 10:45:17
+[2025-05-16 18:56:50] Step 79000 | Loss: 8.1326 | LR: 0.0000745 | Images: 168531 | Data points: 2527976 | Time: 1 day, 10:47:50
+[2025-05-16 18:59:22] Step 79100 | Loss: 8.1262 | LR: 0.0000743 | Images: 168745 | Data points: 2531176 | Time: 1 day, 10:50:22
+[2025-05-16 19:01:54] Step 79200 | Loss: 8.0873 | LR: 0.0000741 | Images: 168958 | Data points: 2534376 | Time: 1 day, 10:52:54
+[2025-05-16 19:15:12] Epoch 2/3 completed in 17:31:40 | Train Loss: 8.1265 | Val Loss: 8.1249 | Images: 169008 | Datapoints: 2535120
+[2025-05-16 19:15:12] Checkpoint metadata saved to ./working/checkpoints/checkpoint-epoch-2_metadata.json
+[2025-05-16 19:15:12] Checkpoint metadata saved to ./working/checkpoints/best_model_metadata.json
+[2025-05-16 19:15:12] New best model saved with validation loss: 8.1249
+[2025-05-16 19:17:17] Step 79300 | Loss: 8.1048 | LR: 0.0000739 | Images: 169170 | Data points: 2537552 | Time: 1 day, 11:08:16
+[2025-05-16 19:19:50] Step 79400 | Loss: 8.1263 | LR: 0.0000737 | Images: 169383 | Data points: 2540752 | Time: 1 day, 11:10:49
+[2025-05-16 19:22:23] Step 79500 | Loss: 8.1091 | LR: 0.0000736 | Images: 169596 | Data points: 2543952 | Time: 1 day, 11:13:23
+[2025-05-16 19:24:56] Step 79600 | Loss: 8.1610 | LR: 0.0000734 | Images: 169810 | Data points: 2547152 | Time: 1 day, 11:15:56
+[2025-05-16 19:27:30] Step 79700 | Loss: 8.0880 | LR: 0.0000732 | Images: 170023 | Data points: 2550352 | Time: 1 day, 11:18:30
+[2025-05-16 19:27:33] Checkpoint metadata saved to ./working/checkpoints/checkpoint-170026-images_metadata.json
+[2025-05-16 19:27:33] Checkpoint saved at 170026 images / 2550400 datapoints
+[2025-05-16 19:30:05] Step 79800 | Loss: 8.1534 | LR: 0.0000730 | Images: 170236 | Data points: 2553552 | Time: 1 day, 11:21:05
+[2025-05-16 19:32:39] Step 79900 | Loss: 8.0930 | LR: 0.0000728 | Images: 170450 | Data points: 2556752 | Time: 1 day, 11:23:39
+[2025-05-16 19:35:13] Step 80000 | Loss: 8.1740 | LR: 0.0000726 | Images: 170663 | Data points: 2559952 | Time: 1 day, 11:26:13
+[2025-05-16 19:37:47] Step 80100 | Loss: 8.1069 | LR: 0.0000724 | Images: 170876 | Data points: 2563152 | Time: 1 day, 11:28:47
+[2025-05-16 19:40:20] Step 80200 | Loss: 8.1770 | LR: 0.0000722 | Images: 171090 | Data points: 2566352 | Time: 1 day, 11:31:20
+[2025-05-16 19:42:54] Step 80300 | Loss: 8.1226 | LR: 0.0000721 | Images: 171303 | Data points: 2569552 | Time: 1 day, 11:33:54
+[2025-05-16 19:45:28] Step 80400 | Loss: 8.0888 | LR: 0.0000719 | Images: 171516 | Data points: 2572752 | Time: 1 day, 11:36:27
+[2025-05-16 19:48:01] Step 80500 | Loss: 8.1269 | LR: 0.0000717 | Images: 171730 | Data points: 2575952 | Time: 1 day, 11:39:01
+[2025-05-16 19:50:35] Step 80600 | Loss: 8.1345 | LR: 0.0000715 | Images: 171943 | Data points: 2579152 | Time: 1 day, 11:41:34
+[2025-05-16 19:51:40] Checkpoint metadata saved to ./working/checkpoints/checkpoint-172027-images_metadata.json
+[2025-05-16 19:51:40] Checkpoint saved at 172027 images / 2580408 datapoints
+[2025-05-16 19:53:19] Step 80700 | Loss: 8.0961 | LR: 0.0000713 | Images: 172156 | Data points: 2582352 | Time: 1 day, 11:44:19
+[2025-05-16 19:55:54] Step 80800 | Loss: 8.0886 | LR: 0.0000711 | Images: 172370 | Data points: 2585552 | Time: 1 day, 11:46:53
+[2025-05-16 19:58:27] Step 80900 | Loss: 8.1618 | LR: 0.0000709 | Images: 172583 | Data points: 2588752 | Time: 1 day, 11:49:26
+[2025-05-16 20:01:00] Step 81000 | Loss: 8.1414 | LR: 0.0000707 | Images: 172796 | Data points: 2591952 | Time: 1 day, 11:52:00
+[2025-05-16 20:03:33] Step 81100 | Loss: 8.0796 | LR: 0.0000706 | Images: 173010 | Data points: 2595152 | Time: 1 day, 11:54:33
+[2025-05-16 20:06:06] Step 81200 | Loss: 8.0500 | LR: 0.0000704 | Images: 173223 | Data points: 2598352 | Time: 1 day, 11:57:06
+[2025-05-16 20:08:39] Step 81300 | Loss: 8.1283 | LR: 0.0000702 | Images: 173436 | Data points: 2601552 | Time: 1 day, 11:59:39
+[2025-05-16 20:11:13] Step 81400 | Loss: 8.1096 | LR: 0.0000700 | Images: 173650 | Data points: 2604752 | Time: 1 day, 12:02:12
+[2025-05-16 20:13:45] Step 81500 | Loss: 8.1564 | LR: 0.0000698 | Images: 173863 | Data points: 2607952 | Time: 1 day, 12:04:45
+[2025-05-16 20:15:43] Checkpoint metadata saved to ./working/checkpoints/checkpoint-174027-images_metadata.json
+[2025-05-16 20:15:43] Checkpoint saved at 174027 images / 2610416 datapoints
+[2025-05-16 20:16:18] Step 81600 | Loss: 8.1185 | LR: 0.0000696 | Images: 174076 | Data points: 2611152 | Time: 1 day, 12:07:18
+[2025-05-16 20:18:51] Step 81700 | Loss: 8.1523 | LR: 0.0000694 | Images: 174290 | Data points: 2614352 | Time: 1 day, 12:09:51
+[2025-05-16 20:21:25] Step 81800 | Loss: 8.1771 | LR: 0.0000693 | Images: 174503 | Data points: 2617552 | Time: 1 day, 12:12:24
+[2025-05-16 20:23:58] Step 81900 | Loss: 8.1931 | LR: 0.0000691 | Images: 174716 | Data points: 2620752 | Time: 1 day, 12:14:57
+[2025-05-16 20:26:31] Step 82000 | Loss: 8.0146 | LR: 0.0000689 | Images: 174930 | Data points: 2623952 | Time: 1 day, 12:17:30
+[2025-05-16 20:29:04] Step 82100 | Loss: 8.0735 | LR: 0.0000687 | Images: 175143 | Data points: 2627152 | Time: 1 day, 12:20:04
+[2025-05-16 20:31:38] Step 82200 | Loss: 8.1631 | LR: 0.0000685 | Images: 175356 | Data points: 2630352 | Time: 1 day, 12:22:38
+[2025-05-16 20:34:12] Step 82300 | Loss: 8.1349 | LR: 0.0000683 | Images: 175570 | Data points: 2633552 | Time: 1 day, 12:25:12
+[2025-05-16 20:36:46] Step 82400 | Loss: 8.0230 | LR: 0.0000681 | Images: 175783 | Data points: 2636752 | Time: 1 day, 12:27:46
+[2025-05-16 20:39:20] Step 82500 | Loss: 8.1721 | LR: 0.0000679 | Images: 175996 | Data points: 2639952 | Time: 1 day, 12:30:20
+[2025-05-16 20:39:44] Checkpoint metadata saved to ./working/checkpoints/checkpoint-176028-images_metadata.json
+[2025-05-16 20:39:44] Checkpoint saved at 176028 images / 2640424 datapoints
+[2025-05-16 20:41:55] Step 82600 | Loss: 8.0420 | LR: 0.0000678 | Images: 176210 | Data points: 2643152 | Time: 1 day, 12:32:54
+[2025-05-16 20:44:28] Step 82700 | Loss: 8.0641 | LR: 0.0000676 | Images: 176423 | Data points: 2646352 | Time: 1 day, 12:35:27
+[2025-05-16 20:47:01] Step 82800 | Loss: 8.1400 | LR: 0.0000674 | Images: 176636 | Data points: 2649552 | Time: 1 day, 12:38:01
+[2025-05-16 20:49:35] Step 82900 | Loss: 8.0113 | LR: 0.0000672 | Images: 176850 | Data points: 2652752 | Time: 1 day, 12:40:35
+[2025-05-16 20:52:09] Step 83000 | Loss: 8.1055 | LR: 0.0000670 | Images: 177063 | Data points: 2655952 | Time: 1 day, 12:43:08
+[2025-05-16 20:54:43] Step 83100 | Loss: 8.0901 | LR: 0.0000668 | Images: 177276 | Data points: 2659152 | Time: 1 day, 12:45:42
+[2025-05-16 20:57:16] Step 83200 | Loss: 8.0857 | LR: 0.0000666 | Images: 177490 | Data points: 2662352 | Time: 1 day, 12:48:16
+[2025-05-16 20:59:49] Step 83300 | Loss: 8.1969 | LR: 0.0000664 | Images: 177703 | Data points: 2665552 | Time: 1 day, 12:50:49
+[2025-05-16 21:02:23] Step 83400 | Loss: 8.1153 | LR: 0.0000663 | Images: 177916 | Data points: 2668752 | Time: 1 day, 12:53:23
+[2025-05-16 21:03:44] Checkpoint metadata saved to ./working/checkpoints/checkpoint-178028-images_metadata.json
+[2025-05-16 21:03:44] Checkpoint saved at 178028 images / 2670432 datapoints
+[2025-05-16 21:04:56] Step 83500 | Loss: 8.0561 | LR: 0.0000661 | Images: 178130 | Data points: 2671952 | Time: 1 day, 12:55:56
+[2025-05-16 21:07:29] Step 83600 | Loss: 8.0888 | LR: 0.0000659 | Images: 178343 | Data points: 2675152 | Time: 1 day, 12:58:29
+[2025-05-16 21:10:02] Step 83700 | Loss: 8.0810 | LR: 0.0000657 | Images: 178556 | Data points: 2678352 | Time: 1 day, 13:01:02
+[2025-05-16 21:12:34] Step 83800 | Loss: 8.1088 | LR: 0.0000655 | Images: 178770 | Data points: 2681552 | Time: 1 day, 13:03:34
+[2025-05-16 21:15:08] Step 83900 | Loss: 8.0614 | LR: 0.0000653 | Images: 178983 | Data points: 2684752 | Time: 1 day, 13:06:08
+[2025-05-16 21:17:41] Step 84000 | Loss: 8.1086 | LR: 0.0000651 | Images: 179196 | Data points: 2687952 | Time: 1 day, 13:08:41
+[2025-05-16 21:20:14] Step 84100 | Loss: 8.1697 | LR: 0.0000650 | Images: 179410 | Data points: 2691152 | Time: 1 day, 13:11:14
+[2025-05-16 21:22:46] Step 84200 | Loss: 8.0977 | LR: 0.0000648 | Images: 179623 | Data points: 2694352 | Time: 1 day, 13:13:46
+[2025-05-16 21:25:19] Step 84300 | Loss: 8.1852 | LR: 0.0000646 | Images: 179836 | Data points: 2697552 | Time: 1 day, 13:16:19
+[2025-05-16 21:27:42] Checkpoint metadata saved to ./working/checkpoints/checkpoint-180029-images_metadata.json
+[2025-05-16 21:27:42] Checkpoint saved at 180029 images / 2700440 datapoints
+[2025-05-16 21:27:57] Step 84400 | Loss: 8.1423 | LR: 0.0000644 | Images: 180050 | Data points: 2700752 | Time: 1 day, 13:18:57
+[2025-05-16 21:30:30] Step 84500 | Loss: 8.1577 | LR: 0.0000642 | Images: 180263 | Data points: 2703952 | Time: 1 day, 13:21:29
+[2025-05-16 21:33:02] Step 84600 | Loss: 8.1372 | LR: 0.0000640 | Images: 180476 | Data points: 2707152 | Time: 1 day, 13:24:02
+[2025-05-16 21:35:36] Step 84700 | Loss: 8.1412 | LR: 0.0000638 | Images: 180690 | Data points: 2710352 | Time: 1 day, 13:26:35
+[2025-05-16 21:38:09] Step 84800 | Loss: 8.0590 | LR: 0.0000636 | Images: 180903 | Data points: 2713552 | Time: 1 day, 13:29:09
+[2025-05-16 21:40:42] Step 84900 | Loss: 8.1743 | LR: 0.0000635 | Images: 181116 | Data points: 2716752 | Time: 1 day, 13:31:42
+[2025-05-16 21:43:16] Step 85000 | Loss: 8.1619 | LR: 0.0000633 | Images: 181330 | Data points: 2719952 | Time: 1 day, 13:34:16
+[2025-05-16 21:45:50] Step 85100 | Loss: 8.1804 | LR: 0.0000631 | Images: 181543 | Data points: 2723152 | Time: 1 day, 13:36:49
+[2025-05-16 21:48:23] Step 85200 | Loss: 8.1409 | LR: 0.0000629 | Images: 181756 | Data points: 2726352 | Time: 1 day, 13:39:23
+[2025-05-16 21:50:57] Step 85300 | Loss: 8.0529 | LR: 0.0000627 | Images: 181970 | Data points: 2729552 | Time: 1 day, 13:41:56
+[2025-05-16 21:51:40] Checkpoint metadata saved to ./working/checkpoints/checkpoint-182029-images_metadata.json
+[2025-05-16 21:51:40] Checkpoint saved at 182029 images / 2730448 datapoints
+[2025-05-16 21:53:30] Step 85400 | Loss: 8.1192 | LR: 0.0000625 | Images: 182183 | Data points: 2732752 | Time: 1 day, 13:44:30
+[2025-05-16 21:56:03] Step 85500 | Loss: 8.0744 | LR: 0.0000623 | Images: 182396 | Data points: 2735952 | Time: 1 day, 13:47:03
+[2025-05-16 21:58:36] Step 85600 | Loss: 8.1008 | LR: 0.0000621 | Images: 182610 | Data points: 2739152 | Time: 1 day, 13:49:36
+[2025-05-16 22:01:09] Step 85700 | Loss: 8.1960 | LR: 0.0000620 | Images: 182823 | Data points: 2742352 | Time: 1 day, 13:52:09
+[2025-05-16 22:03:42] Step 85800 | Loss: 8.1523 | LR: 0.0000618 | Images: 183036 | Data points: 2745552 | Time: 1 day, 13:54:41
+[2025-05-16 22:06:14] Step 85900 | Loss: 8.2153 | LR: 0.0000616 | Images: 183250 | Data points: 2748752 | Time: 1 day, 13:57:14
+[2025-05-16 22:08:47] Step 86000 | Loss: 8.1036 | LR: 0.0000614 | Images: 183463 | Data points: 2751952 | Time: 1 day, 13:59:47
+[2025-05-16 22:11:20] Step 86100 | Loss: 8.1476 | LR: 0.0000612 | Images: 183676 | Data points: 2755152 | Time: 1 day, 14:02:20
+[2025-05-16 22:13:52] Step 86200 | Loss: 8.1552 | LR: 0.0000610 | Images: 183890 | Data points: 2758352 | Time: 1 day, 14:04:52
+[2025-05-16 22:15:33] Checkpoint metadata saved to ./working/checkpoints/checkpoint-184030-images_metadata.json
+[2025-05-16 22:15:33] Checkpoint saved at 184030 images / 2760456 datapoints
+[2025-05-16 22:16:25] Step 86300 | Loss: 8.1398 | LR: 0.0000608 | Images: 184103 | Data points: 2761552 | Time: 1 day, 14:07:25
+[2025-05-16 22:18:58] Step 86400 | Loss: 8.0752 | LR: 0.0000607 | Images: 184316 | Data points: 2764752 | Time: 1 day, 14:09:57
+[2025-05-16 22:21:30] Step 86500 | Loss: 8.1830 | LR: 0.0000605 | Images: 184530 | Data points: 2767952 | Time: 1 day, 14:12:30
+[2025-05-16 22:24:03] Step 86600 | Loss: 8.1344 | LR: 0.0000603 | Images: 184743 | Data points: 2771152 | Time: 1 day, 14:15:03
+[2025-05-16 22:26:35] Step 86700 | Loss: 8.1288 | LR: 0.0000601 | Images: 184956 | Data points: 2774352 | Time: 1 day, 14:17:35
+[2025-05-16 22:29:08] Step 86800 | Loss: 8.1014 | LR: 0.0000599 | Images: 185170 | Data points: 2777552 | Time: 1 day, 14:20:08
+[2025-05-16 22:31:41] Step 86900 | Loss: 8.0822 | LR: 0.0000597 | Images: 185383 | Data points: 2780752 | Time: 1 day, 14:22:40
+[2025-05-16 22:34:13] Step 87000 | Loss: 8.0753 | LR: 0.0000595 | Images: 185596 | Data points: 2783952 | Time: 1 day, 14:25:13
+[2025-05-16 22:36:46] Step 87100 | Loss: 8.1505 | LR: 0.0000593 | Images: 185810 | Data points: 2787152 | Time: 1 day, 14:27:46
+[2025-05-16 22:39:20] Step 87200 | Loss: 8.0500 | LR: 0.0000592 | Images: 186023 | Data points: 2790352 | Time: 1 day, 14:30:20
+[2025-05-16 22:39:26] Checkpoint metadata saved to ./working/checkpoints/checkpoint-186030-images_metadata.json
+[2025-05-16 22:39:26] Checkpoint saved at 186030 images / 2790464 datapoints
+[2025-05-16 22:41:54] Step 87300 | Loss: 8.1418 | LR: 0.0000590 | Images: 186236 | Data points: 2793552 | Time: 1 day, 14:32:54
+[2025-05-16 22:44:28] Step 87400 | Loss: 8.1570 | LR: 0.0000588 | Images: 186450 | Data points: 2796752 | Time: 1 day, 14:35:28
+[2025-05-16 22:47:01] Step 87500 | Loss: 8.1066 | LR: 0.0000586 | Images: 186663 | Data points: 2799952 | Time: 1 day, 14:38:01
+[2025-05-16 22:49:35] Step 87600 | Loss: 8.1710 | LR: 0.0000584 | Images: 186876 | Data points: 2803152 | Time: 1 day, 14:40:35
+[2025-05-16 22:52:08] Step 87700 | Loss: 7.9722 | LR: 0.0000582 | Images: 187090 | Data points: 2806352 | Time: 1 day, 14:43:08
+[2025-05-16 22:54:41] Step 87800 | Loss: 7.9828 | LR: 0.0000580 | Images: 187303 | Data points: 2809552 | Time: 1 day, 14:45:41
+[2025-05-16 22:57:14] Step 87900 | Loss: 8.1861 | LR: 0.0000578 | Images: 187516 | Data points: 2812752 | Time: 1 day, 14:48:14
+[2025-05-16 22:59:47] Step 88000 | Loss: 8.1272 | LR: 0.0000577 | Images: 187730 | Data points: 2815952 | Time: 1 day, 14:50:47
+[2025-05-16 23:02:20] Step 88100 | Loss: 8.1860 | LR: 0.0000575 | Images: 187943 | Data points: 2819152 | Time: 1 day, 14:53:20
+[2025-05-16 23:03:24] Checkpoint metadata saved to ./working/checkpoints/checkpoint-188031-images_metadata.json
+[2025-05-16 23:03:24] Checkpoint saved at 188031 images / 2820472 datapoints
+[2025-05-16 23:04:54] Step 88200 | Loss: 8.1096 | LR: 0.0000573 | Images: 188156 | Data points: 2822352 | Time: 1 day, 14:55:54
+[2025-05-16 23:07:27] Step 88300 | Loss: 8.1311 | LR: 0.0000571 | Images: 188370 | Data points: 2825552 | Time: 1 day, 14:58:27
+[2025-05-16 23:09:59] Step 88400 | Loss: 8.1364 | LR: 0.0000569 | Images: 188583 | Data points: 2828752 | Time: 1 day, 15:00:59
+[2025-05-16 23:12:31] Step 88500 | Loss: 8.0965 | LR: 0.0000567 | Images: 188796 | Data points: 2831952 | Time: 1 day, 15:03:31
+[2025-05-16 23:15:04] Step 88600 | Loss: 8.2100 | LR: 0.0000565 | Images: 189010 | Data points: 2835152 | Time: 1 day, 15:06:04
+[2025-05-16 23:17:37] Step 88700 | Loss: 8.1337 | LR: 0.0000563 | Images: 189223 | Data points: 2838352 | Time: 1 day, 15:08:37
+[2025-05-16 23:20:10] Step 88800 | Loss: 8.1468 | LR: 0.0000562 | Images: 189436 | Data points: 2841552 | Time: 1 day, 15:11:10
+[2025-05-16 23:22:43] Step 88900 | Loss: 8.1051 | LR: 0.0000560 | Images: 189650 | Data points: 2844752 | Time: 1 day, 15:13:43
+[2025-05-16 23:25:17] Step 89000 | Loss: 8.1110 | LR: 0.0000558 | Images: 189863 | Data points: 2847952 | Time: 1 day, 15:16:16
+[2025-05-16 23:27:18] Checkpoint metadata saved to ./working/checkpoints/checkpoint-190031-images_metadata.json
+[2025-05-16 23:27:18] Checkpoint saved at 190031 images / 2850480 datapoints
+[2025-05-16 23:27:50] Step 89100 | Loss: 8.1698 | LR: 0.0000556 | Images: 190076 | Data points: 2851152 | Time: 1 day, 15:18:50
+[2025-05-16 23:30:22] Step 89200 | Loss: 8.1335 | LR: 0.0000554 | Images: 190290 | Data points: 2854352 | Time: 1 day, 15:21:22
+[2025-05-16 23:32:55] Step 89300 | Loss: 8.0285 | LR: 0.0000552 | Images: 190503 | Data points: 2857552 | Time: 1 day, 15:23:55
+[2025-05-16 23:35:28] Step 89400 | Loss: 8.1271 | LR: 0.0000550 | Images: 190716 | Data points: 2860752 | Time: 1 day, 15:26:28
+[2025-05-16 23:38:01] Step 89500 | Loss: 8.1584 | LR: 0.0000549 | Images: 190930 | Data points: 2863952 | Time: 1 day, 15:29:01
+[2025-05-16 23:40:35] Step 89600 | Loss: 8.0752 | LR: 0.0000547 | Images: 191143 | Data points: 2867152 | Time: 1 day, 15:31:34
+[2025-05-16 23:43:08] Step 89700 | Loss: 8.1482 | LR: 0.0000545 | Images: 191356 | Data points: 2870352 | Time: 1 day, 15:34:08
+[2025-05-16 23:45:42] Step 89800 | Loss: 8.1186 | LR: 0.0000543 | Images: 191570 | Data points: 2873552 | Time: 1 day, 15:36:42
+[2025-05-16 23:48:23] Step 89900 | Loss: 8.1247 | LR: 0.0000541 | Images: 191783 | Data points: 2876752 | Time: 1 day, 15:39:23
+[2025-05-16 23:51:02] Step 90000 | Loss: 8.1029 | LR: 0.0000539 | Images: 191996 | Data points: 2879952 | Time: 1 day, 15:42:02
+[2025-05-16 23:51:28] Checkpoint metadata saved to ./working/checkpoints/checkpoint-192032-images_metadata.json
+[2025-05-16 23:51:28] Checkpoint saved at 192032 images / 2880488 datapoints
+[2025-05-16 23:53:36] Step 90100 | Loss: 8.0555 | LR: 0.0000537 | Images: 192210 | Data points: 2883152 | Time: 1 day, 15:44:36
+[2025-05-16 23:56:10] Step 90200 | Loss: 8.1879 | LR: 0.0000535 | Images: 192423 | Data points: 2886352 | Time: 1 day, 15:47:10
+[2025-05-16 23:58:45] Step 90300 | Loss: 8.1255 | LR: 0.0000534 | Images: 192636 | Data points: 2889552 | Time: 1 day, 15:49:45
+[2025-05-17 00:01:19] Step 90400 | Loss: 8.1261 | LR: 0.0000532 | Images: 192850 | Data points: 2892752 | Time: 1 day, 15:52:19
+[2025-05-17 00:03:53] Step 90500 | Loss: 8.1800 | LR: 0.0000530 | Images: 193063 | Data points: 2895952 | Time: 1 day, 15:54:52
+[2025-05-17 00:06:26] Step 90600 | Loss: 8.1829 | LR: 0.0000528 | Images: 193276 | Data points: 2899152 | Time: 1 day, 15:57:26
+[2025-05-17 00:08:59] Step 90700 | Loss: 8.1247 | LR: 0.0000526 | Images: 193490 | Data points: 2902352 | Time: 1 day, 15:59:59
+[2025-05-17 00:11:33] Step 90800 | Loss: 8.1261 | LR: 0.0000524 | Images: 193703 | Data points: 2905552 | Time: 1 day, 16:02:32
+[2025-05-17 00:14:06] Step 90900 | Loss: 8.1396 | LR: 0.0000522 | Images: 193916 | Data points: 2908752 | Time: 1 day, 16:05:05
+[2025-05-17 00:15:29] Checkpoint metadata saved to ./working/checkpoints/checkpoint-194033-images_metadata.json
+[2025-05-17 00:15:29] Checkpoint saved at 194033 images / 2910496 datapoints
+[2025-05-17 00:16:39] Step 91000 | Loss: 8.1414 | LR: 0.0000520 | Images: 194130 | Data points: 2911952 | Time: 1 day, 16:07:39
+[2025-05-17 00:19:12] Step 91100 | Loss: 8.1070 | LR: 0.0000519 | Images: 194343 | Data points: 2915152 | Time: 1 day, 16:10:12
+[2025-05-17 00:21:45] Step 91200 | Loss: 8.2023 | LR: 0.0000517 | Images: 194556 | Data points: 2918352 | Time: 1 day, 16:12:45
+[2025-05-17 00:24:18] Step 91300 | Loss: 8.1593 | LR: 0.0000515 | Images: 194770 | Data points: 2921552 | Time: 1 day, 16:15:17
+[2025-05-17 00:26:50] Step 91400 | Loss: 8.1461 | LR: 0.0000513 | Images: 194983 | Data points: 2924752 | Time: 1 day, 16:17:50
+[2025-05-17 00:29:23] Step 91500 | Loss: 8.1899 | LR: 0.0000511 | Images: 195196 | Data points: 2927952 | Time: 1 day, 16:20:23
+[2025-05-17 00:31:56] Step 91600 | Loss: 8.1584 | LR: 0.0000509 | Images: 195410 | Data points: 2931152 | Time: 1 day, 16:22:56
+[2025-05-17 00:34:30] Step 91700 | Loss: 8.1443 | LR: 0.0000507 | Images: 195623 | Data points: 2934352 | Time: 1 day, 16:25:29
+[2025-05-17 00:37:03] Step 91800 | Loss: 8.1598 | LR: 0.0000506 | Images: 195836 | Data points: 2937552 | Time: 1 day, 16:28:02
+[2025-05-17 00:39:25] Checkpoint metadata saved to ./working/checkpoints/checkpoint-196033-images_metadata.json
+[2025-05-17 00:39:25] Checkpoint saved at 196033 images / 2940504 datapoints
+[2025-05-17 00:39:37] Step 91900 | Loss: 8.1856 | LR: 0.0000504 | Images: 196050 | Data points: 2940752 | Time: 1 day, 16:30:36
+[2025-05-17 00:42:10] Step 92000 | Loss: 8.1102 | LR: 0.0000502 | Images: 196263 | Data points: 2943952 | Time: 1 day, 16:33:10
+[2025-05-17 00:44:44] Step 92100 | Loss: 8.1007 | LR: 0.0000500 | Images: 196476 | Data points: 2947152 | Time: 1 day, 16:35:44
+[2025-05-17 00:47:18] Step 92200 | Loss: 8.1643 | LR: 0.0000498 | Images: 196690 | Data points: 2950352 | Time: 1 day, 16:38:18
+[2025-05-17 00:49:52] Step 92300 | Loss: 8.1560 | LR: 0.0000496 | Images: 196903 | Data points: 2953552 | Time: 1 day, 16:40:52
+[2025-05-17 00:52:27] Step 92400 | Loss: 8.1456 | LR: 0.0000494 | Images: 197116 | Data points: 2956752 | Time: 1 day, 16:43:26
+[2025-05-17 00:55:01] Step 92500 | Loss: 8.1309 | LR: 0.0000492 | Images: 197330 | Data points: 2959952 | Time: 1 day, 16:46:00
+[2025-05-17 00:57:34] Step 92600 | Loss: 8.1645 | LR: 0.0000491 | Images: 197543 | Data points: 2963152 | Time: 1 day, 16:48:34
+[2025-05-17 01:00:08] Step 92700 | Loss: 8.0907 | LR: 0.0000489 | Images: 197756 | Data points: 2966352 | Time: 1 day, 16:51:07
+[2025-05-17 01:02:41] Step 92800 | Loss: 8.0862 | LR: 0.0000487 | Images: 197970 | Data points: 2969552 | Time: 1 day, 16:53:40
+[2025-05-17 01:03:27] Checkpoint metadata saved to ./working/checkpoints/checkpoint-198034-images_metadata.json
+[2025-05-17 01:03:27] Checkpoint saved at 198034 images / 2970512 datapoints
+[2025-05-17 01:05:14] Step 92900 | Loss: 8.2198 | LR: 0.0000485 | Images: 198183 | Data points: 2972752 | Time: 1 day, 16:56:14
+[2025-05-17 01:07:47] Step 93000 | Loss: 8.1483 | LR: 0.0000483 | Images: 198396 | Data points: 2975952 | Time: 1 day, 16:58:46
+[2025-05-17 01:10:19] Step 93100 | Loss: 8.0965 | LR: 0.0000481 | Images: 198610 | Data points: 2979152 | Time: 1 day, 17:01:19
+[2025-05-17 01:12:52] Step 93200 | Loss: 8.1241 | LR: 0.0000479 | Images: 198823 | Data points: 2982352 | Time: 1 day, 17:03:51
+[2025-05-17 01:15:24] Step 93300 | Loss: 8.1487 | LR: 0.0000477 | Images: 199036 | Data points: 2985552 | Time: 1 day, 17:06:24
+[2025-05-17 01:17:57] Step 93400 | Loss: 8.1382 | LR: 0.0000476 | Images: 199250 | Data points: 2988752 | Time: 1 day, 17:08:56
+[2025-05-17 01:20:29] Step 93500 | Loss: 8.1717 | LR: 0.0000474 | Images: 199463 | Data points: 2991952 | Time: 1 day, 17:11:28
+[2025-05-17 01:23:01] Step 93600 | Loss: 8.0706 | LR: 0.0000472 | Images: 199676 | Data points: 2995152 | Time: 1 day, 17:14:01
+[2025-05-17 01:25:33] Step 93700 | Loss: 8.0600 | LR: 0.0000470 | Images: 199890 | Data points: 2998352 | Time: 1 day, 17:16:33
+[2025-05-17 01:27:17] Checkpoint metadata saved to ./working/checkpoints/checkpoint-200034-images_metadata.json
+[2025-05-17 01:27:17] Checkpoint saved at 200034 images / 3000520 datapoints
+[2025-05-17 01:28:07] Step 93800 | Loss: 8.0626 | LR: 0.0000468 | Images: 200103 | Data points: 3001552 | Time: 1 day, 17:19:06
+[2025-05-17 01:30:39] Step 93900 | Loss: 8.1154 | LR: 0.0000466 | Images: 200316 | Data points: 3004752 | Time: 1 day, 17:21:39
+[2025-05-17 01:33:12] Step 94000 | Loss: 8.2260 | LR: 0.0000464 | Images: 200530 | Data points: 3007952 | Time: 1 day, 17:24:12
+[2025-05-17 01:35:45] Step 94100 | Loss: 8.0978 | LR: 0.0000463 | Images: 200743 | Data points: 3011152 | Time: 1 day, 17:26:45
+[2025-05-17 01:38:19] Step 94200 | Loss: 8.1219 | LR: 0.0000461 | Images: 200956 | Data points: 3014352 | Time: 1 day, 17:29:18
+[2025-05-17 01:40:52] Step 94300 | Loss: 8.1613 | LR: 0.0000459 | Images: 201170 | Data points: 3017552 | Time: 1 day, 17:31:52
+[2025-05-17 01:43:26] Step 94400 | Loss: 8.1290 | LR: 0.0000457 | Images: 201383 | Data points: 3020752 | Time: 1 day, 17:34:26
+[2025-05-17 01:46:00] Step 94500 | Loss: 8.1413 | LR: 0.0000455 | Images: 201596 | Data points: 3023952 | Time: 1 day, 17:37:00
+[2025-05-17 01:48:34] Step 94600 | Loss: 8.1300 | LR: 0.0000453 | Images: 201810 | Data points: 3027152 | Time: 1 day, 17:39:33
+[2025-05-17 01:51:07] Step 94700 | Loss: 8.0916 | LR: 0.0000451 | Images: 202023 | Data points: 3030352 | Time: 1 day, 17:42:07
+[2025-05-17 01:51:16] Checkpoint metadata saved to ./working/checkpoints/checkpoint-202035-images_metadata.json
+[2025-05-17 01:51:16] Checkpoint saved at 202035 images / 3030528 datapoints
+[2025-05-17 01:53:41] Step 94800 | Loss: 8.0455 | LR: 0.0000449 | Images: 202236 | Data points: 3033552 | Time: 1 day, 17:44:41
+[2025-05-17 01:56:14] Step 94900 | Loss: 8.1626 | LR: 0.0000448 | Images: 202450 | Data points: 3036752 | Time: 1 day, 17:47:13
+[2025-05-17 01:58:47] Step 95000 | Loss: 8.1244 | LR: 0.0000446 | Images: 202663 | Data points: 3039952 | Time: 1 day, 17:49:46
+[2025-05-17 02:01:19] Step 95100 | Loss: 8.2123 | LR: 0.0000444 | Images: 202876 | Data points: 3043152 | Time: 1 day, 17:52:19
+[2025-05-17 02:03:52] Step 95200 | Loss: 8.0768 | LR: 0.0000442 | Images: 203090 | Data points: 3046352 | Time: 1 day, 17:54:51
+[2025-05-17 02:06:24] Step 95300 | Loss: 8.1054 | LR: 0.0000440 | Images: 203303 | Data points: 3049552 | Time: 1 day, 17:57:24
+[2025-05-17 02:08:57] Step 95400 | Loss: 8.0367 | LR: 0.0000438 | Images: 203516 | Data points: 3052752 | Time: 1 day, 17:59:56
+[2025-05-17 02:11:29] Step 95500 | Loss: 8.0061 | LR: 0.0000436 | Images: 203730 | Data points: 3055952 | Time: 1 day, 18:02:29
+[2025-05-17 02:14:02] Step 95600 | Loss: 7.9941 | LR: 0.0000434 | Images: 203943 | Data points: 3059152 | Time: 1 day, 18:05:01
+[2025-05-17 02:15:08] Checkpoint metadata saved to ./working/checkpoints/checkpoint-204035-images_metadata.json
+[2025-05-17 02:15:08] Checkpoint saved at 204035 images / 3060536 datapoints
+[2025-05-17 02:16:35] Step 95700 | Loss: 8.1229 | LR: 0.0000433 | Images: 204156 | Data points: 3062352 | Time: 1 day, 18:07:34
+[2025-05-17 02:19:07] Step 95800 | Loss: 8.1603 | LR: 0.0000431 | Images: 204370 | Data points: 3065552 | Time: 1 day, 18:10:07
+[2025-05-17 02:21:39] Step 95900 | Loss: 8.0789 | LR: 0.0000429 | Images: 204583 | Data points: 3068752 | Time: 1 day, 18:12:39
+[2025-05-17 02:24:12] Step 96000 | Loss: 8.0944 | LR: 0.0000427 | Images: 204796 | Data points: 3071952 | Time: 1 day, 18:15:12
+[2025-05-17 02:26:44] Step 96100 | Loss: 8.1468 | LR: 0.0000425 | Images: 205010 | Data points: 3075152 | Time: 1 day, 18:17:44
+[2025-05-17 02:29:18] Step 96200 | Loss: 8.0597 | LR: 0.0000423 | Images: 205223 | Data points: 3078352 | Time: 1 day, 18:20:18
+[2025-05-17 02:31:50] Step 96300 | Loss: 8.0976 | LR: 0.0000421 | Images: 205436 | Data points: 3081552 | Time: 1 day, 18:22:50
+[2025-05-17 02:34:22] Step 96400 | Loss: 8.1291 | LR: 0.0000420 | Images: 205650 | Data points: 3084752 | Time: 1 day, 18:25:22
+[2025-05-17 02:36:55] Step 96500 | Loss: 8.1718 | LR: 0.0000418 | Images: 205863 | Data points: 3087952 | Time: 1 day, 18:27:54
+[2025-05-17 02:38:59] Checkpoint metadata saved to ./working/checkpoints/checkpoint-206036-images_metadata.json
+[2025-05-17 02:38:59] Checkpoint saved at 206036 images / 3090544 datapoints
+[2025-05-17 02:39:28] Step 96600 | Loss: 8.1595 | LR: 0.0000416 | Images: 206076 | Data points: 3091152 | Time: 1 day, 18:30:27
+[2025-05-17 02:42:00] Step 96700 | Loss: 8.0782 | LR: 0.0000414 | Images: 206290 | Data points: 3094352 | Time: 1 day, 18:33:00
+[2025-05-17 02:44:33] Step 96800 | Loss: 8.0483 | LR: 0.0000412 | Images: 206503 | Data points: 3097552 | Time: 1 day, 18:35:33
+[2025-05-17 02:47:07] Step 96900 | Loss: 8.0905 | LR: 0.0000410 | Images: 206716 | Data points: 3100752 | Time: 1 day, 18:38:06
+[2025-05-17 02:49:40] Step 97000 | Loss: 8.1023 | LR: 0.0000408 | Images: 206930 | Data points: 3103952 | Time: 1 day, 18:40:39
+[2025-05-17 02:52:13] Step 97100 | Loss: 8.0589 | LR: 0.0000406 | Images: 207143 | Data points: 3107152 | Time: 1 day, 18:43:12
+[2025-05-17 02:54:46] Step 97200 | Loss: 8.0084 | LR: 0.0000405 | Images: 207356 | Data points: 3110352 | Time: 1 day, 18:45:45
+[2025-05-17 02:57:18] Step 97300 | Loss: 8.1614 | LR: 0.0000403 | Images: 207570 | Data points: 3113552 | Time: 1 day, 18:48:18
+[2025-05-17 02:59:51] Step 97400 | Loss: 8.1875 | LR: 0.0000401 | Images: 207783 | Data points: 3116752 | Time: 1 day, 18:50:51
+[2025-05-17 03:02:24] Step 97500 | Loss: 8.1409 | LR: 0.0000399 | Images: 207996 | Data points: 3119952 | Time: 1 day, 18:53:24
+[2025-05-17 03:02:54] Checkpoint metadata saved to ./working/checkpoints/checkpoint-208036-images_metadata.json
+[2025-05-17 03:02:54] Checkpoint saved at 208036 images / 3120552 datapoints
+[2025-05-17 03:04:58] Step 97600 | Loss: 8.1637 | LR: 0.0000397 | Images: 208210 | Data points: 3123152 | Time: 1 day, 18:55:58
+[2025-05-17 03:07:31] Step 97700 | Loss: 8.1414 | LR: 0.0000395 | Images: 208423 | Data points: 3126352 | Time: 1 day, 18:58:30
+[2025-05-17 03:10:03] Step 97800 | Loss: 8.2206 | LR: 0.0000393 | Images: 208636 | Data points: 3129552 | Time: 1 day, 19:01:03
+[2025-05-17 03:12:36] Step 97900 | Loss: 8.0372 | LR: 0.0000391 | Images: 208850 | Data points: 3132752 | Time: 1 day, 19:03:36
+[2025-05-17 03:15:09] Step 98000 | Loss: 8.0749 | LR: 0.0000390 | Images: 209063 | Data points: 3135952 | Time: 1 day, 19:06:09
+[2025-05-17 03:17:42] Step 98100 | Loss: 8.1287 | LR: 0.0000388 | Images: 209276 | Data points: 3139152 | Time: 1 day, 19:08:42
+[2025-05-17 03:20:15] Step 98200 | Loss: 8.1608 | LR: 0.0000386 | Images: 209490 | Data points: 3142352 | Time: 1 day, 19:11:14
+[2025-05-17 03:22:47] Step 98300 | Loss: 8.1338 | LR: 0.0000384 | Images: 209703 | Data points: 3145552 | Time: 1 day, 19:13:47
+[2025-05-17 03:25:20] Step 98400 | Loss: 8.0982 | LR: 0.0000382 | Images: 209916 | Data points: 3148752 | Time: 1 day, 19:16:19
+[2025-05-17 03:26:46] Checkpoint metadata saved to ./working/checkpoints/checkpoint-210037-images_metadata.json
+[2025-05-17 03:26:46] Checkpoint saved at 210037 images / 3150560 datapoints
+[2025-05-17 03:27:53] Step 98500 | Loss: 8.1653 | LR: 0.0000380 | Images: 210130 | Data points: 3151952 | Time: 1 day, 19:18:52
+[2025-05-17 03:30:25] Step 98600 | Loss: 8.1176 | LR: 0.0000378 | Images: 210343 | Data points: 3155152 | Time: 1 day, 19:21:25
+[2025-05-17 03:32:58] Step 98700 | Loss: 8.1449 | LR: 0.0000376 | Images: 210556 | Data points: 3158352 | Time: 1 day, 19:23:58
+[2025-05-17 03:35:30] Step 98800 | Loss: 8.1731 | LR: 0.0000375 | Images: 210770 | Data points: 3161552 | Time: 1 day, 19:26:30
+[2025-05-17 03:38:03] Step 98900 | Loss: 8.0411 | LR: 0.0000373 | Images: 210983 | Data points: 3164752 | Time: 1 day, 19:29:03
+[2025-05-17 03:40:36] Step 99000 | Loss: 8.0796 | LR: 0.0000371 | Images: 211196 | Data points: 3167952 | Time: 1 day, 19:31:36
+[2025-05-17 03:43:10] Step 99100 | Loss: 8.1671 | LR: 0.0000369 | Images: 211410 | Data points: 3171152 | Time: 1 day, 19:34:10
+[2025-05-17 03:45:43] Step 99200 | Loss: 8.1534 | LR: 0.0000367 | Images: 211623 | Data points: 3174352 | Time: 1 day, 19:36:43
+[2025-05-17 03:48:16] Step 99300 | Loss: 8.0996 | LR: 0.0000365 | Images: 211836 | Data points: 3177552 | Time: 1 day, 19:39:16
+[2025-05-17 03:50:41] Checkpoint metadata saved to ./working/checkpoints/checkpoint-212037-images_metadata.json
+[2025-05-17 03:50:41] Checkpoint saved at 212037 images / 3180568 datapoints
+[2025-05-17 03:50:50] Step 99400 | Loss: 8.1353 | LR: 0.0000363 | Images: 212050 | Data points: 3180752 | Time: 1 day, 19:41:50
+[2025-05-17 03:53:24] Step 99500 | Loss: 8.0908 | LR: 0.0000362 | Images: 212263 | Data points: 3183952 | Time: 1 day, 19:44:23
+[2025-05-17 03:55:57] Step 99600 | Loss: 8.1786 | LR: 0.0000360 | Images: 212476 | Data points: 3187152 | Time: 1 day, 19:46:57
+[2025-05-17 03:58:30] Step 99700 | Loss: 8.0687 | LR: 0.0000358 | Images: 212690 | Data points: 3190352 | Time: 1 day, 19:49:30
+[2025-05-17 04:01:03] Step 99800 | Loss: 8.1122 | LR: 0.0000356 | Images: 212903 | Data points: 3193552 | Time: 1 day, 19:52:02
+[2025-05-17 04:03:35] Step 99900 | Loss: 8.1219 | LR: 0.0000354 | Images: 213116 | Data points: 3196752 | Time: 1 day, 19:54:35
+[2025-05-17 04:06:07] Step 100000 | Loss: 8.1710 | LR: 0.0000352 | Images: 213330 | Data points: 3199952 | Time: 1 day, 19:57:07
+[2025-05-17 04:08:40] Step 100100 | Loss: 8.1260 | LR: 0.0000350 | Images: 213543 | Data points: 3203152 | Time: 1 day, 19:59:40
+[2025-05-17 04:11:12] Step 100200 | Loss: 8.0577 | LR: 0.0000348 | Images: 213756 | Data points: 3206352 | Time: 1 day, 20:02:12
+[2025-05-17 04:13:45] Step 100300 | Loss: 8.1148 | LR: 0.0000347 | Images: 213970 | Data points: 3209552 | Time: 1 day, 20:04:44
+[2025-05-17 04:14:34] Checkpoint metadata saved to ./working/checkpoints/checkpoint-214038-images_metadata.json
+[2025-05-17 04:14:34] Checkpoint saved at 214038 images / 3210576 datapoints
+[2025-05-17 04:16:17] Step 100400 | Loss: 8.1312 | LR: 0.0000345 | Images: 214183 | Data points: 3212752 | Time: 1 day, 20:07:17
+[2025-05-17 04:18:50] Step 100500 | Loss: 8.1615 | LR: 0.0000343 | Images: 214396 | Data points: 3215952 | Time: 1 day, 20:09:50
+[2025-05-17 04:21:22] Step 100600 | Loss: 8.0121 | LR: 0.0000341 | Images: 214610 | Data points: 3219152 | Time: 1 day, 20:12:22
+[2025-05-17 04:23:55] Step 100700 | Loss: 8.1440 | LR: 0.0000339 | Images: 214823 | Data points: 3222352 | Time: 1 day, 20:14:55
+[2025-05-17 04:26:28] Step 100800 | Loss: 8.1766 | LR: 0.0000337 | Images: 215036 | Data points: 3225552 | Time: 1 day, 20:17:27
+[2025-05-17 04:29:00] Step 100900 | Loss: 8.0673 | LR: 0.0000335 | Images: 215250 | Data points: 3228752 | Time: 1 day, 20:20:00
+[2025-05-17 04:31:32] Step 101000 | Loss: 8.1686 | LR: 0.0000333 | Images: 215463 | Data points: 3231952 | Time: 1 day, 20:22:32
+[2025-05-17 04:34:05] Step 101100 | Loss: 8.1506 | LR: 0.0000332 | Images: 215676 | Data points: 3235152 | Time: 1 day, 20:25:05
+[2025-05-17 04:36:38] Step 101200 | Loss: 8.1047 | LR: 0.0000330 | Images: 215890 | Data points: 3238352 | Time: 1 day, 20:27:37
+[2025-05-17 04:38:25] Checkpoint metadata saved to ./working/checkpoints/checkpoint-216038-images_metadata.json
+[2025-05-17 04:38:25] Checkpoint saved at 216038 images / 3240584 datapoints
+[2025-05-17 04:39:12] Step 101300 | Loss: 8.0833 | LR: 0.0000328 | Images: 216103 | Data points: 3241552 | Time: 1 day, 20:30:11
+[2025-05-17 04:41:45] Step 101400 | Loss: 8.1022 | LR: 0.0000326 | Images: 216316 | Data points: 3244752 | Time: 1 day, 20:32:44
+[2025-05-17 04:44:18] Step 101500 | Loss: 8.0565 | LR: 0.0000324 | Images: 216530 | Data points: 3247952 | Time: 1 day, 20:35:18
+[2025-05-17 04:46:51] Step 101600 | Loss: 8.1114 | LR: 0.0000322 | Images: 216743 | Data points: 3251152 | Time: 1 day, 20:37:51
+[2025-05-17 04:49:24] Step 101700 | Loss: 8.0605 | LR: 0.0000320 | Images: 216956 | Data points: 3254352 | Time: 1 day, 20:40:24
+[2025-05-17 04:51:57] Step 101800 | Loss: 8.1624 | LR: 0.0000319 | Images: 217170 | Data points: 3257552 | Time: 1 day, 20:42:57
+[2025-05-17 04:54:30] Step 101900 | Loss: 8.1427 | LR: 0.0000317 | Images: 217383 | Data points: 3260752 | Time: 1 day, 20:45:30
+[2025-05-17 04:57:03] Step 102000 | Loss: 8.0780 | LR: 0.0000315 | Images: 217596 | Data points: 3263952 | Time: 1 day, 20:48:03
+[2025-05-17 04:59:36] Step 102100 | Loss: 8.1013 | LR: 0.0000313 | Images: 217810 | Data points: 3267152 | Time: 1 day, 20:50:36
+[2025-05-17 05:02:08] Step 102200 | Loss: 8.0588 | LR: 0.0000311 | Images: 218023 | Data points: 3270352 | Time: 1 day, 20:53:08
+[2025-05-17 05:02:20] Checkpoint metadata saved to ./working/checkpoints/checkpoint-218039-images_metadata.json
+[2025-05-17 05:02:20] Checkpoint saved at 218039 images / 3270592 datapoints
+[2025-05-17 05:04:41] Step 102300 | Loss: 8.1699 | LR: 0.0000309 | Images: 218236 | Data points: 3273552 | Time: 1 day, 20:55:40
+[2025-05-17 05:07:12] Step 102400 | Loss: 8.1854 | LR: 0.0000307 | Images: 218450 | Data points: 3276752 | Time: 1 day, 20:58:12
+[2025-05-17 05:09:44] Step 102500 | Loss: 8.1670 | LR: 0.0000305 | Images: 218663 | Data points: 3279952 | Time: 1 day, 21:00:44
+[2025-05-17 05:12:16] Step 102600 | Loss: 8.1131 | LR: 0.0000304 | Images: 218876 | Data points: 3283152 | Time: 1 day, 21:03:16
+[2025-05-17 05:14:47] Step 102700 | Loss: 8.0903 | LR: 0.0000302 | Images: 219090 | Data points: 3286352 | Time: 1 day, 21:05:47
+[2025-05-17 05:17:20] Step 102800 | Loss: 8.1442 | LR: 0.0000300 | Images: 219303 | Data points: 3289552 | Time: 1 day, 21:08:19
+[2025-05-17 05:19:52] Step 102900 | Loss: 8.1051 | LR: 0.0000298 | Images: 219516 | Data points: 3292752 | Time: 1 day, 21:10:52
+[2025-05-17 05:22:24] Step 103000 | Loss: 8.1586 | LR: 0.0000296 | Images: 219730 | Data points: 3295952 | Time: 1 day, 21:13:24
+[2025-05-17 05:24:56] Step 103100 | Loss: 8.1965 | LR: 0.0000294 | Images: 219943 | Data points: 3299152 | Time: 1 day, 21:15:56
+[2025-05-17 05:26:05] Checkpoint metadata saved to ./working/checkpoints/checkpoint-220039-images_metadata.json
+[2025-05-17 05:26:05] Checkpoint saved at 220039 images / 3300600 datapoints
+[2025-05-17 05:27:30] Step 103200 | Loss: 8.1649 | LR: 0.0000292 | Images: 220156 | Data points: 3302352 | Time: 1 day, 21:18:29
+[2025-05-17 05:30:02] Step 103300 | Loss: 8.2072 | LR: 0.0000290 | Images: 220370 | Data points: 3305552 | Time: 1 day, 21:21:01
+[2025-05-17 05:32:35] Step 103400 | Loss: 8.1439 | LR: 0.0000289 | Images: 220583 | Data points: 3308752 | Time: 1 day, 21:23:35
+[2025-05-17 05:35:08] Step 103500 | Loss: 8.1239 | LR: 0.0000287 | Images: 220796 | Data points: 3311952 | Time: 1 day, 21:26:07
+[2025-05-17 05:37:40] Step 103600 | Loss: 8.1460 | LR: 0.0000285 | Images: 221010 | Data points: 3315152 | Time: 1 day, 21:28:40
+[2025-05-17 05:40:13] Step 103700 | Loss: 8.0861 | LR: 0.0000283 | Images: 221223 | Data points: 3318352 | Time: 1 day, 21:31:13
+[2025-05-17 05:42:47] Step 103800 | Loss: 8.1223 | LR: 0.0000281 | Images: 221436 | Data points: 3321552 | Time: 1 day, 21:33:46
+[2025-05-17 05:45:20] Step 103900 | Loss: 8.0503 | LR: 0.0000279 | Images: 221650 | Data points: 3324752 | Time: 1 day, 21:36:20
+[2025-05-17 05:47:53] Step 104000 | Loss: 8.2067 | LR: 0.0000277 | Images: 221863 | Data points: 3327952 | Time: 1 day, 21:38:52
+[2025-05-17 05:50:00] Checkpoint metadata saved to ./working/checkpoints/checkpoint-222040-images_metadata.json
+[2025-05-17 05:50:00] Checkpoint saved at 222040 images / 3330608 datapoints
+[2025-05-17 05:50:25] Step 104100 | Loss: 8.0855 | LR: 0.0000276 | Images: 222076 | Data points: 3331152 | Time: 1 day, 21:41:25
+[2025-05-17 05:52:58] Step 104200 | Loss: 8.1202 | LR: 0.0000274 | Images: 222290 | Data points: 3334352 | Time: 1 day, 21:43:58
+[2025-05-17 05:55:31] Step 104300 | Loss: 8.0409 | LR: 0.0000272 | Images: 222503 | Data points: 3337552 | Time: 1 day, 21:46:30
+[2025-05-17 05:58:03] Step 104400 | Loss: 8.1292 | LR: 0.0000270 | Images: 222716 | Data points: 3340752 | Time: 1 day, 21:49:03
+[2025-05-17 06:00:36] Step 104500 | Loss: 8.1128 | LR: 0.0000268 | Images: 222930 | Data points: 3343952 | Time: 1 day, 21:51:36
+[2025-05-17 06:03:09] Step 104600 | Loss: 8.1139 | LR: 0.0000266 | Images: 223143 | Data points: 3347152 | Time: 1 day, 21:54:09
+[2025-05-17 06:05:42] Step 104700 | Loss: 8.1152 | LR: 0.0000264 | Images: 223356 | Data points: 3350352 | Time: 1 day, 21:56:41
+[2025-05-17 06:08:14] Step 104800 | Loss: 8.0769 | LR: 0.0000262 | Images: 223570 | Data points: 3353552 | Time: 1 day, 21:59:14
+[2025-05-17 06:10:47] Step 104900 | Loss: 8.1849 | LR: 0.0000261 | Images: 223783 | Data points: 3356752 | Time: 1 day, 22:01:46
+[2025-05-17 06:13:20] Step 105000 | Loss: 8.1230 | LR: 0.0000259 | Images: 223996 | Data points: 3359952 | Time: 1 day, 22:04:19
+[2025-05-17 06:13:52] Checkpoint metadata saved to ./working/checkpoints/checkpoint-224041-images_metadata.json
+[2025-05-17 06:13:52] Checkpoint saved at 224041 images / 3360616 datapoints
+[2025-05-17 06:15:52] Step 105100 | Loss: 8.1142 | LR: 0.0000257 | Images: 224210 | Data points: 3363152 | Time: 1 day, 22:06:52
+[2025-05-17 06:18:24] Step 105200 | Loss: 8.1006 | LR: 0.0000255 | Images: 224423 | Data points: 3366352 | Time: 1 day, 22:09:24
+[2025-05-17 06:20:57] Step 105300 | Loss: 8.1633 | LR: 0.0000253 | Images: 224636 | Data points: 3369552 | Time: 1 day, 22:11:56
+[2025-05-17 06:23:29] Step 105400 | Loss: 8.1127 | LR: 0.0000251 | Images: 224850 | Data points: 3372752 | Time: 1 day, 22:14:28
+[2025-05-17 06:26:01] Step 105500 | Loss: 8.0835 | LR: 0.0000249 | Images: 225063 | Data points: 3375952 | Time: 1 day, 22:17:01
+[2025-05-17 06:28:33] Step 105600 | Loss: 8.1026 | LR: 0.0000247 | Images: 225276 | Data points: 3379152 | Time: 1 day, 22:19:33
+[2025-05-17 06:31:06] Step 105700 | Loss: 8.1612 | LR: 0.0000246 | Images: 225490 | Data points: 3382352 | Time: 1 day, 22:22:06
+[2025-05-17 06:33:40] Step 105800 | Loss: 8.1400 | LR: 0.0000244 | Images: 225703 | Data points: 3385552 | Time: 1 day, 22:24:40
+[2025-05-17 06:36:14] Step 105900 | Loss: 8.1767 | LR: 0.0000242 | Images: 225916 | Data points: 3388752 | Time: 1 day, 22:27:13
+[2025-05-17 06:37:44] Checkpoint metadata saved to ./working/checkpoints/checkpoint-226041-images_metadata.json
+[2025-05-17 06:37:44] Checkpoint saved at 226041 images / 3390624 datapoints
+[2025-05-17 06:38:48] Step 106000 | Loss: 8.1403 | LR: 0.0000240 | Images: 226130 | Data points: 3391952 | Time: 1 day, 22:29:47
+[2025-05-17 06:41:21] Step 106100 | Loss: 8.0332 | LR: 0.0000238 | Images: 226343 | Data points: 3395152 | Time: 1 day, 22:32:21
+[2025-05-17 06:43:54] Step 106200 | Loss: 8.2204 | LR: 0.0000236 | Images: 226556 | Data points: 3398352 | Time: 1 day, 22:34:54
+[2025-05-17 06:46:28] Step 106300 | Loss: 8.0410 | LR: 0.0000234 | Images: 226770 | Data points: 3401552 | Time: 1 day, 22:37:28
+[2025-05-17 06:49:01] Step 106400 | Loss: 8.1560 | LR: 0.0000233 | Images: 226983 | Data points: 3404752 | Time: 1 day, 22:40:01
+[2025-05-17 06:51:34] Step 106500 | Loss: 8.1266 | LR: 0.0000231 | Images: 227196 | Data points: 3407952 | Time: 1 day, 22:42:34
+[2025-05-17 06:54:07] Step 106600 | Loss: 8.1185 | LR: 0.0000229 | Images: 227410 | Data points: 3411152 | Time: 1 day, 22:45:07
+[2025-05-17 06:56:41] Step 106700 | Loss: 8.0769 | LR: 0.0000227 | Images: 227623 | Data points: 3414352 | Time: 1 day, 22:47:40
+[2025-05-17 06:59:14] Step 106800 | Loss: 8.1342 | LR: 0.0000225 | Images: 227836 | Data points: 3417552 | Time: 1 day, 22:50:13
+[2025-05-17 07:01:41] Checkpoint metadata saved to ./working/checkpoints/checkpoint-228042-images_metadata.json
+[2025-05-17 07:01:41] Checkpoint saved at 228042 images / 3420632 datapoints
+[2025-05-17 07:01:47] Step 106900 | Loss: 8.1083 | LR: 0.0000223 | Images: 228050 | Data points: 3420752 | Time: 1 day, 22:52:47
+[2025-05-17 07:04:19] Step 107000 | Loss: 8.0772 | LR: 0.0000221 | Images: 228263 | Data points: 3423952 | Time: 1 day, 22:55:19
+[2025-05-17 07:06:52] Step 107100 | Loss: 8.1231 | LR: 0.0000219 | Images: 228476 | Data points: 3427152 | Time: 1 day, 22:57:52
+[2025-05-17 07:09:25] Step 107200 | Loss: 8.1481 | LR: 0.0000218 | Images: 228690 | Data points: 3430352 | Time: 1 day, 23:00:24
+[2025-05-17 07:11:57] Step 107300 | Loss: 8.0121 | LR: 0.0000216 | Images: 228903 | Data points: 3433552 | Time: 1 day, 23:02:56
+[2025-05-17 07:14:29] Step 107400 | Loss: 8.1201 | LR: 0.0000214 | Images: 229116 | Data points: 3436752 | Time: 1 day, 23:05:28
+[2025-05-17 07:17:00] Step 107500 | Loss: 8.0971 | LR: 0.0000212 | Images: 229330 | Data points: 3439952 | Time: 1 day, 23:08:00
+[2025-05-17 07:19:33] Step 107600 | Loss: 8.0637 | LR: 0.0000210 | Images: 229543 | Data points: 3443152 | Time: 1 day, 23:10:32
+[2025-05-17 07:22:05] Step 107700 | Loss: 8.1446 | LR: 0.0000208 | Images: 229756 | Data points: 3446352 | Time: 1 day, 23:13:05
+[2025-05-17 07:24:37] Step 107800 | Loss: 8.1019 | LR: 0.0000206 | Images: 229970 | Data points: 3449552 | Time: 1 day, 23:15:36
+[2025-05-17 07:25:29] Checkpoint metadata saved to ./working/checkpoints/checkpoint-230042-images_metadata.json
+[2025-05-17 07:25:29] Checkpoint saved at 230042 images / 3450640 datapoints
+[2025-05-17 07:27:09] Step 107900 | Loss: 8.1091 | LR: 0.0000204 | Images: 230183 | Data points: 3452752 | Time: 1 day, 23:18:09
+[2025-05-17 07:29:41] Step 108000 | Loss: 8.1340 | LR: 0.0000203 | Images: 230396 | Data points: 3455952 | Time: 1 day, 23:20:41
+[2025-05-17 07:32:14] Step 108100 | Loss: 8.1288 | LR: 0.0000201 | Images: 230610 | Data points: 3459152 | Time: 1 day, 23:23:14
+[2025-05-17 07:34:47] Step 108200 | Loss: 8.1498 | LR: 0.0000199 | Images: 230823 | Data points: 3462352 | Time: 1 day, 23:25:47
+[2025-05-17 07:37:21] Step 108300 | Loss: 8.0753 | LR: 0.0000197 | Images: 231036 | Data points: 3465552 | Time: 1 day, 23:28:20
+[2025-05-17 07:39:54] Step 108400 | Loss: 8.1019 | LR: 0.0000195 | Images: 231250 | Data points: 3468752 | Time: 1 day, 23:30:54
+[2025-05-17 07:42:28] Step 108500 | Loss: 8.1195 | LR: 0.0000193 | Images: 231463 | Data points: 3471952 | Time: 1 day, 23:33:27
+[2025-05-17 07:45:01] Step 108600 | Loss: 8.1955 | LR: 0.0000191 | Images: 231676 | Data points: 3475152 | Time: 1 day, 23:36:01
+[2025-05-17 07:47:34] Step 108700 | Loss: 8.1368 | LR: 0.0000189 | Images: 231890 | Data points: 3478352 | Time: 1 day, 23:38:33
+[2025-05-17 07:49:24] Checkpoint metadata saved to ./working/checkpoints/checkpoint-232043-images_metadata.json
+[2025-05-17 07:49:24] Checkpoint saved at 232043 images / 3480648 datapoints
+[2025-05-17 07:50:07] Step 108800 | Loss: 8.1725 | LR: 0.0000188 | Images: 232103 | Data points: 3481552 | Time: 1 day, 23:41:07
+[2025-05-17 07:52:40] Step 108900 | Loss: 8.2352 | LR: 0.0000186 | Images: 232316 | Data points: 3484752 | Time: 1 day, 23:43:40
+[2025-05-17 07:55:13] Step 109000 | Loss: 8.1251 | LR: 0.0000184 | Images: 232530 | Data points: 3487952 | Time: 1 day, 23:46:13
+[2025-05-17 07:57:46] Step 109100 | Loss: 8.1436 | LR: 0.0000182 | Images: 232743 | Data points: 3491152 | Time: 1 day, 23:48:45
+[2025-05-17 08:00:18] Step 109200 | Loss: 7.9891 | LR: 0.0000180 | Images: 232956 | Data points: 3494352 | Time: 1 day, 23:51:18
+[2025-05-17 08:02:51] Step 109300 | Loss: 8.1111 | LR: 0.0000178 | Images: 233170 | Data points: 3497552 | Time: 1 day, 23:53:51
+[2025-05-17 08:05:24] Step 109400 | Loss: 8.0531 | LR: 0.0000176 | Images: 233383 | Data points: 3500752 | Time: 1 day, 23:56:24
+[2025-05-17 08:07:56] Step 109500 | Loss: 8.1336 | LR: 0.0000175 | Images: 233596 | Data points: 3503952 | Time: 1 day, 23:58:56
+[2025-05-17 08:10:28] Step 109600 | Loss: 8.1439 | LR: 0.0000173 | Images: 233810 | Data points: 3507152 | Time: 2 days, 0:01:28
+[2025-05-17 08:13:00] Step 109700 | Loss: 8.2118 | LR: 0.0000171 | Images: 234023 | Data points: 3510352 | Time: 2 days, 0:04:00
+[2025-05-17 08:13:16] Checkpoint metadata saved to ./working/checkpoints/checkpoint-234043-images_metadata.json
+[2025-05-17 08:13:16] Checkpoint saved at 234043 images / 3510656 datapoints
+[2025-05-17 08:15:33] Step 109800 | Loss: 8.1349 | LR: 0.0000169 | Images: 234236 | Data points: 3513552 | Time: 2 days, 0:06:33
+[2025-05-17 08:18:06] Step 109900 | Loss: 8.0652 | LR: 0.0000167 | Images: 234450 | Data points: 3516752 | Time: 2 days, 0:09:06
+[2025-05-17 08:20:38] Step 110000 | Loss: 8.1404 | LR: 0.0000165 | Images: 234663 | Data points: 3519952 | Time: 2 days, 0:11:38
+[2025-05-17 08:23:11] Step 110100 | Loss: 8.0964 | LR: 0.0000163 | Images: 234876 | Data points: 3523152 | Time: 2 days, 0:14:11
+[2025-05-17 08:25:43] Step 110200 | Loss: 8.1283 | LR: 0.0000161 | Images: 235090 | Data points: 3526352 | Time: 2 days, 0:16:43
+[2025-05-17 08:28:15] Step 110300 | Loss: 8.1144 | LR: 0.0000160 | Images: 235303 | Data points: 3529552 | Time: 2 days, 0:19:15
+[2025-05-17 08:30:48] Step 110400 | Loss: 8.0506 | LR: 0.0000158 | Images: 235516 | Data points: 3532752 | Time: 2 days, 0:21:47
+[2025-05-17 08:33:20] Step 110500 | Loss: 8.1506 | LR: 0.0000156 | Images: 235730 | Data points: 3535952 | Time: 2 days, 0:24:19
+[2025-05-17 08:35:52] Step 110600 | Loss: 8.1476 | LR: 0.0000154 | Images: 235943 | Data points: 3539152 | Time: 2 days, 0:26:52
+[2025-05-17 08:37:04] Checkpoint metadata saved to ./working/checkpoints/checkpoint-236044-images_metadata.json
+[2025-05-17 08:37:04] Checkpoint saved at 236044 images / 3540664 datapoints
+[2025-05-17 08:38:24] Step 110700 | Loss: 8.1819 | LR: 0.0000152 | Images: 236156 | Data points: 3542352 | Time: 2 days, 0:29:24
+[2025-05-17 08:40:57] Step 110800 | Loss: 8.1633 | LR: 0.0000150 | Images: 236370 | Data points: 3545552 | Time: 2 days, 0:31:56
+[2025-05-17 08:43:30] Step 110900 | Loss: 8.1136 | LR: 0.0000148 | Images: 236583 | Data points: 3548752 | Time: 2 days, 0:34:30
+[2025-05-17 08:46:04] Step 111000 | Loss: 8.1054 | LR: 0.0000146 | Images: 236796 | Data points: 3551952 | Time: 2 days, 0:37:03
+[2025-05-17 08:48:37] Step 111100 | Loss: 8.0565 | LR: 0.0000145 | Images: 237010 | Data points: 3555152 | Time: 2 days, 0:39:36
+[2025-05-17 08:51:09] Step 111200 | Loss: 8.1117 | LR: 0.0000143 | Images: 237223 | Data points: 3558352 | Time: 2 days, 0:42:09
+[2025-05-17 08:53:41] Step 111300 | Loss: 8.0723 | LR: 0.0000141 | Images: 237436 | Data points: 3561552 | Time: 2 days, 0:44:41
+[2025-05-17 08:56:14] Step 111400 | Loss: 8.0600 | LR: 0.0000139 | Images: 237650 | Data points: 3564752 | Time: 2 days, 0:47:14
+[2025-05-17 08:58:46] Step 111500 | Loss: 8.1487 | LR: 0.0000137 | Images: 237863 | Data points: 3567952 | Time: 2 days, 0:49:45
+[2025-05-17 09:00:56] Checkpoint metadata saved to ./working/checkpoints/checkpoint-238044-images_metadata.json
+[2025-05-17 09:00:56] Checkpoint saved at 238044 images / 3570672 datapoints
+[2025-05-17 09:01:19] Step 111600 | Loss: 8.1356 | LR: 0.0000135 | Images: 238076 | Data points: 3571152 | Time: 2 days, 0:52:19
+[2025-05-17 09:03:52] Step 111700 | Loss: 8.1382 | LR: 0.0000133 | Images: 238290 | Data points: 3574352 | Time: 2 days, 0:54:52
+[2025-05-17 09:06:26] Step 111800 | Loss: 8.1658 | LR: 0.0000132 | Images: 238503 | Data points: 3577552 | Time: 2 days, 0:57:25
+[2025-05-17 09:08:58] Step 111900 | Loss: 8.1479 | LR: 0.0000130 | Images: 238716 | Data points: 3580752 | Time: 2 days, 0:59:58
+[2025-05-17 09:11:31] Step 112000 | Loss: 8.0009 | LR: 0.0000128 | Images: 238930 | Data points: 3583952 | Time: 2 days, 1:02:31
+[2025-05-17 09:14:03] Step 112100 | Loss: 8.0810 | LR: 0.0000126 | Images: 239143 | Data points: 3587152 | Time: 2 days, 1:05:03
+[2025-05-17 09:16:36] Step 112200 | Loss: 8.1132 | LR: 0.0000124 | Images: 239356 | Data points: 3590352 | Time: 2 days, 1:07:36
+[2025-05-17 09:19:09] Step 112300 | Loss: 8.1825 | LR: 0.0000122 | Images: 239570 | Data points: 3593552 | Time: 2 days, 1:10:09
+[2025-05-17 09:21:41] Step 112400 | Loss: 8.1886 | LR: 0.0000120 | Images: 239783 | Data points: 3596752 | Time: 2 days, 1:12:41
+[2025-05-17 09:24:13] Step 112500 | Loss: 8.2258 | LR: 0.0000118 | Images: 239996 | Data points: 3599952 | Time: 2 days, 1:15:13
+[2025-05-17 09:24:48] Checkpoint metadata saved to ./working/checkpoints/checkpoint-240045-images_metadata.json
+[2025-05-17 09:24:48] Checkpoint saved at 240045 images / 3600680 datapoints
+[2025-05-17 09:26:46] Step 112600 | Loss: 8.1448 | LR: 0.0000117 | Images: 240210 | Data points: 3603152 | Time: 2 days, 1:17:46
+[2025-05-17 09:29:19] Step 112700 | Loss: 8.0852 | LR: 0.0000115 | Images: 240423 | Data points: 3606352 | Time: 2 days, 1:20:19
+[2025-05-17 09:31:51] Step 112800 | Loss: 8.1258 | LR: 0.0000113 | Images: 240636 | Data points: 3609552 | Time: 2 days, 1:22:51
+[2025-05-17 09:34:24] Step 112900 | Loss: 8.0922 | LR: 0.0000111 | Images: 240850 | Data points: 3612752 | Time: 2 days, 1:25:24
+[2025-05-17 09:36:56] Step 113000 | Loss: 8.1631 | LR: 0.0000109 | Images: 241063 | Data points: 3615952 | Time: 2 days, 1:27:56
+[2025-05-17 09:39:30] Step 113100 | Loss: 8.1701 | LR: 0.0000107 | Images: 241276 | Data points: 3619152 | Time: 2 days, 1:30:29
+[2025-05-17 09:42:03] Step 113200 | Loss: 8.2025 | LR: 0.0000105 | Images: 241490 | Data points: 3622352 | Time: 2 days, 1:33:02
+[2025-05-17 09:44:36] Step 113300 | Loss: 8.1299 | LR: 0.0000103 | Images: 241703 | Data points: 3625552 | Time: 2 days, 1:35:35
+[2025-05-17 09:47:09] Step 113400 | Loss: 8.1722 | LR: 0.0000102 | Images: 241916 | Data points: 3628752 | Time: 2 days, 1:38:09
+[2025-05-17 09:48:42] Checkpoint metadata saved to ./working/checkpoints/checkpoint-242045-images_metadata.json
+[2025-05-17 09:48:42] Checkpoint saved at 242045 images / 3630688 datapoints
+[2025-05-17 09:49:43] Step 113500 | Loss: 8.0795 | LR: 0.0000100 | Images: 242130 | Data points: 3631952 | Time: 2 days, 1:40:43
+[2025-05-17 09:52:16] Step 113600 | Loss: 8.1414 | LR: 0.0000098 | Images: 242343 | Data points: 3635152 | Time: 2 days, 1:43:16
+[2025-05-17 09:54:51] Step 113700 | Loss: 8.0969 | LR: 0.0000096 | Images: 242556 | Data points: 3638352 | Time: 2 days, 1:45:50
+[2025-05-17 09:57:24] Step 113800 | Loss: 8.1164 | LR: 0.0000094 | Images: 242770 | Data points: 3641552 | Time: 2 days, 1:48:24
+[2025-05-17 09:59:57] Step 113900 | Loss: 8.1355 | LR: 0.0000092 | Images: 242983 | Data points: 3644752 | Time: 2 days, 1:50:57
+[2025-05-17 10:02:31] Step 114000 | Loss: 8.1951 | LR: 0.0000090 | Images: 243196 | Data points: 3647952 | Time: 2 days, 1:53:30
+[2025-05-17 10:05:03] Step 114100 | Loss: 8.1339 | LR: 0.0000089 | Images: 243410 | Data points: 3651152 | Time: 2 days, 1:56:03
+[2025-05-17 10:07:36] Step 114200 | Loss: 8.0361 | LR: 0.0000087 | Images: 243623 | Data points: 3654352 | Time: 2 days, 1:58:35
+[2025-05-17 10:10:08] Step 114300 | Loss: 8.0809 | LR: 0.0000085 | Images: 243836 | Data points: 3657552 | Time: 2 days, 2:01:08
+[2025-05-17 10:12:39] Checkpoint metadata saved to ./working/checkpoints/checkpoint-244046-images_metadata.json
+[2025-05-17 10:12:39] Checkpoint saved at 244046 images / 3660696 datapoints
+[2025-05-17 10:12:41] Step 114400 | Loss: 8.1163 | LR: 0.0000083 | Images: 244050 | Data points: 3660752 | Time: 2 days, 2:03:41
+[2025-05-17 10:15:13] Step 114500 | Loss: 8.0991 | LR: 0.0000081 | Images: 244263 | Data points: 3663952 | Time: 2 days, 2:06:13
+[2025-05-17 10:17:46] Step 114600 | Loss: 8.1455 | LR: 0.0000079 | Images: 244476 | Data points: 3667152 | Time: 2 days, 2:08:45
+[2025-05-17 10:20:18] Step 114700 | Loss: 8.1368 | LR: 0.0000077 | Images: 244690 | Data points: 3670352 | Time: 2 days, 2:11:18
+[2025-05-17 10:22:51] Step 114800 | Loss: 8.1761 | LR: 0.0000075 | Images: 244903 | Data points: 3673552 | Time: 2 days, 2:13:51
+[2025-05-17 10:25:23] Step 114900 | Loss: 8.1724 | LR: 0.0000074 | Images: 245116 | Data points: 3676752 | Time: 2 days, 2:16:23
+[2025-05-17 10:27:56] Step 115000 | Loss: 8.1196 | LR: 0.0000072 | Images: 245330 | Data points: 3679952 | Time: 2 days, 2:18:56
+[2025-05-17 10:30:28] Step 115100 | Loss: 8.0919 | LR: 0.0000070 | Images: 245543 | Data points: 3683152 | Time: 2 days, 2:21:28
+[2025-05-17 10:33:01] Step 115200 | Loss: 8.1347 | LR: 0.0000068 | Images: 245756 | Data points: 3686352 | Time: 2 days, 2:24:01
+[2025-05-17 10:35:33] Step 115300 | Loss: 8.1585 | LR: 0.0000066 | Images: 245970 | Data points: 3689552 | Time: 2 days, 2:26:33
+[2025-05-17 10:36:29] Checkpoint metadata saved to ./working/checkpoints/checkpoint-246046-images_metadata.json
+[2025-05-17 10:36:29] Checkpoint saved at 246046 images / 3690704 datapoints
+[2025-05-17 10:38:07] Step 115400 | Loss: 8.0938 | LR: 0.0000064 | Images: 246183 | Data points: 3692752 | Time: 2 days, 2:29:06
+[2025-05-17 10:40:38] Step 115500 | Loss: 8.1095 | LR: 0.0000062 | Images: 246396 | Data points: 3695952 | Time: 2 days, 2:31:38
+[2025-05-17 10:43:11] Step 115600 | Loss: 8.1377 | LR: 0.0000060 | Images: 246610 | Data points: 3699152 | Time: 2 days, 2:34:11
+[2025-05-17 10:45:43] Step 115700 | Loss: 8.1864 | LR: 0.0000059 | Images: 246823 | Data points: 3702352 | Time: 2 days, 2:36:43
+[2025-05-17 10:48:16] Step 115800 | Loss: 8.1549 | LR: 0.0000057 | Images: 247036 | Data points: 3705552 | Time: 2 days, 2:39:16
+[2025-05-17 10:50:49] Step 115900 | Loss: 8.2254 | LR: 0.0000055 | Images: 247250 | Data points: 3708752 | Time: 2 days, 2:41:49
+[2025-05-17 10:53:23] Step 116000 | Loss: 8.0060 | LR: 0.0000053 | Images: 247463 | Data points: 3711952 | Time: 2 days, 2:44:22
+[2025-05-17 10:55:56] Step 116100 | Loss: 8.1624 | LR: 0.0000051 | Images: 247676 | Data points: 3715152 | Time: 2 days, 2:46:56
+[2025-05-17 10:58:29] Step 116200 | Loss: 8.1141 | LR: 0.0000049 | Images: 247890 | Data points: 3718352 | Time: 2 days, 2:49:29
+[2025-05-17 11:00:23] Checkpoint metadata saved to ./working/checkpoints/checkpoint-248047-images_metadata.json
+[2025-05-17 11:00:23] Checkpoint saved at 248047 images / 3720712 datapoints
+[2025-05-17 11:01:03] Step 116300 | Loss: 8.0886 | LR: 0.0000047 | Images: 248103 | Data points: 3721552 | Time: 2 days, 2:52:03
+[2025-05-17 11:03:48] Step 116400 | Loss: 8.0437 | LR: 0.0000045 | Images: 248316 | Data points: 3724752 | Time: 2 days, 2:54:48
+[2025-05-17 11:06:22] Step 116500 | Loss: 8.1464 | LR: 0.0000044 | Images: 248530 | Data points: 3727952 | Time: 2 days, 2:57:22
+[2025-05-17 11:08:55] Step 116600 | Loss: 8.1147 | LR: 0.0000042 | Images: 248743 | Data points: 3731152 | Time: 2 days, 2:59:55
+[2025-05-17 11:11:29] Step 116700 | Loss: 8.0985 | LR: 0.0000040 | Images: 248956 | Data points: 3734352 | Time: 2 days, 3:02:28
+[2025-05-17 11:14:02] Step 116800 | Loss: 8.1692 | LR: 0.0000038 | Images: 249170 | Data points: 3737552 | Time: 2 days, 3:05:02
+[2025-05-17 11:16:37] Step 116900 | Loss: 8.1474 | LR: 0.0000036 | Images: 249383 | Data points: 3740752 | Time: 2 days, 3:07:36
+[2025-05-17 11:19:11] Step 117000 | Loss: 8.0449 | LR: 0.0000034 | Images: 249596 | Data points: 3743952 | Time: 2 days, 3:10:11
+[2025-05-17 11:21:45] Step 117100 | Loss: 8.1249 | LR: 0.0000032 | Images: 249810 | Data points: 3747152 | Time: 2 days, 3:12:45
+[2025-05-17 11:24:19] Step 117200 | Loss: 8.0848 | LR: 0.0000031 | Images: 250023 | Data points: 3750352 | Time: 2 days, 3:15:19
+[2025-05-17 11:24:42] Checkpoint metadata saved to ./working/checkpoints/checkpoint-250047-images_metadata.json
+[2025-05-17 11:24:42] Checkpoint saved at 250047 images / 3750720 datapoints
+[2025-05-17 11:26:58] Step 117300 | Loss: 8.0254 | LR: 0.0000029 | Images: 250236 | Data points: 3753552 | Time: 2 days, 3:17:58
+[2025-05-17 11:29:32] Step 117400 | Loss: 8.1788 | LR: 0.0000027 | Images: 250450 | Data points: 3756752 | Time: 2 days, 3:20:32
+[2025-05-17 11:32:05] Step 117500 | Loss: 8.0658 | LR: 0.0000025 | Images: 250663 | Data points: 3759952 | Time: 2 days, 3:23:05
+[2025-05-17 11:34:39] Step 117600 | Loss: 8.0996 | LR: 0.0000023 | Images: 250876 | Data points: 3763152 | Time: 2 days, 3:25:39
+[2025-05-17 11:37:13] Step 117700 | Loss: 8.0363 | LR: 0.0000021 | Images: 251090 | Data points: 3766352 | Time: 2 days, 3:28:13
+[2025-05-17 11:39:46] Step 117800 | Loss: 8.1170 | LR: 0.0000019 | Images: 251303 | Data points: 3769552 | Time: 2 days, 3:30:46
+[2025-05-17 11:42:20] Step 117900 | Loss: 8.1881 | LR: 0.0000017 | Images: 251516 | Data points: 3772752 | Time: 2 days, 3:33:20
+[2025-05-17 11:44:54] Step 118000 | Loss: 8.0933 | LR: 0.0000016 | Images: 251730 | Data points: 3775952 | Time: 2 days, 3:35:53
+[2025-05-17 11:47:27] Step 118100 | Loss: 8.1148 | LR: 0.0000014 | Images: 251943 | Data points: 3779152 | Time: 2 days, 3:38:27
+[2025-05-17 11:48:43] Checkpoint metadata saved to ./working/checkpoints/checkpoint-252048-images_metadata.json
+[2025-05-17 11:48:43] Checkpoint saved at 252048 images / 3780728 datapoints
+[2025-05-17 11:50:01] Step 118200 | Loss: 8.0951 | LR: 0.0000012 | Images: 252156 | Data points: 3782352 | Time: 2 days, 3:41:00
+[2025-05-17 11:52:33] Step 118300 | Loss: 8.1301 | LR: 0.0000010 | Images: 252370 | Data points: 3785552 | Time: 2 days, 3:43:33
+[2025-05-17 11:55:06] Step 118400 | Loss: 8.0762 | LR: 0.0000008 | Images: 252583 | Data points: 3788752 | Time: 2 days, 3:46:06
+[2025-05-17 11:57:39] Step 118500 | Loss: 8.1062 | LR: 0.0000006 | Images: 252796 | Data points: 3791952 | Time: 2 days, 3:48:39
+[2025-05-17 12:00:12] Step 118600 | Loss: 8.1137 | LR: 0.0000004 | Images: 253010 | Data points: 3795152 | Time: 2 days, 3:51:12
+[2025-05-17 12:02:46] Step 118700 | Loss: 8.1528 | LR: 0.0000002 | Images: 253223 | Data points: 3798352 | Time: 2 days, 3:53:46
+[2025-05-17 12:05:20] Step 118800 | Loss: 8.0580 | LR: 0.0000001 | Images: 253436 | Data points: 3801552 | Time: 2 days, 3:56:20
+[2025-05-17 12:19:03] Epoch 3/3 completed in 17:03:49 | Train Loss: 8.1200 | Val Loss: 8.1214 | Images: 253511 | Datapoints: 3802680
+[2025-05-17 12:19:03] Checkpoint metadata saved to ./working/checkpoints/checkpoint-epoch-3_metadata.json
+[2025-05-17 12:19:03] Checkpoint metadata saved to ./working/checkpoints/best_model_metadata.json
+[2025-05-17 12:19:03] New best model saved with validation loss: 8.1214
+[2025-05-17 12:19:04] Training completed in 2 days, 4:10:03
+[2025-05-17 12:19:04] Processed 3802680 datapoints / 253511 images
+[2025-05-17 12:19:04] Best validation loss: 8.1214
+[2025-05-17 12:19:04] Training script finished.

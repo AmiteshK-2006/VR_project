@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/60/603ec237.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the can's label, excluding text and graphics?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What is the primary shape of the product's container?",
+        "answer": "Cylinder"
+      },
+      {
+        "question": "What material appears to constitute the main body of the product packaging?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Considering the label's texture, is it glossy or matte?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What is the most prominent graphic element visible on the can?",
+        "answer": "Logo"
+      },
+      {
+        "question": "What type of text is most extensively featured on the can's label?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Based on the label's typography, what overall feel does it project?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Ignoring the text, what is the visible color scheme of the label's design?",
+        "answer": "Monochromatic"
+      },
+      {
+        "question": "Is the can's label predominantly made of a single color or a variety of colors?",
+        "answer": "Single"
+      },
+      {
+        "question": "What is the overall condition of the can as shown in the image; is it damaged?",
+        "answer": "Undamaged"
+      },
+      {
+        "question": "Is there a visible seal or tamper-evident feature present on the can?",
+        "answer": "No"
+      },
+      {
+        "question": "What kind of information is prominently showcased on the can's label; nutrition or ingredients?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Does the can exhibit any noticeable dents or creases?",
+        "answer": "No"
+      },
+      {
+        "question": "Are there any additional labels, stickers, or markings affixed to the can?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the primary method of communicating information to the customer on the packaging?",
+        "answer": "Text"
+      }
+    ]
+  }
+]

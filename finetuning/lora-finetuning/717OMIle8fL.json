@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/be/be1dedba.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual layout, what is the primary function of this rectangular item, as clearly indicated by its textual content?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the predominant color scheme used in the presented text block, considering the background and font colors?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the visual presentation, what type of information does this label primarily display, as denoted by its headline?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Observing the text arrangement and density, what is the overall visual style of the label's textual content, considering factors like font choice and organization?",
+        "answer": "Compact"
+      },
+      {
+        "question": "Describe the texture of the surface area on which the information is printed as evident from its visual appearance.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the shape of the item holding the textual content, ignoring any variations in shape due to folds or other distortions?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the format of the presented data, taking into account the use of columns, tables, or other organizational structures.",
+        "answer": "Tabular"
+      },
+      {
+        "question": "In observing the overall label, what is the general orientation or positioning of the text blocks, in relation to the edges of the packaging?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Considering the font style, weight, and size used for the main heading, what is its overall visual impression?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Based solely on visual assessment, what is the apparent material of the label\u2019s base, bearing in mind that this is not an image of the food itself?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Judging from the visual characteristics of the text, what is the apparent printing method used to apply the information to the label?",
+        "answer": "Digital"
+      },
+      {
+        "question": "What is the visual appearance of the printed text in terms of its sharpness and legibility?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Describe the visual alignment of the textual data across the label, noting any patterns of alignment such as left, right, or center alignment.",
+        "answer": "Left"
+      },
+      {
+        "question": "Considering the visual impact of the text's size, color, and style, how would you classify its visual readability?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the overall visual impression of the label, in terms of its aesthetic simplicity or complexity?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

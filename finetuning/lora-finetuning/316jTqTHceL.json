@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ed/ede5c80d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the background on which the text is displayed?",
+        "answer": "Purple"
+      },
+      {
+        "question": "What is the precise style of the font used for the words 'INGREDIENTS'?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the text's visual presentation, what is its overall case?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Describe the color of the text printed on the purple backdrop?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the type of text presented, relating to the product's composition?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Judging from the visual, what specific ingredient is prominently mentioned?",
+        "answer": "Clove"
+      },
+      {
+        "question": "In the ingredient list, what is the plant part specified?",
+        "answer": "Bud"
+      },
+      {
+        "question": "Considering the visual, what is the form of the ingredient listed?",
+        "answer": "Oil"
+      },
+      {
+        "question": "What is the scientific name explicitly mentioned for the ingredient?",
+        "answer": "Syzygium"
+      },
+      {
+        "question": "Does the text appear to be printed or hand-written, based on the image?",
+        "answer": "Printed"
+      },
+      {
+        "question": "Based on the visual, is the text justified (left, right, or center)?",
+        "answer": "Left"
+      },
+      {
+        "question": "What is the general texture of the background that displays the text?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the text use any form of bolding or italics for emphasis?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the text show any clear signs of damage or deterioration?",
+        "answer": "No"
+      },
+      {
+        "question": "Is the text arrangement a single line or multi-line?",
+        "answer": "Multiline"
+      }
+    ]
+  }
+]

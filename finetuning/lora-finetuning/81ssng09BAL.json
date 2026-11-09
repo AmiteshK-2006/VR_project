@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/04/0423db06.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color prominently displayed on the packaging's main surface?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the primary textual information conveyed on the box's largest visible area?",
+        "answer": "Cornflakes"
+      },
+      {
+        "question": "Considering the box's overall shape, what geometric form best describes its packaging?",
+        "answer": "Cuboid"
+      },
+      {
+        "question": "What material appears to constitute the primary packaging of this product?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Observing the text's presentation, what is the primary font style employed on the box?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the text size relative to the overall dimensions of the package?",
+        "answer": "Large"
+      },
+      {
+        "question": "Judging from the image, what is the overall condition of the packaging shown?",
+        "answer": "Untouched"
+      },
+      {
+        "question": "What is the weight of the product, as shown in grams on the packaging?",
+        "answer": "500"
+      },
+      {
+        "question": "What is the predominant surface texture of the product packaging box?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the packaging design, what is the implied target audience for this item?",
+        "answer": "General"
+      },
+      {
+        "question": "What is the language used in the text printed on the packaging?",
+        "answer": "English"
+      },
+      {
+        "question": "Are there any noticeable graphics or illustrations besides text on the box?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the overall visual impression of the product's packaging design?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Based on the image, what seems to be the brand of the cornflakes?",
+        "answer": "Solimo"
+      },
+      {
+        "question": "Is the information printed on the packaging in a single or multiple columns?",
+        "answer": "Multiple"
+      }
+    ]
+  }
+]

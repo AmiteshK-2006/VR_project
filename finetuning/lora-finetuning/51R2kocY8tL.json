@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ea/ea22d871.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's visual presentation, what is the overall textual orientation on the depicted label?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Based on the image, what is the predominant color of the text on the product label?",
+        "answer": "White"
+      },
+      {
+        "question": "Examining the label, what is the background color against which the text is displayed?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the typeface style or font used for the words 'INGREDIENTS:' on the displayed label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Judging from the image, what word is prominently featured at the start of the ingredient list?",
+        "answer": "INGREDIENTS"
+      },
+      {
+        "question": "What primary ingredient is clearly stated in the image's visible text regarding the product's composition?",
+        "answer": "Water"
+      },
+      {
+        "question": "Observing the label, what descriptive adjective modifies the word 'water' in the ingredient list?",
+        "answer": "Carbonated"
+      },
+      {
+        "question": "According to the visible text, what type of flavoring is used in this product, as depicted in the image?",
+        "answer": "Natural"
+      },
+      {
+        "question": "Does the displayed text employ any punctuation marks at the end of the complete ingredient list?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Analyzing the visual presentation, what is the overall style of the text on the product label?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the visual character of the text; is it bold, light, or other?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Considering the image, is the text's height uniform or variable across the label?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "In the provided image, how is the spacing of the letters in each word on the label?",
+        "answer": "Even"
+      },
+      {
+        "question": "What is the relative size of the 'INGREDIENTS' text compared to the rest of the text?",
+        "answer": "Larger"
+      },
+      {
+        "question": "Focusing on the visual detail, what is the apparent texture of the surface where the label is printed?",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

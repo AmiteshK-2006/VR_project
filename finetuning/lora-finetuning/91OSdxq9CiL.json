@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c4/c4b9ceb8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the can's label, excluding graphics?",
+        "answer": "White"
+      },
+      {
+        "question": "What type of food product is contained within this cylindrical container?",
+        "answer": "Milk"
+      },
+      {
+        "question": "What is the dominant textual descriptor of the product's form on the label?",
+        "answer": "Evaporated"
+      },
+      {
+        "question": "What material is the primary container made of, judging by its visual properties?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What additional nutritional element is explicitly mentioned on the can's label?",
+        "answer": "Vitamin"
+      },
+      {
+        "question": "What is the explicit certification displayed on the can's label that indicates the absence of a specific chemical?",
+        "answer": "BPA"
+      },
+      {
+        "question": "What is the stated volume of the product indicated on the can's label in fluid ounces?",
+        "answer": "Twelve"
+      },
+      {
+        "question": "What is the shape of the product container, as visibly apparent in the image?",
+        "answer": "Cylinder"
+      },
+      {
+        "question": "What is the overall tone conveyed by the color scheme and typography of the label?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the brand name prominently displayed at the top of the can's label?",
+        "answer": "365"
+      },
+      {
+        "question": "What is the production process denoted on the label that makes this product distinct?",
+        "answer": "Evaporated"
+      },
+      {
+        "question": "What is the governmental agency's seal presented to signify adherence to particular standards?",
+        "answer": "USDA"
+      },
+      {
+        "question": "Describe the texture of the can's surface, based on the image.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall color of the can's container, excluding the label and graphics?",
+        "answer": "Silver"
+      },
+      {
+        "question": "What is depicted on the upper left section of the label beyond the brand name?",
+        "answer": "Leaves"
+      }
+    ]
+  }
+]

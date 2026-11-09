@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/39/3995079e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the phone case's visible material?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the apparent primary material used in constructing this phone case?",
+        "answer": "Silicone"
+      },
+      {
+        "question": "What shape does the overall outline of the protective case most closely resemble?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describing the edge profile, is the phone case's border raised or flat?",
+        "answer": "Raised"
+      },
+      {
+        "question": "Considering the visible texture, is the phone case's surface smooth or rough?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What level of transparency does the phone case exhibit, fully opaque, partially, or clear?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Does the case feature any noticeable design patterns or text across its surface?",
+        "answer": "None"
+      },
+      {
+        "question": "Based on the image, is the phone case rigid or flexible in its construction?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "What appears to be the primary function of this particular item?",
+        "answer": "Protection"
+      },
+      {
+        "question": "Judging by its appearance, is this case designed for a phone or a tablet?",
+        "answer": "Phone"
+      },
+      {
+        "question": "Considering the visual details, does the case completely encapsulate the phone or only partially?",
+        "answer": "Partial"
+      },
+      {
+        "question": "Considering the visible corners, are they rounded, squared, or beveled?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Is the visible surface of the case glossy or matte in finish?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What is the general condition of the shown case, appearing pristine, worn, or damaged?",
+        "answer": "Pristine"
+      },
+      {
+        "question": "Given the visible features, is the case designed for a specific phone model, or more generally?",
+        "answer": "Specific"
+      }
+    ]
+  }
+]

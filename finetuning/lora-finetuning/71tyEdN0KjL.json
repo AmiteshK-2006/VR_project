@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/eb/eb691a11.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the text on the packaging, considering both English and French labels?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the primary language used for the product's description?",
+        "answer": "English"
+      },
+      {
+        "question": "Considering the visible text, what is the overall nature of the product's ingredients, as indicated by the labeling?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Based on the textual information, what is the product's key selling proposition or usage suggestion?",
+        "answer": "Recipes"
+      },
+      {
+        "question": "What is the name of the organization that certifies the organic nature of the product?",
+        "answer": "International"
+      },
+      {
+        "question": "According to the label, where is the product's distributor located?",
+        "answer": "Austin"
+      },
+      {
+        "question": "What is the specified storage requirement for this product, as clearly stated on the packaging?",
+        "answer": "Refrigerated"
+      },
+      {
+        "question": "Observing the packaging, what is the format in which the ingredient information is presented?",
+        "answer": "List"
+      },
+      {
+        "question": "What is the year indicated as the copyright year on this product's packaging?",
+        "answer": "2017"
+      },
+      {
+        "question": "What is the name of the company distributing or selling this product, as clearly printed on the packaging?",
+        "answer": "Wholefoods"
+      },
+      {
+        "question": "What is the state abbreviation displayed in the product's distributor address?",
+        "answer": "TX"
+      },
+      {
+        "question": "What is the general shape of the product's packaging visible in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the main type of bean explicitly listed in the product ingredients?",
+        "answer": "Green"
+      },
+      {
+        "question": "What language is used in the secondary product description on the packaging?",
+        "answer": "French"
+      },
+      {
+        "question": "Based on the visible text, what is the type of information provided below the ingredient list?",
+        "answer": "Distribution"
+      }
+    ]
+  }
+]

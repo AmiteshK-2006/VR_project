@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/dd/dd7d5863.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the presented food item, as shown in the image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent cooking method applied to the food?",
+        "answer": "Grilled"
+      },
+      {
+        "question": "Based on the image, what type of meat is depicted in the presented food package?",
+        "answer": "Chicken"
+      },
+      {
+        "question": "Judging by the shape and size, what cut of chicken appears to be showcased?",
+        "answer": "Breast"
+      },
+      {
+        "question": "Considering the visual appearance, what is the apparent thickness of each individual piece?",
+        "answer": "Thin"
+      },
+      {
+        "question": "What seems to be the general arrangement or stacking pattern of the chicken pieces?",
+        "answer": "Layered"
+      },
+      {
+        "question": "From the image alone, how many individual chicken pieces appear to be included in the package?",
+        "answer": "Twelve"
+      },
+      {
+        "question": "What is the apparent overall shape of the arrangement of grilled chicken pieces?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Observing the visual characteristics, what is the apparent cooking state of the chicken?",
+        "answer": "Cooked"
+      },
+      {
+        "question": "Based on the visual details, what seems to be the surface texture of each chicken piece?",
+        "answer": "SlightlyCrispy"
+      },
+      {
+        "question": "Judging by the visible characteristics, what is the apparent moisture level of the chicken?",
+        "answer": "Dry"
+      },
+      {
+        "question": "Can you describe the visible charring or grill marks on the chicken's surface?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the apparent presentation style of the chicken pieces in the image?",
+        "answer": "Neat"
+      },
+      {
+        "question": "What is the general lightness or darkness of the overall color of the chicken?",
+        "answer": "Light"
+      },
+      {
+        "question": "What is the visible background color behind the food item in the image?",
+        "answer": "White"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/18/18d7aa9e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary textual content displayed prominently on this rectangular item?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Considering the overall layout, what type of information is predominantly presented?",
+        "answer": "Facts"
+      },
+      {
+        "question": "What is the predominant color scheme employed in the presentation of the data?",
+        "answer": "Black"
+      },
+      {
+        "question": "Describe the format in which the nutritional information is structured, based on its visual organization?",
+        "answer": "Table"
+      },
+      {
+        "question": "Considering the visual design, what is the general orientation of the data presented?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the background color of the rectangular item displaying the nutritional information?",
+        "answer": "White"
+      },
+      {
+        "question": "Disregarding the text, describe the overall shape of the item pictured?",
+        "answer": "Rectangle"
+      },
+      {
+        "question": "Based on its appearance and content, what category does this item likely belong to?",
+        "answer": "Food"
+      },
+      {
+        "question": "What is the texture of the surface displaying the nutritional information?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the relative position of the 'Nutrition Facts' header in the image?",
+        "answer": "Top"
+      },
+      {
+        "question": "Describe the font style used for the heading 'Nutrition Facts' based on visual appearance?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the font style used for the majority of the data entries in the table?",
+        "answer": "Regular"
+      },
+      {
+        "question": "Describe the visual style of the lines separating the rows and columns of data in the table?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Considering the text size and visual hierarchy, what aspect receives the most visual emphasis?",
+        "answer": "Header"
+      },
+      {
+        "question": "What is the apparent print quality of the text displayed on this item?",
+        "answer": "Clear"
+      }
+    ]
+  }
+]

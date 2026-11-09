@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/58/589cc804.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the text on the food label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the food packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the predominant material of the food packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What type of font is used for the product name on the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What color is the prominent logo or mark at the bottom left?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the texture of the surface of the packaging?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the color of the background of the nutrition facts panel?",
+        "answer": "White"
+      },
+      {
+        "question": "Describing the barcode's visual pattern, what is its primary color?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the general shape of the nutrition facts panel?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the design elements, what is the label's overall style?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Focusing on the text, what is the predominant language used?",
+        "answer": "English"
+      },
+      {
+        "question": "What is the color of the text for the ingredient list?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on visual cues alone, what is the product's form?",
+        "answer": "Pre-packaged"
+      },
+      {
+        "question": "Observing the typography, what size is the product name text?",
+        "answer": "Large"
+      },
+      {
+        "question": "What is the orientation of the barcode on the label?",
+        "answer": "Horizontal"
+      }
+    ]
+  }
+]

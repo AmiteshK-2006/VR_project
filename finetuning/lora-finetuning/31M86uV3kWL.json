@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ad/adb313aa.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant textual characteristic of the displayed item?",
+        "answer": "Printed"
+      },
+      {
+        "question": "What is the apparent primary function suggested by the textual content?",
+        "answer": "Informative"
+      },
+      {
+        "question": "What kind of information is predominantly conveyed through the text on the item?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Considering the typography, what is the most prevalent font style used?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "In terms of textual arrangement, what is the layout predominantly observed?",
+        "answer": "Linear"
+      },
+      {
+        "question": "What appears to be the textual color used throughout the visible portion?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on visual observation, what is the background color of the displayed text?",
+        "answer": "White"
+      },
+      {
+        "question": "Judging by its look, what is the likely material of the surface that displays the text?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Considering the presented textual information, is the content predominantly descriptive or prescriptive?",
+        "answer": "Descriptive"
+      },
+      {
+        "question": "What is the apparent overall tone communicated by the text's style and content?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "Observing the textual density, would you describe the text as concise or verbose?",
+        "answer": "Concise"
+      },
+      {
+        "question": "In terms of visual hierarchy, which textual element is given prominence in its layout?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Is the textual information primarily presented in the form of complete sentences or fragmented words?",
+        "answer": "Sentences"
+      },
+      {
+        "question": "What is the apparent overall readability of the displayed textual content?",
+        "answer": "High"
+      },
+      {
+        "question": "Based solely on visual inspection, what is the size of the printed text, in relative terms?",
+        "answer": "Small"
+      }
+    ]
+  }
+]

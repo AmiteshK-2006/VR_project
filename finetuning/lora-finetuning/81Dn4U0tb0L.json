@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/39/398cfd2c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the charging cable, as visibly apparent in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "What material appears to constitute the bulk of the charging cable, based on its visual texture and sheen?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the image's perspective, what is the apparent length of the coiled charging cable?",
+        "answer": "Long"
+      },
+      {
+        "question": "What shape best describes the visible configuration of the charging cable on the floor?",
+        "answer": "Coiled"
+      },
+      {
+        "question": "What is the apparent connector type at the end of the cable plugged into the wall outlet?",
+        "answer": "USB"
+      },
+      {
+        "question": "What type of device is the cable visibly charging in the provided image?",
+        "answer": "Tablet"
+      },
+      {
+        "question": "What is the apparent color of the device that is being charged via the cable?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the visible shape of the wall adapter plugged into the electrical outlet?",
+        "answer": "Cuboid"
+      },
+      {
+        "question": "What color is the wall adapter visibly connected to the charging cable?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on visual observation, what is the apparent material of the wall outlet cover?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the general form factor or design of the charging cable, ignoring coils?",
+        "answer": "Slender"
+      },
+      {
+        "question": "Based solely on its visual appearance, what is the surface texture of the cable?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the cable's connection to the tablet, what is the connector type?",
+        "answer": "Lightning"
+      },
+      {
+        "question": "Judging by visual detail, what is the apparent finish of the device being charged?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Considering the image, what is the visible color of the floor surface where the cable is coiled?",
+        "answer": "Brown"
+      }
+    ]
+  }
+]

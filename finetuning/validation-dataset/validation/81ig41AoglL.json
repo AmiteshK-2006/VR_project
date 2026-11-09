@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f7/f7ea0c59.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the primary shape exhibited by the product in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visual texture, what is the apparent surface finish of the item shown?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by its appearance, what color family does the displayed product belong to?",
+        "answer": "Green"
+      },
+      {
+        "question": "What specific shade of green, according to visual observation, best describes the product's hue?",
+        "answer": "Teal"
+      },
+      {
+        "question": "What is the most apparent material composing the majority of the product, according to visual inspection?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Given its folded state, what is the most evident structural feature of this object?",
+        "answer": "Layers"
+      },
+      {
+        "question": "From the image, describe the apparent thickness of the presented product.",
+        "answer": "Thick"
+      },
+      {
+        "question": "Judging by the product's edges, what is the visible condition of its boundaries?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Considering its look, what level of sheen or gloss is visible on the product's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based solely on visual examination, what is the product's overall visual condition?",
+        "answer": "New"
+      },
+      {
+        "question": "What is the most visible characteristic of the product's folded edges?",
+        "answer": "Straight"
+      },
+      {
+        "question": "Does the product appear to have any noticeable pattern or design on its surface?",
+        "answer": "None"
+      },
+      {
+        "question": "Judging by its appearance, how would you characterize the product's overall feel?",
+        "answer": "Soft"
+      },
+      {
+        "question": "In terms of its presentation, does the product look crumpled or neatly folded?",
+        "answer": "Neat"
+      },
+      {
+        "question": "Based on its appearance, how would you categorize the general aesthetic of the product?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

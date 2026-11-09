@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4c/4c623e35.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the displayed substance?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of the dispensed product shown?",
+        "answer": "Teardrop"
+      },
+      {
+        "question": "Considering its visual properties, what is the apparent consistency of the substance?",
+        "answer": "Creamy"
+      },
+      {
+        "question": "Based on its appearance, what is the likely texture of the product shown?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the surface finish of the product sample displayed in the image?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What is the apparent viscosity of the substance, judging by the image?",
+        "answer": "Thick"
+      },
+      {
+        "question": "What is the general form observed in the sample's shape and structure?",
+        "answer": "Fluid"
+      },
+      {
+        "question": "Are there any visible inclusions or particles within the substance shown?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the approximate size and shape of the observed inclusions in the substance?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the number of visible air bubbles or similar imperfections visible?",
+        "answer": "Several"
+      },
+      {
+        "question": "Considering the appearance, what is the material type likely to be?",
+        "answer": "Liquid"
+      },
+      {
+        "question": "What kind of surface does the substance appear to have – matte or glossy?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Does the image suggest a transparent or opaque substance?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What is the visible distribution of particles within the product shown?",
+        "answer": "Scattered"
+      },
+      {
+        "question": "Judging from its form, could this substance be easily poured or spread?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

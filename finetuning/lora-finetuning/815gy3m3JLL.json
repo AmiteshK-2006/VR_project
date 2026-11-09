@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ad/ad675218.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the fabric shown in the image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent feel of this fabric?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Based on the image, what is the general weave structure of the fabric?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Does the image suggest a smooth or textured surface for the material?",
+        "answer": "Textured"
+      },
+      {
+        "question": "From the image, how would you describe the overall visual density of the fabric?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Judging from the visible fibers, what type of fabric is depicted?",
+        "answer": "Cloth"
+      },
+      {
+        "question": "In the provided close-up, does the fabric appear to have any visible pattern?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent finish or treatment of this textile surface?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Does the image reveal a high or low pile in the fabric's structure?",
+        "answer": "Low"
+      },
+      {
+        "question": "Observing the image, is the fabric's color uniform or variegated?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What is the apparent level of sheen or glossiness present in the fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging by the image, is the fabric's structure tightly or loosely woven?",
+        "answer": "Tightly"
+      },
+      {
+        "question": "Does the detailed image reveal any visible irregularities in the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall appearance of the fabric's surface in the supplied image?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Considering the visible structure, what is the likely material category of this fabric?",
+        "answer": "Textile"
+      }
+    ]
+  }
+]

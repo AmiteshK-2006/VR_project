@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f9/f90805bd.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the jar's contents, as visibly shown through the glass?",
+        "answer": "Red"
+      },
+      {
+        "question": "What material appears to constitute the primary container of the product?",
+        "answer": "Glass"
+      },
+      {
+        "question": "What is the general shape of the product's container, disregarding the lid?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What color is the visible portion of the jar's lid, as observed from the back?",
+        "answer": "Gold"
+      },
+      {
+        "question": "What kind of label is present on the back of the jar, indicating distribution?",
+        "answer": "Amazon"
+      },
+      {
+        "question": "What is the texture of the visible content inside the jar, based on the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the overall appearance, what is the likely product category?",
+        "answer": "Sauce"
+      },
+      {
+        "question": "What kind of information is prominently displayed on the product's label?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the color of the text on the product's nutritional label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the apparent material of the label on the jar?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the shape of the topmost part of the product's container?",
+        "answer": "Circular"
+      },
+      {
+        "question": "What type of seal or closure appears to be present on the jar?",
+        "answer": "Screw"
+      },
+      {
+        "question": "Is there a noticeable barcode visible on the product's packaging?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the overall visual condition of the product's packaging?",
+        "answer": "Intact"
+      },
+      {
+        "question": "Based on the image, is the product's packaging transparent or opaque?",
+        "answer": "Transparent"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e3/e3fc0419.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the dominant geometric shape of this item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the most prominent color displayed across the entire surface of the object?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Based on the visual texture, what might be the likely material composition of this product?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Describe the overall visual texture observed across the entire surface area of this product.",
+        "answer": "Woven"
+      },
+      {
+        "question": "Can you describe the apparent finish or sheen of the surface based on the image provided?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Ignoring any minor irregularities, what is the general surface profile of the object?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What seems to be the primary functional purpose, given its shape and material?",
+        "answer": "Decorative"
+      },
+      {
+        "question": "From the image, does the object appear to possess any visible markings or patterns?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on its appearance, could it be described as a rigid or flexible item?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "From a visual inspection, what is the approximate width-to-length ratio of the rectangular item?",
+        "answer": "Narrow"
+      },
+      {
+        "question": "Does the object show any signs of visible seams or joints in the image?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the image, is the product's surface uniformly colored, or are there variations?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Considering the visual details, what is the apparent thickness of the product?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Does the provided image suggest the presence of any additional components or attachments?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the item demonstrate any visual signs of embellishment or added design elements?",
+        "answer": "No"
+      }
+    ]
+  }
+]

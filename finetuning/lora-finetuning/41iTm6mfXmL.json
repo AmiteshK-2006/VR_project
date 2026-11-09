@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/39/39f8f94e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the bottle's main body, as visibly shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the image, what appears to be the material of the bottle's body?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Based on the provided image, what color is the cap or lid at the top of the bottle?",
+        "answer": "Gold"
+      },
+      {
+        "question": "Judging by the visual evidence in the image, what is the overall shape of the bottle?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "From the image, what seems to be the texture of the bottle's glass surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the image show any visible labels or markings on the bottle's main body?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent finish or style of the bottle's cap, as seen in the image?",
+        "answer": "Shiny"
+      },
+      {
+        "question": "Considering the visible elements, describe the cap's design in a single word.",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the visible apparent condition of the bottle (considering scratches, etc.)?",
+        "answer": "Clean"
+      },
+      {
+        "question": "As shown in the picture, what is the apparent transparency of the bottle's contents?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Judging from the image, what is the bottle's apparent manufacturing quality?",
+        "answer": "High"
+      },
+      {
+        "question": "Based on what you can see in the image, does the bottle have a wide or narrow base?",
+        "answer": "Narrow"
+      },
+      {
+        "question": "Referring to the image, is the bottle neck visually apparent?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the primary visible function that this bottle performs, based on its shape and cap?",
+        "answer": "Container"
+      },
+      {
+        "question": "From the picture, does the bottle appear to be empty or full?",
+        "answer": "Full"
+      }
+    ]
+  }
+]

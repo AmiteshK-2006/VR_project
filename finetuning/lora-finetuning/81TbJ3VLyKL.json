@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/41/417d4906.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall color scheme predominantly used in the design of this product's Drug Facts label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary typeface style utilized for the headings and subheadings throughout this product information?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What color is the text used for 'Active ingredients', 'Purpose', 'Warnings', 'Directions', and other such critical sections?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the layout, what is the geometric shape of the main blocks containing the information on the label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What kind of visual separator is used between the various sections of information on the label?",
+        "answer": "Lines"
+      },
+      {
+        "question": "Describe the overall texture of the label, based on visual appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the visual characteristic of the main text blocks in terms of their alignment?",
+        "answer": "Left-aligned"
+      },
+      {
+        "question": "How many distinct columns are present within the 'Directions' section of the provided product label?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the style of the lettering used in the title 'Drug Facts' at the top of the label?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the visual characteristic of the background color of this informative label?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "Describe the visual appearance of the overall design style of the label, is it simple or ornate?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the orientation of the text presented throughout the whole document?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Describe the font weight of the section headers ('Active Ingredients', 'Purpose', etc.)",
+        "answer": "Bold"
+      },
+      {
+        "question": "Is there any presence of graphical elements or icons besides text on the label?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the visual format of the information presented (e.g., paragraphs, lists, tables)?",
+        "answer": "Table"
+      }
+    ]
+  }
+]

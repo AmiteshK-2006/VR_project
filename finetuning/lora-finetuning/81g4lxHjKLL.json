@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e1/e1814695.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular structure and the detailed text blocks, what is the primary shape of the displayed nutritional information panel?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Observing the color scheme, what is the dominant background color of the nutrition facts panel?",
+        "answer": "Green"
+      },
+      {
+        "question": "Focusing on the text's typographic characteristics, what is the font style predominantly used for the category labels (e.g., Calories, Total Fat)?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the visual hierarchy and layout, what is the most prominent textual element on the panel, providing the overarching product description?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Examining the text's size and visual prominence, what is the size designation for a single serving of the product, as depicted numerically?",
+        "answer": "12"
+      },
+      {
+        "question": "Based on the textual content, what is the prominent descriptor used to denote the lack of a certain ingredient, apparent in the upper section?",
+        "answer": "No"
+      },
+      {
+        "question": "Regarding the unit of measurement for the serving size, as depicted numerically and textually, what is the metric volume equivalent shown?",
+        "answer": "360"
+      },
+      {
+        "question": "Regarding the displayed numerical values, what is the highest quantity of a single nutrient category, expressed in milligrams (mg)?",
+        "answer": "1240"
+      },
+      {
+        "question": "Analyzing the provided information, what is the unit of measurement consistently used for energy content, as shown numerically?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Looking at the data presented, what is the nutrient with the highest percentage daily value (%DV) shown, concerning its respective amount?",
+        "answer": "Zinc"
+      },
+      {
+        "question": "Based on the visual presentation, what is the unit of measurement used consistently for the amount of various nutrients?",
+        "answer": "mg"
+      },
+      {
+        "question": "Considering the visual style, what is the textual element used to indicate the relative proportion of a nutrient in a daily diet?",
+        "answer": "%DV"
+      },
+      {
+        "question": "Analyzing the visual characteristics, what is the color of the text used predominantly for the numerical values?",
+        "answer": "Black"
+      },
+      {
+        "question": "Observing the nutritional information, what is the specific unit of measurement for the serving size in the liquid volume?",
+        "answer": "oz"
+      },
+      {
+        "question": "Looking at the numerical data, what is the nutrient with the lowest percentage daily value (%DV), considering the values provided?",
+        "answer": "0"
+      }
+    ]
+  }
+]

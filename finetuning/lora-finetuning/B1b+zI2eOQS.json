@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/09/096ad904.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the fabric shown in the provided image?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering the visible weave, what is the apparent texture of this fabric?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Based on the image, what type of material does the fabric most closely resemble?",
+        "answer": "Linen"
+      },
+      {
+        "question": "Judging by the visual appearance, how would you describe the overall finish of the fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Examining the image closely, what is the apparent density of the fabric weave?",
+        "answer": "Medium"
+      },
+      {
+        "question": "From the provided image, what is the most noticeable characteristic of the fabric's surface?",
+        "answer": "Grain"
+      },
+      {
+        "question": "Can you describe the regularity of the weave pattern in the provided fabric sample?",
+        "answer": "Even"
+      },
+      {
+        "question": "Does the fabric show any noticeable sheen or gloss in the provided image?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the most apparent visual characteristic determining the fabric's feel?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Based on the image, does the fabric appear to have a distinct pattern beyond the weave?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the image, what is the general tone conveyed by the fabric's color?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "Considering the image, is there a discernible pattern or print on the fabric surface?",
+        "answer": "No"
+      },
+      {
+        "question": "How would you describe the overall visual consistency of the fabric's color and texture?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Based on visual inspection, is the fabric's surface smooth or uneven?",
+        "answer": "Uneven"
+      },
+      {
+        "question": "Does the image suggest any significant irregularities in the fabric's weave?",
+        "answer": "No"
+      }
+    ]
+  }
+]

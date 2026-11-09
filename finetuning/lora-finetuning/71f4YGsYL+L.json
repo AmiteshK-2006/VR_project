@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/05/057d35eb.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the text detailing the ingredients and contents?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the text block presenting the product information?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the font style used for the prominent 'INGREDIENTS' heading?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the background color of the complete information panel?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the text's alignment, is it left, center, or right-justified?",
+        "answer": "Left"
+      },
+      {
+        "question": "What is the case of the lettering used for the list of ingredients?",
+        "answer": "Title"
+      },
+      {
+        "question": "Based on visual characteristics, what type of print is used for the listed components?",
+        "answer": "Block"
+      },
+      {
+        "question": "Describe the visual texture of the text on the information panel; is it smooth or grainy?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the text present any noticeable visual distortions or irregularities?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall tone or mood conveyed by the text's visual presentation?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "Can you describe the visual clarity of the text on the product label?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Is the spacing between lines of text uniform throughout the label?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the visual size of the font used for the ingredient list relative to the 'CONTAINS' section?",
+        "answer": "Same"
+      },
+      {
+        "question": "What is the language of the text shown on this food product's label?",
+        "answer": "English"
+      },
+      {
+        "question": "What is the visual style of the brackets used to denote additional information within the ingredient list?",
+        "answer": "Square"
+      }
+    ]
+  }
+]

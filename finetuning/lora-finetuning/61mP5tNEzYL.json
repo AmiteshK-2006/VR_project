@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/60/60d4d47a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant shade observed across the majority of the product's surface?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering its pliable form, what material is most likely responsible for its flexible nature?",
+        "answer": "Silicone"
+      },
+      {
+        "question": "What is the overall three-dimensional form of the item, considering its curvature and lack of sharp edges?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Disregarding the folds, what fundamental geometric shape best describes the product's main body?",
+        "answer": "Oval"
+      },
+      {
+        "question": "Based on the image, what appears to be the primary purpose or function suggested by its design?",
+        "answer": "Coverage"
+      },
+      {
+        "question": "Describe the visible texture on the product's surface, considering the subtle unevenness and lack of clear patterns?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the product's overall design and form, what is its most apparent characteristic?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Given the product's subtle folds, what is the most likely characteristic that enables these curves?",
+        "answer": "Elastic"
+      },
+      {
+        "question": "What can you say about the presence of any distinct patterns or designs visibly present on its surface?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Observing the edges, how would you characterize the transitions between the main body and the thinner sections?",
+        "answer": "Gradual"
+      },
+      {
+        "question": "Considering the material and overall lightness, what is the likely weight of this item?",
+        "answer": "Light"
+      },
+      {
+        "question": "Judging from the appearance, what is the product's most evident state of being, solid, liquid, or gas?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Based on its shape and implied use, what is the product's likely dimension in terms of its thickness?",
+        "answer": "Thin"
+      },
+      {
+        "question": "From the visible elements, what is the item's most apparent state regarding its cleanliness or condition?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Considering the visible form and lack of visible seams, what is the manufacturing method?",
+        "answer": "Molded"
+      }
+    ]
+  }
+]

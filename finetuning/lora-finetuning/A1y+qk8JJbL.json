@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/21/211e07a5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the fabric displayed in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall geometric pattern formed by the fabric's divisions?",
+        "answer": "Grid"
+      },
+      {
+        "question": "Describe the texture of the fabric based on the visible surface details?",
+        "answer": "Woven"
+      },
+      {
+        "question": "What appears to be the primary material composing this fabric?",
+        "answer": "Textile"
+      },
+      {
+        "question": "Considering the visible seams, what is the primary stitching method?",
+        "answer": "Buttoned"
+      },
+      {
+        "question": "What shape are the individual sections created by the stitching?",
+        "answer": "Square"
+      },
+      {
+        "question": "Considering the image's scale and texture, describe the fabric's surface appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the stitching, describe the three-dimensional quality of the fabric?",
+        "answer": "Tufted"
+      },
+      {
+        "question": "Judging by the evenness of the pattern, how would you characterize the workmanship?",
+        "answer": "Neat"
+      },
+      {
+        "question": "What is the apparent visual effect created by the way the light interacts with the fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on the visual details, describe the general style of the fabric's design?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the visible level of detail in the fabric's weave or pattern?",
+        "answer": "Fine"
+      },
+      {
+        "question": "What is the general visual impression of the fabric's appearance?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Describe the depth or thickness of the individual sections based on the image",
+        "answer": "Plump"
+      },
+      {
+        "question": "Considering the uniformity, what is the impression of the fabric's quality?",
+        "answer": "Uniform"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a3/a3ec0ab3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the packaging shown in the image?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the overall shape of the product's packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material appears to be used for the primary packaging?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Considering the image, what kind of text is prominently displayed on the package?",
+        "answer": "Matcha"
+      },
+      {
+        "question": "Does the packaging feature any illustrations or icons of food or beverages?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the visible text, what type of product is this?",
+        "answer": "Matcha"
+      },
+      {
+        "question": "What is the packaging style of the product depicted in the provided image?",
+        "answer": "Sachet"
+      },
+      {
+        "question": "What is the main branding or name displayed on the product packaging?",
+        "answer": "CoolCombo"
+      },
+      {
+        "question": "Is there a nutritional label visible on the package?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging from the image, what is the format of the nutritional information provided?",
+        "answer": "Table"
+      },
+      {
+        "question": "What shade of green best describes the packaging's color?",
+        "answer": "Light"
+      },
+      {
+        "question": "Is there any indication of suggested use for the product on the package?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Can you identify any barcode or identification number printed on the package?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the overall texture of the packaging visually indicated?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the packaging seem to be resealable, based on the visual evidence?",
+        "answer": "No"
+      }
+    ]
+  }
+]

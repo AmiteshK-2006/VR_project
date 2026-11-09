@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c3/c3431613.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the tea box, as shown in the product image?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What kind of tea is indicated on the box's primary label, based on the image?",
+        "answer": "Chamomile"
+      },
+      {
+        "question": "What is the stated quantity of tea bags contained within the box, according to the visual?",
+        "answer": "Twenty"
+      },
+      {
+        "question": "What is the primary material that the product box appears to be made from, judging by the image?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Considering the image, what is the overall shape of the product's packaging container?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the image, what is the brand name printed prominently on the tea box?",
+        "answer": "SOLMO"
+      },
+      {
+        "question": "What type of tea is specified on the packaging, as shown in the product image?",
+        "answer": "Herbal"
+      },
+      {
+        "question": "Describe the text font style used for the brand name on the box, as observed in the image.",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the visual appearance, what is the general texture of the product's box?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the color of the text on the main label of the tea box, according to the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What additional claim regarding artificial ingredients is visible on the box, from the image?",
+        "answer": "Flavors"
+      },
+      {
+        "question": "What is the secondary claim about artificial ingredients, as it is visually displayed on the box?",
+        "answer": "Colors"
+      },
+      {
+        "question": "Based solely on the image, what unit of weight is used to indicate the net weight?",
+        "answer": "Ounces"
+      },
+      {
+        "question": "In the image, what is the net weight of the tea, expressed numerically?",
+        "answer": "0.71"
+      },
+      {
+        "question": "Based on the image provided, what are the units in parentheses after the net weight?",
+        "answer": "Grams"
+      }
+    ]
+  }
+]

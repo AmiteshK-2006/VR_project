@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/14/149c404e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's prominent position and font style, what crucial information does it convey about the product's contents?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Based on the English text, what single agricultural product forms the foundation of this item's composition?",
+        "answer": "Cauliflower"
+      },
+      {
+        "question": "What adjective precedes 'cauliflower' in the English-language ingredient list, suggesting a specific cultivation method?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Observing the text's presentation, what language, besides English, is used to present the ingredient information?",
+        "answer": "French"
+      },
+      {
+        "question": "In the French ingredient description, what's the term used for 'organic' or 'biologically grown'?",
+        "answer": "Biologique"
+      },
+      {
+        "question": "Focusing on the textual elements, what is the consistent term repeated in both English and French sections, signaling the nature of the text?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Considering the typeface characteristics, what best describes the font used to display the text on the product label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Looking at the image, how many lines of text are used to list the ingredient information in English?",
+        "answer": "One"
+      },
+      {
+        "question": "What is the case (uppercase or lowercase) of the words 'Ingredients' in both English and French?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Examine the spacing of words; are there any unusually large gaps between words or letters in the text?",
+        "answer": "No"
+      },
+      {
+        "question": "Observe the background on which the text is printed; what color best describes it?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the approximate size of the text relative to the image; small, medium or large?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Focusing on the typeface style, what descriptor best describes the overall weight (boldness) of the text?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Considering the overall presentation, is the text aligned to the left, center, or right of the image?",
+        "answer": "Left"
+      },
+      {
+        "question": "Considering the color contrast, what is the color of the text against its background?",
+        "answer": "Black"
+      }
+    ]
+  }
+]

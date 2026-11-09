@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/25/254aeeee.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color visible across the entire product surface?",
+        "answer": "Teal"
+      },
+      {
+        "question": "What overall shape best describes the presented product's form?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Considering the product's texture, what tactile characteristic is most prominent?",
+        "answer": "Frosted"
+      },
+      {
+        "question": "Describe the visual pattern dispersed across the product's surface.",
+        "answer": "Speckled"
+      },
+      {
+        "question": "What is the apparent material of construction, given its visual properties?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Judging by the image, does the object appear translucent or opaque?",
+        "answer": "Translucent"
+      },
+      {
+        "question": "Characterize the visual finish of the object's outer surface.",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the object's form, is it elongated or squat in its proportions?",
+        "answer": "Squat"
+      },
+      {
+        "question": "Are there any discernible markings or inscriptions visible on the product?",
+        "answer": "None"
+      },
+      {
+        "question": "Based on the image, is the product's surface uniformly colored or varied?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What is the apparent degree of sheen or gloss evident on the surface?",
+        "answer": "Low"
+      },
+      {
+        "question": "Does the object seem to have any visible seams, joins, or structural elements?",
+        "answer": "No"
+      },
+      {
+        "question": "If the object were held, would it feel smooth or rough to the touch?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the size and distribution of the speckles on the item's surface.",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the apparent level of detail in the surface pattern?",
+        "answer": "Fine"
+      }
+    ]
+  }
+]

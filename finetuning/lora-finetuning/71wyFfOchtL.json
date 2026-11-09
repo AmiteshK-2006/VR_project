@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/60/602435d1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what is the primary function of this packaged item, as visually suggested by its labeling and design?",
+        "answer": "Food"
+      },
+      {
+        "question": "Based on the prominent textual information displayed on the packaging, what specific type of food product does this appear to be?",
+        "answer": "Crackers"
+      },
+      {
+        "question": "Analyzing the visual composition, what is the dominant color scheme employed in the design of the product's packaging?",
+        "answer": "White"
+      },
+      {
+        "question": "From a visual standpoint, what is the most striking textual element featured on the packaging, presumably conveying crucial information about the product?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Considering the visible text blocks, which section appears dedicated to providing nutritional information per serving of the product?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Judging from the image, what recognizable brand or entity is prominently associated with the product's distribution or sale?",
+        "answer": "Amazon"
+      },
+      {
+        "question": "Referring to the provided visual data, what numerical value is prominently displayed, potentially indicating a nutritional attribute such as calories per serving?",
+        "answer": "60"
+      },
+      {
+        "question": "Judging solely from the image, what is the shape of the nutrition facts box on the package?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the color of the text on the Nutrition Facts panel?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the apparent texture of the product's packaging material, based on visual observation?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Visually inspecting the packaging, what is the overall style and feel of the product's branding, such as minimalist, playful, or sophisticated?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Based on visual analysis, can you identify the presence of any barcode or other identification markers on the packaging?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the packaging prominently display any warnings, cautions, or special instructions related to the product's consumption?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the orientation of the nutrition information text on the packaging?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "From the visual data alone, are there any illustrations or graphics used on the product packaging beyond text and branding?",
+        "answer": "No"
+      }
+    ]
+  }
+]

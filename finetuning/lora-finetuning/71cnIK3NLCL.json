@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a9/a90bd114.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the text describing the product's ingredients?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the overall shape of the area containing the ingredient list?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the font style, what is the general appearance of the text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the apparent background color of the ingredient list?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Judging by the text, what is a key ingredient visibly listed?",
+        "answer": "Chicken"
+      },
+      {
+        "question": "Considering the formatting, what is the style of the labeling?",
+        "answer": "List"
+      },
+      {
+        "question": "Does the text indicate the presence of any noticeable additives?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent texture of the area containing the text?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the text's density, what is the general amount of information provided?",
+        "answer": "Extensive"
+      },
+      {
+        "question": "Considering the uppercase and lowercase letters, what type of case is predominantly used?",
+        "answer": "Title"
+      },
+      {
+        "question": "What is the overall visual impression of the ingredients list?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Judging by the font size, how is the text's readability?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Does the ingredient list employ any visible symbols or icons?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the style of the font's appearance?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the visible formatting for emphasis in the text?",
+        "answer": "Parentheses"
+      }
+    ]
+  }
+]

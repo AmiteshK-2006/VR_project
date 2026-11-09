@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2f/2f952ca3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall composition, what is the dominant color scheme of the packaging?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary textual format employed across the product's labeling, concerning ingredients and warnings?",
+        "answer": "List"
+      },
+      {
+        "question": "What kind of font is predominantly used in the prominent ingredient list of the product?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the visible text, what is the most frequently mentioned ingredient in the listing?",
+        "answer": "Water"
+      },
+      {
+        "question": "Disregarding any graphics, what is the primary color of the text used on the product packaging?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the various sections, what is the overarching theme suggested by the packaging's content?",
+        "answer": "Food"
+      },
+      {
+        "question": "Observing the text's layout, which type of statement has been given more prominence: ingredients or warnings?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the dominant texture implied by the background of the packaging (assuming a plain background)?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the orientation of the information presented on the product's label; vertical or horizontal?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Analyzing the spacing between textual elements, what is the overall impression regarding clarity and readability?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Observing the size variations in text, which section seems to be treated as most important?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Considering the language used, what is the presumed audience for this labeling?",
+        "answer": "Consumers"
+      },
+      {
+        "question": "Judging by the labeling style, where would one most likely encounter this product?",
+        "answer": "Store"
+      },
+      {
+        "question": "Considering the overall design and information density, how would you characterize the label's style?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Based purely on the visible text, what is the main purpose of this product?",
+        "answer": "Food"
+      }
+    ]
+  }
+]

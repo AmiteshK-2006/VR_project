@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d5/d5cfb188.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the can's label, excluding text?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary shape of the food product container?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What material appears to constitute the primary packaging?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What is the apparent texture of the pears shown on the label?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the visible label, what fruit is contained within?",
+        "answer": "Pears"
+      },
+      {
+        "question": "What is the preparation style of the pears depicted on the label?",
+        "answer": "Sliced"
+      },
+      {
+        "question": "What color is the top of the can's lid or seal?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the general color of the pears shown on the can?",
+        "answer": "Pale"
+      },
+      {
+        "question": "Describe the overall appearance of the can's label design.",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What type of food product is contained in this can, based on the image?",
+        "answer": "Fruit"
+      },
+      {
+        "question": "Is the text on the label primarily uppercase or lowercase?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "What seems to be the finish of the can's metallic surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the color of the small circle on the label?",
+        "answer": "LightBlue"
+      },
+      {
+        "question": "Does the can show any prominent dents or damage in the image?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on visual cues, what is the approximate size of the can?",
+        "answer": "Small"
+      }
+    ]
+  }
+]

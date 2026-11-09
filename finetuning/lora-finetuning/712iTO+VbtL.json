@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a1/a18309cd.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the LED strip lighting as shown in the product image?",
+        "answer": "Red"
+      },
+      {
+        "question": "What appears to be the primary material encasing the LEDs in this flexible lighting strip?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the image, what is the overall shape of the coiled LED light strip presented?",
+        "answer": "Coil"
+      },
+      {
+        "question": "Based on the image, what is the arrangement of the light-emitting diodes (LEDs) along the strip?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Judging by visual inspection, what seems to be the approximate width of the illuminated LED strip itself?",
+        "answer": "Narrow"
+      },
+      {
+        "question": "From the image, what is the apparent transparency of the material covering the LEDs?",
+        "answer": "Translucent"
+      },
+      {
+        "question": "What is the visual impression of the surface texture of the outer casing of the flexible LED light strip?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the visual characteristic of the light emission from each individual LED as shown in the image?",
+        "answer": "Discrete"
+      },
+      {
+        "question": "Describe the light intensity variation visually apparent across the LED strip, from the image provided.",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What seems to be the general flexibility or rigidity of the strip, as suggested by its coiled form in the image?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "What seems to be the level of protection against external elements, suggested by the transparent coating in the image?",
+        "answer": "Low"
+      },
+      {
+        "question": "Describe the way the LED lights are arranged in terms of their spacing from one another, based on the product image.",
+        "answer": "Close"
+      },
+      {
+        "question": "What is the general appearance of the product's packaging or the method of presentation shown in the provided image?",
+        "answer": "Coiled"
+      },
+      {
+        "question": "What is the apparent overall length of the LED strip lighting, considering the coiled presentation in the image?",
+        "answer": "Long"
+      },
+      {
+        "question": "From the image provided, can you describe the apparent brightness of the LED light emission?",
+        "answer": "Bright"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c2/c21c5cd5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the rectangular packaging box?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What appears to be the primary material of the product's outer packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Considering the box's overall dimensions, what is its shape?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visible text, what language(s) are used on the packaging?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "Describe the texture of the packaging, considering its surface appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What kind of printing is predominantly visible on the packaging's surface?",
+        "answer": "Text"
+      },
+      {
+        "question": "Are there any noticeable images or graphics besides text on the product's box?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall style of the packaging design, considering the text and color?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Judging by the image, is the box sealed or open?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Does the box show any signs of damage or wear visible in the image?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the packaging's size, would you describe it as large, medium, or small?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the apparent condition of the packaging based on its visual appearance?",
+        "answer": "New"
+      },
+      {
+        "question": "Considering the printing detail, is the text sharp or blurry?",
+        "answer": "Sharp"
+      },
+      {
+        "question": "Is the box's color uniform across its visible surfaces?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Are there any noticeable barcodes or other identifying markings present?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

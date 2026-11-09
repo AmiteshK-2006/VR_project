@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2a/2aba0c81.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant textual element displayed prominently on the presented product?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the specified measurement unit used for the serving size of this item?",
+        "answer": "Slice"
+      },
+      {
+        "question": "What is the numerical value indicated for the total amount of fat per serving?",
+        "answer": "8g"
+      },
+      {
+        "question": "What is the numerical value shown for the total cholesterol content in each serving?",
+        "answer": "25mg"
+      },
+      {
+        "question": "What is the numerical value specified for the total sodium content per serving?",
+        "answer": "190mg"
+      },
+      {
+        "question": "What is the numerical value representing the total carbohydrate amount per serving?",
+        "answer": "0g"
+      },
+      {
+        "question": "Considering the textual information, what is the primary unit of measurement for protein quantity?",
+        "answer": "g"
+      },
+      {
+        "question": "What is the percentage value displayed for the vitamin C content in one serving?",
+        "answer": "0%"
+      },
+      {
+        "question": "What is the percentage value indicated for calcium content in each serving?",
+        "answer": "20%"
+      },
+      {
+        "question": "What is the numerical value provided for servings per container?",
+        "answer": "12"
+      },
+      {
+        "question": "What is the primary color scheme of the text on the displayed label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the nutrition facts label depicted in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the general background color of the nutrition facts panel?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the style of the font used for 'Nutrition Facts' on the label?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the specified weight, in grams, of one serving of this food product?",
+        "answer": "28g"
+      }
+    ]
+  }
+]

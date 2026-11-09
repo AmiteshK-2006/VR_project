@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d2/d2355acc.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the bottle's primary label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of the container holding the supplement?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What material appears to comprise the supplement container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the color of the supplement bottle's cap?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary textual description printed on the bottle label?",
+        "answer": "Nighttime"
+      },
+      {
+        "question": "What word follows 'Nighttime' on the main label?",
+        "answer": "Complex"
+      },
+      {
+        "question": "What type of dietary information is prominently displayed?",
+        "answer": "Supplement"
+      },
+      {
+        "question": "What is the stated quantity of capsules inside?",
+        "answer": "60"
+      },
+      {
+        "question": "What is the color scheme of the geometric design on the label?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the texture of the label (based on visual appearance)?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the orientation of the brand name on the container?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Is the brand name primarily uppercase or lowercase?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "What style of font is used for the brand name?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is indicated regarding artificial colors on the label?",
+        "answer": "None"
+      },
+      {
+        "question": "Based on the visible text, what is absent from the product?",
+        "answer": "Gluten"
+      }
+    ]
+  }
+]

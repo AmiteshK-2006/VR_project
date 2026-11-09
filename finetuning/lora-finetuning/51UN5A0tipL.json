@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/65/654f473c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the textual information provided, what primary ingredient is prominently featured in this product?",
+        "answer": "Milk"
+      },
+      {
+        "question": "Based on the text, what processing method is used to prepare the primary ingredient?",
+        "answer": "Pasteurized"
+      },
+      {
+        "question": "What additive, as indicated in the text, is used to help with the product's fermentation process?",
+        "answer": "Enzymes"
+      },
+      {
+        "question": "Judging from the label, what additional ingredient besides milk is mentioned?",
+        "answer": "Salt"
+      },
+      {
+        "question": "What type of milk is specified in the textual content?",
+        "answer": "Part-skim"
+      },
+      {
+        "question": "According to the label, what does this product undeniably contain?",
+        "answer": "Milk"
+      },
+      {
+        "question": "In relation to the ingredient list, what word describes the milk's processing?",
+        "answer": "Cultured"
+      },
+      {
+        "question": "What descriptor indicates the fat content in the milk used?",
+        "answer": "Part-skim"
+      },
+      {
+        "question": "What kind of enzymes are specified in the ingredient list?",
+        "answer": "Microbial"
+      },
+      {
+        "question": "What single word describes the nature of the ingredients listed?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the overall state or status of the ingredients?",
+        "answer": "Listed"
+      },
+      {
+        "question": "What is the textual formatting of the list of items?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the type of text used for the ingredients?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the category of the message on this packaging?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the subject of the information presented?",
+        "answer": "Ingredients"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f6/f69aa759.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the sheet displayed in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the apparent material of the product shown, judging by its appearance and texture?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Considering the image, what is the overall shape of the individual sheets?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visual evidence, does the product appear to be coated or uncoated?",
+        "answer": "Uncoated"
+      },
+      {
+        "question": "Judging from the image, what is the apparent surface texture of the product?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent finish of the visible sheet's surface, considering its light reflection?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Observing the image, is there any visible pattern or design printed on the sheet?",
+        "answer": "None"
+      },
+      {
+        "question": "From the image, how many sheets of paper are partially visible in the product display?",
+        "answer": "Two"
+      },
+      {
+        "question": "Based on the visual evidence provided, what is the product's apparent thickness?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Judging by how the edges are depicted in the image, how are the sheets cut?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Does the image show any visible adhesive or indication of a sticky surface?",
+        "answer": "No"
+      },
+      {
+        "question": "From the photograph, is there any noticeable embossing or raised design on the sheets?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image, what is the perceived opacity of the shown sheets?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Based on the image, does the product have any visible perforations or markings for easy separation?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the general appearance of the paper based on its visible light reflection?",
+        "answer": "Bright"
+      }
+    ]
+  }
+]

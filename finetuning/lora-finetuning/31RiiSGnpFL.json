@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ff/ffbb1ea3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the product's primary label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of the product container?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What appears to be the primary material of the product container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What color is the text on the product's main label?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the size relative to the hand, is the product large or small?",
+        "answer": "Small"
+      },
+      {
+        "question": "Does the product packaging display any illustrative graphics?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the texture of the visible surface of the product container?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Is the product's label primarily text-based or image-based?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the general color scheme of the product's label?",
+        "answer": "Pastel"
+      },
+      {
+        "question": "Are there any noticeable patterns or designs on the product's label?",
+        "answer": "Floral"
+      },
+      {
+        "question": "Does the product's packaging indicate a target age group?",
+        "answer": "Baby"
+      },
+      {
+        "question": "What type of product is suggested by the visible text on the packaging?",
+        "answer": "Sunscreen"
+      },
+      {
+        "question": "Does the product show any visible form of a cap or closure?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the imagery, what is the apparent consistency of the product?",
+        "answer": "Cream"
+      },
+      {
+        "question": "Is the product's packaging predominantly matte or glossy?",
+        "answer": "Matte"
+      }
+    ]
+  }
+]

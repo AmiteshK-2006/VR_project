@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f4/f4d0b89d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the nutrition facts label depicted in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the predominant color of the background of the nutrition facts label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the color of the text on the nutrition facts label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the primary material the nutrition label seems to be printed on?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Considering the textual information present, what is the primary subject matter of the label?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the texture of the nutrition label's surface, based on visual observation?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Is the text on the label primarily aligned left, right, or centered?",
+        "answer": "Left"
+      },
+      {
+        "question": "What kind of font is used predominantly in the label's text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Does the label contain any images aside from text?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the organization, is the structure of information in the label tabular or paragraph style?",
+        "answer": "Tabular"
+      },
+      {
+        "question": "Is the labeling style concise or detailed, considering the amount of information conveyed?",
+        "answer": "Detailed"
+      },
+      {
+        "question": "Are there any noticeable visual inconsistencies in the arrangement of the text?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the visual density, is the text easy or difficult to read?",
+        "answer": "Easy"
+      },
+      {
+        "question": "What is the overall visual tone or impression conveyed by the nutrition label?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Are there any noticeable graphics or design elements other than text?",
+        "answer": "No"
+      }
+    ]
+  }
+]

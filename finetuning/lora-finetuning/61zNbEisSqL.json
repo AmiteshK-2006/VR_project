@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1c/1c91a070.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall shape and structure, what is the most precise geometric descriptor of the bottle's form?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What primary color dominates the liquid visibly contained within the bottle?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "Based on visual observation, what appears to be the dominant material of the bottle's body?",
+        "answer": "Glass"
+      },
+      {
+        "question": "What is the most prominent color used in the text labeling on the bottle?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the visible texture, how would you describe the surface of the bottle?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What material seems to comprise the cap atop the bottle?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the color of the cap on top of the bottle?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the most prominent brand or company name displayed on the label?",
+        "answer": "365"
+      },
+      {
+        "question": "What single word best describes the apparent viscosity of the liquid inside?",
+        "answer": "Oily"
+      },
+      {
+        "question": "Examining the label, what key ingredient is prominently highlighted?",
+        "answer": "Vitamin"
+      },
+      {
+        "question": "What numerical value, representing a unit of measurement, is shown on the label?",
+        "answer": "5000"
+      },
+      {
+        "question": "What additional word following 'Vitamin' on the label denotes its form?",
+        "answer": "E"
+      },
+      {
+        "question": "What unit is used after the number 5000 on the label?",
+        "answer": "IU"
+      },
+      {
+        "question": "What is the general appearance of the liquid, considering its transparency and light interaction?",
+        "answer": "Translucent"
+      },
+      {
+        "question": "Describe the style of the number '365' on the label, considering its typeface and appearance?",
+        "answer": "Sans-serif"
+      }
+    ]
+  }
+]

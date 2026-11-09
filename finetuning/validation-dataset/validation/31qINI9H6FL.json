@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f6/f6745f7a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what is the dominant color used extensively in the background of this product's label?",
+        "answer": "Pink"
+      },
+      {
+        "question": "Examining the text's visual characteristics, what font style is predominantly used to display the product's ingredients?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the text's visual appearance, what is the general size of the text used to list the main ingredients?",
+        "answer": "Large"
+      },
+      {
+        "question": "What is the visual style or appearance of the letters used for the words 'INGREDIENTS' and 'CONTAINS' on the label?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Judging from the visual information, what is the primary ingredient mentioned prominently in the product's description?",
+        "answer": "Milk"
+      },
+      {
+        "question": "Observing the text's arrangement, what is the structural organization of the listed ingredients on the label?",
+        "answer": "List"
+      },
+      {
+        "question": "What is the visual contrast between the text color and the background color of this product label?",
+        "answer": "High"
+      },
+      {
+        "question": "From a visual standpoint, how is the text 'CONTAINS MILK INGREDIENTS' positioned relative to the main ingredients list?",
+        "answer": "Below"
+      },
+      {
+        "question": "What is the case (uppercase or lowercase) of the letters used to display the word 'INGREDIENTS' in the label?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Judging by the visual appearance, what is the overall tone conveyed by the text's style on the label?",
+        "answer": "Informative"
+      },
+      {
+        "question": "What is the visual texture of the background color in the image, is it smooth, grainy, or another description?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Visually assessing the text, is there any noticeable use of italics or other stylistic variations in the displayed words?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the visual alignment of the text on the label, is it left-aligned, centered, or right-aligned?",
+        "answer": "Left"
+      },
+      {
+        "question": "Based on the image, what type of information is primarily communicated through the label's text?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Describe visually the spacing between the lines of text on the product label; is it tight or loose?",
+        "answer": "Loose"
+      }
+    ]
+  }
+]

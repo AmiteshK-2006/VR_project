@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/56/56b1ae82.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color scheme of this nutrition facts label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Focusing on the textual elements, what is the primary font style used throughout the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Observing the arrangement of information, what is the organizational structure employed to present the nutritional data?",
+        "answer": "tabular"
+      },
+      {
+        "question": "Based on the visual layout, what is the primary method used to highlight key nutritional values?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Examining the numerical values, what unit is consistently used to quantify the amount of calories?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Considering the visual hierarchy, what element is most prominently displayed at the top of the label?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Looking at the structure, what is the form in which the data is presented, e.g. chart, list, table?",
+        "answer": "Table"
+      },
+      {
+        "question": "Analyzing the text, what is the specified serving size of the food item?",
+        "answer": "1/3"
+      },
+      {
+        "question": "From the visual details, what is the total number of servings per container according to the label?",
+        "answer": "3"
+      },
+      {
+        "question": "Observing the numerical data, what is the total amount of calories per container according to the label?",
+        "answer": "1000"
+      },
+      {
+        "question": "Based on the visual layout, what is the measurement unit used for the amount of fat?",
+        "answer": "Grams"
+      },
+      {
+        "question": "By observing the label's layout, what is the format used for presenting percentages of daily values?",
+        "answer": "Percentage"
+      },
+      {
+        "question": "From the visual information, identify the unit of measurement used for cholesterol content.",
+        "answer": "Milligrams"
+      },
+      {
+        "question": "Based solely on the visual appearance, what is the overall tone of the label's design?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Analyzing the visual elements, what is the primary communicative purpose of the label's design?",
+        "answer": "Informational"
+      }
+    ]
+  }
+]

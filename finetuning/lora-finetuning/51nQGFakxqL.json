@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9f/9f3a8ea0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the textual information presented, what primary ingredient is prominently featured?",
+        "answer": "Tomatoes"
+      },
+      {
+        "question": "Based on the text provided, what liquid component contributes to the product's composition?",
+        "answer": "Juice"
+      },
+      {
+        "question": "As indicated by the textual data, what mineral compound is included in the ingredient list?",
+        "answer": "Salt"
+      },
+      {
+        "question": "According to the text, which chemical compound acts as an additive or preservative?",
+        "answer": "Chloride"
+      },
+      {
+        "question": "What acidic substance is listed among the ingredients of the product?",
+        "answer": "Acid"
+      },
+      {
+        "question": "What is the word describing the type of salt used?",
+        "answer": "Sea"
+      },
+      {
+        "question": "Referring to the provided text, identify a secondary tomato-related component.",
+        "answer": "Juice"
+      },
+      {
+        "question": "What word describes the chemical class of the added mineral component?",
+        "answer": "Calcium"
+      },
+      {
+        "question": "What is the specific type of acid identified in the list of ingredients?",
+        "answer": "Citric"
+      },
+      {
+        "question": "What is the word preceding 'Chloride' in the list?",
+        "answer": "Calcium"
+      },
+      {
+        "question": "What is the chemical descriptor following 'Citric'?",
+        "answer": "Acid"
+      },
+      {
+        "question": "Based on the text, what is the chemical state of the ingredient 'Salt'?",
+        "answer": "Sea"
+      },
+      {
+        "question": "What single word best describes the function of 'Citric Acid'?",
+        "answer": "Preservative"
+      },
+      {
+        "question": "What adjective modifies 'Acid' to specify its nature?",
+        "answer": "Citric"
+      },
+      {
+        "question": "What is the grammatical function of 'INGREDIENTS'?",
+        "answer": "Label"
+      }
+    ]
+  }
+]

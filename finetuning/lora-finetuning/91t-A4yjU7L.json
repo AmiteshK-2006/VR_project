@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d6/d6d1cb12.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the displayed surface?",
+        "answer": "White"
+      },
+      {
+        "question": "What kind of texture is visible across the entire surface?",
+        "answer": "Woodgrain"
+      },
+      {
+        "question": "Based on the texture, what material is most likely?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Considering the subtle variations, how would you describe the finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Are there any noticeable patterns or designs on the surface?",
+        "answer": "None"
+      },
+      {
+        "question": "Does the surface appear smooth or rough to the touch (visually assessed)?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging from the image, how would you describe the overall look?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Considering the lack of other features, is this item plain?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Observing the image carefully, are there any visible imperfections?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent overall shape of the visible product portion?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Does the image suggest any particular type of wood used?",
+        "answer": "Unknown"
+      },
+      {
+        "question": "Does the visible area show any signs of grain direction?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Is there any visible evidence of knots or other irregularities?",
+        "answer": "No"
+      },
+      {
+        "question": "From the image, is the color uniformly distributed across the surface?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the surface appear reflective or absorptive of light?",
+        "answer": "Absorptive"
+      }
+    ]
+  }
+]

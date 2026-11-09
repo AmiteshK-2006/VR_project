@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/20/20e4e718.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary textual information displayed prominently on the presented label?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Considering the label's text, what is the main ingredient listed in the product?",
+        "answer": "Peanuts"
+      },
+      {
+        "question": "Based on the label's description, what is the preparation method of the peanuts?",
+        "answer": "Roasted"
+      },
+      {
+        "question": "According to the label, what additional ingredient is present alongside peanuts?",
+        "answer": "Salt"
+      },
+      {
+        "question": "What is the style of the text font used to present the ingredient list?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the overall color scheme of the text shown on the product label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Describe the background color of the surface where the text is printed?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the approximate size of the text relative to the overall label dimensions?",
+        "answer": "Large"
+      },
+      {
+        "question": "Judging by the visual appearance, is the label's text bold or regular weight?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the apparent texture of the surface on which the text is printed, based on visual observation?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the case of the letters in the ingredient list shown on the label?",
+        "answer": "Upper"
+      },
+      {
+        "question": "Considering the label's alignment, is the text left-aligned, center-aligned, or right-aligned?",
+        "answer": "Left"
+      },
+      {
+        "question": "Based on the text's presentation, is the label's information concise or verbose?",
+        "answer": "Concise"
+      },
+      {
+        "question": "What kind of label is shown in this image, based on its content and presentation?",
+        "answer": "Ingredient"
+      },
+      {
+        "question": "Given the image, does the label show a list of ingredients or instructions for use?",
+        "answer": "Ingredients"
+      }
+    ]
+  }
+]

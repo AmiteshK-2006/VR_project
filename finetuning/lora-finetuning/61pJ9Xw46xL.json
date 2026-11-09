@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ba/bad54fee.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular layout and text arrangement, what is the dominant structural characteristic of the presented item?",
+        "answer": "Table"
+      },
+      {
+        "question": "Focusing on the left-hand column, what single word best describes the section header's content?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Examining the right-hand column, what kind of information is predominantly conveyed?",
+        "answer": "List"
+      },
+      {
+        "question": "What is the primary visual element used to separate the left and right sections?",
+        "answer": "Line"
+      },
+      {
+        "question": "In terms of the textual font, what stylistic choice predominantly characterizes the presented text?",
+        "answer": "Serif"
+      },
+      {
+        "question": "What visual characteristic describes the text's orientation within the layout?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Considering the image, is the text's alignment within its respective columns uniform?",
+        "answer": "Left"
+      },
+      {
+        "question": "What is the general condition of the text's visual clarity within the image?",
+        "answer": "Clear"
+      },
+      {
+        "question": "From a purely visual perspective, disregarding the content, what is the predominant color palette of this presented item?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the apparent visual quality of the captured image, regarding sharpness and focus?",
+        "answer": "Sharp"
+      },
+      {
+        "question": "In considering the layout design, what is the most appropriate term to describe the structure's organization?",
+        "answer": "Two-column"
+      },
+      {
+        "question": "What would you describe as the text's visual density within the image?",
+        "answer": "High"
+      },
+      {
+        "question": "Based purely on visual characteristics, does the layout appear to be symmetrical or asymmetrical?",
+        "answer": "Asymmetrical"
+      },
+      {
+        "question": "What is the apparent visual texture of the item's overall surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the visual presentation, what could you suggest as the item's intended purpose or function?",
+        "answer": "Informative"
+      }
+    ]
+  }
+]

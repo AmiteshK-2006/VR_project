@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d6/d6895d68.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the primary shape of this object, as seen in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the dominant color of this item, based on the image provided?",
+        "answer": "White"
+      },
+      {
+        "question": "Observing the product's surface, what seems to be the material from which it is constructed?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Focusing on the central feature, what is the shape of the cutout or opening in the item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Examining the texture, how would you describe the surface finish of the object shown?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent function of the rectangular opening present in the object depicted?",
+        "answer": "Handle"
+      },
+      {
+        "question": "Looking closely at the item, can you identify any visible markings or text printed on its surface?",
+        "answer": "Text"
+      },
+      {
+        "question": "Considering the style, what design descriptor best characterizes this item's overall look?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the implied purpose of this object, based on its design and features?",
+        "answer": "Container"
+      },
+      {
+        "question": "Considering its form, would this object be described as rigid or flexible?",
+        "answer": "Rigid"
+      },
+      {
+        "question": "Observing the edges and curves, how would you describe the overall profile of this object?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Based on the image, is the color of the object uniform or variegated?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Judging by its construction, is the object likely opaque or translucent?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Based on the visual characteristics, does the product appear to be lightweight or heavy?",
+        "answer": "Lightweight"
+      },
+      {
+        "question": "From the provided image, what is the apparent thickness of the object?",
+        "answer": "Thin"
+      }
+    ]
+  }
+]

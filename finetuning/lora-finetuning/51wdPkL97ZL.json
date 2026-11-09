@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3c/3c00aa3f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the text detailing the product's ingredients?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the background color of the ingredient list?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the text style used for the heading 'INGREDIENTS'?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the primary font used for the ingredient list?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Describe the text's capitalization style in the ingredients list?",
+        "answer": "Title"
+      },
+      {
+        "question": "What is the text's alignment style in the ingredient list?",
+        "answer": "Left"
+      },
+      {
+        "question": "What kind of punctuation is used to separate ingredients?",
+        "answer": "Comma"
+      },
+      {
+        "question": "What additional statement appears below the ingredient list?",
+        "answer": "Warning"
+      },
+      {
+        "question": "What is the capitalization style of the words 'PRODUCED IN A FACILITY THAT'?",
+        "answer": "Title"
+      },
+      {
+        "question": "What is the word that begins the allergen warning?",
+        "answer": "Produced"
+      },
+      {
+        "question": "What is the final food item listed in the allergen warning?",
+        "answer": "Soy"
+      },
+      {
+        "question": "What is the word used to describe the sugar source?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What type of salt is listed as an ingredient?",
+        "answer": "Sea"
+      },
+      {
+        "question": "What flavor is specifically noted as organic?",
+        "answer": "Vanilla"
+      },
+      {
+        "question": "What is one of the types of nuts mentioned in the warning?",
+        "answer": "Tree"
+      }
+    ]
+  }
+]

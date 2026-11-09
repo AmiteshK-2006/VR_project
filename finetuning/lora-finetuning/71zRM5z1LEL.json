@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4c/4c36c694.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what is the dominant color of the product depicted in the provided image?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What is the apparent physical form or state of the product contained within the jar?",
+        "answer": "Powder"
+      },
+      {
+        "question": "Judging by the visual texture, what would you describe the consistency of the granular substance?",
+        "answer": "Fine"
+      },
+      {
+        "question": "Based on the container's shape, what is the most appropriate geometrical description for the product packaging?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Examining the container's lid, what material seems to have been used in its construction?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "From observing the jar's material, what is the apparent construction material of the main container?",
+        "answer": "Glass"
+      },
+      {
+        "question": "What is the primary method of product information presentation on the packaging, as observed in the image?",
+        "answer": "Label"
+      },
+      {
+        "question": "What is the perceived state of the product's filling level within its container, based on visual inspection?",
+        "answer": "Full"
+      },
+      {
+        "question": "Considering the overall appearance of the product, what is its likely intended culinary application?",
+        "answer": "Baking"
+      },
+      {
+        "question": "Observing the image, what is the general shape of the individual particles within the main container?",
+        "answer": "Granular"
+      },
+      {
+        "question": "Based on its color and texture, what is the most probable nature of the visible substance?",
+        "answer": "Sugar"
+      },
+      {
+        "question": "Analyzing the jar's label, what is the dominant color scheme for the packaging design?",
+        "answer": "White"
+      },
+      {
+        "question": "Focusing on the label, what is the primary design element used to decorate the product information section?",
+        "answer": "Confetti"
+      },
+      {
+        "question": "What is the visible method used for closing the main container of the product in the image?",
+        "answer": "Screw"
+      },
+      {
+        "question": "What appears to be the main function of the clearly visible barcode on the packaging?",
+        "answer": "Identification"
+      }
+    ]
+  }
+]

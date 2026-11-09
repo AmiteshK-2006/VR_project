@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/83/8333885d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant visual texture observed across the entire fabric sample?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Considering the color palette, what single word best describes the overall shade?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Based on visual inspection, what is the apparent material composition of this textile?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Does the fabric exhibit a uniform or varied appearance in its textural pattern?",
+        "answer": "Varied"
+      },
+      {
+        "question": "Can you describe the visual grain direction as perceived in the image?",
+        "answer": "Linear"
+      },
+      {
+        "question": "What is the general visual impression of the fabric's surface – smooth or rough?",
+        "answer": "Rough"
+      },
+      {
+        "question": "If we were to quantify the fabric's color depth, would it be considered light or dark?",
+        "answer": "Light"
+      },
+      {
+        "question": "Considering the image, is the fabric visibly patterned or unpatterned?",
+        "answer": "Unpatterned"
+      },
+      {
+        "question": "What's the overall tone conveyed by the fabric's color, ignoring any variations?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "Does the fabric's texture indicate a high or low level of visual contrast?",
+        "answer": "Low"
+      },
+      {
+        "question": "Describe the predominant color family suggested by the sample's overall hue.",
+        "answer": "Gray"
+      },
+      {
+        "question": "What term would describe the density or spacing of the visible threads or fibers?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Based purely on visual observation, does this fabric appear woven or knitted?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Does the image suggest a matte or glossy finish to the fabric surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "From visual inspection, what is the implied weight or thickness of the fabric?",
+        "answer": "Medium"
+      }
+    ]
+  }
+]

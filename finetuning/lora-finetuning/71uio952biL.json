@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6a/6a4f9901.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant textual characteristic of the presented item?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Based on the visual appearance, what is the primary color scheme employed in the labeling of the food item?",
+        "answer": "Beige"
+      },
+      {
+        "question": "From the image, what appears to be the main method of conveying product information on this food item?",
+        "answer": "Text"
+      },
+      {
+        "question": "Judging solely by the visual attributes, what is the apparent style of the typeface utilized in the presented item's labeling?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the overall shape of the presented informational label component visible in this image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering only the visual aspects, describe the visual texture of the surface on which the text is printed, on the food item's label?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the most apparent visual element that denotes the content is a list of ingredients?",
+        "answer": "Label"
+      },
+      {
+        "question": "What can be visually observed as the primary method of separating distinct ingredient entries within the product labeling?",
+        "answer": "Line-breaks"
+      },
+      {
+        "question": "If one were to describe the size of the lettering on the food item label, what adjective would best represent the overall font size?",
+        "answer": "Small"
+      },
+      {
+        "question": "Based solely on the visible components, describe the visual arrangement of ingredient entries presented on the label?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What descriptive term best captures the visual density of text on the visible food product label?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Describe the visual appearance of the font weight utilized within the ingredient listing on the food product's label?",
+        "answer": "Regular"
+      },
+      {
+        "question": "What is the apparent visual clarity of the text comprising the ingredients list on the provided food item?",
+        "answer": "Clear"
+      },
+      {
+        "question": "If classifying the visual style based on its simplicity, what adjective best represents the food item label design?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Based solely on the visual details, what seems to be the intended medium for presenting the food item's ingredient information?",
+        "answer": "Print"
+      }
+    ]
+  }
+]

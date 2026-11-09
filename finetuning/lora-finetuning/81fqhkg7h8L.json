@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/83/8357f27f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color scheme of the displayed nutritional information?",
+        "answer": "Black"
+      },
+      {
+        "question": "Focusing on the textual elements, what is the typeface used for the primary headings such as 'Nutrition Facts' and 'Calories'?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the general layout structure of the nutritional information, considering the arrangement of the different sections and data points?",
+        "answer": "tabular"
+      },
+      {
+        "question": "What is the primary unit of measurement used for quantitative values like calories, fat, and protein within the provided nutritional information?",
+        "answer": "grams"
+      },
+      {
+        "question": "Observe the text; how is the daily value percentage represented for each nutrient, considering its visual prominence and formatting?",
+        "answer": "numeric"
+      },
+      {
+        "question": "Describe the visual presentation of the daily value percentages in relation to the corresponding nutrient values, noticing any alignment or separation?",
+        "answer": "aligned"
+      },
+      {
+        "question": "What visual cues or design elements are used to differentiate between the various nutrient categories (e.g., fats, carbohydrates, proteins)?",
+        "answer": "sections"
+      },
+      {
+        "question": "Considering the textual components, what is the font style employed for the body text providing details on each nutrient?",
+        "answer": "plain"
+      },
+      {
+        "question": "What is the textual representation of the serving size and how it is presented visually relative to other components?",
+        "answer": "explicit"
+      },
+      {
+        "question": "What visual characteristic best describes the style of the numbers representing the caloric content and daily values?",
+        "answer": "large"
+      },
+      {
+        "question": "Observe the textual presentation; what is the visual characteristic that distinguishes the title 'Nutrition Facts' from other text?",
+        "answer": "large"
+      },
+      {
+        "question": "Observe the structure; what is the visual element that separates the headers from the data entries?",
+        "answer": "lines"
+      },
+      {
+        "question": "Describe the appearance of the overall background of the nutrition label's visual presentation.",
+        "answer": "white"
+      },
+      {
+        "question": "What is the shape of the overall nutrition facts label within the provided image?",
+        "answer": "rectangular"
+      },
+      {
+        "question": "What is the overall visual impression of the nutrition label, such as clean, cluttered, or minimalist?",
+        "answer": "clean"
+      }
+    ]
+  }
+]

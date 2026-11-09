@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a9/a996cbe5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the sofa's upholstery, as shown in the provided image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the image, what appears to be the primary material used for the sofa's covering?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Based on the visual evidence, what is the overall shape or form of the depicted sofa?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging from the image, how many distinct back cushions are visibly present on the sofa?",
+        "answer": "Two"
+      },
+      {
+        "question": "From the provided image, what seems to be the texture of the sofa's upholstery?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What color are the visible legs or feet of the sofa shown in the image?",
+        "answer": "Dark"
+      },
+      {
+        "question": "What design element is noticeable on the upholstery's surface, if any, based solely on the image?",
+        "answer": "Stitching"
+      },
+      {
+        "question": "Considering the image, does the sofa appear to have a high or low profile?",
+        "answer": "Low"
+      },
+      {
+        "question": "According to the image, what is the general style of the sofa's frame?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What material seems to be used for the sofa's base or legs, as shown in the picture?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Based on the image, describe the overall look of the sofa's design; minimalist or ornate?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the apparent height of the back cushions relative to the seat cushions in the provided view?",
+        "answer": "Similar"
+      },
+      {
+        "question": "Judging from the image, what is the visible width of the sofa’s seat in comparison to the back?",
+        "answer": "Equal"
+      },
+      {
+        "question": "In the provided image, what is the overall condition of the sofa’s visible upholstery?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image, describe the visible pattern on the sofa's upholstery?",
+        "answer": "None"
+      }
+    ]
+  }
+]

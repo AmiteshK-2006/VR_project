@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d6/d6ea43bf.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the dominant three-dimensional shape of this product's packaging?",
+        "answer": "Bag"
+      },
+      {
+        "question": "What is the primary color observed prominently on the majority of the product's packaging?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Based on visual inspection of the contents, what seems to be the texture of the product inside the package?",
+        "answer": "Granular"
+      },
+      {
+        "question": "Considering the style of the label and typography, what is the apparent aesthetic classification of the packaging?",
+        "answer": "Rustic"
+      },
+      {
+        "question": "What appears to be the primary material used for the construction of the product's packaging?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Observing the label's design elements, what is the noticeable presence of indicators or certification marks?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Given the visual elements, what seems to be the likely intended use for the product within the packaging?",
+        "answer": "Food"
+      },
+      {
+        "question": "What is the apparent color of the product within the packaging, based solely on visual inspection through the bag?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Examining the label closely, what type of information is displayed in large font sizes to highlight key product attributes?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What type of barcode is prominently presented at the bottom of the packaging for identification purposes?",
+        "answer": "UPC"
+      },
+      {
+        "question": "Observing the shape of the product packaging, would you describe the top portion of the bag as being sealed or open?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Judging by the overall visual characteristics, what does the packaging suggest about the potential target market for this product?",
+        "answer": "Health"
+      },
+      {
+        "question": "Considering the bag's design elements, is there any visual indication of a seal or closure mechanism besides the fold?",
+        "answer": "None"
+      },
+      {
+        "question": "Based on the presence of text, symbols and certifications, what does the packaging suggest about the sourcing or production methods of this product?",
+        "answer": "Sustainable"
+      },
+      {
+        "question": "What can be visually inferred about the size of the product's quantity within its packaging, based on the bag's dimensions and fullness?",
+        "answer": "Large"
+      }
+    ]
+  }
+]

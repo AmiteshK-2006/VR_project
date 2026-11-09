@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/20/20e55ffb.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the coffee bean bag shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary material composing the outer layer of the bag?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Considering the image, what is the overall shape of the product packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on visual inspection, what is the apparent texture of the packaging surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the bag show any visible branding or logos on its front, based on the provided image?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image, is there a noticeable seal or closure mechanism at the top of the bag?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What kind of information is predominantly visible on the back of the bag in the image?",
+        "answer": "Text"
+      },
+      {
+        "question": "Observing the image, is there any visible damage or imperfection on the packaging surface?",
+        "answer": "No"
+      },
+      {
+        "question": "From the provided image, what is the apparent finish or sheen of the bag's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based solely on the visual presentation, does the bag appear to be resealable?",
+        "answer": "No"
+      },
+      {
+        "question": "Looking at the image, what is the general size of the barcode relative to the entire bag?",
+        "answer": "Small"
+      },
+      {
+        "question": "Judging from the image, what seems to be the primary way of dispensing the product from the packaging?",
+        "answer": "Pouring"
+      },
+      {
+        "question": "Does the provided image give any indication of the coffee bean type or roast profile?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the product packaging include any visible graphics or illustrations aside from text?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the image, how many sides of the bag are visually present?",
+        "answer": "One"
+      }
+    ]
+  }
+]

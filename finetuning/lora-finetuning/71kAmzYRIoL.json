@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/45/457041c4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the displayed textile sample?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the texture, what is the most likely material of this fabric swatch?",
+        "answer": "Suede"
+      },
+      {
+        "question": "Based on the visual texture, how would you describe the surface feel of this material?",
+        "answer": "Napped"
+      },
+      {
+        "question": "Does the fabric exhibit a consistent or variegated color distribution throughout?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Judging by the image, what is the overall visual appearance of the fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the apparent direction of the visible fibers or nap in this fabric swatch?",
+        "answer": "Diagonal"
+      },
+      {
+        "question": "Considering the image, what is the general tone of this fabric color?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Does this textile display any noticeable pattern or print in the given image?",
+        "answer": "No"
+      },
+      {
+        "question": "Based solely on the visual texture, what is the level of fabric sheen?",
+        "answer": "Low"
+      },
+      {
+        "question": "From the image, can you discern any visible flaws or imperfections in the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall implied weight or density of the fabric being shown?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Does this textile sample appear to be woven, knitted, or something else?",
+        "answer": "Napped"
+      },
+      {
+        "question": "Based on the image, can you tell if the material has any significant stretch?",
+        "answer": "No"
+      },
+      {
+        "question": "Is there a discernable pile length in the presented fabric sample?",
+        "answer": "Short"
+      },
+      {
+        "question": "Judging from the visual appearance, what is the overall condition of the fabric?",
+        "answer": "New"
+      }
+    ]
+  }
+]

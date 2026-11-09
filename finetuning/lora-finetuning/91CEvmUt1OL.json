@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/20/202114ca.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the product's packaging?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What material appears to constitute the main packaging?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the overall shape of the product's packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the approximate weight indicated on the packaging?",
+        "answer": "500g"
+      },
+      {
+        "question": "What type of food product is depicted in the image on the package?",
+        "answer": "Nuts"
+      },
+      {
+        "question": "What is the style of the graphic design elements on the package?",
+        "answer": "Illustrative"
+      },
+      {
+        "question": "Describe the texture implied by the packaging's appearance.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the color of the illustrated nuts on the package?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Is there text visible on the back of the package?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What language is predominantly used on the product labeling?",
+        "answer": "Italian"
+      },
+      {
+        "question": "Does the packaging appear to be sealed or open?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "What is the orientation of the product image on the packaging?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Are there any noticeable folds or creases in the packaging?",
+        "answer": "No"
+      },
+      {
+        "question": "What kind of printing is used on the package (e.g., gloss, matte)?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the overall condition of the product's packaging?",
+        "answer": "New"
+      }
+    ]
+  }
+]

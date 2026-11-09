@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/18/18e78b0a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the bread's visible surface, considering the overall hue and its variations?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Describe the apparent texture of the bread's outer layer, based solely on visual observation of the image?",
+        "answer": "Coarse"
+      },
+      {
+        "question": "What shape best encapsulates the overall form of the bread loaf as presented in its packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What kind of packaging material appears to be used for the immediate containment of the bread?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the visible components, what primary ingredient seems most prominently featured on the bread's surface?",
+        "answer": "Seeds"
+      },
+      {
+        "question": "Based on the visible texture, what is the likely baking style reflected by the bread's crust?",
+        "answer": "Rustic"
+      },
+      {
+        "question": "Given the visible characteristics, what kind of bread is suggested by the apparent composition and texture?",
+        "answer": "Wholemeal"
+      },
+      {
+        "question": "Does the bread appear to have any notable patterns or markings on its exterior surface?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the overall visual impression of the bread's uniformity in terms of its color and texture?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Judging from the image, is the bread sliced or is it presented as a whole loaf?",
+        "answer": "Whole"
+      },
+      {
+        "question": "What is the primary visible element on the label that clearly states the product's nature?",
+        "answer": "Text"
+      },
+      {
+        "question": "Considering the visual cues, what is the likely predominant consistency of this bread?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Based on its visual appearance, what is the likely level of moisture content present in this bread?",
+        "answer": "Low"
+      },
+      {
+        "question": "Does the bread's visible surface suggest a glossy or matte finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging by the visible components, what is a significant ingredient likely added to this bread?",
+        "answer": "Honey"
+      }
+    ]
+  }
+]

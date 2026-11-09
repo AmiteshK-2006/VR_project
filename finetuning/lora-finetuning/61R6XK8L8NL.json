@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ee/ee4d7fef.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant shape of the light bulbs, as shown in the provided image?",
+        "answer": "A60"
+      },
+      {
+        "question": "What is the primary material visibly composing the exterior of each bulb?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Considering the image, what color is the glass of the light bulbs?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the visible filament design inside each light bulb, in the provided image?",
+        "answer": "Cross"
+      },
+      {
+        "question": "Based on the provided image, what is the base type of the light bulb shown?",
+        "answer": "Edison"
+      },
+      {
+        "question": "Describe the overall visible texture of the glass component of each light bulb shown?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent quantity of light bulbs depicted in the provided image?",
+        "answer": "Six"
+      },
+      {
+        "question": "What is the visible light source type indicated by the internal structure?",
+        "answer": "LED"
+      },
+      {
+        "question": "What is the visible overall finish of the bulbs' external glass surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Focusing solely on the image, what color is the visible metallic base of each bulb?",
+        "answer": "Silver"
+      },
+      {
+        "question": "What is the apparent size of the light bulbs, relative to each other, as seen in the picture?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What is the visible overall arrangement or orientation of the light bulbs presented?",
+        "answer": "Grid"
+      },
+      {
+        "question": "Judging only by the provided image, describe the visible level of detail on the bulbs' exterior?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "Describe the light bulb's visible construction: is it a single piece or composed of parts?",
+        "answer": "Single"
+      },
+      {
+        "question": "Considering the visual details, describe the perceived style of the shown light bulbs?",
+        "answer": "Vintage"
+      }
+    ]
+  }
+]

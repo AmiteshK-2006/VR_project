@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/42/42cdcdc3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the sky depicted in the artwork, considering its overall hue and saturation?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the general color palette of the ground and land formations, considering variations in shading and tone?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the primary type of vegetation or plant life sparsely scattered across the landscape, based on its visual features?",
+        "answer": "Trees"
+      },
+      {
+        "question": "Considering the artistic style and the manner of representation, what artistic medium best characterizes this artwork?",
+        "answer": "Painting"
+      },
+      {
+        "question": "What is the apparent texture of the sky, observed from its visual grain or smoothness?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall shape or format of the artwork, as defined by its bounding rectangular borders?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the approximate texture of the desert landscape, judging by its visual roughness or smoothness?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Describe the visual appearance of the mountains in the distance, based on their clarity and level of detail.",
+        "answer": "Misty"
+      },
+      {
+        "question": "What is the general shape and form of the clouds in the sky, considering their overall structure?",
+        "answer": "Lumpy"
+      },
+      {
+        "question": "What is the apparent style of the painting, considering its brushstrokes and level of detail?",
+        "answer": "Impressionistic"
+      },
+      {
+        "question": "What is the orientation of the artwork, whether landscape or portrait, determined by its longer and shorter sides?",
+        "answer": "Landscape"
+      },
+      {
+        "question": "Judging by the overall tonality and application of color, what feeling does the artwork convey?",
+        "answer": "Calm"
+      },
+      {
+        "question": "What is the overall visual pattern or arrangement of the elements within the artwork's composition?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Describe the distribution and density of trees in the scene, based on their spacing and clustering.",
+        "answer": "Sparse"
+      },
+      {
+        "question": "What is the overall mood or atmosphere evoked by the artwork's color palette and composition?",
+        "answer": "Serene"
+      }
+    ]
+  }
+]

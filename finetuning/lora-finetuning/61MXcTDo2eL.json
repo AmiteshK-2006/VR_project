@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/25/25418372.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual appearance, what single word best describes the predominant color of the contained product?",
+        "answer": "Amber"
+      },
+      {
+        "question": "Based on the image, what is the most apparent shape of the product's container?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Judging by its visual characteristics, what material appears to primarily constitute the product's container?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Analyzing the image, what is the most obvious textural characteristic of the product inside the container?",
+        "answer": "Viscous"
+      },
+      {
+        "question": "From the image alone, what is the most apparent style or type of container employed for the product?",
+        "answer": "Jar"
+      },
+      {
+        "question": "What is the most apparent type of seal or closure visible on the top of the product container?",
+        "answer": "Lid"
+      },
+      {
+        "question": "Observing the image closely, is there a noticeable presence of any visible particulate matter within the product?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the image's details, can you describe the apparent consistency or density of the product?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Based on the image, what type of labeling is primarily used on the jar to provide product information?",
+        "answer": "Text"
+      },
+      {
+        "question": "Judging by the visual details, what is the most prominent design element on the container other than text?",
+        "answer": "Label"
+      },
+      {
+        "question": "What is the overall impression of the transparency of the product's container?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the most dominant color of the label that provides information regarding the product?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on your visual examination, is there any obvious presence of air bubbles visibly trapped within the product?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent visual state of the product within its container: liquid, solid, or otherwise?",
+        "answer": "Liquid"
+      },
+      {
+        "question": "Examining the image, what is the most readily apparent form or presentation style of the product within its container?",
+        "answer": "Jelly"
+      }
+    ]
+  }
+]

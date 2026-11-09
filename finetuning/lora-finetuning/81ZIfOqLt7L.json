@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d9/d9b81a44.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout and the prominent header, what is the primary subject matter depicted on this rectangular label?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the specified measurement unit for the serving size, as clearly indicated on the label?",
+        "answer": "Cup"
+      },
+      {
+        "question": "Observing the numerical value next to 'Calories', what is the calorie count per serving, as shown?",
+        "answer": "160"
+      },
+      {
+        "question": "Focusing on the 'Total Fat' section, what is the amount of total fat in grams per serving?",
+        "answer": "9g"
+      },
+      {
+        "question": "Looking at the 'Total Carbohydrate' section, how many grams of total carbohydrates are present per serving?",
+        "answer": "19g"
+      },
+      {
+        "question": "What is the amount of dietary fiber, in grams, as indicated per serving on the nutrition label?",
+        "answer": "2g"
+      },
+      {
+        "question": "According to the nutrition facts, how many grams of total sugars are found in one serving?",
+        "answer": "14g"
+      },
+      {
+        "question": "Based on the label, how many grams of added sugar are included in a single serving?",
+        "answer": "7g"
+      },
+      {
+        "question": "Examining the protein content section, how many grams of protein does one serving contain?",
+        "answer": "4g"
+      },
+      {
+        "question": "What is the percentage of the daily value for total fat, as displayed in the nutritional information?",
+        "answer": "11%"
+      },
+      {
+        "question": "What is the percentage of the daily value for saturated fat, as indicated on the label?",
+        "answer": "10%"
+      },
+      {
+        "question": "What is the percentage daily value for total carbohydrates, according to the information provided?",
+        "answer": "7%"
+      },
+      {
+        "question": "What percentage of the daily value of dietary fiber is present in a single serving, as shown?",
+        "answer": "8%"
+      },
+      {
+        "question": "What is the percentage of the daily value for added sugars, as presented on the label?",
+        "answer": "14%"
+      },
+      {
+        "question": "Referring to the label, what is the percentage of the daily value for protein in one serving?",
+        "answer": "0%"
+      }
+    ]
+  }
+]

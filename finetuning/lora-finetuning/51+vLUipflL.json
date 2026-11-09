@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ce/ced65e61.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the dominant hue displayed across the entire product's surface, what single-word description best encapsulates its color?",
+        "answer": "Green"
+      },
+      {
+        "question": "Observing the overall form of the item, what geometrical term best describes its primary shape?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Based on the visual texture apparent in the image, what single word best describes the surface feel?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the most visually apparent material composing the primary body of the product, as observed from the image?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describing the pattern seen on the product, what single word best characterizes its design?",
+        "answer": "Striped"
+      },
+      {
+        "question": "Focusing on the color scheme within the pattern, what single word best describes the secondary color?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the product's apparent height compared to its width, what single word best describes its aspect ratio?",
+        "answer": "Tall"
+      },
+      {
+        "question": "Based on the visual presentation, what single word best describes the product's apparent finish or coating?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What is the single word that best describes the way that the colors blend together?",
+        "answer": "Gradual"
+      },
+      {
+        "question": "If you were to describe the overall visual aesthetic of the item, what single word would most accurately capture its style?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Considering the product's visual construction, what single word describes the main structural component?",
+        "answer": "Container"
+      },
+      {
+        "question": "From the image, what single word best describes the orientation of the stripes?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Considering the visual lightness or darkness of the colors used, what single word best describes the overall tone?",
+        "answer": "Light"
+      },
+      {
+        "question": "Considering the image, what single word best describes the apparent level of detail in the product design?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "What single word best describes the product's visual transparency?",
+        "answer": "Opaque"
+      }
+    ]
+  }
+]

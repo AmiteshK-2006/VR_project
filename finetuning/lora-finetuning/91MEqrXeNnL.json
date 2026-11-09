@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a4/a4524620.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the individual light bulbs?",
+        "answer": "Round"
+      },
+      {
+        "question": "What is the predominant color of the light bulbs?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What material appears to constitute the light bulb exteriors?",
+        "answer": "Glass"
+      },
+      {
+        "question": "What color is the packaging card holding the bulbs?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Describe the material of the packaging card holding the bulbs.",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the color of the electrical wire/cord?",
+        "answer": "Black"
+      },
+      {
+        "question": "What seems to be the material of the electrical wire/cord?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the shape of the packaging for the light bulbs?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary color of the electrical sockets?",
+        "answer": "Black"
+      },
+      {
+        "question": "What material are the electrical sockets seemingly made of?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the image, how many bulbs are in the package?",
+        "answer": "Twenty"
+      },
+      {
+        "question": "What is the apparent arrangement of the bulbs in the packaging?",
+        "answer": "Grid"
+      },
+      {
+        "question": "What type of plug is visible on the electrical cord?",
+        "answer": "Standard"
+      },
+      {
+        "question": "What seems to be the overall texture of the light bulb surfaces?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image, what is the visible style of the light bulbs?",
+        "answer": "Classic"
+      }
+    ]
+  }
+]

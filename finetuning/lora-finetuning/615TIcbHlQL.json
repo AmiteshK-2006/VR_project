@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c7/c745d728.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the dog toy, as visibly apparent in the provided image?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the image, what appears to be the primary material composing this dog toy?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Based on the image, what is the overall shape or form factor of the presented dog toy?",
+        "answer": "Oval"
+      },
+      {
+        "question": "From the image, can you describe the surface texture of the dog toy; is it smooth or textured?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Judging from the image, what design elements are noticeable on the dog toy's surface?",
+        "answer": "Grooved"
+      },
+      {
+        "question": "What is the apparent function of the visible raised elements on the toy's surface?",
+        "answer": "Grip"
+      },
+      {
+        "question": "Does the image suggest the presence of any internal components that might create sound?",
+        "answer": "Squeaker"
+      },
+      {
+        "question": "From the image alone, what is the intended use or purpose of the object shown?",
+        "answer": "Toy"
+      },
+      {
+        "question": "According to the image, is the object flexible or rigid in its apparent physical state?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Based only on visual observation, what size or scale can be inferred regarding the presented item?",
+        "answer": "Small"
+      },
+      {
+        "question": "Based on visual cues, what is the apparent weight of the object presented in the image?",
+        "answer": "Light"
+      },
+      {
+        "question": "Judging by the image, what is the object's apparent level of hardness or softness?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What is the suggested thickness of the object shown in the image?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Based on the visual characteristics, what is the apparent translucency of the item?",
+        "answer": "Translucent"
+      },
+      {
+        "question": "Does the image indicate that the item is intended for use by dogs?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ca/ca89e806.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the chocolate bar shown in the image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent consistency of the chocolate?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Based on the image, what is the overall shape of the individual chocolate pieces?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the visible surface texture of the broken chocolate section.",
+        "answer": "Rough"
+      },
+      {
+        "question": "Judging from the image, what seems to be the primary ingredient of this product?",
+        "answer": "Chocolate"
+      },
+      {
+        "question": "What is the noticeable pattern or design imprinted on the chocolate surface?",
+        "answer": "Striped"
+      },
+      {
+        "question": "What is the apparent sheen or gloss level of the chocolate's outer layer?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Considering the visual evidence, is the chocolate bar seemingly milk or dark chocolate?",
+        "answer": "Milk"
+      },
+      {
+        "question": "Considering the image, what appears to be the number of segments the chocolate bar is divided into?",
+        "answer": "Four"
+      },
+      {
+        "question": "Based on the image, how many pieces of chocolate are visibly presented?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the apparent state of the chocolate; is it whole or broken?",
+        "answer": "Broken"
+      },
+      {
+        "question": "From what is observed, what seems to be the general form of the chocolate product?",
+        "answer": "Bar"
+      },
+      {
+        "question": "Does the chocolate appear to have any visible fillings or layers?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the inferred state of the chocolate; is it fresh or stale?",
+        "answer": "Fresh"
+      },
+      {
+        "question": "What is the implied primary function or use of this product?",
+        "answer": "Eating"
+      }
+    ]
+  }
+]

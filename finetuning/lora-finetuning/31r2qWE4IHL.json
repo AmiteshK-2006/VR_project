@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/28/28b3746f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the packaging's background, as shown in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "What type of cheese is explicitly named on the package's label?",
+        "answer": "Parmesan"
+      },
+      {
+        "question": "What is the dominant shape of the cheese product within the packaging, as visibly shown?",
+        "answer": "Shredded"
+      },
+      {
+        "question": "Considering the image, what appears to be the material of the main packaging?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on the visual, what is the general form factor of the product packaging?",
+        "answer": "Pouch"
+      },
+      {
+        "question": "What is the color of the text prominently displayed on the packaging label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Observing the image, what seems to be the texture of the cheese inside the packaging?",
+        "answer": "Shredded"
+      },
+      {
+        "question": "Does the packaging show any visual indicator of a resealable feature?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall color profile of the cheese shreds within the package?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "Considering the image, is there any noticeable branding or logo visible on the package?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What seems to be the primary method of sealing the product packaging shown?",
+        "answer": "Heat-Sealed"
+      },
+      {
+        "question": "Describe the orientation of the cheese within the packaging, as presented in the picture.",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Based solely on the visual, is the product packaging transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What is the apparent size or scale of the product packaging based on the image context?",
+        "answer": "Small"
+      },
+      {
+        "question": "Judging by the picture, is there evidence of any significant damage to the product packaging?",
+        "answer": "No"
+      }
+    ]
+  }
+]

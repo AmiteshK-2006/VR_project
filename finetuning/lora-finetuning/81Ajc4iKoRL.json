@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f5/f517713f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary material visibly composing the entirety of this block?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Considering the visible faces, what geometric form best describes the object's shape?",
+        "answer": "Cube"
+      },
+      {
+        "question": "Based on the visible markings, what game does this object strongly resemble?",
+        "answer": "Dice"
+      },
+      {
+        "question": "Describe the color of the primary material, ignoring any markings or added elements.",
+        "answer": "Beige"
+      },
+      {
+        "question": "What color are the clearly visible circular markings on the object's faces?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the apparent texture of the wooden surface, considering the visible grain?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging from the visible grain patterns, what type of wood seems likely?",
+        "answer": "Pine"
+      },
+      {
+        "question": "How many visible sides display the circular markings, assuming a standard six-sided configuration?",
+        "answer": "Three"
+      },
+      {
+        "question": "Regarding the markings' visual characteristics, what shape do they definitively form?",
+        "answer": "Circles"
+      },
+      {
+        "question": "Focusing only on the visible dots, what is the maximum quantity of dots present on a single face?",
+        "answer": "Three"
+      },
+      {
+        "question": "Does the overall visual appearance suggest the object is intended for use as a decoration or for play?",
+        "answer": "Play"
+      },
+      {
+        "question": "Considering the image resolution, what level of detail is shown in the wooden grain?",
+        "answer": "High"
+      },
+      {
+        "question": "Based purely on visual inspection, how many faces are visible in the provided image?",
+        "answer": "Five"
+      },
+      {
+        "question": "Do the visible markings show any irregularity in their size, placement, or shape?",
+        "answer": "No"
+      },
+      {
+        "question": "Given the object's apparent size and structure, how would you best categorize this item?",
+        "answer": "Game"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/40/40befed1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color scheme of this food product's nutritional information panel?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the primary typeface used to display the nutritional values, as visually observed?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the visual layout, what is the organizational structure of the presented nutritional data?",
+        "answer": "tabular"
+      },
+      {
+        "question": "What is the text size of the 'Nutrition Facts' header relative to the rest of the text, as visually determined?",
+        "answer": "Larger"
+      },
+      {
+        "question": "Describe the visual texture of the background on which the nutritional information is displayed.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the visual appearance of the lines separating the different categories of nutritional information?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Observing the image, what is the visual style employed in presenting the percentage daily values?",
+        "answer": "Numerical"
+      },
+      {
+        "question": "Does the visual presentation of the 'Servings Per Container' information use bold or regular font weight?",
+        "answer": "Regular"
+      },
+      {
+        "question": "What is the visual alignment of the numeric values within each nutritional category?",
+        "answer": "Right"
+      },
+      {
+        "question": "Judging solely by visual cues, what is the overall visual clarity of the nutritional information presented?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Considering the visual hierarchy, what information is emphasized most prominently?",
+        "answer": "Calories"
+      },
+      {
+        "question": "What is the visual style of the 'Percent Daily Values' footnote?",
+        "answer": "Smaller"
+      },
+      {
+        "question": "Judging by visual characteristics alone, what kind of paper stock does the nutritional panel appear to be printed on?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on visual observation, what is the relative proportion of text to white space on the nutritional panel?",
+        "answer": "Balanced"
+      },
+      {
+        "question": "What is the overall visual tone conveyed by the color palette and typography?",
+        "answer": "Neutral"
+      }
+    ]
+  }
+]

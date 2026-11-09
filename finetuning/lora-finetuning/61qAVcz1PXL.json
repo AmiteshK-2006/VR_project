@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c2/c20a3cf6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the provided table's visual structure, what is the primary organizing principle employed to categorize the information?",
+        "answer": "Size"
+      },
+      {
+        "question": "Based on the image, what metric is consistently used as a key measurement for sizing?",
+        "answer": "Waistline"
+      },
+      {
+        "question": "What unit of measurement is visually apparent for the waistline data in the table?",
+        "answer": "Cm"
+      },
+      {
+        "question": "Observing the table, what is the smallest size explicitly indicated?",
+        "answer": "S"
+      },
+      {
+        "question": "What is the largest size visibly presented in the provided sizing chart?",
+        "answer": "XXL"
+      },
+      {
+        "question": "What numerical value is associated with the 'M' size in the chart?",
+        "answer": "90"
+      },
+      {
+        "question": "In the chart, what numerical waistline corresponds to the 'L' size?",
+        "answer": "100"
+      },
+      {
+        "question": "According to the visual data, which size has a corresponding waistline of 110cm?",
+        "answer": "XL"
+      },
+      {
+        "question": "What numerical waistline measurement is listed for the 'XXL' size category?",
+        "answer": "120"
+      },
+      {
+        "question": "What is the colour of the text visible in the presented sizing chart?",
+        "answer": "Grey"
+      },
+      {
+        "question": "What is the general shape of each cell within the displayed sizing chart?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the overall layout of the table shown regarding the arrangement of the data?",
+        "answer": "tabular"
+      },
+      {
+        "question": "Describe the visual appearance of the lines separating the rows and columns in this table?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Visually inspecting the font, what style is it?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the visual background colour of the table provided?",
+        "answer": "Light-grey"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/35/35598780.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the bottle containing the product, as shown in the image?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What color is the predominant shade of the bottle's body, as visually apparent in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the bottle's physical attributes, what material seems most likely given the appearance?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the overall color of the graphic design elements on the front of the bottle?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Describe the texture of the plastic bottle, as it appears visually in the image.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the shape of the design elements on the front, excluding the bottle itself?",
+        "answer": "Teardrop"
+      },
+      {
+        "question": "Considering the visible components, what kind of closure does the bottle use?",
+        "answer": "Flip-top"
+      },
+      {
+        "question": "What is the dominant color of the text on the bottle's label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the image, what seems to be the most likely function of this container?",
+        "answer": "Packaging"
+      },
+      {
+        "question": "What is the main graphical feature displayed on the front of the bottle, excluding text?",
+        "answer": "Droplets"
+      },
+      {
+        "question": "What appears to be the primary manufacturing or recycling symbol present on the label?",
+        "answer": "PET"
+      },
+      {
+        "question": "What is the general style of the label's typography?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the overall design style of the bottle and labeling, as observed visually?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Considering only visual cues, what form of barcode is presented on the bottle's label?",
+        "answer": "UPC"
+      },
+      {
+        "question": "Is there any discernible embossing or texturing present on the bottle itself?",
+        "answer": "No"
+      }
+    ]
+  }
+]

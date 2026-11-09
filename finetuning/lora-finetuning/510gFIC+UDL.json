@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ad/adf33194.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what single word best describes the style of the text?",
+        "answer": "Plain"
+      },
+      {
+        "question": "What is the primary color used for the text's visual appearance in the provided image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Given the visual characteristics, what is the apparent format of the presented text?",
+        "answer": "List"
+      },
+      {
+        "question": "Based on the visual elements, what is the most prominent visual attribute of the text?",
+        "answer": "Wordy"
+      },
+      {
+        "question": "What is the font style appearing across the text's composition, in the product image?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the text's structure, what type of information does the displayed text appear to convey?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Based on the visual analysis, what is the general size of the text in relation to other elements?",
+        "answer": "Small"
+      },
+      {
+        "question": "Observing the text arrangement, does the presented text appear to be organized in a specific manner?",
+        "answer": "Structured"
+      },
+      {
+        "question": "What is the apparent background color against which the text is displayed in the provided image?",
+        "answer": "White"
+      },
+      {
+        "question": "Does the visible text contain any forms of visual embellishments or design elements?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on image analysis, what is the primary information being communicated by this text?",
+        "answer": "List"
+      },
+      {
+        "question": "What is the visual quality of the displayed text \u2014 sharp, blurry, or something else?",
+        "answer": "Sharp"
+      },
+      {
+        "question": "Judging by the image provided, what is the overall textual density?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the text's visual alignment in terms of its arrangement on the surface?",
+        "answer": "Left"
+      },
+      {
+        "question": "If you had to describe the text's visual texture in one word, what would it be?",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

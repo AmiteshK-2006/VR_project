@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/52/52318a72.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout, what is the primary purpose of this rectangular, printed item, based solely on its visual design?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the prominent, uppercase text style at the top of this informative rectangular print?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Observing the visual structure, what specific nutritional component is listed most prominently in this product's label?",
+        "answer": "Sodium"
+      },
+      {
+        "question": "Regarding the textual content, what numerical value follows 'Sodium' to represent its measure?",
+        "answer": "310"
+      },
+      {
+        "question": "Based on the visual characteristics of this printed material, what is the measurement unit used alongside 'Sodium'?",
+        "answer": "mg"
+      },
+      {
+        "question": "By visual inspection, what is the unit used to quantify the serving size of this product, as shown on the label?",
+        "answer": "Cup"
+      },
+      {
+        "question": "What numerical value is explicitly stated within parentheses, following 'Serving Size 1 Cup'?",
+        "answer": "245"
+      },
+      {
+        "question": "Examining the visual design of the label, what is the unit used in conjunction with the number that represents serving size?",
+        "answer": "g"
+      },
+      {
+        "question": "What word is used to describe the number of servings in the container, displayed on the label?",
+        "answer": "Servings"
+      },
+      {
+        "question": "Focusing solely on the visual components, what numerical value indicates the approximate number of servings per container?",
+        "answer": "2"
+      },
+      {
+        "question": "From a purely visual standpoint, what unit is used to measure 'Total Carbohydrate'?",
+        "answer": "g"
+      },
+      {
+        "question": "What numerical value is visually presented alongside 'Total Carbohydrate' on the product label?",
+        "answer": "16"
+      },
+      {
+        "question": "What word is used in the label to indicate the amount of sugar in a serving, based on visual assessment?",
+        "answer": "Sugars"
+      },
+      {
+        "question": "In the visual context of the label, what numerical value directly follows the word 'Sugars'?",
+        "answer": "4"
+      },
+      {
+        "question": "Based on visual observation, what is the unit of measurement following the numerical value representing the amount of sugars?",
+        "answer": "g"
+      }
+    ]
+  }
+]

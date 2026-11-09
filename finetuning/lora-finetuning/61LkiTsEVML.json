@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/64/64992dbf.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant, visually apparent color of the entire product roll shown in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the product's form and how it is presented, what is its most likely functional purpose?",
+        "answer": "Towels"
+      },
+      {
+        "question": "Based on the image, what appears to be the primary material composition of the product?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the overall three-dimensional shape of the presented roll of the product?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Describe the texture of the visible outer surface of the product roll; is it smooth, rough, or something else?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Is there any noticeable pattern or design on the visible surface of the product?",
+        "answer": "None"
+      },
+      {
+        "question": "What color is the interior cardboard core that is partially visible within the roll?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Judging from the image, what is the apparent condition of the product's outer layer\u2014is it pristine, damaged, or worn?",
+        "answer": "Pristine"
+      },
+      {
+        "question": "Does the product roll show any markings, writing, or labels on its exterior surface?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent overall size and scale of the product roll relative to typical household items?",
+        "answer": "Large"
+      },
+      {
+        "question": "Observing the roll's edge and the way it's wound, what would you describe as the relative thickness of the individual sheets?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Based solely on visual inspection, does the product appear to be tightly wound or loosely wound?",
+        "answer": "Tightly"
+      },
+      {
+        "question": "Considering the product's shape and material, what is its primary physical state\u2014solid, liquid, gaseous, or other?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Judging from the image, is the product packaged in any other visible materials beyond itself?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the visual consistency of the product's surface; is it uniform or uneven in appearance?",
+        "answer": "Uniform"
+      }
+    ]
+  }
+]

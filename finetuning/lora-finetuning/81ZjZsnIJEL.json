@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2e/2e19a587.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the visible fabric section?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What appears to be the material of the main body of the product?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Describing the texture of the visible fabric, is it smooth or rough?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What color is the visible seam or binding strip?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What seems to be the material of the inserted strip along the seam?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the image, what is the apparent overall shape of this section?",
+        "answer": "Angular"
+      },
+      {
+        "question": "Based on the visual, how would you describe the construction of the product?",
+        "answer": "Seamed"
+      },
+      {
+        "question": "What is the visible condition of the fabric near the seam?",
+        "answer": "Intact"
+      },
+      {
+        "question": "Considering the gray strip's placement, what is its likely function?",
+        "answer": "Reinforcement"
+      },
+      {
+        "question": "What is the visible pattern on the main fabric surface, if any?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Does the fabric show any signs of significant creasing or wrinkling?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image, what is the visible level of detail?",
+        "answer": "High"
+      },
+      {
+        "question": "Based on the image, is the fabric translucent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Observing the edge of the fabric, is it raw or finished?",
+        "answer": "Finished"
+      },
+      {
+        "question": "Judging from the visible seam, what type of sewing is used?",
+        "answer": "Straight"
+      }
+    ]
+  }
+]

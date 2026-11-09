@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4b/4b9324b9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the displayed material sample?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the overall texture apparent in the provided image?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Considering the visual pattern, what is the dominant orientation of the lines?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Judging by the image, what kind of surface does the material appear to have?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based solely on the visual evidence, what seems to be the material's finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the image show a pattern that is consistent across the whole sample?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What impression of depth does the visual texture of the sample give?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "Describing the image, what is the appearance of the individual lines?",
+        "answer": "Fine"
+      },
+      {
+        "question": "What is the overall visual impression of the provided material sample?",
+        "answer": "Subdued"
+      },
+      {
+        "question": "What is the uniformity of the color and texture across the sample?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Is there a noticeable sheen or gloss visible on the material?",
+        "answer": "No"
+      },
+      {
+        "question": "Can you describe the density of the lines within the visible pattern?",
+        "answer": "Close"
+      },
+      {
+        "question": "What is the main visual characteristic conveyed by the material\u2019s texture?",
+        "answer": "Woven"
+      },
+      {
+        "question": "How would you characterize the visual weight of the lines\u2019 pattern?",
+        "answer": "Light"
+      },
+      {
+        "question": "Considering the visual aspects, what is the primary feature of the presented material?",
+        "answer": "Texture"
+      }
+    ]
+  }
+]

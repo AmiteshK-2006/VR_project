@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/41/412be4d6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary ingredient visibly indicated on the product's label?",
+        "answer": "Potatoes"
+      },
+      {
+        "question": "What type of oil is listed among the ingredients, as visually observed?",
+        "answer": "Canola"
+      },
+      {
+        "question": "Considering the visible ingredient list, which spice is explicitly mentioned?",
+        "answer": "Mustard"
+      },
+      {
+        "question": "Based on the label, what powder is listed as an ingredient?",
+        "answer": "Paprika"
+      },
+      {
+        "question": "What other ingredient, besides potatoes, is prominently listed at the beginning?",
+        "answer": "Sunflower"
+      },
+      {
+        "question": "What type of acid is identified within the visible ingredient list?",
+        "answer": "Citric"
+      },
+      {
+        "question": "What type of salt is visibly present in the ingredient list?",
+        "answer": "Sea"
+      },
+      {
+        "question": "What kind of sugar is visibly mentioned among the components?",
+        "answer": "Cane"
+      },
+      {
+        "question": "Which additional seed is listed alongside sunflower seeds in the ingredient section?",
+        "answer": "Safflower"
+      },
+      {
+        "question": "Observing the label, what is the source of the extract used for coloring?",
+        "answer": "Paprika"
+      },
+      {
+        "question": "What is mentioned as a potential allergen due to processing in the same facility?",
+        "answer": "Milk"
+      },
+      {
+        "question": "According to the visible label, what other allergen might be present due to shared processing?",
+        "answer": "Soy"
+      },
+      {
+        "question": "What flavoring component, besides spices, is explicitly listed?",
+        "answer": "Natural"
+      },
+      {
+        "question": "Based on the label, what is one of the listed spices that are visible?",
+        "answer": "Cinnamon"
+      },
+      {
+        "question": "What other powder is included within the ingredients as visually observed?",
+        "answer": "Tomato"
+      }
+    ]
+  }
+]

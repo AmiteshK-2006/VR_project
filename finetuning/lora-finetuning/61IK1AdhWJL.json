@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/01/01f32677.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color prominently displayed on the packaging, as observed in the provided image?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the overall shape and form factor, what is the most accurate geometrical description of the container?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on visual examination, what appears to be the primary material used for the product's packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the descriptive term, observed visually, for the surface texture of the packaging?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the design element that most prominently displays the key details of the product's contents?",
+        "answer": "Text"
+      },
+      {
+        "question": "Observing the visible text, what percentage of juice is specifically indicated on the label?",
+        "answer": "Twelve"
+      },
+      {
+        "question": "What is the primary method by which the information regarding nutrition facts is conveyed on the product packaging?",
+        "answer": "Table"
+      },
+      {
+        "question": "What unit of measurement is used to display the volume of one serving on the nutrition facts?",
+        "answer": "Ounces"
+      },
+      {
+        "question": "What metric unit is shown, along with ounces, as an alternative measure for serving size?",
+        "answer": "Milliliters"
+      },
+      {
+        "question": "What is the visual element that distinctly separates the different nutritional components listed on the label?",
+        "answer": "Lines"
+      },
+      {
+        "question": "What type of font seems to be primarily used throughout the text displayed on the packaging?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the visual information, what numerical value is provided for the calories per serving?",
+        "answer": "Onehundredforty"
+      },
+      {
+        "question": "According to the image, what is the total amount of calories contained within the entire container?",
+        "answer": "Twoninet"
+      },
+      {
+        "question": "What is the visual style of the numbers used for the calorie count, in terms of size and weight?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What single word best describes the overall presentation of the nutrition facts on the packaging?",
+        "answer": "Organized"
+      }
+    ]
+  }
+]

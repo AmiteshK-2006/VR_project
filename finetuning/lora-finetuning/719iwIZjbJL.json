@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ac/ac12f1ab.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the food product shown in its packaging?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What appears to be the primary shape of the individual food items within the package?",
+        "answer": "Round"
+      },
+      {
+        "question": "What kind of packaging material seems to be encasing the food product?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the visual texture, how would you describe the surface of the food items?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based solely on appearance, what is the apparent consistency of this product?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Does the image suggest any noticeable markings or branding on the food items themselves?",
+        "answer": "None"
+      },
+      {
+        "question": "Judging from the visual, what is the general form factor of this packaged product?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Can you describe the apparent level of gloss or sheen on the product's surface?",
+        "answer": "Slight"
+      },
+      {
+        "question": "Is there any discernible pattern or arrangement of the food items inside the packaging?",
+        "answer": "Linear"
+      },
+      {
+        "question": "What kind of visual impression does the overall packaging give (e.g., clean, rustic)?",
+        "answer": "Clean"
+      },
+      {
+        "question": "From the image, is there any visible evidence of added spices or seasonings?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image alone, what might be the estimated quantity of food items within the package?",
+        "answer": "Four"
+      },
+      {
+        "question": "Does the packaging show any noticeable tears, damage, or significant creases?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the apparent transparency of the primary packaging material.",
+        "answer": "Translucent"
+      },
+      {
+        "question": "Considering the image, what seems to be the overall size of the entire packaged product?",
+        "answer": "Small"
+      }
+    ]
+  }
+]

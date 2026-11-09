@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ba/bac310c8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall design, what is the primary function suggested by the visual layout of this item?",
+        "answer": "Information"
+      },
+      {
+        "question": "Examining the text's visual presentation, what is the dominant textual style employed throughout the item?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the visual prominence of specific data points, what is the key nutrient highlighted in this food product's nutritional profile?",
+        "answer": "Protein"
+      },
+      {
+        "question": "Judging by the visual arrangement and typography, what is the intended audience for the information conveyed on this product?",
+        "answer": "Consumers"
+      },
+      {
+        "question": "Observing the visual cues, what measurement unit is consistently used for the quantity of nutrients presented?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Considering the visual hierarchy and emphasis, what is the most striking numerical value presented on this item?",
+        "answer": "110"
+      },
+      {
+        "question": "From the visual design of data organization, what aspect of nutrition is given the most space or prominence?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Based on the visual characteristics, what is the overall color scheme used in the presentation of this item?",
+        "answer": "Black"
+      },
+      {
+        "question": "Looking at the visual presentation of data, what is the format of the nutritional information presented?",
+        "answer": "Table"
+      },
+      {
+        "question": "In terms of visual weight and density, how would you describe the overall visual presentation of the information presented?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Judging by the visual characteristics, what is the apparent physical form or format of this item?",
+        "answer": "Label"
+      },
+      {
+        "question": "Considering the visual style and layout, what is the overall tone or feel of this product's presentation?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Based on the visual attributes and layout, what is the likely medium on which this item would typically be found?",
+        "answer": "Paper"
+      },
+      {
+        "question": "From a visual perspective, what is the main visual element used to structure the data in this item?",
+        "answer": "Columns"
+      },
+      {
+        "question": "Considering the visual properties, what type of container size is this nutritional information likely associated with?",
+        "answer": "Single"
+      }
+    ]
+  }
+]

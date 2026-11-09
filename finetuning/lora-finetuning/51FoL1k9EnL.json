@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f4/f4c01342.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the container holding the beverage, as depicted in the provided image?",
+        "answer": "Bottle"
+      },
+      {
+        "question": "Considering the image, what primary color dominates the appearance of the liquid inside the bottle?",
+        "answer": "Red"
+      },
+      {
+        "question": "Based on the image, what material seems to be used in the construction of the beverage container?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Observing the image, what is the apparent style or type of the beverage contained within?",
+        "answer": "Soda"
+      },
+      {
+        "question": "From the image, what specific kind of citrus fruit appears to be the primary flavor of the soda?",
+        "answer": "Orange"
+      },
+      {
+        "question": "Examining the label in the image, what is the stated origin or place of production of the product?",
+        "answer": "Italy"
+      },
+      {
+        "question": "Based on the image, what kind of text is predominantly featured on the bottle's label?",
+        "answer": "English"
+      },
+      {
+        "question": "Judging from the image, what is the apparent texture of the bottle's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From the image, what is the overall design style of the label on the bottle; simple, ornate, etc.?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Based on visual inspection of the image, what is the closure mechanism at the top of the beverage bottle?",
+        "answer": "Cap"
+      },
+      {
+        "question": "Judging from the image, what is the general size of the bottle; large, small, or medium?",
+        "answer": "Large"
+      },
+      {
+        "question": "What is the apparent level of the liquid inside the bottle in relation to the container's capacity?",
+        "answer": "Full"
+      },
+      {
+        "question": "Based on the image, what is the description of the fruit depicted on the label; whole or segmented?",
+        "answer": "Sliced"
+      },
+      {
+        "question": "From the visual provided, what is the apparent clarity or transparency of the bottle material?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Judging from the image, is the typeface on the label modern or old-fashioned?",
+        "answer": "Modern"
+      }
+    ]
+  }
+]

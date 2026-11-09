@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4f/4f3e721d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the handbag, as visually apparent in the image?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What appears to be the primary material used in the construction of this handbag?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Considering the overall design, what is the most prominent shape of this handbag?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the visible color of the interior lining of the handbag, as directly observed?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the image alone, describe the texture of the handbag's exterior surface.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What type of closure mechanism is visibly present on the front of the handbag?",
+        "answer": "Clasp"
+      },
+      {
+        "question": "Considering the shape and structure, what is the handbag's apparent style or type?",
+        "answer": "Satchel"
+      },
+      {
+        "question": "Does the handbag possess any visible exterior pockets, judging from the provided image?",
+        "answer": "No"
+      },
+      {
+        "question": "Are there any noticeable brand markings or logos visibly present on the bag's exterior?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the overall visual appearance of the handbag's top handle or strap.",
+        "answer": "Flat"
+      },
+      {
+        "question": "What is the visible color of the hardware elements, such as the clasp, on the bag?",
+        "answer": "Gold"
+      },
+      {
+        "question": "Considering the visible structure, how many main compartments appear to be within the handbag?",
+        "answer": "One"
+      },
+      {
+        "question": "Based solely on the visual evidence, what is the apparent size of this handbag?",
+        "answer": "Medium"
+      },
+      {
+        "question": "From the image, is the handbag's interior structured or unstructured in appearance?",
+        "answer": "Structured"
+      },
+      {
+        "question": "What is the visible condition of the handbag based on image alone, (e.g., new, used, damaged)?",
+        "answer": "New"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a0/a0af5574.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the background on which the product ingredients are printed?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering the text's visual appearance, what kind of font style is primarily used to list the ingredients?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the overall shape of the rectangular area where the ingredients are clearly displayed?",
+        "answer": "Rectangle"
+      },
+      {
+        "question": "Observing the text's alignment within the designated area, how is the ingredient list primarily oriented?",
+        "answer": "Left"
+      },
+      {
+        "question": "Based on the visual texture, what is the apparent finish of the surface on which the ingredients are printed?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Examining the ingredient label's visual structure, what is the primary method used for separating distinct ingredient groups?",
+        "answer": "Line"
+      },
+      {
+        "question": "What color is the ink predominantly used to print the list of product ingredients on the label?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the visual characteristics of the text, what is the general size of the font used for the product ingredient list?",
+        "answer": "Small"
+      },
+      {
+        "question": "Judging from the visual density, how much space is occupied by the text detailing the ingredients within the given area?",
+        "answer": "Dense"
+      },
+      {
+        "question": "What is the visual state of the listed ingredients on the label, in terms of their completeness or incompleteness?",
+        "answer": "Complete"
+      },
+      {
+        "question": "What is the apparent visual case or format used to present the information about the ingredients?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Based on the visual clarity, how easily readable is the text detailing the product's ingredients?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Judging from the visual appearance of the text, does it appear to be written in a specific script?",
+        "answer": "Latin"
+      },
+      {
+        "question": "Does the text use any visual formatting beyond basic alignment to highlight specific sections?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the overall design, is the presentation of the ingredient list visually minimalist or elaborate?",
+        "answer": "Minimalist"
+      }
+    ]
+  }
+]

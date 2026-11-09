@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4b/4befb2a8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape and the distinct organization of textual data, what is the dominant form factor of this product?",
+        "answer": "Label"
+      },
+      {
+        "question": "Focusing on the prominent header text's typeface and style, how would you describe its visual character?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the primary color used for the background of this product, observable against the printed text?",
+        "answer": "White"
+      },
+      {
+        "question": "Examining the textual content, what nutritional value is prominently displayed at the top of this item?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Based on the visual presentation, how is the numerical information pertaining to daily values organized relative to the nutrient list?",
+        "answer": "Tabular"
+      },
+      {
+        "question": "Considering the size and weight estimations provided in the product's description, what is the most likely physical state of the food it describes?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Considering the detailed specifications listed for various nutrients, what type of dietary information is prominently conveyed?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Given the layout and the presence of specific nutrients, what is the likely function of the product shown in the image?",
+        "answer": "Informative"
+      },
+      {
+        "question": "What is the textual style applied to the nutrient information values, which distinguishes them visually?",
+        "answer": "Numeric"
+      },
+      {
+        "question": "Considering the distinct text outlining serving sizes and contents, what kind of visual pattern do these descriptions form?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Regarding the overall clarity of the text, how could you characterize the printing quality of this item?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the relative position of the title, which is noticeably larger than the other elements?",
+        "answer": "Top"
+      },
+      {
+        "question": "Given the detailed layout of the information, what type of visual content do the textual parts comprise?",
+        "answer": "Data"
+      },
+      {
+        "question": "Analyzing the use of percentage values, what is the system of units used for daily nutrient recommendations?",
+        "answer": "Percent"
+      },
+      {
+        "question": "Observing the textual content, what is the overall topic that this product addresses?",
+        "answer": "Nutrition"
+      }
+    ]
+  }
+]

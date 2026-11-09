@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/16/166afc3a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the product packaging as depicted in the image?",
+        "answer": "Teal"
+      },
+      {
+        "question": "What is the overall shape of the product packaging, disregarding any text or logos?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the product's description, what precious metal is prominently mentioned?",
+        "answer": "Gold"
+      },
+      {
+        "question": "Based on the image, what is the dominant font style used for the product name?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the appearance of the text, specifically concerning the product name and tagline?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Describe the texture of the packaging material based on visual inference from the image.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall design aesthetic of the packaging, modern or vintage?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What language(s) are used on the product's packaging, excluding English?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "Judging by the image, what is the general tone of the product's branding?",
+        "answer": "Elegant"
+      },
+      {
+        "question": "Does the packaging show any noticeable patterns or intricate designs aside from text?",
+        "answer": "No"
+      },
+      {
+        "question": "What type of product is the packaging for (as evident from the image alone)?",
+        "answer": "Mask"
+      },
+      {
+        "question": "What is the visual appearance of the branding element at the bottom?",
+        "answer": "Logo"
+      },
+      {
+        "question": "If the packaging were to be categorized by size, what is the most appropriate description?",
+        "answer": "Small"
+      },
+      {
+        "question": "Does the packaging indicate any specific use or benefit of the product (visually)?",
+        "answer": "Brightening"
+      },
+      {
+        "question": "What is the overall visual impression created by the combination of color and typography?",
+        "answer": "Sophisticated"
+      }
+    ]
+  }
+]

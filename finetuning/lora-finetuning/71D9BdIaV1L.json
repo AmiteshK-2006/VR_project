@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/19/19903e8e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color displayed on the washing instruction label?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the overall shape of the information presented on the label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the typography, what is the overall style of the text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the primary method of garment cleaning suggested by the label?",
+        "answer": "Machine"
+      },
+      {
+        "question": "What is the maximum washing temperature recommended in degrees Celsius?",
+        "answer": "30"
+      },
+      {
+        "question": "Does the label advise against bleaching the garment?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is tumble drying recommended for this item, according to the label?",
+        "answer": "No"
+      },
+      {
+        "question": "What temperature setting is recommended for ironing the item?",
+        "answer": "Low"
+      },
+      {
+        "question": "What alternative cleaning method is also suggested on the label?",
+        "answer": "Professional"
+      },
+      {
+        "question": "What type of professional cleaning is indicated on the label?",
+        "answer": "Dry"
+      },
+      {
+        "question": "What is the visual texture of the label's background?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall style of the icons used on the label?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the most prominent brand name displayed on the label?",
+        "answer": "UMI"
+      },
+      {
+        "question": "What is the overall style of the label’s design?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Does the label appear to be printed or digitally rendered?",
+        "answer": "Printed"
+      }
+    ]
+  }
+]

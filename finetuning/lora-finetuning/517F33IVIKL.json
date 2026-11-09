@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f2/f20a9728.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the dominant shape of this item, as shown in the image?",
+        "answer": "Oval"
+      },
+      {
+        "question": "Based on its appearance, what material seems to have been used in the construction of this object?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What single color predominantly defines the visual presentation of this product?",
+        "answer": "White"
+      },
+      {
+        "question": "Observing the handle, what kind of texture is visibly apparent on its surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the image, what is the primary function of this object, considering its design?",
+        "answer": "Spoon"
+      },
+      {
+        "question": "Can you describe the bowl's shape as depicted in the image, ignoring the handle?",
+        "answer": "Round"
+      },
+      {
+        "question": "What is the most apparent design feature along the spoon's handle?",
+        "answer": "Lines"
+      },
+      {
+        "question": "Describe the general visual impression of the spoon's surface finish in the provided image?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Does the spoon's handle appear to have any visible pattern or texture?",
+        "answer": "Striped"
+      },
+      {
+        "question": "Judging solely from the image, what seems to be the spoon's overall size category?",
+        "answer": "Small"
+      },
+      {
+        "question": "Given the appearance, how many distinct components make up this kitchen utensil?",
+        "answer": "One"
+      },
+      {
+        "question": "Does the image present any markings or logos on the spoon?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering its design, would this spoon be typically used for eating what kind of food?",
+        "answer": "Soup"
+      },
+      {
+        "question": "Based on the visual data, what is the primary visual characteristic of the spoon's bowl?",
+        "answer": "Shallow"
+      },
+      {
+        "question": "Considering the materials and construction, does this item project a sense of being disposable?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

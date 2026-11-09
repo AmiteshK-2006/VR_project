@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2b/2b6119f9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color displayed on the product's label?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What material appears to constitute the container's lid?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What is the overall shape of the product's packaging?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the apparent texture of the product inside the jar?",
+        "answer": "Creamy"
+      },
+      {
+        "question": "What is the primary language used for the text on the label?",
+        "answer": "English"
+      },
+      {
+        "question": "What country of origin is indicated on the product's label?",
+        "answer": "France"
+      },
+      {
+        "question": "What is the color of the jar's body, excluding the label?",
+        "answer": "White"
+      },
+      {
+        "question": "Does the label feature any prominent graphic elements beyond text?",
+        "answer": "No"
+      },
+      {
+        "question": "What type of closure mechanism is visible on the container?",
+        "answer": "Screw-top"
+      },
+      {
+        "question": "What unit of measurement is used for the net weight on the label?",
+        "answer": "Ounces"
+      },
+      {
+        "question": "What is the apparent finish of the metal lid?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Is the text on the label predominantly uppercase or lowercase?",
+        "answer": "Mixed"
+      },
+      {
+        "question": "What is the type of recycling symbol visible on the label?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What kind of printing is predominantly used on the label?",
+        "answer": "Text"
+      },
+      {
+        "question": "Considering the product is within a jar, what is the packaging form?",
+        "answer": "Jar"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/61/615fb35e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual appearance, what is the dominant color scheme of the provided text?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the general orientation or arrangement of the text blocks on the page?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Based on the visual characteristics, what is the primary font style used for the majority of the text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Judging from the visual density and spacing, how would you describe the text's overall visual compactness?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Disregarding content, what is the predominant visual texture or quality of the text itself?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the typeface and character shapes, what is the approximate font size range used throughout the text?",
+        "answer": "Small"
+      },
+      {
+        "question": "Considering the visual features of the text, does it appear to be printed or digitally rendered?",
+        "answer": "Printed"
+      },
+      {
+        "question": "From the perspective of visual design, what is the approximate line spacing or leading employed?",
+        "answer": "Tight"
+      },
+      {
+        "question": "Based on visual cues, is there any noticeable variation in font weight or boldness within the text?",
+        "answer": "No"
+      },
+      {
+        "question": "Regarding the visual organization, is the text divided into distinct sections or blocks?",
+        "answer": "Yes"
+      },
+      {
+        "question": "In terms of typography, are there any special characters or symbols used besides standard alphabet letters and numbers?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Assessing the visual consistency, does the text maintain a uniform typeface and character style throughout?",
+        "answer": "Yes"
+      },
+      {
+        "question": "From a visual standpoint, is the text's alignment primarily left, right, center, or justified?",
+        "answer": "Left"
+      },
+      {
+        "question": "By visual inspection of the text block, does the image show any obvious signs of text truncation or cut-off words?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by visual features alone, what is the overall visual style of the text – formal, informal, or neutral?",
+        "answer": "Neutral"
+      }
+    ]
+  }
+]

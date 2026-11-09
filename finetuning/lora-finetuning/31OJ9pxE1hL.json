@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0f/0f1d8591.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the textual information displayed in the image, what is the primary material used in the product's construction?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Based on the visible text, what specific type of cotton is mentioned in relation to the product's composition?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Observing the text carefully, what certification or designation is explicitly associated with the cotton used?",
+        "answer": "Certified"
+      },
+      {
+        "question": "What percentage of the product's composition is attributed to this specific type of cotton, as stated in the image?",
+        "answer": "100%"
+      },
+      {
+        "question": "What word precedes the detailed description of the product's composition, acting as a label?",
+        "answer": "Composition"
+      },
+      {
+        "question": "In the provided text, what verb is used to describe the process of making the product?",
+        "answer": "Made"
+      },
+      {
+        "question": "What is the overall tone or style of the lettering visible in the image; is it formal or informal?",
+        "answer": "Formal"
+      },
+      {
+        "question": "What is the case of the letters used throughout the visible text—uppercase or lowercase?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Judging by the font and clarity of the text, is the text printed, stamped, or embroidered onto the product?",
+        "answer": "Printed"
+      },
+      {
+        "question": "What is the general color of the text shown against its background?",
+        "answer": "Grey"
+      },
+      {
+        "question": "Considering the style of the letters, what era does it seem to evoke—modern or classic?",
+        "answer": "Classic"
+      },
+      {
+        "question": "Can you observe any symbols or punctuation within the text other than letters and spaces?",
+        "answer": "Percent"
+      },
+      {
+        "question": "Does the text appear to be written in a single line or are there multiple lines present?",
+        "answer": "Single"
+      },
+      {
+        "question": "In terms of alignment, is the text left-aligned, right-aligned, or centered?",
+        "answer": "Left"
+      },
+      {
+        "question": "Judging from the image alone, is the text easily legible or partially obscured?",
+        "answer": "Legible"
+      }
+    ]
+  }
+]

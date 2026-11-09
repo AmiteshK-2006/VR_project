@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5d/5da358a5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the predominant color of the surface shown?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Based on the visible texture and grain, what material is primarily mimicked in the image?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Analyzing the parallel lines throughout the surface, what is the dominant visual pattern observed?",
+        "answer": "Grain"
+      },
+      {
+        "question": "From the image, what is the apparent finish of the depicted surface, considering its visual smoothness or roughness?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging from the image's details, what is the perceived texture of the represented surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the image's resolution and detail, how would you describe the uniformity of the depicted pattern?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Observing the color variation across the visible area, how would you characterize the tonal range?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "Regarding the fine details, are there any noticeably prominent or distinct markings in the image?",
+        "answer": "None"
+      },
+      {
+        "question": "Based on its visual qualities, does the image exhibit any visible signs of gloss or shine?",
+        "answer": "No"
+      },
+      {
+        "question": "From the visual appearance, how would you describe the direction of the wood grain pattern?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Does the image depict any visible knots, cracks, or other wood imperfections?",
+        "answer": "No"
+      },
+      {
+        "question": "Is there any perceptible three-dimensional structure, like raised elements or depth, visually present?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image, is the surface predominantly light or dark in terms of tonal value?",
+        "answer": "Light"
+      },
+      {
+        "question": "What is the apparent visual style of the product based on its color and texture?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Does the visible texture indicate a natural or synthetic origin of the material?",
+        "answer": "Synthetic"
+      }
+    ]
+  }
+]

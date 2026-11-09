@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f7/f747ef16.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary textual information presented on the rectangular surface shown in the image?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Considering the overall layout, what is the dominant orientation of the displayed text blocks?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the color of the primary background behind the textual content on the food label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the predominant color used for the text printed on this nutritional information label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the visual presentation, what type of information is being conveyed on the label?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the font style predominantly used to display the label's information?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the style of the text's arrangement in terms of its organization within the label?",
+        "answer": "tabular"
+      },
+      {
+        "question": "Describe the visual texture of the surface on which the nutritional data is printed.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the shape of the outer boundary of the nutrition facts label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Can you describe the overall visual tone or feeling conveyed by the design of the label?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Observe the title at the very top; what is the prominent phrase used there?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "How many main sections or categories of information can be visually distinguished?",
+        "answer": "Many"
+      },
+      {
+        "question": "What is the visual style of the numbers presented as part of the nutritional values?",
+        "answer": "Arabic"
+      },
+      {
+        "question": "What unit of measurement is visibly used to represent the quantity of 'Total Fat'?",
+        "answer": "grams"
+      },
+      {
+        "question": "What is the visual prominence of the serving size information compared to other parts of the label?",
+        "answer": "Prominent"
+      }
+    ]
+  }
+]

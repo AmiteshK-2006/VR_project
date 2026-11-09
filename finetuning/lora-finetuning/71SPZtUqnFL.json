@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5f/5f7b57a5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the presented object, as observed visually?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the overall form, what is the most accurate geometric description of the item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material appears to constitute the primary component of this product, based solely on visual examination?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Observing the surface texture, what tactile quality does the item's exterior suggest?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the object exhibit any noticeable pattern or design on its visible surfaces?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What type of closure or fastening mechanism is visually apparent on the product?",
+        "answer": "None"
+      },
+      {
+        "question": "Is there an indication of any branding, logos, or markings visible on the item's exterior?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image, is there evidence suggesting any significant wear or damage to the product?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from its visual presentation, what is the most probable functionality of the item shown?",
+        "answer": "Case"
+      },
+      {
+        "question": "Describing the object's profile, what is its general shape in a single word?",
+        "answer": "Slender"
+      },
+      {
+        "question": "Observing the edges, are they sharp or rounded?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Considering the object's overall size, would you classify it as small, medium, or large?",
+        "answer": "Small"
+      },
+      {
+        "question": "Does the product appear to be composed of a single material or multiple?",
+        "answer": "Single"
+      },
+      {
+        "question": "Considering the object's apparent flexibility, would it be described as rigid or pliable?",
+        "answer": "Pliable"
+      },
+      {
+        "question": "From the image alone, does the item seem to be intended for personal or professional use?",
+        "answer": "Personal"
+      }
+    ]
+  }
+]

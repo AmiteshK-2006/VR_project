@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0a/0ac83b15.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the packaging shown in the provided image?",
+        "answer": "White"
+      },
+      {
+        "question": "What language is primarily used for the text displayed on the product packaging?",
+        "answer": "Spanish"
+      },
+      {
+        "question": "What kind of information is prominently conveyed on the packaging regarding the product's contents?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Considering the text's appearance, what is the likely printing method used for the product labeling?",
+        "answer": "Offset"
+      },
+      {
+        "question": "What is the overall shape of the depicted product packaging, considering its three panels?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visible text, what category does this product belong to, considering its intended use?",
+        "answer": "Dietary"
+      },
+      {
+        "question": "What is the suggested daily serving size of the product as indicated on the packaging?",
+        "answer": "12"
+      },
+      {
+        "question": "What kind of measurement unit is consistently used on the packaging to express product quantities?",
+        "answer": "grams"
+      },
+      {
+        "question": "Describing the overall texture of the packaging material, based on visual appearance, what is it like?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image, what is the primary material that seems to constitute the product packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the likely format of the product within its packaging, as suggested by the packaging design?",
+        "answer": "Powder"
+      },
+      {
+        "question": "What kind of information, besides ingredients, is clearly indicated about the product on the package?",
+        "answer": "Dosage"
+      },
+      {
+        "question": "What is visually evident regarding the overall arrangement of information on the packaging?",
+        "answer": "Organized"
+      },
+      {
+        "question": "Considering the overall look, what is the likely intended audience for this product?",
+        "answer": "Adults"
+      },
+      {
+        "question": "What is the style of the font used for the product name and other prominent text on the packaging?",
+        "answer": "Sans-serif"
+      }
+    ]
+  }
+]

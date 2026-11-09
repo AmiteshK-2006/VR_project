@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2f/2fa5d2fb.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the background displayed prominently in this image, which provides context for the product's label?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the textual information presented, what is the primary ingredient listed in the product's composition, according to the label?",
+        "answer": "Milk"
+      },
+      {
+        "question": "Based on the visual representation of the textual data, what is the typeface used to display the product's ingredient list?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the case of the lettering style used for the words 'INGREDIENTS' and 'CONTAINS' on the product's label?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Examining the text closely, what vitamin is specified as the second ingredient in the product's composition, as shown on the label?",
+        "answer": "A"
+      },
+      {
+        "question": "According to the product label, what other vitamin, besides Vitamin A, is explicitly included in this product's composition?",
+        "answer": "D3"
+      },
+      {
+        "question": "What is the word directly preceding 'Milk' in the detailed list of ingredients displayed on the item's label?",
+        "answer": "Nonfat"
+      },
+      {
+        "question": "What descriptor modifies 'Milk' among the ingredients listed on the food product's label, according to the visible text?",
+        "answer": "Nonfat"
+      },
+      {
+        "question": "Referring to the text on the image, which word is used to describe the items present within the product, as indicated on the product label?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What word follows the word 'Contains' on the lower portion of this product's label, in the second line of text?",
+        "answer": "Milk"
+      },
+      {
+        "question": "What is the type of information that the text on the image is intended to communicate, as observed in the context of the image?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Observing the text, what is the final word in the complete sentence describing this product's composition, which is printed on the label?",
+        "answer": "D3"
+      },
+      {
+        "question": "What is the word that begins the bottom sentence of the visible text displayed in the image of the product's label?",
+        "answer": "Contains"
+      },
+      {
+        "question": "What is the second word in the detailed list of ingredients presented on this particular product's packaging label?",
+        "answer": "Milk"
+      },
+      {
+        "question": "What is the word at the beginning of the first line of text on the product's label, which is the main focus of the image?",
+        "answer": "Ingredients"
+      }
+    ]
+  }
+]

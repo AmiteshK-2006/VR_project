@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a9/a99e3a5e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the product shown in the image?",
+        "answer": "Sphere"
+      },
+      {
+        "question": "What primary color dominates the product's visible surface?",
+        "answer": "Silver"
+      },
+      {
+        "question": "What appears to be the dominant material of the product's outer layer?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Judging by the image, what kind of text is visible on the product's surface?",
+        "answer": "Label"
+      },
+      {
+        "question": "Based on the visible text, what flavor is indicated on the product?",
+        "answer": "Blueberry"
+      },
+      {
+        "question": "What is the apparent finish or texture of the product's outer surface?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Describe the overall visual aesthetic of the product's design and presentation",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Is there any noticeable logo or branding present on the product?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the product's packaging suggest it contains a solid or liquid substance?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Judging from the image, what is the primary color of the label's background?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the image, what is the overall size of the object in relation to a human hand?",
+        "answer": "Small"
+      },
+      {
+        "question": "Can you describe the style of the font used in the labeling on the product?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the general color of the text on the main label on the product?",
+        "answer": "Black"
+      },
+      {
+        "question": "Does the image reveal any discernible patterns or designs on the product?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the image, is the product individually wrapped or packaged?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

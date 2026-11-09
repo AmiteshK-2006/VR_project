@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d1/d132590a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the box's main label?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the overall shape of the product packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the primary material of the outer packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What color is the majority of the box's outer surface?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Describing the texture, is the box surface glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What language is predominantly used on the box's label?",
+        "answer": "English"
+      },
+      {
+        "question": "What kind of graphic element is featured prominently on the label?",
+        "answer": "Chili"
+      },
+      {
+        "question": "What is the general color scheme of the small text on the box?",
+        "answer": "White"
+      },
+      {
+        "question": "Is the box's design primarily minimalist or detailed?",
+        "answer": "Detailed"
+      },
+      {
+        "question": "Based on the labeling, what is the product's category (e.g., food, cosmetic)?",
+        "answer": "Food"
+      },
+      {
+        "question": "What is the overall visual impression of the product's packaging?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Does the box appear to have any other visible markings besides text and graphics?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the size, would you classify it as a large or small package?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Does the packaging show any visible seams or closures besides the top flaps?",
+        "answer": "No"
+      },
+      {
+        "question": "Is the text on the label primarily in uppercase or lowercase?",
+        "answer": "Mixed"
+      }
+    ]
+  }
+]

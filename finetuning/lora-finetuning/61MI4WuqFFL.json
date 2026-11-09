@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/93/9306edfa.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the food item's visible portion?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the overall shape of the packaging container holding the food?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the texture of the food product itself, based on visual inspection?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What kind of material is the primary packaging container seemingly made of?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the packaging, what is the apparent form of the food product inside?",
+        "answer": "Solid"
+      },
+      {
+        "question": "What is the visible color of the labeling on the back of the package?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the image, does the food seem to have a layered or swirled appearance?",
+        "answer": "Swirled"
+      },
+      {
+        "question": "Judging from the image, what is the general shape of the food within the container?",
+        "answer": "Oval"
+      },
+      {
+        "question": "What is the apparent color of any minor visible inclusions within the food itself?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Can you describe the surface finish or shine of the packaging container?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What kind of text is prominently displayed on the packaging, aside from nutritional information?",
+        "answer": "Brand"
+      },
+      {
+        "question": "Considering the packaging, does the food product appear to have any visible air bubbles?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image, does the food product appear to be completely homogeneous in its coloring?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the visible format of the nutritional information on the packaging?",
+        "answer": "Table"
+      },
+      {
+        "question": "What appears to be the primary method of presentation for the product's branding?",
+        "answer": "Text"
+      }
+    ]
+  }
+]

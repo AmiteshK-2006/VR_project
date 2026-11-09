@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/03/03b33193.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall shape and dimensions, what geometrical form best describes the primary container holding the product?",
+        "answer": "Cylinder"
+      },
+      {
+        "question": "Based on the visual texture, what material appears to constitute the majority of the product's external packaging?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Observing the dominant hue of the product's outer casing, what single-word color description applies?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Focusing on the topmost section of the container, what textual feature is prominently displayed, indicating product protection?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Considering the presence of labels and text, what brand name is prominently featured on the product's container?",
+        "answer": "Wholefoods"
+      },
+      {
+        "question": "Examining the text on the label, what aspect of the product is highlighted, indicating contents and dosage?",
+        "answer": "Supplement"
+      },
+      {
+        "question": "What is the dominant visual feature visible on the product's label that ensures product safety and quality?",
+        "answer": "GMP"
+      },
+      {
+        "question": "Describe the visible printed barcode type on the product's label, used for inventory management",
+        "answer": "UPC"
+      },
+      {
+        "question": "What material is indicated on the label regarding the bottle's composition?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the predominant color of the text on the product's label, providing product information?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe the overall finish of the bottle based on the image, is it glossy, matte or something else?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What is the general shape of the label itself on the bottle?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the main text visible on the tamper-evident seal on top?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Describe the overall tone conveyed by the product's labeling and design.",
+        "answer": "Informative"
+      },
+      {
+        "question": "What type of cap does the bottle appear to have?",
+        "answer": "Screw"
+      }
+    ]
+  }
+]

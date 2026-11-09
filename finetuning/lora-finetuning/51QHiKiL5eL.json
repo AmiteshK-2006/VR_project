@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d1/d10827c6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the depicted lightbulb?",
+        "answer": "A60"
+      },
+      {
+        "question": "What is the primary material composing the bulb's exterior?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Describe the color of the visible filament inside the bulb?",
+        "answer": "Gold"
+      },
+      {
+        "question": "What is the dominant color of the lightbulb's body?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What type of base does this lightbulb possess, as visually apparent?",
+        "answer": "Edison"
+      },
+      {
+        "question": "Considering the visible components, what is the light source type?",
+        "answer": "LED"
+      },
+      {
+        "question": "What is the apparent finish of the bulb's metallic base?",
+        "answer": "Silver"
+      },
+      {
+        "question": "Describe the texture of the visible glass surface of the bulb?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the visible orientation of the internal filament?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Judging from the image, is the glass of the bulb frosted or clear?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Does the visible filament appear to be a single or multiple strands?",
+        "answer": "Single"
+      },
+      {
+        "question": "What is the general form of the bulb's glass enclosure?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Can the lightbulb's internal components be clearly distinguished?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What kind of light would this bulb likely produce, based on appearance?",
+        "answer": "Warm"
+      },
+      {
+        "question": "Considering the image, how many visible pins are on the base?",
+        "answer": "Two"
+      }
+    ]
+  }
+]

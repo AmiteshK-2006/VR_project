@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/21/21d4d4e5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the dominant shape of the product's packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What primary color describes the majority of the visible product inside the packaging?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "Based on its appearance, what material seems to constitute the outer packaging of this product?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Observing the texture of the contained product, what word best describes its visible surface?",
+        "answer": "Granular"
+      },
+      {
+        "question": "What is the most prominent design element visible on the front of the product's packaging?",
+        "answer": "Label"
+      },
+      {
+        "question": "Considering the product's content, what could it potentially be, based purely on visual evidence?",
+        "answer": "Snack"
+      },
+      {
+        "question": "Looking at the form, does the packaging seem suitable for carrying the contents easily?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the packaging show any clear indication of its seal or closure?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging solely by appearance, would you say the texture of the product appears to be smooth or rough?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Considering its color and texture, what type of consistency does the product seem to have?",
+        "answer": "Dry"
+      },
+      {
+        "question": "What is the general orientation of the product's labeling on its packaging?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Based on the image, does the product's packaging appear to be transparent or opaque?",
+        "answer": "Transparent"
+      },
+      {
+        "question": "Does the packaging appear to have any visible perforations or tear lines?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the seal, is there any evident damage or tampering visible on the bag?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall visual state of the product's packaging; is it pristine or damaged?",
+        "answer": "Pristine"
+      }
+    ]
+  }
+]

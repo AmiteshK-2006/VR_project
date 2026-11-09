@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/85/8593a280.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what is the primary purpose of this product's packaging?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What specific type of food product does this nutritional information describe?",
+        "answer": "Naan"
+      },
+      {
+        "question": "Based on the visual layout, what is the unit of measurement for the serving size?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Examining the text closely, what is the numerical value for the calories per serving?",
+        "answer": "270"
+      },
+      {
+        "question": "Observing the text blocks, what is the listed amount of total fat, in grams, per serving?",
+        "answer": "9g"
+      },
+      {
+        "question": "Focusing on the text, what is the quantity of sodium, in milligrams, per serving?",
+        "answer": "600mg"
+      },
+      {
+        "question": "According to the label, how many grams of total carbohydrates are present per serving?",
+        "answer": "43g"
+      },
+      {
+        "question": "Looking at the dietary fiber information, how many grams are listed per serving?",
+        "answer": "2g"
+      },
+      {
+        "question": "What is the amount, in grams, of protein found in one serving, as shown in the image?",
+        "answer": "7g"
+      },
+      {
+        "question": "Based on the image, how many servings are contained within the package?",
+        "answer": "4"
+      },
+      {
+        "question": "What is the weight of a single serving, as presented on the label?",
+        "answer": "85g"
+      },
+      {
+        "question": "What is the percentage of the daily value for total fat indicated on the label?",
+        "answer": "12%"
+      },
+      {
+        "question": "What is the indicated percentage of the daily value for sodium, based on the visual information?",
+        "answer": "26%"
+      },
+      {
+        "question": "Observing the provided information, what is the percentage of the daily value for dietary fiber?",
+        "answer": "7%"
+      },
+      {
+        "question": "What is the listed amount of added sugars, in grams, per serving as shown on the label?",
+        "answer": "2g"
+      }
+    ]
+  }
+]

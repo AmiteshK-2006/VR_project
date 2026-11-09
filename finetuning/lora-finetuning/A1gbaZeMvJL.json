@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ae/ae5691f0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color observed across the entire fabric sample?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent weave type of this fabric?",
+        "answer": "Linen"
+      },
+      {
+        "question": "Based on the image, what is the overall visual texture of the presented fabric?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Judging from the image, what seems to be the main material composition of the fabric?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Does the fabric exhibit a uniform or variegated color distribution?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Describe the visual appearance of the surface; is it smooth, rough, or something else?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Considering the image, what is the fabric's apparent level of sheen or glossiness?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What visual impression of thickness does the fabric provide in this close-up?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Judging by the image, what is the visual directionality of the fabric's texture?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the implied weight or drape of the fabric, judging solely from its appearance?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Does the fabric exhibit any visually discernible patterns or prints?",
+        "answer": "None"
+      },
+      {
+        "question": "Observing the image carefully, are there any noticeable irregularities in the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent level of transparency or opacity shown in this image?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "From visual inspection, how would you characterize the fabric's overall visual appeal?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "Based on the image alone, is the fabric's color consistent throughout the sample?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

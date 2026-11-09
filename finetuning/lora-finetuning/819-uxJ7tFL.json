@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/05/05924e9c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the bottle's contents?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What color is the plastic cap on top of the bottle?",
+        "answer": "Purple"
+      },
+      {
+        "question": "What is the overall shape of the liquid's container?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What material appears to constitute the bottle itself?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the bottle's design, what is its primary function?",
+        "answer": "Packaging"
+      },
+      {
+        "question": "What is the texture of the bottle's surface, ignoring any labels?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Is there a visible barcode on the back of the bottle?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What kind of information is predominantly printed on the back?",
+        "answer": "Text"
+      },
+      {
+        "question": "Considering the bottle's size, how much liquid does it likely hold?",
+        "answer": "Moderate"
+      },
+      {
+        "question": "Does the bottle's shape facilitate easy gripping and handling?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering its shape, is this bottle likely stackable?",
+        "answer": "No"
+      },
+      {
+        "question": "Are there any prominent embossed markings on the plastic bottle?",
+        "answer": "No"
+      },
+      {
+        "question": "Is the bottle transparent enough to allow viewing of the contents?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the primary orientation of the text on the label?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Does the label include any graphics, beyond text and barcodes?",
+        "answer": "No"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/85/851bb0d0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary ingredient listed on the packaging, judging solely by the visible text?",
+        "answer": "Oats"
+      },
+      {
+        "question": "Considering the visible text, what type of oats are indicated as the ingredient?",
+        "answer": "Rolled"
+      },
+      {
+        "question": "Based on the visible text, what additional ingredient is mentioned as a potential contaminant?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "What is the word describing the nature of the primary ingredient, as displayed on the packaging?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the style of the text shown on the image, with respect to its case?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Considering only the visual information, what is the overall color of the text on the label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Observing the textual information, what is the font weight of the label's text?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the overall color of the background where the text is printed?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "Considering the label's appearance, what is the general style or design of the text formatting?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the apparent printing method used for the textual content on the packaging?",
+        "answer": "Offset"
+      },
+      {
+        "question": "If the text were to be categorized by orientation, how would you describe it?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Based on the appearance, what is the general condition of the text's print?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the style of the lettering on the packaging based on its apparent typeface?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the apparent texture of the surface the label is printed on, based on visual characteristics?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Given its visible features, how would you describe the overall presentation style of the packaging's text?",
+        "answer": "Concise"
+      }
+    ]
+  }
+]

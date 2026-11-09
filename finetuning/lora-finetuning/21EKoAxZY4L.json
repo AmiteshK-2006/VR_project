@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1b/1b32403f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the rectangular object depicted?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent surface finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on its visual appearance, what seems to be the primary material used?",
+        "answer": "Stone"
+      },
+      {
+        "question": "Judging by the image, what is the overall shape of the presented item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Does the object show any noticeable patterns or grooves on its surface?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent height of the object relative to the human figure?",
+        "answer": "High"
+      },
+      {
+        "question": "Considering the image, can you describe the level of visual detail on the item?",
+        "answer": "Low"
+      },
+      {
+        "question": "Is there any prominent branding or logos visible on the product's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the image, does the product appear to be made from a single piece?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the object's surface exhibit any noticeable shine or glossiness?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the image, is the item's shape strictly geometric or organic?",
+        "answer": "Geometric"
+      },
+      {
+        "question": "Based on the image, does the object appear rough or smooth to the touch?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent overall aesthetic of the shown product?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Judging from the provided image, what is the visual weight of the product?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "In terms of the visual information, is the object's design simple or complex?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

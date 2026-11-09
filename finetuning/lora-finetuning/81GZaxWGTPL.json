@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ec/ec6ab065.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the presented object, considering its lengthwise dimensions and slightly rounded ends?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Describing the visible surface texture, what is the predominant pattern of the item's exterior?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Considering the image's lighting and color saturation, what single word best describes the item's hue?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on visual observation, what material appears to have been used in the object's construction?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Regarding the visible surface, what is the overall tactile quality suggested by the image?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Observing the object's ends, what shape best characterizes their curvature?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Considering the lack of any markings, what can be said about the presence or absence of visible labels?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Based solely on visual inspection, what seems to be the primary function implied by the object's form?",
+        "answer": "Utility"
+      },
+      {
+        "question": "Judging by the image, is the object's surface entirely uniform in its visual characteristics?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent level of gloss or shine exhibited by the surface of this item?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging by its appearance, what kind of finish does the object's surface possess?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "In terms of visible components, how many distinct parts compose the object depicted?",
+        "answer": "One"
+      },
+      {
+        "question": "Considering its length and diameter, what is the general size of this object relative to everyday items?",
+        "answer": "Small"
+      },
+      {
+        "question": "Does the object demonstrate any visible signs of wear, damage, or imperfections?",
+        "answer": "No"
+      },
+      {
+        "question": "From its visual characteristics, what is the implied weight class of this object?",
+        "answer": "Light"
+      }
+    ]
+  }
+]

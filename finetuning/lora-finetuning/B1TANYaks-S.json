@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0d/0d60adc9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the image?",
+        "answer": "Burgundy"
+      },
+      {
+        "question": "Considering the weave and texture, what is the apparent material of this textile?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "Based on the image, what is the overall visual texture of the fabric sample?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Describe the visual appearance of the fabric's surface; is it smooth or something else?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Judging by the image, what is the general finish of the provided fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the primary visual characteristic of the fabric's color depth?",
+        "answer": "Deep"
+      },
+      {
+        "question": "How would you describe the visual uniformity of the fabric's coloration?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Observing the fabric, what is the apparent density of its weave structure?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Judging from the image, what is the overall visual impression of the fabric's drape?",
+        "answer": "Firm"
+      },
+      {
+        "question": "Considering the image, how would you characterize the visual feel of the fabric?",
+        "answer": "Solid"
+      },
+      {
+        "question": "What is the apparent visual saturation level of the fabric's color?",
+        "answer": "Rich"
+      },
+      {
+        "question": "Is there any noticeable pattern or print on the fabric sample shown?",
+        "answer": "None"
+      },
+      {
+        "question": "How would you describe the visual prominence of the fabric's grain?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "What is the visible nature of the fiber arrangement in the textile?",
+        "answer": "Interwoven"
+      },
+      {
+        "question": "Does the visual appearance indicate a single-colored textile?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

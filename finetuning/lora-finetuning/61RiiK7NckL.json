@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ca/ca043279.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the top-left fabric sample?",
+        "answer": "Red"
+      },
+      {
+        "question": "What appears to be the primary material of the displayed fabrics?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "What is the overall shape of each fabric piece shown?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describing the texture, is the fabric smooth or rough?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What color is the fabric sample in the bottom-left quadrant?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What color is the fabric in the bottom-right corner?",
+        "answer": "Teal"
+      },
+      {
+        "question": "What is the apparent weight of the item being shown?",
+        "answer": "Lightweight"
+      },
+      {
+        "question": "Based on the image, what is the style of the seams visible?",
+        "answer": "Straight"
+      },
+      {
+        "question": "What kind of feature or detail is visible on some samples?",
+        "answer": "Snaps"
+      },
+      {
+        "question": "What is noticeable in the middle-right quadrant sample?",
+        "answer": "LightBlue"
+      },
+      {
+        "question": "Is the fabric visibly patterned or solid in color?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Is the image presenting a folded or unfolded state?",
+        "answer": "Folded"
+      },
+      {
+        "question": "What kind of background is used in the images?",
+        "answer": "White"
+      },
+      {
+        "question": "What is visible at the bottom-right edge of the teal sample?",
+        "answer": "Label"
+      },
+      {
+        "question": "Does the top-left fabric show any noticeable patterns?",
+        "answer": "None"
+      }
+    ]
+  }
+]

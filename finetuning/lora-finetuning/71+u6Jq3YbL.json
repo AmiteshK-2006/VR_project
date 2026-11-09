@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f0/f0f10973.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the nutrition facts label, as visually apparent in the provided image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the overall shape of the area containing the nutrition information, as observed in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the image, what appears to be the texture of the label's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the general font style used for the 'Nutrition Facts' heading, as shown visually?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Based on visual inspection, what is the primary material of the label on which the nutrition facts are printed?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Judging from the image, what is the apparent method of printing used for the text and numbers?",
+        "answer": "Printing"
+      },
+      {
+        "question": "What is the visual orientation of the text on the nutrition label, as seen in the image?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "From the image alone, how many distinct sections or blocks of text can be visually identified on the label?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "Describe the visual arrangement of the nutritional information (e.g., is it in columns or rows)?",
+        "answer": "Columns"
+      },
+      {
+        "question": "Observing the image, is there noticeable visual variation in font size within the label's text?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging by the image, is the text on the nutrition label primarily uppercase or lowercase?",
+        "answer": "Mixed"
+      },
+      {
+        "question": "Based on visual observation, is the label's background color uniform or varied in shade across its surface?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What is the visual prominence of the 'Calories' value in relation to other data on the label?",
+        "answer": "Prominent"
+      },
+      {
+        "question": "Based on the image, does the nutrition information appear to be clearly defined and easy to visually read?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent visual clarity and legibility of the text on the label, as observed in the provided image?",
+        "answer": "Clear"
+      }
+    ]
+  }
+]

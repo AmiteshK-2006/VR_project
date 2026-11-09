@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ea/eaedb3c4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color scheme of the nutritional information panel, considering the text and background?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the typeface used for the 'Amount Per Serving' and '% Daily Value' headings?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the overall layout, what is the organization style of the presented nutritional data?",
+        "answer": "tabular"
+      },
+      {
+        "question": "What is the apparent material the nutritional information is printed on, based on its visual characteristics?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the textual format employed to list each nutrient and its corresponding daily value?",
+        "answer": "columns"
+      },
+      {
+        "question": "Based on the visual clarity of the text, what is the overall print quality of the nutritional information?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Considering the sizes and weights of the fonts, what is the relative emphasis placed on the percentage daily values?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the overall visual impression of the text's alignment within the provided nutritional information panel?",
+        "answer": "aligned"
+      },
+      {
+        "question": "Disregarding the numerical values, what is the method of presenting the unit of measurement for each nutrient?",
+        "answer": "abbreviation"
+      },
+      {
+        "question": "What is the visible texture of the surface bearing the nutritional information, if any is discernible?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Is there a distinct visual separation between the 'Amount Per Serving' and '% Daily Value' columns?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the general arrangement of information presented \u2013 vertical or horizontal?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "In relation to the background, what is the general lightness or darkness of the text?",
+        "answer": "Dark"
+      },
+      {
+        "question": "What is the visual style of the numbers indicating the percentage of daily value?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the visible pattern of the information provided - is it randomized or ordered?",
+        "answer": "Ordered"
+      }
+    ]
+  }
+]

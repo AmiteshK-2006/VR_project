@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0e/0ea256c5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant visible color of the presented fabric sample?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent fiber type?",
+        "answer": "Velvet"
+      },
+      {
+        "question": "Based on the image, what is the overall visual texture of the material?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the image, what is the predominant visual pattern on the fabric?",
+        "answer": "Linear"
+      },
+      {
+        "question": "What is the visible appearance of the fabric's surface texture, considering the light reflection?",
+        "answer": "Satin"
+      },
+      {
+        "question": "Considering the image's resolution, is there any discernible pile direction in the fabric?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Describe the shade variation across the visual area of the fabric sample.",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Based on the light reflection, how might one describe the fabric's sheen?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "Considering the image, what is the visual impression of the fabric's density?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Judging by the visual appearance, does the fabric have a visible woven structure?",
+        "answer": "No"
+      },
+      {
+        "question": "From the provided image, describe the uniformity of the fabric's texture and color.",
+        "answer": "Consistent"
+      },
+      {
+        "question": "What could be visually inferred about the potential drape of this fabric?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Is there any visual evidence of seams or joins in the fabric sample provided?",
+        "answer": "None"
+      },
+      {
+        "question": "Judging only by the image, what is the visible overall finish of the fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the visual presentation of this fabric sample suggest a particular type of weave?",
+        "answer": "No"
+      }
+    ]
+  }
+]

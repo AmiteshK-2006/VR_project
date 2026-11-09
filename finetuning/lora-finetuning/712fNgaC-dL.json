@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b3/b3be202b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the car cover shown in the image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What appears to be the primary material used for construction of this vehicle covering?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Considering the image, what is the overall shape of the protective garment for the automobile?",
+        "answer": "Car-shaped"
+      },
+      {
+        "question": "Based on visual inspection, what is the apparent texture of the exterior surface of the cover?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging from the provided image, does the car cover appear to be waterproof or water-resistant?",
+        "answer": "Unknown"
+      },
+      {
+        "question": "Does the provided image show any visible seams, stitching, or reinforcement on the car cover?",
+        "answer": "Yes"
+      },
+      {
+        "question": "From the image, are there any visible logos, labels, or markings on the automobile's protective layer?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent level of fit or snugness of the cover on the vehicle based on image observation?",
+        "answer": "Snug"
+      },
+      {
+        "question": "Judging by the photographic evidence, what is the apparent overall condition of the car cover in the image?",
+        "answer": "New"
+      },
+      {
+        "question": "Does the displayed image offer clues on whether the cover has any features like elastic hems or straps?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent thickness or weight of the material used for this automotive cover, based on the provided image?",
+        "answer": "Moderate"
+      },
+      {
+        "question": "Based on the image, what is the suggested intended use of the item shown, for what type of vehicle?",
+        "answer": "Car"
+      },
+      {
+        "question": "Considering only the visual details of the image, what is the level of reflectivity or shine on the cover's surface?",
+        "answer": "Low"
+      },
+      {
+        "question": "Judging from what is visually apparent, does the item appear to have any zippers, buckles, or closures?",
+        "answer": "No"
+      },
+      {
+        "question": "In the image, does the car cover seem designed to fully enclose the vehicle, or does it only partially cover it?",
+        "answer": "Fully"
+      }
+    ]
+  }
+]

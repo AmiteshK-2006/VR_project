@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/df/df9860ef.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the prominent textual feature displayed across the top of the presented nutritional information panel?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Considering the overall layout, what is the dominant numerical value presented on this food label?",
+        "answer": "100"
+      },
+      {
+        "question": "In the context of the displayed information, what specific nutrient is listed with the highest percentage daily value?",
+        "answer": "Saturated"
+      },
+      {
+        "question": "What is the unit of measurement consistently used for the quantity of 'Fat' presented in this nutrition facts section?",
+        "answer": "g"
+      },
+      {
+        "question": "Focusing on the 'Minerals' section, which mineral exhibits a percentage daily value of 15%?",
+        "answer": "Calcium"
+      },
+      {
+        "question": "In reference to the provided nutritional data, what is the listed amount of 'Total Sugars', expressed numerically?",
+        "answer": "0"
+      },
+      {
+        "question": "Regarding the carbohydrate section, what specific type of carbohydrate is listed with a value less than 1 gram?",
+        "answer": "Fiber"
+      },
+      {
+        "question": "Based on the image, what is the numerical value reported for the amount of cholesterol present per serving?",
+        "answer": "25"
+      },
+      {
+        "question": "What is the unit of measurement used to quantify the amount of cholesterol in the product as presented on the label?",
+        "answer": "mg"
+      },
+      {
+        "question": "Observing the label closely, what is the specified unit of measurement for serving size?",
+        "answer": "oz"
+      },
+      {
+        "question": "What is the numerical value for the approximate number of servings within the product's container, as per the label?",
+        "answer": "8"
+      },
+      {
+        "question": "According to this nutritional fact panel, what is the numerical value for sodium content per serving?",
+        "answer": "210"
+      },
+      {
+        "question": "Focusing on the vitamins, what specific vitamin is shown as having 0% of the daily value?",
+        "answer": "Vitamin"
+      },
+      {
+        "question": "What is the unit of measurement indicated for the quantity of protein in this nutrition facts panel?",
+        "answer": "g"
+      },
+      {
+        "question": "Referring to the minerals section of the nutrition facts, what is the value indicated for potassium?",
+        "answer": "0"
+      }
+    ]
+  }
+]

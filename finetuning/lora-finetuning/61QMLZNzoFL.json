@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/af/afc31744.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the text detailing the ingredients and allergens?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the overall background color of the displayed text panel?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the dominant font style employed in the ingredient list?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the visual layout, what is the text arrangement style used?",
+        "answer": "List"
+      },
+      {
+        "question": "What is the general size of the font used for the product's ingredient list?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the apparent texture of the surface upon which the ingredient list is printed?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the text, what is the style of capitalization used for each ingredient?",
+        "answer": "Title"
+      },
+      {
+        "question": "Based on the visual presentation, what is the type of packaging this information is printed on?",
+        "answer": "Box"
+      },
+      {
+        "question": "What punctuation mark appears after the final ingredient in the list?",
+        "answer": "Period"
+      },
+      {
+        "question": "Excluding the ingredient list, are there any other markings visually present?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the overall structure, what is the orientation of the ingredient list?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the spacing between each line of text in the ingredient list?",
+        "answer": "Tight"
+      },
+      {
+        "question": "Focusing solely on the visual characteristics, what is the overall shape of the presented text box?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Is there a significant presence of any bold or italicized text in the ingredient list?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the font, is there any discernible visual variation in weight or thickness among the listed ingredients?",
+        "answer": "No"
+      }
+    ]
+  }
+]

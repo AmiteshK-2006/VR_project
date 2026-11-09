@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/05/057ead51.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant textual characteristic of the product image?",
+        "answer": "List"
+      },
+      {
+        "question": "What is the primary style of the text, concerning its arrangement and formatting?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Disregarding any numerical values, what is the most frequently appearing word in the image?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Focusing on the textual content, what is the main subject matter of the presented information?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Examining the text, what is the stated purpose of the Annatto ingredient?",
+        "answer": "Color"
+      },
+      {
+        "question": "What is the specified type of flour explicitly mentioned as a key component?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "In the context of the provided text, what food type is predominantly indicated?",
+        "answer": "Bread"
+      },
+      {
+        "question": "Based on the text displayed, what type of sugar is included in the recipe?",
+        "answer": "Cane"
+      },
+      {
+        "question": "What dairy product is mentioned in the provided list of ingredients?",
+        "answer": "Milk"
+      },
+      {
+        "question": "Which type of oil is specified as an ingredient in the product?",
+        "answer": "Canola"
+      },
+      {
+        "question": "Aside from wheat, what other grain-based component is included?",
+        "answer": "Tapioca"
+      },
+      {
+        "question": "What is the substance mentioned acting as an emulsifier in this food product?",
+        "answer": "Lecithin"
+      },
+      {
+        "question": "What fruit is mentioned in the ingredients as a juice concentrate?",
+        "answer": "Pear"
+      },
+      {
+        "question": "What type of salt is specifically included in the ingredient list?",
+        "answer": "Sea"
+      },
+      {
+        "question": "Based on the ingredient list, what kind of eggs are used in this recipe?",
+        "answer": "Organic"
+      }
+    ]
+  }
+]

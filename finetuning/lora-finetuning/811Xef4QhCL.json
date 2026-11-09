@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a9/a9ae3ec5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the handbag shown in the image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What appears to be the primary material used in the construction of this tote bag?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Describe the overall shape or form of the presented handbag, considering its profile and dimensions.",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Focusing on the surface texture, what kind of finish does the bag's exterior seem to possess?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Considering the design elements, what kind of cut-outs or perforations are visible on the bag's front panel?",
+        "answer": "Geometric"
+      },
+      {
+        "question": "What type of hardware embellishments, if any, can be observed on the bag; specify the metallic color?",
+        "answer": "Gold"
+      },
+      {
+        "question": "What is the style of the handles attached to the top edge of the bag?",
+        "answer": "Shoulder"
+      },
+      {
+        "question": "What is the discernible pattern or design visible on the metallic charm affixed to the handbag?",
+        "answer": "Circular"
+      },
+      {
+        "question": "Describe the presence and nature of any decorative elements or accents present on the bag's lower sides?",
+        "answer": "Tassels"
+      },
+      {
+        "question": "What is the apparent closure mechanism or style for securing the handbag's main compartment?",
+        "answer": "Drawstring"
+      },
+      {
+        "question": "Based on the visual inspection, what appears to be the overall size or capacity of the handbag?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Considering the image, are there any noticeable brand logos or markings on the bag's surface?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent style of the handbag in terms of its overall design and functionality?",
+        "answer": "Casual"
+      },
+      {
+        "question": "Judging by the visible features, how would you classify the bag's overall aesthetic?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Based solely on the image, is the bag shown designed to be carried in one hand or two?",
+        "answer": "Two"
+      }
+    ]
+  }
+]

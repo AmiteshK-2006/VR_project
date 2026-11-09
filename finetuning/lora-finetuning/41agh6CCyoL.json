@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f0/f013c92d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the rectangular object displayed?",
+        "answer": "Orange"
+      },
+      {
+        "question": "Considering the texture, what is the apparent material of the item?",
+        "answer": "Mesh"
+      },
+      {
+        "question": "Based on its visual form, what is the most prominent shape of the object?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the overall visual appearance of the item's surface texture?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Judging by the image, does the item appear to be flexible or rigid?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Considering the size relative to the human model, what is the object's approximate scale?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Does the displayed item exhibit any visible patterns or designs?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the apparent visual thickness or depth of the presented object?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Based on its construction, is the item translucent, opaque, or transparent?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Does the object appear to have any reflective or glossy features visible?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Is there any visible stitching or seams present on the item?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on its appearance, what might be a likely functional use of the product?",
+        "answer": "Barrier"
+      },
+      {
+        "question": "Considering its form, is the object a single piece or assembled from parts?",
+        "answer": "Single"
+      },
+      {
+        "question": "Does the item appear to be highly detailed or simply constructed?",
+        "answer": "Simple"
+      },
+      {
+        "question": "From the image, is the item's surface smooth or rough to the touch?",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

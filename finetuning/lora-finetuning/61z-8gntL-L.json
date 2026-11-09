@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d1/d1a7ae96.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual layout, what is the dominant orientation of the presented information on the product?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the primary textual content conveyed in the upper portion of the rectangular product?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Disregarding punctuation, what is the dominant color scheme of the textual content on the product?",
+        "answer": "Black"
+      },
+      {
+        "question": "Describe the predominant typeface employed across the label, taking into account the uniformity of style and font size?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the arrangement, what is the spatial relationship between the 'INGREDIENTS' header and the subsequent ingredient list?",
+        "answer": "Above"
+      },
+      {
+        "question": "In terms of the text's visual organization, how is the ingredient list structurally presented across the product\u2019s surface?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Looking at the typography, what is the case of the lettering used for the word 'INGREDIENTS'?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Focusing on the text, what is the apparent style in terms of the weight of each letter?",
+        "answer": "Regular"
+      },
+      {
+        "question": "Observe the texture of the label; does it appear smooth or textured?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall shape of the label, disregarding any minor imperfections?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What single word best describes the background color of the label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary material that constitutes the majority of the product shown?",
+        "answer": "Paper"
+      },
+      {
+        "question": "In relation to the background, how is the text color contrast best described?",
+        "answer": "High"
+      },
+      {
+        "question": "Considering the labeling, what is the general state of the product (e.g., used, new, damaged)?",
+        "answer": "New"
+      },
+      {
+        "question": "Based on the visible text, what type of product is this label associated with?",
+        "answer": "Food"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a6/a6c2ccc0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the presented nutritional information panel, as depicted in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the image, what is the predominant color scheme used for the text and labels on the nutritional panel?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the visual provided, what is the background color of the nutritional information panel?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the texture of the surface on which the nutritional information is printed, based solely on the image's visual details?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What type of font is predominantly used to display the nutritional information, judging from the image?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the primary method used to visually separate different nutritional components within the image?",
+        "answer": "Lines"
+      },
+      {
+        "question": "Based on the image, what is the visual style of the numerical data representing daily values in the nutritional information?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Describe the visual presentation of the 'Calories' value in the provided image.",
+        "answer": "Large"
+      },
+      {
+        "question": "In the image, what is the visual characteristic of the percentage values associated with each nutrient?",
+        "answer": "Smaller"
+      },
+      {
+        "question": "What is the visual style used to distinguish the 'Nutrition Facts' header from other information in the image?",
+        "answer": "Larger"
+      },
+      {
+        "question": "What is the visual arrangement of the text and numbers on the nutritional fact panel in the picture?",
+        "answer": "Columnar"
+      },
+      {
+        "question": "Considering the image, how is the information regarding added sugars presented visually?",
+        "answer": "Indented"
+      },
+      {
+        "question": "Describe the visual appearance of the text indicating 'Serving Size' in the provided image.",
+        "answer": "Standard"
+      },
+      {
+        "question": "How are the units of measurement for each nutrient displayed visually in the image?",
+        "answer": "Abbreviated"
+      },
+      {
+        "question": "Based on the image, what is the visual clarity of the text in the nutritional information panel?",
+        "answer": "Clear"
+      }
+    ]
+  }
+]

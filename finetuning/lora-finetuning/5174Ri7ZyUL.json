@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f7/f774aa2e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the can's primary label?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the primary material composing the food container?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What is depicted on the main label besides text, in terms of animal imagery?",
+        "answer": "Cat"
+      },
+      {
+        "question": "Considering the overall shape, what is the geometry of the food container?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the color of the pull-tab mechanism on the can top?",
+        "answer": "Silver"
+      },
+      {
+        "question": "What is the overall texture of the can's metallic surface, excluding the label?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the dominant color of the text on the label's brand name?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Describe the shape of the can's pull-tab opening mechanism?",
+        "answer": "Circular"
+      },
+      {
+        "question": "What is the style of the font on the brand name, \"Whole Paws\"?",
+        "answer": "Serif"
+      },
+      {
+        "question": "What is the appearance of the can's metallic surface; is it shiny or matte?",
+        "answer": "Shiny"
+      },
+      {
+        "question": "Excluding the primary blue, what is another label color frequently used?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What type of cat breed is illustrated on the label of the can?",
+        "answer": "Ragdoll"
+      },
+      {
+        "question": "What is the style of the cat's depiction on the can, realistic or cartoonish?",
+        "answer": "Realistic"
+      },
+      {
+        "question": "Considering the label information, what is the intended animal consumer?",
+        "answer": "Cat"
+      },
+      {
+        "question": "Based on the label, is the food described as containing grains or grain-free?",
+        "answer": "Grain-free"
+      }
+    ]
+  }
+]

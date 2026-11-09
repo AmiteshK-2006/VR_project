@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e4/e4140430.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's overall visual presentation, what is the most prominent descriptor for the text's formatting style?",
+        "answer": "Monochromatic"
+      },
+      {
+        "question": "Based on the visual prominence within the provided text, what is the primary subject of the displayed information?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Observing the textual layout, what is the dominant orientation of the words presented in the image?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Judging from the visual appearance of the typeface, what is the overall style of the font used in the ingredient list?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Analyzing the visual density, how would you describe the compactness of the text within the image?",
+        "answer": "Dense"
+      },
+      {
+        "question": "If we focus on the textual arrangement, how would you characterize the vertical spacing between lines in this text block?",
+        "answer": "Tight"
+      },
+      {
+        "question": "Focusing on the visual details, what is the most notable color used throughout the text in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the visual aspects, what is the dominant type size of the presented text in the image?",
+        "answer": "Small"
+      },
+      {
+        "question": "Based solely on its visual appearance, what can be said about the overall length of the ingredient list text in the image?",
+        "answer": "Long"
+      },
+      {
+        "question": "From a visual perspective, what is the most obvious background color apparent in the text's visual presentation?",
+        "answer": "White"
+      },
+      {
+        "question": "Examining the visual clarity, what best describes the legibility of the text in the supplied image?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Judging from visual observation, what is the style of the text's capitalization?",
+        "answer": "Sentence"
+      },
+      {
+        "question": "In terms of the visual appearance, how many distinct sections can be observed within the ingredient list?",
+        "answer": "Two"
+      },
+      {
+        "question": "From a visual perspective, what appears to be the main text's visual weight or boldness level?",
+        "answer": "Regular"
+      },
+      {
+        "question": "Regarding its visual presentation, how is the text presented with regards to its alignment?",
+        "answer": "Left"
+      }
+    ]
+  }
+]

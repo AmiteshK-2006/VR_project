@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ef/ef666fcd.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the visual presentation, what is the dominant color of the displayed nutritional information panel on the product?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the image, what appears to be the primary ingredient indicated on the product label?",
+        "answer": "Oil"
+      },
+      {
+        "question": "Judging from the image, what descriptive term precedes 'Olive Oil' on the product label?",
+        "answer": "Virgin"
+      },
+      {
+        "question": "What word, seen on the label, indicates a measure of nutritional content relative to a daily intake?",
+        "answer": "Value"
+      },
+      {
+        "question": "What term, visible on the product label, modifies 'Olive Oil', suggesting a specific type or quality?",
+        "answer": "Extra"
+      },
+      {
+        "question": "Observing the text on the label, what is the abbreviation for 'Daily Value'?",
+        "answer": "DV"
+      },
+      {
+        "question": "From the visual information presented, what seems to be the formatting style of the listed ingredients?",
+        "answer": "Text"
+      },
+      {
+        "question": "Analyzing the image carefully, what is the apparent orientation of the text on the product label?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Based solely on the image, what appears to be the underlying color of the label background?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Examining the image, is there a noticeable separator line between the different sections of the product label?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent font style of the textual information found on the product label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Judging from the visible components, what seems to be the medium of the product labeling?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Based on the image, describe the size of the text elements on the product label",
+        "answer": "Small"
+      },
+      {
+        "question": "Considering the image, what is the general arrangement of the textual information on the label?",
+        "answer": "Linear"
+      },
+      {
+        "question": "By analyzing the image, what does the label primarily communicate about the product?",
+        "answer": "Ingredients"
+      }
+    ]
+  }
+]

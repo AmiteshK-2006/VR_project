@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/01/01b19915.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the upper portion of the product?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the predominant color of the lower portion of the product?",
+        "answer": "Navy"
+      },
+      {
+        "question": "What type of closure mechanism is visible at the top of the product?",
+        "answer": "Drawstring"
+      },
+      {
+        "question": "What appears to be the primary material of the product, judging by its appearance and texture?",
+        "answer": "Nylon"
+      },
+      {
+        "question": "Describe the overall shape of the product when it's bundled and closed?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the seams and construction, what is the apparent method of construction?",
+        "answer": "Seamed"
+      },
+      {
+        "question": "What is the texture of the fabric, judging solely from the image's visual details?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Is there any discernible pattern or print on the product's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on its appearance, what is the likely function of the product?",
+        "answer": "Storage"
+      },
+      {
+        "question": "What color is the drawstring used to close the top of the product?",
+        "answer": "Black"
+      },
+      {
+        "question": "Observing the folds and gathers, how tightly is the product bundled?",
+        "answer": "Loosely"
+      },
+      {
+        "question": "What seems to be the overall condition of the product shown in the image?",
+        "answer": "New"
+      },
+      {
+        "question": "Are there any visible labels, logos, or branding elements on this item?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the materials and construction, what is the product's likely weight?",
+        "answer": "Lightweight"
+      },
+      {
+        "question": "What is the apparent overall finish of the fabric in terms of glossiness or dullness?",
+        "answer": "Matt"
+      }
+    ]
+  }
+]

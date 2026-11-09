@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/27/2727c86c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular layout and the prominent font sizes, what is the primary function conveyed by this product's visual design?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Observing the text's arrangement into columns and rows, what specific type of data is being systematically presented?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Focusing on the numerical values presented prominently, what is the total caloric value per serving indicated?",
+        "answer": "200"
+      },
+      {
+        "question": "Examining the detailed breakdown of nutrients, what is the quantity of total fat listed per serving?",
+        "answer": "11g"
+      },
+      {
+        "question": "Looking at the saturated fat content detailed per serving, what is the provided numerical value?",
+        "answer": "7g"
+      },
+      {
+        "question": "Based on the nutritional information presented, what is the amount of cholesterol per serving?",
+        "answer": "35mg"
+      },
+      {
+        "question": "Considering the sodium content presented, what is the numerical value provided per serving?",
+        "answer": "50mg"
+      },
+      {
+        "question": "Focusing on the total carbohydrate information, what quantity is specified per serving?",
+        "answer": "20g"
+      },
+      {
+        "question": "Considering the data regarding sugars, what is the quantity of total sugars in grams per serving?",
+        "answer": "19g"
+      },
+      {
+        "question": "Examining the breakdown of sugars, how many grams of added sugars are included per serving?",
+        "answer": "14g"
+      },
+      {
+        "question": "In reference to the protein content, what is the value shown per serving in grams?",
+        "answer": "4g"
+      },
+      {
+        "question": "Regarding the Vitamin D content, what amount in micrograms is indicated per serving?",
+        "answer": "0.7mcg"
+      },
+      {
+        "question": "Looking at the calcium content, what is the quantity in milligrams indicated per serving?",
+        "answer": "130mg"
+      },
+      {
+        "question": "Based on the potassium information, what is the amount in milligrams provided per serving?",
+        "answer": "170mg"
+      },
+      {
+        "question": "Considering the overall textual presentation, what is the style of the text's font (serif or sans-serif)?",
+        "answer": "Sans-serif"
+      }
+    ]
+  }
+]

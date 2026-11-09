@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/46/461456e8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape and printed information, what is the primary function suggested by the visual appearance of this item?",
+        "answer": "Label"
+      },
+      {
+        "question": "What is the dominant color of the background where the text is printed, as observed in the image?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Based on the visual appearance, what appears to be the material of the surface on which the text is printed?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Observing the text closely, what is the primary subject of the printed content visible on the item?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Considering the typeface and style, how would you describe the text's visual presentation?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the case of the letters in the printed information, observed in the image?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Describe the overall texture of the visible surface where the text is printed, based on the image.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the approximate width-to-height ratio of the rectangular item visible in the provided image?",
+        "answer": "Long"
+      },
+      {
+        "question": "How many distinct lines of text are visibly printed on the rectangular object?",
+        "answer": "Two"
+      },
+      {
+        "question": "Besides the primary ingredient, identify one additional constituent explicitly mentioned in the text of the rectangular object.",
+        "answer": "Vitamin"
+      },
+      {
+        "question": "Judging from the clarity and evenness of the print, how would you rate the printing quality of the text on the item?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the style of the text printed on the label, based solely on its visual appearance in the image?",
+        "answer": "Block"
+      },
+      {
+        "question": "Describe the visual alignment of the printed text within the boundaries of the rectangular object.",
+        "answer": "Left"
+      },
+      {
+        "question": "Considering the context of the printed words, what type of product would this label most likely be associated with?",
+        "answer": "Food"
+      },
+      {
+        "question": "Observing the image, is there any visible logo or branding present on this rectangular item?",
+        "answer": "No"
+      }
+    ]
+  }
+]

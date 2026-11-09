@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/af/af224bee.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the fabric shown in the image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent weave structure of this textile?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Based on the image, what is the overall visual appearance of the fabric's surface?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Judging from the image's detail, what kind of material does this fabric appear to be?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "Does the fabric exhibit a uniform or variegated color throughout the image?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What is the apparent visual density or compactness of the fabric's weave?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Focusing solely on the visual texture, how would you describe the fabric's tactile feel?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the image, can you describe the pattern or design of the fabric?",
+        "answer": "Plain"
+      },
+      {
+        "question": "What is the general visual impression of the fabric in the provided close-up image?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Does the fabric display any visible irregularities or imperfections in its texture?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image, is the fabric's color matte or glossy in appearance?",
+        "answer": "Matte"
+      },
+      {
+        "question": "From the image alone, what is the visual implication about the fabric's drape?",
+        "answer": "Drapable"
+      },
+      {
+        "question": "Can you describe the visible level of sheen or luster in the fabric image?",
+        "answer": "Low"
+      },
+      {
+        "question": "From the provided image, determine if there are any visible fibers sticking out.",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the visual appearance of the fabric’s surface finish.",
+        "answer": "Even"
+      }
+    ]
+  }
+]

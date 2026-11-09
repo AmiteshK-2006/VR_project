@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/06/068b541f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual layout, what is the primary purpose of this visually presented information?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the dominant color scheme used for the background of the text?",
+        "answer": "White"
+      },
+      {
+        "question": "Observing the text's font, what style best describes its overall appearance?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Describe the text alignment used for the majority of the ingredient list.",
+        "answer": "Left"
+      },
+      {
+        "question": "Focusing on the text's visual presentation, what is the case of the lettering primarily used?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Based on the visual hierarchy, which section is given more prominence in terms of font size and position?",
+        "answer": "Title"
+      },
+      {
+        "question": "What specific visual element separates the main ingredient list from the allergen information?",
+        "answer": "Spacing"
+      },
+      {
+        "question": "Examine the visual structure: how are individual ingredients within each category organized?",
+        "answer": "List"
+      },
+      {
+        "question": "Discerning the visual elements, what is the appearance of the text's formatting style?",
+        "answer": "Block"
+      },
+      {
+        "question": "In terms of visual density, how would you describe the arrangement of the ingredient information?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Considering the visual components, what is the visual form of the allergenic warnings?",
+        "answer": "Statement"
+      },
+      {
+        "question": "Based on visual cues, what is the overall style of the labeling and presentation?",
+        "answer": "Simple"
+      },
+      {
+        "question": "From a visual perspective, what is the general reading direction?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Judging from the image, what is the text's presentation style regarding the parentheses?",
+        "answer": "Inline"
+      },
+      {
+        "question": "What is the visual element used to denote parenthetical clarifications or additional details?",
+        "answer": "Parentheses"
+      }
+    ]
+  }
+]

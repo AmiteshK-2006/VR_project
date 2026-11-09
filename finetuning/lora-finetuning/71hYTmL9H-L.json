@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/38/38d28d7e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the visual texture and the listed ingredients, what is the predominant physical form of this product?",
+        "answer": "Powder"
+      },
+      {
+        "question": "Based on the image's visual cues, what is the overall color scheme of the packaging's text?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Judging by the visual appearance, what is the font style employed in the list of ingredients?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "From the image, what language is primarily used to present the ingredient list?",
+        "answer": "English"
+      },
+      {
+        "question": "What is the primary format of the information display shown in the provided image?",
+        "answer": "List"
+      },
+      {
+        "question": "Analyzing the visual style, what is the size of the text used for the 'Ingredients' label?",
+        "answer": "Large"
+      },
+      {
+        "question": "In terms of visual structure, how are the ingredient items structured within the list?",
+        "answer": "Bulleted"
+      },
+      {
+        "question": "What is the visual casing of the presented ingredient list?",
+        "answer": "Rectangle"
+      },
+      {
+        "question": "What is the overall visual appearance of the text's alignment within the container?",
+        "answer": "Left"
+      },
+      {
+        "question": "Observing the image, what is the apparent layout style of the ingredient information?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Judging by the image, what is the visual density of information shown, regarding the density of words?",
+        "answer": "High"
+      },
+      {
+        "question": "From the image, is the background of the ingredient list noticeably patterned or textured?",
+        "answer": "No"
+      },
+      {
+        "question": "Is the text style shown in bold lettering or regular font?",
+        "answer": "Regular"
+      },
+      {
+        "question": "Based on the visible text, what is the overall tone conveyed in the ingredient list?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Considering the visual details, can you describe the style of the 'Ingredients' header?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

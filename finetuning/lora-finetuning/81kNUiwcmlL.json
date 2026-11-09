@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4e/4ea22e72.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what is the primary color scheme used on this nutrition label?",
+        "answer": "White"
+      },
+      {
+        "question": "Observing the text blocks, what is the font style predominantly used for the nutritional information?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the visual layout, what is the most prominent numerical value displayed on the label?",
+        "answer": "100"
+      },
+      {
+        "question": "Focusing on the text organization, what is the primary unit of measurement consistently used for the nutritional values?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Examining the label's structure, what is the descriptive term used to categorize the displayed nutritional data?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Considering the visual hierarchy, what is the key element highlighting the serving size information?",
+        "answer": "Cup"
+      },
+      {
+        "question": "Regarding the visual design, what is the term used to describe the quantity of servings contained within the product?",
+        "answer": "Servings"
+      },
+      {
+        "question": "Observing the visual appearance, what is the style of the rectangular blocks used to organize the nutritional information?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Considering the provided information, what is the term representing the amount per serving as per the label?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Regarding visual elements, what percentage value is stated against 'Total Fat' in this nutritional information?",
+        "answer": "Three"
+      },
+      {
+        "question": "Focusing on the visual layout, what is the value expressed for 'Protein' in grams per serving?",
+        "answer": "Eight"
+      },
+      {
+        "question": "Considering the visual details, what is the value given for 'Sodium' in milligrams per serving?",
+        "answer": "120"
+      },
+      {
+        "question": "Regarding the design elements, what is the unit of measurement for 'Serving Size' as shown on the nutrition label?",
+        "answer": "Milliliters"
+      },
+      {
+        "question": "Examining the label's typography, what is the style of lettering used for 'Nutrition Facts'?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Considering the color contrast, what color is used for the text against the white background?",
+        "answer": "Black"
+      }
+    ]
+  }
+]

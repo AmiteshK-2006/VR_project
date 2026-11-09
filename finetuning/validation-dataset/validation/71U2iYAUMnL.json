@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b5/b57bbfeb.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall text layout, what is the dominant orientation of the textual information presented?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Based on the visual appearance, what is the primary color scheme used in printing the text on the label?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Judging by the visual presentation, what is the text's typeface style, considering its overall look?",
+        "answer": "Serif"
+      },
+      {
+        "question": "In the context of the visual presentation, what kind of font size is used to convey the 'Ingredients' heading?",
+        "answer": "Large"
+      },
+      {
+        "question": "Considering the textual elements, what is the primary language of the writing displayed on the label?",
+        "answer": "English"
+      },
+      {
+        "question": "What is the apparent visual texture of the background's surface on which the text is printed?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "In the visual representation, what appears to be the text's weight or thickness across the label?",
+        "answer": "Light"
+      },
+      {
+        "question": "Observing the visual attributes of the text, is the label's text style italicized or bold?",
+        "answer": "Regular"
+      },
+      {
+        "question": "Considering the visual display, what is the approximate overall length of each line of text presented on the label?",
+        "answer": "Long"
+      },
+      {
+        "question": "What seems to be the uniformity of spacing among the various words in every line of the text?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "In the visual arrangement, what is the overall visual density or compactness of the text across the label?",
+        "answer": "Dense"
+      },
+      {
+        "question": "What is the apparent visual style of the capitalization used for the words throughout the text?",
+        "answer": "Sentence"
+      },
+      {
+        "question": "Based on the visual perception, what seems to be the level of contrast between the text and its background color?",
+        "answer": "High"
+      },
+      {
+        "question": "Considering the visual display, what is the spacing between consecutive lines of text within the label's design?",
+        "answer": "Single"
+      },
+      {
+        "question": "What appears to be the legibility or readability of the text from a visual perspective?",
+        "answer": "High"
+      }
+    ]
+  }
+]

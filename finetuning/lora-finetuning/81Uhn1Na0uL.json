@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ba/ba986b1a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual texture, what is the predominant surface feel of the shoe's upper?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What color best describes the main body of the shoe, as observed in the provided image?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Based on the image, what appears to be the primary material used for the shoe's upper?",
+        "answer": "Canvas"
+      },
+      {
+        "question": "Focusing on the lacing system, what type of closure mechanism is visibly present?",
+        "answer": "Lace-up"
+      },
+      {
+        "question": "Describe the overall shape of the shoe as it is presented in the image; is it pointed or rounded?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What is the general style of the shoe presented, considering its design features and overall shape?",
+        "answer": "Casual"
+      },
+      {
+        "question": "Observe the insole; what brand name is prominently displayed within the shoe?",
+        "answer": "Symbol"
+      },
+      {
+        "question": "What color are the laces of this particular footwear item, as shown in the product image?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Looking closely at the sole's edge, what color is the visible trim or border around the shoe?",
+        "answer": "White"
+      },
+      {
+        "question": "Regarding the design elements, are there any noticeable patterns or details visible on the shoe's upper?",
+        "answer": "Speckled"
+      },
+      {
+        "question": "Describe the visible construction of the shoe's toe cap; is it reinforced or seamless?",
+        "answer": "Seamless"
+      },
+      {
+        "question": "What is the apparent condition of the shoe; does it appear worn or new?",
+        "answer": "New"
+      },
+      {
+        "question": "What is the apparent height of the shoe's upper; is it high-top, low-top or mid-top?",
+        "answer": "Low-top"
+      },
+      {
+        "question": "Is the sole of the shoe noticeably patterned, or is it plain in appearance?",
+        "answer": "Plain"
+      },
+      {
+        "question": "In terms of design, what is the overall visual effect of the subtle variations in the beige coloring of the shoe?",
+        "answer": "Subtle"
+      }
+    ]
+  }
+]

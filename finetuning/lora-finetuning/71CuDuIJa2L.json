@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/7f/7f10c292.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form and design, what best describes the container's shape?",
+        "answer": "Bottle"
+      },
+      {
+        "question": "Based on the visual texture, what is the apparent finish of the plastic container?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the primary color of the bottle, ignoring any label elements?",
+        "answer": "White"
+      },
+      {
+        "question": "Disregarding the label, what material is predominantly used to construct the bottle?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Focusing on the bottle's cap, what is its defining characteristic regarding shape?",
+        "answer": "Flip-top"
+      },
+      {
+        "question": "What is the overall color scheme of the graphic design on the label?",
+        "answer": "Green"
+      },
+      {
+        "question": "Observing the label's imagery, what natural element is prominently featured in the design?",
+        "answer": "Leaves"
+      },
+      {
+        "question": "What is the apparent type of container based on its function as shown?",
+        "answer": "Bottle"
+      },
+      {
+        "question": "Considering the label's textual information, what product category is clearly stated?",
+        "answer": "Wash"
+      },
+      {
+        "question": "Based on the cap's design, what is the most likely way to open the bottle?",
+        "answer": "Twist"
+      },
+      {
+        "question": "Examining the label's design, what style best describes the overall aesthetic?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the dominant text color on the product label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What kind of barcode appears on the label, based on its format?",
+        "answer": "UPC"
+      },
+      {
+        "question": "What is the color of the leaves depicted on the product label?",
+        "answer": "Green"
+      },
+      {
+        "question": "What type of recycling symbol is visible on the product label?",
+        "answer": "Number"
+      }
+    ]
+  }
+]

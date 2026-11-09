@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/27/27184b8f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the detergent packaging, as visibly depicted in the image?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the primary shape of the detergent powder packet shown in the provided image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the image, what appears to be the material of the detergent's outer packaging?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Judging from the picture, what design pattern is prominently displayed on the detergent packet?",
+        "answer": "Floral"
+      },
+      {
+        "question": "What is the color of the text prominently displayed on the detergent packaging in the supplied image?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the image, what type of product does the packaging contain, according to the text visible on it?",
+        "answer": "Detergent"
+      },
+      {
+        "question": "Examining the provided image, what word indicates the form of the detergent inside the packet?",
+        "answer": "Powder"
+      },
+      {
+        "question": "According to the image's visible text, what is the brand name of the detergent depicted?",
+        "answer": "Presti"
+      },
+      {
+        "question": "Based on the image, what is the net weight of the detergent packet, as shown on the packaging?",
+        "answer": "2kg"
+      },
+      {
+        "question": "Does the packaging in the image include instructions for hand washing, as visually apparent?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the packaging in the image include instructions for machine washing, as visually apparent?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the overall texture of the detergent packaging, judging from its appearance in the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the image, is there a visible bar code on the detergent packet?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on visual observation of the image, are there any noticeable tears or damages on the detergent packet?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the detergent packet's packaging feature any noticeable embossed sections, as shown in the image?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

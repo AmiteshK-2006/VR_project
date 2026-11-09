@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f6/f6a3bea5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant visible color of the displayed fabric?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the image, what is the overall texture of the material shown?",
+        "answer": "Fuzzy"
+      },
+      {
+        "question": "Based solely on visual inspection, what is the apparent material of the item?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Judging from the image, does the material exhibit a consistent or varied texture?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "From the image, can you determine the primary visual characteristic of this fabric?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What is the apparent overall tone of the visible area of the textile?",
+        "answer": "Light"
+      },
+      {
+        "question": "Does the fabric display any prominent patterns or designs in the image?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the visual appearance, how thick is the fabric shown?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Considering the image alone, does the fabric have a visible sheen or gloss?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent surface quality of the material depicted in the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From the image, how would you describe the density of the fabric's pile or nap?",
+        "answer": "High"
+      },
+      {
+        "question": "Based solely on visual observation, is the fabric's color uniform throughout?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What seems to be the level of visual detail present in the material's surface?",
+        "answer": "Low"
+      },
+      {
+        "question": "Judging from the image, what is the material's apparent weight or density?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "Based on the image, does the fabric appear to be tightly or loosely woven?",
+        "answer": "Tightly"
+      }
+    ]
+  }
+]

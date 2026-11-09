@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/07/076aa123.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the spice powder visible inside the container?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What is the primary material of the container holding the spice?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the overall shape of the spice container, disregarding the cap?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What color is the screw-on cap affixed to the top of the container?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the texture, how would you describe the appearance of the spice?",
+        "answer": "Powdery"
+      },
+      {
+        "question": "Based on the image, what appears to be the method of closing the spice jar?",
+        "answer": "Screw-top"
+      },
+      {
+        "question": "Describe the visible text on the label, focusing on the country of packaging?",
+        "answer": "USA"
+      },
+      {
+        "question": "What is the apparent packaging style of this product, judging by the container?",
+        "answer": "Jar"
+      },
+      {
+        "question": "What is the visible pattern or design on the spice within the container?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Judging by the visible portion, what is the consistency of the product inside?",
+        "answer": "Fine"
+      },
+      {
+        "question": "What is the apparent fill level of the spice within the container?",
+        "answer": "Full"
+      },
+      {
+        "question": "Does the container show any significant external markings beyond text?",
+        "answer": "No"
+      },
+      {
+        "question": "Ignoring the label text, what is the most noticeable visual feature?",
+        "answer": "Color"
+      },
+      {
+        "question": "What is the material of the label attached to the container?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Considering its size and shape, what is the most likely use of this container?",
+        "answer": "Spice"
+      }
+    ]
+  }
+]

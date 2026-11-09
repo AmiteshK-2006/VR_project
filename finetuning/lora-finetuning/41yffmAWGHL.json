@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/03/036d404e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant shade observed across the entire surface?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visible texture, what is the surface finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on the image, what appears to be the material of the product?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Does the visible surface exhibit any significant patterns or designs?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image, is the product's surface uniformly colored?",
+        "answer": "Yes"
+      },
+      {
+        "question": "From the visual inspection, what is the general shape of the item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Does the surface show any signs of glossiness or shine?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image's resolution, how would you describe the texture's grain?",
+        "answer": "Fine"
+      },
+      {
+        "question": "Based solely on visual analysis, is the product transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Does the image reveal any noticeable markings, imprints, or logos?",
+        "answer": "No"
+      },
+      {
+        "question": "Is there any visible evidence of folds, creases, or bends in the object?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the image, is the product relatively thin or thick?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Based on appearance, how would you describe the overall visual appeal?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Does the image show any visible signs of damage or imperfections?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the visible surface, how would you characterize its smoothness?",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

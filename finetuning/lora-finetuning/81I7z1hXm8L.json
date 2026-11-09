@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1c/1c6fc9f3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout and textual organization, what is the primary function of this product's packaging element?",
+        "answer": "Information"
+      },
+      {
+        "question": "Focusing on the prominent numerical value presented, what is the calorie count per serving of this food item?",
+        "answer": "130"
+      },
+      {
+        "question": "Examining the textual content, what is the specific serving size indicated for this product?",
+        "answer": "Cookies"
+      },
+      {
+        "question": "Based on the displayed information, what is the total amount of carbohydrates per serving, in grams?",
+        "answer": "17g"
+      },
+      {
+        "question": "According to the label, what is the total amount of fat, in grams, contained in one serving?",
+        "answer": "6g"
+      },
+      {
+        "question": "What is the measurement unit consistently used to denote quantities of various nutrients?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the value shown for the amount of saturated fat in grams, as indicated on the label?",
+        "answer": "4g"
+      },
+      {
+        "question": "Looking at the nutritional information, what is the quantity of added sugars in grams included in a serving?",
+        "answer": "7g"
+      },
+      {
+        "question": "According to the label's nutritional breakdown, how many milligrams of cholesterol are found in a single serving?",
+        "answer": "20mg"
+      },
+      {
+        "question": "What is the amount of sodium, in milligrams, as specified on the label for a single serving?",
+        "answer": "140mg"
+      },
+      {
+        "question": "What is the type of information primarily conveyed by the displayed text on the image?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the specified number of servings contained within the product's packaging?",
+        "answer": "7"
+      },
+      {
+        "question": "Based on the label's description, what is the total weight, in grams, of a serving?",
+        "answer": "28g"
+      },
+      {
+        "question": "What is the unit used for the measurement of cholesterol on the label?",
+        "answer": "mg"
+      },
+      {
+        "question": "What is the unit of measurement for the amount of protein listed on the nutrition label?",
+        "answer": "g"
+      }
+    ]
+  }
+]

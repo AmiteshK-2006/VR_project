@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b8/b8a9fbb8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the textual content displayed, what is the primary subject matter depicted in this image?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Focusing on the text's presentation, what is the overall style of the typography used?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the visual appearance of the text, what color is the ink used for printing?",
+        "answer": "Black"
+      },
+      {
+        "question": "Judging from the image, what is the background color of the text block?",
+        "answer": "White"
+      },
+      {
+        "question": "Given the textual format, how would you describe the arrangement of the ingredient list?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Observing the textual details, what is the formatting of the individual ingredients?",
+        "answer": "List"
+      },
+      {
+        "question": "From the image, what is the size of the textual font used in the description?",
+        "answer": "Small"
+      },
+      {
+        "question": "Considering the visual elements, is there any visible logo or brand name displayed?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the visual characteristics, does the text block utilize any visual separators or bullet points?",
+        "answer": "No"
+      },
+      {
+        "question": "From the image, is there any noticeable text alignment within the given block of text?",
+        "answer": "Left"
+      },
+      {
+        "question": "Considering the visual aspects, what is the overall tone conveyed by the typography's visual elements?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "Based on the visual presentation, how would you describe the density of the text block?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Considering the clarity of the text, how easily legible is the provided textual information?",
+        "answer": "Easy"
+      },
+      {
+        "question": "Observing the visual appearance, what can you say about the uniformity of the font used?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Judging by the visual features, what is the texture apparent in the image?",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

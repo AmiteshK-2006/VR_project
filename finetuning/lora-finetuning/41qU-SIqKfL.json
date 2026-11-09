@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9d/9d47b793.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the device shown in the provided image?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of the primary body of the product?",
+        "answer": "Circular"
+      },
+      {
+        "question": "Considering the visible surface, what appears to be the primary material of the device?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describing the texture, is the surface of the device smooth or textured?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Focusing on the central area, what kind of feature is noticeable in the circular indentation?",
+        "answer": "Sensor"
+      },
+      {
+        "question": "On the upper edge, what seems to be the small protrusion on top of the device?",
+        "answer": "Button"
+      },
+      {
+        "question": "Observing the lower portion, is there any notable texturing on the body?",
+        "answer": "Wavy"
+      },
+      {
+        "question": "Examining the device's form factor, does it appear to be thick or thin?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Considering the image, what is the general size of the product?",
+        "answer": "Small"
+      },
+      {
+        "question": "Based on visual clues, what is the apparent function of this object?",
+        "answer": "Sensor"
+      },
+      {
+        "question": "Does the device in the image show any visible logos or markings?",
+        "answer": "None"
+      },
+      {
+        "question": "What seems to be the method of attachment or placement for the product?",
+        "answer": "Adhesive"
+      },
+      {
+        "question": "Judging from the image, what is the overall style of the design?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Does the product appear to have any visible wires or connections?",
+        "answer": "No"
+      },
+      {
+        "question": "Looking at the edges, are they sharp or rounded?",
+        "answer": "Rounded"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/80/80b6169b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color scheme of the product packaging, as directly observed?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the image, what is the primary shape of the packaging container depicted?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging solely from the visual evidence, what appears to be the primary material used for the packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Examining the packaging's surface, what is the texture of the product's container, as visually perceived?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From the image, what is the prominent design element visually present on the product's packaging?",
+        "answer": "Text"
+      },
+      {
+        "question": "Based solely on the visual appearance, what type of information is prominently displayed on the package?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What kind of visual indicator, if any, suggests the product's dietary suitability?",
+        "answer": "Labels"
+      },
+      {
+        "question": "What is the orientation of the text and graphic elements on the product packaging?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Does the packaging show any visually apparent branding or logos?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Are there any visible warnings or cautions displayed on the product packaging?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the packaging show any visible certification marks or seals?",
+        "answer": "Yes"
+      },
+      {
+        "question": "From a visual inspection, are there any noticeable imperfections or damage to the packaging?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on visual observation, does the packaging seem to be sealed or tamper-evident?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the visual details, what is the perceived size of the product packaging?",
+        "answer": "Small"
+      },
+      {
+        "question": "Visually, what is the overall visual impression of the product packaging; sleek, cluttered, informative?",
+        "answer": "Informative"
+      }
+    ]
+  }
+]

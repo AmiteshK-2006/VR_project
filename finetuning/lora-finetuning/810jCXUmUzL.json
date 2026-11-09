@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/32/3212214c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall packaging, what is the dominant color scheme employed, which visually guides the consumer's attention?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What is the apparent form or shape of each individual container holding the product, based on its visible outline?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Based on the visible texture of the containers, what is the apparent surface finish of the product packaging?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the label, what is the name of the brand prominently displayed on the product containers?",
+        "answer": "Presto!"
+      },
+      {
+        "question": "From the visible text on the packaging, what specific product type or variety does the label indicate is contained inside?",
+        "answer": "Whites"
+      },
+      {
+        "question": "Regarding the label design, what is the primary typeface or font style used for the brand name and product description?",
+        "answer": "Script"
+      },
+      {
+        "question": "Analyzing the label design, what type of graphic element, if any, is incorporated near the brand name to enhance visual appeal?",
+        "answer": "Bubbles"
+      },
+      {
+        "question": "Examining the label, what is the language used in the product description and other informational text?",
+        "answer": "English"
+      },
+      {
+        "question": "Considering the product's presentation, what is the apparent material of the containers, judging from the packaging's overall appearance and feel?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the image, how many individual units of the product are clearly depicted in the provided image, suggesting the sale of a pack?",
+        "answer": "Three"
+      },
+      {
+        "question": "From the packaging, what kind of laundry product does the label subtly suggest this product enhances?",
+        "answer": "White"
+      },
+      {
+        "question": "Observing the label, what type of information appears to be listed about the product in smaller, detailed text?",
+        "answer": "Instructions"
+      },
+      {
+        "question": "What is the overall visual presentation or style of the product packaging, considering its color palette, font, and graphics?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Based on the visible label, can the net weight or volume of the product within each container be clearly discerned?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the packaging's design, what is the overall intended market or consumer demographic for this particular product?",
+        "answer": "Household"
+      }
+    ]
+  }
+]

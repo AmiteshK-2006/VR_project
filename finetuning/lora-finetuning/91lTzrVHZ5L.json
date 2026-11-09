@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4f/4f159420.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the outer packaging visible in the image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What appears to be the primary material used for the product's packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Considering the visible structure, what is the overall shape of the packaging box?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the image, what seems to be the type of packaging design employed?",
+        "answer": "Folding"
+      },
+      {
+        "question": "Observing the interior, what is the apparent color of the inner packing component?",
+        "answer": "White"
+      },
+      {
+        "question": "How many visible circular objects are nestled inside the product's packaging?",
+        "answer": "Three"
+      },
+      {
+        "question": "Judging by the image, what seems to be the apparent finish of the objects within?",
+        "answer": "Metallic"
+      },
+      {
+        "question": "What is the apparent texture of the exterior cardboard packaging of the product?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From the image, what seems to be the general form of the internal protective inserts?",
+        "answer": "Circular"
+      },
+      {
+        "question": "Focusing on the packaging, is there any obvious branding or labeling visible on it?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the visible components, is the packaging seemingly protective in nature?",
+        "answer": "Yes"
+      },
+      {
+        "question": "In the presented image, what is the visible state of the product's packaging?",
+        "answer": "Open"
+      },
+      {
+        "question": "Considering the size, would you describe the packaging as being small, medium, or large?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Is the packaging structured in a single layer or multiple layers, based on visual evidence?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "In terms of style, would you describe the packaging as simple or elaborate based solely on its appearance?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

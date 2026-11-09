@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/66/66f6c3bf.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary language used in displaying the nutritional information on this product label, visually apparent in the upper left corner?",
+        "answer": "English"
+      },
+      {
+        "question": "Considering the bilingual label design, what is the secondary language used, visually evident adjacent to 'Nutrition Facts'?",
+        "answer": "French"
+      },
+      {
+        "question": "Based on the visual structure, what is the main topic this label is focused on communicating, as explicitly stated at the top?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Considering the layout, what numerical value is prominently displayed and refers to the total energy content per serving, directly under 'Calories'?",
+        "answer": "130"
+      },
+      {
+        "question": "Examining the visual presentation of the data, what unit is used consistently to measure the quantity of each nutrient listed in the label?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the serving size specified in terms of the number of items based on the text that can be visually verified?",
+        "answer": "Six"
+      },
+      {
+        "question": "What is the total weight (in grams) of the stated serving size as visibly indicated on the food label?",
+        "answer": "126"
+      },
+      {
+        "question": "Observing the textual layout of the nutritional information, what is the descriptive term specifically used for the type of carbohydrates listed?",
+        "answer": "Sugars"
+      },
+      {
+        "question": "Considering the layout, how many categories of nutrients are displayed in the right column based on visual assessment?",
+        "answer": "Four"
+      },
+      {
+        "question": "What is the unit visually used for cholesterol in the right column?",
+        "answer": "Mg"
+      },
+      {
+        "question": "Based solely on the visual aspect, what is the text that provides context for the percentage values after each nutrient?",
+        "answer": "DV"
+      },
+      {
+        "question": "What is the type of food this label refers to as visually evident near 'Per 6'?",
+        "answer": "Cookies"
+      },
+      {
+        "question": "Observing the formatting, what word is directly below 'Nutrition Facts'?",
+        "answer": "Valeur"
+      },
+      {
+        "question": "Considering the visual layout, in what part of the label are the daily values given for the nutrients?",
+        "answer": "Right"
+      },
+      {
+        "question": "What is the color of the text in this label?",
+        "answer": "Black"
+      }
+    ]
+  }
+]

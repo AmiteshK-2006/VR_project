@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6a/6a5bdb7d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the largest cardboard box?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What shape are the three displayed cardboard boxes?",
+        "answer": "Cubic"
+      },
+      {
+        "question": "What material appears to constitute the boxes' construction?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What letter denotes the size of the smallest cardboard box?",
+        "answer": "S"
+      },
+      {
+        "question": "What letter denotes the size of the medium cardboard box?",
+        "answer": "M"
+      },
+      {
+        "question": "What letter denotes the size of the largest cardboard box?",
+        "answer": "L"
+      },
+      {
+        "question": "What is the apparent surface texture of the cardboard boxes?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the image, how many boxes are visually present?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the general orientation of the boxes in the image?",
+        "answer": "Stacked"
+      },
+      {
+        "question": "Are there any visible markings aside from size indicators?",
+        "answer": "No"
+      },
+      {
+        "question": "What method is used to indicate size on the boxes?",
+        "answer": "Letters"
+      },
+      {
+        "question": "Does the image showcase any visible damage to the boxes?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the stacking, what is the order of sizes?",
+        "answer": "SML"
+      },
+      {
+        "question": "What is the overall visual impression of the boxes?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Are the boxes depicted in a uniform color throughout?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

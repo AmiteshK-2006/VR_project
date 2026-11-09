@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c8/c8e709f4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the rectangular product shown?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the overall texture, what is the apparent surface feel?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on visual inspection, what appears to be the primary material used?",
+        "answer": "Foam"
+      },
+      {
+        "question": "What is the shape of the presented product, ignoring any minor irregularities?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Examining the image carefully, what is the overall thickness of the item?",
+        "answer": "Thin"
+      },
+      {
+        "question": "What kind of marking is visibly present on the item's surface?",
+        "answer": "Text"
+      },
+      {
+        "question": "Judging by its appearance, what is the likely function of this product?",
+        "answer": "Padding"
+      },
+      {
+        "question": "What is the most prominent characteristic of the item's surface texture?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Observing the product's edges, are they sharp or rounded?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Considering the visible dimensions, would you classify it as large or small?",
+        "answer": "Large"
+      },
+      {
+        "question": "Given the material and application, how would you describe its rigidity?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Does the product exhibit any noticeable patterns or designs?",
+        "answer": "No"
+      },
+      {
+        "question": "Is the color of the item entirely consistent across the entire visible surface?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering its dimensions, how would you best describe its form?",
+        "answer": "Flat"
+      },
+      {
+        "question": "What is the general visual impression of the product's condition?",
+        "answer": "New"
+      }
+    ]
+  }
+]

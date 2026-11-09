@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/77/77d7248f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the dominant shape of the product packaging, as observed in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary color of the flexible packaging material that is clearly visible in the provided image?",
+        "answer": "White"
+      },
+      {
+        "question": "Observing the product image carefully, what appears to be the primary material used for this flexible packaging?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on visual inspection of the product image, what seems to be the texture of the packaging material?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by its appearance, what is the most probable function of the item depicted in the image?",
+        "answer": "Packaging"
+      },
+      {
+        "question": "What color is prominently featured in the graphic design visible on the product packaging?",
+        "answer": "Green"
+      },
+      {
+        "question": "In the provided product image, what is the general style of the text present on the packaging?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on visual evidence alone, what is the implied use or contents of this flexible packaging, considering the color of the graphic?",
+        "answer": "Food"
+      },
+      {
+        "question": "What type of seal or closure mechanism appears to be used in the image of the product's packaging?",
+        "answer": "Heat-sealed"
+      },
+      {
+        "question": "Examining the image, can you determine if there are any visible perforations in the product packaging?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall appearance of the design on the package, in terms of complexity or simplicity?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Does the image suggest the presence of any noticeable transparent portions on the product’s packaging?",
+        "answer": "No"
+      },
+      {
+        "question": "What seems to be the general condition of the flexible packaging shown, in terms of its appearance?",
+        "answer": "Unopened"
+      },
+      {
+        "question": "Based on the image, what is the orientation of the text on the package relative to its vertical axis?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Given the image, is there any visible damage or wear and tear noticeable on the product's packaging?",
+        "answer": "No"
+      }
+    ]
+  }
+]

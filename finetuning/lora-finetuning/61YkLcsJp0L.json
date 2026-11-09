@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6f/6f644fa3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the presented nutrition facts label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary font style used for the header 'Nutrition Facts'?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the text's arrangement, what is the overall layout of the nutrition information?",
+        "answer": "tabular"
+      },
+      {
+        "question": "What is the unit of measurement consistently used for the serving size?",
+        "answer": "grams"
+      },
+      {
+        "question": "Describe the format in which numerical data values are presented in each row?",
+        "answer": "numeric"
+      },
+      {
+        "question": "What is the typeface's weight used throughout the nutrition label?",
+        "answer": "Regular"
+      },
+      {
+        "question": "What is the background color on which the nutrition information is printed?",
+        "answer": "White"
+      },
+      {
+        "question": "Judging by the text size, what is the overall readability of the label?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the style of the borders used to organize the data in columns and rows?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the visual prominence, what is the most highlighted text element on the label?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the alignment of the numerical values within their respective columns?",
+        "answer": "Right"
+      },
+      {
+        "question": "What style is the asterisk (*) used in the footnote to represent?",
+        "answer": "Superscript"
+      },
+      {
+        "question": "What is the overall appearance of the text and numeric values on the label?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Based on the label's visual clarity, how easy is the information to understand?",
+        "answer": "Easy"
+      },
+      {
+        "question": "What is the style of the text used to list the nutritional components?",
+        "answer": "Regular"
+      }
+    ]
+  }
+]

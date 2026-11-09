@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ca/ca4685c3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the folded textile item shown?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the texture, what is the likely material of this folded item?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Based on its appearance, what is the likely function of this folded item?",
+        "answer": "Towel"
+      },
+      {
+        "question": "Describe the overall shape of the folded textile product in the image.",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent texture of the visible surface of the folded item?",
+        "answer": "Loop"
+      },
+      {
+        "question": "Judging by the image, how many visible layers does the folded item possess?",
+        "answer": "Two"
+      },
+      {
+        "question": "Considering the visual appearance, what is the general softness level of the textile?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Considering the overall presentation, is the displayed item new or used?",
+        "answer": "New"
+      },
+      {
+        "question": "What is the apparent absorbency level suggested by the appearance of the textile?",
+        "answer": "High"
+      },
+      {
+        "question": "Based purely on its visual attributes, is this item thick or thin?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Does the folded item show any visible patterns or designs?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image, what is the overall condition of the folded item?",
+        "answer": "Perfect"
+      },
+      {
+        "question": "Based on the image, is the displayed item a single unit or a set?",
+        "answer": "Single"
+      },
+      {
+        "question": "What kind of edges does the folded item appear to have in the image?",
+        "answer": "Finished"
+      },
+      {
+        "question": "Does the image reveal any prominent decorative elements or features on the item?",
+        "answer": "None"
+      }
+    ]
+  }
+]

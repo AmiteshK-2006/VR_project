@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0f/0f021aa6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the lid's geometric pattern, as shown in the product image?",
+        "answer": "Green"
+      },
+      {
+        "question": "Considering the product image, what appears to be the primary material composing the container?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Based on the image provided, what shape best describes the overall form of the product?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Observing the product image, what is the texture of the lid, seemingly inferred from its visual appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From the image, what design element is prominently featured on the lid of the product container?",
+        "answer": "Geometric"
+      },
+      {
+        "question": "Does the image show any visible text or labels on the product's packaging, excluding barcodes?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging by the image, what seems to be the dominant color of the container's body, excluding the lid?",
+        "answer": "Silver"
+      },
+      {
+        "question": "What is the apparent finish of the product's metal container based on its visual reflection in the image?",
+        "answer": "Shiny"
+      },
+      {
+        "question": "Judging from the image, are there any noticeable markings or engravings on the product's container besides text?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the image, is the product packaging visibly sealed or tamper-evident in any way?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent size of the product container based on the overall image proportions?",
+        "answer": "Small"
+      },
+      {
+        "question": "From the visual representation in the image, does the product container appear to have any significant dents or scratches?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the visual details, does the container appear to be transparent or opaque in nature?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Based solely on the image, what seems to be the style of the lettering on the product's packaging?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Does the product image reveal any discernible branding elements or logos on the packaging?",
+        "answer": "No"
+      }
+    ]
+  }
+]

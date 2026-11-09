@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/52/52445ff3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the primary visible element in this image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the predominant color of the main component depicted?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the material of the packaging's surface?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What kind of texture does the surface of the primary item seem to have?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the size and visual information, what is the likely purpose of this item?",
+        "answer": "Packaging"
+      },
+      {
+        "question": "Based on the print, what sort of instructions are prominently featured on the item?",
+        "answer": "Heating"
+      },
+      {
+        "question": "What is indicated as a suitable cooking method, shown as a pictogram?",
+        "answer": "Stovetop"
+      },
+      {
+        "question": "What is indicated as an unsuitable cooking method, as shown via pictogram?",
+        "answer": "Microwave"
+      },
+      {
+        "question": "What is the name of the food brand or product line presented?",
+        "answer": "Happy"
+      },
+      {
+        "question": "What kind of additional information, beyond cooking instructions, is given?",
+        "answer": "Warnings"
+      },
+      {
+        "question": "What is the recommended post-opening storage condition shown for the product?",
+        "answer": "Refrigerate"
+      },
+      {
+        "question": "What is the maximum recommended storage duration after opening?",
+        "answer": "14"
+      },
+      {
+        "question": "What is the unit of time associated with the storage duration?",
+        "answer": "Days"
+      },
+      {
+        "question": "What is advised against purchasing based on the label\u2019s warning?",
+        "answer": "Punctured"
+      },
+      {
+        "question": "According to the label, what happens if the cap is twisted?",
+        "answer": "Breaks"
+      }
+    ]
+  }
+]

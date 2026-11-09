@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5b/5b26638b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form of the depicted item, what single word best describes its three-dimensional shape, accounting for the slight tapering and the seal at the bottom?",
+        "answer": "Conical"
+      },
+      {
+        "question": "What is the most dominant color that the bottom portion of the flexible package is visually exhibiting in the provided image?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Focusing solely on the visual characteristics, what seems to be the primary material used for this product's packaging, based on its texture and fold lines?",
+        "answer": "Foil"
+      },
+      {
+        "question": "Observing the text on the package, what single word prominently describes the kind of food product contained inside?",
+        "answer": "Pretzels"
+      },
+      {
+        "question": "Considering the visual prominence of text on the central portion of the product, which single word best summarizes the type of food being presented?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Based on the image, what color best characterizes the topmost section of the flexible packaging, where the label begins?",
+        "answer": "Green"
+      },
+      {
+        "question": "Regarding the product's packaging, what word best captures the visual impression of its surface texture from the provided image?",
+        "answer": "Wrinkled"
+      },
+      {
+        "question": "Describe the general visual appearance of the text on the main label of this food item's flexible packaging, using a single word.",
+        "answer": "Descriptive"
+      },
+      {
+        "question": "Observing the visual details, what single word describes the manufacturing process indicated on the food packaging label?",
+        "answer": "Roasted"
+      },
+      {
+        "question": "What is the overall style that the label's visual design conveys, taking into account the choice of font, color, and layout?",
+        "answer": "Rustic"
+      },
+      {
+        "question": "Concentrating on the visual aspect, what word best describes the condition of the seal at the bottom of the package?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Analyzing the visual data only, what is the visible state of the packaging, considering if it is open, unopened, damaged, etc?",
+        "answer": "Unopened"
+      },
+      {
+        "question": "What single word best captures the primary method of closure visible for this flexible food packaging?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Based on the visible details of the image, what word describes the form factor of this food product's package?",
+        "answer": "Pouch"
+      },
+      {
+        "question": "What single word best represents the visual presentation of the information on the package regarding the product's ingredients and other details?",
+        "answer": "Detailed"
+      }
+    ]
+  }
+]

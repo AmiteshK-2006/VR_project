@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a7/a76c662b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall background color dominating the image?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "Considering the text blocks, what is the predominant color of the text?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of each individual text block within the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the text style used for the heading 'Drug Facts'?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Describing the layout, how are the 'Active Ingredients' and 'Purpose' sections arranged?",
+        "answer": "Parallel"
+      },
+      {
+        "question": "What is the visual format used to present the drug information?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the visual appearance of the lines separating the text sections?",
+        "answer": "Solid"
+      },
+      {
+        "question": "What is the font style used for listing the active ingredients and their purposes?",
+        "answer": "Regular"
+      },
+      {
+        "question": "Based on visual inspection, what is the type of information shown in the image?",
+        "answer": "Medical"
+      },
+      {
+        "question": "What is the apparent text size relative to the background area?",
+        "answer": "Small"
+      },
+      {
+        "question": "Considering the text density, is the overall look of the information sparse or dense?",
+        "answer": "Sparse"
+      },
+      {
+        "question": "Regarding the information presentation, is the layout symmetrical or asymmetrical?",
+        "answer": "Symmetrical"
+      },
+      {
+        "question": "What is the visual texture of the background's color application?",
+        "answer": "Solid"
+      },
+      {
+        "question": "How many distinct columns are visibly present within the displayed data table?",
+        "answer": "Two"
+      },
+      {
+        "question": "Considering the text blocks, what is the general color contrast between the text and background?",
+        "answer": "High"
+      }
+    ]
+  }
+]

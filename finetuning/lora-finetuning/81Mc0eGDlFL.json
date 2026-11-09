@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/65/659dd1b2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the visible product pieces?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the overall shape of the product packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the primary vegetable present in the mix?",
+        "answer": "Cabbage"
+      },
+      {
+        "question": "What is the texture of the visible product pieces?",
+        "answer": "Chopped"
+      },
+      {
+        "question": "What secondary color is prominently visible in the vegetable mix?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What type of packaging material encloses the product?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the general appearance of the product within the bag?",
+        "answer": "Mixed"
+      },
+      {
+        "question": "Considering the color scheme, what feeling does the packaging evoke?",
+        "answer": "Fresh"
+      },
+      {
+        "question": "Describe the shape of the individual pieces of the product.",
+        "answer": "Irregular"
+      },
+      {
+        "question": "Based on the image, what seems to be the product's consistency?",
+        "answer": "Solid"
+      },
+      {
+        "question": "What is the color of the primary text on the packaging?",
+        "answer": "White"
+      },
+      {
+        "question": "What color is the prominent background panel on the packaging?",
+        "answer": "Purple"
+      },
+      {
+        "question": "What kind of information is displayed prominently on the packaging?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the overall transparency level of the packaging material?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What other vegetable, besides cabbage and carrots, can be visually identified?",
+        "answer": "None"
+      }
+    ]
+  }
+]

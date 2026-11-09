@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/02/02071c71.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary subject depicted in the provided image, focusing on the text layout and content organization?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Considering the visual structure, what specific aspect of food is predominantly detailed in the presented image?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Based on the image's textual information, what is the specified serving size, noting the unit of measurement?",
+        "answer": "Burger"
+      },
+      {
+        "question": "Analyzing the visual arrangement of information, what is the stated unit of measurement for the serving size?",
+        "answer": "Gram"
+      },
+      {
+        "question": "Referring to the text, how many servings are indicated within the provided container?",
+        "answer": "Three"
+      },
+      {
+        "question": "Observing the numerical data presented, what is the total number of calories per serving?",
+        "answer": "OneHundred"
+      },
+      {
+        "question": "According to the image, how many calories per serving originate from fat?",
+        "answer": "Ten"
+      },
+      {
+        "question": "Considering the nutritional details, what is the amount of total fat, in grams, per serving?",
+        "answer": "One"
+      },
+      {
+        "question": "Based on the nutritional breakdown, what is the amount of dietary fiber, in grams, per serving?",
+        "answer": "Five"
+      },
+      {
+        "question": "As per the image, what is the amount of protein, in grams, per serving?",
+        "answer": "Four"
+      },
+      {
+        "question": "From the text's presentation, what is the percentage of daily value for total fat, per serving?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the percentage of daily value for dietary fiber, per serving?",
+        "answer": "Twenty"
+      },
+      {
+        "question": "What is the percentage of daily value for Vitamin A, per serving?",
+        "answer": "Eight"
+      },
+      {
+        "question": "What is the percentage of daily value for Vitamin C, per serving?",
+        "answer": "Zero"
+      },
+      {
+        "question": "What is the percentage of daily value for Iron, per serving?",
+        "answer": "Four"
+      }
+    ]
+  }
+]

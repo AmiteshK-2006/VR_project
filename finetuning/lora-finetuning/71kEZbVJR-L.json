@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/52/52404679.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the dominant three-dimensional shape of this packaged product?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the predominant color of the plastic bottle, ignoring any labels or markings?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Describing the texture of the plastic, what kind of surface finish is visibly apparent on the bottle?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent material used in the construction of the main container for this product?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What single color is most prominently displayed on the label wrapping around the bottle?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the apparent physical state of the product contained within the clear plastic bottle?",
+        "answer": "Liquid"
+      },
+      {
+        "question": "Disregarding the label, is the surface of the plastic bottle predominantly glossy or matte?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What is the design of the cap atop the bottle; describe its shape in a single word?",
+        "answer": "Conical"
+      },
+      {
+        "question": "What color is the cap on the top of the water bottle, ignoring any brand names or markings?",
+        "answer": "White"
+      },
+      {
+        "question": "Ignoring any text, what is the overall pattern or texture visible on the plastic of the bottle itself?",
+        "answer": "Ribbed"
+      },
+      {
+        "question": "Based on the visible features, what type of closure system does this bottle possess?",
+        "answer": "Screw"
+      },
+      {
+        "question": "Concentrating only on what can be seen on the bottle itself, describe the label's design in a single word.",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What kind of visual information, besides text, is displayed on the label around the bottle's body?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "Excluding any labels, what is the most visible characteristic of the bottle's contour?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Judging solely from visual inspection, what is the overall condition of the product and its packaging?",
+        "answer": "New"
+      }
+    ]
+  }
+]

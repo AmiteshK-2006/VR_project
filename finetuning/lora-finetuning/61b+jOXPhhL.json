@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a4/a4ebc9d3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall structure, what is the dominant geometric form exhibited by the presented product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary color of the lines composing the majority of the visual element?",
+        "answer": "Black"
+      },
+      {
+        "question": "Disregarding the numerical markings, what is the predominant visual texture observed across the entire product?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Based on visual inspection, what type of code is primarily represented in the image provided?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "Considering the visual contrast, what is the color of the background surrounding the main visual element?",
+        "answer": "White"
+      },
+      {
+        "question": "In terms of the visual information conveyed, what kind of data is encoded within the primary structural element?",
+        "answer": "Numeric"
+      },
+      {
+        "question": "What is the visual state or condition of the barcode's lines, are they uniform in their appearance?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Considering the image's visual elements, what is the primary method of data representation used?",
+        "answer": "Stripes"
+      },
+      {
+        "question": "If considering the visual presentation of the numbers, what typeface is used for the numbers accompanying the code?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Focusing solely on the visual presentation, what is the overall visual density of the barcode?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the visual orientation or alignment of the barcode relative to the borders of the image?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "From a visual perspective, what is the overall visual clarity and legibility of the barcode and its numbers?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the visual arrangement of the bars in the presented barcode, are they arranged in a structured way?",
+        "answer": "Organized"
+      },
+      {
+        "question": "What is the visible surface quality of the barcode's stripes, how smooth is the presentation?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the visual presentation, are there any visible signs of damage or imperfections in the barcode?",
+        "answer": "None"
+      }
+    ]
+  }
+]

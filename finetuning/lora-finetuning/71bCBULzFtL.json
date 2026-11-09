@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/24/244b9114.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color scheme utilized in the design of this nutrition facts label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the visual layout, what is the overall shape of this nutrition information panel?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What primary text style is used for prominently displaying the 'Nutrition Facts' header?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Based on the visual appearance, what is the material type of the surface on which the nutrition facts are printed?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the numerical value visibly presented for the total number of calories per serving?",
+        "answer": "100"
+      },
+      {
+        "question": "Observing the layout, what unit of measurement is used after the numerical values for nutrients?",
+        "answer": "g"
+      },
+      {
+        "question": "In terms of typography, what font weight is predominantly used for numerical data?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Regarding the visual organization, how many distinct sections are visibly present for different nutrient categories?",
+        "answer": "Nine"
+      },
+      {
+        "question": "What is the unit of measurement displayed alongside 'Serving Size' in the label's upper portion?",
+        "answer": "g"
+      },
+      {
+        "question": "What is the stated number of servings contained within the package, as visually apparent on the label?",
+        "answer": "Eight"
+      },
+      {
+        "question": "What percentage value is visually indicated for 'Saturated Fat' relative to the daily value?",
+        "answer": "5"
+      },
+      {
+        "question": "What single-word description best captures the overall visual style of the nutrition facts label?",
+        "answer": "Informative"
+      },
+      {
+        "question": "What is the visual format of the nutrition information presented on the label?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the visual texture implied by the surface of the label?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the label, what is the visual presentation style for the percentage values?",
+        "answer": "Inline"
+      }
+    ]
+  }
+]

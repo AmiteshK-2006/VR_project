@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f8/f8498cb5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant visual texture apparent across the entire fabric sample?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Considering the overall hue, what single word best describes the fabric's color?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Based on visual inspection, what is the apparent material composition of this textile?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Does the fabric exhibit a noticeable pattern or design element?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the directionality of the visible weave lines in the fabric sample?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Judging by the image, what is the implied level of sheen or luster in the material?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Given the appearance, is the fabric's surface smooth or rough to the touch?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Can you describe the general visual uniformity of the color and texture across the sample?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "From the visual analysis, what is the apparent overall weight or thickness of the fabric?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the primary visual characteristic that defines the aesthetic of the displayed material?",
+        "answer": "Plain"
+      },
+      {
+        "question": "In terms of visual structure, how would you describe the arrangement of the fabric's fibers?",
+        "answer": "Linear"
+      },
+      {
+        "question": "If one were to touch the sample, would the texture feel soft or coarse?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Considering the color intensity, is the beige hue light or dark?",
+        "answer": "Light"
+      },
+      {
+        "question": "What kind of visual impression is created by the evenness of the fabric's weave?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "Does the image reveal any discernible irregularities or imperfections in the fabric?",
+        "answer": "No"
+      }
+    ]
+  }
+]

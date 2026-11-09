@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b8/b8e7fa59.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color observed across the entire fabric sample?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering the visible weave, what textile type is primarily suggested?",
+        "answer": "Linen"
+      },
+      {
+        "question": "Based on the image's texture, how would you describe the fabric's surface feel?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall visual impression of the displayed fabric's color tone?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "Judging from the image, is the fabric pattern uniform or varied in appearance?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Does the fabric appear to have any noticeable sheen or glossiness?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the image resolution, what level of detail is shown in the weave structure?",
+        "answer": "Fine"
+      },
+      {
+        "question": "Describe the visual density of the fabric's weave, sparse or tightly woven?",
+        "answer": "Tight"
+      },
+      {
+        "question": "From the visible texture, would the fabric appear to be light or heavy in weight?",
+        "answer": "Light"
+      },
+      {
+        "question": "Given the image, is the visible surface of the fabric textured or plain?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Observing the image, how would you characterize the visual consistency of the color?",
+        "answer": "Even"
+      },
+      {
+        "question": "Does the fabric visually exhibit any discernible pattern or print?",
+        "answer": "None"
+      },
+      {
+        "question": "Based on visual characteristics, is the fabric's color more warm or cool-toned?",
+        "answer": "Warm"
+      },
+      {
+        "question": "Considering its appearance, how would you characterize the fabric's visual opacity?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "From the visual evidence, what is the general visual impression of the fabric's finish?",
+        "answer": "Natural"
+      }
+    ]
+  }
+]

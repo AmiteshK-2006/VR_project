@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6a/6a14c0b8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular layout and the detailed numerical data presented within clearly defined rows and columns, what is the dominant shape of this nutritional information panel?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Observing the textual content, primarily focusing on the bold, capitalized header at the very top, what is the main subject of this display?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Analyzing the text's typographic characteristics throughout the entire panel, including font size variations, what is the predominant style of the text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Focusing on the color palette used consistently across all the text and background elements, what is the most prevalent color?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the background's uniformity and the absence of any discernible texture, what is the texture of the background?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the various nutritional components listed, such as 'Total Fat,' 'Sodium,' and 'Protein,' along with their corresponding amounts and percentages, what is the overall theme conveyed by this label?",
+        "answer": "Dietary"
+      },
+      {
+        "question": "Examining the different values associated with each nutritional element, expressed both as grams and percentages, what is the primary unit used to quantify the nutritional content?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Given the precise measurements provided alongside each nutritional component, what is the general style of presentation adopted?",
+        "answer": "Quantitative"
+      },
+      {
+        "question": "Looking at the manner in which the information is categorized and arranged into neat rows, what is the structural organization of the data?",
+        "answer": "tabular"
+      },
+      {
+        "question": "Considering the style in which the nutritional information is organized, what is the dominant organizational principle?",
+        "answer": "Categorical"
+      },
+      {
+        "question": "Given that the label lists 'Serving size' and 'Amount per serving,' what is the implicit nature of the information presented?",
+        "answer": "Portion-specific"
+      },
+      {
+        "question": "Based on the use of bold text to highlight key terms, what is the general readability of the information presented?",
+        "answer": "High"
+      },
+      {
+        "question": "Observing the clear distinctions between the header, body, and footer, what is the overall layout of the nutritional information?",
+        "answer": "Structured"
+      },
+      {
+        "question": "Considering the presence of both numerical values and percentage values, what is the dual manner of presenting the information?",
+        "answer": "Dual"
+      },
+      {
+        "question": "Considering the overall size and the amount of information presented, what is the scale of the information panel?",
+        "answer": "Small"
+      }
+    ]
+  }
+]

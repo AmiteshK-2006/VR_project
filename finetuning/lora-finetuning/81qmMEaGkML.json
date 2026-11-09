@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ab/ab4d1f21.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the text on the supplement facts label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the supplement container shown, based on the visible portion?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the visible text, what is the primary focus of the information presented?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the specified serving size, as clearly indicated on the label?",
+        "answer": "Tablet"
+      },
+      {
+        "question": "What is the color of the background of the supplement facts label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the format of the nutritional information provided on the label?",
+        "answer": "Table"
+      },
+      {
+        "question": "What specific nutrient is prominently highlighted in the provided nutritional data?",
+        "answer": "Folate"
+      },
+      {
+        "question": "What type of information does the section labeled 'OTHER INGREDIENTS' provide?",
+        "answer": "Additives"
+      },
+      {
+        "question": "What is the overall texture implied by the visible label's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What type of information is the label primarily designed to display?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Based on the image, does the label appear glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the style of the font used for the 'Supplement Facts' heading?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the overall visual style of the label's design?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the format of the information presented regarding the percentage of daily value?",
+        "answer": "Percentage"
+      },
+      {
+        "question": "What is the font style for the list of other ingredients?",
+        "answer": "Regular"
+      }
+    ]
+  }
+]

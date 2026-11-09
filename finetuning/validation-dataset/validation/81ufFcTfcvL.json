@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fe/fedcc895.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual layout, what is the primary purpose of this rectangular item, judging by its textual content and formatting?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the dominant color scheme used in the text and background of this food product information label?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Based on the visual presentation, what specific measurement unit is prominently featured alongside the serving size information?",
+        "answer": "Tablespoon"
+      },
+      {
+        "question": "What numerical value, clearly displayed and prominent, represents the total calories per serving of this food product?",
+        "answer": "40"
+      },
+      {
+        "question": "Observing the visual structure, what is the term displayed immediately above the list of quantitative nutritional values?",
+        "answer": "Calories"
+      },
+      {
+        "question": "What is the type of nutritional element, explicitly mentioned in the graphic representation, identified as containing 3.5g per serving?",
+        "answer": "Fat"
+      },
+      {
+        "question": "What unit of measure is consistently used throughout the listed nutritional data for various food components such as fats, carbohydrates, and minerals?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What specific element is visually denoted as having a value of 2g in the provided visual data?",
+        "answer": "Fat"
+      },
+      {
+        "question": "In the graphic, what is the descriptive term used to classify a type of fat that is listed as containing 0g per serving?",
+        "answer": "Trans"
+      },
+      {
+        "question": "What nutritional component is listed as having a numerical value of 10mg shown in the presented information?",
+        "answer": "Cholesterol"
+      },
+      {
+        "question": "What is the listed quantity for sodium per serving, expressed numerically using the provided visual data?",
+        "answer": "10"
+      },
+      {
+        "question": "What is the nutritional category represented by the term 'Carbohydrate', which visually appears in the given nutritional information?",
+        "answer": "Total"
+      },
+      {
+        "question": "Observing the text, what is the type of sugar that has a value of 0g explicitly stated in the nutrition facts label?",
+        "answer": "Added"
+      },
+      {
+        "question": "Based on visual analysis, what is the quantitative value given for protein content per serving, in grams?",
+        "answer": "1"
+      },
+      {
+        "question": "What specific vitamin, shown in the image, is listed as having a value of 0mcg in the nutritional facts?",
+        "answer": "D"
+      }
+    ]
+  }
+]

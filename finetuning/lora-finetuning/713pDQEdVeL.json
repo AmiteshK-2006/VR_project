@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b2/b29f8fb0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the textual information provided in the image, what primary ingredient is visibly listed first?",
+        "answer": "Couscous"
+      },
+      {
+        "question": "Based on the image's textual content, what type of wine is explicitly mentioned among the ingredients?",
+        "answer": "Red"
+      },
+      {
+        "question": "Referring to the textual data in the image, what kind of oil is used in the product's composition?",
+        "answer": "Olive"
+      },
+      {
+        "question": "According to the image's text, what type of vinegar is listed as one of the ingredients?",
+        "answer": "Red"
+      },
+      {
+        "question": "What type of olives are explicitly named in the ingredient list shown in the image?",
+        "answer": "Kalamata"
+      },
+      {
+        "question": "As shown in the image, what is mentioned as an additive to prevent caking?",
+        "answer": "Salt"
+      },
+      {
+        "question": "What ingredient, according to the image, is added to prevent caking?",
+        "answer": "Salt"
+      },
+      {
+        "question": "Based on the image, what specific type of gum is included in the ingredient list?",
+        "answer": "Acacia"
+      },
+      {
+        "question": "Judging from the image, what type of acid is included in the list of ingredients?",
+        "answer": "Citric"
+      },
+      {
+        "question": "What spice is mentioned in the ingredient list displayed in the image?",
+        "answer": "Turmeric"
+      },
+      {
+        "question": "According to the textual information in the image, what kind of cheese is used?",
+        "answer": "Feta"
+      },
+      {
+        "question": "What vegetable is indicated within the provided ingredient statement?",
+        "answer": "Cucumber"
+      },
+      {
+        "question": "As shown in the image's text, what type of tomatoes are included?",
+        "answer": "Sun-dried"
+      },
+      {
+        "question": "What herb is mentioned within the ingredient statement shown in the picture?",
+        "answer": "Parsley"
+      },
+      {
+        "question": "Based on the image's text, what is one type of acid included?",
+        "answer": "Tartaric"
+      }
+    ]
+  }
+]

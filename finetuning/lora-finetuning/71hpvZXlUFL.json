@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e7/e70e0b0f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form and dimensions, what best describes the shape of this product container?",
+        "answer": "Bottle"
+      },
+      {
+        "question": "Based on the dominant hue observed throughout the product's liquid, what is its primary color?",
+        "answer": "Red"
+      },
+      {
+        "question": "What material is predominantly used in the construction of the product's primary packaging?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Examining the label, what specific type of cocktail mix does the product appear to be?",
+        "answer": "BloodyMary"
+      },
+      {
+        "question": "Observing the product's cap, what color is it predominantly?",
+        "answer": "White"
+      },
+      {
+        "question": "Looking at the texture of the liquid inside, would you describe it as smooth or coarse?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the label, what brand is associated with this specific product?",
+        "answer": "365"
+      },
+      {
+        "question": "Considering the product's packaging, what is its intended usage based on what is clearly visible?",
+        "answer": "Drink"
+      },
+      {
+        "question": "Can you determine the product's approximate volume based on the numerical value visibly present?",
+        "answer": "32"
+      },
+      {
+        "question": "Considering the general shape of the container, which adjective best describes its curvature?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Based on the visual prominence of the label's design, what is the most striking visual feature of the product?",
+        "answer": "Label"
+      },
+      {
+        "question": "From the visible label, what is indicated regarding the product's ingredients?",
+        "answer": "Peppers"
+      },
+      {
+        "question": "In relation to its packaging, is the product's label primarily oriented horizontally or vertically?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Judging from the liquid's appearance, would you characterize its transparency as opaque, translucent, or transparent?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Based on the label's graphics, what appears to be a key ingredient in this cocktail mix?",
+        "answer": "Tomato"
+      }
+    ]
+  }
+]

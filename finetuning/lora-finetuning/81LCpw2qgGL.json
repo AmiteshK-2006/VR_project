@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/91/9164828c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's prominent placement and font size, what is the primary information conveyed on the label?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Based on the extensive list, what is the main protein source in this food product?",
+        "answer": "Pollock"
+      },
+      {
+        "question": "Observing the ingredient list, what type of flour is predominantly used?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "What additional grain-based ingredient is explicitly mentioned among the components?",
+        "answer": "Rice"
+      },
+      {
+        "question": "Identify the type of oil specified within the ingredient composition.",
+        "answer": "Canola"
+      },
+      {
+        "question": "According to the label, what is added in a negligible quantity?",
+        "answer": "Sugar"
+      },
+      {
+        "question": "What specific spice is listed among the numerous ingredients?",
+        "answer": "Pepper"
+      },
+      {
+        "question": "What is one of the additional ingredients used as a flavoring agent?",
+        "answer": "Garlic"
+      },
+      {
+        "question": "What is listed as one of the ingredients derived from a plant?",
+        "answer": "Paprika"
+      },
+      {
+        "question": "In addition to fish, what other allergen is specifically identified?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "What is the statement regarding potential cross-contamination during processing?",
+        "answer": "Milk"
+      },
+      {
+        "question": "What is one additional ingredient used to produce the product?",
+        "answer": "Yeast"
+      },
+      {
+        "question": "According to the text, what is indicated about the source of the Canola oil?",
+        "answer": "GMO"
+      },
+      {
+        "question": "What other seafood is mentioned in regards to cross contamination?",
+        "answer": "Shellfish"
+      },
+      {
+        "question": "What type of sugar is specifically included in the product?",
+        "answer": "Cane"
+      }
+    ]
+  }
+]

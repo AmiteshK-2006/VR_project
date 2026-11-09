@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2c/2cd1d8ac.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall packaging, what is the dominant color scheme visually apparent on the product's packaging?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the shape of the primary packaging component holding the product, as visually observed?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visual texture, what kind of material appears to be used for the product's main packaging?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Focusing on the text, what is the most prominent brand name displayed on the product packaging?",
+        "answer": "Wholefoods"
+      },
+      {
+        "question": "What is the descriptive word for the product's primary ingredient according to the visible text on the packaging?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What specific fruit is explicitly mentioned as the product's main component based on visual observation?",
+        "answer": "Mango"
+      },
+      {
+        "question": "What is the textual term used to describe the production method visually noticeable on the product's label?",
+        "answer": "Certified"
+      },
+      {
+        "question": "Observing the packaging, what is the country of origin stated for the product's ingredients?",
+        "answer": "Mexico"
+      },
+      {
+        "question": "Based on the visual details, what is the country where the product's packaging indicates the product was packaged?",
+        "answer": "Canada"
+      },
+      {
+        "question": "What type of identifier is the series of numbers visibly printed on the packaging?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "What is the visual presentation of the text detailing potential allergen information on the packaging?",
+        "answer": "Caution"
+      },
+      {
+        "question": "What is the visual appearance of the overall style of the product's labeling as observed in the image?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Describe the visual presentation of the brand logo on the packaging?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the visual depiction of the overall design aesthetic applied to the product's packaging?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the visual presentation of the text explaining the production facility information?",
+        "answer": "Statement"
+      }
+    ]
+  }
+]

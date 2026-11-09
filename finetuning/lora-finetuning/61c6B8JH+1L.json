@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/41/41a6b518.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual layout, what is the predominant orientation of the text presented on the label?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Focusing on the textual content, what is the primary subject described in the initial line of the provided text?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Based on the label's wording, what specific type of milk is mentioned as a primary component?",
+        "answer": "Almond"
+      },
+      {
+        "question": "What is the descriptive term used to qualify the water used in the product's composition?",
+        "answer": "Filtered"
+      },
+      {
+        "question": "Examining the text, what specific type of starch is listed among the ingredients?",
+        "answer": "Tapioca"
+      },
+      {
+        "question": "According to the label, what substance serves as a gelling agent in the product's formulation?",
+        "answer": "Pectin"
+      },
+      {
+        "question": "What additional gelling agent, besides pectin, is explicitly mentioned in the ingredient list?",
+        "answer": "Agar"
+      },
+      {
+        "question": "What is the specific type of bacterial culture listed, starting with 'BIFIDUS'?",
+        "answer": "Bifidus"
+      },
+      {
+        "question": "What is the second type of bacteria listed, starting with 'L. ACIDOPHILUS'?",
+        "answer": "Acidophilus"
+      },
+      {
+        "question": "What is the third bacterial culture, starting with 'L. BULGARICUS'?",
+        "answer": "Bulgaricus"
+      },
+      {
+        "question": "What is the fourth bacterial culture, starting with 'L. PARACASELS'?",
+        "answer": "Paracasels"
+      },
+      {
+        "question": "What is the adjective describing the fifth and final bacterial culture?",
+        "answer": "Thermophilus"
+      },
+      {
+        "question": "What tree nut is identified as an ingredient, and causes an allergen warning?",
+        "answer": "Almond"
+      },
+      {
+        "question": "What additional ingredient does the factory which produces the product also process?",
+        "answer": "Milk"
+      },
+      {
+        "question": "Describe the overall tone and style of the text presented on the label.",
+        "answer": "Informative"
+      }
+    ]
+  }
+]

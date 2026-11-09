@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0c/0c6107ea.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the dominant geometrical shape of this item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What single color most accurately describes the exterior of this item?",
+        "answer": "White"
+      },
+      {
+        "question": "Judging by its visible features, what is the most likely intended function of this object?",
+        "answer": "Storage"
+      },
+      {
+        "question": "Based on its visual texture, what is the most probable material composition of this object?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Observing the side profile, what is the approximate depth measurement of this object, in inches?",
+        "answer": "One"
+      },
+      {
+        "question": "Examining the spine, what kind of mechanism seems to be used for holding contents within?",
+        "answer": "Binder"
+      },
+      {
+        "question": "What is the apparent surface finish of the item's exterior?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the visible construction, what is the most probable type of closure mechanism?",
+        "answer": "Clamp"
+      },
+      {
+        "question": "From its structure, what is the most likely capacity of this item for paper storage?",
+        "answer": "High"
+      },
+      {
+        "question": "Judging by the overall design, what is the most likely intended usage scenario of this item?",
+        "answer": "Office"
+      },
+      {
+        "question": "Can you describe the apparent rigidity or flexibility of this object?",
+        "answer": "Rigid"
+      },
+      {
+        "question": "What is the apparent condition of the item, assuming no visible damage?",
+        "answer": "New"
+      },
+      {
+        "question": "What visible feature or detail indicates the presence of an internal mechanism for holding papers?",
+        "answer": "Rings"
+      },
+      {
+        "question": "Does this object appear to have any kind of text, images, or patterns printed on its surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on its size and build, what is the probable weight of the item when empty?",
+        "answer": "Light"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/34/3468e7c1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the box's exterior?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What appears to be the primary material used for the box's construction?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Considering the box's overall geometry, what is its most apparent shape?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the surface texture of the box, based solely on its visual appearance.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Are there any noticeable markings or labels affixed to the box's surface?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging by the image, what seems to be the box's overall condition?",
+        "answer": "New"
+      },
+      {
+        "question": "Does the box appear to be sealed or open in this photographic depiction?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "What is the apparent size of the box relative to surrounding objects?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Based on its visual attributes, what is the likely function of this box?",
+        "answer": "Shipping"
+      },
+      {
+        "question": "Can you describe the style of the box: simple or ornate?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Observing the corners, are they visibly reinforced or merely folded?",
+        "answer": "Folded"
+      },
+      {
+        "question": "Does the box show any signs of damage, such as creases or tears?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent thickness of the cardboard used in its construction?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Describe the overall visual aesthetic of the box: minimalist, decorative, or other?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Is the label on the box primarily textual or does it contain graphics?",
+        "answer": "Textual"
+      }
+    ]
+  }
+]

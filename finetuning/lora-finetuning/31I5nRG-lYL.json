@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/10/10bf0cb3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary ingredient explicitly declared on the product label?",
+        "answer": "Garlic"
+      },
+      {
+        "question": "Considering the label's text, what is the nature of the garlic ingredient?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What word precedes the colon in the label's text, denoting the section's content?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the dominant color of the text on the product label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the general background color of the product label shown?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe the style of the typeface used for the 'Ingredients' text.",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "How would you describe the overall texture of the label's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the image, what is the case of the letters in 'Ingredients'?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "What is the formatting or style of the text (e.g., bold, italic)?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Based on the visual presentation, how is the text aligned?",
+        "answer": "Left"
+      },
+      {
+        "question": "Describe the spacing between the words in the label's text.",
+        "answer": "Even"
+      },
+      {
+        "question": "What punctuation mark appears after 'Garlic' on the label?",
+        "answer": "Period"
+      },
+      {
+        "question": "What is the overall tone of the product label in terms of its appearance?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Describe the visual clarity of the product label's text?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Considering the words used, what is the label's main purpose?",
+        "answer": "Information"
+      }
+    ]
+  }
+]

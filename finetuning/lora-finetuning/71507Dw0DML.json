@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b7/b7f13489.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the visible appliance exterior?",
+        "answer": "White"
+      },
+      {
+        "question": "What material appears to constitute the majority of the device's casing?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the visible features, what is the primary function suggested by the device's design?",
+        "answer": "Dispensing"
+      },
+      {
+        "question": "What shape best describes the overall form factor of the depicted product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Observing the top panel, what type of interface elements are prominently displayed?",
+        "answer": "Buttons"
+      },
+      {
+        "question": "Focusing on the opened compartment, what is the apparent material of the internal components?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Describe the texture of the visible appliance surface, based on image observation?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the visible design, what is the apparent intended use-case of this appliance?",
+        "answer": "Household"
+      },
+      {
+        "question": "Judging by the visible features, what is the product's likely power source?",
+        "answer": "Electric"
+      },
+      {
+        "question": "What is the number of clearly visible buttons on the top control panel?",
+        "answer": "Three"
+      },
+      {
+        "question": "Based on its design and components, what is the product's suggested operating mechanism?",
+        "answer": "Mechanical"
+      },
+      {
+        "question": "Judging from the image, what is the visible state of the dispensing compartment?",
+        "answer": "Open"
+      },
+      {
+        "question": "What type of hinges appear to be used for the opening mechanism of the dispensing chamber?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based solely on its appearance, does the device seem portable or stationary?",
+        "answer": "Portable"
+      },
+      {
+        "question": "Does the product's design suggest a high-end or budget-oriented aesthetic?",
+        "answer": "Budget"
+      }
+    ]
+  }
+]

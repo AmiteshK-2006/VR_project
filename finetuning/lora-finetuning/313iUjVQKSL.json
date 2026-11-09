@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/05/05585e75.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the canned tomato sauce?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the primary shape of the container holding the sauce?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What material appears to constitute the main body of the can?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What is written prominently on the can's label, indicating its contents?",
+        "answer": "Sauce"
+      },
+      {
+        "question": "Considering the label's text, what specific type of sauce is contained inside?",
+        "answer": "Tomato"
+      },
+      {
+        "question": "What color is the top label band around the can's lid?",
+        "answer": "LightBlue"
+      },
+      {
+        "question": "What color is the bottom label band on the can?",
+        "answer": "DarkBrown"
+      },
+      {
+        "question": "Is the can's label predominantly text-based or image-based?",
+        "answer": "Text"
+      },
+      {
+        "question": "Does the can exhibit a glossy or matte finish, based on the image?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on the image, is the can visibly dented or scratched?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the approximate size of the can, relative to the hand holding it?",
+        "answer": "Small"
+      },
+      {
+        "question": "Does the can's label include any illustrative imagery or icons?",
+        "answer": "No"
+      },
+      {
+        "question": "Are there any noticeable seams visible on the cylindrical can's body?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What appears to be the overall condition of the can, visually speaking?",
+        "answer": "New"
+      },
+      {
+        "question": "Describing the can's label, what is the style of its typeface?",
+        "answer": "Sans-serif"
+      }
+    ]
+  }
+]

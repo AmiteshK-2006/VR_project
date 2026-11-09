@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/03/03b4ae30.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary shape of the supplement container as depicted in the provided image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the dominant color of the text on the supplement facts label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the image, what is the stated serving size of this dietary supplement?",
+        "answer": "Capsule"
+      },
+      {
+        "question": "Based on the visual provided, what type of capsule is indicated on the label?",
+        "answer": "Vegan"
+      },
+      {
+        "question": "What is the background color of the supplement facts label in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "Judging by the image, what is the format of the information presented on the supplement label?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the primary material indicated by the overall visual appearance of the label?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the type of information predominantly displayed on the label, based on the image?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the appearance of the text font on the 'Supplement Facts' label section?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the visual appearance of the lines separating the rows of data on the label?",
+        "answer": "Straight"
+      },
+      {
+        "question": "What is the textual style of the 'Supplement Facts' header shown on the label?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Considering the image, what measurement unit is used for the ingredient quantities?",
+        "answer": "mg"
+      },
+      {
+        "question": "What is the general condition or state of the provided label?",
+        "answer": "Printed"
+      },
+      {
+        "question": "What is the visual texture of the supplement facts label in the provided image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the image, how is the information on the %DV column represented?",
+        "answer": "Asterisk"
+      }
+    ]
+  }
+]

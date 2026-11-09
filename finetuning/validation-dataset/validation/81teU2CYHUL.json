@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/dd/ddae55bc.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall shape and presentation, what fundamental geometrical form best describes this food product's packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the dominant color family used in the typography and overall design of this food item's label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary material that appears to compose the packaging of this food product, based solely on visual inspection?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Based on the visible text, what is the main ingredient highlighted in the product's description?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "Considering the layout and structure, what type of textual organization is primarily used to present the ingredient information?",
+        "answer": "List"
+      },
+      {
+        "question": "What kind of font style is predominantly used for the lettering on this item's packaging?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the overall texture that the paper surface of the food packaging visibly exhibits?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What color is the text predominantly used to present the product's ingredient information?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the apparent visual depth or dimensionality of the text on this food packaging?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Based solely on the visual information, what is the apparent size of the text used for the ingredient list?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the most prominent visual element that distinguishes this food packaging's design?",
+        "answer": "Text"
+      },
+      {
+        "question": "Does the packaging design use any illustrations or graphical elements besides the textual information?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent weight or thickness of the paper material used in the product's packaging?",
+        "answer": "Thin"
+      },
+      {
+        "question": "What is the style of the information hierarchy on this packaging; is it primarily based on font sizes and spacing?",
+        "answer": "Hierarchical"
+      },
+      {
+        "question": "Ignoring the content, what is the general orientation of the primary textual block on the packaging?",
+        "answer": "Vertical"
+      }
+    ]
+  }
+]

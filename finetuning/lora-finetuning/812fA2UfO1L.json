@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/83/83fda721.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the primary packaging material, as visibly apparent in the provided image?",
+        "answer": "Red"
+      },
+      {
+        "question": "Considering the overall form, what is the most accurate geometric description of the item's shape?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on its visual appearance, what material is predominantly used in constructing the product's main body?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the visible texture of the main red body section in terms of its surface appearance.",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Judging from the image, what is the apparent primary function or purpose of the presented product?",
+        "answer": "Packaging"
+      },
+      {
+        "question": "Observing the packaging, what type of sealing or closure mechanism seems to be implemented?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Examining the corners, what specific feature visually indicates the flexibility of the material?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Based on visual inspection, what secondary, non-primary material is incorporated into the product?",
+        "answer": "Silver"
+      },
+      {
+        "question": "Describing the visual presentation, what adjective best captures the overall impression given by the product's appearance?",
+        "answer": "Shiny"
+      },
+      {
+        "question": "What is the visible condition of the product as portrayed by the absence or presence of damage or markings?",
+        "answer": "Intact"
+      },
+      {
+        "question": "What term best describes the overall level of transparency or translucency displayed by the red packaging component?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What is the visible physical state of the product — solid, liquid, or other?",
+        "answer": "Solid"
+      },
+      {
+        "question": "From the image, determine the visible presence of any noticeable text or labeling on the product's surface.",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the product's dimensions and visual aspects, what is its presumed size relative to typical consumer goods?",
+        "answer": "Large"
+      },
+      {
+        "question": "From the provided image, what is the most visible and prominent element of the product's overall design?",
+        "answer": "Color"
+      }
+    ]
+  }
+]

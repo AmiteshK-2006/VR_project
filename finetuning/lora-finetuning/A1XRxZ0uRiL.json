@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/19/19aaa479.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the cable's outer sheath?",
+        "answer": "Black"
+      },
+      {
+        "question": "What material appears to constitute the cable's exterior covering?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "What type of connector is visible at the cable's left end?",
+        "answer": "USB-C"
+      },
+      {
+        "question": "What type of connector is visible at the cable's right end?",
+        "answer": "USB-A"
+      },
+      {
+        "question": "Considering the cable's overall form, what is its geometric shape?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Describe the texture of the cable's outer layer, based on visual observation?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Does the cable exhibit any visible branding or markings along its length?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent length of the cable when fully extended?",
+        "answer": "Long"
+      },
+      {
+        "question": "Describe the visual appearance of the cable's connectors \u2013 are they glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on the image, is the cable coiled neatly or haphazardly arranged?",
+        "answer": "Coiled"
+      },
+      {
+        "question": "What is the apparent thickness or diameter of the cable?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Does the cable appear to be rigid or flexible, judging by its form?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "What is the apparent condition of the cable \u2014 new or used?",
+        "answer": "New"
+      },
+      {
+        "question": "Considering the image context, what device appears to be connected to the cable?",
+        "answer": "Laptop"
+      },
+      {
+        "question": "Judging by its shape and connectors, what is the likely purpose of this cable?",
+        "answer": "Charging"
+      }
+    ]
+  }
+]

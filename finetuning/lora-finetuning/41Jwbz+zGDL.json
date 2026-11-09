@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a5/a5e81f72.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's visual presentation, what single word best describes the overall background color of the displayed ingredient information?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Observing the text's visual characteristics, what single word accurately captures the apparent color of the ingredient label's lettering?",
+        "answer": "White"
+      },
+      {
+        "question": "Based solely on the visual appearance of the words, what adjective best describes the style of the font used to display the ingredients?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "From a purely visual standpoint, what is the singular word that describes the case of the letters in the ingredient label?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Judging only from the visual data, what single term best describes the text alignment of the words 'INGREDIENTS:' and 'ORGANIC JASMINE'?",
+        "answer": "Left"
+      },
+      {
+        "question": "In terms of visual characteristics, what single word describes the overall arrangement of the words on the displayed label?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Considering the text's physical properties, as visually perceived, what one-word descriptor best reflects the texture of the letters?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based purely on visual examination, which single word most aptly describes the apparent weight or boldness of the type font used?",
+        "answer": "Bold"
+      },
+      {
+        "question": "From a visual perspective only, what single word best describes the overall appearance of the type font's spacing between individual letters?",
+        "answer": "Even"
+      },
+      {
+        "question": "Analyzing the image, what is the single word that best describes the type of information being presented on the label?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Visually assessing the label, what single word best describes the principal ingredient prominently displayed?",
+        "answer": "Jasmine"
+      },
+      {
+        "question": "By visual inspection alone, what one word best describes the label's apparent state of cleanliness?",
+        "answer": "Clean"
+      },
+      {
+        "question": "From a strictly visual examination, what single word describes the general style of the textual presentation?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Based solely on visual observation, what one word best describes the apparent clarity of the lettering?",
+        "answer": "Clear"
+      },
+      {
+        "question": "From a purely visual assessment, what is the single word that best describes the overall readability of the text on the label?",
+        "answer": "High"
+      }
+    ]
+  }
+]

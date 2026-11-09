@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9d/9da8c251.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the presented object, considering its elongated form and slightly curved edges?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent surface finish of the item shown?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image, what primary color dominates the object's appearance?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What seems to be the most likely material used to manufacture this object, judging by its appearance?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Describing the edges, what kind of design detail is present at each end of the item shown?",
+        "answer": "Scalloped"
+      },
+      {
+        "question": "What is the general visual impression of the item's thickness, considering its overall dimensions?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Observing the object's surface, does it display any visible pattern or texture aside from its smoothness?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the image's presentation, what is the apparent reflectivity of the object's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging from the visual details, what is the object's apparent weight relative to its size?",
+        "answer": "Light"
+      },
+      {
+        "question": "Focusing on the object's features, what design element is notable at the shorter ends of the item?",
+        "answer": "Curves"
+      },
+      {
+        "question": "Based purely on visual assessment, is there any visible branding or marking on the item shown?",
+        "answer": "No"
+      },
+      {
+        "question": "From a visual standpoint, how would you describe the item's overall aesthetic?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Considering its form and dimensions, what would be the most likely function of this object?",
+        "answer": "Plate"
+      },
+      {
+        "question": "Considering the visual detail, how would you classify the overall design of the item shown?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the apparent condition of the object in the provided image?",
+        "answer": "New"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/81/8196f64f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed material, considering its overall hue and shading?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the visual texture, what material is most closely mimicked by this product's appearance?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Based on the visible surface irregularities, what is the apparent texture of this material sample?",
+        "answer": "Grained"
+      },
+      {
+        "question": "Observing the way light interacts with the surface, what is the overall sheen of the material?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging by the image's visual representation, what is the apparent finish of the product's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the way the material is presented, what is its most prominent form or shape in this image?",
+        "answer": "Rolled"
+      },
+      {
+        "question": "What is the general impression of the color saturation, considering the depth and intensity of the brown hue?",
+        "answer": "Rich"
+      },
+      {
+        "question": "Describe the uniformity of the color across the displayed material sample, considering any variations.",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Considering the close-up view, are there any visible patterns or markings on the material's surface?",
+        "answer": "None"
+      },
+      {
+        "question": "Based on the image, what is the suggested application of this material, given its qualities?",
+        "answer": "Upholstery"
+      },
+      {
+        "question": "Given the material's appearance, what is the likely tactile experience when touched?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Does the image suggest a natural or synthetic origin for the material based on its visual characteristics?",
+        "answer": "Synthetic"
+      },
+      {
+        "question": "Judging from the visual characteristics, how would you describe the material's apparent weight or thickness?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Considering the roll's dimensions in the image, what is the implied flexibility of the material?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Based on the image alone, what is the suggested manufacturing process for this material given its consistent finish?",
+        "answer": "Processed"
+      }
+    ]
+  }
+]

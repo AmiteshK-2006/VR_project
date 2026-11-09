@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/10/10798e7f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color gradient observed across the product's surface?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the overall shape of the depicted item, ignoring the cutout?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the image, what appears to be the product's material?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the apparent surface texture of the pictured product?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Focusing on the upper-right area, what design feature is present?",
+        "answer": "Cutout"
+      },
+      {
+        "question": "Based solely on visual inspection, what seems to be the product's purpose, considering its shape and cutout?",
+        "answer": "Protective"
+      },
+      {
+        "question": "Examining the image, does the product exhibit any visible patterns?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent finish of the product's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the primary visual characteristic of the presented object, besides its shape?",
+        "answer": "Gradient"
+      },
+      {
+        "question": "Judging from the image, is the product's thickness uniform across its area?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the image suggest any noticeable texturing on the product's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the overall appearance, what is the product's implied transparency level?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "From the image, does the product demonstrate any visible gloss or shine?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the product display any visible branding or markings?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by its appearance, what is the overall style or aesthetic of the product?",
+        "answer": "Minimalist"
+      }
+    ]
+  }
+]

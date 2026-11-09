@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/09/0930655c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the visible surface of the product?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the overall three-dimensional shape of the depicted item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the primary textural characteristic of the product's surface?",
+        "answer": "Granular"
+      },
+      {
+        "question": "Considering the visible components, what secondary color is present in a band across the middle?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the apparent consistency or physical state of the pictured object?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Based on its appearance, what is the likely material composition of this item?",
+        "answer": "Compressed"
+      },
+      {
+        "question": "Does the product exhibit any visible markings beyond its inherent texture and color?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image, does the item show signs of being pre-packaged or sealed?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the approximate relative size of the item relative to a typical human hand?",
+        "answer": "Small"
+      },
+      {
+        "question": "Are there any noticeable impurities or imperfections visible in the product's structure?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging solely from the provided image, what is the item's apparent level of porosity?",
+        "answer": "High"
+      },
+      {
+        "question": "Does the object in the image appear to have any significant shine or glossiness?",
+        "answer": "No"
+      },
+      {
+        "question": "From the photograph, what is the apparent weight of this product?",
+        "answer": "Light"
+      },
+      {
+        "question": "Based purely on visual analysis, is this item transparent, translucent, or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What is the apparent degree of homogeneity in the color and texture of the product?",
+        "answer": "High"
+      }
+    ]
+  }
+]

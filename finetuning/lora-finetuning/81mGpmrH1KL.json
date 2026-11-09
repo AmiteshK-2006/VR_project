@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/92/92be14c8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the packaging's primary surface, as shown in the provided image?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering the image, what appears to be the primary material used for the product's packaging?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Based on the image, what is the overall shape of the product's packaging, ignoring any minor details?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the text prominently displayed at the top of the packaging, as visible in the image?",
+        "answer": "Vedaka"
+      },
+      {
+        "question": "Examining the image, what is indicated as the net weight of the product, written on the packaging?",
+        "answer": "500g"
+      },
+      {
+        "question": "What is the general texture of the main packaging surface, judging from its appearance in the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Referring solely to the provided image, what type of printing is visible on the packaging—such as embossed or flat?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Judging from the image, what is the orientation of the textual information on the packaging—portrait or landscape?",
+        "answer": "Portrait"
+      },
+      {
+        "question": "What design element is visible at the very bottom of the packaging, as seen in the image?",
+        "answer": "Logo"
+      },
+      {
+        "question": "Considering the image, does the packaging show any visible signs of damage or significant wear?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the color of the text primarily used on the packaging, based on the provided image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Observing the image, does the packaging include any noticeable images or illustrations besides text?",
+        "answer": "No"
+      },
+      {
+        "question": "From the image, what appears to be the primary method of sealing the packaging?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Based on the image, is the packaging primarily opaque or transparent?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Based on the image, what kind of finish does the packaging seem to have, such as glossy or matte?",
+        "answer": "Matte"
+      }
+    ]
+  }
+]

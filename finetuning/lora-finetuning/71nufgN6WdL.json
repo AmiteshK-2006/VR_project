@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b1/b155a48d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the container shown in the image?",
+        "answer": "Round"
+      },
+      {
+        "question": "What dominant color is the visible portion of the container?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What appears to be the primary material of the container?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Describing the texture, is the surface of the container smooth or rough?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the base, what is the visible feature around the container's circumference?",
+        "answer": "Ribbed"
+      },
+      {
+        "question": "What kind of markings are present at the bottom of the container?",
+        "answer": "Text"
+      },
+      {
+        "question": "Is the color of the container uniform or does it show variations?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Does the container exhibit any noticeable signs of damage or wear?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the design, is the container simple or ornate in its appearance?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the apparent level of transparency or opacity of the container material?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Based on visual observation, what is the likely purpose of this container?",
+        "answer": "Storage"
+      },
+      {
+        "question": "Is there any visible branding or logo present on the container?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the container appear to have a lid or closure?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent finish of the container's outer surface?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Considering the size, is the container large, medium, or small?",
+        "answer": "Medium"
+      }
+    ]
+  }
+]

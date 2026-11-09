@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0f/0f1765cb.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the textile shown in the image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the overall texture of the fabric depicted?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Considering the visual elements, what is the apparent material of the displayed sample?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Based on the image, what is the most noticeable characteristic of the textile's surface?",
+        "answer": "Woven"
+      },
+      {
+        "question": "What is the implied composition of the fibers in the provided close-up?",
+        "answer": "Yarn"
+      },
+      {
+        "question": "Judging by the image, what is the surface's apparent level of smoothness?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Describe the visual pattern created by the fibers in the provided textile sample.",
+        "answer": "Heathered"
+      },
+      {
+        "question": "Considering the fibers, what is the appearance of the product's surface density?",
+        "answer": "Dense"
+      },
+      {
+        "question": "What is the apparent style of the material's weave, judging from the image?",
+        "answer": "Plain"
+      },
+      {
+        "question": "What is the visible shade variation found throughout the displayed material?",
+        "answer": "subtle"
+      },
+      {
+        "question": "Given the visual evidence, what is the suggested weight of the displayed textile?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Describe the visual uniformity or lack thereof displayed across the textile.",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Based on the image, what is the overall visual impression of the material?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Considering the fibers, what is the apparent softness or coarseness of the material?",
+        "answer": "Coarse"
+      },
+      {
+        "question": "Describe the visible luster or lack thereof on the surface of the textile.",
+        "answer": "Matte"
+      }
+    ]
+  }
+]

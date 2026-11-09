@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ec/ecb77c96.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what single word best describes the text's style?",
+        "answer": "Informative"
+      },
+      {
+        "question": "What is the primary function conveyed by the text presented in the image?",
+        "answer": "Listing"
+      },
+      {
+        "question": "Disregarding capitalization and punctuation, what is the dominant textual alignment?",
+        "answer": "Left"
+      },
+      {
+        "question": "In the context of food labeling, what is the general category of information provided?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Considering the font, what is the most accurate descriptor of its visual weight?",
+        "answer": "Regular"
+      },
+      {
+        "question": "Focusing on the visual appearance, what is the predominant color of the text?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the image, what is the text's background color or shade?",
+        "answer": "White"
+      },
+      {
+        "question": "Judging solely by visual presentation, how would you characterize the text's density?",
+        "answer": "Compact"
+      },
+      {
+        "question": "Considering the distinct elements present in the image, what is the type of presentation being displayed?",
+        "answer": "Label"
+      },
+      {
+        "question": "From the visual characteristics, what is the format used for organizing the information presented?",
+        "answer": "List"
+      },
+      {
+        "question": "Observing the visual cues, what would you say about the text's overall readability?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Ignoring any specific words, how does the overall visual texture of the text appear?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall visual appearance of the text's typography?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the visual state of the text \u2013 clean or worn?",
+        "answer": "Clean"
+      },
+      {
+        "question": "If you were to visually categorize the style of this text, what would you call it?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

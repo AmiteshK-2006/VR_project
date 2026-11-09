@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1e/1ec8b03a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the paper sheets shown in the image?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What is the overall shape of each individual sheet of paper in the stack?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the visible lines, what type of ruling is present on the paper?",
+        "answer": "Lined"
+      },
+      {
+        "question": "What appears to be the material of the primary writing surface?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Based on the image, what color is the top binding edge of each sheet?",
+        "answer": "Black"
+      },
+      {
+        "question": "Describe the apparent texture of the paper sheets, considering the image's resolution?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the visible arrangement of the paper sheets in the provided image?",
+        "answer": "Stacked"
+      },
+      {
+        "question": "Judging by the image, how many sheets of paper seem to be present in total?",
+        "answer": "Twelve"
+      },
+      {
+        "question": "What kind of writing surface seems to be implied by the presence of lines?",
+        "answer": "Notepad"
+      },
+      {
+        "question": "What is the apparent pattern formed by the lines on each paper sheet?",
+        "answer": "Parallel"
+      },
+      {
+        "question": "What is the visible appearance or style of the header or brand marking present?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Describe the overall visual style or aesthetic of the paper shown, as observed from the image?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What seems to be the implied function or purpose of these paper sheets?",
+        "answer": "Writing"
+      },
+      {
+        "question": "Can you identify any noticeable perforations or tear-offs on these sheets?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the image, are the sheets bound together in any significant way?",
+        "answer": "No"
+      }
+    ]
+  }
+]

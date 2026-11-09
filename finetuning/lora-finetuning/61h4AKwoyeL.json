@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e2/e2130924.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall shape and structure, what is the primary form of this item as displayed in the image?",
+        "answer": "Sole"
+      },
+      {
+        "question": "Based on the image, what appears to be the dominant color of this product's visible surface?",
+        "answer": "Pink"
+      },
+      {
+        "question": "Examining the texture, what is the apparent surface finish of the product's outer layer?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From a visual perspective, what material seems most likely to compose the visible part of the product?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Focusing on the design, what geometric pattern is prominently featured on the product's underside?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Judging by the image, what is the general condition or wear level of this product?",
+        "answer": "New"
+      },
+      {
+        "question": "Analyzing the image carefully, what kind of footwear does this product's sole seem to belong to?",
+        "answer": "Sneaker"
+      },
+      {
+        "question": "Considering the details, are there any visible logos, brands, or markings imprinted on this product's surface?",
+        "answer": "None"
+      },
+      {
+        "question": "Given the image, what is the apparent manufacturing method for the product's surface, is it molded or otherwise?",
+        "answer": "Molded"
+      },
+      {
+        "question": "What is the dominant shade of pink used in this product based on the image's visual representation?",
+        "answer": "Light"
+      },
+      {
+        "question": "What is the apparent overall size of the product, is it small, medium, large, or something else?",
+        "answer": "Medium"
+      },
+      {
+        "question": "From the image, can one deduce if the material seems flexible or rigid to the touch?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Does the image reveal any significant damage, defects, or wear and tear on the product?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the image give evidence as to whether this product is intended for indoor or outdoor use?",
+        "answer": "Outdoor"
+      },
+      {
+        "question": "Based on the visual information, what is the intended purpose or function of this product?",
+        "answer": "Walking"
+      }
+    ]
+  }
+]

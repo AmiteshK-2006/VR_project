@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/08/080deeba.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the packaging visible in the product image?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the overall shape of the product's primary packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the primary material used for the product's packaging?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Considering the visible texture, what is the apparent surface finish of the packaging?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the main visible text prominently displayed on the packaging?",
+        "answer": "Vedaka"
+      },
+      {
+        "question": "Based on the image, what seems to be the primary contents within the packaging?",
+        "answer": "Moong"
+      },
+      {
+        "question": "Describe the apparent design style on the product packaging (simple, ornate, etc.)?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the orientation of the packaging in the image (vertical or horizontal)?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Are there any notable graphic elements beyond text on the packaging?",
+        "answer": "Circles"
+      },
+      {
+        "question": "What is the general size of the package relative to a human hand?",
+        "answer": "Tall"
+      },
+      {
+        "question": "Does the packaging show any visible seals or closures?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging from the image, is the packaging transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What is the visible style of the text font used on the packaging?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Is there any visible branding or logo apart from the text?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the apparent overall condition of the packaging in the image?",
+        "answer": "New"
+      }
+    ]
+  }
+]

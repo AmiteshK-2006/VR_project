@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bd/bd23e853.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary textual information displayed prominently on this rectangular product?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Considering the overall layout, what type of product information is presented in a tabular format?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Observing the values listed, what is the total number of calories per serving indicated?",
+        "answer": "140"
+      },
+      {
+        "question": "What is the main color scheme used for the text and background on this item?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of this item, based on its visual presentation?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the structure and content, what is the primary function of this item?",
+        "answer": "Informative"
+      },
+      {
+        "question": "What is the material the label seems to be printed on, based on its visual appearance?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the texture of the surface on which the information is presented?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the style of the text font used throughout the nutrition facts?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Describing the visual characteristics, is the text in the information straightforward?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the layout, what is the format of the numerical values presented?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the method of information presentation used to organize the data?",
+        "answer": "List"
+      },
+      {
+        "question": "Are there any visual elements such as graphics or symbols beyond the text?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the size of the text in relation to the overall area of the item?",
+        "answer": "Large"
+      },
+      {
+        "question": "Is the information presented in a single column or multiple columns?",
+        "answer": "Multiple"
+      }
+    ]
+  }
+]

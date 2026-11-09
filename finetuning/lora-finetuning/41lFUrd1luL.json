@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/12/128b0378.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the packaging's background?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What material appears to constitute the outer packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the overall shape of the individual design elements on the box?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Describing the texture, is the packaging rough or smooth?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What color are the graphic design elements printed on the box?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Based on the text, what type of coffee is inside?",
+        "answer": "Arabica"
+      },
+      {
+        "question": "What is the stated preparation method suggested on the box?",
+        "answer": "Single-serve"
+      },
+      {
+        "question": "What is the number of serves indicated per package (by inference from text)?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "Considering the text, where is the product distributed from?",
+        "answer": "Seattle"
+      },
+      {
+        "question": "Judging by the text, what is the recommended storage temperature?",
+        "answer": "Room"
+      },
+      {
+        "question": "What kind of printing technique is used for the box's design (by visual observation)?",
+        "answer": "Flat"
+      },
+      {
+        "question": "What is the overall visual style of the packaging design?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the implied usage method of the contents (inferred from text)?",
+        "answer": "Brewed"
+      },
+      {
+        "question": "What is the form factor of the product's packaging?",
+        "answer": "Box"
+      },
+      {
+        "question": "Is the overall design of the box primarily geometric or organic in form?",
+        "answer": "Geometric"
+      }
+    ]
+  }
+]

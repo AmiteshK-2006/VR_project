@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9a/9ad23ccf.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the background on which the ingredient information is printed?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering the overall rectangular shape, what is the orientation of the product's label?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the style of the typeface used to print the ingredient list?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the primary material that seems to be used for this label?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What kind of information is predominantly displayed on this product's label?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Judging by the text, what is one of the ingredients listed prominently on this label?",
+        "answer": "Milk"
+      },
+      {
+        "question": "Based on the text, what type of milk is specifically mentioned?",
+        "answer": "Lowfat"
+      },
+      {
+        "question": "What is mentioned along with Milk in terms of its characteristic?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Besides milk, what vitamin is explicitly listed among the ingredients?",
+        "answer": "Vitamin"
+      },
+      {
+        "question": "Is the text printed in uppercase or lowercase letters predominantly?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "What is the overall presentation of the text on the label; is it neat or messy?",
+        "answer": "Neat"
+      },
+      {
+        "question": "Can you describe the spacing between lines of text on this label?",
+        "answer": "Even"
+      },
+      {
+        "question": "What is the relative size of the text in comparison to the label's size?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the density of the ink; is it light or dark?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Does the text appear to be clearly legible, or is it blurry?",
+        "answer": "Legible"
+      }
+    ]
+  }
+]

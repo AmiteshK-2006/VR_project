@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a5/a5bc5bc2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the object shown in the provided image?",
+        "answer": "Orange"
+      },
+      {
+        "question": "Considering the image, what is the overall shape of the presented item?",
+        "answer": "Round"
+      },
+      {
+        "question": "Based on visual observation, what appears to be the texture of the surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging from the image alone, what material does the object seem to be made of?",
+        "answer": "Stone"
+      },
+      {
+        "question": "Does the object in the image exhibit any noticeable patterns or markings?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent finish of the surface, considering its reflection of light?",
+        "answer": "Matte"
+      },
+      {
+        "question": "From the visual perspective, what is the general size of the object?",
+        "answer": "Small"
+      },
+      {
+        "question": "Given the image, how many distinct objects are present in the picture?",
+        "answer": "One"
+      },
+      {
+        "question": "Considering its visual characteristics, is the object three-dimensional?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the image provided, can you assess the object's weight visually?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "Analyzing the image, what is the level of detail shown on the item's surface?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "Does the visual presentation suggest the object is polished or unpolished?",
+        "answer": "Unpolished"
+      },
+      {
+        "question": "Based solely on the image's visual properties, is the object solid or hollow?",
+        "answer": "Solid"
+      },
+      {
+        "question": "What is the degree of uniformity in the object's color throughout the image?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Judging by the appearance, does the object's surface show any signs of damage or wear?",
+        "answer": "No"
+      }
+    ]
+  }
+]

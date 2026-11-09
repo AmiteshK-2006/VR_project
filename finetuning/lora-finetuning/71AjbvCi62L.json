@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/65/65206774.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color scheme of the nutritional information panel, considering its background and text?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of the presented nutritional facts panel, as it is displayed?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary type of information conveyed across the nutrition facts panel, considering its layout and content?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Considering the font style used across the panel, what is the overall impression of the typography?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the texture of the surface on which the nutritional information is printed, if one can infer from the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the visual appearance of the text and the structure, what is the likely material of the panel?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the overall style of the presented data, regarding how the values are arranged and presented?",
+        "answer": "Tabular"
+      },
+      {
+        "question": "What units are predominantly used to express the values related to different dietary components across the panel?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the primary method utilized for organizing and displaying the nutritional data, judging from the structure?",
+        "answer": "Columns"
+      },
+      {
+        "question": "What type of information is found beside the specified value for each component, indicating a relative scale?",
+        "answer": "Percentage"
+      },
+      {
+        "question": "What is the visual presentation of the data relative to serving sizes, indicating separate values?",
+        "answer": "Dual"
+      },
+      {
+        "question": "What is the primary color used for the numbers signifying the quantities of the nutrients?",
+        "answer": "Black"
+      },
+      {
+        "question": "What specific type of food product does the nutrition label refer to, considering the information displayed?",
+        "answer": "Pancake"
+      },
+      {
+        "question": "What are the number of servings the container provides according to the nutrition information?",
+        "answer": "Fourteen"
+      },
+      {
+        "question": "What is the size of a single serving of the dry mix as presented in the nutrition facts?",
+        "answer": "Third"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/22/22597da6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary textual content displayed on the image, concerning the product's composition?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Considering the textual information, what liquid is listed as the main component of this product?",
+        "answer": "Water"
+      },
+      {
+        "question": "Based on the label's text, what culinary paste is present in the product's recipe?",
+        "answer": "Tomato"
+      },
+      {
+        "question": "According to the label's textual data, what type of oil is included in the ingredient list?",
+        "answer": "Soybean"
+      },
+      {
+        "question": "What organic compound, used as a preservative and flavor enhancer, is listed among the ingredients?",
+        "answer": "Citric"
+      },
+      {
+        "question": "What common table condiment is mentioned in the list of components?",
+        "answer": "Salt"
+      },
+      {
+        "question": "What sweet crystalline carbohydrate is included in the product's composition?",
+        "answer": "Sugar"
+      },
+      {
+        "question": "What food starch, modified for improved properties, is listed in the ingredient list?",
+        "answer": "Starch"
+      },
+      {
+        "question": "What aromatic bulb vegetable is part of the product's recipe?",
+        "answer": "Onions"
+      },
+      {
+        "question": "What culinary herb, known for its fresh and slightly peppery taste, is used in the recipe?",
+        "answer": "Parsley"
+      },
+      {
+        "question": "What is the description of the added flavor in this food product, based on the label?",
+        "answer": "Flavor"
+      },
+      {
+        "question": "Considering the visual information, what is the general format of the text presented on the image?",
+        "answer": "List"
+      },
+      {
+        "question": "Judging from the image, what is the overall font style applied to the presented text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the general color of the text, as can be seen in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the case of the letters used for the main heading, 'INGREDIENTS'?",
+        "answer": "Upper"
+      }
+    ]
+  }
+]

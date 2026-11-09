@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b3/b341a4ba.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color observed across the entire surface of the item?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What natural material appears to constitute the majority of this product?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Considering the visible texture, what is the most apparent surface characteristic?",
+        "answer": "Fibrous"
+      },
+      {
+        "question": "Based on the image, what is the overall shape of the displayed product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the appearance of the visible edges of the product, regarding straightness or unevenness?",
+        "answer": "Straight"
+      },
+      {
+        "question": "Describe the visible pattern or design on the product's surface, if any exists.",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the visual information provided, what is the apparent thickness of the product?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Does the product's surface exhibit any significant shine or glossiness?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging from the image, is the surface of the item relatively smooth or rough?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What kind of visible markings or imprints can be observed on the product?",
+        "answer": "Logo"
+      },
+      {
+        "question": "What is the general visual impression of the item's weight, heavy or light?",
+        "answer": "Light"
+      },
+      {
+        "question": "What is the apparent overall tone or hue of the visible product?",
+        "answer": "Warm"
+      },
+      {
+        "question": "From what you observe, are there any visible irregularities on the product’s surface?",
+        "answer": "Few"
+      },
+      {
+        "question": "What is the product's surface uniformity based on visible areas?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Judging by the image's resolution, what seems to be the product's apparent size?",
+        "answer": "Small"
+      }
+    ]
+  }
+]

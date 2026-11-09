@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/af/af8fb82c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall appearance, what is the dominant color of this folded textile item?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "Judging by its folds and drape, what is the most likely texture of this fabric?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Based on the visible folds, what is the implied three-dimensional form of the product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "From the image, what appears to be the primary material composition of the object?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Given the neatly folded presentation, what is the apparent intended use of this item?",
+        "answer": "Mattress"
+      },
+      {
+        "question": "Considering the uniformity of color and texture, what is the overall visual impression of the product?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Based on the image, can you describe the apparent finish or treatment of the fabric?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the edges and folds, what is the visible state of the fabric's edges?",
+        "answer": "Neat"
+      },
+      {
+        "question": "From the image, does the fabric exhibit any visible patterns or designs?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Based purely on visual cues, what is the suggested level of thickness or density of this fabric?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the apparent level of sheen or gloss displayed by the fabric’s surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "From visual analysis alone, what is the perceived weight of the folded fabric item?",
+        "answer": "Light"
+      },
+      {
+        "question": "What is the observable level of transparency or opacity displayed by the fabric?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Considering the folds and how they fall, what does this indicate about the fabric's stiffness?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Based on the appearance, what is the perceived quality level of the presented fabric?",
+        "answer": "Good"
+      }
+    ]
+  }
+]

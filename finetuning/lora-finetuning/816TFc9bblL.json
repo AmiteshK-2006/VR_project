@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ba/bab610ad.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color scheme dominating the product's label?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What dairy product does the container explicitly state it holds?",
+        "answer": "SourCream"
+      },
+      {
+        "question": "What is the shape of the container holding the dairy product?",
+        "answer": "Round"
+      },
+      {
+        "question": "What is the apparent material of the container, judging from the image?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What certification logo is prominently displayed on the label?",
+        "answer": "USDA"
+      },
+      {
+        "question": "What word indicates that the product is cultivated according to organic farming practices?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What kind of illustration is featured centrally on the product's packaging?",
+        "answer": "Cow"
+      },
+      {
+        "question": "What unit of weight is predominantly used on the label to describe the product's quantity?",
+        "answer": "Ounces"
+      },
+      {
+        "question": "What is the general style or aesthetic of the graphic design on the label?",
+        "answer": "Farmhouse"
+      },
+      {
+        "question": "Does the image show any texture on the surface of the container?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What brand is identified on the product packaging?",
+        "answer": "365"
+      },
+      {
+        "question": "Describe the dominant color of the text on the product label",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall size of the container (in pounds), as stated on the label?",
+        "answer": "One"
+      },
+      {
+        "question": "Based on the image, does the cream appear to be thick or thin?",
+        "answer": "Thick"
+      },
+      {
+        "question": "What is the overall tone conveyed by the product label's visual elements?",
+        "answer": "Rustic"
+      }
+    ]
+  }
+]

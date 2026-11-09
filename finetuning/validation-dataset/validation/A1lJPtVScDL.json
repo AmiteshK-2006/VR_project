@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/10/1045d08d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color displayed across the entire visible surface?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the overall visual texture, what is the apparent surface feel?",
+        "answer": "Suede"
+      },
+      {
+        "question": "Based on the image's visual clues, what material appears to be used?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Describe the visible texture, considering its irregularities and uniformity?",
+        "answer": "Uneven"
+      },
+      {
+        "question": "What is the most prominent visual characteristic of the surface texture?",
+        "answer": "Grainy"
+      },
+      {
+        "question": "Considering the coloration, is the shade predominantly light or dark?",
+        "answer": "Dark"
+      },
+      {
+        "question": "From a visual perspective, how would you describe the overall tone of the color?",
+        "answer": "Muted"
+      },
+      {
+        "question": "Considering the image, does the surface exhibit a high or low sheen?",
+        "answer": "Low"
+      },
+      {
+        "question": "Judging from the visual details, what is the perceived level of smoothness?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What single word best encapsulates the visible surface's texture?",
+        "answer": "Textured"
+      },
+      {
+        "question": "In terms of visible patterns, what is the overall impression of the design?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Does the material display noticeable grain or fiber directionality?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on visual analysis, would you characterize the color as warm or cool?",
+        "answer": "Warm"
+      },
+      {
+        "question": "Does the material present a matte or glossy finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the general appearance of the visible surface's color distribution?",
+        "answer": "Uniform"
+      }
+    ]
+  }
+]

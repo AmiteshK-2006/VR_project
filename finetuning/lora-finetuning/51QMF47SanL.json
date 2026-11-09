@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a5/a5d1d7b7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the pasta sauce within the jar?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What is the overall shape of the product container?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What material appears to comprise the primary container?",
+        "answer": "Glass"
+      },
+      {
+        "question": "What kind of lid is affixed to the top of the jar?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Is there any visible text on the jar's label indicating the brand?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the color of the primary text on the label?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What specific type of food does the product seem to contain?",
+        "answer": "Pasta"
+      },
+      {
+        "question": "Can you identify any certification logos present on the label?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the product's appearance, what is its likely state?",
+        "answer": "Liquid"
+      },
+      {
+        "question": "What color is the smaller circular emblem on the label?",
+        "answer": "Red"
+      },
+      {
+        "question": "Does the jar's label contain nutrition facts?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the predominant texture visible on the label?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the visual cues, is the product likely organic?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the jar show a label indicating storage instructions after opening?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the general visual condition of the product in the image?",
+        "answer": "Sealed"
+      }
+    ]
+  }
+]

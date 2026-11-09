@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bf/bfa85c14.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the product packaging, as visually apparent?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What is the overall shape of the product's container, disregarding any minor details?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the primary material used for the product's packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Describe the texture of the visually dominant surface of the container based on the image.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What geometric patterns are prominently displayed on the packaging?",
+        "answer": "Angular"
+      },
+      {
+        "question": "What secondary color is used in the geometric pattern design on the packaging?",
+        "answer": "Burgundy"
+      },
+      {
+        "question": "What type of printing or design technique seems to be used on the packaging?",
+        "answer": "Graphic"
+      },
+      {
+        "question": "Are there any noticeable textural variations across the product's packaging surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the image, what is the overall style of the product packaging design?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Does the packaging showcase any embossed or raised elements on its surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Ignoring text, what is the most prominent graphic element on the packaging?",
+        "answer": "Chevron"
+      },
+      {
+        "question": "Considering only the visible portion, is the packaging predominantly matte or glossy?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based solely on visual inspection, what is the apparent finish of the packaging?",
+        "answer": "Uncoated"
+      },
+      {
+        "question": "Does the packaging include any visible metallic accents or finishes?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the orientation of the major geometric pattern on the packaging.",
+        "answer": "Diagonal"
+      }
+    ]
+  }
+]

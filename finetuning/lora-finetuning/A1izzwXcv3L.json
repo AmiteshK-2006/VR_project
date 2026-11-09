@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fa/fa43915b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the depicted packaging?",
+        "answer": "Purple"
+      },
+      {
+        "question": "What appears to be the primary material of this item's container?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What geometrical shape best describes the overall form of the folded package?",
+        "answer": "Square"
+      },
+      {
+        "question": "Considering the visible creases and folds, what is the apparent construction method?",
+        "answer": "Folded"
+      },
+      {
+        "question": "Based on the image, what is the texture of the outer packaging layer?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the perforations, what seems to be their purpose in the design?",
+        "answer": "Separation"
+      },
+      {
+        "question": "Judging from the visible seams, is this package primarily intended for single use or multiple uses?",
+        "answer": "Single"
+      },
+      {
+        "question": "What kind of finish does the surface of the packaging seem to possess?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the image reveal any prominent branding or labeling on the exterior?",
+        "answer": "None"
+      },
+      {
+        "question": "Based on the visible design elements, would this package be considered elaborate or simple?",
+        "answer": "Simple"
+      },
+      {
+        "question": "In terms of its visible construction, is the package rigid or flexible?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Considering the image's perspective, is the package fully opened or closed?",
+        "answer": "Folded"
+      },
+      {
+        "question": "What is the apparent level of structural integrity of the folded box?",
+        "answer": "Intact"
+      },
+      {
+        "question": "Focusing on the visible edges, are they clearly defined and sharp or somewhat frayed?",
+        "answer": "Frayed"
+      },
+      {
+        "question": "Considering the visible construction, how many panels comprise the folded packaging?",
+        "answer": "Six"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f2/f28e0e49.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the fabric shown in the image?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering the visible weave, what is the apparent texture of the material?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Based on the image, what kind of fiber appears to constitute this fabric?",
+        "answer": "Linen"
+      },
+      {
+        "question": "Judging from the image, what is the overall visual impression of the fabric?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "What is the general appearance of the visible surface of the fabric?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Does the image reveal any noticeable patterns on the fabric's surface?",
+        "answer": "None"
+      },
+      {
+        "question": "Can you describe the visual density of the fabric's weave from the provided image?",
+        "answer": "Tight"
+      },
+      {
+        "question": "What is the apparent level of sheen exhibited by the fabric in the image?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based solely on visual inspection, what is the implied weight of this fabric?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Does the image show any visible irregularities or imperfections in the weave?",
+        "answer": "No"
+      },
+      {
+        "question": "From the picture, what is the apparent level of transparency in the fabric?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Judging by the visible texture, how would you describe the fabric's drape?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What kind of visual effect is created by the fabric's subtle weave?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Does the fabric appear to have any discernible raised or embossed patterns?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the visual details, how could one best describe the fabric's finish?",
+        "answer": "Natural"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a3/a35eeaac.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual layout, what is the predominant orientation of the nutritional information presented?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the numerical value explicitly stated as the total caloric content per serving?",
+        "answer": "450"
+      },
+      {
+        "question": "What specific unit of measurement is used to quantify the serving size of this food item?",
+        "answer": "grams"
+      },
+      {
+        "question": "Based on the visual structure, what is the numerical value representing the total number of servings contained within the package?",
+        "answer": "6"
+      },
+      {
+        "question": "What is the descriptive food term used to designate the type of edible product detailed on this label?",
+        "answer": "Pie"
+      },
+      {
+        "question": "Observing the textual arrangement, what is the format used to display the percentage of the daily recommended values?",
+        "answer": "Percent"
+      },
+      {
+        "question": "What is the numerical value indicating the amount of total fat, in grams, present per serving?",
+        "answer": "22"
+      },
+      {
+        "question": "What is the numerical value, expressed in milligrams, representing the cholesterol content per serving?",
+        "answer": "60"
+      },
+      {
+        "question": "What is the numerical value indicating the amount of sodium, in milligrams, per serving?",
+        "answer": "270"
+      },
+      {
+        "question": "Observing the provided information, what is the numerical value representing the total carbohydrate content, in grams, per serving?",
+        "answer": "59"
+      },
+      {
+        "question": "What is the numerical value, in grams, representing the amount of dietary fiber present per serving?",
+        "answer": "2"
+      },
+      {
+        "question": "What is the numerical value indicating the amount of total sugars, in grams, present per serving?",
+        "answer": "24"
+      },
+      {
+        "question": "Based on the visual information, what is the numerical value indicating the amount of added sugars, in grams, per serving?",
+        "answer": "23"
+      },
+      {
+        "question": "What is the numerical value indicating the amount of protein, in grams, per serving?",
+        "answer": "4"
+      },
+      {
+        "question": "What is the unit of measurement consistently used to quantify the mineral content (e.g., calcium, iron) per serving?",
+        "answer": "mg"
+      }
+    ]
+  }
+]

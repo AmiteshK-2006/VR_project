@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0d/0d6a6117.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the provided text's visual characteristics, what is the predominant color of the text displayed on the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the image, what kind of typeface or font is predominantly used in the provided text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Examining the image, describe the overall visual arrangement or layout of the text elements presented?",
+        "answer": "Linear"
+      },
+      {
+        "question": "From a visual perspective, what is the text's alignment concerning the horizontal axis of the image?",
+        "answer": "Left"
+      },
+      {
+        "question": "Judging solely from the visual aspects of the image, determine the relative size of the text in relation to the image itself?",
+        "answer": "Large"
+      },
+      {
+        "question": "Considering the visual appearance of the image, what is the approximate spacing between lines of text?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Visually analyzing the image, does the text exhibit a noticeable variation in font size across its different components?",
+        "answer": "No"
+      },
+      {
+        "question": "From a visual perspective, does the image suggest the use of any visual enhancement, such as bold or italics, in the text?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on visual cues in the image, determine the case of the letters within the presented text?",
+        "answer": "Upper"
+      },
+      {
+        "question": "In terms of the visual structure, how is the text organized or separated into distinct sections?",
+        "answer": "Lines"
+      },
+      {
+        "question": "Based on visual cues, what is the overall clarity and legibility of the text displayed within the image?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Judging from the image alone, what seems to be the background color of the surface carrying the displayed text?",
+        "answer": "White"
+      },
+      {
+        "question": "What appears to be the overall visual style of the presented text; simple, complex, or ornate?",
+        "answer": "Simple"
+      },
+      {
+        "question": "From the image, are there any noticeable visual distortions or imperfections in the printed text?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the visual appearance of the text, does it appear to be printed on a smooth or textured surface?",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

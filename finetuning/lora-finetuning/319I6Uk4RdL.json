@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b6/b6192874.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the provided image, what is the primary text displayed prominently on the item?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Based on the image, what liquid is listed as an ingredient?",
+        "answer": "Water"
+      },
+      {
+        "question": "What organic ingredient, used in food production, is clearly mentioned in the visible text?",
+        "answer": "Soybeans"
+      },
+      {
+        "question": "What grain is specified as an organic ingredient, as seen in the provided image?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "Observing the image, what common seasoning ingredient is listed among the others?",
+        "answer": "Salt"
+      },
+      {
+        "question": "What organic compound, often found in spirits, is identified as an ingredient?",
+        "answer": "Alcohol"
+      },
+      {
+        "question": "From the image, what word is used to describe several ingredients in the list?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the overall style of the text in the provided image; simple, elaborate or complex?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the color of the text seen in the presented image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Judging by the image, what is the background color of the label that displays the ingredients?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of the text block on the item shown in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the case of the lettering used, is it upper, lower or mixed case?",
+        "answer": "Upper"
+      },
+      {
+        "question": "Does the text appear to be printed or handwritten; considering the image provided?",
+        "answer": "Printed"
+      },
+      {
+        "question": "Observing the image closely, does the text have a serif or sans-serif typeface?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Is the image crisp and clear or blurry and unclear, based on the provided visual?",
+        "answer": "Crisp"
+      }
+    ]
+  }
+]

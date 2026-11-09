@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a6/a6c716e1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall shape and form factor, what is the dominant geometric configuration of this item?",
+        "answer": "Tablet"
+      },
+      {
+        "question": "Based on the visual texture, what is the most likely surface characteristic of this product?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the visible features, what is the primary color of the product's outer surface?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary material visibly comprising the majority of this product?",
+        "answer": "Pill"
+      },
+      {
+        "question": "Examining the item's visual details, what type of printed information is noticeable on it?",
+        "answer": "Text"
+      },
+      {
+        "question": "Focusing on the visual details, what is the apparent size of each individual unit?",
+        "answer": "Small"
+      },
+      {
+        "question": "What does the text on the item's surface mainly depict, based on your visual observation?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Considering the image, is there any evident protective or safety sealing on the product?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the visible design elements, does the product have any apparent branding or logos?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the observable aspects, what is the apparent overall condition of the product depicted?",
+        "answer": "New"
+      },
+      {
+        "question": "What is the apparent packaging or containment method used for the product?",
+        "answer": "Bottle"
+      },
+      {
+        "question": "What is the visual characteristic of the printed text relative to the background?",
+        "answer": "Dark"
+      },
+      {
+        "question": "What is the most prominent graphical element visible on the product, excluding text?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the discernible visual arrangement of the textual information on the product?",
+        "answer": "Columns"
+      },
+      {
+        "question": "Based on your visual assessment, what is the apparent intended use of this item?",
+        "answer": "Supplement"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/34/344c1d96.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall design, what is the primary function implied by the product's description?",
+        "answer": "Underwear"
+      },
+      {
+        "question": "Based on the textual description, what adjective best describes the user experience?",
+        "answer": "Amazing"
+      },
+      {
+        "question": "What level of user satisfaction is indicated by the visual star rating present?",
+        "answer": "Five"
+      },
+      {
+        "question": "What specific type of underwear does the text explicitly label the product as?",
+        "answer": "Incontinence"
+      },
+      {
+        "question": "Judging by the context provided by the surrounding elements, what sentiment is primarily expressed in the testimonial?",
+        "answer": "Positive"
+      },
+      {
+        "question": "From the textual feedback, what aspect of the product most surprised the reviewer?",
+        "answer": "Comfort"
+      },
+      {
+        "question": "As shown in the text, how does the reviewer characterize the overall quality of the product?",
+        "answer": "Wonderful"
+      },
+      {
+        "question": "What platform is cited as the source of the user review shown?",
+        "answer": "Amazon"
+      },
+      {
+        "question": "What is the displayed graphical element flanking both sides of the quote?",
+        "answer": "Quotation"
+      },
+      {
+        "question": "Describe the shape of the graphic elements that are used as quotation marks in this image?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What is the dominant color of the background in the image?",
+        "answer": "Green"
+      },
+      {
+        "question": "What type of graphic element is utilized to represent the customer rating?",
+        "answer": "Stars"
+      },
+      {
+        "question": "What is the color of the stars employed in the customer rating system?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the color of the text within the review quotation block?",
+        "answer": "Black"
+      },
+      {
+        "question": "What shape is the block containing the user review and star rating?",
+        "answer": "Rectangular"
+      }
+    ]
+  }
+]

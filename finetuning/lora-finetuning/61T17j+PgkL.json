@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/96/96608c13.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color scheme of the nutritional information panel shown in the image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the primary typeface used for the heading 'Nutrition Facts' displayed prominently at the top of the image?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the visual structure, what is the formatting style used to present the nutritional values (e.g., 'Calories', 'Total Fat')?",
+        "answer": "Table"
+      },
+      {
+        "question": "Examining the text layout, what is the unit of measurement consistently used for the 'Amount per serving' values?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the visual characteristic of the numerical values for the daily percentage values (e.g., '3%', '0%', '12%')?",
+        "answer": "Smaller"
+      },
+      {
+        "question": "What is the visual design element used to separate the different nutritional components in the provided table?",
+        "answer": "Lines"
+      },
+      {
+        "question": "What is the textual format used to present the values for 'Total Sugars' (e.g., '<1g')?",
+        "answer": "Inequality"
+      },
+      {
+        "question": "Considering the image's visual structure, what is the font style used for the calorie count?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Analyzing the visual presentation, is the layout of the 'Nutrition Facts' panel symmetrical or asymmetrical?",
+        "answer": "Asymmetrical"
+      },
+      {
+        "question": "What is the visual attribute of the text describing the daily value percentage?",
+        "answer": "Italic"
+      },
+      {
+        "question": "What is the visual appearance of the footnote explaining the daily value percentage?",
+        "answer": "Smaller"
+      },
+      {
+        "question": "What is the general visual alignment of the text within each row of the nutritional information panel?",
+        "answer": "Left"
+      },
+      {
+        "question": "Judging from its visual appearance, what is the overall texture of the nutrition label panel?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the visual characteristic of the background of the nutrition facts panel?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the visual style of the numerical values presented for each nutrient?",
+        "answer": "Arabic"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bb/bb328001.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual presentation, what is the dominant orientation of the ingredient list?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Observing the typography, what is the style of the text font used for the ingredient listing?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on visual characteristics, what is the general color scheme of the background on which the ingredients are listed?",
+        "answer": "White"
+      },
+      {
+        "question": "Analyzing the visual layout, what is the primary alignment of the ingredient list items?",
+        "answer": "Left"
+      },
+      {
+        "question": "Judging by the image, what is the apparent texture of the surface where the ingredient list is printed?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the visual character of the text's capitalization style used for the labeling of ingredients?",
+        "answer": "Sentence"
+      },
+      {
+        "question": "Examining the lettering, what case is predominantly used for the ingredient names in the product label?",
+        "answer": "Title"
+      },
+      {
+        "question": "In terms of visual density, how would you describe the arrangement of the text across the label?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Looking at the arrangement of the words, what is the visual format in which ingredients are presented?",
+        "answer": "List"
+      },
+      {
+        "question": "Given the image, what is the apparent size of the text font of the ingredient list?",
+        "answer": "Small"
+      },
+      {
+        "question": "From a visual perspective, does the text display any visible irregularities or distortions?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the visual appearance, what is the visual state of the text—is it crisp, blurry, or faded?",
+        "answer": "Crisp"
+      },
+      {
+        "question": "Considering the visual elements, what is the visible level of detail in the text rendering?",
+        "answer": "High"
+      },
+      {
+        "question": "How many distinct columns visually organize the ingredient list items?",
+        "answer": "One"
+      },
+      {
+        "question": "What is the apparent visual contrast between the text and the background?",
+        "answer": "High"
+      }
+    ]
+  }
+]

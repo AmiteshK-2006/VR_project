@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/7c/7cb4bca7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color scheme of the text on the supplement facts label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the individual listed supplement facts entries?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the overall shape of the supplement facts label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the font style of the 'Supplement Facts' header?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the font style used for the ingredient names?",
+        "answer": "Regular"
+      },
+      {
+        "question": "What unit of measurement is used for the ingredient quantities?",
+        "answer": "mg"
+      },
+      {
+        "question": "What is the stated serving size of the supplement?",
+        "answer": "Capsule"
+      },
+      {
+        "question": "What is the background color of the entire label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the format of the information presented on the label?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the text style for the 'Serving Size' label?",
+        "answer": "Regular"
+      },
+      {
+        "question": "What is the type of information displayed on the label?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What kind of visual elements are used to separate the different sections of the label?",
+        "answer": "Lines"
+      },
+      {
+        "question": "What is the style of the numbers indicating the amount per serving?",
+        "answer": "Numeric"
+      },
+      {
+        "question": "What is the general textual alignment for most of the label content?",
+        "answer": "Left"
+      },
+      {
+        "question": "What is the text size for the 'Supplement Facts' heading relative to the other text?",
+        "answer": "Larger"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/11/110150d2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the nutritional information panel?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the primary font style used for the 'Guaranteed Analysis' header?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the text's visual presentation, what is the overall format of the provided information?",
+        "answer": "tabular"
+      },
+      {
+        "question": "What is the background color of the nutritional information panel?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the format used to present the numerical percentages?",
+        "answer": "Decimal"
+      },
+      {
+        "question": "In terms of layout, how are the components of 'Guaranteed Analysis' arranged?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the text color used for the guaranteed analysis values?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on visual observation, what is the text weight for the nutrient names?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Considering the text size and spacing, how would you describe the readability of the nutritional information?",
+        "answer": "Clear"
+      },
+      {
+        "question": "In terms of design, how would you classify the overall style of the nutritional information panel?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the text weight used for the percentages?",
+        "answer": "Regular"
+      },
+      {
+        "question": "Observing the image, describe the text alignment of the nutrient names and percentages?",
+        "answer": "Right"
+      },
+      {
+        "question": "Describe the overall visual texture of the panel's background",
+        "answer": "Solid"
+      },
+      {
+        "question": "How many distinct sections are present in the nutritional information display?",
+        "answer": "One"
+      },
+      {
+        "question": "Describe the visual prominence of the 'Guaranteed Analysis' header compared to other elements.",
+        "answer": "High"
+      }
+    ]
+  }
+]

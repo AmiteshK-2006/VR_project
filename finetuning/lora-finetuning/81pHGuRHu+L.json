@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/7f/7ff2b299.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the primary geometrical shape of the depicted product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the predominant color covering the majority of the visible surface area?",
+        "answer": "Orange"
+      },
+      {
+        "question": "Based on the visual texture, what material appears to be used in the construction?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What type of graphic element is prominently displayed for identification purposes?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "Observing the edges and corners, what can be inferred about the construction method?",
+        "answer": "Folded"
+      },
+      {
+        "question": "Can you identify any other graphic elements apart from the main barcode?",
+        "answer": "Symbol"
+      },
+      {
+        "question": "Regarding the surface finish, is the texture primarily smooth or rough?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall visual impression or style of the product packaging?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Is there any visible text beyond the barcode and symbols?",
+        "answer": "No"
+      },
+      {
+        "question": "What seems to be the color of the smaller text adjacent to the barcode?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the size, what is the likely purpose of this product packaging?",
+        "answer": "Retail"
+      },
+      {
+        "question": "Is the packaging design predominantly patterned or solid?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Can you specify the shape of the barcode printed on the product packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Does the product's packaging feature any additional graphics besides the main design?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent condition of the product packaging; is it damaged or pristine?",
+        "answer": "Pristine"
+      }
+    ]
+  }
+]

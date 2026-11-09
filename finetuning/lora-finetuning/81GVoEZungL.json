@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b1/b11acc45.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape and the presence of clearly defined text blocks, what is the dominant form of this item?",
+        "answer": "Label"
+      },
+      {
+        "question": "Analyzing the detailed numerical data organized in columns and rows, what specific dietary information does this item primarily convey?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Based on the color palette used, primarily what color family is the background of this informational item?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Observing the text's typeface and its consistent size and style, describe the overall look of the typography used.",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Given the presence of various nutritional components prominently listed such as fats, sugars, and proteins, what is the primary purpose of this item?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Considering the style and layout of the information provided, what is the intended audience of this product item?",
+        "answer": "Consumers"
+      },
+      {
+        "question": "Focusing on the arrangement of text and numbers, what is the organizational structure employed to present the information?",
+        "answer": "Tabular"
+      },
+      {
+        "question": "Given the clearly stated serving sizes and per-container values, what aspect of dietary information is emphasized in this product?",
+        "answer": "Quantities"
+      },
+      {
+        "question": "Considering the visual design, how would you describe the overall legibility and clarity of the text presented?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Analyzing the visual presentation of the data, what is the main approach used for presenting multiple aspects of nutritional information?",
+        "answer": "Comparative"
+      },
+      {
+        "question": "Focusing on the text's weight and style, what impression is created by the font used for the headers?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Given the use of percentages alongside numerical values, what additional context does this provide to the nutritional information?",
+        "answer": "Contextual"
+      },
+      {
+        "question": "Examining the structure and organization, how many distinct sections are clearly defined in the content presented?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "Observing the overall design and layout, what is the primary method used to highlight key data points?",
+        "answer": "Tables"
+      },
+      {
+        "question": "Considering the nature of the provided information, what type of data is being predominantly communicated using this item?",
+        "answer": "Numerical"
+      }
+    ]
+  }
+]

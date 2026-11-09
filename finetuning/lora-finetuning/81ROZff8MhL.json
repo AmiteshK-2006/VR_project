@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d5/d53f7ee5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary textual information displayed prominently on this rectangular label?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Considering the overall label design, what is its predominant color scheme?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the shape of this informative product label or packaging element?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the font style used for the 'Nutrition Facts' header on the label?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Describe the texture of the surface where the nutritional information is printed.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent material that constitutes the label's substrate?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Given the layout, what is the primary organizational structure of the label's data?",
+        "answer": "Columns"
+      },
+      {
+        "question": "What are the units used for measurement of dietary fiber, e.g., grams or milligrams?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What specific vitamin is shown to have a high percentage daily value in this product's nutrition label?",
+        "answer": "Vitamin"
+      },
+      {
+        "question": "What is the method of presentation used to organize the various nutritional components?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the specified serving size detailed on the label?",
+        "answer": "Cup"
+      },
+      {
+        "question": "Can you describe the overall arrangement and organization of the data presented on the food label?",
+        "answer": "Organized"
+      },
+      {
+        "question": "What nutritional value is provided in milligrams, in the provided nutritional table?",
+        "answer": "Sodium"
+      },
+      {
+        "question": "What is the formatting style employed to indicate the percentage of daily values for various nutrients?",
+        "answer": "Percentage"
+      },
+      {
+        "question": "Does the label utilize any visual elements aside from text to enhance readability or emphasis?",
+        "answer": "None"
+      }
+    ]
+  }
+]

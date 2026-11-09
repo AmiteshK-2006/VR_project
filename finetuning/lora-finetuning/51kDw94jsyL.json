@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/70/709fb760.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual layout, what is the predominant color of the text displayed on this product's label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the primary stated ingredient, visually prominent on the label, concerning the product's composition?",
+        "answer": "Fish"
+      },
+      {
+        "question": "Disregarding punctuation, what word is visually the most frequently repeated in the complete visible text?",
+        "answer": "Purified"
+      },
+      {
+        "question": "Observing the label's text, what specific term signifies a natural substance derived from plants?",
+        "answer": "Soy"
+      },
+      {
+        "question": "Based on the label text, what common food additive is listed among the ingredients?",
+        "answer": "Gelatin"
+      },
+      {
+        "question": "Focusing on the label's text, what chemical compound is denoted as an ingredient derived from soy?",
+        "answer": "Tocopherol"
+      },
+      {
+        "question": "Observing the label closely, which term describes the process of removing impurities from water?",
+        "answer": "Purified"
+      },
+      {
+        "question": "Looking solely at the displayed text, what is listed as the source of a key component of the product?",
+        "answer": "Soy"
+      },
+      {
+        "question": "Based on the visual information, what adjective precedes \"water\" in the ingredient list?",
+        "answer": "Purified"
+      },
+      {
+        "question": "What single word describes the type of flavoring used as an ingredient on the label?",
+        "answer": "Natural"
+      },
+      {
+        "question": "From the label, what chemical is listed as a component of the product's formulation?",
+        "answer": "Glycerin"
+      },
+      {
+        "question": "What is the descriptive term used to modify the type of oil in the ingredients list?",
+        "answer": "Purified"
+      },
+      {
+        "question": "Observing the text, what is the word directly following 'D-alpha' in the ingredient list?",
+        "answer": "Tocopherol"
+      },
+      {
+        "question": "Considering the label's text, what word follows the word 'fish' in the first line of ingredients?",
+        "answer": "Oil"
+      },
+      {
+        "question": "What word, positioned at the beginning of the label text, categorizes the information presented below?",
+        "answer": "Ingredients"
+      }
+    ]
+  }
+]

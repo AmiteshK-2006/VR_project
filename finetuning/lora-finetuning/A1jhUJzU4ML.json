@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ed/edf72b56.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant visible texture of the displayed material?",
+        "answer": "Grained"
+      },
+      {
+        "question": "What is the primary color observed across the entire material sample?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the visual appearance, what is the likely material type?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Based solely on visual inspection, what is the overall surface finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Observing the image, what would you describe the texture's grain direction as?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Judging from the visual detail, how would you characterize the grain density?",
+        "answer": "High"
+      },
+      {
+        "question": "Does the material show any noticeable signs of artificial coloring or treatment?",
+        "answer": "No"
+      },
+      {
+        "question": "From the visual assessment, does the surface have a uniform coloration?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What kind of visual imperfections or irregularities are evident in the texture?",
+        "answer": "None"
+      },
+      {
+        "question": "If you were to describe the shade of brown, what term would you use?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Considering the visual characteristics, is the texture smooth or rough to the touch?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Does the image depict any discernible patterns or markings within the texture?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image, how would you rate the visible surface shine or gloss?",
+        "answer": "Low"
+      },
+      {
+        "question": "Does the visible material appear to be naturally occurring or synthetically produced?",
+        "answer": "Natural"
+      },
+      {
+        "question": "What kind of visual uniformity is present in the grain across the area shown?",
+        "answer": "Consistent"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/64/641a642a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall shape as depicted in the image, what geometric form best describes the outer container?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary color of the product's visible contents, as shown in the provided image?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Based on visual inspection, what material appears to constitute the product's immediate packaging?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Focusing on the container's structure, is it a single piece or does it show distinct, separable parts?",
+        "answer": "Single"
+      },
+      {
+        "question": "Judging by its appearance, what is the most likely texture of the product inside the packaging?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What appears to be the general consistency of the product contained within its packaging?",
+        "answer": "Solid"
+      },
+      {
+        "question": "What is the apparent transparency level of the outer container encasing the product?",
+        "answer": "Translucent"
+      },
+      {
+        "question": "Is there any visible labeling or text directly printed on the product's packaging itself?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Describe the orientation of the label relative to the product's longest dimension?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Observing the provided image, does the packaging appear sealed or open?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Considering the image, does the product seem homogenous or does it exhibit significant variations in color or texture?",
+        "answer": "Homogenous"
+      },
+      {
+        "question": "What is the apparent depth of the container as shown in the provided image?",
+        "answer": "Shallow"
+      },
+      {
+        "question": "Considering the visible details, is the product's packaging designed for repeated use or single use?",
+        "answer": "Single"
+      },
+      {
+        "question": "Focusing on the material, would you describe the product's packaging as rigid or flexible?",
+        "answer": "Rigid"
+      },
+      {
+        "question": "In the given image, what is the most prominent feature observed on the product's packaging apart from its contents?",
+        "answer": "Label"
+      }
+    ]
+  }
+]

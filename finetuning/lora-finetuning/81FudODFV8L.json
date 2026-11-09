@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4b/4b1a3f04.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the visible exterior casing of the device?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the primary shape of the device's main body, disregarding the prongs?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What appears to be the material of construction for the outer shell of the unit?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the image, what type of connector is prominently displayed on the top surface?",
+        "answer": "USB"
+      },
+      {
+        "question": "What is the apparent finish or texture of the outer plastic surface of the charger?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What kind of electrical plug configuration is presented for wall outlet insertion?",
+        "answer": "US"
+      },
+      {
+        "question": "Based on the visible text, what is the device's primary function indicated?",
+        "answer": "Charger"
+      },
+      {
+        "question": "What is the overall size of the device relative to a standard household item (small, medium, large)?",
+        "answer": "Small"
+      },
+      {
+        "question": "How many USB ports are visibly present on the product's top?",
+        "answer": "One"
+      },
+      {
+        "question": "What kind of markings or labels are visible on the back of the device?",
+        "answer": "Text"
+      },
+      {
+        "question": "Describe the form factor of the wall plug section (e.g., flat, bulky, angled)?",
+        "answer": "Angled"
+      },
+      {
+        "question": "What is the apparent condition of the device; is it new, used, or damaged?",
+        "answer": "New"
+      },
+      {
+        "question": "Considering the visible parts, is the device primarily made of one material or several?",
+        "answer": "One"
+      },
+      {
+        "question": "Describe the visible quality of the printing on the device's labels (e.g., sharp, blurry)?",
+        "answer": "Sharp"
+      },
+      {
+        "question": "What is the general style of the product's design (e.g., sleek, boxy, ornate)?",
+        "answer": "Sleek"
+      }
+    ]
+  }
+]

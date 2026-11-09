@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bd/bd9b8398.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the primary color scheme predominantly used in the product's packaging?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Based on the image, what type of food item does the product packaging label explicitly identify?",
+        "answer": "Kale"
+      },
+      {
+        "question": "From a purely visual inspection, what specific type of vegetable is highlighted in the product's name?",
+        "answer": "Squash"
+      },
+      {
+        "question": "Observing the text on the package, what is the predominant text color used for the ingredients list?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the visually apparent format of the detailed ingredient listing on the label?",
+        "answer": "List"
+      },
+      {
+        "question": "Examining the label's visual design, what type of text style is used for the product name?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "From what you can visually ascertain, is the font style of the ingredients list consistent across the label?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging solely from its visual appearance, what is the background color of the product's primary label?",
+        "answer": "Tan"
+      },
+      {
+        "question": "What is the visual form of the identifier directly beneath the product name?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "What is the shape of the primary label that contains the product's name and ingredients?",
+        "answer": "Rectangle"
+      },
+      {
+        "question": "Visually, what is the overall texture of the label's surface that seems to be apparent?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering what is visible, what is the general style of the font used for product-related information?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Based on the visual appearance alone, what kind of surface is the label printed on?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the apparent visual style of the entire packaging label?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Considering its visual features, what is the predominant orientation of the text on the package?",
+        "answer": "Vertical"
+      }
+    ]
+  }
+]

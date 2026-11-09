@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a6/a6e14558.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what single word best describes the product's appearance?",
+        "answer": "Label"
+      },
+      {
+        "question": "What is the primary color of the text visible in the provided image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the image, what is the background color of the product shown?",
+        "answer": "White"
+      },
+      {
+        "question": "Focusing on the textual content, what is the main descriptive term provided on the label?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "If we examine the text carefully, what specific ingredient is prominently listed?",
+        "answer": "Glycerin"
+      },
+      {
+        "question": "What is the adjective preceding the prominent ingredient in the label?",
+        "answer": "Vegetable"
+      },
+      {
+        "question": "Judging from the visual details, what is the apparent format of the text on the label?",
+        "answer": "Print"
+      },
+      {
+        "question": "Considering the style of the text, what is the best single word to describe its font?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Observing the textual elements, how would you describe the casing of the lettering?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "What punctuation mark concludes the listed ingredient in the image?",
+        "answer": "Period"
+      },
+      {
+        "question": "Analyzing the label's visual aspects, what term precedes the list of contents?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the apparent material of the surface on which the text is printed?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Describing the visual texture, what is the apparent surface finish of the product?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging from the image, what is the apparent shape of the area with visible text?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "From the image, what is the general condition of the visible text?",
+        "answer": "Clear"
+      }
+    ]
+  }
+]

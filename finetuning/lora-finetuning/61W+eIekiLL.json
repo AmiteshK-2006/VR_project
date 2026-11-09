@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/82/82adeacb.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual appearance, what dominant color best describes the majority of the nuts and seeds within the transparent packaging?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Based on the image, what is the most prominent shape characterizing the majority of items in the bag?",
+        "answer": "Irregular"
+      },
+      {
+        "question": "Examining the contents, what appears to be the primary material composing this product?",
+        "answer": "Nut"
+      },
+      {
+        "question": "Given the visual details, can you identify the type of packaging used for this food product?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Judging from the visual texture, what is the surface texture of the majority of the contents?",
+        "answer": "Rough"
+      },
+      {
+        "question": "From the image, what seems to be the overall condition of the product\u2014is it fresh or stale?",
+        "answer": "Fresh"
+      },
+      {
+        "question": "What is the apparent overall size of the contents, relative to the packaging\u2014is the package full or sparsely filled?",
+        "answer": "Full"
+      },
+      {
+        "question": "Describe the arrangement of the nuts and seeds within the packaging, how are they organized?",
+        "answer": "Mixed"
+      },
+      {
+        "question": "Observing the visual characteristics, what type of seal is visibly apparent at the top of the packaging?",
+        "answer": "Heat"
+      },
+      {
+        "question": "Based solely on the visual appearance of the contents, are the nuts whole or broken?",
+        "answer": "Mixed"
+      },
+      {
+        "question": "Judging by the visible details in the image, what is the state of the nuts\u2014are they roasted or raw?",
+        "answer": "Roasted"
+      },
+      {
+        "question": "From the visual details in the image, what is the general size and shape of the bag?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Given the visual information in the image, what can be observed about the transparency of the bag?",
+        "answer": "Clear"
+      },
+      {
+        "question": "By observing the visual characteristics, what is the primary label color on the packaging?",
+        "answer": "Green"
+      },
+      {
+        "question": "Based on the image, is there any noticeable presence of dust or debris within the packaging?",
+        "answer": "No"
+      }
+    ]
+  }
+]

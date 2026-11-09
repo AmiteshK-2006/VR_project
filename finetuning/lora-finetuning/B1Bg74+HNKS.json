@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6a/6ab3d789.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color displayed across the fabric sample?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering the visible texture, what is the most apparent surface characteristic?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Based on visual assessment, what seems to be the primary material used in this textile sample?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Judging from the image, what is the overall direction of the visible fabric grain?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Describe the tonal variation observed across the presented fabric's length.",
+        "answer": "Gradient"
+      },
+      {
+        "question": "Observing the image closely, is there any noticeable pattern in the fabric's structure?",
+        "answer": "Linear"
+      },
+      {
+        "question": "From the image, can you characterize the apparent visual density or weight of the textile?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Based on the visual inspection, what is the apparent visual luster of the displayed fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the apparent level of color saturation in the dominant shade visible in the sample?",
+        "answer": "Low"
+      },
+      {
+        "question": "From the visual appearance, what is the suggested softness or stiffness of the cloth?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Does the visible surface of the material display an obvious sheen or shine?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the visible texture, how would you characterize the fabric's likely drape?",
+        "answer": "Fluid"
+      },
+      {
+        "question": "What is the most prominent visible feature of the presented fabric sample's design?",
+        "answer": "Stripes"
+      },
+      {
+        "question": "Is the surface of the sample visibly smooth or does it have discernible texture?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Does the displayed textile suggest a potential application in upholstery or clothing?",
+        "answer": "Upholstery"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/82/82217f50.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant texture of the folded towels shown in the image?",
+        "answer": "Fluffy"
+      },
+      {
+        "question": "What color is the topmost towel in the stack on the left?",
+        "answer": "Teal"
+      },
+      {
+        "question": "Describe the apparent material composition of these bath towels?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "What is the overall shape of each individual towel?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the image, what is the general size of the towels?",
+        "answer": "Large"
+      },
+      {
+        "question": "What color is the towel at the bottom of the left-hand stack?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What color is the top towel in the right-hand stack?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the apparent absorbency level suggested by the towel's texture?",
+        "answer": "High"
+      },
+      {
+        "question": "Describe the arrangement of the towels in the image?",
+        "answer": "Stacked"
+      },
+      {
+        "question": "What is the visible design pattern across all the towels?",
+        "answer": "Plain"
+      },
+      {
+        "question": "What color is the second towel from the top in the stack on the right?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering the image, what is the inferred use of these towels?",
+        "answer": "Bath"
+      },
+      {
+        "question": "What color is the third towel from the top in the left stack?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the general condition of the towels based on the image?",
+        "answer": "New"
+      },
+      {
+        "question": "What color is the towel at the bottom of the right stack?",
+        "answer": "Gray"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/02/02dac58e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the device's outer casing?",
+        "answer": "Silver"
+      },
+      {
+        "question": "What appears to be the primary material of the device's construction?",
+        "answer": "Aluminum"
+      },
+      {
+        "question": "Considering the device's overall form, what is its most accurate geometric descriptor?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What type of connector is prominently featured at one end of the device?",
+        "answer": "USB-C"
+      },
+      {
+        "question": "Based on the visible ports, what is the device's primary function?",
+        "answer": "Docking"
+      },
+      {
+        "question": "Describe the surface texture of the device's visible exterior?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "How many distinct ports are visibly present on the device's main body?",
+        "answer": "Eight"
+      },
+      {
+        "question": "What is the approximate length of the connecting cable attached to the device?",
+        "answer": "Short"
+      },
+      {
+        "question": "What is the general shape of the cable connecting to the device?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Considering the arrangement of ports, how would you describe their placement?",
+        "answer": "Linear"
+      },
+      {
+        "question": "What is the apparent finish of the device's metallic surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the device appear to have any visible branding or logos?",
+        "answer": "No"
+      },
+      {
+        "question": "What type of port is situated furthest to the right on the device?",
+        "answer": "HDMI"
+      },
+      {
+        "question": "Are the ports arranged in a uniform manner or are they scattered?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Excluding the USB-C port, what is the most noticeable port type?",
+        "answer": "USB-A"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ce/ceed8e01.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color displayed on the main label of the product?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the primary material composing the outer structure of each individual serving unit?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the overall shape, what geometric form best describes each individual serving unit?",
+        "answer": "Cylinder"
+      },
+      {
+        "question": "What specific beverage type is prominently advertised on the product's label?",
+        "answer": "Cocoa"
+      },
+      {
+        "question": "What is the texture of the outer surface of the individual serving units, judging by the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the label, what additional flavor is mentioned in conjunction with the primary ingredient?",
+        "answer": "Chocolate"
+      },
+      {
+        "question": "What is the color of the top lid of each of the product's individual serving units?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the text printed repeatedly around the perimeter of the label?",
+        "answer": "Resale"
+      },
+      {
+        "question": "What word indicates the flavor has been enhanced by artificial means?",
+        "answer": "Artificially"
+      },
+      {
+        "question": "What brand name is prominently displayed on the front of each unit?",
+        "answer": "Solmo"
+      },
+      {
+        "question": "What word describes the state of the contents after preparation, according to the warning?",
+        "answer": "Hot"
+      },
+      {
+        "question": "Describe the overall pattern of the text on the label (Ignoring words themselves)",
+        "answer": "Circular"
+      },
+      {
+        "question": "What is the general condition of the products presented in the image?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "What is the primary method of use suggested by the image?",
+        "answer": "Brewing"
+      },
+      {
+        "question": "Excluding the main product, what other objects are shown in the image?",
+        "answer": "None"
+      }
+    ]
+  }
+]

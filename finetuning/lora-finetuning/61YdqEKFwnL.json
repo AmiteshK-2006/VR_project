@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/10/1026e24d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color scheme of the box prominently displayed?",
+        "answer": "Red"
+      },
+      {
+        "question": "What specific ailment is this medication intended to treat, as shown on the box?",
+        "answer": "Migraine"
+      },
+      {
+        "question": "What is the shape of the individual tablets depicted on the package?",
+        "answer": "Capsule"
+      },
+      {
+        "question": "Based on the image, what is the surface texture of the tablets shown?",
+        "answer": "Coated"
+      },
+      {
+        "question": "What is the brand name of this pain relief medication?",
+        "answer": "Basic"
+      },
+      {
+        "question": "What type of tablets are these, according to the label?",
+        "answer": "Caplets"
+      },
+      {
+        "question": "Considering the product's visual cues, what is the overall form of the product packaging?",
+        "answer": "Box"
+      },
+      {
+        "question": "How many tablets are contained within the packaging, as indicated on the front?",
+        "answer": "200"
+      },
+      {
+        "question": "What is the secondary color present in the packaging design?",
+        "answer": "White"
+      },
+      {
+        "question": "What active ingredients are listed on the box?",
+        "answer": "Acetaminophen"
+      },
+      {
+        "question": "What other active component is visible on the packaging?",
+        "answer": "Aspirin"
+      },
+      {
+        "question": "What additional ingredient is mentioned on the label, besides Acetaminophen and Aspirin?",
+        "answer": "Caffeine"
+      },
+      {
+        "question": "What is the stated function of the medication, as seen on the packaging?",
+        "answer": "Relief"
+      },
+      {
+        "question": "What is the text mentioned about new information regarding the medication?",
+        "answer": "Warnings"
+      },
+      {
+        "question": "What is the prominent word that indicates the medication's purpose?",
+        "answer": "Relief"
+      }
+    ]
+  }
+]

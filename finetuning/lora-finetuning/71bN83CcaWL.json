@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8a/8a38139b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the text and background on this pharmaceutical product insert?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the primary typeface used for the 'Drug Facts' heading on the medication leaflet?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the overall layout, what is the predominant organizational style used to present the drug information?",
+        "answer": "Columnar"
+      },
+      {
+        "question": "What is the size of the font used for 'Active Ingredients' in comparison to other text sections?",
+        "answer": "Larger"
+      },
+      {
+        "question": "What is the format of the information presented for both the 'Active Ingredients' and 'Purposes' sections?",
+        "answer": "tabular"
+      },
+      {
+        "question": "What kind of paper stock seems to have been used for the printing of this insert?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Based on the visual structure, is there evidence of separate sections dedicated to warnings and directions?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the leaflet appear to include detailed information regarding the possible side effects of using this medicine?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Observing the layout, is there a distinct area where contact information or a customer service number is visible?",
+        "answer": "Yes"
+      },
+      {
+        "question": "How is the text organized within the sections, such as 'Warnings' or 'Directions'?",
+        "answer": "Bulleted"
+      },
+      {
+        "question": "Judging by the image, what seems to be the overall fold pattern of this drug information leaflet?",
+        "answer": "Panel"
+      },
+      {
+        "question": "Considering the layout, does the leaflet show a clear distinction between active and inactive ingredients?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the visual appearance, what is the approximate number of panels present on this leaflet?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the overall shape of the information presented on this drug information leaflet?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Does the leaflet prominently feature a section specifically designated for 'Other Information'?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

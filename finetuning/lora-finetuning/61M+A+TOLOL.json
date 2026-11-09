@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/70/70226783.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall appearance, what is the dominant color scheme of the presented text?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the visible text, what primary ingredient is explicitly identified?",
+        "answer": "Milk"
+      },
+      {
+        "question": "What specific type of milk is indicated as being a component of this product?",
+        "answer": "Reduced"
+      },
+      {
+        "question": "What vitamin is mentioned, alongside its palmitate form, within the listed components?",
+        "answer": "A"
+      },
+      {
+        "question": "Aside from vitamin A palmitate, what other vitamin is explicitly named in the ingredient list?",
+        "answer": "D3"
+      },
+      {
+        "question": "Observing the text's structure, what is the formatting used to introduce the ingredient listing?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "How many distinct vitamins are mentioned in the provided ingredient information?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the word directly following the word 'Contains' in the second line of text?",
+        "answer": "Milk"
+      },
+      {
+        "question": "What is the typeface or style of the text presented in the displayed image?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Disregarding punctuation, what is the final word in the first line of text?",
+        "answer": "D3"
+      },
+      {
+        "question": "Considering the text's presentation, is the font primarily uppercase or lowercase?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "What word precedes the colon in the first line of the presented text segment?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Judging by the text layout, is the writing aligned left, center, or right?",
+        "answer": "Left"
+      },
+      {
+        "question": "What single word serves as a label to denote the product’s constituent components?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "In the provided text, which word describes the fat content of the milk used?",
+        "answer": "Reduced"
+      }
+    ]
+  }
+]

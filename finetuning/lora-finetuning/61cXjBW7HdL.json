@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/91/91641d08.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the picture frame's visible surface?",
+        "answer": "Silver"
+      },
+      {
+        "question": "What primary geometric shape best describes the frame's overall form?",
+        "answer": "Rectangle"
+      },
+      {
+        "question": "What material appears to constitute the frame's visible outer edges?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Describe the apparent texture of the frame's outer border material?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent reflective property of the frame's visible surfaces?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Considering the beveling, what is the frame's cross-sectional profile?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent thickness of the frame's outer bevel, relative to its width?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Does the frame showcase any discernible surface patterning or ornamentation?",
+        "answer": "No"
+      },
+      {
+        "question": "What type of material seems to be used for the visible inner frame border?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Based on the image, is the frame designed for landscape or portrait orientation?",
+        "answer": "Both"
+      },
+      {
+        "question": "Describe the overall visual impression conveyed by the frame's design aesthetic?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Can you determine whether the frame has a stand or easel for tabletop display?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent visual condition of the frame; is it new or used?",
+        "answer": "New"
+      },
+      {
+        "question": "Does the image show any noticeable flaws or imperfections in the frame?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the material and visual style, how would you classify the frame's style?",
+        "answer": "Modern"
+      }
+    ]
+  }
+]

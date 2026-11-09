@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5d/5d154684.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the visible textile surface?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the most apparent textural quality of the fabric?",
+        "answer": "Ribbed"
+      },
+      {
+        "question": "Considering the weave, what type of fabric is primarily suggested?",
+        "answer": "Knit"
+      },
+      {
+        "question": "What is the overall shape of the presented textile item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on appearance, what is the likely purpose of this textile item?",
+        "answer": "Blanket"
+      },
+      {
+        "question": "Describing the lines, are they uniform or varied in width?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What is the visible color of the border or edge of the item?",
+        "answer": "Gray"
+      },
+      {
+        "question": "How many distinct color shades are perceptually evident in the item?",
+        "answer": "One"
+      },
+      {
+        "question": "Does the textile exhibit a glossy or matte finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the texture, does the textile appear to be soft or rough?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Judging by the visual, what is the general weight of the fabric?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the direction of the dominant lines displayed in the fabric?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Considering the spacing between the raised lines, would you consider the rib to be fine or coarse?",
+        "answer": "Fine"
+      },
+      {
+        "question": "Judging from the image's sharpness, what is the weave density of the fabric?",
+        "answer": "High"
+      },
+      {
+        "question": "Does the fabric show any noticeable pattern other than the ribbing?",
+        "answer": "No"
+      }
+    ]
+  }
+]

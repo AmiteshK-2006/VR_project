@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/24/24d30d5c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular layout, what is the predominant orientation of the textual information presented on the product's label?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the primary color used for the text describing the product's nutritional information, as visibly depicted in the provided image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the visual inspection of the provided image, what is the font style used for the prominent 'Nutrition Facts' heading?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Observing the label, what is the numerical value displayed prominently to represent the total calories per serving, as directly observed?",
+        "answer": "90"
+      },
+      {
+        "question": "What is the background color of the nutritional information panel displayed on the product's label, as observed in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "Focusing on the text, what is the unit of measurement used to describe the serving size of the product, as shown in the image?",
+        "answer": "Cup"
+      },
+      {
+        "question": "Examining the label, what is the specific term used to describe the information pertaining to the product's ingredients and their quantities?",
+        "answer": "Facts"
+      },
+      {
+        "question": "What is the numerical value displayed next to 'Serving Size' in grams (g), as visually confirmed from the product label?",
+        "answer": "140"
+      },
+      {
+        "question": "What is the style of the label's border as visibly observed in the provided image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the overall visual texture of the product's label, based on the image provided?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the label closely, what is the primary material apparent from the visual characteristics?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Considering the visual elements present, is there any imagery apart from text on the label?",
+        "answer": "No"
+      },
+      {
+        "question": "Analyzing the image, what is the type of information conveyed through the major section of the label?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the level of detail in the textual information presented, based on the visual characteristics of the label?",
+        "answer": "Detailed"
+      },
+      {
+        "question": "What is the format of the nutritional information provided on the product label, as indicated in the image?",
+        "answer": "Table"
+      }
+    ]
+  }
+]

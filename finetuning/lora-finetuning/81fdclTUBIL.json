@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4f/4f135e66.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the text displayed on the food label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the font style, what is the overall impression regarding the label's aesthetic?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the background color of the label's main text area?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the shape of the text block containing the ingredient list?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the texture of the label's surface, as inferred from the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall appearance of the text's layout in the image?",
+        "answer": "Organized"
+      },
+      {
+        "question": "Based on the visual design, what is the likely purpose of this label?",
+        "answer": "Informational"
+      },
+      {
+        "question": "What is the style of the lettering in the heading that says \"INGREDIENTS\"?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Considering the text size variations, what is the hierarchical organization of information?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What type of text is predominately used throughout the label’s body?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Observing the text's density, how much information is conveyed on the label?",
+        "answer": "Extensive"
+      },
+      {
+        "question": "What is the visual prominence of the \"PRODUCED IN\" statement compared to the ingredients?",
+        "answer": "Subordinate"
+      },
+      {
+        "question": "Given the text's readability, what is the general ease of understanding the label’s contents?",
+        "answer": "Easy"
+      },
+      {
+        "question": "What is the general condition of the label’s printed text?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the overall visual tone or style conveyed by the label design?",
+        "answer": "Neutral"
+      }
+    ]
+  }
+]

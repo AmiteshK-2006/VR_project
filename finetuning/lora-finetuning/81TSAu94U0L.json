@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fa/fa2fe19a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the presented fabric sample?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "Considering the image, what is the overall texture of this fabric?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on visual inspection, what seems to be the primary material of this item?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Judging from the image alone, is there any visible pattern on the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the fabric show any noticeable sheen or glossiness in the provided image?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent surface quality of the shown fabric; is it rough, or something else?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Considering the image's clarity, what is the apparent thickness or weight of the fabric?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Observing the image, are there any visible flaws or imperfections in the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "From the image alone, can you determine whether the fabric has a discernible weave structure?",
+        "answer": "No"
+      },
+      {
+        "question": "Based solely on visual analysis, how would you describe the general drape of the fabric?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "Judging from the photo, what is the apparent opacity of the textile shown?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Considering only the visual evidence, is there any noticeable piling or fuzziness on the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the general visual impression of this fabric sample based only on this image?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Observing the sample, what is the apparent level of wrinkle resistance displayed?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "Considering the image, how would you describe the apparent softness of this fabric?",
+        "answer": "Soft"
+      }
+    ]
+  }
+]

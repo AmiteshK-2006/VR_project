@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8f/8fafcd6f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the depicted accessory?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary material used in its construction?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Describe the overall shape or form of the presented item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the visible texture, what is the surface feel likely to be?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Based on its appearance, what is the likely function of this object?",
+        "answer": "Carrying"
+      },
+      {
+        "question": "Are there any noticeable fasteners or closures visible on the item?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What type of fastener is prominently displayed on top of the bag?",
+        "answer": "Buckle"
+      },
+      {
+        "question": "Observing the edges, what kind of stitching is employed?",
+        "answer": "Stitched"
+      },
+      {
+        "question": "Describe the visible pattern or design on the exterior surface?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What is the apparent size of the item compared to a typical hand?",
+        "answer": "Small"
+      },
+      {
+        "question": "Judging from the image, is the item rigid or flexible?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Does the product show signs of padding or internal structure?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the visible condition of the item in the provided image?",
+        "answer": "New"
+      },
+      {
+        "question": "Is the surface glossy, matte, or somewhere in between?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the construction, is the item likely water-resistant?",
+        "answer": "Maybe"
+      }
+    ]
+  }
+]

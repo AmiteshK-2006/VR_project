@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fa/fab98ef4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular layout, what is the primary color scheme employed throughout the nutrition facts label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the predominant text formatting style used for the major nutritional component headings, such as 'Total Fat' or 'Sodium'?",
+        "answer": "Bold"
+      },
+      {
+        "question": "In terms of visual hierarchy, what is the size of the numerical value representing 'Calories' per serving, relative to other numerical data on the label?",
+        "answer": "Large"
+      },
+      {
+        "question": "Observing the detailed nutritional information, what is the designated unit of measurement for 'Total Fat' and 'Saturated Fat' quantities?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Focusing on the visual presentation, what is the textual representation of the daily percentage value corresponding to 'Saturated Fat' intake?",
+        "answer": "25%"
+      },
+      {
+        "question": "Concerning the layout, what is the visual element separating each nutritional component from its corresponding daily percentage value?",
+        "answer": "Line"
+      },
+      {
+        "question": "Regarding the visual prominence, what type of font is consistently used for all textual content present on the nutritional facts label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the specific style of the numerical digits used to display the calorie count, distinguishing their visual characteristics?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the orientation of the text within the 'Nutrition Facts' label's rectangular borders, describing the overall directional flow of the information?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the type of visual grid-like structure used to organize the various nutritional data points in a tabular format?",
+        "answer": "Columns"
+      },
+      {
+        "question": "Considering the label's overall design, what is the level of detail provided in relation to the nutritional information itself?",
+        "answer": "Detailed"
+      },
+      {
+        "question": "What is the background color of the nutritional facts panel?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the visual style of the header 'Nutrition Facts', in terms of its text size and weight?",
+        "answer": "Large"
+      },
+      {
+        "question": "Describe the visual structure that separates the 'Nutrition Facts' header from the rest of the content.",
+        "answer": "Space"
+      },
+      {
+        "question": "Considering the layout, what is the alignment of each of the nutritional categories, such as 'Total Fat' and 'Sodium'?",
+        "answer": "Left"
+      }
+    ]
+  }
+]

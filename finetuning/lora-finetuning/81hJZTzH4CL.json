@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/07/072c04f2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular layout and its textual content, what is the primary function of this product's label?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Focusing on the prominent numerical value displayed, what is the total caloric content per serving of this food item?",
+        "answer": "110"
+      },
+      {
+        "question": "Examining the label's structure, what is the unit of measurement for the specified serving size?",
+        "answer": "Cup"
+      },
+      {
+        "question": "Based on the textual information provided, how many servings are included within the container of this product?",
+        "answer": "Eight"
+      },
+      {
+        "question": "According to the detailed nutritional information, what is the amount of total fat, in grams, contained within a single serving?",
+        "answer": "2.5g"
+      },
+      {
+        "question": "Based on the provided data, what is the total carbohydrate content, measured in grams, per serving of the item?",
+        "answer": "13g"
+      },
+      {
+        "question": "As indicated on the label, what is the quantity of protein present in grams within each individual serving?",
+        "answer": "8g"
+      },
+      {
+        "question": "Referencing the label's nutritional breakdown, what is the amount of sodium found in milligrams per serving of the food?",
+        "answer": "125mg"
+      },
+      {
+        "question": "What is the total amount of sugar, expressed in grams, contained in one serving, as detailed in the nutritional information?",
+        "answer": "12g"
+      },
+      {
+        "question": "According to the label's nutritional facts, what is the amount of cholesterol, in milligrams, found within a single serving of the product?",
+        "answer": "15mg"
+      },
+      {
+        "question": "What is the amount of Vitamin D, in micrograms, that is contained within a single serving based on the nutritional label?",
+        "answer": "2.5mcg"
+      },
+      {
+        "question": "As indicated on the label's nutritional facts, what is the amount of calcium present in milligrams per serving of this product?",
+        "answer": "310mg"
+      },
+      {
+        "question": "Based on the nutritional information provided, how much potassium is present, in milligrams, within a single serving of this food item?",
+        "answer": "410mg"
+      },
+      {
+        "question": "What is the amount of Vitamin A, in micrograms, present in a single serving of this product as listed on the label?",
+        "answer": "150mcg"
+      },
+      {
+        "question": "Observing the label's structure, what is the color of the primary text used to convey the majority of the textual information?",
+        "answer": "Black"
+      }
+    ]
+  }
+]

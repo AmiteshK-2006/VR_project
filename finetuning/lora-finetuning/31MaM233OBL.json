@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bb/bbea7964.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the predominant color of the background where the text is displayed?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "Observing the text's visual characteristics, what font style is predominantly used for the words 'INGREDIENTS' and the subsequent ingredient description?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based solely on the visual appearance, what is the case of the letters used in writing 'INGREDIENTS'?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Judging by the visual texture, describe the appearance of the text's print on the yellow background.",
+        "answer": "Bold"
+      },
+      {
+        "question": "In terms of the visual layout, how is the ingredient information structured relative to the 'INGREDIENTS' label?",
+        "answer": "Inline"
+      },
+      {
+        "question": "Focusing on the visual design, what punctuation mark appears after the main ingredient statement?",
+        "answer": "Period"
+      },
+      {
+        "question": "From a purely visual perspective, what word is parenthetically inserted in the ingredient description?",
+        "answer": "Tangerine"
+      },
+      {
+        "question": "Regarding the visual presentation, is the overall text alignment left-justified, right-justified, or centered?",
+        "answer": "Left"
+      },
+      {
+        "question": "Looking at the text's visual characteristics, what is the primary color of the printed text?",
+        "answer": "Black"
+      },
+      {
+        "question": "If you were to describe the visual appearance of the text, which best describes the text's weight: light, regular, or bold?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Based on the visual elements, what word precedes the detailed description of the ingredient?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the visual state of the text, considering factors like clarity and legibility?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What word is used to identify the nature of the product description visually presented?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Considering only what's visually apparent, what is the described ingredient's botanical name?",
+        "answer": "Citrus"
+      },
+      {
+        "question": "Describe the visual presentation of the ingredient's description's style: upper case, lower case, or sentence case?",
+        "answer": "Sentence"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4e/4eeecf2b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what best describes the dominant shape of this item, as shown in the provided image?",
+        "answer": "Oval"
+      },
+      {
+        "question": "Based on the image, what appears to be the primary color of this product?",
+        "answer": "White"
+      },
+      {
+        "question": "What textural pattern is prominently displayed across the majority of the visible surface of this object, as depicted in the image?",
+        "answer": "Wavy"
+      },
+      {
+        "question": "Observing the image closely, what material seems most likely to constitute this object?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "From the provided image, what appears to be the manufacturing technique evident in the texture of this product?",
+        "answer": "Molded"
+      },
+      {
+        "question": "Judging from the picture, what is the most apparent design feature of this item's external surface?",
+        "answer": "Lines"
+      },
+      {
+        "question": "What is the general feel or impression of the surface texture, based solely on the visual provided?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the single most prominent feature that distinguishes this item's exterior design from other possible designs?",
+        "answer": "Ridges"
+      },
+      {
+        "question": "Based solely on the picture, what function might this object plausibly serve, given its appearance?",
+        "answer": "Sole"
+      },
+      {
+        "question": "In reference to the item's visible characteristics in the image, what is the main physical feature indicative of its use or purpose?",
+        "answer": "Grip"
+      },
+      {
+        "question": "Based on the image, what kind of pattern is present on the item's surface?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Based on the image, what is the overall form factor of the object?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Examining the image, can you describe the type of markings on this product?",
+        "answer": "Embossed"
+      },
+      {
+        "question": "What is the most striking visual characteristic that differentiates the object's surface from a plain surface?",
+        "answer": "Texture"
+      },
+      {
+        "question": "What is the visual impression given by the repetition of similar patterns across the item's surface?",
+        "answer": "Uniform"
+      }
+    ]
+  }
+]

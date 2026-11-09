@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e5/e5260f75.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the device's exterior casing?",
+        "answer": "Black"
+      },
+      {
+        "question": "What primary material appears to constitute the device's body?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the overall three-dimensional form of the product shown?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What type of indicator lights are visibly present on the device?",
+        "answer": "LED"
+      },
+      {
+        "question": "What is the texture of the surface where the ventilation holes are located?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What function does the button labeled 'Mute' seem to control?",
+        "answer": "Sound"
+      },
+      {
+        "question": "What is the shape of the power button on the device's face?",
+        "answer": "Circular"
+      },
+      {
+        "question": "How would you characterize the style of the device's control panel?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Considering its design, what is the probable intended purpose of the device?",
+        "answer": "UPS"
+      },
+      {
+        "question": "What indicator light suggests a possible power source failure?",
+        "answer": "AVR"
+      },
+      {
+        "question": "What is the texture of the main body of the shown device?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the function indicated by the words \"On Battery\"?",
+        "answer": "Backup"
+      },
+      {
+        "question": "Based on its visible features, what is a probable function of the numerous small holes visible on the product's side?",
+        "answer": "Ventilation"
+      },
+      {
+        "question": "Describe the finish of the device's surface, is it glossy or not?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What word indicates a potential overload condition?",
+        "answer": "Overload"
+      }
+    ]
+  }
+]

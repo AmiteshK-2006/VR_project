@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a3/a39eb7e3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed fabric sample?",
+        "answer": "Purple"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent material type?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Based solely on the image, how would you describe the fabric's surface texture?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the fabric exhibit any noticeable pattern or design element?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the image, what is the overall visual tone of the fabric?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Considering the image, how would you characterize the fabric's sheen or luster?",
+        "answer": "Slight"
+      },
+      {
+        "question": "Does the image reveal any discernible weave or grain in the fabric?",
+        "answer": "Yes"
+      },
+      {
+        "question": "If you were to touch it, would the texture feel rough or smooth?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent overall shape of the presented material sample?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Is there any visible imperfection, marking, or flaw on the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "In terms of lightness or darkness, how would you classify the purple shade?",
+        "answer": "Deep"
+      },
+      {
+        "question": "Does the image show any hint of a specific fabric type (e.g., linen, cotton)?",
+        "answer": "No"
+      },
+      {
+        "question": "Is there any visible variation in color saturation across the sample?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the general visual uniformity of the fabric's appearance.",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What is the apparent overall quality and finish of the visible fabric?",
+        "answer": "High"
+      }
+    ]
+  }
+]

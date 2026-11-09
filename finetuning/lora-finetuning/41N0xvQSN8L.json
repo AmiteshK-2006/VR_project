@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/84/84d84b24.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the substance shown in the image?",
+        "answer": "Purple"
+      },
+      {
+        "question": "Considering the texture and consistency, what is the apparent form of the product?",
+        "answer": "Paste"
+      },
+      {
+        "question": "Based on its visual characteristics, what is the likely consistency of this product?",
+        "answer": "Creamy"
+      },
+      {
+        "question": "Describe the overall shape formed by the deposited substance in the provided image?",
+        "answer": "Oval"
+      },
+      {
+        "question": "What kind of surface texture is suggested by the visible swirls and peaks?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging from the image, what is the general sheen or luminosity of the product?",
+        "answer": "Shiny"
+      },
+      {
+        "question": "Considering the image, what is the apparent homogeneity or heterogeneity of the product?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What is the apparent viscosity indicated by the way the product is spread?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Does the product display any noticeable granularity or particulate matter?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the visual characteristics, what is the product's overall appearance?",
+        "answer": "Viscous"
+      },
+      {
+        "question": "What can be observed regarding the level of transparency of the substance?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Does the product show any signs of separation or layering in the image?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image's lighting, what type of reflection is exhibited?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What is the depth of color perceived across the entirety of the substance?",
+        "answer": "Deep"
+      },
+      {
+        "question": "What kind of markings or patterns are visible on the surface of the product?",
+        "answer": "Swirls"
+      }
+    ]
+  }
+]

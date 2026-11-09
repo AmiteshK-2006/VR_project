@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f6/f6d10d2a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall shape and form, what best describes the packaged product's geometry?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What dominant color characterizes the majority of the bread's visible surface?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Judging by the visible texture, what is the most apparent characteristic of the bread's surface?",
+        "answer": "Crumbly"
+      },
+      {
+        "question": "What material primarily constitutes the outer packaging of this bread loaf?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What type of packaging encloses the bread, providing protection during transport and storage?",
+        "answer": "Bag"
+      },
+      {
+        "question": "What can you infer about the internal structure of the bread based on its visual appearance?",
+        "answer": "Porous"
+      },
+      {
+        "question": "Based on the visual impression, what is the apparent state or condition of the bread?",
+        "answer": "Fresh"
+      },
+      {
+        "question": "What color is the label on the side of the bread package?",
+        "answer": "White"
+      },
+      {
+        "question": "Disregarding the label, what is the overall color tone of the bread itself?",
+        "answer": "Golden"
+      },
+      {
+        "question": "Considering the visible characteristics, what is the likely type of food product displayed?",
+        "answer": "Bread"
+      },
+      {
+        "question": "What is the apparent size of the bread loaf within its packaging, relative to a standard-sized loaf?",
+        "answer": "Standard"
+      },
+      {
+        "question": "What type of print appears on the nutrition label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Describe the apparent condition of the packaging's seal, considering its integrity and appearance?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Considering the packaging's design, what is its overall aesthetic style?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the primary visible element providing information on the bread's contents?",
+        "answer": "Label"
+      }
+    ]
+  }
+]

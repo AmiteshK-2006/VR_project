@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bb/bbddb2d2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual appearance of the provided image, what is the predominant color observed?",
+        "answer": "Green"
+      },
+      {
+        "question": "Based on the image's text, what primary ingredient is visibly mentioned in the product's description?",
+        "answer": "Saponified"
+      },
+      {
+        "question": "From a visual perspective, what is the apparent format of the product's descriptive text shown in the image?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Judging by the visual elements in the image, what appears to be the texture of the product's background?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "If you were to describe the visual arrangement of words in the image's text, what term would best suit it?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the apparent stylistic quality of the lettering presented in the image's text, if it were to be characterized with a single word?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Focusing solely on the visual aspects of the image, what would you describe as the overall visual density of the presented text?",
+        "answer": "High"
+      },
+      {
+        "question": "What single word best captures the visual clarity of the text in the given image based on the visual elements alone?",
+        "answer": "Blurred"
+      },
+      {
+        "question": "Considering the visual presentation, how would you describe the apparent aesthetic of the text displayed in the provided image?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What single word accurately captures the visual legibility of the text presented in the image?",
+        "answer": "Low"
+      },
+      {
+        "question": "In terms of visual design, what is the most striking attribute of the text blocks shown in the image?",
+        "answer": "Solid"
+      },
+      {
+        "question": "From a purely visual standpoint, what is the dominant visual character of the image?",
+        "answer": "Textual"
+      },
+      {
+        "question": "What is the visual format in which the ingredient list is presented, based on the image alone?",
+        "answer": "List"
+      },
+      {
+        "question": "What is the overall visual contrast present within the textual components displayed in the image?",
+        "answer": "Low"
+      },
+      {
+        "question": "What single word describes the visual presentation style of the product information in the image?",
+        "answer": "Plain"
+      }
+    ]
+  }
+]

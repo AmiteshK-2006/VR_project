@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/37/37a6c37e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the device's exterior?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of the presented docking station?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material appears to constitute the device's casing?",
+        "answer": "Aluminum"
+      },
+      {
+        "question": "Considering the visible ports, what is the device's primary function?",
+        "answer": "Docking"
+      },
+      {
+        "question": "How many USB ports are visibly present on the device's side?",
+        "answer": "Four"
+      },
+      {
+        "question": "What type of video output port is clearly visible on the right?",
+        "answer": "VGA"
+      },
+      {
+        "question": "Is there an ethernet port integrated into this docking station?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the device include a card reader slot, based on image analysis?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What color are the visible USB ports on the docking station?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the apparent finish of the device's surface texture?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the ports, is this primarily a PC or Mac dock?",
+        "answer": "PC"
+      },
+      {
+        "question": "What is the apparent size of the ethernet port, relative to the USB ports?",
+        "answer": "Standard"
+      },
+      {
+        "question": "Besides USB, what other data transfer port types are visible?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "Is there a power connector visible on this product image?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the device appear to be significantly thick or thin?",
+        "answer": "Thin"
+      }
+    ]
+  }
+]

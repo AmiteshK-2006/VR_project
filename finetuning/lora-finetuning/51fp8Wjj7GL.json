@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0f/0ff393e5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the dominant geometric shape of the presented food item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the primary color of the bread, as visually observed?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Based on visual inspection, what material is the primary packaging constructed from?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Judging by the image, what is the apparent texture of the bread's outer surface?",
+        "answer": "SlightlyRough"
+      },
+      {
+        "question": "Examining the image, what kind of label is affixed to the bread packaging?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the visible structural format of the bread, considering its slices and configuration?",
+        "answer": "Loaf"
+      },
+      {
+        "question": "From the image, what appears to be the general condition of the loaf, considering its freshness and integrity?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Observing the visual details, what is the discernible size of this food item, relative to common household items?",
+        "answer": "Standard"
+      },
+      {
+        "question": "In the image, what is the primary type of information contained within the label visible on the product?",
+        "answer": "Facts"
+      },
+      {
+        "question": "What is the overall visible state of the outer bread packaging; considering any signs of damage or wear?",
+        "answer": "Intact"
+      },
+      {
+        "question": "Based on the image, describe the relative translucency of the outer plastic packaging of the bread.",
+        "answer": "Transparent"
+      },
+      {
+        "question": "Based purely on what is visible, describe the apparent consistency of the bread, is it uniform?",
+        "answer": "Even"
+      },
+      {
+        "question": "From the image, determine if there are any visible markings or branding elements on the bread itself.",
+        "answer": "None"
+      },
+      {
+        "question": "What is the apparent density of the bread, judging from its physical presentation in the package?",
+        "answer": "Solid"
+      },
+      {
+        "question": "What is the visible color scheme of the label information provided on the bread packaging?",
+        "answer": "White"
+      }
+    ]
+  }
+]

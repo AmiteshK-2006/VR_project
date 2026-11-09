@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/07/07b5a2da.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape and the detailed text layout, what is the dominant format of this item?",
+        "answer": "Label"
+      },
+      {
+        "question": "Focusing on the textual content, what is the primary purpose of this detailed description?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Given the presence of 'organic' repeatedly throughout, what is a prominent characteristic of the ingredients listed?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Examining the font style and capitalization, how would you describe the overall textual presentation?",
+        "answer": "Formal"
+      },
+      {
+        "question": "Observing the color palette used throughout the text and background, what is the predominant color?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the tone or style of the text, given its formatting and word choices?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Considering the length and density of text blocks, how would you describe the amount of information presented?",
+        "answer": "Extensive"
+      },
+      {
+        "question": "Judging by the numerous food items listed, what is the primary type of information given?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Based on the structure of the text and its various sections, what is the method of presentation?",
+        "answer": "List"
+      },
+      {
+        "question": "Considering the various ingredients listed, which specific grain is prominently featured?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "What specific type of oil is mentioned as an ingredient?",
+        "answer": "Palm"
+      },
+      {
+        "question": "Looking at the text's content, what specific type of sugar is used?",
+        "answer": "Cane"
+      },
+      {
+        "question": "According to the text, what specific leavening agent is used?",
+        "answer": "Bicarbonate"
+      },
+      {
+        "question": "What specific food is mentioned as a potential allergen?",
+        "answer": "Nuts"
+      },
+      {
+        "question": "What specific emulsifier is listed among the ingredients?",
+        "answer": "Lecithin"
+      }
+    ]
+  }
+]

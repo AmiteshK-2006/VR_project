@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bd/bdf8e860.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual information presented, what single food item is predominantly highlighted?",
+        "answer": "Almonds"
+      },
+      {
+        "question": "Based on the provided text, what nut, aside from almonds, is explicitly listed as an ingredient?",
+        "answer": "Cashews"
+      },
+      {
+        "question": "According to the label, what specific type of dried fruit is included among the ingredients?",
+        "answer": "Pineapple"
+      },
+      {
+        "question": "What acidic compound, commonly used as a preservative, is mentioned in the ingredient list?",
+        "answer": "Citric"
+      },
+      {
+        "question": "What type of oil, used extensively in food preparation, appears multiple times within the ingredient list?",
+        "answer": "Sunflower"
+      },
+      {
+        "question": "In addition to the main ingredients, what common seasoning is listed among the components?",
+        "answer": "Salt"
+      },
+      {
+        "question": "What is one of the specific types of dried cherries included in the mix?",
+        "answer": "Tart"
+      },
+      {
+        "question": "Besides almonds and cashews, what other ingredient appears in multiple forms or quantities?",
+        "answer": "Sugar"
+      },
+      {
+        "question": "Referring to the text, what berry is included in a dried and sweetened form?",
+        "answer": "Cranberries"
+      },
+      {
+        "question": "Which word, indicating the nature of the ingredient's processing, is repeated multiple times?",
+        "answer": "Dried"
+      },
+      {
+        "question": "What adjective describes the cherries in the ingredient list, indicating their flavor profile?",
+        "answer": "Sweetened"
+      },
+      {
+        "question": "What word indicates a process that adds sweetness to some ingredients?",
+        "answer": "Sweetened"
+      },
+      {
+        "question": "What word, in the context of the listed ingredients, denotes a salty additive?",
+        "answer": "Sea"
+      },
+      {
+        "question": "Based on the ingredients' descriptions, which word suggests acidity as a component?",
+        "answer": "Acid"
+      },
+      {
+        "question": "What word signifies a general category that several ingredients belong to?",
+        "answer": "Fruit"
+      }
+    ]
+  }
+]

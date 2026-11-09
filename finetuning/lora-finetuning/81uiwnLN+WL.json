@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/dd/ddcd69a4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual presentation, what is the dominant color scheme employed throughout the ingredient list?",
+        "answer": "Black"
+      },
+      {
+        "question": "What typeface is predominantly used to display the various components and their constituent parts?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Describe the text's alignment relative to the boundaries of the rectangular label space.",
+        "answer": "Left"
+      },
+      {
+        "question": "Is the text predominantly capitalized or written in sentence case?",
+        "answer": "Capitalized"
+      },
+      {
+        "question": "What is the style of the listed ingredients (e.g., bullet points, paragraphs, numbered list)?",
+        "answer": "Paragraphs"
+      },
+      {
+        "question": "What punctuation mark is used to separate the different ingredient sections (Crust, Cheese, Sauce, Topping)?",
+        "answer": "Colon"
+      },
+      {
+        "question": "In what type of formatting is the statement concerning allergenic ingredients presented?",
+        "answer": "Sentence"
+      },
+      {
+        "question": "What is the formatting of the words 'CONTAINS WHEAT, SOY AND MILK INGREDIENTS'?",
+        "answer": "Capitalized"
+      },
+      {
+        "question": "Considering the arrangement of textual blocks, what is the overall layout of the ingredient information?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the general background color of the label on which the ingredient list is printed?",
+        "answer": "White"
+      },
+      {
+        "question": "What kind of line spacing is used between ingredient categories and sub-categories?",
+        "answer": "Single"
+      },
+      {
+        "question": "What is the visual character of the text's weight – is it bold, light, or regular?",
+        "answer": "Regular"
+      },
+      {
+        "question": "Observing the overall arrangement, what kind of visual hierarchy is established through the use of spacing and font size?",
+        "answer": "Hierarchical"
+      },
+      {
+        "question": "Considering the individual words, does the label utilize any specific form of visual emphasis beyond capitalization?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the overall visual impression given by the density and length of the ingredient list on the label.",
+        "answer": "Dense"
+      }
+    ]
+  }
+]

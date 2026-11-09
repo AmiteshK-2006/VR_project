@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/28/283f472e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the depicted material sample?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visible texture, what is the likely material type?",
+        "answer": "Leatherette"
+      },
+      {
+        "question": "Based on the image's visual evidence, what is the overall surface finish of the material?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Describe the tactile impression conveyed by the visual texture of the surface.",
+        "answer": "Grainy"
+      },
+      {
+        "question": "What type of visual pattern is noticeable on the surface of the material?",
+        "answer": "Pebbled"
+      },
+      {
+        "question": "Does the material seem to exhibit any significant gloss or shine?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the picture's details, what is the material's apparent thickness?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Considering the visible surface irregularities, how would you describe the material's texture?",
+        "answer": "Textured"
+      },
+      {
+        "question": "From the visual inspection, how uniform is the material's color distribution?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What is the predominant visual characteristic of the material's surface?",
+        "answer": "Texture"
+      },
+      {
+        "question": "What visual sense is most strongly evoked by the image of the product?",
+        "answer": "Touch"
+      },
+      {
+        "question": "Does the sample suggest any visible signs of reflectivity or sheen?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the geometric shape presented in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the overall impression of the material's surface quality?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging from the image alone, what is the material's apparent flexibility?",
+        "answer": "Flexible"
+      }
+    ]
+  }
+]

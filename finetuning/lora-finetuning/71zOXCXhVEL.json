@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b9/b9c63269.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the device's exterior casing?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the overall shape of the main device body?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material appears to constitute the external shell of the device?",
+        "answer": "Aluminum"
+      },
+      {
+        "question": "Considering the visible ports, what is the primary function of this device?",
+        "answer": "Hub"
+      },
+      {
+        "question": "What type of connector is prominently featured on the device's input side?",
+        "answer": "USB-C"
+      },
+      {
+        "question": "Is the surface of the device's casing visibly textured or smooth?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Can you identify the type of video output port present on the device?",
+        "answer": "HDMI"
+      },
+      {
+        "question": "What kind of legacy video port is visible among the device's outputs?",
+        "answer": "VGA"
+      },
+      {
+        "question": "Besides video, what other type of connection port is clearly visible?",
+        "answer": "Ethernet"
+      },
+      {
+        "question": "What is the color of the short cable attached to the device?",
+        "answer": "White"
+      },
+      {
+        "question": "Does the device have any visible branding or markings on its top surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Is the cable connected to the device rigid or flexible?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "What kind of USB port, besides the C-type, is visible on the unit?",
+        "answer": "USB-A"
+      },
+      {
+        "question": "Excluding the power and data ports, are there any other visible features?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the number of ports and their variety, what is the most likely function of this device?",
+        "answer": "Connectivity"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0a/0a53cc08.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the primary shape of the product container?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the dominant color of the sprinkles contained within the jar?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the visual texture, what is the apparent consistency of the sprinkles?",
+        "answer": "Coarse"
+      },
+      {
+        "question": "Judging by its appearance, what material is the main body of the container made from?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Observing the top of the container, what is the lid's apparent material?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the visual details, what is the apparent size of the sprinkles relative to each other?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What is the overall appearance of the label text on the packaging?",
+        "answer": "Legible"
+      },
+      {
+        "question": "Examining the sprinkles, what is their visual form or geometry?",
+        "answer": "Rod-shaped"
+      },
+      {
+        "question": "Does the container display any markings beyond the label and text?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the appearance of the sprinkles' surfaces: are they shiny or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Given the product's nature, what is its intended culinary function?",
+        "answer": "Garnish"
+      },
+      {
+        "question": "Looking closely, does there appear to be any significant size variation among the sprinkles?",
+        "answer": "No"
+      },
+      {
+        "question": "From the image, what seems to be the approximate quantity of sprinkles in the container?",
+        "answer": "Plentiful"
+      },
+      {
+        "question": "Judging from the image, what is the state of the sprinkles – are they compressed, loose or otherwise?",
+        "answer": "Loose"
+      },
+      {
+        "question": "Based on the visual information, what is the container's closure type?",
+        "answer": "Screw-top"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f7/f7e63223.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the material shown in the image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the apparent texture of the displayed surface?",
+        "answer": "Leather"
+      },
+      {
+        "question": "What kind of finish does the material appear to possess, based on its visual qualities?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging from the image, what is the general feel or appearance of the material's surface?",
+        "answer": "Grainy"
+      },
+      {
+        "question": "Considering the image's visual details, what might the primary component of this item be?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Based solely on visual inspection, what is the overall tone or shade of the material shown?",
+        "answer": "Warm"
+      },
+      {
+        "question": "What is the apparent surface characteristic regarding the uniformity of the color?",
+        "answer": "Uneven"
+      },
+      {
+        "question": "From visual assessment, what kind of visual effect is present on the surface?",
+        "answer": "Pebbled"
+      },
+      {
+        "question": "Considering the image, is there a noticeable sheen or glossiness to the material?",
+        "answer": "No"
+      },
+      {
+        "question": "How would you describe the visual pattern or design across the material's surface?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the implied visual depth or dimensionality of the texture?",
+        "answer": "Three-dimensional"
+      },
+      {
+        "question": "Based on the visual characteristics, how would you categorize the color saturation?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Does the visual appearance suggest any specific type of leather?",
+        "answer": "Faux"
+      },
+      {
+        "question": "What is the apparent visual weight or density of the material’s texture?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "Considering the visual characteristics, how would you rate the visual clarity of the texture?",
+        "answer": "Clear"
+      }
+    ]
+  }
+]

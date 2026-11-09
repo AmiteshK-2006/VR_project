@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f7/f7870730.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout and textual organization, what is the dominant visual characteristic of this product image?",
+        "answer": "Text"
+      },
+      {
+        "question": "Disregarding the textual content, what is the most apparent visual property of this item, concerning its color scheme?",
+        "answer": "Black"
+      },
+      {
+        "question": "Given the extensive use of text blocks, what is the evident format or design style of the presented information?",
+        "answer": "Columns"
+      },
+      {
+        "question": "From an aesthetic standpoint, what visual quality best describes the arrangement of the numerous text segments?",
+        "answer": "Structured"
+      },
+      {
+        "question": "Ignoring the content, what is the prevailing visual texture of the product's surface, considering the uniformity of the elements?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based purely on visual observation, what fundamental characteristic defines the image's design concerning the informational layout?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Without considering the written information, what descriptive visual term best captures the image's visual style?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Observing solely the visual properties, describe the material the text seems to be printed on, considering its appearance?",
+        "answer": "Paper"
+      },
+      {
+        "question": "If considering only the visual elements, what single word best captures the overall visual impression of the piece?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Judging only by its visual characteristics, how would you describe the aesthetic quality of the printed information arrangement?",
+        "answer": "Clean"
+      },
+      {
+        "question": "What is the predominant visual feature in this image that directly communicates information, given the absence of other visual components?",
+        "answer": "Typography"
+      },
+      {
+        "question": "Considering purely visual attributes, excluding text meaning, how would you define the product's visual presence?",
+        "answer": "Flat"
+      },
+      {
+        "question": "From a purely visual perspective, what single word reflects the image's compositional arrangement of text blocks?",
+        "answer": "Organized"
+      },
+      {
+        "question": "Based only on the visual presentation, without regard to linguistic content, what is the key visual design element?",
+        "answer": "Blocks"
+      },
+      {
+        "question": "Focusing solely on the visual aspects, disregard the meaning, what is the most striking visual attribute of this item?",
+        "answer": "Monochromatic"
+      }
+    ]
+  }
+]

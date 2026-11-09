@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/34/34037d73.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the primary geometric shape of this container?",
+        "answer": "Cuboid"
+      },
+      {
+        "question": "What is the predominant color of the visible exterior surfaces of this item?",
+        "answer": "White"
+      },
+      {
+        "question": "Based solely on visual inspection, what material seems most likely to be used in its construction?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Observing the structure, how many visibly distinct sections or compartments does the container have?",
+        "answer": "Two"
+      },
+      {
+        "question": "Does the surface of the object appear glossy or matte in the provided image?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Are there any noticeable markings, textures, or patterns imprinted on the visible surfaces?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the apparent visual texture of the container's outer surface, considering the image resolution?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging from the image, does the container appear translucent, opaque, or transparent?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Looking at the edges and corners, how would you describe their general appearance?",
+        "answer": "Squared"
+      },
+      {
+        "question": "Considering the proportions, is the container taller, wider, or roughly equal in height and width?",
+        "answer": "Equal"
+      },
+      {
+        "question": "In the image, are any noticeable seams or joints visible on the visible surfaces?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the object appear to have a lid or any sort of closure mechanism visible in the image?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the image alone, is the container's construction visually solid or flimsy?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Considering the overall presentation, what is the implied usage or function of this container?",
+        "answer": "Storage"
+      },
+      {
+        "question": "What is the visible aspect ratio, approximately, of this container?",
+        "answer": "Square"
+      }
+    ]
+  }
+]

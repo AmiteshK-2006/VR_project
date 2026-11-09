@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/58/58bc8ae3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the presented nutrition facts panel, considering its rectangular borders and content layout?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary color used for the text within the nutrition facts panel, excluding any minor graphical elements?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the background color of the main nutrition facts panel, ignoring any potential borders or highlighting?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the font style used for the header 'Nutrition Facts', taking into account its weight and appearance?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the primary material that the nutrition facts panel appears to be printed on, based on its visual properties?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the text size of the main nutritional value categories (e.g., Total Fat, Sodium) compared to the specific values shown?",
+        "answer": "Larger"
+      },
+      {
+        "question": "What is the alignment of the nutritional values listed in the right-hand column concerning their corresponding categories?",
+        "answer": "Right"
+      },
+      {
+        "question": "Is there a visible border around the nutrition facts panel, and if so, what is its color?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the layout, what is the overall organization style of the nutritional information, such as tabular or paragraph?",
+        "answer": "Tabular"
+      },
+      {
+        "question": "What is the visual weight given to the 'Serving Size' and 'Servings Per Container' information compared to other data?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the apparent texture of the surface on which the nutrition facts are printed based on the image quality?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Do any specific nutritional values stand out visually due to size, highlighting or boldness, compared to others?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the character of the typeface utilized for presenting the serving sizes and caloric information, considering its readability and styling?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the informational layout, what is the general readability of the nutrition facts presented, taking into account organization and font choices?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the overall visual density of the nutrition facts panel, considering text and spacing, qualifying it as sparse, medium or high?",
+        "answer": "Medium"
+      }
+    ]
+  }
+]

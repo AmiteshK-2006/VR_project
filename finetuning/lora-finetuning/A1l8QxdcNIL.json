@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3b/3bce5c05.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the visible wood grain?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What appears to be the primary material of the shown surface?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Considering the visible wood grain, what is its overall texture?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describing the wood grain pattern, what is its general direction?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Based on the image, what type of finish is evident on the wood?",
+        "answer": "Satin"
+      },
+      {
+        "question": "Observing the image closely, is there a noticeable seam present?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What color is the visible seam running through the wood grain?",
+        "answer": "Lighter"
+      },
+      {
+        "question": "What is the approximate width of the central lighter-colored seam?",
+        "answer": "Narrow"
+      },
+      {
+        "question": "Focusing on the wood's surface, are there any significant knots visible?",
+        "answer": "Few"
+      },
+      {
+        "question": "Judging from the visual appearance, what is the wood's overall tone?",
+        "answer": "Warm"
+      },
+      {
+        "question": "Considering the image, how would you describe the wood's luster?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "From the grain patterns visible, does the wood seem to have a tight or open grain?",
+        "answer": "Tight"
+      },
+      {
+        "question": "Looking at the wood, how uniform is the coloration across its visible surface?",
+        "answer": "Mostly"
+      },
+      {
+        "question": "What is the apparent overall condition of the wood’s surface?",
+        "answer": "Good"
+      },
+      {
+        "question": "Based purely on visual inspection, is the wood grain predominantly straight or irregular?",
+        "answer": "Straight"
+      }
+    ]
+  }
+]

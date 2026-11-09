@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5c/5c989ff4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the prominent display and large font size, what is the primary information conveyed on this rectangular label?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Focusing on the nutritional information, what is the total carbohydrate content per serving, as numerically presented?",
+        "answer": "23g"
+      },
+      {
+        "question": "What is the serving size, specifically stated in units of volume measurement, as shown on the label?",
+        "answer": "cup"
+      },
+      {
+        "question": "Observing the numerical values, how many servings are contained within the package, according to the label?",
+        "answer": "30"
+      },
+      {
+        "question": "Based on the displayed nutritional facts, what is the amount of protein, in grams, contained in each serving?",
+        "answer": "3g"
+      },
+      {
+        "question": "What is the total amount of fat in grams contained within a single serving of the product, as indicated by the label?",
+        "answer": "0g"
+      },
+      {
+        "question": "According to the label's quantitative data, what is the amount of dietary fiber, in grams, present in one serving?",
+        "answer": "<1g"
+      },
+      {
+        "question": "What is the total sugar content, expressed in grams, per serving as explicitly stated on the label?",
+        "answer": "0g"
+      },
+      {
+        "question": "Considering the label's structure and content, what type of food product is this likely for?",
+        "answer": "Food"
+      },
+      {
+        "question": "What is the dominant color scheme used for the text and background on this nutritional information label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of this informational display element, considering its dimensions and border?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Disregarding the textual content, what is the physical texture of the surface on which the nutritional facts are printed?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall visual style of this product's label, based on font type, layout, and color selection?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the primary font style used on this label to communicate numerical and textual data?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the format in which the nutritional information is structured and presented on the food label?",
+        "answer": "Table"
+      }
+    ]
+  }
+]

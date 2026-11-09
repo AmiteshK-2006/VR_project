@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8c/8c3a198c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the packaging's primary surface?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of the product's packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material appears to constitute the primary packaging?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the style of the primary graphic design element on the package?",
+        "answer": "Floral"
+      },
+      {
+        "question": "What is the apparent texture of the packaging surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What color are the leaves in the stylized floral design?",
+        "answer": "Multicolored"
+      },
+      {
+        "question": "What kind of graphic is used to indicate cooking instructions?",
+        "answer": "Pot"
+      },
+      {
+        "question": "Describe the color of the text indicating cooking instructions",
+        "answer": "Black"
+      },
+      {
+        "question": "What type of information is shown in the vertical panel on the left?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the shape of the logo design on the front?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What is printed at the bottom center of the package?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "Describe the type of text shown on the back panel?",
+        "answer": "Descriptive"
+      },
+      {
+        "question": "What is the general tone of the color palette used?",
+        "answer": "Pastel"
+      },
+      {
+        "question": "What is indicated about possible ingredients through graphics?",
+        "answer": "Gluten"
+      },
+      {
+        "question": "What is the predominant orientation of the package text?",
+        "answer": "Vertical"
+      }
+    ]
+  }
+]

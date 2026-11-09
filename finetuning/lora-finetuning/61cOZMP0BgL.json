@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4b/4bed038b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary purpose indicated on the label for this medication?",
+        "answer": "Acid"
+      },
+      {
+        "question": "What is the name of the active ingredient prominently displayed on the label?",
+        "answer": "Ranitidine"
+      },
+      {
+        "question": "What is the dosage of the active ingredient in milligrams, as explicitly stated?",
+        "answer": "150"
+      },
+      {
+        "question": "What is the stated form of the active ingredient in the provided label details?",
+        "answer": "mg"
+      },
+      {
+        "question": "What additional chemical name is specified for the active ingredient?",
+        "answer": "hydrochloride"
+      },
+      {
+        "question": "What is the descriptive term used to refer to information about the medicine?",
+        "answer": "Facts"
+      },
+      {
+        "question": "What is the weight of the active ingredient in milligrams, according to the label?",
+        "answer": "168"
+      },
+      {
+        "question": "What word describes the section containing information about the active ingredient?",
+        "answer": "Active"
+      },
+      {
+        "question": "What is the descriptor for the amount of the ingredient within a single unit?",
+        "answer": "tablet"
+      },
+      {
+        "question": "What is the word used to describe the effect of this medicine?",
+        "answer": "reducer"
+      },
+      {
+        "question": "What is the section heading on the label that specifies the medicine's role?",
+        "answer": "Purpose"
+      },
+      {
+        "question": "What word describes the listed components of the medication?",
+        "answer": "ingredient"
+      },
+      {
+        "question": "What is the word before 'ingredient' on the label?",
+        "answer": "Active"
+      },
+      {
+        "question": "What is the word that indicates that the information is about medication?",
+        "answer": "Drug"
+      },
+      {
+        "question": "In what unit is the quantity of the active ingredient measured?",
+        "answer": "mg"
+      }
+    ]
+  }
+]

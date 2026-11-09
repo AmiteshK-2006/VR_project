@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/cb/cb4da7f0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the predominant color of these items?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the image's visual details, what appears to be the primary material used in the construction of these products?",
+        "answer": "Paperboard"
+      },
+      {
+        "question": "Judging from the image, what is the most apparent shape of each individual item shown?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "From a purely visual inspection, what is the apparent surface texture of these products?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Examining the visual elements, are there any noticeable patterns or designs present on the surface?",
+        "answer": "None"
+      },
+      {
+        "question": "Judging by visual appearance alone, how many individual items are depicted in the provided image?",
+        "answer": "Eight"
+      },
+      {
+        "question": "Considering the visual characteristics, what seems to be the likely function or purpose of these products?",
+        "answer": "Binders"
+      },
+      {
+        "question": "Based on the visual data, is there any visible text, branding, or markings on these items?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the visual elements, what is the approximate relative size of each product in relation to one another?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Based on visual assessment, describe the apparent structural integrity or sturdiness of these items.",
+        "answer": "Rigid"
+      },
+      {
+        "question": "From visual inspection, are these items seemingly empty or do they show contents?",
+        "answer": "Empty"
+      },
+      {
+        "question": "Considering the visual aspects, what is the apparent condition of these products; are they new or used?",
+        "answer": "New"
+      },
+      {
+        "question": "Based on visual observation, do the products appear to be designed for single or multiple uses?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "From visual observation, how does the presentation of items suggest their intended usage?",
+        "answer": "Storage"
+      },
+      {
+        "question": "Considering the visual aspects, would you characterize these products as simplistic or ornate in design?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

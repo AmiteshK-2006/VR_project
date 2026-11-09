@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/df/dfa15e49.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the product's packaging?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the overall shape of the item depicted in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material appears to constitute the outer layer of the product?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Considering the product's packaging, what is its apparent texture?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Does the packaging show any noticeable labels or markings?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What kind of printing is visible on the packaging's surface?",
+        "answer": "Text"
+      },
+      {
+        "question": "Are there any symbols or icons present on the box?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent condition of the outer packaging?",
+        "answer": "Intact"
+      },
+      {
+        "question": "Based on visual inspection, how many sides does the box possess?",
+        "answer": "Six"
+      },
+      {
+        "question": "Is there a barcode printed on the outer packaging?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the general style of the printed text on the box?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Does the packaging show any signs of damage or wear?",
+        "answer": "No"
+      },
+      {
+        "question": "Is the packaging primarily illustrated or text-based?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the apparent size of the printed text on the box?",
+        "answer": "Small"
+      },
+      {
+        "question": "Judging by the packaging, what is the likely contents?",
+        "answer": "Chemicals"
+      }
+    ]
+  }
+]

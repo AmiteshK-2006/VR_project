@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e7/e773cf62.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the prominent display and numerical values, what is the primary information conveyed by the rectangular section at the top of this food label?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Examining the detailed breakdown of dietary components, what is the total fat content in grams per serving, as explicitly stated on this nutrition facts panel?",
+        "answer": "7g"
+      },
+      {
+        "question": "Focusing on the macronutrient profile, what is the protein content, in grams, as clearly indicated on this nutritional label?",
+        "answer": "7g"
+      },
+      {
+        "question": "Based on the daily value percentages provided, what is the percentage of the recommended daily intake of saturated fat per serving of this product?",
+        "answer": "23%"
+      },
+      {
+        "question": "Looking at the sodium content, what is the amount of sodium in milligrams per serving, as clearly stated on this nutrition label?",
+        "answer": "230mg"
+      },
+      {
+        "question": "Analyzing the carbohydrate information, how many grams of total carbohydrate are present in a single serving, according to the data presented on this label?",
+        "answer": "1g"
+      },
+      {
+        "question": "Regarding the label's layout, what is the descriptive term utilized to identify the detailed information about the product's nutritional composition?",
+        "answer": "Facts"
+      },
+      {
+        "question": "What is the specific unit of measurement used to quantify the serving size of this food product, as explicitly noted on this nutrition label?",
+        "answer": "cup"
+      },
+      {
+        "question": "According to the nutrition label, what is the approximate number of servings contained within the entire packaging of this food product?",
+        "answer": "8"
+      },
+      {
+        "question": "What is the weight, in grams, of a single serving, as clearly indicated on this food product's nutrition label?",
+        "answer": "28g"
+      },
+      {
+        "question": "What is the descriptive term used on the nutrition label to denote the relative proportion of various nutrients compared to recommended daily intakes?",
+        "answer": "Value"
+      },
+      {
+        "question": "Based on the provided nutritional information, what is the amount of cholesterol in milligrams contained within a single serving of this product?",
+        "answer": "20mg"
+      },
+      {
+        "question": "Referencing the micronutrient data, what is the amount of calcium, in milligrams, present in one serving, according to the label's information?",
+        "answer": "193mg"
+      },
+      {
+        "question": "In terms of daily values, what percentage of the recommended daily intake of cholesterol does one serving of this product provide?",
+        "answer": "7%"
+      },
+      {
+        "question": "What is the specified unit of measurement used on this label to express the amount of vitamins, minerals, and other nutrients?",
+        "answer": "mg"
+      }
+    ]
+  }
+]

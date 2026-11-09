@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f2/f27505ff.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what single word best describes the product's shape as shown in the image?",
+        "answer": "Oval"
+      },
+      {
+        "question": "What color is the dominant visible section of this item, at the bottom?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the apparent primary material making up the majority of this object's structure, based on visual texture and appearance?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Observing the top part, what specific color describes the apparent texture on the product's surface?",
+        "answer": "Silver"
+      },
+      {
+        "question": "In the image, what is the discernible texture of the main body of the product?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Is there any visible pattern or design element prominently displayed on the product's surface?",
+        "answer": "None"
+      },
+      {
+        "question": "Judging from its overall visual appearance, what is the most likely function of this object?",
+        "answer": "Packaging"
+      },
+      {
+        "question": "What specific aspect of the design suggests a practical purpose for containing or protecting something?",
+        "answer": "Seal"
+      },
+      {
+        "question": "Is there any discernible branding, logo, or writing visible anywhere on this product?",
+        "answer": "No"
+      },
+      {
+        "question": "Looking at the image, what single word best captures the visual impression created by this item's finish?",
+        "answer": "Shiny"
+      },
+      {
+        "question": "Considering the visible portion, what is the approximate overall size or scale of the item relative to a human hand?",
+        "answer": "Small"
+      },
+      {
+        "question": "If this were a container, what single-word material is consistent with its apparent lightweight form and appearance?",
+        "answer": "Film"
+      },
+      {
+        "question": "Based on its appearance, does this object seem flexible or rigid?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Does the color in the lower area appear uniform, or does it show any variation or gradient?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Ignoring the blur, what could the faint lines on the white part indicate?",
+        "answer": "Wrinkles"
+      }
+    ]
+  }
+]

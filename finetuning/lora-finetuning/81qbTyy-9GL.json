@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/67/67e1c359.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the product's main body, as visibly depicted in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the overall form, what geometrical term best describes the product's shape?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What is the color of the cap or lid at the base of the product container?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Based on visual inspection, what appears to be the texture of the product's container surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent material of the product's primary packaging, judging from the image alone?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Does the product packaging display any noticeable text or labels, clearly visible in the image?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the visible design features, is the product's packaging ornate or simple?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the apparent size of the product based on overall visual dimensions of the packaging?",
+        "answer": "Large"
+      },
+      {
+        "question": "Does the packaging include any visually obvious bar codes or similar identification markers?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging by its form, is the container designed for dispensing a liquid or solid substance?",
+        "answer": "Liquid"
+      },
+      {
+        "question": "What is the apparent level of fill of the container, if one can visibly infer from the product image?",
+        "answer": "Full"
+      },
+      {
+        "question": "What is the predominant visual style of the information printed on the product label?",
+        "answer": "Text"
+      },
+      {
+        "question": "Observing the label, are the instructions mostly in English or another language?",
+        "answer": "English"
+      },
+      {
+        "question": "Considering the complete packaging, how many distinct colors are visibly present in the image?",
+        "answer": "Two"
+      },
+      {
+        "question": "Is the product's cap or lid affixed tightly or loosely to the main container?",
+        "answer": "Tightly"
+      }
+    ]
+  }
+]

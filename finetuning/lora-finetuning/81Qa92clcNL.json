@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/25/25505ccb.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the nutrition facts label's background, as depicted in the image?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering the overall design, what is the dominant text style employed on the nutrition facts label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the shape of the overall nutrition facts label section, as visually presented?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on visual observation, what is the apparent texture of the nutrition label's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent material of the surface upon which the nutrition facts are printed, based solely on the image?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Observing the image, what is the style of the numerical data presentation within the label?",
+        "answer": "tabular"
+      },
+      {
+        "question": "In terms of layout, how are the nutritional components listed on the label, as shown in the image?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the visual indication of the serving size per container, clearly shown on the label?",
+        "answer": "Six"
+      },
+      {
+        "question": "What numerical value is assigned to the total calories in a single serving, as shown on the label?",
+        "answer": "120"
+      },
+      {
+        "question": "What is the visual style of the percentage values representing daily values, as shown on the label?",
+        "answer": "numeric"
+      },
+      {
+        "question": "What is the visual formatting of the nutritional components' names, considering capitalization and font style?",
+        "answer": "Capitalized"
+      },
+      {
+        "question": "Considering visual clarity, what is the predominant unit of measurement for fats, in grams, shown on the label?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the visual indication of the amount of added sugars, in grams, presented on the label?",
+        "answer": "Zero"
+      },
+      {
+        "question": "Based on the visual appearance, what is the style of the header 'Nutrition Facts' presented in the image?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Considering the visual prominence, what measurement unit is predominantly used for carbohydrates?",
+        "answer": "Grams"
+      }
+    ]
+  }
+]

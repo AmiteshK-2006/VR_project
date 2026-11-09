@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a1/a1d8bf1c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant visible texture of the displayed fabric sample?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Considering the visual appearance, what is the primary color of this fabric?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Based solely on the image, what kind of weave pattern is prominently displayed?",
+        "answer": "Twilled"
+      },
+      {
+        "question": "Judging from the image, what is the general visual impression of the fabric's surface?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What is the apparent thickness or weight of the fabric shown in the close-up image?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Describe the visual uniformity of the color and weave across the fabric sample.",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Observing the image, what seems to be the primary material composition of the fabric?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "What is the overall visual impression regarding the fabric's softness or harshness?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Does the image display any noticeable irregularities, such as discoloration or flaws?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the visual impression of the fabric's drape or how it would hang?",
+        "answer": "Drapable"
+      },
+      {
+        "question": "From the image, what is the apparent luster or sheen of the fabric's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Describe the visual prominence of any visible yarns or threads in the image.",
+        "answer": "Subtle"
+      },
+      {
+        "question": "What is the overall visual impression of the fabric's density?",
+        "answer": "Dense"
+      },
+      {
+        "question": "What is the visible directionality of the fabric's weave?",
+        "answer": "Diagonal"
+      },
+      {
+        "question": "Based on the image alone, what is the visual appearance of the fabric's finish?",
+        "answer": "Natural"
+      }
+    ]
+  }
+]

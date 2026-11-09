@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1e/1e1f98dc.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what is the dominant color scheme of the packaging, based solely on visual inspection?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary text's font style, observed directly from the image's visual presentation?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What kind of list format is used to present the ingredient details, as visually apparent in the image?",
+        "answer": "Bulleted"
+      },
+      {
+        "question": "Based on visual observation, what is the text's alignment style, concerning ingredient descriptions?",
+        "answer": "Left"
+      },
+      {
+        "question": "Judging from the image, what is the case of the text used for the ingredients listing?",
+        "answer": "Upper"
+      },
+      {
+        "question": "What is the overall shape of the area in the image that presents the list of ingredients?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the visual texture of the background area surrounding the ingredient list?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the image present any visible logos or brand markings on the ingredient list?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent visual weight of the 'INGREDIENTS' label compared to the ingredient list itself?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Based on visual analysis, what is the general style of the label's typography?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Judging by its visual appearance in the image, what is the apparent print quality of the text?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Ignoring any text, describe the visual background's dominant shade in the ingredient section.",
+        "answer": "Off-white"
+      },
+      {
+        "question": "What is the apparent visual density of the text within the ingredient list area?",
+        "answer": "High"
+      },
+      {
+        "question": "Regarding the visual presentation, does the ingredient list appear to be formatted in columns or a single column?",
+        "answer": "Single"
+      },
+      {
+        "question": "Describe the overall visual tone conveyed by the image, focusing on the ingredient list.",
+        "answer": "Informative"
+      }
+    ]
+  }
+]

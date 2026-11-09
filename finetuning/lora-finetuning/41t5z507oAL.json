@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b8/b873708c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed item?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the overall smoothness, what is the apparent surface texture?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on its visual attributes, what is the likely material of the object?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Judging by its form, what is the most accurate geometric description?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "From the image, can you discern any visible patterns or designs on the surface?",
+        "answer": "None"
+      },
+      {
+        "question": "Does the object exhibit any visible folds, creases, or wrinkles?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering its dimensions, how would you classify the item's size?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the apparent thickness of the sheet, relative to typical paper stock?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Is there any noticeable sheen or gloss to the object's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Are there any visible perforations, markings, or print on the object?",
+        "answer": "None"
+      },
+      {
+        "question": "Does the object appear to be flexible or rigid in nature?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Observing the edges, are they perfectly straight or slightly irregular?",
+        "answer": "Straight"
+      },
+      {
+        "question": "What is the perceived weight of the item based solely on its visual characteristics?",
+        "answer": "Light"
+      },
+      {
+        "question": "Based on the visible characteristics, what is its apparent condition?",
+        "answer": "New"
+      },
+      {
+        "question": "Considering its visual characteristics, what is its most likely intended use?",
+        "answer": "Writing"
+      }
+    ]
+  }
+]

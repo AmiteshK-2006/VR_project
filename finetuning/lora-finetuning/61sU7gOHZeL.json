@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b0/b0118f68.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the text on the nutritional information panel?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the overall layout, what is the primary text orientation on the nutrition label?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the formatting style used to present the nutritional values (e.g., bold, italics, etc.)?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Based on the visual presentation, what is the unit of measurement for the energy content?",
+        "answer": "kJ"
+      },
+      {
+        "question": "What is the background color of the nutritional information panel?",
+        "answer": "White"
+      },
+      {
+        "question": "Observing the text, what is the font style predominantly used in the nutrition label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the type of information conveyed in the presented image?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the measurement unit used for fat content in the provided nutritional information?",
+        "answer": "g"
+      },
+      {
+        "question": "What is the measurement unit used for carbohydrate content in the provided nutritional information?",
+        "answer": "g"
+      },
+      {
+        "question": "What is the measurement unit for protein content in this nutritional label?",
+        "answer": "g"
+      },
+      {
+        "question": "What is the measurement unit for the salt content, as visibly displayed on the label?",
+        "answer": "g"
+      },
+      {
+        "question": "What is the visual presentation style of the \u2018Typical values per 100g\u2019?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the description of the type of values provided in the nutrition information?",
+        "answer": "Typical"
+      },
+      {
+        "question": "Judging by the visual characteristics, what is the apparent weight unit used?",
+        "answer": "g"
+      },
+      {
+        "question": "Describe the visual clarity and sharpness of the text on the nutritional information panel.",
+        "answer": "Clear"
+      }
+    ]
+  }
+]

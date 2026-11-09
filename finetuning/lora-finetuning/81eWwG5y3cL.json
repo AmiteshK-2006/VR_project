@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ee/eed55fb9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the shoes, as shown in the provided image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the primary material apparent from the shoe's surface texture and sheen?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Considering the overall shape and structure, what style of shoe is depicted?",
+        "answer": "Oxford"
+      },
+      {
+        "question": "Focusing on the toe area, what specific shape does the toe cap exhibit?",
+        "answer": "Captoe"
+      },
+      {
+        "question": "Describe the visible fastening mechanism present on the shoes.",
+        "answer": "Laces"
+      },
+      {
+        "question": "What design detail is visible on the lateral side of the shoe?",
+        "answer": "Brogueing"
+      },
+      {
+        "question": "Characterize the heel height in relation to the sole and overall design?",
+        "answer": "Low"
+      },
+      {
+        "question": "Considering the sole's composition, what seems to be the material?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "What is the apparent finish of the leather, is it matte, glossy or something else?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Observing the stitching, what is the general appearance of the visible seams?",
+        "answer": "Neat"
+      },
+      {
+        "question": "Judging by the image, what is the approximate height of the heel in centimeters?",
+        "answer": "3"
+      },
+      {
+        "question": "What is the design of the sole visible from the rear angle provided?",
+        "answer": "Stacked"
+      },
+      {
+        "question": "From this view, does the shoe appear to have any visible branding or markings?",
+        "answer": "No"
+      },
+      {
+        "question": "In terms of the overall design, how would you classify the shoe's style?",
+        "answer": "Formal"
+      },
+      {
+        "question": "Based on the image, does the shoe seem to have a pointed or rounded toe?",
+        "answer": "Pointed"
+      }
+    ]
+  }
+]

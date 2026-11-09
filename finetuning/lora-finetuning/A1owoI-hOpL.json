@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/7a/7ac4b2ee.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the presented fabric swatch?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering the visual texture, what is the fabric's apparent feel?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image, what is the overall visual texture of the material?",
+        "answer": "Fine"
+      },
+      {
+        "question": "Does the fabric appear to possess a noticeable sheen or gloss?",
+        "answer": "Slight"
+      },
+      {
+        "question": "Judging by the image, what is the overall visual tone of the fabric?",
+        "answer": "Warm"
+      },
+      {
+        "question": "Considering the subtle variations, what is the fabric's visual uniformity?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "What is the primary color family to which this fabric swatch belongs?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "Observing the image closely, what is the fabric's apparent weight or density?",
+        "answer": "Light"
+      },
+      {
+        "question": "Does the fabric show any discernible pattern or print?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the apparent surface finish of this particular fabric sample?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging from the image alone, does the fabric seem woven or knitted?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Is the displayed color solid or does it contain multiple hues?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Based purely on visual assessment, how would you describe the fabric's drape?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Considering visual characteristics, what is the material's likely composition?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Does the image reveal any visible imperfections in the fabric's surface?",
+        "answer": "No"
+      }
+    ]
+  }
+]

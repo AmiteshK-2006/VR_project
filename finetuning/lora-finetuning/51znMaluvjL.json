@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/80/80173e08.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the text on the packaging?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the primary shape of the food packaging?",
+        "answer": "Rectangle"
+      },
+      {
+        "question": "What type of vegetable is depicted on the front of the package?",
+        "answer": "Peas"
+      },
+      {
+        "question": "What material appears to constitute the primary packaging?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on the imagery, what is the overall color of the peas inside?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the apparent texture of the outer packaging surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Can you identify any prominent brand name or logo on the package?",
+        "answer": "SimpleTruth"
+      },
+      {
+        "question": "What kind of information is predominantly featured on the back?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Are there any noticeable seals or certifications displayed?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the size of the text on the nutrition facts panel?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the color of the background of the main label?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the general style of the text font used on the packaging?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Does the packaging indicate whether the product is frozen?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What specific type of peas are indicated on the package?",
+        "answer": "Petite"
+      },
+      {
+        "question": "Is there a barcode visible on the packaging?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

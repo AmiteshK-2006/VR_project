@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e2/e2dbf360.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the phone case's background, as visually apparent in the provided image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the visual texture, what material appears to be predominantly used in the construction of the phone case?",
+        "answer": "Hard"
+      },
+      {
+        "question": "Based on the image, what is the overall shape of the phone case, accounting for its form-fitting design?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the style of text displayed prominently across the phone case's surface, judging by the image.",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the apparent color scheme used for the text overlaying the phone case's background, according to the visual provided?",
+        "answer": "Rainbow"
+      },
+      {
+        "question": "What appears to be the primary function of this product based solely on the given image?",
+        "answer": "Protection"
+      },
+      {
+        "question": "Judging from the visual representation, what is the general nature or tone of the messages inscribed on the phone case?",
+        "answer": "Motivational"
+      },
+      {
+        "question": "Considering the image, what type of material seems to be indicated in the metadata, specifically for the edge protection?",
+        "answer": "TPU"
+      },
+      {
+        "question": "Based on the image, what additional structural element(s) seem to provide extra protection to the phone case?",
+        "answer": "Hard"
+      },
+      {
+        "question": "In the image, are the words on the case organized in a patterned or unpatterned way?",
+        "answer": "Patterned"
+      },
+      {
+        "question": "Describe the visual texture of the phone case's surface, which can be visually assessed in the image provided.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the image, what is the printing method used for the text on the phone case?",
+        "answer": "Digital"
+      },
+      {
+        "question": "Judging by the image, what is the overall look or aesthetic of the phone case design?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Based on the image, what appears to be the phone brand that is compatible with this case?",
+        "answer": "Oppo"
+      },
+      {
+        "question": "From the image, identify the primary design element that distinguishes this phone case from a plain one.",
+        "answer": "Text"
+      }
+    ]
+  }
+]

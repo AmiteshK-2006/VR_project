@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e5/e543faf4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the product packaging, based on the visual appearance?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "Considering the overall shape, what geometrical form best describes the product's packaging?",
+        "answer": "Cuboid"
+      },
+      {
+        "question": "What specific brand name is prominently displayed on the product's packaging?",
+        "answer": "Prestol"
+      },
+      {
+        "question": "Based on the image, what is the primary scent indicated for this air freshener?",
+        "answer": "Citrus"
+      },
+      {
+        "question": "What is the texture of the packaging material, judging from its visual appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What material does the packaging appear to be primarily composed of, based on visual observation?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Describe the style of the text font used for the product name and other information on the packaging",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the general design pattern or style of the box's artwork, excluding text?",
+        "answer": "Floral"
+      },
+      {
+        "question": "What is the primary method of dispensing the product, as visually depicted?",
+        "answer": "Tear"
+      },
+      {
+        "question": "What is the visible weight of the product, as stated on the package?",
+        "answer": "60g"
+      },
+      {
+        "question": "What is the overall design aesthetic of the packaging;  is it simplistic or ornate?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the shape of the small graphic elements on the packaging that repeat?",
+        "answer": "Circular"
+      },
+      {
+        "question": "What color is the secondary color used on the packaging, aside from the main yellow?",
+        "answer": "Green"
+      },
+      {
+        "question": "Describe the overall tone of the packaging design; playful, sophisticated, or serious?",
+        "answer": "Playful"
+      },
+      {
+        "question": "Is there any noticeable embossing or debossing on the packaging?",
+        "answer": "No"
+      }
+    ]
+  }
+]

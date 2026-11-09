@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1d/1d3e6d7a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the granulated substance shown in the image?",
+        "answer": "Yellowish"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent consistency of the product?",
+        "answer": "Granular"
+      },
+      {
+        "question": "Based on the image, what is the overall shape of the pile of product?",
+        "answer": "Mounded"
+      },
+      {
+        "question": "Judging by the size of individual pieces, what is the apparent size of the particles?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the general form of the product, considering its fragmented state?",
+        "answer": "Irregular"
+      },
+      {
+        "question": "Considering the uniformity of color and size, how consistent is the product?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What might be the visual indication of the product's dryness?",
+        "answer": "Dry"
+      },
+      {
+        "question": "Does the image suggest any significant presence of impurities within the product?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent degree of processing indicated by the image's presentation?",
+        "answer": "Processed"
+      },
+      {
+        "question": "Observing the image, what is the apparent moisture content of the product?",
+        "answer": "Low"
+      },
+      {
+        "question": "From the visual presentation, what is the apparent state of the product?",
+        "answer": "Solid"
+      },
+      {
+        "question": "What might be inferred about the fragility of the product based on its form?",
+        "answer": "Fragile"
+      },
+      {
+        "question": "Judging by the image alone, what is the predominant ingredient?",
+        "answer": "Garlic"
+      },
+      {
+        "question": "What is the apparent texture of the individual pieces, based solely on their visual appearance?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Considering the image, is there any visible liquid or moisture present?",
+        "answer": "No"
+      }
+    ]
+  }
+]

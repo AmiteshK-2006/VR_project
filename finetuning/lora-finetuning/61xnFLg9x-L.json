@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a0/a08d839d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the primary subject depicted on the image?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the textual style predominantly used to present nutritional information values?",
+        "answer": "tabular"
+      },
+      {
+        "question": "What is the principal color used for the background of the nutritional facts section?",
+        "answer": "white"
+      },
+      {
+        "question": "What is the color of the text primarily used for the headings and labels within the table?",
+        "answer": "black"
+      },
+      {
+        "question": "What is the texture that seems to be implied by the visual appearance of the nutritional information text?",
+        "answer": "smooth"
+      },
+      {
+        "question": "Considering the structure, what kind of document does the image seem to represent?",
+        "answer": "panel"
+      },
+      {
+        "question": "Describing the layout, what is the overall arrangement or organization of the displayed information?",
+        "answer": "vertical"
+      },
+      {
+        "question": "Based on the image's visual characteristics, what is the apparent format of the presented data?",
+        "answer": "textual"
+      },
+      {
+        "question": "What is the overall design style of the nutritional information panel's presentation?",
+        "answer": "simple"
+      },
+      {
+        "question": "Based on the appearance of the document, what is the likely size or scale of the nutritional facts information?",
+        "answer": "standard"
+      },
+      {
+        "question": "What is the dominant visual feature of the presented nutritional details apart from the textual content?",
+        "answer": "border"
+      },
+      {
+        "question": "What visual element appears to separate the different nutritional components and values?",
+        "answer": "lines"
+      },
+      {
+        "question": "What type of presentation, is employed for the percentage daily value of the macronutrients?",
+        "answer": "numeric"
+      },
+      {
+        "question": "What is the visual impression of the overall contrast between the text and its background?",
+        "answer": "high"
+      },
+      {
+        "question": "What is the visual appearance of the numbers signifying daily values of nutritional elements?",
+        "answer": "bold"
+      }
+    ]
+  }
+]

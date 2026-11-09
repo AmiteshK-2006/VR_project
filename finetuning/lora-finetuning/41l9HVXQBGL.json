@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c6/c698a06d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary ingredient depicted on the label, explicitly stated as being organically sourced?",
+        "answer": "Stevia"
+      },
+      {
+        "question": "What specific part of the stevia plant is utilized in the production process, as shown on the label?",
+        "answer": "Leaf"
+      },
+      {
+        "question": "According to the label, what secondary ingredient constitutes 11% of the product's composition?",
+        "answer": "Alcohol"
+      },
+      {
+        "question": "What additional descriptor is given to the alcohol, as indicated on the product label?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Based on the label, what is the nature of the water used as a base ingredient?",
+        "answer": "Deionized"
+      },
+      {
+        "question": "What other liquid is mentioned in the ingredients as a base for the stevia extract?",
+        "answer": "Water"
+      },
+      {
+        "question": "As per the label's allergen statement, what type of nut is mentioned as potentially being present?",
+        "answer": "Tree"
+      },
+      {
+        "question": "Does the label specify that the product may contain traces of dairy, according to the allergen information?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Besides nuts and dairy, what other potential allergens are listed in the facility processing statement?",
+        "answer": "Eggs"
+      },
+      {
+        "question": "Based on the label's allergen information, is there a possibility of shellfish contamination?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the allergen statement, could the product contain traces of fish products?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the label mention the presence of wheat among the potential allergens?",
+        "answer": "Yes"
+      },
+      {
+        "question": "According to the allergen warning, is there a chance of soy contamination?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the overall textual presentation style used throughout the label's text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the general color scheme of the label's text and background?",
+        "answer": "Monochromatic"
+      }
+    ]
+  }
+]

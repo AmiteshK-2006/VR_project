@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b8/b82f074d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the presented nutrition facts label?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the font style, what is the overall aesthetic of the label's typography?",
+        "answer": "Clean"
+      },
+      {
+        "question": "What numerical value is prominently displayed, indicating energy content?",
+        "answer": "130"
+      },
+      {
+        "question": "What is the unit of measurement used for the serving size of the product?",
+        "answer": "tbsp"
+      },
+      {
+        "question": "What is the total fat content per serving, expressed in grams?",
+        "answer": "14g"
+      },
+      {
+        "question": "Based on the label, what is the amount of saturated fat per serving, in grams?",
+        "answer": "13g"
+      },
+      {
+        "question": "What is the amount of trans fat present in one serving, shown in grams?",
+        "answer": "0g"
+      },
+      {
+        "question": "What is the cholesterol content in milligrams per serving, as indicated?",
+        "answer": "0mg"
+      },
+      {
+        "question": "What is the sodium content per serving, specified in milligrams?",
+        "answer": "0mg"
+      },
+      {
+        "question": "What is the total carbohydrate content per serving expressed in grams?",
+        "answer": "0g"
+      },
+      {
+        "question": "What is the protein content in grams per serving of this food product?",
+        "answer": "0g"
+      },
+      {
+        "question": "What is the number of servings included within the entire container?",
+        "answer": "60"
+      },
+      {
+        "question": "What is the weight of one serving, indicated in grams?",
+        "answer": "14g"
+      },
+      {
+        "question": "What is the primary subject of the presented text information?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the general shape of the nutritional information panel presented?",
+        "answer": "Rectangular"
+      }
+    ]
+  }
+]

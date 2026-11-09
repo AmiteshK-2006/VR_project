@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3d/3d6bb9ca.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the dominant geometric shape of the packaged food item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the primary material used for the edible product in this package?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "Judging from the image, what color best describes the majority of the food product?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Based on visual inspection, what is the apparent texture of the individual slices?",
+        "answer": "Crispy"
+      },
+      {
+        "question": "From a visual standpoint, what kind of packaging encloses the product?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What seems to be the most prominent feature of the packaging material, aside from its transparency?",
+        "answer": "Mesh"
+      },
+      {
+        "question": "Considering the appearance, how many visible layers of food items are there in this package?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "What descriptive term best captures the visual impression of the product's layered structure?",
+        "answer": "Stacked"
+      },
+      {
+        "question": "What is the apparent visual state of the food product \u2013 cooked, uncooked, etc.?",
+        "answer": "Baked"
+      },
+      {
+        "question": "Visually, what type of label or information appears on the packaging?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the color of the small visible part of the label?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the visual impression of the overall packaging regarding its appearance?",
+        "answer": "Neat"
+      },
+      {
+        "question": "Based on visual cues, what type of food is likely contained within?",
+        "answer": "Crackers"
+      },
+      {
+        "question": "Describe the visual impression of the product's surface appearance",
+        "answer": "Flat"
+      },
+      {
+        "question": "Observing the image, what does the color of the food suggest about its potential ingredients?",
+        "answer": "Grainy"
+      }
+    ]
+  }
+]

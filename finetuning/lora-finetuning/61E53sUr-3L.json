@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ca/caa0731a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what best describes the three-dimensional shape of this product package?",
+        "answer": "Sachet"
+      },
+      {
+        "question": "What is the predominant color of the main body of the product's packaging, excluding any labels or branding?",
+        "answer": "White"
+      },
+      {
+        "question": "Observing the bottom edge, what color is the visible portion of the packaging material?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Describing the texture of the main packaging surface, is it smooth or does it show any significant textural features?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the most prominent color used in the design of the branding label displayed on the product package?",
+        "answer": "Red"
+      },
+      {
+        "question": "Based on its appearance, what is the most likely material of the packaging film used for this product?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Looking at the label, what appears to be the primary brand name or product identifier printed there?",
+        "answer": "Roma"
+      },
+      {
+        "question": "Describe the visual style of the label's text, is it a formal serif, a casual script, or something else?",
+        "answer": "Serif"
+      },
+      {
+        "question": "What is the overall design layout of the information contained within the product's label, is it linear, circular, or another layout?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Does the product packaging include any noticeable images or illustrations beyond text-based branding elements?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the size, how would you generally classify this package relative to other product packaging?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the approximate number of distinct blocks of text or design components on the front label of the package?",
+        "answer": "Three"
+      },
+      {
+        "question": "Ignoring the brand text, is there any secondary text on the label seemingly providing more details?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Focus on the top area of the package, what color is the topmost section of packaging visible before the main white part?",
+        "answer": "Orange"
+      },
+      {
+        "question": "Given the structure and form, what is the most likely method for dispensing the product once opened?",
+        "answer": "Tear"
+      }
+    ]
+  }
+]

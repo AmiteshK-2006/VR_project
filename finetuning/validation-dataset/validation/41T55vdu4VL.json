@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/01/01e84aae.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the displayed text on the supplement facts label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the overall presentation, what is the primary purpose of this label, visually apparent from its text and layout?",
+        "answer": "Information"
+      },
+      {
+        "question": "Focusing on the text's structure, what word is prominently featured and capitalized?",
+        "answer": "Supplement"
+      },
+      {
+        "question": "Observing the details, what is the specified serving size indicated on this label?",
+        "answer": "Tablet"
+      },
+      {
+        "question": "What is the specific nutrient highlighted prominently in this nutrition information panel?",
+        "answer": "Potassium"
+      },
+      {
+        "question": "What unit is used to measure the amount of the highlighted nutrient per serving?",
+        "answer": "mg"
+      },
+      {
+        "question": "What is the numerical value stated for the amount of the specified nutrient per serving?",
+        "answer": "99"
+      },
+      {
+        "question": "Referring to the provided daily value, what percentage of the daily requirement does one serving provide?",
+        "answer": "3"
+      },
+      {
+        "question": "What is the format of the information presented, as indicated by the terms used?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Disregarding the numerical data, what descriptor is associated with the form of the highlighted nutrient?",
+        "answer": "chloride"
+      },
+      {
+        "question": "In terms of visual design, what is the shape of the labeled area?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the overall visual texture of the supplement facts label?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the arrangement of the data, what aspect is being emphasized through its placement?",
+        "answer": "Amount"
+      },
+      {
+        "question": "What is the style of font used throughout this label?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Judging by the label's visual clarity, what is the overall readability of the information presented?",
+        "answer": "High"
+      }
+    ]
+  }
+]

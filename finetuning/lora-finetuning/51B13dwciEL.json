@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/50/50209543.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the curtain fabric, as shown in the image?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the overall texture of the curtain fabric presented in the provided image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the visual details, what design pattern is prominently displayed on the curtain?",
+        "answer": "Damask"
+      },
+      {
+        "question": "Based on the image, what appears to be the primary material composition of the curtains?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "Judging from the image's visual characteristics, what is the general sheen of the curtain fabric?",
+        "answer": "Shiny"
+      },
+      {
+        "question": "What is the apparent level of opacity or light-blocking capability of this curtain, based on the image?",
+        "answer": "Sheer"
+      },
+      {
+        "question": "Does the image show any visible stitching or seams along the curtain's visible edges?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the visual representation, what is the approximate vertical dimension of the repeating pattern on the curtain?",
+        "answer": "Large"
+      },
+      {
+        "question": "What is the most noticeable shade variation observed in the curtain's design pattern, according to the image?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "Considering the visual details provided, what is the general style of the curtain design, as displayed?",
+        "answer": "Elegant"
+      },
+      {
+        "question": "Judging from the image, what is the overall appearance of the drape and flow of the curtain fabric?",
+        "answer": "Flowy"
+      },
+      {
+        "question": "Based on the visual details, what kind of visual effect does the design create on the curtain?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "From the image, what seems to be the general level of detail and intricacy in the curtain's pattern?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the type of light reflection visible on the surface of the curtain fabric in the image?",
+        "answer": "Soft"
+      },
+      {
+        "question": "In the provided image, what is the implied weight or thickness of the curtain fabric?",
+        "answer": "Light"
+      }
+    ]
+  }
+]

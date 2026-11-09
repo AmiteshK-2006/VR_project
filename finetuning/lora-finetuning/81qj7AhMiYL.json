@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/23/2360cfc3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the bread's crust, as visibly shown in the product image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the visible texture, what is the apparent surface consistency of the bread?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Based on the image, what type of bread is depicted in its packaging?",
+        "answer": "Sandwich"
+      },
+      {
+        "question": "What kind of grains are explicitly mentioned on the product's label?",
+        "answer": "Ancient"
+      },
+      {
+        "question": "What word describes the overall shape of the packaged bread loaf?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the most apparent material used for the primary packaging of the bread?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Judging by the visible seeds, what ingredient appears to be sprinkled on the bread?",
+        "answer": "Seeds"
+      },
+      {
+        "question": "What single word describes the overall visual state of the bread within the packaging?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "What is the brand name of the bread shown, as displayed prominently on the packaging?",
+        "answer": "365"
+      },
+      {
+        "question": "In reference to the visible branding, what adjective describes the nature of the bread's ingredients?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the visible texture of the bread's interior, as slightly visible through the packaging?",
+        "answer": "Porous"
+      },
+      {
+        "question": "Based on its appearance, what is the general visual category of this food product?",
+        "answer": "Bread"
+      },
+      {
+        "question": "What type of packaging primarily encloses the bread loaf, as visually evident?",
+        "answer": "Wrapper"
+      },
+      {
+        "question": "What is the visible shade of the label's background color near the brand logo?",
+        "answer": "Green"
+      },
+      {
+        "question": "Based on its shape, how would you best describe the loaf's general form within the package?",
+        "answer": "Blocky"
+      }
+    ]
+  }
+]

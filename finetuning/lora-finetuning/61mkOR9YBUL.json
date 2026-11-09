@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2b/2b535602.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the dominant geometric shape of the product container as depicted in the image?",
+        "answer": "Cylinder"
+      },
+      {
+        "question": "Based on visual inspection, what metallic substance appears to constitute the primary material of this product's packaging?",
+        "answer": "Aluminum"
+      },
+      {
+        "question": "Judging from the image, what color predominantly characterizes the label of the canned food item?",
+        "answer": "White"
+      },
+      {
+        "question": "From the image alone, what seems to be the primary text color on the food can's label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Examining the image, what is the most prominent brand name or logo visible on the product packaging?",
+        "answer": "365"
+      },
+      {
+        "question": "What type of visual element or emblem is readily identifiable at the lower part of the label, likely indicating a certification?",
+        "answer": "Logo"
+      },
+      {
+        "question": "Focusing on the image's details, what appears to be the primary method of product identification present on the packaging?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "What kind of additional information is presented on the label, usually found with food products, showing nutritional content?",
+        "answer": "Labels"
+      },
+      {
+        "question": "Analyzing the visual details, what other labels or graphics are seen in the background of the main label, conveying more product information?",
+        "answer": "Graphics"
+      },
+      {
+        "question": "What text indicating dietary specifications, such as low fat or sodium, is highlighted on the can's label?",
+        "answer": "Low"
+      },
+      {
+        "question": "Can you identify any visual indications of product certifications or approval seals on the packaging?",
+        "answer": "Seals"
+      },
+      {
+        "question": "Based solely on visual inspection, what appears to be the texture of the can's outer surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From the visual details alone, what color are the small rectangular blocks located near the brand name on the label?",
+        "answer": "Colorful"
+      },
+      {
+        "question": "Looking at the barcode closely, what is the general color scheme used for the numerical codes within the barcode itself?",
+        "answer": "Black"
+      },
+      {
+        "question": "Observing the image, what type of container is used for this product, specifically designed for preservation and storage?",
+        "answer": "Can"
+      }
+    ]
+  }
+]

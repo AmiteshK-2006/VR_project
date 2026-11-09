@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/25/25b5bf16.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color displayed across the majority of the canvas?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What secondary color is subtly blended into the main color, primarily on the right side?",
+        "answer": "Lavender"
+      },
+      {
+        "question": "Describe the overall visual texture or effect created by the paint application?",
+        "answer": "Washed"
+      },
+      {
+        "question": "What is the apparent surface material of the artwork shown?",
+        "answer": "Canvas"
+      },
+      {
+        "question": "What is the general shape of the artwork's frame or support?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the brushstrokes, what is the painting style or technique?",
+        "answer": "Abstract"
+      },
+      {
+        "question": "Is there a noticeable pattern, repetition, or structured design element?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the approximate orientation of the painted streaks or brushstrokes?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Describe the visible edge profile of the artwork's side or support?",
+        "answer": "Wrapped"
+      },
+      {
+        "question": "Is there a discernible border or frame around the main painted area?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the color gradation, is there a clear focal point?",
+        "answer": "No"
+      },
+      {
+        "question": "Is there a significant contrast between the main color and the secondary color?",
+        "answer": "Slight"
+      },
+      {
+        "question": "Does the artwork appear to be three-dimensional or primarily two-dimensional?",
+        "answer": "Two-dimensional"
+      },
+      {
+        "question": "Based on the image, what is the medium used to create the artwork?",
+        "answer": "Paint"
+      },
+      {
+        "question": "From the image, are any additional elements or details added to the artwork?",
+        "answer": "No"
+      }
+    ]
+  }
+]

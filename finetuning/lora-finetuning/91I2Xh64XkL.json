@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/dd/dd330b64.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color observed across the entire surface?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visible texture, what is the apparent finish of the material?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on the image, what type of surface texture is most apparent?",
+        "answer": "Grainy"
+      },
+      {
+        "question": "Judging from the image's visual characteristics, what material is suggested?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Does the surface exhibit a uniform or varied coloration throughout?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What is the overall visual impression of the surface's reflectivity?",
+        "answer": "Low"
+      },
+      {
+        "question": "Describe the apparent surface evenness, is it smooth or textured?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What is the most apparent surface characteristic that defines its appearance?",
+        "answer": "Grain"
+      },
+      {
+        "question": "Considering the image alone, what kind of light reflection is visible?",
+        "answer": "Diffuse"
+      },
+      {
+        "question": "Is there any significant pattern or design clearly visible on the surface?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the general impression of the depth and intensity of the color?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Does the surface appear to have a glossy or non-glossy sheen?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on its visual attributes, does the product appear to be shiny or dull?",
+        "answer": "Dull"
+      },
+      {
+        "question": "Ignoring any potential use, what would you describe the color as?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Does the image show any obvious flaws or inconsistencies in the surface?",
+        "answer": "No"
+      }
+    ]
+  }
+]

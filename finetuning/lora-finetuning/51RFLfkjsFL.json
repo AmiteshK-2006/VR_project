@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8c/8c53c776.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color observed across the entire visible surface?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What specific texture is predominantly displayed on the material's surface?",
+        "answer": "Fuzzy"
+      },
+      {
+        "question": "Considering the visual appearance, what material seems most likely to be used?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Does the visible portion of the material display any discernable patterns?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image, what is the overall visual impression of the texture?",
+        "answer": "Soft"
+      },
+      {
+        "question": "In terms of its visual properties, how would you describe the overall tone of the image?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Observing the surface detail, are any visible fibers or weaves apparent?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the fabric exhibit a sheen or gloss; if so, to what degree?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the image, is the surface uniformity consistent throughout?",
+        "answer": "Yes"
+      },
+      {
+        "question": "If the material was touched, how might its surface feel?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What is the primary visual characteristic that defines the surface of the material?",
+        "answer": "Texture"
+      },
+      {
+        "question": "Can you identify any discernible markings, prints, or designs on the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the visual texture, is this material likely to be lightweight or heavy?",
+        "answer": "Lightweight"
+      },
+      {
+        "question": "Judging from visual inspection, what is the apparent density of the material?",
+        "answer": "Medium"
+      },
+      {
+        "question": "From the image alone, would you characterize the material as smooth or rough?",
+        "answer": "Rough"
+      }
+    ]
+  }
+]

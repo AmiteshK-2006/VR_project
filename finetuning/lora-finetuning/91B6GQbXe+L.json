@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4d/4d0dbd10.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the jar's contents, as visibly apparent through the glass?",
+        "answer": "Green"
+      },
+      {
+        "question": "What appears to be the primary textural characteristic of the product inside?",
+        "answer": "chunky"
+      },
+      {
+        "question": "Describe the overall shape of the product's container, ignoring the lid.",
+        "answer": "cylindrical"
+      },
+      {
+        "question": "What material seems to comprise the main body of the jar holding the food?",
+        "answer": "Glass"
+      },
+      {
+        "question": "What color is the visible portion of the product's label, excluding graphics?",
+        "answer": "White"
+      },
+      {
+        "question": "Judging by its appearance, what is the likely consistency of the food product?",
+        "answer": "thick"
+      },
+      {
+        "question": "What shape does the jar's lid appear to have, from a top-down perspective?",
+        "answer": "round"
+      },
+      {
+        "question": "What color is the visible portion of the jar's lid, without considering any text or graphics?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the overall appearance, what is the likely format of this product?",
+        "answer": "sauce"
+      },
+      {
+        "question": "What is the apparent material of the jar's lid, based solely on its visual appearance?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Are there any distinctly visible pieces or ingredients within the product?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What style or type of label graphic design is present on the jar?",
+        "answer": "rustic"
+      },
+      {
+        "question": "Describe the overall visual impression of the product's packaging design.",
+        "answer": "simple"
+      },
+      {
+        "question": "Based solely on the visible elements, what seems to be a main ingredient?",
+        "answer": "peppers"
+      },
+      {
+        "question": "What kind of writing appears on the label besides the nutrition facts?",
+        "answer": "text"
+      }
+    ]
+  }
+]

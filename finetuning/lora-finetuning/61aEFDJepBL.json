@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fe/fecf82e9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the topmost visible layer of the product?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the cross-section, what is the apparent texture of the surface layer?",
+        "answer": "Quilted"
+      },
+      {
+        "question": "Based on the image, what is the overall shape of the product depicted?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What color is the bottommost visible layer of the product's cross-section?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Judging from the cutaway view, how many distinct layers are visibly present in the product?",
+        "answer": "Four"
+      },
+      {
+        "question": "What is the apparent primary function of the second layer from the top, considering its visual features?",
+        "answer": "Absorbent"
+      },
+      {
+        "question": "What is the apparent texture or finish of the lowermost visible layer in the cross-section?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging from the image, what is the primary material suggested for the waterproof layer?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What seems to be the purpose of the layer directly underneath the quilted surface, based on the image?",
+        "answer": "Absorption"
+      },
+      {
+        "question": "What is the apparent purpose of the bottom layer based on its visual characteristics?",
+        "answer": "Non-slip"
+      },
+      {
+        "question": "What is the visual characteristic of the layer directly below the absorbent layer?",
+        "answer": "Waterproof"
+      },
+      {
+        "question": "What is the general appearance of the surface layer’s texture based on the image?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Based on visual attributes, what is the apparent design feature integrated into the top layer?",
+        "answer": "Quilting"
+      },
+      {
+        "question": "What is the visible characteristic of the bottommost layer concerning its function?",
+        "answer": "Backing"
+      },
+      {
+        "question": "What is the overall visual impression of the product's layering?",
+        "answer": "Layered"
+      }
+    ]
+  }
+]

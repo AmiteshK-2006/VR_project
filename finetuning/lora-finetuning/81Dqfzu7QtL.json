@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/90/9041e050.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the bottle's body, as visibly depicted in the provided image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What specific material appears to constitute the primary packaging of the supplement?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the general shape of the product container shown in the image.",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What color is the cap or lid on top of the product container?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the image, what seems to be the primary labeling color scheme used on the bottle?",
+        "answer": "Green"
+      },
+      {
+        "question": "Based on the image alone, what is the apparent texture of the bottle's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Is the product container depicted in the image transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Can you identify any apparent symbols or markings present on the bottom of the bottle?",
+        "answer": "GMP"
+      },
+      {
+        "question": "What seems to be the material of the product's cap, judging from the image alone?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What is the general shape of the visible label on the bottle?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What color are the visible text details on the product packaging?",
+        "answer": "Black"
+      },
+      {
+        "question": "Observing the provided image, does the bottle display any noticeable sheen or gloss?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging from the image, is there any visible damage to the product packaging?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on this image, what is the orientation of the label on the product container?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Does the image reveal any specific design features on the bottle beyond the label?",
+        "answer": "No"
+      }
+    ]
+  }
+]

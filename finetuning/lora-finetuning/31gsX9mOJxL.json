@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c3/c3f64f1e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary ingredient explicitly stated on the label, visually apparent in the provided image?",
+        "answer": "Rice"
+      },
+      {
+        "question": "Considering the textual information presented, what specific type of rice is indicated?",
+        "answer": "Arborio"
+      },
+      {
+        "question": "What is the overall visual tone or color palette of the text on the label?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Describe the style of the typeface used in the label's text, as observed visually.",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the apparent background color of the label that displays the ingredients?",
+        "answer": "White"
+      },
+      {
+        "question": "Observing the label, what is the word preceding the colon, indicating the item's composition?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Regarding the visual presentation, how many words are used to list the components?",
+        "answer": "Two"
+      },
+      {
+        "question": "Considering the text's positioning, is it horizontally aligned or vertically aligned on the label?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Regarding the text's visual characteristics, is it written in uppercase or lowercase letters?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Visually assessing the text, is the lettering bold or regular?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Does the visible text on the label have any noticeable decorative elements or embellishments?",
+        "answer": "None"
+      },
+      {
+        "question": "Describe the visual texture of the background of the provided label image.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the image, what is the overall shape of the label containing the ingredients?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the visual appearance or style of the period at the end of the ingredient list?",
+        "answer": "Standard"
+      },
+      {
+        "question": "Based on the image, what is the primary visual method used to convey the ingredient information?",
+        "answer": "Text"
+      }
+    ]
+  }
+]

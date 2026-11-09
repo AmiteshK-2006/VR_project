@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/81/81013607.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's visual characteristics, what single word best describes the font style employed for the 'Ingredients' label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the dominant color of the background surface where the text is printed, based purely on visual observation?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "Based on visual analysis, what is the primary type of grain mentioned on the packaging label?",
+        "answer": "Oats"
+      },
+      {
+        "question": "Observing the text closely, what descriptive term precedes 'Steel Cut Oats'?",
+        "answer": "Organic"
+      },
+      {
+        "question": "From a visual standpoint, what word introduces the list of components shown on the product's label?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Judging solely from the image, what is the overall textual orientation of the labeling on the product?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Considering the image, how would you characterize the visual appearance of the text—bold or light?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the case of lettering predominantly used in the text presented on the product label?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "What punctuation mark follows the product description on the packaging, based on the image alone?",
+        "answer": "Period"
+      },
+      {
+        "question": "What single word describes the spacing between the letters of the text found on the product's label?",
+        "answer": "Even"
+      },
+      {
+        "question": "Based on the image, what style of text is seen, serif or sans-serif?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "From a visual analysis, what is the apparent texture of the background where the text is located?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging solely from the picture, what is the relative size of the text on the packaging; is it large, small, or medium?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Describe the visual clarity of the text shown on the image; is it sharp, blurry or unclear?",
+        "answer": "Sharp"
+      },
+      {
+        "question": "What single word accurately describes the visual alignment of the words on the packaging?",
+        "answer": "Left"
+      }
+    ]
+  }
+]

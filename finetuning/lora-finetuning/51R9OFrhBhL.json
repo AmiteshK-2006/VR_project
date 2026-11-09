@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/db/db9dcb4b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the container's main body?",
+        "answer": "White"
+      },
+      {
+        "question": "What color is the lid of the container?",
+        "answer": "Green"
+      },
+      {
+        "question": "What appears to be the primary material of the container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the overall shape of the product container?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Describing the texture of the container, is it smooth or rough?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What type of closure mechanism is visible on the container?",
+        "answer": "Screw-top"
+      },
+      {
+        "question": "Is there any noticeable branding or labeling visible on the container's body?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What color are the textual elements on the label?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Does the container seem to be transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Judging by the image, does the container appear to be wide or narrow?",
+        "answer": "Wide"
+      },
+      {
+        "question": "What is the apparent size of the container relative to a human hand?",
+        "answer": "Large"
+      },
+      {
+        "question": "Observing the lid, does it seem to be flat or curved?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Based on the appearance, what is the likely function of this container?",
+        "answer": "Storage"
+      },
+      {
+        "question": "Is there any visible damage or imperfection on the container?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the overall design, would you classify the container as simple or ornate?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

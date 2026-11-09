@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/51/5197fc59.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's visual characteristics, what is the primary color of the label's text?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the image, what is the background color of the label?",
+        "answer": "White"
+      },
+      {
+        "question": "Judging by the visual presentation, what is the overall font style of the label text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Describe the visual texture of the label's surface, as observed in the image.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the font size and arrangement, what style of text is predominantly used on the label?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "What is the visual form or shape of the label itself?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the image, what single word best describes the visible text's alignment on the label?",
+        "answer": "Left"
+      },
+      {
+        "question": "What is the apparent material of the label based on its visual appearance?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Given the image, what type of information does this label visually convey?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the visual appearance of the text's spacing in relation to each other?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Based on visual inspection, what is the apparent overall condition of the label?",
+        "answer": "Clean"
+      },
+      {
+        "question": "What is visually noticeable about the density of text on the label?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Considering the visual elements present, does the label show any design elements beyond text?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the visual image, is the text predominantly uppercase or lowercase?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "What is the visible condition of the text, in terms of its clarity and legibility?",
+        "answer": "Clear"
+      }
+    ]
+  }
+]

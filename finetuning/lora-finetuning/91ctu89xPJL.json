@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d6/d64105d4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the device's main body?",
+        "answer": "Black"
+      },
+      {
+        "question": "What material appears to constitute the device's exterior?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What is the overall shape or form factor of this docking station?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the visible ports, what is the device's primary function?",
+        "answer": "Docking"
+      },
+      {
+        "question": "What type of connector is prominently featured on the device's lower-right side?",
+        "answer": "USB"
+      },
+      {
+        "question": "What type of video port is visible near the center of the device?",
+        "answer": "VGA"
+      },
+      {
+        "question": "Does the device's base appear to provide any structural support?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What appears to be the texture of the device's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Is there a noticeable brand name or logo visible on the device?",
+        "answer": "Yes"
+      },
+      {
+        "question": "How many visible USB ports can be clearly identified on the device?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the approximate orientation of the device in the provided image?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Does the device seem to have any noticeable ventilation features?",
+        "answer": "No"
+      },
+      {
+        "question": "What kind of connection port is positioned above the VGA port?",
+        "answer": "HDMI"
+      },
+      {
+        "question": "Can you describe the finish of the device's outer casing?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What kind of connection port is located near the bottom?",
+        "answer": "Ethernet"
+      }
+    ]
+  }
+]

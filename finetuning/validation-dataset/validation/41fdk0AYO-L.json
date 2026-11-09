@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8b/8bc7327e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the dominant geometric shape of the container depicted?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the primary material used in the construction of this product container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on visual assessment, what is the general color of the product's packaging?",
+        "answer": "White"
+      },
+      {
+        "question": "Examining the top of the container, what type of closure mechanism is visible?",
+        "answer": "Cap"
+      },
+      {
+        "question": "Observing the side of the bottle, what type of label appears to be present?",
+        "answer": "Text"
+      },
+      {
+        "question": "Focusing on the bottle's body, what is the apparent surface texture of the product container?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by its appearance, what is the probable capacity or size of this product container?",
+        "answer": "Large"
+      },
+      {
+        "question": "What is the apparent degree of transparency of the product container?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Describe the overall style of the product container in a single word.",
+        "answer": "Simple"
+      },
+      {
+        "question": "Considering the shape of the container, what is its most probable function?",
+        "answer": "Storage"
+      },
+      {
+        "question": "Looking at the edges of the product, what is the appearance of the container's seams?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Describing the label's visibility, how noticeable is the printed information?",
+        "answer": "Faint"
+      },
+      {
+        "question": "Assessing the cap's design, what is its predominant shape?",
+        "answer": "Round"
+      },
+      {
+        "question": "If the product is a liquid, is the container designed to stand upright?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the handle or absence thereof, is this container designed for easy carrying?",
+        "answer": "No"
+      }
+    ]
+  }
+]

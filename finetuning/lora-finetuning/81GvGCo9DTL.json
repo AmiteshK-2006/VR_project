@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f3/f35ba104.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the device's casing, as visibly apparent in the image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visible texture, what material seems to constitute the device's outer shell?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on the image, what is the general shape of the device's main body?",
+        "answer": "Cuboid"
+      },
+      {
+        "question": "What color is the small circular element on the device's upper surface?",
+        "answer": "Gold"
+      },
+      {
+        "question": "Describe the visible connection type used to interface the device with the laptop.",
+        "answer": "USB"
+      },
+      {
+        "question": "What is the apparent material of the connecting cable between the device and the laptop?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the image, what is the visible color of the cable connecting to the laptop?",
+        "answer": "Black"
+      },
+      {
+        "question": "Judging from the image, what is the overall design style of the device?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the apparent finish of the device's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on the visual details, what is the noticeable shape of the visible port on the device?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "From the image, what is the apparent texture of the connecting cable?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the color of the small rectangular element visible near the circular one on the device?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the visible length, describe the cable connecting the device and laptop.",
+        "answer": "Long"
+      },
+      {
+        "question": "Describe the visible surface texture of the laptop on which the device rests.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall visible condition of the device shown in the image?",
+        "answer": "New"
+      }
+    ]
+  }
+]

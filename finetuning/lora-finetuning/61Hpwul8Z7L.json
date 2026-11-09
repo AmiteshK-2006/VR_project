@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f0/f02b55c0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color gradient displayed across the item's surface?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the overall geometric shape of the presented product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent surface finish of the item?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What kind of cut-out detail is present on one edge of the depicted object?",
+        "answer": "Semicircular"
+      },
+      {
+        "question": "Based on the image, what material seems most likely to constitute this object?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the apparent visual function of the depicted item's shape and size?",
+        "answer": "Protective"
+      },
+      {
+        "question": "Judging from the image, what is the general level of glossiness displayed?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the overall design aesthetic that the image communicates for this item?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "From the appearance, what is the general implied level of thickness of the item?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Disregarding dimensions, what is the primary visible feature differentiating this item?",
+        "answer": "Notch"
+      },
+      {
+        "question": "Does the product display any patterns, textures, or visible markings?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent overall visual weight of the product suggested by the image?",
+        "answer": "Light"
+      },
+      {
+        "question": "What is the visual consistency of the color across the displayed product?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Based on its shape and proportions, what might be its intended purpose?",
+        "answer": "Cover"
+      },
+      {
+        "question": "Judging by its appearance, does the object show any visible flaws or damage?",
+        "answer": "No"
+      }
+    ]
+  }
+]

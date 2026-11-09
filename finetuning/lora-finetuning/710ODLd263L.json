@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/14/1403407b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form and packaging, what is the dominant shape of this food product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visible swirls and color variations, what is the most apparent texture of the product?",
+        "answer": "Swirled"
+      },
+      {
+        "question": "What is the primary color of this food product, as seen in the majority of its visible area?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "What secondary color appears in streaks or swirls within the primary color of the product?",
+        "answer": "Amber"
+      },
+      {
+        "question": "Observing the image, what appears to be the material of the main container holding the food product?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Referring to the label, what ingredient is prominently featured through text and imagery?",
+        "answer": "Lavender"
+      },
+      {
+        "question": "What other ingredient is depicted on the label besides the main ingredient highlighted?",
+        "answer": "Honey"
+      },
+      {
+        "question": "Judging from the label's design, what is the brand or producer of this food item?",
+        "answer": "Wholefoods"
+      },
+      {
+        "question": "What is the apparent state of the product; is it solid, liquid, or another form?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Considering the label's illustrative style, what visual element is used to represent honey?",
+        "answer": "Honeycomb"
+      },
+      {
+        "question": "Examining the label's imagery, what floral element is used to represent lavender?",
+        "answer": "Flowers"
+      },
+      {
+        "question": "What is the overall visual impression of the packaging's design; is it modern, rustic, or other?",
+        "answer": "Rustic"
+      },
+      {
+        "question": "What is the apparent level of the product inside the container; full, half, or another?",
+        "answer": "Full"
+      },
+      {
+        "question": "Based on the label's text and images, what could this product be used for?",
+        "answer": "Spread"
+      },
+      {
+        "question": "What is the general style of the label's typography; is it elegant, casual, or other?",
+        "answer": "Casual"
+      }
+    ]
+  }
+]

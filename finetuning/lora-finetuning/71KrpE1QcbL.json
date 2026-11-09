@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/36/36e81cff.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the visible surface of the product?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary material used in the product's construction?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the visible edges and corners, what is the overall shape of this item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging by the image, how many distinct compartments or sections does the product possess?",
+        "answer": "Three"
+      },
+      {
+        "question": "Based on the image, does the product's surface appear glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the apparent texture of the product's outer surface, observed in the provided image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the image, are there any noticeable patterns, designs, or markings present on the item?",
+        "answer": "None"
+      },
+      {
+        "question": "Examining the image carefully, what is the general style or aesthetic of the product?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Does the image suggest the product's structure is comprised of individual pieces or a single mold?",
+        "answer": "Single"
+      },
+      {
+        "question": "From the image, estimate the product's overall height relative to its width?",
+        "answer": "Tall"
+      },
+      {
+        "question": "Considering the product's form, what is its most likely intended use or function?",
+        "answer": "Storage"
+      },
+      {
+        "question": "Does the image clearly depict any branding or manufacturer's markings on the product?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the image, is the construction of the product visibly intricate or straightforward?",
+        "answer": "Straightforward"
+      },
+      {
+        "question": "Considering the product's visual characteristics, would you describe its design as modern or antique?",
+        "answer": "Modern"
+      },
+      {
+        "question": "In observing the image, does the item's construction appear robust or delicate?",
+        "answer": "Robust"
+      }
+    ]
+  }
+]

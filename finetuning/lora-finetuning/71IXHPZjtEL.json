@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d6/d6ab1302.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the handbag shown in the provided image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What appears to be the primary material used in the construction of this handbag?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Considering the overall form, what is the most accurate descriptor for the handbag's shape?",
+        "answer": "Tote"
+      },
+      {
+        "question": "Describe the visible texture of the handbag's outer surface, based solely on the image's visual details?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What design element is prominently featured on the handbag's top handles?",
+        "answer": "Knot"
+      },
+      {
+        "question": "Based on the image, how many handles does the handbag possess for carrying?",
+        "answer": "Two"
+      },
+      {
+        "question": "Considering the visual presentation, what is the apparent size of the handbag?",
+        "answer": "Large"
+      },
+      {
+        "question": "What is the visible style of the handbag's closure mechanism, if any, apparent in the image?",
+        "answer": "Open"
+      },
+      {
+        "question": "Judging by the image, what is the overall aesthetic impression given by the handbag's design?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Describe the apparent stiffness or flexibility of the handbag's structure as shown in the image.",
+        "answer": "Structured"
+      },
+      {
+        "question": "What is the apparent visual finish of the handbag's leather (e.g., glossy, matte)?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on the image, what is the overall silhouette of the handbag?",
+        "answer": "Boxy"
+      },
+      {
+        "question": "What is the apparent style of the bag's top handles (e.g., rolled, flat)?",
+        "answer": "Rolled"
+      },
+      {
+        "question": "Does the image show any visible stitching on the handbag's exterior?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Describe the visual appearance of the handbag's bottom (e.g., flat, rounded).",
+        "answer": "Flat"
+      }
+    ]
+  }
+]

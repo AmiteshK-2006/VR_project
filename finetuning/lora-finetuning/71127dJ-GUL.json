@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6b/6bb5261e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant hue of the liquid contained within the transparent bottle, as observed directly from the image?",
+        "answer": "Purple"
+      },
+      {
+        "question": "Considering the overall structure, what is the most accurate geometric descriptor for the bottle's shape?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What material seems to be predominantly used in the construction of the main body of this dispensing container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Focusing on the dispensing mechanism, what single word best describes the type of lid or closure system that is visible on the top?",
+        "answer": "Pump"
+      },
+      {
+        "question": "Based solely on the visual details provided, what color is the dispensing mechanism, specifically the pump top?",
+        "answer": "White"
+      },
+      {
+        "question": "Examining the label closely, what is the overall design pattern or style seen on the label's background?",
+        "answer": "Striped"
+      },
+      {
+        "question": "What color are the stripes present on the label's design, in relation to the overall background?",
+        "answer": "Purple"
+      },
+      {
+        "question": "Observing the product's label, what is the primary color used for the text on the label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the texture of the bottle, how would you describe the surface finish of the container?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent physical state of the substance held inside the bottle based solely on visual observation?",
+        "answer": "Liquid"
+      },
+      {
+        "question": "Describe the general clarity or transparency of the bottle's material itself, excluding the contents.",
+        "answer": "Clear"
+      },
+      {
+        "question": "What appears to be the primary function of the object shown in the image, based solely on its visible features?",
+        "answer": "Dispensing"
+      },
+      {
+        "question": "What is the primary design element found on the main label that repeats itself across the surface?",
+        "answer": "Stripes"
+      },
+      {
+        "question": "Judging by the image, what is the overall form factor of the product's packaging?",
+        "answer": "Bottle"
+      },
+      {
+        "question": "Regarding the visible label elements, what color are the areas between the stripes?",
+        "answer": "White"
+      }
+    ]
+  }
+]

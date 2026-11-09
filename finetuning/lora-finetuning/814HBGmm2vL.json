@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a4/a439e429.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the items inside the box, based solely on visual observation?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering only the visual evidence, what appears to be the primary material of the long, slender objects within the packaging?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Judging from the image alone, what is the general shape of the individual pieces contained in the cardboard box?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the image, what seems to be the packaging material used for the product?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the apparent texture of the items inside, from what can be visually assessed?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From visual inspection only, how many visible items are neatly arranged within the box?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "Based solely on the image provided, what is the arrangement of the items inside the box?",
+        "answer": "Stacked"
+      },
+      {
+        "question": "Disregarding other information, what is the overall orientation of the items within their packaging?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What seems to be the apparent finish of the objects shown, according to visual analysis?",
+        "answer": "Unfinished"
+      },
+      {
+        "question": "Judging from the visible aspects of the product, is there any noticeable pattern or markings on the items?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering just what is visually apparent, how would you describe the uniformity of the items' lengths?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "What is the apparent thickness of each individual item, from a purely visual inspection?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Based only on what can be seen in the provided image, what is the condition of the packaging?",
+        "answer": "Open"
+      },
+      {
+        "question": "Excluding other information, what is the general state of the items within the box?",
+        "answer": "Neat"
+      },
+      {
+        "question": "Considering only the visible aspects, what is the approximate width of each component in the box?",
+        "answer": "Narrow"
+      }
+    ]
+  }
+]

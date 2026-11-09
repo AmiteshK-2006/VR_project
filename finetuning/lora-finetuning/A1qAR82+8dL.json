@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fe/fe4d1d96.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color observed across the entire surface?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the visual texture, what material is most likely used?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Describe the overall visual texture apparent in the image provided.",
+        "answer": "Grainy"
+      },
+      {
+        "question": "Based on the image, what is the apparent finish of the material?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging from the image, what is the visual pattern of the material?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Does the material exhibit any visible sheen or glossiness?",
+        "answer": "No"
+      },
+      {
+        "question": "Are there any visible markings, imperfections, or patterns besides the texture?",
+        "answer": "None"
+      },
+      {
+        "question": "Does the image show any signs of stitching, seams, or edges?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the implied depth or thickness of the material in the visual representation?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Considering the visual properties, what is the implied weight or density?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "Based on the visual impression, does the surface appear smooth or rough to the touch?",
+        "answer": "Rough"
+      },
+      {
+        "question": "How would you describe the surface's resistance to wrinkles or creases based on the image?",
+        "answer": "Resistant"
+      },
+      {
+        "question": "What is the apparent uniformity of color saturation across the surface area?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Judging by the picture, is the material seemingly pliable or rigid?",
+        "answer": "Pliable"
+      },
+      {
+        "question": "What kind of visual effect does the surface texture create on the overall appearance?",
+        "answer": "Subdued"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fc/fc9a90ec.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant visual texture apparent across the entire fabric sample?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Considering the visual color palette, what single word best describes the overall shade?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Based on visual analysis, what is the primary material composing this fabric?",
+        "answer": "Linen"
+      },
+      {
+        "question": "Observing the weave structure, what is the general pattern of the threads?",
+        "answer": "Plain"
+      },
+      {
+        "question": "In terms of visual lightness and darkness, how would you describe this fabric's shade?",
+        "answer": "Light"
+      },
+      {
+        "question": "Judging from the image, what is the overall visual appearance of the fabric's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the image's resolution, how detailed is the visible weave structure?",
+        "answer": "Fine"
+      },
+      {
+        "question": "What is the primary visual characteristic of the fabric, regarding its construction?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Describe the uniformity of the color across the visible fabric sample area.",
+        "answer": "Consistent"
+      },
+      {
+        "question": "What visual impression does the color give regarding its warmth or coolness?",
+        "answer": "Cool"
+      },
+      {
+        "question": "If categorizing the material, what type of textile is primarily evident?",
+        "answer": "Cloth"
+      },
+      {
+        "question": "Describe the visual representation of the weave density in this textile.",
+        "answer": "Dense"
+      },
+      {
+        "question": "How would you describe the visual level of sheen or gloss on the fabric's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on visual characteristics alone, what is the implied weight or thickness?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Considering visual properties, how would you classify this fabric's visual finish?",
+        "answer": "Natural"
+      }
+    ]
+  }
+]

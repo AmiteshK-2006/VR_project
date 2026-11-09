@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6b/6bd3ebff.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what single word best describes the primary function of this item, as visually conveyed?",
+        "answer": "Information"
+      },
+      {
+        "question": "Based on the visual appearance, what is the dominant color scheme employed in the design of this product?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the discernible texture of the surface where the text is displayed, based on the visual cues provided?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "In the given image, what is the most prominent stylistic element used to enhance readability and organization of the textual content?",
+        "answer": "Blocks"
+      },
+      {
+        "question": "What is the most precise geometric descriptor that encapsulates the physical format of the presented item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary material used for the physical surface where the data is written, as visually apparent?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Judging by the visual characteristics of the image, is the information presented in a two-dimensional or three-dimensional configuration?",
+        "answer": "Two-dimensional"
+      },
+      {
+        "question": "What is the overarching structural arrangement of the visual information presented in the item?",
+        "answer": "List"
+      },
+      {
+        "question": "Considering the image alone, what single descriptor best captures the manner in which the information is conveyed?",
+        "answer": "Textual"
+      },
+      {
+        "question": "What is the visual descriptor for the primary style of lettering employed throughout the given item?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Disregarding the actual words, what single word captures the overall arrangement style of the text blocks in the image?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Visually assessing the image, what single word best captures the relative size of the text shown on the item?",
+        "answer": "Small"
+      },
+      {
+        "question": "Observing the image, what is the implied level of detail in the presentation of the information (high, medium, low)?",
+        "answer": "High"
+      },
+      {
+        "question": "Based solely on visual analysis of the product in the image, what word describes the overall visual aesthetic of the presented information?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the most visible and striking characteristic of the design that separates information into distinct groups?",
+        "answer": "Lines"
+      }
+    ]
+  }
+]

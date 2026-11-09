@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4b/4b508905.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what single word best describes the product's labeling style?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Based on the text's visual characteristics, what is the dominant color of the words?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the single word describing the background color of the label, immediately surrounding the text?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "What single word best describes the texture apparent on the label's surface?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What single word best describes the font style used in the label's text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What single word describes the apparent case of the lettering on the label?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Disregarding the ingredients, what word best describes the style of the upper border on the label?",
+        "answer": "Torn"
+      },
+      {
+        "question": "Focusing solely on the text, which single word best characterizes its alignment?",
+        "answer": "Left"
+      },
+      {
+        "question": "What is the one-word description for the type of information provided on the visible label?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What single word best denotes the overall condition of the label itself based on visual observation?",
+        "answer": "Used"
+      },
+      {
+        "question": "What is the single word that denotes the format of the ingredient list on the label?",
+        "answer": "List"
+      },
+      {
+        "question": "What is the main single-word ingredient listed?",
+        "answer": "Allspice"
+      },
+      {
+        "question": "Considering the label's color scheme, which single word is a suitable description of its tone?",
+        "answer": "Muted"
+      },
+      {
+        "question": "Considering the clarity of the text on the label, which word best captures its readability?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What single word describes the overall form of the text block on the label?",
+        "answer": "Rectangular"
+      }
+    ]
+  }
+]

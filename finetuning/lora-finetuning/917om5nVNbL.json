@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5b/5b79e123.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the handbag shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary material of the handbag's construction?",
+        "answer": "Suede"
+      },
+      {
+        "question": "Considering the overall shape, what type of handbag is depicted?",
+        "answer": "Hobobo"
+      },
+      {
+        "question": "Describe the texture of the handbag's exterior surface based on visual observation.",
+        "answer": "Suede"
+      },
+      {
+        "question": "What is the style of the handbag's shoulder strap, observing its design features?",
+        "answer": "Single"
+      },
+      {
+        "question": "Observing the image carefully, what is the type of closure present on the front of the bag?",
+        "answer": "Zipper"
+      },
+      {
+        "question": "Based on the image, how many visible compartments or pockets are on the exterior of the handbag?",
+        "answer": "One"
+      },
+      {
+        "question": "What is the general shape of the main body of the handbag, as seen from the side?",
+        "answer": "Slouchy"
+      },
+      {
+        "question": "Describe the visible hardware elements such as buckles, zippers, or other metal details on the bag.",
+        "answer": "Metal"
+      },
+      {
+        "question": "Does the bag have any discernible patterns or textures beyond the basic material?",
+        "answer": "None"
+      },
+      {
+        "question": "Based purely on visual observation, what is the overall style of the handbag?",
+        "answer": "Casual"
+      },
+      {
+        "question": "Analyzing the image, does the bag appear to be structured or unstructured in its form?",
+        "answer": "Unstructured"
+      },
+      {
+        "question": "Considering the bag's size and shape, what would be its likely function or use?",
+        "answer": "Shoulder"
+      },
+      {
+        "question": "Describe the visible stitching or seams of the handbag, in terms of their appearance and prominence.",
+        "answer": "Subtle"
+      },
+      {
+        "question": "What is the overall appearance of the bag's bottom, in terms of its structure and shape?",
+        "answer": "Flat"
+      }
+    ]
+  }
+]

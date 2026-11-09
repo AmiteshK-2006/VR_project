@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f1/f1cbd43b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the dominant three-dimensional shape exhibited by the product?",
+        "answer": "Conical"
+      },
+      {
+        "question": "What is the primary hue observed across the majority of the product's surface?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe the visible texture of the material composing this item, focusing on its apparent smoothness or roughness.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the material seemingly used in the creation of this product, based purely on visual observation?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Observing the seams or lines along the product, are they stitched or joined by some other means?",
+        "answer": "Stitched"
+      },
+      {
+        "question": "What is the color of the slender lines running vertically along the product's length?",
+        "answer": "Black"
+      },
+      {
+        "question": "Judging by its construction, what is the most likely intended use for this object?",
+        "answer": "Curtain"
+      },
+      {
+        "question": "Considering its overall form and structure, would you describe its design style as simple or ornate?",
+        "answer": "Simple"
+      },
+      {
+        "question": "In relation to the vertical black lines, how many sections or panels seem to be used in this item's composition?",
+        "answer": "Three"
+      },
+      {
+        "question": "Based on the image, is there any observable pattern or design imprinted on the material?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the visual appearance of the binding or fastening at the center of the product.",
+        "answer": "Band"
+      },
+      {
+        "question": "What appears to be the predominant surface finish of the product's material, as seen in the image?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the product's material seem to possess a significant level of drape or stiffness?",
+        "answer": "Drape"
+      },
+      {
+        "question": "Judging by the image, is the product intended for indoor or outdoor use?",
+        "answer": "Indoor"
+      },
+      {
+        "question": "Does the image reveal any visible damage or imperfections to the product?",
+        "answer": "No"
+      }
+    ]
+  }
+]

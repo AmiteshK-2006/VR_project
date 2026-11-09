@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ff/ff45a7a0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the nutritional information panel displayed in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the font style predominantly used for the textual information on the panel?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the overall shape of the nutritional information panel shown in the provided image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the visual presentation, what is the overall texture of the surface where the nutritional information is printed?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the primary language used for the text displayed on the provided nutritional label?",
+        "answer": "English"
+      },
+      {
+        "question": "Based on the image, what unit of measurement is predominantly used to quantify the nutritional values?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the type of information presented on the given panel, as depicted in the image?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What specific component's nutritional value is highlighted in bold, just below \"Fat\"?",
+        "answer": "Saturates"
+      },
+      {
+        "question": "What is the type of values presented, preceding the breakdown of nutritional components?",
+        "answer": "Typical"
+      },
+      {
+        "question": "What is the specified amount, presented as the reference quantity for the nutritional information?",
+        "answer": "100g"
+      },
+      {
+        "question": "What is the color of the text presented on this nutritional information panel?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the unit of measurement for energy listed in the first line of the nutritional information?",
+        "answer": "kcal"
+      },
+      {
+        "question": "Considering the overall design, how would you classify the visual style of this nutritional information label?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the unit of measurement used for the ‘Salt’ content listed on the panel?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the general appearance of the lines separating the different nutritional components?",
+        "answer": "Straight"
+      }
+    ]
+  }
+]

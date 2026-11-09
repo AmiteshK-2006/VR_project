@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1d/1d972dee.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the nutritional information panel as presented in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary color used for the text on the nutritional information panel?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the background color of the nutritional information panel shown in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the font style predominantly used for the text on the panel?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the image, what is the apparent texture of the nutritional information panel?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the predominant material implied by the visual appearance of the panel?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Based on the image, what is the type of information displayed on the panel?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the unit of measurement used for energy values shown on the panel?",
+        "answer": "kcal"
+      },
+      {
+        "question": "What is the unit of measurement for fat content as presented in the image?",
+        "answer": "g"
+      },
+      {
+        "question": "What is the unit of measurement for carbohydrate content as visually apparent on the panel?",
+        "answer": "g"
+      },
+      {
+        "question": "What is the unit of measurement used for protein content as shown on the panel?",
+        "answer": "g"
+      },
+      {
+        "question": "What is the unit of measurement for salt content as visually evident in the image?",
+        "answer": "g"
+      },
+      {
+        "question": "What is the text size relative to the panel size, considering the image provided?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the style of the text, considering the visual elements of capitalization and line spacing?",
+        "answer": "Formal"
+      },
+      {
+        "question": "What appears to be the level of detail and clarity for the text as shown in the image?",
+        "answer": "Clear"
+      }
+    ]
+  }
+]

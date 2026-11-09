@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fc/fcc9fb37.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout and structure, what is the primary function of this rectangular item, as clearly indicated by its prominent text and numerical data?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the dominant color used for the main text blocks that provide the product's nutritional information, clearly visible throughout the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Observing the detailed breakdown of fat content, what is the specific type of fat reported with a quantity of 1 gram, as shown in the second row?",
+        "answer": "Saturated"
+      },
+      {
+        "question": "What is the type of nutritional information, presented in a table format and clearly labeled at the top, that this product label primarily delivers?",
+        "answer": "Facts"
+      },
+      {
+        "question": "What is the unit of measurement used to quantify the 'Total Fat' content, as prominently displayed in the list of nutritional components?",
+        "answer": "grams"
+      },
+      {
+        "question": "Looking at the quantitative information regarding sodium, what specific unit is used to measure the amount present in this food item?",
+        "answer": "mg"
+      },
+      {
+        "question": "According to the label, what is the total amount of calories in one serving of this particular product, as clearly indicated by the large number at the top?",
+        "answer": "130"
+      },
+      {
+        "question": "In the context of the product's nutritional information, how many servings are approximately contained within the product's packaging?",
+        "answer": "Eight"
+      },
+      {
+        "question": "Focusing on the carbohydrate section, what is the specific type of carbohydrate listed as less than 1 gram in this product\u2019s nutritional profile?",
+        "answer": "Dietary"
+      },
+      {
+        "question": "What is the unit of measurement consistently used to quantify the amounts of various vitamins and minerals listed towards the bottom of the nutritional information?",
+        "answer": "mg"
+      },
+      {
+        "question": "What is the specific term used to describe the amount of sugar added to this particular product, as clearly denoted in the label?",
+        "answer": "Added"
+      },
+      {
+        "question": "What is the text displayed prominently at the very top of the rectangular item, serving as a primary label and descriptor for the contents?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "In the section describing the fat content, what is the specific term used to describe fat with a value of 0 grams in this food item's nutritional profile?",
+        "answer": "Trans"
+      },
+      {
+        "question": "Referring to the information regarding the daily value percentage of sodium, what numerical value, expressed as a percentage, is prominently shown?",
+        "answer": "12"
+      },
+      {
+        "question": "Focusing on the protein content of a single serving, what is the numerical value that represents the amount of protein listed in grams, as shown in the table?",
+        "answer": "2"
+      }
+    ]
+  }
+]

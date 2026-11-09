@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/34/34dc7218.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the image's texture, what is the apparent fabric type?",
+        "answer": "Velvet"
+      },
+      {
+        "question": "Based on the folds and drape, what is the likely texture of the fabric?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Judging by the image, how would you describe the sheen of the fabric?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "From the visual presentation, what is the overall visual impression of the fabric?",
+        "answer": "Luxurious"
+      },
+      {
+        "question": "Considering the visible fibers and weave, what kind of fabric is suggested?",
+        "answer": "Pile"
+      },
+      {
+        "question": "What is the general appearance of the material, considering its folds and lighting?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the folds, what is the apparent weight or hand of the fabric?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "What is the primary direction of the visible fabric folds shown in the image?",
+        "answer": "Diagonal"
+      },
+      {
+        "question": "Based on the image's close-up view, are there any noticeable patterns?",
+        "answer": "None"
+      },
+      {
+        "question": "From the visual texture, does the fabric appear to be tightly or loosely woven?",
+        "answer": "Tightly"
+      },
+      {
+        "question": "In terms of light reflection, is the fabric matte or glossy?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on the image, is the material transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Judging by the way the fabric drapes, is it stiff or pliable?",
+        "answer": "Pliable"
+      },
+      {
+        "question": "Considering the image quality, is the fabric's surface uniformly colored?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

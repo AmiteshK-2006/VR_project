@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/12/12e67c20.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form and texture, what is the dominant shape of this object, as visually apparent?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Based on the visual appearance of the surface, what material seems to constitute this product?",
+        "answer": "Foam"
+      },
+      {
+        "question": "Judging solely from the image, what is the primary color observed throughout the product?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the visible texture, what tactile quality would you primarily associate with this item?",
+        "answer": "Rigid"
+      },
+      {
+        "question": "Given the design, what is the most likely function of this object, as visually suggested by its structure?",
+        "answer": "Massage"
+      },
+      {
+        "question": "What is the name of the brand visibly present on the product, based on the image alone?",
+        "answer": "Amazonbasics"
+      },
+      {
+        "question": "Describe the pattern visible across the product's surface, considering the repeating units observed?",
+        "answer": "Ribbed"
+      },
+      {
+        "question": "What is the most noticeable aspect of the object's surface, relating to its bumps or ridges?",
+        "answer": "Textured"
+      },
+      {
+        "question": "In the context of its apparent function, what physical characteristic of the product is most crucial?",
+        "answer": "Firmness"
+      },
+      {
+        "question": "Considering the size and shape, what would be the most likely method of handling this product?",
+        "answer": "Grip"
+      },
+      {
+        "question": "Focusing on the visual detail, what design element is repeatedly observed along the length of the cylinder?",
+        "answer": "Sections"
+      },
+      {
+        "question": "Based only on visual evidence, what is the most noticeable feature of this product's surface design?",
+        "answer": "Grooves"
+      },
+      {
+        "question": "Given the appearance, how would you classify the product's overall physical state, as perceived from the image?",
+        "answer": "Solid"
+      },
+      {
+        "question": "What is the most evident and repeated component of the item's overall surface?",
+        "answer": "Ridges"
+      },
+      {
+        "question": "What can be visually inferred as the purpose or usage of this product from its design?",
+        "answer": "Therapy"
+      }
+    ]
+  }
+]

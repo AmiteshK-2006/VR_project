@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/af/af24f61b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the provided image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent material of the displayed item?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Based on the image's visual details, what is the overall surface texture of the fabric?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Does the image depict a uniform color throughout the fabric, or is there variation?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Judging by the image's visual detail, what is the general appearance of the fabric's weave?",
+        "answer": "Fine"
+      },
+      {
+        "question": "Describe the visual appearance of the fabric, considering the visible fibers and their arrangement.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the primary visual characteristic observed across the entire surface of the fabric sample?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Judging from the visible texture, is the fabric shown likely to feel rough or soft to the touch?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Based on the provided image's visual clues, is the fabric's visual pattern geometric or organic?",
+        "answer": "None"
+      },
+      {
+        "question": "Does the provided image reveal any patterns or designs printed on or woven into the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "From the image, does the fabric show any visible sheen or a matte finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Given the visual texture, how would you describe the density of the fabric's weave?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Considering the visible characteristics, is the fabric's texture consistent or inconsistent throughout?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Does the image suggest the fabric is thick or thin based on visual observations alone?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Based on visual inspection, what is the overall impression of the fabric's visual quality?",
+        "answer": "Subtle"
+      }
+    ]
+  }
+]

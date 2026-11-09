@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/88/88da6b2c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape and the clearly visible text blocks, what is the primary format of this product's information display?",
+        "answer": "Label"
+      },
+      {
+        "question": "Based on the prominent textual information presented in a structured tabular format, what specific nutritional details are provided?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Observing the textual content, what is the primary function or purpose of this labeled item?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Focusing on the quantitative data, what is the total caloric value per serving as clearly indicated?",
+        "answer": "110"
+      },
+      {
+        "question": "Looking at the numerical values associated with macronutrients, what is the total amount of carbohydrates in grams per serving?",
+        "answer": "27g"
+      },
+      {
+        "question": "Considering the detailed breakdown of components, what is the total sugar content per serving expressed in grams?",
+        "answer": "24g"
+      },
+      {
+        "question": "Examining the specific values for micronutrients, what is the amount of calcium per serving listed in milligrams?",
+        "answer": "30mg"
+      },
+      {
+        "question": "Considering the serving size specification, what is the recommended amount to consume in tablespoons?",
+        "answer": "2"
+      },
+      {
+        "question": "Based on the information provided, what is the total number of servings approximately contained within the product packaging?",
+        "answer": "32"
+      },
+      {
+        "question": "In reference to the quantitative data for fats, what is the total fat content per serving in grams?",
+        "answer": "0g"
+      },
+      {
+        "question": "Referring to the data for protein, what is the amount of protein in grams per serving?",
+        "answer": "0g"
+      },
+      {
+        "question": "What is the background color of this product's label, based purely on visual observation?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the visual presentation of the text, what is the primary font color used for the label's information?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the texture that is visually perceivable from the label's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the label's structure, what is the dominant orientation of the text blocks?",
+        "answer": "Vertical"
+      }
+    ]
+  }
+]

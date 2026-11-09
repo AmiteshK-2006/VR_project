@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a5/a5794f3a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the majority of the peppercorns shown in the provided image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the visible peppercorns, what is their overall shape described in a single word?",
+        "answer": "Round"
+      },
+      {
+        "question": "Based on the image, what appears to be the primary texture of the individual peppercorns?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What is the apparent size of the peppercorns relative to one another, described using one word?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "From the image, what is the general form of the peppercorn pile shown?",
+        "answer": "Mound"
+      },
+      {
+        "question": "Describe the visible surface of the peppercorns based on their appearance, using only one word.",
+        "answer": "Wrinkled"
+      },
+      {
+        "question": "Given the image, what single word best describes the peppercorns' visual consistency?",
+        "answer": "Dry"
+      },
+      {
+        "question": "What single word best captures the visible arrangement of the peppercorns?",
+        "answer": "Loose"
+      },
+      {
+        "question": "If considering the overall darkness of the peppercorns, which single word would you use?",
+        "answer": "Dark"
+      },
+      {
+        "question": "What single word best describes the peppercorns' apparent state, considering their dryness?",
+        "answer": "Hard"
+      },
+      {
+        "question": "What is the most obvious feature observed on the surface of most of the peppercorns?",
+        "answer": "Bumps"
+      },
+      {
+        "question": "Disregarding variations, what is the single-word descriptor for the majority peppercorn color?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Focusing solely on the visual aspect, what is the apparent culinary classification of the item?",
+        "answer": "Spice"
+      },
+      {
+        "question": "Considering the visual characteristics, which word best summarizes the peppercorn's physical form?",
+        "answer": "Granular"
+      },
+      {
+        "question": "From the visual information provided, what is the natural state of the peppercorns depicted?",
+        "answer": "Whole"
+      }
+    ]
+  }
+]

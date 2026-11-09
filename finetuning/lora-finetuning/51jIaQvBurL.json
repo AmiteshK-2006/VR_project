@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1d/1dea1525.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color displayed prominently on the product's label, visually representing its brand identity and likely flavor profile?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "Considering the overall structure and form factor, what is the geometric shape of the container holding the product, as visibly depicted in the image?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Based on the image's visual texture and clarity, what is the apparent surface finish of the product's container, suggesting its manufacturing process and material properties?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Observing the label's typography, what is the style of the font used for the product's name and key information, conveying a particular brand aesthetic?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Focusing on the labeling, what is the primary written information conveyed on the largest area of the product's label, describing its key composition?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Considering the materials used, what appears to be the primary material of the container holding the product, indicated by its surface appearance and perceived properties?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Examining the label's design, what is the most noticeable design element beyond the text, adding visual interest and brand reinforcement?",
+        "answer": "Gradient"
+      },
+      {
+        "question": "From the provided image, what is the clearly visible information on the label that indicates the product's intended use and type?",
+        "answer": "Olive"
+      },
+      {
+        "question": "By observing the product label, what is the format in which the nutritional details are presented, standardizing dietary information?",
+        "answer": "Table"
+      },
+      {
+        "question": "In the visual display of the product's label, what is the most prominent textual element indicating the product's categorization and composition?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Based on the visual inspection, what is the overall style and appearance of the product's label design, implying a brand's approach to marketing?",
+        "answer": "Clean"
+      },
+      {
+        "question": "From the available image, what is the textual information presented on the label that lists the various countries of origin for the ingredients?",
+        "answer": "Countries"
+      },
+      {
+        "question": "From the visual details provided, what is the type of information that the label prominently displays about the product\u2019s contents in a structured way?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Judging from the image, what is the textual information on the label that specifies a date relevant to the product's consumption?",
+        "answer": "Date"
+      },
+      {
+        "question": "In the given image, what is the type of information provided on the label, concerning the serving size of the product in both metric and customary units?",
+        "answer": "Serving"
+      }
+    ]
+  }
+]

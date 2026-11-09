@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fb/fb564c33.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed material sample?",
+        "answer": "Taupe"
+      },
+      {
+        "question": "What is the apparent texture of the surface shown in the image?",
+        "answer": "Grainy"
+      },
+      {
+        "question": "Judging from the image, what is the most likely material type?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Describe the visual uniformity of the material's surface texture?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Based on the image, what is the general visual impression of the material?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the visual details, what is the finish of the material?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the image reveal any noticeable pattern on the material's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall appearance of the depicted material?",
+        "answer": "Solid"
+      },
+      {
+        "question": "How would you describe the color saturation of the presented material?",
+        "answer": "Low"
+      },
+      {
+        "question": "From a visual perspective, how would you describe the material's sheen?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "Considering the visual details, is the material's color light or dark?",
+        "answer": "Light"
+      },
+      {
+        "question": "Describe the overall visual tone of the material's color.",
+        "answer": "Neutral"
+      },
+      {
+        "question": "Does the image depict any visible imperfections on the material's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "What kind of visual impression does the material's surface give?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Based on visual characteristics, what is the apparent thickness of this material?",
+        "answer": "Medium"
+      }
+    ]
+  }
+]

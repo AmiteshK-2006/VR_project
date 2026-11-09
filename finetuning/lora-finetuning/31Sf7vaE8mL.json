@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/13/137e7bc9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary substance visibly indicated as a component of this product, judging from its label?",
+        "answer": "Soywax"
+      },
+      {
+        "question": "Based on the label's text, what secondary ingredient is explicitly mentioned as a constituent of this item?",
+        "answer": "Fragrance"
+      },
+      {
+        "question": "Considering the label's details, what type of oil is listed among the product's ingredients?",
+        "answer": "Essential"
+      },
+      {
+        "question": "What descriptive term, parenthetically presented, modifies the 'fragrance' ingredient on the product label?",
+        "answer": "Natural"
+      },
+      {
+        "question": "Observing the label closely, what is the dominant color of the text?",
+        "answer": "Black"
+      },
+      {
+        "question": "Judging from the label's visual characteristics, what would you describe the background color of the text as?",
+        "answer": "White"
+      },
+      {
+        "question": "What single word describes the overall shape of this item's label, as it is shown?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the text's presentation on the label, what is the overall style of the lettering?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Describe the case of the lettering on the product label, as it visually presents itself?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Considering the image, what single word best describes the texture of the label's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What single word best describes the overall appearance of the label's background?",
+        "answer": "Plain"
+      },
+      {
+        "question": "What single word best describes the label's visual clarity?",
+        "answer": "Legible"
+      },
+      {
+        "question": "In what format is the ingredients list primarily presented on the label?",
+        "answer": "Text"
+      },
+      {
+        "question": "Describe the font used for the prominent text on the label in a single word.",
+        "answer": "Bold"
+      },
+      {
+        "question": "What word is used to introduce the list of ingredients on the label?",
+        "answer": "Ingredients"
+      }
+    ]
+  }
+]

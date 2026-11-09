@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fb/fbdfead7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual layout, what is the dominant textual element presented in the image?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Focusing on the primary text block, what specific food item is mentioned first in the ingredient list?",
+        "answer": "Almonds"
+      },
+      {
+        "question": "What type of chocolate is explicitly mentioned as a component of the chocolate pieces?",
+        "answer": "Unsweetened"
+      },
+      {
+        "question": "Looking at the ingredient list, what specific type of nut is listed after almonds?",
+        "answer": "Cashews"
+      },
+      {
+        "question": "What type of oil is repeatedly mentioned as an ingredient in various components?",
+        "answer": "Sunflower"
+      },
+      {
+        "question": "Besides almonds and cashews, what other nut is specifically listed among the ingredients?",
+        "answer": "Pistachios"
+      },
+      {
+        "question": "In the ingredient list for cranberries, what additional element is explicitly listed?",
+        "answer": "Sugar"
+      },
+      {
+        "question": "What kind of cherries are specified among the ingredients?",
+        "answer": "Cherries"
+      },
+      {
+        "question": "What additive is mentioned alongside cocoa butter and natural flavor in the chocolate pieces?",
+        "answer": "Lecithin"
+      },
+      {
+        "question": "Regarding the cherries specified, what specific adjective describes the type of cherry?",
+        "answer": "Tart"
+      },
+      {
+        "question": "What is the final item on the list of ingredients?",
+        "answer": "Salt"
+      },
+      {
+        "question": "Based on the textual information, which is one of the allergens explicitly mentioned?",
+        "answer": "Soy"
+      },
+      {
+        "question": "What is the secondary text element found under the main ingredient list?",
+        "answer": "Contains"
+      },
+      {
+        "question": "What additional information does the 'Contains' section provide about this product?",
+        "answer": "Allergens"
+      },
+      {
+        "question": "What is the overall presentation style of the text?",
+        "answer": "List"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3d/3de729ef.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the soup within the container?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What is the primary visible ingredient in the soup?",
+        "answer": "Lentils"
+      },
+      {
+        "question": "What type of container holds the soup, considering its material and shape?",
+        "answer": "Cup"
+      },
+      {
+        "question": "What is the apparent texture of the soup, based on visual observation?",
+        "answer": "Chunky"
+      },
+      {
+        "question": "Describe the color of the container's main body, excluding branding elements.",
+        "answer": "White"
+      },
+      {
+        "question": "What is the general shape of the food container, taking into account the top's shape?",
+        "answer": "Round"
+      },
+      {
+        "question": "What is visually identifiable as a secondary ingredient in the soup?",
+        "answer": "Spinach"
+      },
+      {
+        "question": "What specific type of food item is depicted in the image?",
+        "answer": "Soup"
+      },
+      {
+        "question": "Considering the brand labeling, what is the name of the soup's variant?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the appearance of the label's font style or lettering?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the color of the brand logo and text on the container?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What design element communicates the food's temperature status?",
+        "answer": "Symbol"
+      },
+      {
+        "question": "What specific kitchen-related brand is associated with the food item?",
+        "answer": "Amazon"
+      },
+      {
+        "question": "What is the color of at least one of the visible vegetable pieces?",
+        "answer": "Red"
+      },
+      {
+        "question": "Based on the label, what is one of the flavor profile descriptors?",
+        "answer": "Spices"
+      }
+    ]
+  }
+]

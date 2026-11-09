@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4e/4ecd50ee.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant, visually apparent color of the entire boot, as seen in the provided image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the overall structure, what is the primary shape of the footwear item depicted?",
+        "answer": "Slender"
+      },
+      {
+        "question": "Based on the image's visual texture and sheen, what material appears to be used in the boot's construction?",
+        "answer": "Leather"
+      },
+      {
+        "question": "What style of boot is shown in the image, judging by its overall length and fit?",
+        "answer": "Overknee"
+      },
+      {
+        "question": "Describe the primary closure mechanism visible on the boot, based solely on the image.",
+        "answer": "Buckle"
+      },
+      {
+        "question": "Observing the boot's shaft, does its material appear to have a smooth, or a more textured surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent height of the boot shaft, relative to the wearer's leg?",
+        "answer": "Thigh-high"
+      },
+      {
+        "question": "Focusing on the sole, what seems to be its most prominent visual feature?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Are there any other noticeable design elements or features besides the buckle, visible on the boot?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the heel's profile, describe its apparent shape and visible height.",
+        "answer": "Low"
+      },
+      {
+        "question": "Does the boot's upper material appear to be uniformly colored, or are there other color variations present?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Regarding the boot's fit, how snug does the material look around the leg?",
+        "answer": "Snug"
+      },
+      {
+        "question": "Based on the image, does the sole appear to be made from a flexible or rigid material?",
+        "answer": "Rigid"
+      },
+      {
+        "question": "Observing the buckle's color, how does it compare to the rest of the boot's color?",
+        "answer": "Similar"
+      },
+      {
+        "question": "Judging from the image, what is the visible condition of the boots, showing signs of wear or new?",
+        "answer": "New"
+      }
+    ]
+  }
+]

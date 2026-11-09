@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/32/3268081c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape and textual content, what is the primary function of this item depicted?",
+        "answer": "Label"
+      },
+      {
+        "question": "What is the dominant color scheme observed across the entirety of the displayed label?",
+        "answer": "White"
+      },
+      {
+        "question": "What single word best describes the visual texture of the background area on which the text is printed?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the typeface and layout, what style of text is predominantly used for conveying the nutritional details?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the visible text content, what specific type of information is prominently communicated on the label's surface?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the primary color of the text elements conveying the nutritional data and label information?",
+        "answer": "Black"
+      },
+      {
+        "question": "If considering the size of the label's text, relative to the overall area, would you characterize it as compact or spacious?",
+        "answer": "Compact"
+      },
+      {
+        "question": "Observing the design layout, is the text arranged vertically or horizontally, primarily?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Based on the structure of the text and the arrangement of the data, what is the style of presentation used for nutritional information?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the most prominent number appearing in a larger font size within the presented label?",
+        "answer": "25"
+      },
+      {
+        "question": "Looking at the words at the top, what single word best describes the category of information provided?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Observing the visual information, how many columns of data are presented within the main nutritional information table?",
+        "answer": "Two"
+      },
+      {
+        "question": "Judging by the visual prominence of the text, what is the most important piece of information communicated?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Based on the overall visual presentation, is the label's layout simple or complex?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Considering the image, what is the primary material of the item shown?",
+        "answer": "Paper"
+      }
+    ]
+  }
+]

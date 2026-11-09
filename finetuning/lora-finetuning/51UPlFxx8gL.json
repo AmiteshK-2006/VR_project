@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e4/e4b9b01f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the visible label roll surface?",
+        "answer": "White"
+      },
+      {
+        "question": "What appears to be the primary material of the label roll itself?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Considering the roll's form, what is its most prominent three-dimensional shape?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Based on the image, what seems to be the core material of the roll's inner tube?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Describing the surface texture, is the label roll's outer layer smooth or rough?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent adhesive type suggested by the slight curl at the edge?",
+        "answer": "Pressure-sensitive"
+      },
+      {
+        "question": "What printing style is visible on the label roll's edge, suggesting potential functionality?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "Judging by the image, does the label roll seem to be perforated or continuous?",
+        "answer": "Continuous"
+      },
+      {
+        "question": "Considering its form, is the roll designed for dispensing in a manual or automated way?",
+        "answer": "Manual"
+      },
+      {
+        "question": "What is the overall visible length of the label roll's exposed portion?",
+        "answer": "Long"
+      },
+      {
+        "question": "What is the approximate width of the roll shown in the product image?",
+        "answer": "Wide"
+      },
+      {
+        "question": "Judging by the image, what is the condition of the outer label roll wrapping?",
+        "answer": "Intact"
+      },
+      {
+        "question": "Judging by the appearance of the roll's edge, is the label roll pre-cut or uncut?",
+        "answer": "Uncut"
+      },
+      {
+        "question": "Based on visual observation, what is the diameter of the inner cardboard core?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the overall apparent quality of the printing on the edge of the roll?",
+        "answer": "Clear"
+      }
+    ]
+  }
+]

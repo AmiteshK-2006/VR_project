@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c7/c7f3316f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual composition, what single word best describes the style of the lettering presented on the product?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What specific type of fruit is explicitly mentioned within the textual content of the product label?",
+        "answer": "Apple"
+      },
+      {
+        "question": "Based on the visible text, what adjective best describes the nature of the apple juice listed amongst the ingredients?",
+        "answer": "Organic"
+      },
+      {
+        "question": "In the visible textual content, what is the specific variety of apple mentioned as the source of the juice?",
+        "answer": "Gravenstein"
+      },
+      {
+        "question": "Examining the textual presentation, what is the single word used to introduce the list of components or constituents?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "From the product label's text, what is the main component or ingredient represented?",
+        "answer": "Juice"
+      },
+      {
+        "question": "What is the most prominent word displayed in the text of this product's image?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Observing the label closely, what is the overall color palette predominantly used for the product text?",
+        "answer": "Black"
+      },
+      {
+        "question": "Disregarding the text, what is the best single-word description of the background color of the product image?",
+        "answer": "Beige"
+      },
+      {
+        "question": "In terms of font properties, what describes the text's weight or thickness?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the orientation of the text on the product label?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Judging the text's visual form, what describes the case of the letters used?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "From the visible text, what describes the overall length of each word presented?",
+        "answer": "Variable"
+      },
+      {
+        "question": "Considering the spatial arrangement, how is the text aligned on the product?",
+        "answer": "Left"
+      },
+      {
+        "question": "Describe the visible type of punctuation used at the end of the product description",
+        "answer": "Period"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/33/33fa5b7f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color displayed across the entire fabric sample?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visible texture, what is the primary tactile feel of this material?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image, what appears to be the overall weave or grain direction of the fabric?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Judging by the visual uniformity, would you describe the texture as consistent or inconsistent?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "What kind of sheen or luster does the fabric exhibit in the provided close-up?",
+        "answer": "Slight"
+      },
+      {
+        "question": "Does the fabric display any noticeable pattern besides the vertical grain?",
+        "answer": "No"
+      },
+      {
+        "question": "From the image, what appears to be the general thickness of this fabric sample?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Considering the visible fibers, does the fabric seem tightly or loosely woven?",
+        "answer": "Tightly"
+      },
+      {
+        "question": "How would you describe the overall visual appearance of the fabric's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based solely on the image, does the fabric appear to have a pile or raised surface?",
+        "answer": "No"
+      },
+      {
+        "question": "If you were to touch this fabric, would you expect it to feel soft or coarse?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Observing the color depth, does the gray appear light, dark, or medium?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Does the fabric exhibit any visible irregularities or imperfections?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the overall visual impression of the fabric’s surface finish.",
+        "answer": "Subtle"
+      },
+      {
+        "question": "What is the most prominent visual characteristic of this fabric sample?",
+        "answer": "Color"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fc/fc4aab71.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the detailed nutritional information presented on the box's label, what is the primary ingredient, visually confirmed by its prominent mention?",
+        "answer": "Salmon"
+      },
+      {
+        "question": "Based on the visual text, what specific type of salmon is predominantly used in this product?",
+        "answer": "Smoked"
+      },
+      {
+        "question": "Observing the label, what is the approximate caloric content per serving of this packaged food item?",
+        "answer": "500"
+      },
+      {
+        "question": "Judging by the label, what crucial dietary information is prominently featured, relating to the fat content of a single serving?",
+        "answer": "Fat"
+      },
+      {
+        "question": "From the visible label, what percentage of the recommended daily value of sodium does one serving of this product contain?",
+        "answer": "45%"
+      },
+      {
+        "question": "According to the label's visible text, what is the total carbohydrate content in grams, per single serving, of this item?",
+        "answer": "25g"
+      },
+      {
+        "question": "Based on the visual label, what is the total amount of protein in grams found in a single serving of the presented product?",
+        "answer": "18g"
+      },
+      {
+        "question": "What is the shape of the package as clearly shown in the image?",
+        "answer": "Box"
+      },
+      {
+        "question": "What is the color of the box, as directly shown in the image provided?",
+        "answer": "White"
+      },
+      {
+        "question": "From the visible text, identify a key ingredient besides the main protein source, prominently mentioned on the label.",
+        "answer": "Mayonnaise"
+      },
+      {
+        "question": "According to the visible label, what type of oil is notably included amongst the list of ingredients?",
+        "answer": "Soybean"
+      },
+      {
+        "question": "As seen on the label, what kind of gum is listed as an ingredient in this product?",
+        "answer": "Guar"
+      },
+      {
+        "question": "What is the serving size of the product based on the label's information?",
+        "answer": "1"
+      },
+      {
+        "question": "What additional ingredient is mentioned in the label, known to enhance the longevity of food products?",
+        "answer": "Preservative"
+      },
+      {
+        "question": "According to the label, which vitamin is specifically highlighted due to its high percentage daily value in one serving?",
+        "answer": "D"
+      }
+    ]
+  }
+]

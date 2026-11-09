@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3b/3b531d00.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the visual presentation, what is the dominant color scheme utilized in the product's labeling?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the presented nutritional information panel?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the image, what is the primary method of information organization used for nutritional details?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the font style predominantly used for the textual content on the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the overall style of the label, is it primarily characterized as simple or complex in design?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the unit of measurement used to express serving size on the label?",
+        "answer": "Tablespoon"
+      },
+      {
+        "question": "What is the total calorie count stated per serving of the product?",
+        "answer": "20"
+      },
+      {
+        "question": "What is the stated amount of fat, in grams, per serving according to the label?",
+        "answer": "1.5"
+      },
+      {
+        "question": "According to the label's visual representation, how many milligrams of sodium are present per serving?",
+        "answer": "30"
+      },
+      {
+        "question": "What is the nutritional component measured in grams, indicated as being 0g per serving?",
+        "answer": "Carbs"
+      },
+      {
+        "question": "What is the unit of measurement for cholesterol shown on the label?",
+        "answer": "Milligrams"
+      },
+      {
+        "question": "How many grams of protein are shown on the label per serving?",
+        "answer": "1"
+      },
+      {
+        "question": "What percentage of the daily value (% DV) is represented for calcium per serving?",
+        "answer": "4"
+      },
+      {
+        "question": "What is the texture of the nutritional label (considering only the visual features)?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the image, is there a noticeable background color behind the text on the nutritional label?",
+        "answer": "White"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/20/20db3f47.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what best describes the shoe's sole's shape?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What is the predominant color of the visible shoe sole?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the texture of the shoe's outsole, as observed from the image?",
+        "answer": "Wavy"
+      },
+      {
+        "question": "What design element is repeatedly visible across the shoe's sole?",
+        "answer": "Lines"
+      },
+      {
+        "question": "Based on visual cues, what material appears to constitute the shoe's outsole?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Does the sole exhibit a uniform or varied pattern throughout its surface?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Describe the degree of visual contrast between the sole's base and its pattern?",
+        "answer": "Low"
+      },
+      {
+        "question": "Observing the sole's edge, what is the nature of its outer contour?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent thickness of the shoe's sole, relative to its overall size?",
+        "answer": "Thick"
+      },
+      {
+        "question": "What is the overall impression of the sole's flexibility, judging by its form?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Considering the visible markings, what could be inferred about the sole's functionality?",
+        "answer": "Grip"
+      },
+      {
+        "question": "Is the pattern on the sole predominantly horizontal, vertical, or diagonal?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Does the sole’s design suggest a focus on style, comfort, or performance?",
+        "answer": "Comfort"
+      },
+      {
+        "question": "What is the apparent depth or relief of the textured pattern on the sole?",
+        "answer": "Shallow"
+      },
+      {
+        "question": "Is the surface of the outsole glossy or matte in appearance?",
+        "answer": "Matte"
+      }
+    ]
+  }
+]

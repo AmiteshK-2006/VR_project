@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b2/b2e5a382.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color displayed prominently across the item's surface?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the visual texture, what material best describes the product's composition?",
+        "answer": "Wood"
+      },
+      {
+        "question": "What is the overarching pattern observed in the detailed grain structure of the product?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Describe the visual appearance of the surface texture, focusing on its tactile qualities.",
+        "answer": "Grained"
+      },
+      {
+        "question": "Based on the image, what is the apparent overall shape of the displayed item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the image, what is the general orientation of the prominent linear markings?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the predominant color tone observed in the subtle variations of shading within the object?",
+        "answer": "Auburn"
+      },
+      {
+        "question": "Considering the image, what can be visually confirmed about the product's finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the general shade of the visually apparent background color within the item's surface?",
+        "answer": "Tan"
+      },
+      {
+        "question": "Describe the visual density of the striations within the object's structure, whether sparse or dense?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Considering the image, what overall aesthetic feel does the visual representation of the item provide?",
+        "answer": "Rustic"
+      },
+      {
+        "question": "If you had to describe the image's color palette, what would the general category be?",
+        "answer": "Earthy"
+      },
+      {
+        "question": "Can you specify the visual consistency of the color across the item's surface; is it uniform or variable?",
+        "answer": "Variable"
+      },
+      {
+        "question": "What is the most visible feature revealed by the pattern of the lines in the product?",
+        "answer": "Grain"
+      },
+      {
+        "question": "Characterize the visual intricacy of the pattern exhibited across the surface of the object.",
+        "answer": "Complex"
+      }
+    ]
+  }
+]

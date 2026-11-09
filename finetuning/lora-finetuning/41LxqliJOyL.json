@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8f/8f24bda1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant and pervasive color saturating the entire image?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the uniformity, what is the apparent texture of the displayed item?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image's visual consistency, what is the overall shape of the item shown?",
+        "answer": "Square"
+      },
+      {
+        "question": "Judging by the absence of any visible pattern, what is the design of the object?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Given the lack of other colors or elements, what is the primary material implied?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Does the product image suggest any noticeable surface irregularities or imperfections?",
+        "answer": "None"
+      },
+      {
+        "question": "From the image's lack of detail, what is the apparent finish of the item depicted?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the solid color and lack of other features, what is the product's apparent style?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Based on the overall visual impression, what would you describe the item's visual weight as?",
+        "answer": "Light"
+      },
+      {
+        "question": "What is the visual dimension implied by the uniform coloring and lack of perspective cues?",
+        "answer": "Two-dimensional"
+      },
+      {
+        "question": "Judging from the absence of shadows or highlights, what is the apparent reflectivity of the object?",
+        "answer": "Low"
+      },
+      {
+        "question": "Considering the visual simplicity, what is the inferred level of detail in the presented product?",
+        "answer": "Low"
+      },
+      {
+        "question": "Given the displayed homogeneity, what is the perceived complexity of the product's form?",
+        "answer": "Simple"
+      },
+      {
+        "question": "From this image's representation, what is the product's most salient visual characteristic?",
+        "answer": "Color"
+      },
+      {
+        "question": "Ignoring the context, what is the item's immediate visual impression regarding saturation?",
+        "answer": "High"
+      }
+    ]
+  }
+]

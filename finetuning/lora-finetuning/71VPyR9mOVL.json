@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/01/0123a2bd.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the visual arrangement, what is the dominant observable characteristic of the presented set of items?",
+        "answer": "Stack"
+      },
+      {
+        "question": "Based on the image, what appears to be the primary material used in the manufacture of these items?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Judging solely by visual inspection, what is the predominant color of the items in this image?",
+        "answer": "White"
+      },
+      {
+        "question": "From a purely visual perspective, what is the most noticeable textural quality displayed by the items?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What is the apparent overall shape of each individual item within the presented stack?",
+        "answer": "Square"
+      },
+      {
+        "question": "In terms of observable tactile properties, what would be the likely surface feel of a single item?",
+        "answer": "Fluffy"
+      },
+      {
+        "question": "Without referencing metadata, what is the inferred absorbency of this material?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the apparent thickness of each individual item, based only on what is visually discernible?",
+        "answer": "Thin"
+      },
+      {
+        "question": "What is the evident design pattern or complexity of each individual piece shown?",
+        "answer": "Plain"
+      },
+      {
+        "question": "What is the implied level of visual contrast between different parts of the shown product?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the suggested level of embellishment or ornamentation present in each product?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "Regarding the implied function, what is the intended use or application of these items?",
+        "answer": "Towel"
+      },
+      {
+        "question": "What is the apparent state of the items\u2014are they folded or unfolded, based on visual observation?",
+        "answer": "Folded"
+      },
+      {
+        "question": "Judging from the appearance of the stacked items, what is their implied uniformity?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What appears to be the implied purpose of stacking the items as shown in the image?",
+        "answer": "Storage"
+      }
+    ]
+  }
+]

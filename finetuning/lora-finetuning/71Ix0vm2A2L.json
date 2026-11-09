@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/91/91e1efac.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall shape and structure, what is the most accurate single-word description of this product's container?",
+        "answer": "Tub"
+      },
+      {
+        "question": "Based on the visible content, what is the primary purpose or function of the product inside?",
+        "answer": "Topping"
+      },
+      {
+        "question": "Analyzing the color of the product within its container, what single word best describes its hue?",
+        "answer": "White"
+      },
+      {
+        "question": "Observing the container's material, what is the most likely substance used in its construction?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the texture apparent in the product image, what single word best describes its visual consistency?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Examining the label, what single word best captures the main type of product information printed there?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What single word describes the general design of the container's label, minimalist or complex?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Regarding the container's lid, what single word best describes its color?",
+        "answer": "White"
+      },
+      {
+        "question": "From the visible barcode, what type of identifier is presented?",
+        "answer": "UPC"
+      },
+      {
+        "question": "Focusing on the textual information, what single word identifies the product's intended use?",
+        "answer": "Topping"
+      },
+      {
+        "question": "Observing the container's seal, what single word describes its color?",
+        "answer": "Red"
+      },
+      {
+        "question": "What single word accurately reflects the presence of nutrition facts on the label?",
+        "answer": "Present"
+      },
+      {
+        "question": "Considering the typography, what single word describes the font style used on the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What single word represents the overall state of the product shown within its container?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Considering the shape of the label on the container, what single word describes the label shape?",
+        "answer": "Rectangular"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0b/0b7ec0bd.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the overall texture of the textile depicted?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Based on visual appearance, what is the primary material of the fabric?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "Describe the visual pattern or weave of the fabric sample.",
+        "answer": "Linear"
+      },
+      {
+        "question": "What is the apparent density or weight of the fabric shown?",
+        "answer": "Medium"
+      },
+      {
+        "question": "How would you characterize the surface finish of this fabric sample?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the visible fibers, what is the fabric's apparent ply?",
+        "answer": "Double"
+      },
+      {
+        "question": "Judging by the image, what is the direction of the fabric's grain?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What kind of visual irregularities or imperfections are present?",
+        "answer": "None"
+      },
+      {
+        "question": "Can you describe the color uniformity across the fabric sample?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "What is the apparent level of sheen or glossiness of the fabric?",
+        "answer": "Low"
+      },
+      {
+        "question": "Considering the fabric's construction, what's its potential drape?",
+        "answer": "Moderate"
+      },
+      {
+        "question": "Does the fabric show any signs of being patterned or printed?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the visual appearance of the individual threads or fibers?",
+        "answer": "Fine"
+      },
+      {
+        "question": "Based on the visual cues, does the fabric appear to be tightly woven?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

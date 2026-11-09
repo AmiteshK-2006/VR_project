@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/85/85868dc1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the packaging, as visibly apparent across the entire surface?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the overall shape of the product's packaging, ignoring any minor irregularities?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary material the packaging appears to be constructed from, based on its visual texture?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What type of information is prominently displayed in a structured format near the top of the box?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the visual style of the text displayed on the box, in terms of its typeface and arrangement?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Is there a noticeable logo or symbol present on the packaging, apart from the text information?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Describe the size of the text relative to the overall size of the packaging.",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the orientation of the text on the packaging, relative to the packaging's edges?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Considering the overall presentation, what is the likely function of this product?",
+        "answer": "Food"
+      },
+      {
+        "question": "What is the density and spacing of the text blocks and other design elements on the packaging?",
+        "answer": "Dense"
+      },
+      {
+        "question": "What is the visual prominence of the nutrition facts panel relative to the rest of the design?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the visual style of the nutrition facts panel\u2014is it presented in a table format?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the general legibility of the text displayed, considering the size and background color?",
+        "answer": "Good"
+      },
+      {
+        "question": "What is the apparent visual condition of the product packaging; is it damaged or pristine?",
+        "answer": "Pristine"
+      },
+      {
+        "question": "What is the style of the small symbol present at the bottom of the package, and what does it imply?",
+        "answer": "Vegan"
+      }
+    ]
+  }
+]

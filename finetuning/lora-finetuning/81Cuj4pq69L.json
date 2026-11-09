@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f9/f9e243d3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the packaging, visually apparent in the provided image?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering the overall shape, what geometrical term best describes the product's packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material seems to be used for the primary packaging of this food product, as observed visually?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Based on the visual texture, how would you describe the surface of the packaging?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What type of information is predominantly featured on the packaging's visible side?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Observing the visible text, what is the key word suggesting a health-related claim?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the primary brand or retailer visible on the package, as determined from the image?",
+        "answer": "Wholefoods"
+      },
+      {
+        "question": "What is the unit of measurement used for the serving size indicated on the packaging?",
+        "answer": "Cookies"
+      },
+      {
+        "question": "What is the numerical value for the 'Calories per serving' as shown on the label?",
+        "answer": "140"
+      },
+      {
+        "question": "What is the general food category hinted at by the graphic on the packaging?",
+        "answer": "Bakery"
+      },
+      {
+        "question": "Does the packaging display any certifications or seals?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the dominant typeface style used on the package, based on the visual appearance?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the color of the text on the nutritional facts panel, as visibly observed?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the image, is the packaging design predominantly minimalist or ornate?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Are there any illustrations or images present on the main portion of the packaging besides text?",
+        "answer": "No"
+      }
+    ]
+  }
+]

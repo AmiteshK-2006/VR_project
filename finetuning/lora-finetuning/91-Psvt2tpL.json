@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8e/8e62474f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color observed across the entire surface area of the displayed item?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent finish of the product's material?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on the image, what appears to be the primary material used in the product's construction?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Judging from the image, what is the overall shape of the presented item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "From the visual details, what is the general impression of the surface's texture; smooth or rough?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the image show any discernible patterns or designs on the product's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image, is the material of the product visibly glossy or non-glossy?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Is there evidence of any visible seams, stitching, or other textural variations in the image?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall tonal range presented by the product in the provided image; light or dark?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Judging solely from the provided image, does the product appear to be thick or thin?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Can any discernible surface imperfections or flaws be observed in the visual representation?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the image provide any visual clues regarding the product's weight or density?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image, what kind of visual appeal does the product's color convey; vibrant or muted?",
+        "answer": "Muted"
+      },
+      {
+        "question": "Does the image suggest any special treatment, like embossing or printing on the product?",
+        "answer": "No"
+      },
+      {
+        "question": "From a visual inspection, is the product's color uniform across the entire visible surface?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

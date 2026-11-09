@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f6/f64471de.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color displayed on the main label of the product packaging, which prominently features the product name and roast type?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What is the overall shape of the product's flexible packaging, as observed from the provided image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the material and the overall appearance, what is the most likely type of packaging used for this product, as visually determined?",
+        "answer": "Foil"
+      },
+      {
+        "question": "What is the primary text displayed in a large font on the central label, identifying the product's origin?",
+        "answer": "Colombia"
+      },
+      {
+        "question": "What specific type of coffee is indicated on the label, suggesting its brewing method?",
+        "answer": "Ground"
+      },
+      {
+        "question": "What roast level is specified for the coffee beans, as shown on the product packaging?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Based solely on the visual inspection, what is the apparent texture of the product's outer packaging?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What brand is prominently displayed on the bottom portion of the packaging, suggesting the retailer?",
+        "answer": "Amazon"
+      },
+      {
+        "question": "What type of design element is used to separate the various sections of text on the label, creating visual distinction?",
+        "answer": "Stripes"
+      },
+      {
+        "question": "What is the color of the stripes used as a design element in separating the label sections?",
+        "answer": "Black"
+      },
+      {
+        "question": "What color is the secondary text on the label, in contrast to the main product name?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the visual impression of the overall condition of the packaging, suggesting whether it has been previously opened?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Observing the packaging, what is the general appearance of the seal at the top, indicating the packaging integrity?",
+        "answer": "Closed"
+      },
+      {
+        "question": "What word, other than the product name, is visually apparent in a contrasting color on the main label?",
+        "answer": "Roast"
+      },
+      {
+        "question": "Excluding the brand, what is the secondary text indicating the product category visible on the package?",
+        "answer": "Coffee"
+      }
+    ]
+  }
+]

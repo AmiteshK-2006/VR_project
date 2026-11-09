@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/43/435332da.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout, what is the primary visual element dominating the presented nutrition facts?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the descriptive term used to categorize the presented data regarding the food product?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Focusing on the numerical data, what is the total amount of calories per container as clearly presented?",
+        "answer": "650"
+      },
+      {
+        "question": "Examining the nutritional breakdown, what specific nutrient is listed as having '0g' per serving?",
+        "answer": "Sugars"
+      },
+      {
+        "question": "Based solely on the image, what is the unit of measurement consistently used for calorie quantities?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Looking at the table's structure, how many distinct serving sizes are detailed for the product?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the unit of measurement shown for 'Total Fat' in the provided nutrition information?",
+        "answer": "Grams"
+      },
+      {
+        "question": "According to the visual data, how many servings are contained within the product packaging?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the unit used to measure cholesterol content within the nutritional facts?",
+        "answer": "Milligrams"
+      },
+      {
+        "question": "What is the specific unit of measurement used to quantify the amount of sodium present?",
+        "answer": "Milligrams"
+      },
+      {
+        "question": "What is the unit of measurement indicated for the amount of dietary fiber per serving?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the unit of measurement used to express the protein content within the food?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Considering the visual design, what is the font style predominantly used to display the nutritional information?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the format used to present the percentage daily values for each nutrient listed?",
+        "answer": "Percentage"
+      },
+      {
+        "question": "Based on visual observation, what is the color primarily used for the text in the nutrition facts?",
+        "answer": "Black"
+      }
+    ]
+  }
+]

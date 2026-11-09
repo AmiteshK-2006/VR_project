@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6f/6f8d1f20.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant text color on the nutrition label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the image, what is the primary language used for the nutritional information?",
+        "answer": "English"
+      },
+      {
+        "question": "What is the most prominent design feature of the nutrition panel in the image?",
+        "answer": "Columns"
+      },
+      {
+        "question": "Observing the arrangement of the text, what is the structural organization of the nutrition facts?",
+        "answer": "Table"
+      },
+      {
+        "question": "Judging by the visual appearance, what is the overall shape of the nutrition label itself?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the most visually apparent background color of the nutrition information section?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the text's visual characteristics, what is the font style used for the macronutrient names?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the apparent font weight of the headings for each nutrient category?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the visible text alignment used in the nutrition label for the values?",
+        "answer": "Right"
+      },
+      {
+        "question": "Based on the image, what is the text case of the nutrient names?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Judging from the image, what is the approximate font size of the nutrient values?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Looking at the textual elements, what units are used for the 'Energy' value?",
+        "answer": "kJ"
+      },
+      {
+        "question": "According to the visual information, what units are used for the 'Fat' value?",
+        "answer": "g"
+      },
+      {
+        "question": "What is the visible unit of measurement for 'Salt' as shown in the image?",
+        "answer": "g"
+      },
+      {
+        "question": "What is the overall visual texture of the nutrition panel?",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

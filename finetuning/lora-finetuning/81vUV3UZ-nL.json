@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e8/e848b21d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color scheme of the product's packaging?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Based on the image, what is the primary textural characteristic of the food item inside?",
+        "answer": "Crispy"
+      },
+      {
+        "question": "Judging by the visible components, what is the main ingredient apparent in the confectionery bar?",
+        "answer": "Marshmallow"
+      },
+      {
+        "question": "Analyzing the shape of the food item, what geometric form best describes its overall configuration?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What type of food item is depicted in the primary image, based on its visual attributes?",
+        "answer": "Bar"
+      },
+      {
+        "question": "In terms of the package's material, what appears to be the primary substance used in its construction?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Observing the text on the package, what additional ingredient is specifically mentioned in relation to the bar?",
+        "answer": "Rice"
+      },
+      {
+        "question": "Regarding the packaging style, what term best describes the overall form of the flexible product container?",
+        "answer": "Sachet"
+      },
+      {
+        "question": "From the image, what specific flavor is clearly indicated as the primary taste profile of this product?",
+        "answer": "Strawberry"
+      },
+      {
+        "question": "What is the apparent visual state of the marshmallow-based confection inside the package?",
+        "answer": "Puffed"
+      },
+      {
+        "question": "From a visual standpoint, what is the approximate size of the product, given the image and its packaging?",
+        "answer": "Small"
+      },
+      {
+        "question": "What kind of brand is prominently displayed on the packaging, providing a context for the product?",
+        "answer": "Prime"
+      },
+      {
+        "question": "In terms of the text on the packaging, what descriptive term emphasizes the product's texture?",
+        "answer": "Crispy"
+      },
+      {
+        "question": "What is the color of the main food item shown in the package, as seen in the picture?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What word best describes the visual appearance of the marshmallow pieces within the bar?",
+        "answer": "Expanded"
+      }
+    ]
+  }
+]

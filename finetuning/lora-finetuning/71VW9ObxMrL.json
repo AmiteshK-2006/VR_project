@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a2/a2816672.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the dominant geometric shape of this item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the primary color of the binder's exterior?",
+        "answer": "Rose"
+      },
+      {
+        "question": "Describe the apparent texture of the binder's cover material.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What material seems to constitute the visible exterior of the item?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Focusing on the spine, what mechanism is visible for holding papers?",
+        "answer": "Rings"
+      },
+      {
+        "question": "What is the apparent state or condition of the binder; is it new or used?",
+        "answer": "New"
+      },
+      {
+        "question": "In terms of its apparent capacity, what type of binder is it; three-ring or other?",
+        "answer": "Three-ring"
+      },
+      {
+        "question": "Considering the visible interior, what color is the exposed paper area?",
+        "answer": "White"
+      },
+      {
+        "question": "Is the item's construction predominantly solid or hollow; how much internal space is apparent?",
+        "answer": "Hollow"
+      },
+      {
+        "question": "Judging by its shape and apparent size, what is this object’s likely function or use?",
+        "answer": "Binder"
+      },
+      {
+        "question": "What specific aspect or detail best differentiates this binder from standard ones?",
+        "answer": "Color"
+      },
+      {
+        "question": "Considering its material and size, how would you describe the apparent weight of this item?",
+        "answer": "Light"
+      },
+      {
+        "question": "Based on its visual characteristics, is this a high-end or budget-friendly binder?",
+        "answer": "Budget"
+      },
+      {
+        "question": "Observing the edges and corners, what does the finish of this item suggest?",
+        "answer": "Neat"
+      },
+      {
+        "question": "Looking at the binding mechanism, can you determine the number of rings visible?",
+        "answer": "Three"
+      }
+    ]
+  }
+]

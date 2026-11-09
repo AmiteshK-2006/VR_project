@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f2/f207b6e2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the visible text on the product packaging?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the overall shape of the text block containing the ingredient list?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent texture of the surface on which the ingredients are printed?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the font style, what is the overall impression of the text's presentation?",
+        "answer": "Formal"
+      },
+      {
+        "question": "Based on the style and arrangement, what is the category of the printed information?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the primary color used for the words 'INGREDIENTS'?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the size and prominence, what is the most emphasized element among the listed ingredients?",
+        "answer": "Flour"
+      },
+      {
+        "question": "What is the visual style of the ingredient list, considering alignment and spacing?",
+        "answer": "Columnar"
+      },
+      {
+        "question": "What is the style of capitalization used throughout the ingredient list?",
+        "answer": "Title"
+      },
+      {
+        "question": "What type of text is used to denote warnings or cautions regarding potential allergens?",
+        "answer": "Italic"
+      },
+      {
+        "question": "Does the text display any distinctive visual marks besides the letters and words?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the character of the font weight used for the text; bold, regular or light?",
+        "answer": "Regular"
+      },
+      {
+        "question": "Does the text indicate the presence of any non-GMO components?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the case of lettering utilized for the term 'INGREDIENTS'?",
+        "answer": "Upper"
+      },
+      {
+        "question": "What is the apparent size of the font relative to the package size?",
+        "answer": "Small"
+      }
+    ]
+  }
+]

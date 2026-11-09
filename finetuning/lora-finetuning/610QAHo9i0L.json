@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4e/4e9c328e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall shape and structure, what is the primary form factor of the presented product?",
+        "answer": "Bag"
+      },
+      {
+        "question": "Based on the visible contents, what type of grain is predominantly contained within the packaging?",
+        "answer": "Farro"
+      },
+      {
+        "question": "Observing the color of the grain, what is its most prominent hue?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Focusing on the grain's texture, how would you characterize its surface appearance?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What is the apparent material of the primary packaging holding the product?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Judging by the visible text, is this product certified organic?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Looking at the text on the package, what is a prominent aspect indicated about this product?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Based on the visual appearance, what is the grain's approximate size relative to one another?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the overall visual impression of the color uniformity of the grain within the bag?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "What appears to be the main method for securing the package's opening?",
+        "answer": "Twist-tie"
+      },
+      {
+        "question": "Does the packaging prominently display nutritional information?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the barcode's presence, what aspect does it indicate?",
+        "answer": "Identification"
+      },
+      {
+        "question": "Does the grain appear to contain any significant visible impurities?",
+        "answer": "No"
+      },
+      {
+        "question": "Focusing on the bag's design, what color is most prominently used on the packaging?",
+        "answer": "Green"
+      },
+      {
+        "question": "Considering the product's packaging design, is there any visible indication of gluten-free status?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/02/02e1432c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual appearance, what is the primary color of the product packaging?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What kind of text is predominantly used on the packaging to list the ingredients?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the shape of the food packaging displayed, ignoring any minor irregularities?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Observing the texture, would you describe the packaging surface as smooth or rough?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Focusing on the text, what is the font style primarily used for labeling?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the image, what is the orientation of the product's packaging shown?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the general material of the product's packaging, judging from the image only?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Examining the packaging, does it display any notable graphic designs or illustrations?",
+        "answer": "None"
+      },
+      {
+        "question": "From what can be visually confirmed, is the packaging glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering only the visual information, what size is the text on the packaging?",
+        "answer": "Small"
+      },
+      {
+        "question": "Is the text on the packaging printed or handwritten?",
+        "answer": "Printed"
+      },
+      {
+        "question": "Judging by the visible content, what type of information is primarily shown on the packaging?",
+        "answer": "Text"
+      },
+      {
+        "question": "Can you visually confirm the presence of any logos or brand marks on the packaging?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the packaging's structure, is it a single layer or multilayered?",
+        "answer": "Single"
+      },
+      {
+        "question": "From a visual perspective, does the packaging appear to be sealed or open?",
+        "answer": "Open"
+      }
+    ]
+  }
+]

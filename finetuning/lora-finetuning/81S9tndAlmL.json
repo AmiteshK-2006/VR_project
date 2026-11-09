@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/37/37d94bae.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color scheme of the nutrition facts label, considering the text and background?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the overall layout, what is the primary organizational structure used to present the nutritional information?",
+        "answer": "Columns"
+      },
+      {
+        "question": "What is the font style primarily used for the numerical values representing nutritional information?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the textual unit used to represent the quantity of a single serving of the food product?",
+        "answer": "Cup"
+      },
+      {
+        "question": "What is the overall shape of the nutritional information panel on the food product packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Observing the text, what is the label's primary purpose in communicating nutritional data?",
+        "answer": "Information"
+      },
+      {
+        "question": "What is the weight of the serving size of this food product, expressed in grams?",
+        "answer": "37g"
+      },
+      {
+        "question": "Based on visual inspection, what is the measurement unit used for 'Calories' on the label?",
+        "answer": "Calories"
+      },
+      {
+        "question": "What is the font weight employed for the 'Nutrition Facts' header text at the top of the panel?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the typeface of the large number prominently displaying the total calories per serving?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What kind of data is presented numerically in percentages after each nutritional component?",
+        "answer": "Percentages"
+      },
+      {
+        "question": "What is the format of the nutritional values presented, such as 'Total Fat' or 'Sodium'?",
+        "answer": "Numeric"
+      },
+      {
+        "question": "What is the unit of measurement used to quantify the amount of 'Protein' present in a serving?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the visual design style of the nutrition facts label, in terms of its simplicity or complexity?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Considering the text layout, what is the textual alignment predominantly used for the data values in the label?",
+        "answer": "Right"
+      }
+    ]
+  }
+]

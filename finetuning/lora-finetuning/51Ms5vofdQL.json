@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/51/51b2517d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form and packaging, what is the primary shape of this product container?",
+        "answer": "Bottle"
+      },
+      {
+        "question": "Based on the visible liquid, what is the dominant color of the product inside the bottle?",
+        "answer": "Red"
+      },
+      {
+        "question": "Judging by the container's texture and appearance, what material is predominantly used in its construction?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Observing the bottle's cap and the material, what color is the bottle's closure?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the bottle's design, is there any noticeable text or labeling present on the bottle?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Looking at the label, are there any prominent images or graphics displayed on the bottle?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Analyzing the label's text and images, can you identify any apparent brand name or logo?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on your visual assessment, is the product likely to be a solid, liquid, or gas?",
+        "answer": "Liquid"
+      },
+      {
+        "question": "Considering the context and appearance, what is the likely purpose or function of the item in the picture?",
+        "answer": "Beverage"
+      },
+      {
+        "question": "From the visible label design, what kind of overall aesthetic does the label present?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Observing the shape of the bottle, is it cylindrical, rectangular, or some other form?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Does the bottle have any noticeable indentations, curves, or other textural features?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is the label predominantly vertical or horizontal in orientation on the bottle?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Judging by the color and texture of the liquid, what might be the approximate consistency?",
+        "answer": "Thin"
+      },
+      {
+        "question": "From the label design, what is the general tone or feeling evoked by the label's aesthetic?",
+        "answer": "Natural"
+      }
+    ]
+  }
+]

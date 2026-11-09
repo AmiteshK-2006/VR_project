@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/84/84ca9f3c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary textual element dominating the visual field, conveying essential product information regarding its nutritional composition?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Considering the layout and typography, what is the prominent numerical value, likely representing the caloric content per serving?",
+        "answer": "130"
+      },
+      {
+        "question": "Observing the structured data presented, what unit of measurement is consistently used to quantify the amounts of various components?",
+        "answer": "g"
+      },
+      {
+        "question": "Examining the list of nutrients, what specific type of fat is highlighted, typically associated with potential health implications?",
+        "answer": "Saturated"
+      },
+      {
+        "question": "Referring to the carbohydrate section, what component is listed as a relatively low percentage of the daily value?",
+        "answer": "Fiber"
+      },
+      {
+        "question": "Looking at the sugars information, what term indicates added sugars as opposed to naturally occurring ones?",
+        "answer": "Added"
+      },
+      {
+        "question": "What specific nutrient, essential for bone health, is listed at a zero percent daily value?",
+        "answer": "Calcium"
+      },
+      {
+        "question": "From the table of nutrients, what mineral is crucial for maintaining healthy blood pressure and is reported as zero?",
+        "answer": "Potassium"
+      },
+      {
+        "question": "Based on the textual data, what essential nutrient plays a crucial role in red blood cell formation, indicated here as zero?",
+        "answer": "Iron"
+      },
+      {
+        "question": "Focusing on the top section, what is indicated as the approximate number of servings contained within the product's packaging?",
+        "answer": "Seven"
+      },
+      {
+        "question": "What is the weight, expressed in grams, listed as the standard serving size for this particular item?",
+        "answer": "28"
+      },
+      {
+        "question": "According to the label, what unit is used to measure cholesterol in this food product?",
+        "answer": "mg"
+      },
+      {
+        "question": "Based on the visual information provided, what is the suggested serving size in terms of the number of cookies?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the measurement unit used for the total amount of carbohydrates listed on the nutrition label?",
+        "answer": "g"
+      },
+      {
+        "question": "In the presented nutritional information, what is the designated unit of measurement for the amount of protein?",
+        "answer": "g"
+      }
+    ]
+  }
+]

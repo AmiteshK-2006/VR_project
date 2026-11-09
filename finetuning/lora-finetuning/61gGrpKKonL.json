@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ce/ce4dfe0e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the remote control, as shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the image, what appears to be the primary material of the device's casing?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on the provided image, what is the overall shape of the remote control?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What is the texture of the remote's surface, as visually depicted?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Examining the image, what type of interface is used for navigation?",
+        "answer": "Circular"
+      },
+      {
+        "question": "Does the image show any visible branding or logos on the remote?",
+        "answer": "Yes"
+      },
+      {
+        "question": "From the picture, what is the apparent finish of the remote's control buttons?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging by the image, what is the arrangement of the buttons on the remote?",
+        "answer": "Linear"
+      },
+      {
+        "question": "What does the prominent central component on the remote appear to be?",
+        "answer": "D-pad"
+      },
+      {
+        "question": "Analyzing the image, what kind of buttons are featured aside from the central D-pad?",
+        "answer": "Standard"
+      },
+      {
+        "question": "Based on the picture, what is the overall size of the device, relative to common household objects?",
+        "answer": "Small"
+      },
+      {
+        "question": "What does the visible surface of the device appear to be primarily made of?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Does the image show the presence of any text on the device?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is the surface of the remote glossy or matte in the provided image?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the image alone, does the remote appear ergonomically designed?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

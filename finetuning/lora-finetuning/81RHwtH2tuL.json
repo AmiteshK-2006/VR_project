@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c5/c550cb8d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant textual element depicted across the entire image?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the primary color scheme employed for the significant textual elements within the visual?",
+        "answer": "Black"
+      },
+      {
+        "question": "Focusing on the numerical data, what is the prominently displayed value representing caloric content?",
+        "answer": "140"
+      },
+      {
+        "question": "Observing the detailed nutritional breakdown, what specific nutrient has a value of 7g?",
+        "answer": "Fat"
+      },
+      {
+        "question": "Regarding the carbohydrate content, what is the numerical representation of total carbohydrates in grams?",
+        "answer": "17"
+      },
+      {
+        "question": "What is the measured quantity of dietary fiber in grams, as per the nutritional information?",
+        "answer": "1"
+      },
+      {
+        "question": "Analyzing the sugar content, how many grams of added sugars are specifically indicated?",
+        "answer": "2"
+      },
+      {
+        "question": "Based on the visual data, what is the protein content expressed in grams?",
+        "answer": "2"
+      },
+      {
+        "question": "What is the presented serving size, in cups, as indicated in the visual representation?",
+        "answer": "1/3"
+      },
+      {
+        "question": "Looking at the image, what is the displayed serving size, in grams, as noted?",
+        "answer": "30"
+      },
+      {
+        "question": "What is the listed amount of sodium, in milligrams?",
+        "answer": "280"
+      },
+      {
+        "question": "Based on the visible information, what unit is used to measure cholesterol levels?",
+        "answer": "mg"
+      },
+      {
+        "question": "What is the format of the data presented in the image?",
+        "answer": "Table"
+      },
+      {
+        "question": "Examining the text, what is the name of the section that details the nutritional values of the product?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "In the visual data provided, which unit of measurement is used to express values in terms of daily intake?",
+        "answer": "%"
+      }
+    ]
+  }
+]

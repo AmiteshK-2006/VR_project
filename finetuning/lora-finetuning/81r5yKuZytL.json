@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bc/bc9e774e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what fundamental shape best describes the item shown in the image?",
+        "answer": "Oval"
+      },
+      {
+        "question": "Observing the outsole's texture, what discernible pattern is predominantly displayed?",
+        "answer": "Grid"
+      },
+      {
+        "question": "Based on visual characteristics alone, what appears to be the primary material used in this product's construction?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Judging by the visual texture, what tactile quality does the product's surface seem to possess?",
+        "answer": "Textured"
+      },
+      {
+        "question": "From a purely visual assessment, what color would you assign to the object's main visible component?",
+        "answer": "Black"
+      },
+      {
+        "question": "Analyzing the shape of the product's edge, what geometric profile best captures its form?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Considering the image solely, what is the apparent condition of the product displayed, considering any visible wear or damage?",
+        "answer": "New"
+      },
+      {
+        "question": "Based solely on visual examination, what appears to be the primary function of this object?",
+        "answer": "Sole"
+      },
+      {
+        "question": "From the image, describe the overall pattern across the entire surface of the product shown",
+        "answer": "Repeating"
+      },
+      {
+        "question": "Based on what is visually present, what is the apparent thickness of the component in the product image?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Looking only at the item,  how would you describe the depth of the pattern on its surface?",
+        "answer": "Shallow"
+      },
+      {
+        "question": "What is the visual impression of the material's flexibility based only on what is shown?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Considering the visible design, what seems to be the main feature of the product's surface?",
+        "answer": "Texture"
+      },
+      {
+        "question": "Does the provided image indicate any decorative elements on the product's visible surface?",
+        "answer": "No"
+      },
+      {
+        "question": "From the image, would you describe the visible markings as regular or irregular in their arrangement?",
+        "answer": "Regular"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/66/6688922c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the textual information displayed on the product, what is the primary ingredient contained within?",
+        "answer": "Dill"
+      },
+      {
+        "question": "Based on the visible text, what additional allergens might be present due to the production facility?",
+        "answer": "Nuts"
+      },
+      {
+        "question": "Analyzing the textual content, what other allergenic substance is mentioned as potentially present?",
+        "answer": "Milk"
+      },
+      {
+        "question": "From the visible text, determine another potential allergen arising from the production process.",
+        "answer": "Wheat"
+      },
+      {
+        "question": "Based solely on the visible text, can you identify a final possible allergen from the manufacturing location?",
+        "answer": "Soy"
+      },
+      {
+        "question": "What is the font style used to display the 'INGREDIENTS' label on the product?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Describe the overall color scheme of the text present on the product's label.",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the text alignment used for the 'INGREDIENTS' and allergen information?",
+        "answer": "Left"
+      },
+      {
+        "question": "What is the case of the lettering used for the ingredient listing on the product?",
+        "answer": "Upper"
+      },
+      {
+        "question": "Judging by the visible text, which word is written immediately following 'INGREDIENTS'?",
+        "answer": "Dill"
+      },
+      {
+        "question": "In the warning statement, what word appears before 'NUTS'?",
+        "answer": "Tree"
+      },
+      {
+        "question": "What punctuation mark concludes the list of potential allergens?",
+        "answer": "Period"
+      },
+      {
+        "question": "What is the word used to indicate that this is a listing of the contents?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the word used to describe the primary ingredient's plant type?",
+        "answer": "Weed"
+      },
+      {
+        "question": "What preposition is used in describing the production facility's processing?",
+        "answer": "In"
+      }
+    ]
+  }
+]

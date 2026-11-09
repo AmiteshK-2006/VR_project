@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/34/3433ef82.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color displayed on the product's label?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What is the overall shape of the container holding the product?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What appears to be the primary material of the product's container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What type of information is prominently featured on the label?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Considering the label's design, what is the noticeable graphic style?",
+        "answer": "Abstract"
+      },
+      {
+        "question": "What is the apparent texture of the container's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What kind of closure mechanism is visible on the container's top?",
+        "answer": "Lid"
+      },
+      {
+        "question": "What is the general style of the text on the product's label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the image, what is the size of the container relative to a human hand?",
+        "answer": "Large"
+      },
+      {
+        "question": "What is the color of the container's main body, excluding the label?",
+        "answer": "White"
+      },
+      {
+        "question": "What type of information is found on the right-hand side of the label?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "What is the overall aesthetic impression of the product packaging?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Does the label contain any images apart from text and shapes?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent finish or sheen of the container's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Excluding the label, what is the color of the container's lid?",
+        "answer": "White"
+      }
+    ]
+  }
+]

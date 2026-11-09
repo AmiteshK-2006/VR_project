@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/11/11e686ca.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the juice inside the bottle, as visually apparent?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What is the overall shape of the juice bottle, ignoring the label?",
+        "answer": "Hexagonal"
+      },
+      {
+        "question": "Considering the bottle's material, is it transparent or opaque?",
+        "answer": "Transparent"
+      },
+      {
+        "question": "What is the primary color of the main design element on the bottle label?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What kind of fruit is prominently depicted on the bottle's label, as shown?",
+        "answer": "Watermelon"
+      },
+      {
+        "question": "Describe the texture of the label's design, taking into account its appearance.",
+        "answer": "Graphic"
+      },
+      {
+        "question": "What is the material of the bottle itself, given its appearance?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the label's design, what is the overall style of the label's illustration?",
+        "answer": "Geometric"
+      },
+      {
+        "question": "What is the color of the smaller circular design element on the label?",
+        "answer": "Pink"
+      },
+      {
+        "question": "Considering the image, what is printed on the label, besides the illustration?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the style of the typography used for the primary text on the bottle label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the visual information, what is the implied state of the juice inside?",
+        "answer": "Liquid"
+      },
+      {
+        "question": "Considering the label's design, what is the main shape within the yellow design element?",
+        "answer": "Triangle"
+      },
+      {
+        "question": "Given the illustration on the label, how is the watermelon visually represented?",
+        "answer": "Abstract"
+      },
+      {
+        "question": "What brand is indicated on the label, as visually clear on the image?",
+        "answer": "Wholefoods"
+      }
+    ]
+  }
+]

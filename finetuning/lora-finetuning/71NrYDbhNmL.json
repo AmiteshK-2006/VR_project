@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1d/1da55395.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the product's packaging?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What material appears to constitute the resealable top?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What is the overall shape of the product's package?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the dominant texture visible on the primary packaging surface?",
+        "answer": "Striped"
+      },
+      {
+        "question": "What type of closure system is depicted on the product's packaging?",
+        "answer": "Resealable"
+      },
+      {
+        "question": "What is visible at the bottom of the packaging indicating product freshness?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "What appears to be printed at the top of the barcode?",
+        "answer": "Date"
+      },
+      {
+        "question": "What kind of label is present displaying a date and product code?",
+        "answer": "Sticker"
+      },
+      {
+        "question": "What seems to be the material of the main body of the package?",
+        "answer": "Foil"
+      },
+      {
+        "question": "What is the apparent condition of the packaging's seal?",
+        "answer": "Damaged"
+      },
+      {
+        "question": "What type of text is primarily present on the packaging?",
+        "answer": "Print"
+      },
+      {
+        "question": "Describe the overall appearance of the product's packaging; damaged or undamaged?",
+        "answer": "Damaged"
+      },
+      {
+        "question": "What appears to be the primary function of the packaging?",
+        "answer": "Storage"
+      },
+      {
+        "question": "Besides the barcode and date, what other text is prominent?",
+        "answer": "Company"
+      },
+      {
+        "question": "What is the primary visual design feature of the package?",
+        "answer": "Lines"
+      }
+    ]
+  }
+]

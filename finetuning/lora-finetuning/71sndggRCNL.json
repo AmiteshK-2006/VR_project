@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c0/c012192a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the text displayed on the nutrition facts label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the overall layout, what is the primary organizational structure of the information presented?",
+        "answer": "Columns"
+      },
+      {
+        "question": "What is the shape of the nutritional facts panel that contains the text and numeric values?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the visual style of the numbers indicating the daily values of different nutrients?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the text formatting of the heading 'Nutrition Facts' at the top of the panel?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the unit of measurement used for 'Serving Size' as shown on the nutrition label?",
+        "answer": "Tbsp"
+      },
+      {
+        "question": "What is the unit of measurement for the amount of total fat listed per serving?",
+        "answer": "g"
+      },
+      {
+        "question": "What is the visual attribute of the text indicating the amount of calories per serving?",
+        "answer": "Large"
+      },
+      {
+        "question": "What is the texture of the surface where the nutritional information is printed?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent material of the label where the nutrition facts are printed?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Is the font style used for the ingredient names, such as 'Total Fat,' consistent across all entries?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What type of information is visually presented in the panel below the 'Calories' value?",
+        "answer": "Macronutrients"
+      },
+      {
+        "question": "What numerical value represents the total amount of calories per serving, as clearly displayed?",
+        "answer": "130"
+      },
+      {
+        "question": "Does the label include any images or graphics besides the text and numbers?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall visual presentation style of the nutrition facts?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

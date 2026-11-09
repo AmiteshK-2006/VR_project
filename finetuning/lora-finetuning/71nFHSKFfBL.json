@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3b/3bf34902.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the visible fabric?",
+        "answer": "White"
+      },
+      {
+        "question": "What type of stitch is prominently displayed across the fabric?",
+        "answer": "Dash"
+      },
+      {
+        "question": "Considering the visual texture, what is the likely material of the shown fabric?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "What is the apparent thickness or weight of the fabric based on its visual appearance?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Describe the overall visual pattern or design of the displayed fabric sample?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Based on the image, what is the primary visual characteristic of the stitching?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What is the color of the stitching visible in the provided fabric sample?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the most noticeable visual feature of the fabric's presentation?",
+        "answer": "Stitch"
+      },
+      {
+        "question": "Considering the visual clarity, how detailed is the stitching of the fabric?",
+        "answer": "Fine"
+      },
+      {
+        "question": "Judging by its visual appearance, what is the fabric's weave type?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Based on the image, what is the general shape of the displayed fabric section?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent level of sheen or gloss present in the fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the fabric display any visible patterns beyond the main stitching?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the visual impression of the fabric's overall texture to the touch?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the fabric's appearance indicate a particular level of transparency?",
+        "answer": "Opaque"
+      }
+    ]
+  }
+]

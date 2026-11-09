@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ff/ffc9c3e0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's visual characteristics, what is the predominant color of the displayed ingredients list?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the visual appearance, what is the overall textual arrangement of the ingredient list?",
+        "answer": "Block"
+      },
+      {
+        "question": "Judging from the image, what is the font style employed for the ingredient list?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "From a visual standpoint, what is the apparent size of the text used in the ingredient list?",
+        "answer": "Small"
+      },
+      {
+        "question": "What seems to be the writing case (uppercase or lowercase) predominantly used in the list?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "In terms of visual density, how would you describe the text's packing in the list?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Observing the visual presentation, what seems to be the text's alignment within the list?",
+        "answer": "Left"
+      },
+      {
+        "question": "Considering the image's visual elements, what's the overall visual clarity of the ingredients list?",
+        "answer": "Clear"
+      },
+      {
+        "question": "By analyzing the text's appearance, determine whether there is significant kerning (letter spacing) apparent in the list.",
+        "answer": "No"
+      },
+      {
+        "question": "Based on visual inspection, what kind of background does the ingredients list appear to have?",
+        "answer": "White"
+      },
+      {
+        "question": "Regarding the visual structure, is there any obvious sectioning or separation in the ingredients list?",
+        "answer": "Yes"
+      },
+      {
+        "question": "From the image's visual inspection, does the font appear to be consistently uniform throughout the list?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the visual elements, does the text have bolding or italicization in parts of the list?",
+        "answer": "No"
+      },
+      {
+        "question": "In terms of visual presentation, is there an obvious title or header present above the ingredient list?",
+        "answer": "Yes"
+      },
+      {
+        "question": "From the image, visually determine whether the text's style is formal or informal in its presentation.",
+        "answer": "Formal"
+      }
+    ]
+  }
+]

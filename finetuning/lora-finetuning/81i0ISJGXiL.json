@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/00/005d817a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what geometrical descriptor best encapsulates the product's shape?",
+        "answer": "Tablet"
+      },
+      {
+        "question": "What color is the dominant hue prominently displayed on the outer packaging?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on visual inspection, what appears to be the primary material composing the container?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Judging by the visible text, what is the primary function of this product, as advertised?",
+        "answer": "Supplement"
+      },
+      {
+        "question": "Observing the text on the packaging, what specific vitamin is prominently highlighted?",
+        "answer": "Calcium"
+      },
+      {
+        "question": "What is the texture of the outer packaging based on the visible surface details?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the design, what type of label is used to present the product information?",
+        "answer": "Text"
+      },
+      {
+        "question": "Given the font and layout of the text, what is the overarching design style of the packaging?",
+        "answer": "Informative"
+      },
+      {
+        "question": "What specific type of information, crucial for consumer awareness, is displayed on the package?",
+        "answer": "Dosage"
+      },
+      {
+        "question": "What language is primarily used for labeling on the product's packaging?",
+        "answer": "English"
+      },
+      {
+        "question": "What is the indicated number of servings contained within this packaged product?",
+        "answer": "365"
+      },
+      {
+        "question": "Based solely on visible text, what does the product claim to support?",
+        "answer": "Bones"
+      },
+      {
+        "question": "From the observable text, what is mentioned regarding dietary restrictions?",
+        "answer": "Vegetarian"
+      },
+      {
+        "question": "What is indicated on the package about usage, considering the time of day?",
+        "answer": "Meal"
+      },
+      {
+        "question": "Does the visible packaging show any seal or indication of tampering?",
+        "answer": "No"
+      }
+    ]
+  }
+]

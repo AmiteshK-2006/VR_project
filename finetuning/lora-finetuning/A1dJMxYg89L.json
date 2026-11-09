@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b8/b8a214ba.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent weave type of this fabric?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Based on the image, what is the overall visual impression of the fabric's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging from the image, what is the apparent finish of the fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "From the visual details, what is the implied weight or hand feel of the material?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Does the fabric display any discernible patterns or designs?",
+        "answer": "No"
+      },
+      {
+        "question": "Based solely on the image, what type of fiber does the fabric appear to be?",
+        "answer": "Unknown"
+      },
+      {
+        "question": "Is the fabric depicted in the image uniform in color and texture throughout?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent sheen or glossiness of the displayed fabric?",
+        "answer": "Low"
+      },
+      {
+        "question": "Based on its visual characteristics, what is the implied drape of the fabric?",
+        "answer": "Moderate"
+      },
+      {
+        "question": "Does the image suggest any visible irregularities, such as knots or flaws?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall visual impression of the color saturation of the fabric?",
+        "answer": "Low"
+      },
+      {
+        "question": "Judging by the image alone, what is the general look of the material?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Can you describe the apparent density of the weave of the fabric?",
+        "answer": "Tight"
+      },
+      {
+        "question": "From the visual details, what is the apparent opacity of the material?",
+        "answer": "Opaque"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/42/4232336f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the overall texture of the fabric depicted in the provided image?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Considering the visible weave, what type of fabric is predominantly displayed?",
+        "answer": "Textile"
+      },
+      {
+        "question": "Based on the image, what is the apparent finish of the fabric's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Describe the visual density of the fabric's weave as shown in the provided image?",
+        "answer": "Tight"
+      },
+      {
+        "question": "What is the apparent fiber direction visible in the detailed fabric texture?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Does the image depict any noticeable pattern in the fabric’s structure?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the visual characteristics, what is the suggested weight of the fabric?",
+        "answer": "Medium"
+      },
+      {
+        "question": "From the visual inspection, what is the level of sheen present in the fabric?",
+        "answer": "Low"
+      },
+      {
+        "question": "Based solely on the image, is the fabric uniformly colored?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the visual impression of the fabric’s drape based on the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What seems to be the primary method used in constructing this textile?",
+        "answer": "Weaving"
+      },
+      {
+        "question": "Can you describe the visual clarity of the fabric's weave pattern?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Does the image suggest any discernible irregularities in the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image, what level of visual detail is present in the fabric?",
+        "answer": "High"
+      }
+    ]
+  }
+]

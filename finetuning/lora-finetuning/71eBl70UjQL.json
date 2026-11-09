@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/52/5280a916.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the product container, as shown in the provided image?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the predominant color of the product's packaging, as visually apparent?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the image, what seems to be the primary material of the product's outer container?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Based on the image, is there any text visible on the product, specifying its contents or brand?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent type of text on the packaging, taking into account its style and size?",
+        "answer": "Japanese"
+      },
+      {
+        "question": "Does the can packaging feature any noticeable graphics, besides text, as clearly seen in the image?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging from the image, what seems to be the color of the QR code printed on the can?",
+        "answer": "Black"
+      },
+      {
+        "question": "Observing the provided image, is the can's surface smooth or textured?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based solely on the image, what appears to be the brand name prominently displayed?",
+        "answer": "HappyBelly"
+      },
+      {
+        "question": "What color, if any, is the bottom edge of the product container in the image?",
+        "answer": "Silver"
+      },
+      {
+        "question": "Considering the image, does the can have any noticeable seam lines or joints?",
+        "answer": "Yes"
+      },
+      {
+        "question": "From the visible image, is there any other languages used on the packaging besides Japanese?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the image, what is the apparent type of barcode present on the can?",
+        "answer": "EAN"
+      },
+      {
+        "question": "Considering the image, what is the overall condition of the can packaging?",
+        "answer": "New"
+      },
+      {
+        "question": "Judging from the image, is the can sealed or open?",
+        "answer": "Sealed"
+      }
+    ]
+  }
+]

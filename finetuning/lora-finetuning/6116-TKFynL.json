@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f4/f4c4db97.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the packaging box?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the overall shape of the product container?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material appears to constitute the product's outer packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the primary text color on the box's label?",
+        "answer": "White"
+      },
+      {
+        "question": "Does the packaging prominently feature any noticeable graphics or images?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the text, what is the likely product category?",
+        "answer": "Medicine"
+      },
+      {
+        "question": "Can you identify any dosage or age-related information displayed on the box?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is the text on the box primarily presented in upper-case or lower-case letters?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "What is the texture of the outer packaging likely to be?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Are there any prominent warning symbols or icons visible on the package?",
+        "answer": "No"
+      },
+      {
+        "question": "What kind of font style is used for the main product information?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Does the box indicate any specific instructions for use or storage?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is the packaging predominantly matte or glossy in appearance?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the color of the smaller text details on the box?",
+        "answer": "White"
+      },
+      {
+        "question": "Are there any visible seals or tamper-evident features on the box?",
+        "answer": "No"
+      }
+    ]
+  }
+]

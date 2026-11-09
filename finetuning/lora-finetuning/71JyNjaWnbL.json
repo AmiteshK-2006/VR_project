@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/35/352e99fc.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall shape and form, what best describes the product's general contour, as visibly presented?",
+        "answer": "Bottle"
+      },
+      {
+        "question": "What is the dominant hue of the bottle, apparent across its entirety?",
+        "answer": "Green"
+      },
+      {
+        "question": "Based on visual examination, what material seems to compose the main body of this product?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Observing the cap's surface texture, what is its apparent finish?",
+        "answer": "Metallic"
+      },
+      {
+        "question": "What color is the bottle's cap or closure, as seen in the provided image?",
+        "answer": "Gold"
+      },
+      {
+        "question": "Focusing on the bottle's base, what is its visible shape at its lowermost part?",
+        "answer": "Round"
+      },
+      {
+        "question": "What is the most noticeable feature printed on the bottle's surface, providing information about the content?",
+        "answer": "Label"
+      },
+      {
+        "question": "What is the apparent physical state of the product contained within the bottle?",
+        "answer": "Liquid"
+      },
+      {
+        "question": "Judging by the visual clarity of the bottle's contents, what is the overall transparency level?",
+        "answer": "Translucent"
+      },
+      {
+        "question": "Considering the bottle's neck design, what shape best describes this section?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the general color of the liquid contained inside the bottle, as visible through the glass?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What does the barcode visually appear to indicate, considering the product's context?",
+        "answer": "Information"
+      },
+      {
+        "question": "Focusing on the label's print quality, what is its visible condition?",
+        "answer": "Sharp"
+      },
+      {
+        "question": "Based on visual cues alone, what appears to be the packaging type for this item?",
+        "answer": "Single"
+      },
+      {
+        "question": "From this image, what is the most obvious use-case for the product, based on the bottle's design?",
+        "answer": "Pouring"
+      }
+    ]
+  }
+]

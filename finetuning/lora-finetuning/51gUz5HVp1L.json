@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0b/0b3f52d1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the textual information presented, what single adjective describes the nature of the ingredients listed?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Based on the text, what vegetable is explicitly mentioned as a constituent?",
+        "answer": "Broccoli"
+      },
+      {
+        "question": "According to the visible text, what other vegetable is included in the product?",
+        "answer": "Cauliflower"
+      },
+      {
+        "question": "What root vegetable, as indicated by the text, comprises part of the item?",
+        "answer": "Carrots"
+      },
+      {
+        "question": "What is the overarching descriptor used before each vegetable in the ingredient list?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the word preceding the listing of the included components?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Considering the visual presentation, what is the primary form of the information conveyed?",
+        "answer": "Text"
+      },
+      {
+        "question": "Describe the general orientation of the presented text relative to the viewer?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the font style employed for the written details, sans-serif or serif?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Describe the case of the letters used throughout the textual content, uppercase or lowercase?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "In terms of typographic properties, what is the overall weight of the font used, bold or regular?",
+        "answer": "Regular"
+      },
+      {
+        "question": "Observing the provided image, what is the predominant hue of the background area?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe the uniformity of the lettering's arrangement, consistent or inconsistent?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "How would you characterize the level of visual detail present in the image, high or low?",
+        "answer": "Low"
+      },
+      {
+        "question": "What is the general form of the textual arrangement on the background, a list or a paragraph?",
+        "answer": "List"
+      }
+    ]
+  }
+]

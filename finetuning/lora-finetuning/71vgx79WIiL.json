@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6c/6c13277f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the tabletop surface shown in the provided image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What appears to be the material of construction for the tabletop, based on visual inspection?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Considering the image, what is the most prominent shape defining the overall structure of the presented piece?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the illustration, what seems to be the material used for the visible frame of the furniture item?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Judging from the image, how many distinct levels or shelves are visibly present in this piece of furniture?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the apparent finish or texture of the visible metal framework component?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the tabletop appear to be composed of one single piece, or multiple joined sections?",
+        "answer": "Two"
+      },
+      {
+        "question": "From the visual provided, what is the overall style that best describes the aesthetic of the depicted object?",
+        "answer": "Modern"
+      },
+      {
+        "question": "Considering the image's depiction, what is the general height relative to its width and depth, considering its dimensions?",
+        "answer": "Low"
+      },
+      {
+        "question": "Based solely on visual observation of the provided image, what is the most apparent visual aspect of this item?",
+        "answer": "Simple"
+      },
+      {
+        "question": "If considering the visual details, what kind of joints seem to connect the wooden top to the metal frame?",
+        "answer": "Butt"
+      },
+      {
+        "question": "From the provided image, what is the visible method of support for the wooden tabletop shown?",
+        "answer": "Frame"
+      },
+      {
+        "question": "Judging by the image, is there any visible ornamentation or decorative elements on the coffee table?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image's presentation, what is the likely intended use for this piece of furniture?",
+        "answer": "Coffee"
+      },
+      {
+        "question": "From a visual standpoint, is the design minimalist, ornate, or somewhere in between?",
+        "answer": "Minimalist"
+      }
+    ]
+  }
+]

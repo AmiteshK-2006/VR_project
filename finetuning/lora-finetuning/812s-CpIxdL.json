@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4b/4b65bf41.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the mailing envelope shown in the image?",
+        "answer": "Gold"
+      },
+      {
+        "question": "What material appears to constitute the primary structure of this padded envelope?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Considering the image, what is the overall shape of the displayed mailing envelope?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visual evidence, what type of closure mechanism is present on the envelope?",
+        "answer": "Self-adhesive"
+      },
+      {
+        "question": "Judging from the image, what is the color of the adhesive strip visible on the envelope?",
+        "answer": "Red"
+      },
+      {
+        "question": "What texture is predominantly visible on the surface of the shown padded envelope?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent function of the padded envelope depicted in this image?",
+        "answer": "Shipping"
+      },
+      {
+        "question": "Does the image reveal any noticeable perforations on the envelope's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "What kind of text is printed on the adhesive strip of the mailing envelope?",
+        "answer": "Warning"
+      },
+      {
+        "question": "Observing the image, is there any visible pattern on the envelope's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Is the envelope depicted in the provided image appearing to be opened or closed?",
+        "answer": "Open"
+      },
+      {
+        "question": "Does the image suggest that this envelope has a bubble lining or padding?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging from its appearance, does the envelope appear to be pre-printed or blank?",
+        "answer": "Blank"
+      },
+      {
+        "question": "Considering the image's details, is the envelope's seal completely visible?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the image show any visible branding or logos on the mailing envelope?",
+        "answer": "No"
+      }
+    ]
+  }
+]

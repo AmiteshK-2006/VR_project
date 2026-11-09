@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/04/0439e41a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape and orientation of the presented nutrition facts label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the typography, what is the style of the primary header text?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the predominant color used for the background of the label?",
+        "answer": "White"
+      },
+      {
+        "question": "What color is the text predominantly displayed in on the label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the visual texture of the label's surface, as shown in the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image, what appears to be the material of the label?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Judging from the image, what is the visual arrangement of information on the label?",
+        "answer": "Tabular"
+      },
+      {
+        "question": "What is the general style of the label's design, in terms of its visual presentation?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Based on the visual appearance, what is the level of detail in the information presented?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the primary subject conveyed by the text and its layout?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the visual format of the nutritional values presented?",
+        "answer": "Numerical"
+      },
+      {
+        "question": "Considering the image, how many columns are visibly present in the data layout?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the apparent visual weight or prominence of the 'Nutrition Facts' header?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the relative size of the text related to the 'Serving Size' compared to the rest?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the visual clarity of the text presented on the nutrition label?",
+        "answer": "Clear"
+      }
+    ]
+  }
+]

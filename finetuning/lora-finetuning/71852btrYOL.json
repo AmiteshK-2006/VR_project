@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/22/223abcd5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the visible metal housing?",
+        "answer": "White"
+      },
+      {
+        "question": "What appears to be the primary material of construction?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Considering the overall form, what is the product's shape?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describing the surface, what is the apparent texture of the metal?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What kind of visible features are present on the bottom edge?",
+        "answer": "Screwholes"
+      },
+      {
+        "question": "Observing the design, what is the purpose of the inward-facing curve?",
+        "answer": "Retention"
+      },
+      {
+        "question": "Judging by its structure, what might be this object's function?",
+        "answer": "Enclosure"
+      },
+      {
+        "question": "What seems to be the finish applied to the exterior metal surfaces?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Examining the details, what is the general profile of the piece?",
+        "answer": "Shallow"
+      },
+      {
+        "question": "Considering the visible components, is the design symmetrical or asymmetrical?",
+        "answer": "Asymmetrical"
+      },
+      {
+        "question": "Based on the image, what is the overall size relative to a standard sheet of paper?",
+        "answer": "Similar"
+      },
+      {
+        "question": "Focusing on the edges, are they sharp or rounded in appearance?",
+        "answer": "Sharp"
+      },
+      {
+        "question": "Judging from the image, is the metal gauge thick or thin?",
+        "answer": "Thin"
+      },
+      {
+        "question": "What type of opening or slot is visible on the upper-left?",
+        "answer": "Recess"
+      },
+      {
+        "question": "Regarding the construction, how many visible sides of the enclosure are shown?",
+        "answer": "Three"
+      }
+    ]
+  }
+]

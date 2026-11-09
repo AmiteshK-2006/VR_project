@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1a/1af680a4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color scheme used throughout the entire nutrition facts label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the overall layout, what is the dominant textual orientation on the nutrition label?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the numerical value prominently displayed representing the total calories per serving?",
+        "answer": "210"
+      },
+      {
+        "question": "What measurement unit is consistently used to quantify the amount of various nutrients in the label?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Based on the visual design, what is the font style predominantly used for the textual content?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Focusing on the structure, what is the overall shape or geometry of the label's main content area?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the descriptive term used to categorize the information provided on the label?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Referring to the text arrangement, what is the organizational method used for presenting the nutrient data?",
+        "answer": "Tabular"
+      },
+      {
+        "question": "Considering the contrast, what is the color of the background of the nutrition facts panel?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the text used to indicate the percentage of the daily recommended intake for each nutrient?",
+        "answer": "Percent"
+      },
+      {
+        "question": "Observing the visual details, what is the type of text formatting used for the header, 'Nutrition Facts'?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the textual phrase used to describe the quantity of servings in one container?",
+        "answer": "Servings"
+      },
+      {
+        "question": "Considering the information presented, what is the unit used to represent the serving size of the food item?",
+        "answer": "Rolls"
+      },
+      {
+        "question": "What is the term visually displayed to describe the amount of carbohydrate intake per serving?",
+        "answer": "Carbohydrate"
+      },
+      {
+        "question": "Based on the visual features, what is the term describing the factual data presented on this label?",
+        "answer": "Facts"
+      }
+    ]
+  }
+]

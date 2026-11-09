@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ba/ba3c44c4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the displayed item, based on visual observation?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the image, what appears to be the primary material used in the item's construction?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Based solely on the image, what is the overall shape of the presented product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging from the image, what is the apparent texture of the product's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the product in the image exhibit any noticeable seams or stitching, and if so, how many prominent ones?",
+        "answer": "Two"
+      },
+      {
+        "question": "From visual inspection, are there any visible patterns or designs printed on the product?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the image provided, what is the apparent thickness of the product?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Judging by the image's visual details, what is the product's apparent flexibility or rigidity?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Based on a visual assessment, does the product possess any visible closures or fasteners?",
+        "answer": "None"
+      },
+      {
+        "question": "From the provided image, can you determine if the item features any visible branding or logos?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the product's edges in the image, are they straight or curved?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Based solely on the image, what seems to be the item's primary function or use?",
+        "answer": "Protective"
+      },
+      {
+        "question": "Considering the visual details, what is the general condition of the displayed product?",
+        "answer": "New"
+      },
+      {
+        "question": "Does the product appear to have any visible embellishments or additional components beyond the primary material?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the image, is the overall design of the product simple or intricate?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

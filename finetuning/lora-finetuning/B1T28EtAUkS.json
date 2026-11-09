@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9c/9c1757a5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the fabric shown in the image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the image's texture, what is the fabric's apparent weave style?",
+        "answer": "Linen"
+      },
+      {
+        "question": "Based on the visual appearance, what is the general texture of the fabric?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Describe the visual impression of the fabric's surface, in terms of its smoothness or roughness?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Judging by the image, what kind of fiber is primarily used in the fabric's construction?",
+        "answer": "Natural"
+      },
+      {
+        "question": "What is the overall visual impression given by the color variations within the fabric?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "Based solely on visual inspection, how uniform is the color distribution across the fabric sample?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "From the image, does the fabric show any visible pattern or motif?",
+        "answer": "None"
+      },
+      {
+        "question": "Describe the visual density of the weave, closely observing the image's detail.",
+        "answer": "Dense"
+      },
+      {
+        "question": "Judging by the appearance, how thick or thin does the fabric appear to be?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Describe the visual sheen or lack thereof that is apparent on the fabric surface.",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the image reveal any visible flaws or imperfections in the fabric's construction?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from visual aspects, is the fabric's visual appearance primarily plain or ornate?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Considering the visual details, does the fabric seem to have a noticeable drape or stiffness?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Based on the visual inspection, what is the fabric's apparent weight or heft?",
+        "answer": "Moderate"
+      }
+    ]
+  }
+]

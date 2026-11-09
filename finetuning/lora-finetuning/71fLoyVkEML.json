@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/90/90cb43fe.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the primary shape of the presented product container?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What dominant color characterizes the majority of the product's packaging?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on visual observation, what appears to be the material of the product's bottle?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Discerning from the image, what is the noticeable texture of the product's container?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Focusing on the bottle's top, what is the form of the closure mechanism?",
+        "answer": "Flip-top"
+      },
+      {
+        "question": "Observing the label, what color is the text predominantly displayed in?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the color of the small graphic element present near the label's base?",
+        "answer": "Green"
+      },
+      {
+        "question": "Examining the container's label, what type of graphic element is visible (leaf, etc.)?",
+        "answer": "Leaf"
+      },
+      {
+        "question": "What is the overall style of the product's labeling design (minimal, ornate, etc.)?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "Is there a barcode present on the product's label for identification purposes?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Describe the print quality of the text and graphics on the product's label",
+        "answer": "Clear"
+      },
+      {
+        "question": "Judging by the visual appearance, does the container seem to be transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What is the apparent condition of the bottle (scratched, damaged, etc.)?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Based on visual inspection, what is the size or volume of the product container?",
+        "answer": "Large"
+      },
+      {
+        "question": "From the visible parts of the product label, does the product name clearly show?",
+        "answer": "No"
+      }
+    ]
+  }
+]

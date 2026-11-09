@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1a/1a167a10.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall structure, what is the primary function of this item, as visually apparent?",
+        "answer": "Packaging"
+      },
+      {
+        "question": "What is the most prominent color observed on the top label of this product?",
+        "answer": "Red"
+      },
+      {
+        "question": "Based solely on visual inspection, what appears to be the primary material used in the construction of the main body of this item?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Examining the item's form, what is its most apparent geometrical shape?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging by the visible divisions, what is the likely capacity for items within the structure of this product?",
+        "answer": "Twelve"
+      },
+      {
+        "question": "What is the visual texture of the main body of this product, observed in the image provided?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Focusing on the top label, is there any prominent symbol or indication of recycling present?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What type of printing is visible on the top label of this cardboard product, according to visual observation?",
+        "answer": "Text"
+      },
+      {
+        "question": "Based on what you see, what seems to be the predominant color of the internal compartments?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "What is the visible condition of the main body of this product, based solely on visual inspection?",
+        "answer": "Intact"
+      },
+      {
+        "question": "Considering the structure's design, are the internal compartments individually separated?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is there any noticeable damage or significant wear apparent on the exterior of this item?",
+        "answer": "No"
+      },
+      {
+        "question": "From the image, what seems to be the overall size of the product in relation to common household objects?",
+        "answer": "Small"
+      },
+      {
+        "question": "Focusing on the top label, is the text on the label aligned in any particular manner?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Describe the overall design of the product based on visible features and structure.",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

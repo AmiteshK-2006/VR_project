@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/41/41340ca7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the text providing the product ingredients, as displayed on the packaging?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the image's clarity, what is the overall style of the text font used for the ingredient list?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the visible portion, what seems to be the background color of the label containing the ingredient information?",
+        "answer": "White"
+      },
+      {
+        "question": "Given the visual details, can you identify the primary ingredient mentioned in the product's ingredient list?",
+        "answer": "Water"
+      },
+      {
+        "question": "From the visible text, which secondary ingredient contributes to the juice's flavor profile?",
+        "answer": "Pomegranate"
+      },
+      {
+        "question": "What is the text's presentation style regarding case and capitalization, as observed in the ingredient list?",
+        "answer": "Sentence"
+      },
+      {
+        "question": "What descriptive term qualifies the type of water used as an ingredient, according to the provided textual information?",
+        "answer": "Filtered"
+      },
+      {
+        "question": "Regarding the pomegranate ingredient, what term describes its form as listed in the ingredient list?",
+        "answer": "Concentrate"
+      },
+      {
+        "question": "What adjective modifies the 'flavor' component that is included in the product's composition, based on the visible text?",
+        "answer": "Natural"
+      },
+      {
+        "question": "What is the text's apparent orientation or direction relative to the viewer's perspective on the packaging?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What kind of labeling is primarily featured within the provided image, as clearly observed?",
+        "answer": "Ingredient"
+      },
+      {
+        "question": "What can you say about the packaging material used for the product, which is suggested by the visible section?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Judging by the image, what is the apparent visual density of the text in the product's ingredient list?",
+        "answer": "High"
+      },
+      {
+        "question": "Considering the visual details, what is the level of visual contrast between the text and the background, in the provided image?",
+        "answer": "High"
+      },
+      {
+        "question": "Considering the visual information available, what is the apparent clarity of the product's ingredient list?",
+        "answer": "Low"
+      }
+    ]
+  }
+]

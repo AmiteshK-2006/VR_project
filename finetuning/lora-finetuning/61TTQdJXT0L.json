@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ff/ffc9fb49.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall text presentation, what is the dominant textual style employed in this product's ingredient and analysis details?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the primary color used for the text detailing the ingredients and guaranteed analysis of the product?",
+        "answer": "Black"
+      },
+      {
+        "question": "Observing the textual layout, what is the dominant orientation of the text on the presented label?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Focusing on the section detailing the ingredients, what is the predominant organization method for listing the components?",
+        "answer": "List"
+      },
+      {
+        "question": "What is the specific term used to categorize the numerical data concerning the product's composition?",
+        "answer": "Analysis"
+      },
+      {
+        "question": "What is the descriptive term used to denote the substances that constitute the product?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What single word best describes the type of information presented in the guaranteed analysis section?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Based on the visual appearance, what is the overall tone or style of the text and label design?",
+        "answer": "Informative"
+      },
+      {
+        "question": "What word is used to denote the minimum acceptable percentage of a specific component?",
+        "answer": "Min"
+      },
+      {
+        "question": "Considering the labels on the numerical data, what word indicates the maximum allowable percentage?",
+        "answer": "Max"
+      },
+      {
+        "question": "Considering the context, what is the single word that encompasses the presented quantitative data?",
+        "answer": "Percentages"
+      },
+      {
+        "question": "What is the term used to describe the component contributing to the product's color, as indicated by the label?",
+        "answer": "Extract"
+      },
+      {
+        "question": "Based on the label, what is one listed ingredient contributing to the product's color?",
+        "answer": "Dioxide"
+      },
+      {
+        "question": "What is the term used for the substance indicated to be a preservative in the product's ingredients?",
+        "answer": "Tocopherols"
+      },
+      {
+        "question": "What single word best describes the overall layout of information on the product label?",
+        "answer": "Organized"
+      }
+    ]
+  }
+]

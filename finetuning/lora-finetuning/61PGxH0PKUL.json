@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6e/6eda679d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular layout and the clear black text on a white background, what is the dominant visual characteristic of this product image?",
+        "answer": "Label"
+      },
+      {
+        "question": "Focusing on the typography, what is the most prominent text style utilized across the nutrition facts?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Regarding the information presented, what fundamental aspect of food is primarily detailed in the image?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What specific nutritional metric, prominently displayed, represents the energy content per serving?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Analyzing the numerical data provided, what is the quantitative value assigned to the 'Calories per serving'?",
+        "answer": "80"
+      },
+      {
+        "question": "In terms of textual organization, what is the primary means of structuring the detailed nutritional information?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the stated unit for the serving size, quantitatively describing the amount of food?",
+        "answer": "Ounces"
+      },
+      {
+        "question": "What numerical value is provided in the image to represent the quantity of total carbohydrates per serving?",
+        "answer": "0"
+      },
+      {
+        "question": "With regard to the dietary minerals, what is the measured value for Potassium (Potas.)?",
+        "answer": "160"
+      },
+      {
+        "question": "Concerning the presentation of nutritional information, what is the format used for expressing percentages of daily values?",
+        "answer": "Percent"
+      },
+      {
+        "question": "What unit of measurement is used for the 'Cholesterol' value provided in the nutritional table?",
+        "answer": "Milligrams"
+      },
+      {
+        "question": "What is the numerical value given for 'Sodium' in milligrams (mg) per serving?",
+        "answer": "520"
+      },
+      {
+        "question": "What is the value for protein in grams indicated in the nutrition facts?",
+        "answer": "13"
+      },
+      {
+        "question": "What is the measurement unit used to quantify the amount of Vitamin D (Vit. D) content in the product?",
+        "answer": "Micrograms"
+      },
+      {
+        "question": "Considering the layout, which word acts as the primary descriptor for the overall information presented?",
+        "answer": "Nutrition"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/96/96d548fc.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual presentation, what is the primary color of the text depicting the ingredients?",
+        "answer": "Black"
+      },
+      {
+        "question": "Disregarding any background elements, what is the most prominent font style used in conveying the ingredient list?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the visual representation, what is the case of the lettering used to specify the product components?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "What is the most apparent word used to label the product constituents, immediately preceding the ingredient specifics?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Ignoring any contextual information, what is the first organic ingredient listed, specified in the text provided?",
+        "answer": "Spinach"
+      },
+      {
+        "question": "Excluding any contextual information or supplementary details, what is the second organic ingredient identified in the visible text?",
+        "answer": "Arugula"
+      },
+      {
+        "question": "Focusing solely on the textual display, what is the descriptor preceding both the spinach and arugula ingredients?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What punctuation mark separates the two listed organic ingredients in the product description?",
+        "answer": "Comma"
+      },
+      {
+        "question": "Ignoring any additional information, what is the overall alignment of the text describing the product's ingredients?",
+        "answer": "Left"
+      },
+      {
+        "question": "Based on the visual depiction, is the font size of the ingredients list consistent across all elements of the text?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering solely the visible text, what is the type of text style used to present the information concerning the product's contents?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the apparent background color on which the ingredient text is visibly printed or displayed?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the apparent relative width of each individual character in the presented ingredient list?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Focusing solely on the visible elements of the text, what is the perceived spacing or kerning between letters in the given ingredient list?",
+        "answer": "Standard"
+      },
+      {
+        "question": "Based only on the visual evidence, what is the approximate length of the ingredient list description visible in the provided image?",
+        "answer": "Medium"
+      }
+    ]
+  }
+]

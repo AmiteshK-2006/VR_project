@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/cd/cdeaacc1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the rectangular packaging shown in the image?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What is the primary shape of the object depicted in the provided image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the packaging's appearance, what material seems most likely to have been used for its construction?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Based on the image, does the rectangular package show any visible text other than the barcode and recycling symbol?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the image, what is the orientation of the barcode printed on the packaging?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Referring to the image, what type of code is displayed prominently on the product packaging?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "From the image, what is the overall surface texture of the rectangular packaging in the provided image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the image display any noticeable wear or damage on the presented rectangular product packaging?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image, what symbol is present along with the barcode on the rectangular package?",
+        "answer": "Recycle"
+      },
+      {
+        "question": "Based on the image, is the color of the packaging uniform or does it display any patterns?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Considering the visual evidence, does the packaging seem to be sealed or open?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Based on the image, is the packaging showing any signs of bending or creases?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the image, is the packaging glossy or matte in appearance?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the number of sides visible on the rectangular box in this image?",
+        "answer": "One"
+      },
+      {
+        "question": "Considering what the image shows, is the box clearly labelled with any brand name?",
+        "answer": "No"
+      }
+    ]
+  }
+]

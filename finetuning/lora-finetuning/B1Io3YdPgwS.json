@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/15/1558e0d8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the displayed fabric swatch?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the weave and texture, what is the apparent fabric type?",
+        "answer": "Linen"
+      },
+      {
+        "question": "Based on visual inspection, what is the overall surface texture of the material?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Describe the visual density of the fabric's weave, is it loose or tight?",
+        "answer": "Tight"
+      },
+      {
+        "question": "What is the general impression of the fabric's visual weight or substance?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "Does the fabric exhibit a visible sheen or gloss; is it matte or shiny?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the observed uniformity of the color across the fabric sample?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Judging from the image, is there any visible pattern or design in the fabric?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the implied level of the fabric's apparent smoothness or roughness?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Can you describe the visual appearance of individual fabric threads?",
+        "answer": "Fine"
+      },
+      {
+        "question": "Does the fabric appear to be tightly or loosely constructed?",
+        "answer": "Tightly"
+      },
+      {
+        "question": "What is the overall visual impression of the presented fabric sample?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Is the color of the fabric sample a warm or cool tone?",
+        "answer": "Cool"
+      },
+      {
+        "question": "What is the apparent visual depth or dimension of the fabric's texture?",
+        "answer": "Slight"
+      },
+      {
+        "question": "From its visual characteristics, what is the likely drape of the fabric?",
+        "answer": "Crisp"
+      }
+    ]
+  }
+]

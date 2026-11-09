@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/92/92fc6103.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the visible fabric portion of the product shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary material composition of the product, as indicated by the visible label?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "Considering the image, what is the general texture of the visible fabric surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on its appearance, what is the overall shape of the product shown?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging from the visible label, what brand is associated with this product?",
+        "answer": "Amazonbasics"
+      },
+      {
+        "question": "Does the image show any visible stitching, seams, or other construction details?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the visible orientation of the labeling information on the item in the picture?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Judging from the image, what is the general condition or level of wear shown on the product?",
+        "answer": "New"
+      },
+      {
+        "question": "Does the product's visible labeling include any care instructions or symbols?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is the text on the label predominantly in a single language, or are multiple languages used?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "What is the apparent thickness or weight of the fabric shown in the image?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Based on the visible features, what is the likely intended use of the item?",
+        "answer": "Storage"
+      },
+      {
+        "question": "Considering the details visible in the photograph, what is the overall style of this product?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What type of label is visible on the product in the picture?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Judging from the picture, does the label include any size or measurement information?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

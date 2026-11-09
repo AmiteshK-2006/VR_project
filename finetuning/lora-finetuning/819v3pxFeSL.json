@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/35/35cd3f34.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color scheme of this food label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the primary text used to convey the nutritional information, considering its size and boldness?",
+        "answer": "White"
+      },
+      {
+        "question": "Observing the text structure, what key term describes the information presented on the label?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Regarding the numerical data, what is the unit used for measuring total fat?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Focusing on the serving size, how many muffins are equivalent to one serving?",
+        "answer": "Five"
+      },
+      {
+        "question": "Looking at the calorie count, how many calories are present in one serving?",
+        "answer": "FiveHundred"
+      },
+      {
+        "question": "Considering the layout, what is the arrangement used to present the nutritional components?",
+        "answer": "Table"
+      },
+      {
+        "question": "Based on the label’s text, what is the total number of servings available per container?",
+        "answer": "TwoPointFive"
+      },
+      {
+        "question": "Referring to the details about sugars, what is the percentage value indicated next to 'added sugars'?",
+        "answer": "Seventy"
+      },
+      {
+        "question": "What is the measurement unit for cholesterol indicated within the label's text?",
+        "answer": "Milligrams"
+      },
+      {
+        "question": "What numerical value is displayed for total carbohydrates in one serving?",
+        "answer": "SixtyFour"
+      },
+      {
+        "question": "Observing the text's formatting, what is the term describing the type of food being analysed?",
+        "answer": "Muffins"
+      },
+      {
+        "question": "What unit is employed to express the amount of dietary fiber present in each serving?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Examining the nutritional information, what is the weight of a single serving in grams?",
+        "answer": "OneHundredTwentyTwo"
+      },
+      {
+        "question": "Looking at the protein content, what is the measurement unit used to indicate the amount of protein per serving?",
+        "answer": "Grams"
+      }
+    ]
+  }
+]

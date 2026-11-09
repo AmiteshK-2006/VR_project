@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/07/07ec5aa0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color scheme of the product packaging, as directly observed?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Examining the text on the packaging, what language is predominantly used, visually apparent on the label?",
+        "answer": "English"
+      },
+      {
+        "question": "Based on the visual text, what specific type of dried fruit is prominently featured, explicitly named in the product title?",
+        "answer": "Cranberries"
+      },
+      {
+        "question": "From a visual inspection, identify the type of nut prominently mentioned in the ingredients list, presented in the primary label text?",
+        "answer": "Cashews"
+      },
+      {
+        "question": "Judging from the image, what other dried fruit is visibly highlighted as a key component, explicitly stated on the label?",
+        "answer": "Cherries"
+      },
+      {
+        "question": "What additional dried fruit, clearly visible on the label, complements the cranberries and cherries?",
+        "answer": "Raisins"
+      },
+      {
+        "question": "Through visual inspection, what other type of fruit, clearly identifiable on the label, is included as an ingredient?",
+        "answer": "Physalis"
+      },
+      {
+        "question": "What is the visually apparent texture of the cashew nuts as depicted in the product image?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What is the visually apparent texture of the cranberries, as observed on the packaging?",
+        "answer": "Wrinkled"
+      },
+      {
+        "question": "From visual assessment, is the text on the packaging predominantly written in uppercase or lowercase?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "What type of font style is used for the most prominent text, visually observed on the package?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Judging visually, is the overall design of the packaging primarily simple or ornate?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Considering the packaging's visual appeal, what kind of label design (e.g., minimalist, illustrative, etc.) would you classify it as?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "From a visual perspective, what is the primary format of the product shown, based on its shape and the image provided?",
+        "answer": "Bag"
+      },
+      {
+        "question": "Visually determining the overall information conveyed, what kind of diet is the product suited for, indicated on the label?",
+        "answer": "Vegan"
+      }
+    ]
+  }
+]

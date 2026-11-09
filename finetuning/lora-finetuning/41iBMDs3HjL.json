@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c4/c416b57f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the provided text, what is the primary ingredient explicitly mentioned as a component of this product?",
+        "answer": "Coffee"
+      },
+      {
+        "question": "Based on the text's description, can you identify at least one country of origin for the raw materials used in this product's production?",
+        "answer": "Ethiopia"
+      },
+      {
+        "question": "According to the label's statement on the source of the raw materials, what other country is listed besides Ethiopia as a producer of this product's base material?",
+        "answer": "Brazil"
+      },
+      {
+        "question": "Does the text suggest that this product uses raw materials originating from only two specified countries, or are other regions also implied as possible sources?",
+        "answer": "Others"
+      },
+      {
+        "question": "What specific term describes the state of the coffee beans before any processing takes place, as shown in the text?",
+        "answer": "Green"
+      },
+      {
+        "question": "Based solely on the text, what term is used to describe the primary raw ingredient used to manufacture this particular product?",
+        "answer": "Beans"
+      },
+      {
+        "question": "Referring only to the text provided, what is the name of the raw material that this product is made from?",
+        "answer": "Coffee"
+      },
+      {
+        "question": "In the text, what word or phrase is utilized to indicate the origin of raw components utilized in the creation of the product?",
+        "answer": "Production"
+      },
+      {
+        "question": "As indicated by the text, which word describes the condition or state of coffee beans before any preparation or processing?",
+        "answer": "Raw"
+      },
+      {
+        "question": "Considering only the visible text, what term is used to identify the name of the raw material employed in the product's formulation?",
+        "answer": "Material"
+      },
+      {
+        "question": "What word from the text specifies the kind of beans used to make the product?",
+        "answer": "Coffee"
+      },
+      {
+        "question": "According to the text provided, what's the term to describe the country where the coffee beans were cultivated?",
+        "answer": "Country"
+      },
+      {
+        "question": "What word describes the action of producing the coffee beans as mentioned in the text?",
+        "answer": "Producing"
+      },
+      {
+        "question": "From the text alone, what is the name given to the process that yields the coffee beans, as stated by the text?",
+        "answer": "Production"
+      },
+      {
+        "question": "What word in the text denotes the substance from which the product is made?",
+        "answer": "Ingredient"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a8/a8add5d5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the presented fabric swatch?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the visible weave, what is the apparent texture of the fabric?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Based on visual inspection, what is the general material type of this sample?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Describing the visual appearance, what is the overall finish of the material?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging by the image, how would you characterize the density of the weave?",
+        "answer": "Tight"
+      },
+      {
+        "question": "Does the fabric display any noticeable patterns or designs?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the apparent level of sheen or glossiness exhibited by the fabric?",
+        "answer": "Low"
+      },
+      {
+        "question": "Considering its appearance, what is the likely weight of the material?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the predominant visual tone of the fabric swatch presented?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Can you determine the uniformity of the color throughout the sample?",
+        "answer": "Yes"
+      },
+      {
+        "question": "From the picture, is the material seemingly smooth or coarse?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging from the image, what is the implied drape of the material?",
+        "answer": "Slight"
+      },
+      {
+        "question": "What is the visible fiber direction in the presented fabric swatch?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What seems to be the overall style conveyed by this fabric sample?",
+        "answer": "Plain"
+      },
+      {
+        "question": "What is the apparent visual consistency of the fabric’s texture?",
+        "answer": "Uniform"
+      }
+    ]
+  }
+]

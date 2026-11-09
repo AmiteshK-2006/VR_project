@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/df/dfeeb2a8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall appearance, what single word best describes the dominant color scheme of this product's packaging?",
+        "answer": "Red"
+      },
+      {
+        "question": "Based on the visual texture of the text, what material is the label most likely printed on?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Analyzing the text's visual characteristics, what style of font is predominantly used on the packaging?",
+        "answer": "Serif"
+      },
+      {
+        "question": "Considering the visual arrangement of the label elements, what is the main purpose of the displayed text?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Judging solely by the appearance, does the packaging's text appear to be arranged in an organized or disorganized manner?",
+        "answer": "Organized"
+      },
+      {
+        "question": "Considering the visual presence of each word, what is the most prominent word mentioned on the label?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "By visually examining the size and prominence of the text elements, what is the secondary emphasis word on the packaging?",
+        "answer": "Cake"
+      },
+      {
+        "question": "Based purely on visual observation, what kind of information is prominently communicated in addition to ingredients?",
+        "answer": "Certification"
+      },
+      {
+        "question": "From a purely visual perspective,  what is suggested about the manufacturing process via the visual elements?",
+        "answer": "Commercial"
+      },
+      {
+        "question": "Observing the typefaces used, what stylistic consistency or inconsistency is present in the packaging text?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Based on the visual cues, what style of presentation is employed for the listed ingredients?",
+        "answer": "List"
+      },
+      {
+        "question": "In terms of visual appearance, how would you characterize the overall information density of the label?",
+        "answer": "High"
+      },
+      {
+        "question": "Considering the visual clarity of the text, what is the overall legibility of the text on the packaging?",
+        "answer": "Good"
+      },
+      {
+        "question": "Regarding the visible text, what is the general state of its alignment, from a visual perspective?",
+        "answer": "Left"
+      },
+      {
+        "question": "Judging from the visual characteristics, what is the general visual tone conveyed by the text?",
+        "answer": "Informative"
+      }
+    ]
+  }
+]

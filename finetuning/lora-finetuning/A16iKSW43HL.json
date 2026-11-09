@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b2/b2dc5a14.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the bath mat, as seen in the image?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent material of the bath mat?",
+        "answer": "Chenille"
+      },
+      {
+        "question": "Based on the image, what is the overall shape of the presented bath mat?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging from the image's visual details, what is the pile height of the bath mat?",
+        "answer": "High"
+      },
+      {
+        "question": "Does the bath mat in the image appear to have a discernible pattern or design?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall visual texture of the bath mat as depicted?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Based solely on the image, is the bath mat's color uniformly consistent?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Describe the visual appearance of the bath mat's edges from the provided image?",
+        "answer": "Neat"
+      },
+      {
+        "question": "Considering the image, does the bath mat seem plush or thin to the touch?",
+        "answer": "Plush"
+      },
+      {
+        "question": "From the image, what level of visual sheen or gloss does the bath mat exhibit?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the apparent density of fibers visually observed in the bath mat?",
+        "answer": "High"
+      },
+      {
+        "question": "Does the image show any visible seams or joins on the bath mat?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the overall visual appearance, how would you describe the bath mat's style?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Based on the visual evidence, is the bath mat's surface completely smooth or textured?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Describe the visual appearance of the bath mat's pile in the provided image?",
+        "answer": "Uniform"
+      }
+    ]
+  }
+]

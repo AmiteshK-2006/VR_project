@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c2/c26424f4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the nutritional information panel?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of the presented nutritional information box?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary font style used in displaying the nutritional values?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the text alignment of the 'per 100g' label?",
+        "answer": "Right"
+      },
+      {
+        "question": "What is the text case used for the main nutritional categories (Energy, Fat, etc.)?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "What units are used for the energy content, kcal and kJ?",
+        "answer": "kcal"
+      },
+      {
+        "question": "What unit is used to measure the amount of fat?",
+        "answer": "g"
+      },
+      {
+        "question": "What unit is used to measure the amount of carbohydrates?",
+        "answer": "g"
+      },
+      {
+        "question": "What unit is used for the fiber content?",
+        "answer": "g"
+      },
+      {
+        "question": "What unit is used for the protein content?",
+        "answer": "g"
+      },
+      {
+        "question": "What unit is used to measure the salt content?",
+        "answer": "g"
+      },
+      {
+        "question": "What is the background texture of the nutritional information panel?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the style of the border around the nutritional information?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the overall layout style of the nutritional information?",
+        "answer": "tabular"
+      },
+      {
+        "question": "Does the nutritional information panel include a title indicating its purpose?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

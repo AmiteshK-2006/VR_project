@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/7e/7e06bae6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the visible surface?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What appears to be the primary material of the item shown?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent wood grain pattern?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Describe the overall visual tone or shade of the brown color shown?",
+        "answer": "Dark"
+      },
+      {
+        "question": "What kind of finish does the surface seem to have, based on its sheen?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging from the image, is there any visible knot or imperfection on the surface?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the image, what is the general shape of the presented object?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Does the wood grain appear consistent across the entire visible area?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is there any noticeable pattern or design besides the natural wood grain?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent level of surface smoothness or roughness of the wood?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the approximate visual depth or thickness of the sample?",
+        "answer": "Unknown"
+      },
+      {
+        "question": "Does the image reveal any evidence of artificial coloring or treatment?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging by the appearance, is the object likely natural or manufactured?",
+        "answer": "Manufactured"
+      },
+      {
+        "question": "Can you identify any visible markings such as labels or logos?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent visual state of the product shown (new, used, etc.)?",
+        "answer": "New"
+      }
+    ]
+  }
+]

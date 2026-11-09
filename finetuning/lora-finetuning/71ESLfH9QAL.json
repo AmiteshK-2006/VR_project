@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/20/207eecce.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the text on the nutritional facts label, considering both the font and background?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the overall layout, what is the primary organizational structure of the information presented on this label?",
+        "answer": "tabular"
+      },
+      {
+        "question": "Focusing on the numerical data, what unit is consistently used to measure the amount of fat in each serving?",
+        "answer": "grams"
+      },
+      {
+        "question": "Regarding the presentation of percentages, what is the reference value used as a basis for expressing the daily value of various nutrients?",
+        "answer": "percent"
+      },
+      {
+        "question": "What specific dietary component is highlighted using a larger font size compared to others, indicating its significance?",
+        "answer": "calories"
+      },
+      {
+        "question": "What is the descriptive term used to specify the amount of servings provided within the container?",
+        "answer": "about"
+      },
+      {
+        "question": "In terms of the data presented, what specific nutrient has a value less than 1 gram per serving?",
+        "answer": "sugars"
+      },
+      {
+        "question": "What term is used to indicate the amount of a certain nutrient that is contained in one serving?",
+        "answer": "amount"
+      },
+      {
+        "question": "What term is utilized for describing the quantity of a serving based on volume and weight?",
+        "answer": "cup"
+      },
+      {
+        "question": "What concise word is used to describe the total number of servings included in the product container?",
+        "answer": "servings"
+      },
+      {
+        "question": "What word is used before the specification of daily values on the nutrition facts label?",
+        "answer": "percent"
+      },
+      {
+        "question": "What is the label's primary purpose as described by its main heading?",
+        "answer": "facts"
+      },
+      {
+        "question": "What term denotes the size of a single portion of the product mentioned on the nutrition facts label?",
+        "answer": "serving"
+      },
+      {
+        "question": "What unit is utilized to quantify the serving size?",
+        "answer": "grams"
+      },
+      {
+        "question": "What is the primary subject being described on the product label?",
+        "answer": "nutrition"
+      }
+    ]
+  }
+]

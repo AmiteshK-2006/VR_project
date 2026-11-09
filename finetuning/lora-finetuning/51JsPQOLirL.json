@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a0/a0bb2686.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the visual characteristics of the text displayed, what is the predominant color observed in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the image, what appears to be the overall font style utilized for the text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Examining the image, what can be inferred about the text's alignment within the rectangular space?",
+        "answer": "Left"
+      },
+      {
+        "question": "From a purely visual perspective, what is the apparent surface texture of the text-bearing area?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging solely by visual inspection, what is the general shape of the visible textual element?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the observed arrangement of textual information on the surface, considering the visual details?",
+        "answer": "Linear"
+      },
+      {
+        "question": "In terms of the visual presentation, how would you describe the overall density of the displayed text?",
+        "answer": "High"
+      },
+      {
+        "question": "Focusing solely on the visual aspect, what seems to be the approximate size of the individual textual characters?",
+        "answer": "Small"
+      },
+      {
+        "question": "Based on a visual analysis, what is the apparent contrast between the text and its background in the provided image?",
+        "answer": "High"
+      },
+      {
+        "question": "From the visual evidence in the image, what is the most obvious way of describing the style of lettering used?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Analyzing the image, does the text appear to be printed or hand-written?",
+        "answer": "Printed"
+      },
+      {
+        "question": "What appears to be the orientation of the text in the image, based on visual assessment?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the apparent visual quality of the printed text in the image?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Considering the visual appearance, how many distinct lines of text are clearly visible?",
+        "answer": "Three"
+      },
+      {
+        "question": "Based on the visual information, what is the primary function of the displayed textual content?",
+        "answer": "Informative"
+      }
+    ]
+  }
+]

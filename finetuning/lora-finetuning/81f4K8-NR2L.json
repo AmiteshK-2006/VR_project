@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f7/f7232ac0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the primary shape of the depicted product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the dominant color displayed prominently on the front of the package?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Observing the material, what seems to be the primary packaging type used?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What message is predominantly featured in the central design element?",
+        "answer": "Water"
+      },
+      {
+        "question": "What graphic element visually represents the central message, offering a symbolic illustration?",
+        "answer": "Droplet"
+      },
+      {
+        "question": "Looking at the textual elements on the bag, what is the type of product indicated?",
+        "answer": "Coffee"
+      },
+      {
+        "question": "Describing the surface of the bag, what is its apparent texture?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the overall packaging, what is the general condition of the bag displayed?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "What is the color of the text found on the product's packaging, contrasting with the background?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is visible at the very top of the package, aiding in opening or closure?",
+        "answer": "Clips"
+      },
+      {
+        "question": "Located at the bottom, what element contains product-specific information and details?",
+        "answer": "Label"
+      },
+      {
+        "question": "What kind of code, essential for retail transactions, is visible near the bottom?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "Focusing on the textual content, what word immediately follows the word 'This'?",
+        "answer": "Bag"
+      },
+      {
+        "question": "What word completes the phrase 'This bag provides' printed on the product?",
+        "answer": "Water"
+      },
+      {
+        "question": "What is the name of the company visible on the product packaging (though slightly obscured)?",
+        "answer": "Toms"
+      }
+    ]
+  }
+]

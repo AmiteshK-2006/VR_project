@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/32/32c160d1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's prominent display and its content detailing the product's composition, what fundamental aspect of the product does this image directly depict?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Based on the text visible, what type of oil is explicitly named as a component of this product?",
+        "answer": "Olive"
+      },
+      {
+        "question": "According to the text provided, what specific variety of chili pepper is included in the product's recipe?",
+        "answer": "Calabrian"
+      },
+      {
+        "question": "In addition to whole pieces, what other form of chili pepper is listed among the ingredients?",
+        "answer": "Extract"
+      },
+      {
+        "question": "As indicated by the text, what is the descriptor used to describe the olive oil's quality?",
+        "answer": "Virgin"
+      },
+      {
+        "question": "What adjective modifies the listed 'olive oil', suggesting a superior grade?",
+        "answer": "Extra"
+      },
+      {
+        "question": "From the text alone, what is described as being 'dried' within the product's composition?",
+        "answer": "Pepper"
+      },
+      {
+        "question": "What is the term that specifies the processing status of the chili pepper pieces?",
+        "answer": "Dried"
+      },
+      {
+        "question": "What other potential allergen is noted within the text describing the product's production location?",
+        "answer": "Soy"
+      },
+      {
+        "question": "Besides soy, which other type of allergen is mentioned in relation to the product's manufacturing conditions?",
+        "answer": "Nuts"
+      },
+      {
+        "question": "What is the specific term referring to the type of nuts mentioned in the processing facility description?",
+        "answer": "Tree"
+      },
+      {
+        "question": "What word describes the manufacturing location\u2019s processing of certain allergens alongside the product?",
+        "answer": "Facility"
+      },
+      {
+        "question": "Considering the context, what is the implied overall state of the Calabrian chili pepper pieces?",
+        "answer": "Pieces"
+      },
+      {
+        "question": "What word describes the act performed by the facility on the tree nuts and soy?",
+        "answer": "Processes"
+      },
+      {
+        "question": "What is the single word that introduces the list of ingredients found in the product?",
+        "answer": "Ingredients"
+      }
+    ]
+  }
+]

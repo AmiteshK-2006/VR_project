@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/19/19ddcd46.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the background on which the ingredient list is printed?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "Considering the text's font and style, what kind of overall aesthetic does the label design project?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Based on the text's visual characteristics, what is the most likely type of product this label belongs to?",
+        "answer": "Food"
+      },
+      {
+        "question": "What is the overall shape and form factor of the label itself, as visible in the provided image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging from the text's clarity and style, what would you describe as the overall tone or message conveyed?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Given the content, which category of ingredients is most prominently featured on this label?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Observing the text arrangement, what is the predominant directional orientation of the written content?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the predominant texture implied by the visual appearance of the printed label?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the visual characteristics, which type of printing technique seems most probable?",
+        "answer": "Offset"
+      },
+      {
+        "question": "Given the size and the level of detail, what is the most likely production scale for this label?",
+        "answer": "Mass"
+      },
+      {
+        "question": "Judging from the visual appearance of the text, what printing method is most likely used?",
+        "answer": "Digital"
+      },
+      {
+        "question": "What is the apparent weight and thickness of the paper stock of the label?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Given the image quality, describe the apparent resolution of the printing on the label?",
+        "answer": "Low"
+      },
+      {
+        "question": "What color is the ink used in the printed list of ingredients on this label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Judging from the typeface, is the font design modern or classic in its visual style?",
+        "answer": "Classic"
+      }
+    ]
+  }
+]

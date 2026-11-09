@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/7b/7bbb67d8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall design, what is the most apparent purpose of this product, based on its visual features and labeling?",
+        "answer": "Sanitizer"
+      },
+      {
+        "question": "What is the primary color of the illustrated fruit on the label, suggesting a potential flavor or scent?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What material is the transparent outer casing of the product primarily constructed from, based on its visual appearance?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What shape best describes the overall form of the product's main container, excluding the attached clip?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describing the texture of the product inside the bottle, based on the image, what is its likely consistency?",
+        "answer": "Gel"
+      },
+      {
+        "question": "What is the predominant color of the text and branding on the product's label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What type of attachment is visible at the top of the container, seemingly intended for portability?",
+        "answer": "Clip"
+      },
+      {
+        "question": "What is the material of the carrying clip attached to the top of the hand sanitizer container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Disregarding the text, what is the shape of the secondary fruit illustration, contrasting with the primary fruit?",
+        "answer": "Round"
+      },
+      {
+        "question": "What is the color of the secondary fruit illustration on the label, contrasting with the main illustration?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What is the color of the background behind the brand name and fruit illustration on the label?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the text on the product label, what word describes the product's function?",
+        "answer": "Hand"
+      },
+      {
+        "question": "What word best describes the form of the packaging, referring to its overall shape and profile?",
+        "answer": "Portable"
+      },
+      {
+        "question": "What is the style of the text used for the brand name, '365 Everyday Value'?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the color of the smaller, circular graphic on the label indicating the scent?",
+        "answer": "Pink"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ae/ae0d4db0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout, what is the dominant orientation of the textual content presented on this page?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Disregarding any graphical elements, what is the predominant color used for the text throughout this document?",
+        "answer": "Black"
+      },
+      {
+        "question": "Focusing solely on the textual sections, what is the most apparent font style employed for the majority of the content?",
+        "answer": "Serif"
+      },
+      {
+        "question": "Observing the visual structure, what is the general format of the textual data presented on this sheet?",
+        "answer": "Paragraphs"
+      },
+      {
+        "question": "Based on the appearance, what is the apparent weight or thickness of the typeface used for most of the text in the document?",
+        "answer": "Regular"
+      },
+      {
+        "question": "Judging from its visual appearance, what would you describe the paper as being in terms of its overall texture?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the image as a whole, what can be observed as the primary material used for this document?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Considering only the visual appearance of the document, describe its overall physical shape and form.",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Ignoring the written content, what is the overall visual tone conveyed by the appearance of this printed document?",
+        "answer": "Formal"
+      },
+      {
+        "question": "Considering the text alone, what is the size, relative to each other, of the different blocks of text present?",
+        "answer": "Varied"
+      },
+      {
+        "question": "From the image alone, what is the apparent level of detail in terms of image or graphic content present?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "What is the apparent condition of the presented document, ignoring any textual details?",
+        "answer": "Clean"
+      },
+      {
+        "question": "What does the visual style of the text on this page suggest about its intended purpose or function?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Describe the visual clarity of the text printed on this page based solely on the image provided.",
+        "answer": "Sharp"
+      },
+      {
+        "question": "Based on the visual evidence, what is the visible density of the text present on this page in relation to its overall area?",
+        "answer": "High"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/08/088dd643.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary textual information conveyed across the entire visual field?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Considering the dominant textual style, what is the overall design aesthetic?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Observing the numerical values, what is the caloric content per serving?",
+        "answer": "150"
+      },
+      {
+        "question": "What is the specified serving size, denoted in both weight and quantity?",
+        "answer": "Tortilla"
+      },
+      {
+        "question": "Based on the data presented, what is the total carbohydrate content per serving?",
+        "answer": "25g"
+      },
+      {
+        "question": "According to the label, what is the total fat content per serving, in grams?",
+        "answer": "3.5g"
+      },
+      {
+        "question": "As per the nutritional facts, how much protein is contained in one serving?",
+        "answer": "5g"
+      },
+      {
+        "question": "What is the amount of dietary fiber present in a single serving, measured in grams?",
+        "answer": "1g"
+      },
+      {
+        "question": "Examining the data provided, how many servings are included in the entire container?",
+        "answer": "6"
+      },
+      {
+        "question": "Considering the provided data, how much sodium is in each serving, in milligrams?",
+        "answer": "220mg"
+      },
+      {
+        "question": "What is the weight of a single serving, indicated in grams?",
+        "answer": "57g"
+      },
+      {
+        "question": "What is the format of the presented information on the product?",
+        "answer": "Table"
+      },
+      {
+        "question": "In terms of presentation, what is the color palette predominantly used?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the layout, what is the arrangement style of the presented data?",
+        "answer": "Columnar"
+      },
+      {
+        "question": "What is the overall shape of the illustrated product label?",
+        "answer": "Rectangular"
+      }
+    ]
+  }
+]

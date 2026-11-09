@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b9/b9c9a7cc.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the can's label, excluding text and graphics?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary shape of the food product container?",
+        "answer": "Cylinder"
+      },
+      {
+        "question": "What material is primarily used for the product's packaging?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What is the most prominent text visible on the can's label?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Considering the can's overall design, is it predominantly sleek or cluttered?",
+        "answer": "Cluttered"
+      },
+      {
+        "question": "Observing the label's surface, is its texture predominantly smooth or rough?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image, what is the visible manufacturer's logo on the can?",
+        "answer": "Amazon"
+      },
+      {
+        "question": "What is the overall color scheme of the text and graphics on the can?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the design style of the nutritional information panel, considering its layout?",
+        "answer": "Tabular"
+      },
+      {
+        "question": "What is the shape of the nutrition facts box on the can?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the type of information prominently displayed on the opposite side of the can?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Considering the visible text, what country is the product from?",
+        "answer": "USA"
+      },
+      {
+        "question": "What is the primary style of font used for the information on the can?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Can you describe the overall condition of the can shown in the image?",
+        "answer": "New"
+      },
+      {
+        "question": "What is the orientation of the can in the given image?",
+        "answer": "Vertical"
+      }
+    ]
+  }
+]

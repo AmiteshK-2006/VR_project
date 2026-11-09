@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/55/550c5355.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the depicted material sample?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent surface finish?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image, what is the primary material appearing to be shown?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Does the image show a pattern or grain in the material's texture?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging by the image, what is the overall tone of the color displayed?",
+        "answer": "Dark"
+      },
+      {
+        "question": "What kind of grain direction is visually present in the sample?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Does the image suggest a uniform color distribution across the surface?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging from the visible texture, how would you describe the surface feel?",
+        "answer": "Silky"
+      },
+      {
+        "question": "What type of visual impression does the grain pattern make?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "Considering the darkness, how would you categorize the shade of brown?",
+        "answer": "Deep"
+      },
+      {
+        "question": "Does the material seem to have a noticeable sheen or gloss?",
+        "answer": "No"
+      },
+      {
+        "question": "From the visual appearance, is the grain tightly spaced or widely spaced?",
+        "answer": "Tightly"
+      },
+      {
+        "question": "Is there any visible pattern variation within the material's grain?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the image suggest any visible knots or imperfections?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the visible features, is the material likely natural or manufactured?",
+        "answer": "Manufactured"
+      }
+    ]
+  }
+]

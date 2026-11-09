@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ab/abf90e7b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what single word best describes the predominant hue of the items displayed?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Based on the image's visual texture, what word best reflects the apparent surface quality of the objects?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging solely from the image, what is the most accurate single-word descriptor of the objects' shapes?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What single-word term accurately describes the general arrangement or grouping of the three items depicted in the image?",
+        "answer": "Stacked"
+      },
+      {
+        "question": "If you were to describe the items' visual consistency across the three shown, which single word encapsulates this attribute best?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "From a purely visual standpoint, what single word would describe the apparent material composition of these objects?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Considering the objects' visual appearance, what is the most appropriate single-word description of their apparent state or condition?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Focusing on the image, what single word best characterizes the objects' implied functionality or use?",
+        "answer": "Wrappers"
+      },
+      {
+        "question": "Observing the image closely, what single word best describes the objects' overall visual aesthetic or style?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Based solely on visual cues in the image, what word best describes the apparent light reflection off the objects' surfaces?",
+        "answer": "Matte"
+      },
+      {
+        "question": "From the image, what is the most suitable single-word descriptor of the objects' visual form factor?",
+        "answer": "Slender"
+      },
+      {
+        "question": "Based on the visible details in the image, what is the most suitable single-word descriptor for the objects' apparent length?",
+        "answer": "Long"
+      },
+      {
+        "question": "What single word best represents the apparent overall visual weight or density of the items?",
+        "answer": "Light"
+      },
+      {
+        "question": "What single word best describes the apparent visual clarity or sharpness of the image and items?",
+        "answer": "Blurred"
+      },
+      {
+        "question": "What single word best describes the apparent visual completeness or wholeness of the shown items?",
+        "answer": "Intact"
+      }
+    ]
+  }
+]

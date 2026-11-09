@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e8/e82ff102.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What single herb is explicitly listed as the ingredient in the provided image?",
+        "answer": "Oregano"
+      },
+      {
+        "question": "Considering the text's presentation, what is the primary function of the displayed information?",
+        "answer": "Listing"
+      },
+      {
+        "question": "In what style is the text's typeface presented, given its appearance?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What color is the text, as visually observed in the provided image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on its visual characteristics, what is the overall formatting style of the text?",
+        "answer": "Block"
+      },
+      {
+        "question": "Judging by the visual appearance, what is the approximate size of the displayed text?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Considering the image, what appears to be the background color of the text?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the visual tone of the overall text presentation, judging by its aesthetic quality?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Observing the image, what is the arrangement of the text in the presented area?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Judging from the visual context, what kind of information is primarily conveyed by this text?",
+        "answer": "Informative"
+      },
+      {
+        "question": "What is the case of the lettering utilized in the provided text segment?",
+        "answer": "Upper"
+      },
+      {
+        "question": "Based on the visible layout, what form does the displayed text primarily take?",
+        "answer": "List"
+      },
+      {
+        "question": "Based on the image, what is the primary characteristic that defines the text's appearance?",
+        "answer": "Legible"
+      },
+      {
+        "question": "Regarding the displayed text, what is its general clarity, as directly observed in the image?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the apparent density of the text based on its visual spacing, as depicted in the image?",
+        "answer": "Normal"
+      }
+    ]
+  }
+]

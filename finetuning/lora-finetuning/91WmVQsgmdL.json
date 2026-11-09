@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e6/e6f73729.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed material sample?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the overall texture of the visible material?",
+        "answer": "Grainy"
+      },
+      {
+        "question": "Considering the visual appearance, what is the most likely material type?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Based on the image, what is the apparent finish of the material?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the material show a uniform or varied color distribution?",
+        "answer": "Varied"
+      },
+      {
+        "question": "Describe the visual pattern, if any, present on the material's surface.",
+        "answer": "Pebbled"
+      },
+      {
+        "question": "Judging from the image, how would you describe the material's sheen?",
+        "answer": "Low"
+      },
+      {
+        "question": "What is the apparent thickness or density of the material based on the visual appearance?",
+        "answer": "Medium"
+      },
+      {
+        "question": "From the image, what is the implied softness or firmness of the material?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Does the displayed material appear to have any noticeable imperfections?",
+        "answer": "No"
+      },
+      {
+        "question": "Is there a discernible pattern or grain direction in the material?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the general tone or hue of the brown color shown?",
+        "answer": "Light"
+      },
+      {
+        "question": "Based solely on its visual characteristics, how would you describe the material's visual weight?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "Does the material seem to exhibit any glossiness or shine?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the visible overall appearance of the shown material sample?",
+        "answer": "Natural"
+      }
+    ]
+  }
+]

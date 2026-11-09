@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6f/6f6b9fd6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the presented item, considering its two distinct sections?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the primary material used in the construction of this item, based on its visual transparency?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the image, how many clearly defined sections or compartments does this item possess?",
+        "answer": "Two"
+      },
+      {
+        "question": "Based on the visual representation, what seems to be the most prominent color of this item?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Observing the edges, what can you infer about the apparent thickness of the material used in this item's construction?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Judging from its visual appearance, what is the overall texture of the item's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the item exhibit any visible patterns, designs, or markings beyond its basic rectangular form?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image, are there any visible fasteners, hinges, or other joining mechanisms connecting the two sections?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image's dimensions, does this item appear rigid or flexible, based on its visual properties?",
+        "answer": "Rigid"
+      },
+      {
+        "question": "What is the apparent function of the item, given its two separate sections and clear construction?",
+        "answer": "Holder"
+      },
+      {
+        "question": "Looking at the image, how would you best describe the style of this item, considering its simplistic design?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Based on the visual characteristics, does this item seem suitable for heavy-duty use or for more delicate purposes?",
+        "answer": "Delicate"
+      },
+      {
+        "question": "Judging by the visuals, would you say the item is designed to be sealed, or easily opened and closed?",
+        "answer": "Open"
+      },
+      {
+        "question": "In the image, what appears to be the primary method of keeping the item's two halves connected?",
+        "answer": "None"
+      },
+      {
+        "question": "From the image, what is the general condition of the shown item, appearing new or used?",
+        "answer": "New"
+      }
+    ]
+  }
+]

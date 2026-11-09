@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/58/581c1fc9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the textual information provided, what primary ingredient is explicitly stated to be present in the product?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "Based on the label's declaration, what nut type might potentially be found as a trace element within this product?",
+        "answer": "Walnuts"
+      },
+      {
+        "question": "According to the ingredient list, what legume may be incidentally included in negligible amounts within this food item?",
+        "answer": "Soy"
+      },
+      {
+        "question": "What kind of oil, as listed among other ingredients, is explicitly mentioned as being used in the making of this product?",
+        "answer": "Olive"
+      },
+      {
+        "question": "Referring to the ingredient list, what grain, besides wheat, is included as a component in this food's preparation?",
+        "answer": "Barley"
+      },
+      {
+        "question": "As shown in the provided text, what type of flour constitutes the primary base of the ingredient composition?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "What additional element, identified as an ingredient, is also stated as a vital component of this food item?",
+        "answer": "Gluten"
+      },
+      {
+        "question": "From the label, what component is mentioned that adds to the enrichment of the overall product ingredients?",
+        "answer": "Iron"
+      },
+      {
+        "question": "What vitamin, named as one of the ingredients in this product, is known to aid in various bodily functions?",
+        "answer": "Folic"
+      },
+      {
+        "question": "What component, listed amongst the ingredients, aids in the process of leavening in this product's production?",
+        "answer": "Yeast"
+      },
+      {
+        "question": "According to the ingredient list, what oil, derived from olives, is present in a smaller quantity?",
+        "answer": "Pomace"
+      },
+      {
+        "question": "What mineral is mentioned as part of the enrichment process within the composition of this product's ingredients?",
+        "answer": "Salt"
+      },
+      {
+        "question": "What vitamin is added to enhance the nutritional value of the enriched flour used in this product?",
+        "answer": "Niacin"
+      },
+      {
+        "question": "What essential nutrient is contained within this product's enriched flour, as listed in the provided text?",
+        "answer": "Thiamin"
+      },
+      {
+        "question": "Based on the text, what type of flour is used as a constituent in this product?",
+        "answer": "Malted"
+      }
+    ]
+  }
+]

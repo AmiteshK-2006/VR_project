@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bb/bb69f5a8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color scheme of the nutrition facts label, considering the text and background?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the dominant shape of the overall nutrition facts panel displayed?",
+        "answer": "Rectangle"
+      },
+      {
+        "question": "Considering the text size and arrangement, what is the visual hierarchy of information presented?",
+        "answer": "Hierarchical"
+      },
+      {
+        "question": "What is the text font style predominantly used in this nutrition facts label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the visual layout, what is the method used to organize nutritional information?",
+        "answer": "tabular"
+      },
+      {
+        "question": "What is the overall texture of the nutrition facts label, as visually apparent?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the main visual element that immediately catches the eye of the observer?",
+        "answer": "Calories"
+      },
+      {
+        "question": "What is the material that the nutrition facts label seems to be printed on?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Describe the visual weight of the 'Calories' section compared to other sections.",
+        "answer": "Heavy"
+      },
+      {
+        "question": "What visual cues are used to separate different nutritional components?",
+        "answer": "Lines"
+      },
+      {
+        "question": "What is the visual style used to represent the percentage daily value?",
+        "answer": "Numeric"
+      },
+      {
+        "question": "What is the visual prominence of the serving size declaration?",
+        "answer": "Prominent"
+      },
+      {
+        "question": "Does the label display any visual warnings or alerts?",
+        "answer": "No"
+      },
+      {
+        "question": "How many distinct sections are visibly present in the nutritional information?",
+        "answer": "Eleven"
+      },
+      {
+        "question": "What is the visual representation of the \u2018% Daily Value\u2019 data?",
+        "answer": "Numbers"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ee/ee4385f4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular structure and its text layout, what is the dominant shape of this product's packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary color used for the background of this nutritional information panel?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the visual prominence of the text and data layout, what is the primary function of this item?",
+        "answer": "Informational"
+      },
+      {
+        "question": "Observing the type style and size variations within the text, what is the general text style used for labels and values?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the visual hierarchy and the prominent numerical data, what is this product's primary measurable attribute being displayed?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Focusing on the texture of the surface that the text is printed on, what would you describe the surface's texture as?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Examining the visual presence of various nutritional components detailed, what is the prominent macronutrient in this product?",
+        "answer": "Carbohydrate"
+      },
+      {
+        "question": "Given the structured presentation of data in columns and rows, what could describe the organization of this product's data?",
+        "answer": "Tabular"
+      },
+      {
+        "question": "Analyzing the visual impact of the data presented, what is the unit of measurement used for the quantity of fiber?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Considering the visual cues in the text, what is the unit of measurement used for the 'Serving Size'?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Considering the visual emphasis, what is the overall tone conveyed by the design and data presentation?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Based on the visual appearance of the data, what is the unit of measurement used for the quantity of total fat?",
+        "answer": "Grams"
+      },
+      {
+        "question": "In observing the visual prominence of the header, what is the overall title of the information provided?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Judging by the visual clarity and style, what is the overall visual appeal of the product's packaging?",
+        "answer": "Simple"
+      },
+      {
+        "question": "By examining the size and visual prominence, what is the unit of measurement for the number of servings?",
+        "answer": "Servings"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/88/8846c867.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what is the primary function suggested by the image's visual elements?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the dominant color scheme employed in the graphic design of this product's information panel?",
+        "answer": "Black"
+      },
+      {
+        "question": "Observing the textual layout, what type of information is presented in a tabular format, showcasing various nutritional values?",
+        "answer": "Facts"
+      },
+      {
+        "question": "What is the visual element most prominently displayed that provides a quantifiable measure of the food's energy content?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Based on the visual structure, what is the unit of measurement utilized for the 'Serving Size' of this food item?",
+        "answer": "Cup"
+      },
+      {
+        "question": "What is the visual descriptor used to denote the type of listing regarding the food components?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Disregarding quantitative data, what is the primary visual identifier that indicates potential allergy concerns?",
+        "answer": "Contains"
+      },
+      {
+        "question": "What is the visual designation of the serving quantity provided on the nutritional information panel?",
+        "answer": "Servings"
+      },
+      {
+        "question": "Focusing on the overall shape of the presented information, what geometrical form is most prominent?",
+        "answer": "Rectangle"
+      },
+      {
+        "question": "What is the visual texture suggested by the background of the nutrition facts panel?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describing the style of text used, what visual characteristic would best describe the typography employed?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the textual details, what is the visual indicator of the type of food depicted?",
+        "answer": "Vegetable"
+      },
+      {
+        "question": "What is the visual form of the nutritional information that contains individual data points for various nutrients?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the visual element that shows the nutritional content per serving in contrast to the entire container?",
+        "answer": "Values"
+      },
+      {
+        "question": "Considering the textual information presented, what visual indication shows a nutritional component that may trigger allergies?",
+        "answer": "Nut"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/eb/ebc43511.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary textual element prominently displayed on the product's surface, immediately grabbing the viewer's attention?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Considering the overall design, what is the dominant color scheme employed throughout the product's visual presentation?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the general shape and form factor of the presented food label, including its orientation relative to the viewer?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visible textual information, what is the metric used for measuring the nutritional value, specifying the quantity?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the general orientation of the information presented on the product label, which seems to guide reading order?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Regarding the overall visual texture, what kind of surface does the product seem to present, to the viewer's eye?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the primary method used for arranging information within the visual design, to provide easy readability?",
+        "answer": "Columns"
+      },
+      {
+        "question": "Considering the visual layout, what is the general arrangement of the textual components, providing logical structure?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the nature of the text used for indicating quantitative values throughout the presented information?",
+        "answer": "Numbers"
+      },
+      {
+        "question": "In the context of the visual design, what type of font or typeface appears to be used for the main headers or titles?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the dominant font weight used for the most significant or headline-level text on the visible nutrition information?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the overall contrast between the text and the background on the presented product information label?",
+        "answer": "High"
+      },
+      {
+        "question": "What units are used for presenting the 'Serving Size' of the product being described?",
+        "answer": "Cups"
+      },
+      {
+        "question": "Given the visual appearance, what is the apparent material of the product, excluding text and graphics?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Based on the presented information, what is the name of the nutritional category given a significant prominence?",
+        "answer": "Calories"
+      }
+    ]
+  }
+]

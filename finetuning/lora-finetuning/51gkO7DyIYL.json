@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/88/88104915.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the textual information provided in the image, what specific type of cellulose is mentioned as an ingredient?",
+        "answer": "Vegetable"
+      },
+      {
+        "question": "Based on the image's text, which type of nut is mentioned as being processed in the same facility as the product?",
+        "answer": "Tree"
+      },
+      {
+        "question": "According to the product label, what additional food item besides tree nuts is processed in the same facility?",
+        "answer": "Shellfish"
+      },
+      {
+        "question": "What other food group, alongside tree nuts and shellfish, shares processing facilities with this product, as per the label?",
+        "answer": "Soy"
+      },
+      {
+        "question": "What is the descriptor used for the type of cellulose that is listed as an ingredient?",
+        "answer": "Modified"
+      },
+      {
+        "question": "The label states the product is made in a facility processing what other allergenic substance, besides shellfish?",
+        "answer": "Soy"
+      },
+      {
+        "question": "The label indicates that this product shares manufacturing facilities with processors of which type of nut?",
+        "answer": "Tree"
+      },
+      {
+        "question": "In what type of facility was this product manufactured according to the accompanying textual information?",
+        "answer": "Facility"
+      },
+      {
+        "question": "What is the word used to modify the word 'vegetable' in the description of the ingredients?",
+        "answer": "Modified"
+      },
+      {
+        "question": "What is the specific type of food mentioned as an ingredient besides cellulose?",
+        "answer": "Vegetable"
+      },
+      {
+        "question": "What is the single word descriptor for the vegetable-derived ingredient in the product?",
+        "answer": "Cellulose"
+      },
+      {
+        "question": "What is the adjective applied to the word 'cellulose' in the provided ingredient list?",
+        "answer": "Vegetable"
+      },
+      {
+        "question": "What single word describes the type of processing done in the facility preparing this item?",
+        "answer": "Processes"
+      },
+      {
+        "question": "What is the specific category of nuts mentioned on the label?",
+        "answer": "Tree"
+      },
+      {
+        "question": "What single word is used to indicate where the product was made?",
+        "answer": "Facility"
+      }
+    ]
+  }
+]

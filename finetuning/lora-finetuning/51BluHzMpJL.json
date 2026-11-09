@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b1/b1adbfe5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the phone case shown in the provided image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the primary material apparent from the visual inspection of this phone cover?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the image, what is the overall shape or form factor of the depicted mobile phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visual provided, what type of case is shown, in terms of its folding mechanism?",
+        "answer": "Flip"
+      },
+      {
+        "question": "Judging from the appearance, what seems to be the finish or texture of the exterior surface?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Does the case appear to have any visible cutouts or openings for ports, based purely on the image?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Observing the case in the image, is there an indication of a mirror-like reflection on its surface?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What seems to be displayed on the exterior of the folded case, according to visual inspection?",
+        "answer": "Clock"
+      },
+      {
+        "question": "Judging from the picture, how many distinct sections or parts make up this phone case?",
+        "answer": "Two"
+      },
+      {
+        "question": "Based on the visual, is there any noticeable branding or logo visible on the phone case?",
+        "answer": "No"
+      },
+      {
+        "question": "In the provided image, what appears to be the mechanism enabling the case to fold?",
+        "answer": "Hinge"
+      },
+      {
+        "question": "Does the case exhibit any visible patterns or designs beyond its basic form, based on the image?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent style or design aesthetic of the case in the provided photograph?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Judging by the image alone, what appears to be the general condition of this phone case?",
+        "answer": "New"
+      },
+      {
+        "question": "According to the image, does the case appear to provide full or partial phone coverage?",
+        "answer": "Full"
+      }
+    ]
+  }
+]

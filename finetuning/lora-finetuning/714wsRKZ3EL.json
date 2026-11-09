@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a1/a1aaf14f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall design, what is the primary visual characteristic of the product's packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visible text, what language is predominantly used on the packaging?",
+        "answer": "English"
+      },
+      {
+        "question": "What is the dominant color scheme observed on the product's packaging, excluding text?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What specific type of nut is prominently highlighted as the main ingredient?",
+        "answer": "Cashew"
+      },
+      {
+        "question": "Observing the text, what percentage of the product consists of this nut?",
+        "answer": "Fifty-two"
+      },
+      {
+        "question": "Describe the texture of the packaging's surface based on visual cues.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the style of font used in the main text block about the ingredients?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the visual layout, how is the ingredient list structured and formatted?",
+        "answer": "List"
+      },
+      {
+        "question": "What other sweeteners are visibly present in the product's ingredients?",
+        "answer": "Sugar"
+      },
+      {
+        "question": "What is the physical state of the ingredient listed as 'dextrose'?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Judging from the packaging's design, what is the overall tone it conveys?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Based on visual information, what languages besides English are used on this package?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "What type of information is primarily conveyed by the bolded text?",
+        "answer": "Warnings"
+      },
+      {
+        "question": "Describe the visual appearance of the warning text regarding allergens.",
+        "answer": "Bold"
+      },
+      {
+        "question": "Considering the image, what kind of printing appears to have been used for the text?",
+        "answer": "Digital"
+      }
+    ]
+  }
+]

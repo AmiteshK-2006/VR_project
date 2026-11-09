@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ab/ab827afc.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual layout, what is the primary purpose of this rectangular image?",
+        "answer": "Label"
+      },
+      {
+        "question": "Disregarding any specific words, what is the dominant font style used for presenting the text information?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the prevalent color scheme of the text, focusing on its shade and intensity?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the organization of textual data, how many distinct ingredient categories does this label list?",
+        "answer": "One"
+      },
+      {
+        "question": "Based on the text's arrangement, what is the descriptive term that immediately precedes the listed ingredients?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the most prominent text element regarding the contents of this food item?",
+        "answer": "Turkey"
+      },
+      {
+        "question": "What is the text describing a non-meat additive that might add sweetness to the product?",
+        "answer": "Honey"
+      },
+      {
+        "question": "Looking at the text, what is listed as a potential preservative or thickening agent?",
+        "answer": "Carrageenan"
+      },
+      {
+        "question": "What is the text indicating a common table salt inclusion, although under a specified limit?",
+        "answer": "Salt"
+      },
+      {
+        "question": "Considering the detailed ingredients list, which vegetable element is added in powder form?",
+        "answer": "Celery"
+      },
+      {
+        "question": "From the text, what specific fruit element appears as a powder-form additive?",
+        "answer": "Cherry"
+      },
+      {
+        "question": "What text refers to a starchy substance added, probably for texture?",
+        "answer": "Starch"
+      },
+      {
+        "question": "Which text indicates a potassium-based compound used in the product's recipe?",
+        "answer": "Chloride"
+      },
+      {
+        "question": "What is the text indicating a common household acid's addition in powdered form?",
+        "answer": "Vinegar"
+      },
+      {
+        "question": "Disregarding the meat, what specific chemical element is indicated as a phosphate additive?",
+        "answer": "Sodium"
+      }
+    ]
+  }
+]

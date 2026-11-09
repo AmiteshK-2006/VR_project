@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/20/20b0c252.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the visible fabric section of the armchair cover?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering the armrest's curvature, what is the overall shape of the visible armrest?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Based on the image's texture and weave, what fabric type is most likely used?",
+        "answer": "Canvas"
+      },
+      {
+        "question": "Describe the visible seam finish along the armrest's edge, considering its neatness and stitch visibility.",
+        "answer": "Clean"
+      },
+      {
+        "question": "What is the overall appearance of the fabric's surface texture, considering its visible smoothness or roughness?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the image, what is the primary function of this item, based on its form and tailoring?",
+        "answer": "Cover"
+      },
+      {
+        "question": "What style of armrest design is depicted, given its slightly rolled and curved shape?",
+        "answer": "Rolled"
+      },
+      {
+        "question": "Considering the image, what single word best describes the general visual aesthetic of the fabric?",
+        "answer": "Simple"
+      },
+      {
+        "question": "How would you describe the fullness or looseness of the fabric drape along the armrest?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the visual, what is the apparent thickness or weight of the fabric used in the cover?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the apparent level of sheen or glossiness of the fabric, given its visual appearance?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Describe the armrest's visible construction, noting the absence or presence of any visible stitching details.",
+        "answer": "Seamless"
+      },
+      {
+        "question": "What is the uniformity of the fabric's color across the visible portion in the image?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What is the visible state of the fabric in the image; is it wrinkled, creased, or otherwise?",
+        "answer": "Unwrinkled"
+      },
+      {
+        "question": "Given its construction and visible design details, how would you best classify this piece's style?",
+        "answer": "Classic"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4f/4f2030ce.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed fabric sample?",
+        "answer": "Navy"
+      },
+      {
+        "question": "What is the overall texture of the fabric as visually observed?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Considering the weave pattern, what type of fabric is suggested?",
+        "answer": "Canvas"
+      },
+      {
+        "question": "Describing the visual appearance, what is the fabric's finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on the image, how would you characterize the fabric's weight?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Judging by the visual details, what is the fabric's apparent density?",
+        "answer": "Tight"
+      },
+      {
+        "question": "What is the visual impression of the fabric's drape or flexibility?",
+        "answer": "Stiff"
+      },
+      {
+        "question": "Does the fabric exhibit any visible pattern beyond its weave?",
+        "answer": "No"
+      },
+      {
+        "question": "Is there any noticeable sheen or glossiness to the fabric's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Based solely on visual inspection, what is the fabric's apparent thickness?",
+        "answer": "Moderate"
+      },
+      {
+        "question": "Does the image show any visible irregularities or imperfections in the weave?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image, how would you describe the color saturation?",
+        "answer": "Deep"
+      },
+      {
+        "question": "Considering the visual properties, what is the fabric's likely composition?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "From the visual evidence, how regular are the threads in the weave?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Judging by the image, what is the overall visual impression of the fabric?",
+        "answer": "Solid"
+      }
+    ]
+  }
+]

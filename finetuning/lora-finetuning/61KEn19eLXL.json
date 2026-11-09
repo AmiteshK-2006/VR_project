@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fb/fb1136b0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the text on the supplement facts label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the supplement facts panel as depicted?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the primary material of the supplement facts label?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Considering the text's layout, what is the organizational style used?",
+        "answer": "tabular"
+      },
+      {
+        "question": "What is the background color of the supplement facts label's header?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the font style used for the 'Supplement Facts' heading?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the visual texture of the label's surface, assuming a matte finish?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent format of the numerical values presented for nutritional content?",
+        "answer": "Decimal"
+      },
+      {
+        "question": "What are the units used to represent the 'Serving Size' quantity?",
+        "answer": "Teaspoon"
+      },
+      {
+        "question": "What is the style of the line separating the header from the table in the label?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Considering the provided data, what is the unit of measurement for 'Calories'?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Disregarding any context, what is the type of information conveyed on the label?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the unit of measurement for 'Vitamin A' in the given data?",
+        "answer": "mcg"
+      },
+      {
+        "question": "What is the type of data used for the '% Daily Value' column?",
+        "answer": "Percentage"
+      },
+      {
+        "question": "What is the overall visual impression of the label's design: clean, complex, or cluttered?",
+        "answer": "Clean"
+      }
+    ]
+  }
+]

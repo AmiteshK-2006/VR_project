@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bb/bb771350.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the denim jacket shown in the image?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the apparent material of the jacket, based solely on its visual appearance?",
+        "answer": "Denim"
+      },
+      {
+        "question": "Considering the image, what is the style of the displayed denim jacket?",
+        "answer": "Classic"
+      },
+      {
+        "question": "What is the overall shape or silhouette of the displayed denim jacket?",
+        "answer": "Boxy"
+      },
+      {
+        "question": "What color are the jeans that the model is wearing in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the apparent material composition of the pants worn by the model?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Describe the fit of the white jeans in the given image.",
+        "answer": "Slim"
+      },
+      {
+        "question": "What type of footwear is the model wearing, based on the image?",
+        "answer": "Shoes"
+      },
+      {
+        "question": "Judging by the picture, what color are the shoes the model is wearing?",
+        "answer": "Dark"
+      },
+      {
+        "question": "What is the apparent style of the shoes the model wears in the provided image?",
+        "answer": "Casual"
+      },
+      {
+        "question": "What is the primary pattern visible on the t-shirt underneath the jacket?",
+        "answer": "Striped"
+      },
+      {
+        "question": "What appears to be the color scheme of the stripes on the undershirt?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the image, what is the sleeve length of the denim jacket?",
+        "answer": "Long"
+      },
+      {
+        "question": "What is the general cut of the displayed jeans (straight, flared, etc.)?",
+        "answer": "Straight"
+      },
+      {
+        "question": "Does the denim jacket have any visible pockets in this image?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

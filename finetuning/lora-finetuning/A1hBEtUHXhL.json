@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/75/7564b550.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the fabric shown in the image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the overall texture of the presented fabric sample?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Considering the visual details, what material type best describes this textile?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "Based on the image, what kind of weave pattern is prominently displayed?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Does the fabric exhibit a noticeable sheen or gloss?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Describe the visual density of the fabric's weave structure.",
+        "answer": "Tight"
+      },
+      {
+        "question": "What subtle color variations exist within the primary shade of the fabric?",
+        "answer": "Light"
+      },
+      {
+        "question": "Judging from the image, is the fabric's surface smooth or rough to the touch?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the visual effect created by the interlacing of threads?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Based on visual cues, what is the approximate thickness of the presented fabric?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Does the image suggest the presence of any discernible patterns besides the weave?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the image, does the fabric look naturally dyed or printed?",
+        "answer": "Dyed"
+      },
+      {
+        "question": "What is the impression of the fabric's weight and drape based on visual evidence?",
+        "answer": "Lightweight"
+      },
+      {
+        "question": "Considering the visible structure, is the fabric more likely to be stiff or pliable?",
+        "answer": "Pliable"
+      },
+      {
+        "question": "What is the visual uniformity of the color and texture across the fabric sample?",
+        "answer": "Consistent"
+      }
+    ]
+  }
+]

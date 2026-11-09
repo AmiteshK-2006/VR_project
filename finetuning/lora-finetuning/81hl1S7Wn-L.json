@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/70/70c7f96e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the primary displayed item?",
+        "answer": "Label"
+      },
+      {
+        "question": "Focusing on the textual content, what specific nutritional information dominates the upper section?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Observing the detailed ingredient list, what is the main bread type used?",
+        "answer": "Baguette"
+      },
+      {
+        "question": "Based on the ingredients, what type of cheese is included in this product?",
+        "answer": "Cheddar"
+      },
+      {
+        "question": "Looking at the ingredient list, which meat is specifically mentioned as part of the filling?",
+        "answer": "Prosciutto"
+      },
+      {
+        "question": "From the ingredients, what kind of oil is listed as part of the mayonnaise?",
+        "answer": "Soybean"
+      },
+      {
+        "question": "What is the primary source of protein denoted in the nutritional facts?",
+        "answer": "Protein"
+      },
+      {
+        "question": "Regarding the nutritional content, what is the most prominent mineral listed?",
+        "answer": "Sodium"
+      },
+      {
+        "question": "According to the label, what vitamin is notably low in the sandwich?",
+        "answer": "Vitamin"
+      },
+      {
+        "question": "Based solely on the visual information, what is the serving size of the item?",
+        "answer": "Sandwich"
+      },
+      {
+        "question": "What is the specified measurement unit for the serving size?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Observing the ingredient list, what common vegetable is mentioned as an ingredient?",
+        "answer": "Lettuce"
+      },
+      {
+        "question": "According to the label, what is the total carbohydrate amount per serving?",
+        "answer": "Grams"
+      },
+      {
+        "question": "From the ingredient list, what kind of acid is mentioned as present in the preparation?",
+        "answer": "Lactic"
+      },
+      {
+        "question": "Based on the label, what type of fat is present in a minimal amount?",
+        "answer": "Trans"
+      }
+    ]
+  }
+]

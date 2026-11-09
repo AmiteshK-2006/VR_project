@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ac/acc8aae5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the presented nutrition facts label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the primary font style used throughout the nutrition information?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What specific food item does this nutrition label refer to, as indicated at the top?",
+        "answer": "Cookie"
+      },
+      {
+        "question": "What is the total number of calories per serving size, as clearly displayed?",
+        "answer": "280"
+      },
+      {
+        "question": "What is the total amount of grams of total fat listed per serving?",
+        "answer": "11g"
+      },
+      {
+        "question": "What is the total amount of grams of saturated fat per serving, according to the label?",
+        "answer": "4.5g"
+      },
+      {
+        "question": "How many grams of total carbohydrates are contained in one serving?",
+        "answer": "44g"
+      },
+      {
+        "question": "What is the total amount of added sugars in grams per serving?",
+        "answer": "24g"
+      },
+      {
+        "question": "How many grams of protein are provided per serving of this item?",
+        "answer": "4g"
+      },
+      {
+        "question": "Considering the visual layout, what is the organizational structure of the information?",
+        "answer": "tabular"
+      },
+      {
+        "question": "What is the measurement unit used for most of the nutritional values?",
+        "answer": "grams"
+      },
+      {
+        "question": "What is the shape of the overall nutrition facts label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the text alignment used for the majority of the numerical data?",
+        "answer": "Right"
+      },
+      {
+        "question": "What is the visual prominence given to the calorie count compared to other nutrients?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the overall visual style of the nutritional information label?",
+        "answer": "Clean"
+      }
+    ]
+  }
+]

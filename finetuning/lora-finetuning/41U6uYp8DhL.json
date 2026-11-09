@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3a/3a01112e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary ingredient explicitly stated on the label, considering the visible text?",
+        "answer": "Basil"
+      },
+      {
+        "question": "Considering the text's presentation, what adjective modifies the main ingredient?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the overall color of the label background, ignoring any text or markings?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Judging by the visible lettering, what color is the text on the label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the label's textual format, what word precedes the list of ingredients?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the general style of the font utilized in the visible text on the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What punctuation mark concludes the ingredient list presented on the label?",
+        "answer": "Period"
+      },
+      {
+        "question": "Based on visual assessment, what is the approximate height of the visible text on the label?",
+        "answer": "Small"
+      },
+      {
+        "question": "Considering the printed text, what is the overall format of the label's information?",
+        "answer": "List"
+      },
+      {
+        "question": "What is the texture of the label's surface based on its appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describing the label's shape, is it rectangular, square, or something else?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the dominant visual element on the label, disregarding other components?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the material from which the visible label seems to be constructed?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the overall visual impression of the label's design, considering its simplicity?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the visual arrangement of the elements on the label?",
+        "answer": "Linear"
+      }
+    ]
+  }
+]

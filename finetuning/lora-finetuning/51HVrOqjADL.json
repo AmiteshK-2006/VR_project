@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ae/ae5d92a1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary ingredient listed on the product label, prominently displayed in a bold typeface?",
+        "answer": "Sodium"
+      },
+      {
+        "question": "Considering the product's label, what additional ingredient is mentioned alongside sodium bicarbonate, suggesting potential cross-contamination?",
+        "answer": "Bicarbonate"
+      },
+      {
+        "question": "Based on the cautionary statement, what common allergen is processed in the same facility where this product is manufactured, posing a risk of cross-contamination?",
+        "answer": "Peanuts"
+      },
+      {
+        "question": "In addition to peanuts, which other nut type is noted as processed in the same production facility, potentially resulting in cross-contamination?",
+        "answer": "Tree"
+      },
+      {
+        "question": "What dairy product is identified as being processed in the facility alongside this product, indicating a possible contamination risk?",
+        "answer": "Milk"
+      },
+      {
+        "question": "What other potential allergen, of animal origin, is processed in the same facility as this product, posing a cross-contamination concern?",
+        "answer": "Eggs"
+      },
+      {
+        "question": "Considering the potential cross-contaminants, what grain-based allergen is processed in the same area as this product, suggesting a risk of cross-contamination?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "Besides peanuts, tree nuts, milk, eggs and wheat, what other potential allergen is produced in the facility where this item is manufactured?",
+        "answer": "Soy"
+      },
+      {
+        "question": "What is the overall background color of the label where the text is printed, providing visual context?",
+        "answer": "White"
+      },
+      {
+        "question": "What color is the text of the ingredients listed on the product\u2019s label, creating a clear contrast against the background?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the general style of the font used for the text on the packaging label, describing its visual appearance?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the case of the lettering used on the label of the food product, based on a visual examination?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Considering the visual presentation of the label, how many distinct lines of text are visible, describing the layout of the information?",
+        "answer": "Three"
+      },
+      {
+        "question": "Observing the text closely, what punctuation mark is used at the end of each line, providing a visual detail?",
+        "answer": "Period"
+      },
+      {
+        "question": "Describe the visual orientation of the text on the product's label relative to the viewer, showing its arrangement.",
+        "answer": "Horizontal"
+      }
+    ]
+  }
+]

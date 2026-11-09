@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1a/1a8d6643.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the text prominently displayed on the label, considering its overall appearance?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the font style and the overall impression given by the lettering, what would best describe its typeface?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the visual details provided, what specific agricultural product is explicitly mentioned on the label?",
+        "answer": "Potatoes"
+      },
+      {
+        "question": "What word, directly preceding the type of vegetable, modifies the product's description, suggesting its cultivation method?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the general labeling category or purpose clearly communicated through the prominent text on the label?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Judging by the text's positioning and arrangement, describe the style of the label's layout as a whole?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Based on the clarity of the text and its appearance on the label, how would you describe the label's legibility?",
+        "answer": "High"
+      },
+      {
+        "question": "Given the label's text and presentation, is the label's information displayed in a succinct or verbose manner?",
+        "answer": "Succinct"
+      },
+      {
+        "question": "What is the overall texture of the surface or material on which the text is printed, based on its visual appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "In terms of the text's presence and prominence, what is the design of the label described as?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the background color of the label where the text appears, taking into account its brightness or lightness?",
+        "answer": "Light"
+      },
+      {
+        "question": "Judging by the arrangement of the information on the label, what type of orientation does the text appear to have?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the text's apparent case or style as observed in terms of uppercase or lowercase usage?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Considering the label's aesthetic and purpose, what could it mainly be classified as?",
+        "answer": "Informational"
+      },
+      {
+        "question": "Considering the font's weight or thickness, would you characterize it as bold, light, or regular?",
+        "answer": "Regular"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/cd/cd477a08.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color scheme of the text displayed on the product's label?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the primary font style used to display the words 'INGREDIENTS' on the food product label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "In terms of its visual arrangement, what would you describe the text organization of the ingredients list?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Focusing solely on the textual information, what is the main textual element visible on the product's label?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the most common word appearing throughout the ingredients list?",
+        "answer": "Tapioca"
+      },
+      {
+        "question": "Describe the overall visual density of the textual content on the food label?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Regarding the visual appearance, what is the style of lettering used in the ingredients list?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "If you were to describe the visual texture of the label, what word best captures it?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From a purely visual perspective, what shape best describes the area where the ingredients are listed?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the visual state of the text on this product label?",
+        "answer": "Printed"
+      },
+      {
+        "question": "Observing the image closely, what is the apparent material of the surface where the text is printed?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the dominant visual pattern observed in the text layout?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Considering only the image, describe the visual prominence of the 'CONTAINS SOY INGREDIENTS' statement",
+        "answer": "Subordinate"
+      },
+      {
+        "question": "What is the general visual style of the label design?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "From a visual standpoint, what is the overall legibility of the printed ingredients?",
+        "answer": "High"
+      }
+    ]
+  }
+]

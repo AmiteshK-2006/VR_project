@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0d/0dc69249.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual texture, what is the primary tactile impression conveyed by the scarf's surface?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What single word best describes the prevailing color of the displayed scarf?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Based on its visual drape and structure, what is the most likely material composition of this scarf?",
+        "answer": "Cashmere"
+      },
+      {
+        "question": "What fundamental geometric shape best describes the overall form of the scarf when laid flat?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Disregarding the model, if you were to characterize the scarf's design using one word, what would it be?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Considering the scarf's edges, what word best describes their visual finish?",
+        "answer": "Neat"
+      },
+      {
+        "question": "Observing the scarf's weave, what single word captures the apparent density of its construction?",
+        "answer": "Dense"
+      },
+      {
+        "question": "In terms of its visual presentation, how would you describe the scarf's overall look?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Given its visual features, what is the most apparent functional purpose of this garment?",
+        "answer": "Warmth"
+      },
+      {
+        "question": "Focusing solely on the scarf's visual appearance, what is the most prominent visual characteristic of the scarf's edges?",
+        "answer": "Straight"
+      },
+      {
+        "question": "What single word best encapsulates the level of visual detail or ornamentation on the scarf?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "If you were to describe the apparent visual weight or thickness of the scarf in a single word, what would it be?",
+        "answer": "Lightweight"
+      },
+      {
+        "question": "Judging from its visual appearance, how would you describe the scarf's drape or flow?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent visual length of the scarf, relative to a person's average height?",
+        "answer": "Long"
+      },
+      {
+        "question": "Considering its visual presentation, how would you describe the scarf's apparent finish, texture-wise?",
+        "answer": "FringeLess"
+      }
+    ]
+  }
+]

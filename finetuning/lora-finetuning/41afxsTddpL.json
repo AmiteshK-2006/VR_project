@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/14/144e64df.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary text displayed on this product's label, providing crucial details for the consumer?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Considering the list's comprehensive nature, what is the predominant category of components included in this product's composition?",
+        "answer": "Dairy"
+      },
+      {
+        "question": "Given the detailed ingredient listing, what specific milk type is prominently listed among the product's constituent parts?",
+        "answer": "Nonfat"
+      },
+      {
+        "question": "Based on the label's content, what additional ingredient is explicitly mentioned to ensure the product's lasting freshness?",
+        "answer": "Carbon"
+      },
+      {
+        "question": "What specific type of organic ingredient is included as a stabilizer in this product, according to the label?",
+        "answer": "Guar"
+      },
+      {
+        "question": "Aside from the primary ingredient, what other organic dairy product is included in the mixture, as indicated on the label?",
+        "answer": "Cream"
+      },
+      {
+        "question": "According to the label, what additional ingredient besides organic guar gum acts as a stabilizer in the product?",
+        "answer": "Xanthan"
+      },
+      {
+        "question": "What ingredient, besides milk and cream, is used to provide a salty flavor profile?",
+        "answer": "Salt"
+      },
+      {
+        "question": "What is added to the product, as evidenced by the ingredients list, to improve its consistency and texture?",
+        "answer": "Gum"
+      },
+      {
+        "question": "What type of gum, derived from a bean, is included among the ingredients listed?",
+        "answer": "Locust"
+      },
+      {
+        "question": "What additive, mentioned in the ingredients, contributes to the maintenance of freshness within the product?",
+        "answer": "Dioxide"
+      },
+      {
+        "question": "What vitamin is explicitly identified among the product's components, as stated on the label?",
+        "answer": "A"
+      },
+      {
+        "question": "What other substance, besides milk, does this product's production facility process?",
+        "answer": "Eggs"
+      },
+      {
+        "question": "What other ingredient, besides eggs, is processed in the facility where this product is made?",
+        "answer": "Soy"
+      },
+      {
+        "question": "What is the label's overall purpose, as clearly conveyed by its content and organization?",
+        "answer": "Information"
+      }
+    ]
+  }
+]

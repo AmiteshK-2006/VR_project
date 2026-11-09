@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/24/249e3204.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the main body of the plastic bag?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What color is the strip of material at the top edge of the bag?",
+        "answer": "Green"
+      },
+      {
+        "question": "What appears to be the primary material used in constructing this product?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the overall shape of the displayed item, disregarding the side strip?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering its dimensions, what might this item's function be?",
+        "answer": "Packaging"
+      },
+      {
+        "question": "What is the apparent texture of the main plastic sheet composing this item?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Is there any visible text or printing on the main plastic sheet area?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Describe the size of the printed text on the clear plastic sheet.",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the apparent orientation of the printed text on the main sheet?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Based solely on its visual features, what is the perceived thickness of the plastic sheet?",
+        "answer": "Thin"
+      },
+      {
+        "question": "What is the apparent condition of the plastic sheet, is it crumpled or flat?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Judging by the image, is the plastic sheet transparent or opaque?",
+        "answer": "Transparent"
+      },
+      {
+        "question": "Does the top green strip appear to have a glossy or matte finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the apparent width of the colored side strip relative to the main body?",
+        "answer": "Narrow"
+      },
+      {
+        "question": "Does the bag have any apparent visible seals or closures besides the side strip?",
+        "answer": "No"
+      }
+    ]
+  }
+]

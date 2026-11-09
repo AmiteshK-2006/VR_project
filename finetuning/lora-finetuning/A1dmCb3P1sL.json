@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c1/c100c7ba.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color observed across the entire textile surface?",
+        "answer": "Navy"
+      },
+      {
+        "question": "Considering the visible texture, what is the apparent material of the fabric?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Based on the image, what is the overall visual texture of the fabric?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the fabric show any significant pattern or print across its surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the visible fibers, how would you describe the fabric's weave?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Considering the image's resolution, can you determine the fabric's weight?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Is there any visible sheen or glossiness to the fabric's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the fabric appear to have any noticeable level of transparency?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Based solely on visual inspection, what is the fabric's apparent thickness?",
+        "answer": "Moderate"
+      },
+      {
+        "question": "What is the visual impression of the uniformity of color across the fabric?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Are there any visible imperfections or irregularities within the fabric's texture?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the fabric show any signs of stretch or elasticity based on the image?",
+        "answer": "Slight"
+      },
+      {
+        "question": "Judging by the image, is the finish of the fabric matte or glossy?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Observing the surface details, what's the fabric's apparent drape?",
+        "answer": "Soft"
+      },
+      {
+        "question": "From the visual data, does the fabric seem tightly woven or loosely woven?",
+        "answer": "Tightly"
+      }
+    ]
+  }
+]

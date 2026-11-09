@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8a/8ae3ee30.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape and the text prominently displayed on its surface, what is the primary function suggested by the item's visual presentation?",
+        "answer": "Packaging"
+      },
+      {
+        "question": "Observing the color scheme predominantly featuring white and green hues, with subtly textured background patterns, what is the most noticeable color of the packaging?",
+        "answer": "White"
+      },
+      {
+        "question": "Examining the textual elements that include a detailed breakdown of nutritional information, what is the displayed type of information?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Based on the presence of a barcode near the bottom, what is the likely commercial purpose of this item?",
+        "answer": "Retail"
+      },
+      {
+        "question": "Considering the clearly visible brand logo and associated text such as 'Whole Foods Market', can you identify the manufacturer or retailer?",
+        "answer": "Wholefoods"
+      },
+      {
+        "question": "Analyzing the texture and finish of the surface, characterized by its matte look and subtle patterns, what is the apparent surface quality of the packaging?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Observing the design elements such as the arrangement of text and the use of a green accent at the bottom, what is the overall style of the packaging design?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Focusing on the distinct sections within the main text block, which clearly differentiate various nutritional components such as fat, carbs, and protein, how is the content presented?",
+        "answer": "tabular"
+      },
+      {
+        "question": "Considering the presence of a recycling symbol near the bottom right corner, what environmental aspect does this suggest?",
+        "answer": "Recyclable"
+      },
+      {
+        "question": "Examining the text size and style, what is the intended way of presenting the nutritional details?",
+        "answer": "legible"
+      },
+      {
+        "question": "Considering the presence of both descriptive and numerical data, what format describes the content's structure?",
+        "answer": "structured"
+      },
+      {
+        "question": "Observing the overall layout and its adherence to conventional food packaging norms, what is the apparent intended audience?",
+        "answer": "consumers"
+      },
+      {
+        "question": "Considering the relative sizes and positions of design elements like the logo and nutrition facts, what is the visual hierarchy?",
+        "answer": "ordered"
+      },
+      {
+        "question": "Considering the color of the text on the white background, what is the contrast level?",
+        "answer": "high"
+      },
+      {
+        "question": "Based on the overall appearance and size of the box, what is the intended format of the item contained?",
+        "answer": "Box"
+      }
+    ]
+  }
+]

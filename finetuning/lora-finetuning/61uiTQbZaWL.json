@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c7/c74d2696.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what is the dominant color scheme of this product's packaging, primarily focusing on the text and background elements?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary textual information displayed prominently on the packaging, providing crucial details about the product's nutritional content?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Observing the textual layout, what is the most frequently repeated element in the provided nutritional information, indicating units of measurement?",
+        "answer": "mg"
+      },
+      {
+        "question": "What is the shape of the nutritional information panel as depicted on this food packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary material of this product's packaging, judging by its texture and appearance, likely a common food packaging material?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "In terms of the content structure, what is the format of the information presented on the packaging, organizing data in a tabulated manner?",
+        "answer": "Table"
+      },
+      {
+        "question": "Focusing solely on the textual elements, what is the predominant font style used throughout the nutrition facts panel on the packaging?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the overall arrangement of the textual elements on the product packaging, considering the alignment and positioning of text blocks?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Regarding the numeric values, what is the unit of measurement consistently used in the calorie count section of this product's nutritional label?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Based on the image, what is the type of information predominantly displayed on the label, regarding the health aspects of consuming the product?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the language in which the nutritional information is presented on the packaging, apparent from the text shown?",
+        "answer": "English"
+      },
+      {
+        "question": "What is the general textual style of the displayed information, taking into account the font type and weight of the characters?",
+        "answer": "Bold"
+      },
+      {
+        "question": "In terms of the nutritional data, what is the unit used to measure the amount of fats present in the product as displayed on the label?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Considering the data organization, what is the type of layout used to represent the individual components of the nutritional data?",
+        "answer": "Columns"
+      },
+      {
+        "question": "Regarding the layout, what is the visual characteristic of the lines separating different sections or values in the table-like structure of the data on this packaging?",
+        "answer": "Horizontal"
+      }
+    ]
+  }
+]

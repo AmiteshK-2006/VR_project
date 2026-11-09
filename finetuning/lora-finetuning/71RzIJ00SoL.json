@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/64/64d6e4d3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant visible color of the bottle containing the product, excluding the cap?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the apparent material of the bottle itself, judging by its transparency and apparent flexibility?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the shape of the bottle, considering its overall profile from top to base?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Describe the cap's color on the top of the bottle shown in the provided image.",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the material of the cap affixed to the top of the bottle?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the overall shape of the cap relative to the main bottle structure?",
+        "answer": "Circular"
+      },
+      {
+        "question": "Considering the product label, what is the primary color used for the text and design elements?",
+        "answer": "Grey"
+      },
+      {
+        "question": "Based on what is visibly printed on the container, what is the nature of the graphics on the label?",
+        "answer": "Abstract"
+      },
+      {
+        "question": "What is the type of text prominently featured on the label, likely describing the product?",
+        "answer": "Descriptive"
+      },
+      {
+        "question": "What kind of code is present towards the bottom of the product's label, seemingly for identification?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "What is the overall texture implied by the bottle's surface, as observed in the picture provided?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What kind of recycling symbol is visible on the label of the product's container?",
+        "answer": "Triangle"
+      },
+      {
+        "question": "Considering the label, what symbols suggest the environmental impact of the packaging?",
+        "answer": "Recyclable"
+      },
+      {
+        "question": "What is the apparent size of the container relative to standard consumer product sizes?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the overall style of the container's design, based on its appearance and labeling?",
+        "answer": "Minimalist"
+      }
+    ]
+  }
+]

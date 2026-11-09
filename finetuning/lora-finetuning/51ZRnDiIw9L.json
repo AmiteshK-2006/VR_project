@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/38/38e244db.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the device shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the depicted power adapter?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the image, what material appears to constitute the outer casing?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on visual inspection, what type of port is prominently featured?",
+        "answer": "USB"
+      },
+      {
+        "question": "Does the power adapter exhibit a matte or glossy finish, according to the provided image?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Can you describe the surface texture observable in the provided product image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What small markings are visible near the USB port, based solely on the image?",
+        "answer": "Text"
+      },
+      {
+        "question": "Observing the image closely, what is the apparent size of the device relative to a typical hand?",
+        "answer": "Small"
+      },
+      {
+        "question": "Judging by the image alone, does the device seem to have any visible buttons or switches?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on what is visually apparent, what seems to be the primary function of this object?",
+        "answer": "Charging"
+      },
+      {
+        "question": "In the image, are there any noticeable logos or branding marks present on the adapter?",
+        "answer": "No"
+      },
+      {
+        "question": "According to the visual data, what is the apparent orientation of this power adapter?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Judging from the image provided, are there any visible vents or openings on the device?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the product picture show any visible signs of damage or wear?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering just the image, how many distinct sections or components make up this device?",
+        "answer": "One"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4e/4e4442e5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color scheme of the text on the product packaging?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Examining the textual layout, what is the primary font style employed for the ingredients list?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the visual characteristics, what appears to be the overall texture of the label?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the visual information provided, what is the main type of information conveyed on the package?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the apparent shape of the individual text blocks in the ingredients list?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the visual arrangement, how is the text presented regarding its alignment?",
+        "answer": "Left"
+      },
+      {
+        "question": "Given the visual aspects, what is the case of the lettering used for the ingredient list?",
+        "answer": "Upper"
+      },
+      {
+        "question": "What appears to be the size of the font in relation to the packaging dimensions?",
+        "answer": "Small"
+      },
+      {
+        "question": "Based on the visual information, what is the primary material of the package on which the text is printed?",
+        "answer": "Paper"
+      },
+      {
+        "question": "In terms of visual design, how is the information regarding allergens presented?",
+        "answer": "Separated"
+      },
+      {
+        "question": "Considering the overall visual appearance, what is the contrast level between the text and the background?",
+        "answer": "High"
+      },
+      {
+        "question": "Judging by the visual layout, what is the density of the text within each line?",
+        "answer": "High"
+      },
+      {
+        "question": "What visual indicators suggest the presence of multiple ingredients?",
+        "answer": "Bulleted"
+      },
+      {
+        "question": "What is the visual characteristic of the ingredient list's termination?",
+        "answer": "Abrupt"
+      },
+      {
+        "question": "What is the visual arrangement pattern of ingredients in the list?",
+        "answer": "Linear"
+      }
+    ]
+  }
+]

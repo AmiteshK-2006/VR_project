@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1c/1c04d3e6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the visible exterior surfaces of this object?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What appears to be the primary material used in the construction of this item?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the overall form, what is the most accurate geometric description of the item's shape?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on its visible features, what is the most likely function of this object?",
+        "answer": "Binder"
+      },
+      {
+        "question": "What type of mechanism is clearly visible for holding papers or documents within this item?",
+        "answer": "Rings"
+      },
+      {
+        "question": "What is the apparent finish or texture of the outer surface of this product, is it glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Describe the visible design element located centrally at the binding mechanism of the product?",
+        "answer": "Lever"
+      },
+      {
+        "question": "What kind of overall impression does the visible structure of this product convey; is it sturdy or flimsy?",
+        "answer": "Sturdy"
+      },
+      {
+        "question": "Considering the design, is this object intended for storing large amounts of paper, or for smaller quantities?",
+        "answer": "Large"
+      },
+      {
+        "question": "Describe the visible connection point between the front and back covers of this object.",
+        "answer": "Hinge"
+      },
+      {
+        "question": "What is the noticeable appearance of the rings that hold the object's contents; are they thick or thin?",
+        "answer": "Thick"
+      },
+      {
+        "question": "How many separate visible components compose the main structure of this object?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the apparent general condition of the object's visible surfaces; new or worn?",
+        "answer": "New"
+      },
+      {
+        "question": "What can be visually identified on the surface of this object besides its color?",
+        "answer": "Lines"
+      },
+      {
+        "question": "What is the apparent overall quality of construction evident in the visual details of this product?",
+        "answer": "Good"
+      }
+    ]
+  }
+]

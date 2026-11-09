@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c3/c3924bf2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form and volume, what is the primary shape of this product container?",
+        "answer": "Jug"
+      },
+      {
+        "question": "What dominant color is visually apparent across the majority of the product's surface?",
+        "answer": "Red"
+      },
+      {
+        "question": "Based on the visual texture and sheen, what material is the container seemingly constructed from?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Observing the detailed design of the container, can you describe the embossed pattern's style?",
+        "answer": "Floral"
+      },
+      {
+        "question": "Judging by the visual clarity, is the container's contents translucent, opaque, or transparent?",
+        "answer": "Translucent"
+      },
+      {
+        "question": "What type of closure mechanism is present at the top of the product container?",
+        "answer": "Cap"
+      },
+      {
+        "question": "Given the image, what is the approximate size or volume of this product container?",
+        "answer": "Large"
+      },
+      {
+        "question": "Judging from the label's information, what is one visible ingredient or characteristic stated?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the overall visual style or aesthetic of the product's packaging?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Examining the label, what is the primary function indicated by the text?",
+        "answer": "Beverage"
+      },
+      {
+        "question": "Based on the container's shape, is it designed for easy pouring, storage, or both?",
+        "answer": "Both"
+      },
+      {
+        "question": "Does the container show any visible damage, marks, or imperfections?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the color, what could be the likely type of beverage inside?",
+        "answer": "Juice"
+      },
+      {
+        "question": "Judging from the visual attributes, is this a single-serving container or bulk packaging?",
+        "answer": "Bulk"
+      },
+      {
+        "question": "What is the general condition of the product packaging, considering visual aspects?",
+        "answer": "New"
+      }
+    ]
+  }
+]

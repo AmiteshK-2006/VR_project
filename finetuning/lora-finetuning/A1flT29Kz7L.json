@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a2/a224d693.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the fabric shown in the image?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering the weave and texture, what is the apparent material of this fabric?",
+        "answer": "Linen"
+      },
+      {
+        "question": "Describing the surface, what is the overall texture of the displayed fabric sample?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Based on visual inspection, what is the apparent fiber type used in this fabric?",
+        "answer": "Natural"
+      },
+      {
+        "question": "Judging from its visual properties, how would you classify the drape of this fabric?",
+        "answer": "Medium"
+      },
+      {
+        "question": "From a visual assessment, what is the density of the weave in this textile sample?",
+        "answer": "Tight"
+      },
+      {
+        "question": "What is the discernible pattern or design present on this fabric sample?",
+        "answer": "Plain"
+      },
+      {
+        "question": "What is the perceived thickness or weight of this linen fabric shown?",
+        "answer": "Medium"
+      },
+      {
+        "question": "From the image, describe the visual uniformity of the fabric's color and texture.",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Considering the image, what is the overall finish of this linen fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the general visual impression of the sheen or gloss of this fabric?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "What is the apparent level of transparency or opacity in this fabric sample?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What kind of visual effect, if any, is created by the fabric's weave?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Based on the image, what is the visible direction of the fabric's weave?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Describe the visual clarity of the individual fibers within the fabric sample.",
+        "answer": "Faint"
+      }
+    ]
+  }
+]

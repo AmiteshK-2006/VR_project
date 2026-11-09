@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/75/75e544ed.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form factor, what geometric shape best describes the dominant visual profile of this electronic device?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Based solely on visual observation, what appears to be the predominant color of the device's exterior casing?",
+        "answer": "Black"
+      },
+      {
+        "question": "From a purely visual assessment, what is the apparent material composition of the main body of the item?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Judging from the visible features, how many clearly identifiable illuminated buttons or indicators are present on the control panel?",
+        "answer": "Five"
+      },
+      {
+        "question": "What is the observable texture of the product's surface, specifically focusing on the primary casing?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Visually inspecting the device, is there a power button clearly visible?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent shape of the power button, exclusively focusing on its visible form?",
+        "answer": "Circular"
+      },
+      {
+        "question": "In terms of the visible design elements, can you describe the placement of the control panel buttons?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Focusing only on the image, what is the apparent finish or sheen of the outer casing of the device?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the visible components, does the device appear to be a compact or elongated model based on its visual dimensions?",
+        "answer": "Elongated"
+      },
+      {
+        "question": "What is the overall visual impression of the design aesthetic of this item: minimalist or intricate?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What appears to be the primary visible function of the device based only on observable features?",
+        "answer": "Audio"
+      },
+      {
+        "question": "Are there any noticeable labels or markings visible on the device's exterior, excluding buttons?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the image, is there any evidence of visible grills or speaker openings on the device?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the visual details, what is the general size of the product in comparison to everyday objects?",
+        "answer": "Small"
+      }
+    ]
+  }
+]

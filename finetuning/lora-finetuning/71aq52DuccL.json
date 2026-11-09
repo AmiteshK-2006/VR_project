@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b1/b177df1f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the prominent textual layout, what specific dietary information is prominently displayed on this product's label?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Regarding the quantitative breakdown of fats, what type of fat is listed with the highest numerical value, as visually evident on this product's label?",
+        "answer": "Total"
+      },
+      {
+        "question": "Focusing on the macronutrient composition, what nutrient is represented by a value of '0g' as clearly indicated on this food label?",
+        "answer": "Protein"
+      },
+      {
+        "question": "In terms of nutritional content, what is the explicitly mentioned amount (in grams) for saturated fat, as directly presented on the product's label?",
+        "answer": "2g"
+      },
+      {
+        "question": "Based on the visible label, what is the serving size of this product, as indicated in both tablespoons and milliliters?",
+        "answer": "Tablespoon"
+      },
+      {
+        "question": "What is the numerical value shown for the total number of servings per container, as clearly presented on the product's nutrition label?",
+        "answer": "33"
+      },
+      {
+        "question": "What is the quantitative value (in grams) displayed for the 'Polyunsaturated Fat' content, as indicated on this food product's label?",
+        "answer": "10g"
+      },
+      {
+        "question": "What is the numerical value displayed next to 'Total Carbohydrate', in grams, as visibly shown on this food item's label?",
+        "answer": "0g"
+      },
+      {
+        "question": "Focusing on the sodium content, what is the numerical value (in milligrams) presented for this nutrient, as visibly shown on the label?",
+        "answer": "0mg"
+      },
+      {
+        "question": "Regarding the fat content, what is the amount of 'Monounsaturated Fat' presented in grams, as visually evident on the product's label?",
+        "answer": "2g"
+      },
+      {
+        "question": "What is the numerical value expressed in grams for 'Trans Fat', as visibly shown on this product's nutritional information?",
+        "answer": "0g"
+      },
+      {
+        "question": "What is the percentage daily value (%DV) indicated for 'Total Fat' on this product's nutrition facts label?",
+        "answer": "18%"
+      },
+      {
+        "question": "What is the percentage daily value (%DV) listed for saturated fat, as clearly shown on this product's nutrition facts label?",
+        "answer": "10%"
+      },
+      {
+        "question": "What single word best describes the overall presentation style of the nutritional information on this product's packaging?",
+        "answer": "tabular"
+      },
+      {
+        "question": "What is the unit of measurement used for the serving size of this food item, as indicated on the nutrition label?",
+        "answer": "Tbsp"
+      }
+    ]
+  }
+]

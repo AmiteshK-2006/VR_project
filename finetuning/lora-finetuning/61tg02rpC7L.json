@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8d/8dcf40fa.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the majority of the visible surface area of these items?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the visible edges, what appears to be the primary material of construction for these items?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the overall shape or form factor of each individual item in the stack?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describing the appearance of the short, dark bands visible at the top of each item, what color are they?",
+        "answer": "Black"
+      },
+      {
+        "question": "What seems to be the apparent texture of the main body of each item shown?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on their visual stacking, what is the apparent thickness of each individual item?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Judging by the image, what seems to be the function of the dark bands at the top of each item?",
+        "answer": "Closure"
+      },
+      {
+        "question": "Observing the items closely, what is the apparent level of translucence or opacity of the primary material?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Considering the visual uniformity, what appears to be the overall finish of the primary surfaces?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the edges, what is the visual appearance of the seam where the main body meets the dark band?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "What is the apparent condition of the edges (are they neatly cut or frayed)?",
+        "answer": "Neat"
+      },
+      {
+        "question": "Based on the way they are stacked, what is the estimated count of individual items in the pile?",
+        "answer": "Twelve"
+      },
+      {
+        "question": "Given the image, what is the inferred use of the dark band at the top?",
+        "answer": "Adhesive"
+      },
+      {
+        "question": "Considering the whole stack, are the items visibly damaged or deformed in any way?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the general neatness of the stack, are they orderly or disorderly?",
+        "answer": "Orderly"
+      }
+    ]
+  }
+]

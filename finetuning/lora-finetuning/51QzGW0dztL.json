@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ef/ef5b7a06.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall design, what is the primary color scheme of the nutrition facts label?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the dominant font style used to present the nutritional information?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the visual layout, what is the predominant organizational structure used for the data?",
+        "answer": "Table"
+      },
+      {
+        "question": "Examining the text, what is the unit of measurement employed for serving size?",
+        "answer": "Cup"
+      },
+      {
+        "question": "What is the specified numerical value for the total carbohydrate content in a single serving?",
+        "answer": "13g"
+      },
+      {
+        "question": "What is the type of nutritional information being displayed?",
+        "answer": "Facts"
+      },
+      {
+        "question": "What is the visual indicator used to separate the different nutritional components?",
+        "answer": "Lines"
+      },
+      {
+        "question": "What term describes the type of milk indicated on the product's label?",
+        "answer": "Homogenized"
+      },
+      {
+        "question": "What term indicates the processing applied to ensure safety?",
+        "answer": "Pasteurized"
+      },
+      {
+        "question": "What grade is assigned to the product's raw material?",
+        "answer": "A"
+      },
+      {
+        "question": "What is the listed value for the amount of sugar in a serving?",
+        "answer": "12g"
+      },
+      {
+        "question": "What metric is employed to quantify the caloric content?",
+        "answer": "Calories"
+      },
+      {
+        "question": "What is the indicated value for total fat per serving?",
+        "answer": "0g"
+      },
+      {
+        "question": "What term is used to denote the recommended daily intake percentage?",
+        "answer": "DV"
+      },
+      {
+        "question": "What is the numerical value of the serving size in milliliters?",
+        "answer": "240mL"
+      }
+    ]
+  }
+]

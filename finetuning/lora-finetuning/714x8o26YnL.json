@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fb/fbb19585.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overarching shape of the product's primary packaging, as seen from the provided image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the packaging's visual texture, what material is predominantly used in its construction?",
+        "answer": "Foil"
+      },
+      {
+        "question": "Based on the image, what is the primary color of the product's exterior packaging?",
+        "answer": "Silver"
+      },
+      {
+        "question": "Observing the printed text, what language(s) are prominently displayed on the package?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "From a visual assessment of the package, what seems to be the product's intended use or function?",
+        "answer": "Repair"
+      },
+      {
+        "question": "Judging by the visual details, what kind of print is predominantly used on the packaging?",
+        "answer": "Instructional"
+      },
+      {
+        "question": "What is the visual appearance of the surface texture on the outer packaging?",
+        "answer": "Shiny"
+      },
+      {
+        "question": "Considering the presence of various text and symbols, what is the overall visual impression of the labeling?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Regarding the packaging's overall design, what is the most apparent design feature or element?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "What is the visual state of the product packaging as depicted in the image?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Based on the image, what is the relative size of the product contained within?",
+        "answer": "Small"
+      },
+      {
+        "question": "From the provided image, what is the visual representation of the overall condition of the package?",
+        "answer": "New"
+      },
+      {
+        "question": "Judging by the image, is the packaging clearly and legibly labeled?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the predominant type of text used for the product's instructions?",
+        "answer": "Descriptive"
+      },
+      {
+        "question": "What is the implied visual form of the product hidden within its packaging?",
+        "answer": "Flexible"
+      }
+    ]
+  }
+]

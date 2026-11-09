@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/65/656026f1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the floor mat as shown in the image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the visible texture, what is the apparent material of the mat?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Based on the image, what is the overall shape of the presented floor mat?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging by the image, what seems to be the pile height of the mat's fibers?",
+        "answer": "Low"
+      },
+      {
+        "question": "Does the mat exhibit a pattern, or is its design uniform across the surface?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What is the apparent texture of the mat's surface, as observed in the image?",
+        "answer": "Fuzzy"
+      },
+      {
+        "question": "From the visual evidence provided, does the mat appear to be thick or thin?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Based on the visual inspection, what is the apparent length of the mat?",
+        "answer": "Medium"
+      },
+      {
+        "question": "As evident in the image, is the mat's edge clearly defined, or is it frayed?",
+        "answer": "Defined"
+      },
+      {
+        "question": "Judging by the image, is the mat's color consistent throughout its surface?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the image show any noticeable logo or branding on the mat?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the visual details, what is the apparent width of the mat?",
+        "answer": "Medium"
+      },
+      {
+        "question": "From the perspective of the picture, is the mat folded or lying flat?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Does the image suggest the mat has any visible stitching or seams?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the image, is the mat's surface smooth or rough to the touch?",
+        "answer": "Rough"
+      }
+    ]
+  }
+]

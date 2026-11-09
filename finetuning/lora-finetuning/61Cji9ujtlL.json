@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/92/92039dd8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the font style and size, what is the overall impression of the text's readability concerning the listed ingredients?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the predominant color used for the text detailing the ingredients and their constituents?",
+        "answer": "Black"
+      },
+      {
+        "question": "Disregarding any formatting, how many distinct food items are mentioned in the 'Ingredients' section?",
+        "answer": "Thirteen"
+      },
+      {
+        "question": "Based on the ingredient list alone, what is the primary protein source in this product?",
+        "answer": "Chicken"
+      },
+      {
+        "question": "Focusing on the ingredient list, which spice is explicitly mentioned more than once?",
+        "answer": "Paprika"
+      },
+      {
+        "question": "What kind of dairy product is explicitly listed among the ingredients?",
+        "answer": "Milk"
+      },
+      {
+        "question": "What color are the peppers specifically mentioned within the ingredients?",
+        "answer": "Red"
+      },
+      {
+        "question": "What type of milk is used in the Greek yogurt component, as detailed in the ingredients?",
+        "answer": "Nonfat"
+      },
+      {
+        "question": "According to the 'Contains' section, what primary allergen is explicitly highlighted?",
+        "answer": "Milk"
+      },
+      {
+        "question": "Based on the text, which additional food group presents a potential cross-contamination risk?",
+        "answer": "Eggs"
+      },
+      {
+        "question": "Does the text indicate whether the chicken broth used is homemade or commercially sourced?",
+        "answer": "Commercial"
+      },
+      {
+        "question": "In the ingredient list, how many types of peppers are listed?",
+        "answer": "Two"
+      },
+      {
+        "question": "What type of oil is indicated as an ingredient in the roasted red peppers?",
+        "answer": "Sunflower"
+      },
+      {
+        "question": "What is one of the active cultures listed in the Greek yogurt ingredient?",
+        "answer": "Bifidus"
+      },
+      {
+        "question": "Which herb is explicitly mentioned as an ingredient?",
+        "answer": "Rosemary"
+      }
+    ]
+  }
+]

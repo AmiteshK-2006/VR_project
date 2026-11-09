@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/15/15353914.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric depicted in the provided image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visual texture, what is the primary weave type apparent in the image?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Based on the image, what would you describe the overall visual feel of the fabric's surface?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Judging from the image, what is the most apparent visual characteristic of the material's fibers?",
+        "answer": "Interwoven"
+      },
+      {
+        "question": "If you were to categorize the visible material, what single word best describes its composition?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Describe the appearance of the individual threads based solely on the image's visual details.",
+        "answer": "Linear"
+      },
+      {
+        "question": "In relation to its color, what would you describe the overall shade of the textile in the picture?",
+        "answer": "Dark"
+      },
+      {
+        "question": "What is the most evident visual impression regarding the material's apparent density or compactness?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Given the visual characteristics, what is the most suitable descriptor of the fabric's visual pattern?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "From the image alone, what single word describes the apparent weight or thickness of the fabric?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Based on the image, what visual term best characterizes the fabric's apparent level of sheen or gloss?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the image, what is the most precise word to capture the fabric's visible structure?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "What single word best summarizes the visual impression of the fabric's color variation?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "Considering the image, what is the most appropriate word for the visual arrangement of the threads?",
+        "answer": "Regular"
+      },
+      {
+        "question": "Based solely on the image, what term describes the textile's discernible surface finish?",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

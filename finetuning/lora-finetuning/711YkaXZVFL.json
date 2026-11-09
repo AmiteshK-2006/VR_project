@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3d/3d269315.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form and packaging, what best describes the product's shape as seen in the image?",
+        "answer": "Irregular"
+      },
+      {
+        "question": "What is the predominant color of the main body of the package, excluding any labels?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Based purely on visual inspection, what appears to be the primary material of the product's packaging?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Disregarding text, what color is the prominent horizontal band across the package?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the texture of the visible surface of the product's packaging, as shown in the image?",
+        "answer": "Wrinkled"
+      },
+      {
+        "question": "Observing the image carefully, what is the general condition of the product packaging?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Focusing solely on visual details, what type of label is most prominently featured on the packaging?",
+        "answer": "Brand"
+      },
+      {
+        "question": "In terms of design elements, is there any clear indication of a primary graphic motif on the packaging?",
+        "answer": "None"
+      },
+      {
+        "question": "What seems to be the primary method used to seal or close the product's packaging, based on the image?",
+        "answer": "Heat"
+      },
+      {
+        "question": "Judging from visual appearance, does the packaging show any signs of damage or wear?",
+        "answer": "No"
+      },
+      {
+        "question": "What appears to be the overall size and scale of this item according to what's seen?",
+        "answer": "Small"
+      },
+      {
+        "question": "Based on visual observation alone, what seems to be the product type in general?",
+        "answer": "Food"
+      },
+      {
+        "question": "If focusing on the visual aspects alone, what is the apparent visual weight of the packaging as shown?",
+        "answer": "Light"
+      },
+      {
+        "question": "Excluding labels, describe the visible surface texture of the packaging's main body.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering only the visual characteristics, what is the overall style of this product’s packaging?",
+        "answer": "Minimalist"
+      }
+    ]
+  }
+]

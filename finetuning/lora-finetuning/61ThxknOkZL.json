@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/49/49b01592.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary ingredient listed, as shown on the product's label?",
+        "answer": "Semolina"
+      },
+      {
+        "question": "According to the label, what grain is a key component of this product?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "What other type of flour, besides semolina, is explicitly mentioned in the ingredients?",
+        "answer": "Durum"
+      },
+      {
+        "question": "Based on the label, what vitamin is included among the added nutrients?",
+        "answer": "Niacin"
+      },
+      {
+        "question": "What iron-containing compound is listed as an ingredient?",
+        "answer": "Sulfate"
+      },
+      {
+        "question": "What B vitamin is included, as indicated on the product label?",
+        "answer": "Riboflavin"
+      },
+      {
+        "question": "What other added nutrient is specifically mentioned in the ingredient list?",
+        "answer": "Thiamin"
+      },
+      {
+        "question": "What is the specific form of thiamin indicated in the ingredient list?",
+        "answer": "Mononitrate"
+      },
+      {
+        "question": "What other essential nutrient, besides the B vitamins, is shown as an ingredient?",
+        "answer": "Folic"
+      },
+      {
+        "question": "What acid is part of the nutrient composition, as presented in the label?",
+        "answer": "Acid"
+      },
+      {
+        "question": "What is the word printed on the label to indicate an ingredient allergen?",
+        "answer": "Contains"
+      },
+      {
+        "question": "Considering the labeling, what ingredient should be avoided by people with allergies?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "What is the style of the text on the ingredients label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the overall color scheme of the text on the label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the visual appearance, what type of label is this?",
+        "answer": "Nutritional"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/af/af44e885.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the packaging, as observed visually?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What appears to be the primary material of the product's outer packaging?",
+        "answer": "Foil"
+      },
+      {
+        "question": "Considering the images and text, what food item does this package seem to contain?",
+        "answer": "Coconut"
+      },
+      {
+        "question": "Describe the overall shape and form of the product's packaging visually.",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on visual inspection, what kind of finish does the packaging's surface exhibit?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What type of design elements are prominently featured on the packaging, besides text?",
+        "answer": "Illustrations"
+      },
+      {
+        "question": "From the images, can you discern the presence of any noticeable texturing on the packaging?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the visual style of the illustrations on the package – simplistic or detailed?",
+        "answer": "Simplistic"
+      },
+      {
+        "question": "What is the apparent size of the text on the nutrition information panel relative to other elements?",
+        "answer": "Small"
+      },
+      {
+        "question": "Ignoring text, does the design on the package predominantly feature patterns or individual images?",
+        "answer": "Images"
+      },
+      {
+        "question": "What kind of imagery is predominantly used in the illustrations on the bag, visually speaking?",
+        "answer": "Food"
+      },
+      {
+        "question": "Considering the bag's structure, does it appear flexible or rigid in nature?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "What color are the illustrations on the product packaging, primarily?",
+        "answer": "White"
+      },
+      {
+        "question": "Is the primary background color of the packaging uniformly applied, or does it vary?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Considering the images, what is the overall visual impression of the product’s packaging?",
+        "answer": "Clean"
+      }
+    ]
+  }
+]

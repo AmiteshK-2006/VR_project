@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/7f/7f955c15.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout and textual information presented, what is the primary subject depicted in this image?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Focusing on the prominent numerical value displayed, what is the specified caloric content per serving?",
+        "answer": "150"
+      },
+      {
+        "question": "Observing the detailed breakdown of fats, what is the total fat content in grams per serving?",
+        "answer": "10g"
+      },
+      {
+        "question": "Analyzing the information provided on saturated fats, what is the quantity presented in grams?",
+        "answer": "1g"
+      },
+      {
+        "question": "Examining the nutritional facts, what is the amount of sodium listed in milligrams per serving?",
+        "answer": "170mg"
+      },
+      {
+        "question": "Based on the dietary information, what is the total carbohydrate content in grams per serving?",
+        "answer": "14g"
+      },
+      {
+        "question": "According to the label, what is the amount of dietary fiber in grams per serving, noting any approximations?",
+        "answer": "<1g"
+      },
+      {
+        "question": "Referring to the sugar content information, how many grams of total sugars are included per serving?",
+        "answer": "0g"
+      },
+      {
+        "question": "Focusing on the protein content, how many grams of protein are present per serving?",
+        "answer": "1g"
+      },
+      {
+        "question": "Regarding micronutrients, how much potassium, in milligrams, is indicated per serving?",
+        "answer": "160mg"
+      },
+      {
+        "question": "What is the serving size specified in ounces, based on the information presented?",
+        "answer": "1oz"
+      },
+      {
+        "question": "According to the label, how many servings are contained within this package?",
+        "answer": "20"
+      },
+      {
+        "question": "In addition to the weight, what approximate number of chips constitutes one serving, according to this label?",
+        "answer": "15"
+      },
+      {
+        "question": "What is the style of the text predominantly used in the information presented?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the overall color scheme of this image, predominantly?",
+        "answer": "Black-and-white"
+      }
+    ]
+  }
+]

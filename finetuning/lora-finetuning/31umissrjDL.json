@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/46/46979b26.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the packaging shown in the image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What appears to be the material of the outer packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the overall shape of the product's packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describing the surface texture, is it smooth or rough?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What kind of printing is visible on the packaging's surface?",
+        "answer": "Text"
+      },
+      {
+        "question": "Is there a noticeable logo or branding present on the box?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging by the image, does the packaging seem sturdy or flimsy?",
+        "answer": "Sturdy"
+      },
+      {
+        "question": "What is the apparent size relative to a human adult?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Based on the image, is there any visible damage to the packaging?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the visual details, is the packaging sealed or open?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "What is the apparent style of the packaging design; minimalist or ornate?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Does the packaging appear to be plain or decorated with illustrations?",
+        "answer": "Plain"
+      },
+      {
+        "question": "What is the dominant feature visible on the package's front face?",
+        "answer": "Logo"
+      },
+      {
+        "question": "Considering the details, is the packaging design simple or complex?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Does the product packaging appear to be recyclable or non-recyclable?",
+        "answer": "Recyclable"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5a/5a91c69c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color scheme of the product's packaging?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the primary text style used to display the product's ingredient list?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What kind of visual elements are predominantly used to break up the text blocks on the packaging?",
+        "answer": "Spacing"
+      },
+      {
+        "question": "Judging by the visual layout, what is the overall tone or style conveyed by the product's labeling?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Based on the image, what is the case of the lettering on the product packaging?",
+        "answer": "Upper"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent finish of the product's packaging?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What appears to be the textual organization method used for presenting the ingredients?",
+        "answer": "List"
+      },
+      {
+        "question": "Based on the visual appearance, what is the format of the text indicating the ingredients?",
+        "answer": "Paragraph"
+      },
+      {
+        "question": "Based on the visual design, what is the alignment of the ingredient list?",
+        "answer": "Left"
+      },
+      {
+        "question": "What is the most prominent font weight used in the ingredient list?",
+        "answer": "Regular"
+      },
+      {
+        "question": "Judging solely by the visual appearance, does the label include any illustrations or icons?",
+        "answer": "No"
+      },
+      {
+        "question": "What kind of font size is consistently used for the majority of the ingredient text?",
+        "answer": "Small"
+      },
+      {
+        "question": "Considering the visual presentation, how is the main heading 'Ingredients' styled on the label?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Based on the visual prominence, which section of the ingredient list is most emphasized?",
+        "answer": "Main"
+      },
+      {
+        "question": "Judging by the visual characteristics, what is the overall readability of the text on the label?",
+        "answer": "Good"
+      }
+    ]
+  }
+]

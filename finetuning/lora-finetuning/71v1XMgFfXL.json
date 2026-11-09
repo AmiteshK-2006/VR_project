@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/80/807766bb.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the dominant shape of the product container, ignoring the pump?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the predominant color of the product's main body, as visually observed?",
+        "answer": "White"
+      },
+      {
+        "question": "What material seems to be used for the dispensing mechanism on top of the container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describing the texture of the product's outer surface, what adjective best applies?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What type of label is affixed to the container, indicating its contents and other relevant data?",
+        "answer": "Informative"
+      },
+      {
+        "question": "What color are the prominent graphic elements on the product label, excluding the text?",
+        "answer": "Green"
+      },
+      {
+        "question": "Considering the container's design, what specific type of closure system is implemented for dispensing?",
+        "answer": "Pump"
+      },
+      {
+        "question": "What is the visual impression of the surface quality, based on the product's appearance?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Based on the label's design, what is the inferred purpose of this product, solely from visuals?",
+        "answer": "Cleaning"
+      },
+      {
+        "question": "Observing the label, what is the overall style or aesthetic used in the design of the product’s packaging?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Regarding the product's container, what is the observed overall size or scale relative to common household objects?",
+        "answer": "Large"
+      },
+      {
+        "question": "Focusing on the container's base, describe its visible design in one word.",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What is the primary mode of dispensing or delivery as shown on the product?",
+        "answer": "Liquid"
+      },
+      {
+        "question": "What is the apparent transparency or opacity of the product inside the container?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What is the observed condition of the product's packaging, considering any signs of damage or wear?",
+        "answer": "New"
+      }
+    ]
+  }
+]

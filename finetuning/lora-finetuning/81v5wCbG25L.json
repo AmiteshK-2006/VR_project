@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bb/bb513bac.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the packaging, as shown in the provided image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent surface finish of the packaging?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on the image, what flavor is predominantly indicated on the product packaging?",
+        "answer": "Mint"
+      },
+      {
+        "question": "What is the primary shape of the product as it is presented in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What type of food product does the image clearly depict, based on the packaging?",
+        "answer": "Bar"
+      },
+      {
+        "question": "Judging by the image, what is the textual representation of the brand name?",
+        "answer": "AMFIT"
+      },
+      {
+        "question": "From the visual presentation, what secondary flavor is suggested on the packaging?",
+        "answer": "Chocolate"
+      },
+      {
+        "question": "What is the implied form of the product, inferred from the packaging shape?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Does the packaging design include any prominent geometric patterns?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Observing the image, what is the overall style of the product's packaging?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Judging from the image, what word describes the visual presentation of the text on the packaging?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Is there any visual indication of nutritional information on the product packaging shown?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the visual depiction, what is the visible color scheme of the packaging?",
+        "answer": "Monochromatic"
+      },
+      {
+        "question": "What is the visible word following the brand name on the packaging?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Does the packaging prominently display a serving suggestion or preparation method?",
+        "answer": "No"
+      }
+    ]
+  }
+]

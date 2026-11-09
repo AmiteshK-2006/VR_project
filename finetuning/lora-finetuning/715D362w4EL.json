@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/cf/cfd8d3bf.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular layout and text organization, what is the primary function suggested by the image's visual elements?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Based on the prominent labeling style and textual content, what specific type of information is primarily conveyed?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Observing the numerical values and associated units, what is the quantified attribute for a single serving?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Considering the size and prominence of the numerical value, what is the primary quantitative information provided?",
+        "answer": "80"
+      },
+      {
+        "question": "Examining the textual content and units, which macronutrient has the highest value per serving?",
+        "answer": "Fat"
+      },
+      {
+        "question": "Based on the listed nutritional components, what is the value in grams for total fat per serving?",
+        "answer": "6g"
+      },
+      {
+        "question": "Focusing on the presented nutritional information, what is the amount of saturated fat in grams per serving?",
+        "answer": "4g"
+      },
+      {
+        "question": "According to the provided data, what is the total carbohydrate content in grams per serving?",
+        "answer": "1g"
+      },
+      {
+        "question": "Regarding the nutritional content, what is the amount of protein in grams contained in a single serving?",
+        "answer": "4g"
+      },
+      {
+        "question": "Examining the serving size information, what is the weight specified in grams for a single serving?",
+        "answer": "28g"
+      },
+      {
+        "question": "From the visual information, what is the described serving size in relation to a particular food item?",
+        "answer": "Log"
+      },
+      {
+        "question": "Observing the layout, what is the overall shape of this informative graphic element?",
+        "answer": "Rectangle"
+      },
+      {
+        "question": "Based on the visual characteristics, what is the primary color scheme utilized for this informational display?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the visual design, what is the predominant text style used throughout this graphic?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the overall visual presentation style employed in this image, suggesting its intended purpose?",
+        "answer": "Informative"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/05/052b4a70.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form and structure, what is the dominant three-dimensional shape of this item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the most prominent and readily apparent color observed across the entire surface?",
+        "answer": "White"
+      },
+      {
+        "question": "Observing the outer layer, what appears to be the primary material used in its construction?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Focusing on the top surface, what discernible texture pattern is visibly present and repeated?",
+        "answer": "Wavy"
+      },
+      {
+        "question": "Examining the edges, what color is the subtle border trim visible along the perimeter?",
+        "answer": "Grey"
+      },
+      {
+        "question": "What is the apparent level of thickness or height of this object, relative to its length and width?",
+        "answer": "Thick"
+      },
+      {
+        "question": "From the image's perspective, what seems to be the item's intended orientation or position when used?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Based on the material and shape, what is the most plausible functional purpose for this product?",
+        "answer": "Sleeping"
+      },
+      {
+        "question": "Considering the visual attributes, what level of softness or firmness is implied by the form and texture?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What is the general level of detail or intricacy found in the design of the visible surface?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the general visual impression of the object's overall state or condition, given the visual data?",
+        "answer": "New"
+      },
+      {
+        "question": "Looking at the top surface, is the texture consistent across the entire visible area or are there variations?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "In terms of its design features, is this a product with many or few visible components or distinct parts?",
+        "answer": "Few"
+      },
+      {
+        "question": "What seems to be the most likely density or firmness of the interior filling material, given the outer appearance?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Considering the size and overall construction, what is the implied intended scale or size category of the product?",
+        "answer": "Single"
+      }
+    ]
+  }
+]

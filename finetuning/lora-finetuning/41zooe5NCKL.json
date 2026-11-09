@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/57/57f3f88c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape and the dense text layout, what is the dominant orientation of this food product's nutritional information label?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Based on the prominent display at the top of the label, what key information category does this document convey?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Observing the typeface used throughout the label, what can be described as its style?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Analyzing the visual hierarchy, what is the most prominent numerical value presented in this nutritional facts display?",
+        "answer": "240"
+      },
+      {
+        "question": "Focusing on the textual content of the label, what is the unit of measurement used for the serving size?",
+        "answer": "Ounces"
+      },
+      {
+        "question": "Considering the arrangement of information, what is the term displayed prominently underneath 'Amount Per Serving'?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Inspecting the label closely, what is the color of the text consistently utilized?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the visual structure of the data presented, what type of graphic is used for organizing the different nutritional components?",
+        "answer": "Table"
+      },
+      {
+        "question": "Looking at the text, what term indicates the amount of a nutrient relative to a daily diet?",
+        "answer": "Percent"
+      },
+      {
+        "question": "Focusing on the label's design elements, what is the most visually prominent border style used to section off data?",
+        "answer": "Black"
+      },
+      {
+        "question": "Looking at the text, what's the primary unit used for measuring fat content?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Analyzing the fine details, what is the unit of measurement for cholesterol?",
+        "answer": "Milligrams"
+      },
+      {
+        "question": "Observing the detailed information, what's the unit of measurement used for sodium quantity?",
+        "answer": "Milligrams"
+      },
+      {
+        "question": "Inspecting the fine print at the bottom, what word describes a daily food intake?",
+        "answer": "Diet"
+      },
+      {
+        "question": "Based on the visual presentation of the data, what is the general formatting of the nutritional values?",
+        "answer": "Numerical"
+      }
+    ]
+  }
+]

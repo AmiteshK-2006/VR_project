@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/17/1743929c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the packaging's background?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the overall shape of the product packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material appears to be used for the packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the primary text color on the packaging?",
+        "answer": "Black"
+      },
+      {
+        "question": "Describing the texture, is the packaging glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the color of the small circle graphic on the packaging?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the main subject indicated by the text on the packaging?",
+        "answer": "Pepper"
+      },
+      {
+        "question": "What kind of pepper is specified on the packaging?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the general style of the packaging design?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the form of the displayed weight measurement?",
+        "answer": "Numeric"
+      },
+      {
+        "question": "What unit of weight is used for the product?",
+        "answer": "Gram"
+      },
+      {
+        "question": "What is the visual representation of the company brand?",
+        "answer": "Logo"
+      },
+      {
+        "question": "Describing the font style used for the brand name, is it serif or sans-serif?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the position of the brand logo on the packaging?",
+        "answer": "Bottom"
+      },
+      {
+        "question": "Considering the visual information, is the packaging resealable?",
+        "answer": "No"
+      }
+    ]
+  }
+]

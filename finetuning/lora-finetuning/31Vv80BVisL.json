@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/03/032cf199.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the clock presented in the image?",
+        "answer": "Round"
+      },
+      {
+        "question": "What color is the frame encircling the clock face?",
+        "answer": "Grey"
+      },
+      {
+        "question": "What color are the Roman numerals displayed on the clock face?",
+        "answer": "White"
+      },
+      {
+        "question": "What material appears to constitute the clock's frame?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What is the dominant color of the clock's face?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe the style of the numbers on the clock face.",
+        "answer": "Roman"
+      },
+      {
+        "question": "What type of hands are used to indicate the time?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Does the clock face have any other markings besides numerals?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image, what is the apparent texture of the clock frame?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What seems to be the primary function of this product?",
+        "answer": "Timekeeping"
+      },
+      {
+        "question": "Judging from the image, is the clock's design minimalistic or ornate?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Based on the visual details, is the clock analog or digital?",
+        "answer": "Analog"
+      },
+      {
+        "question": "Considering the visual features, is the clock design modern or antique?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What color are the clock hands?",
+        "answer": "Black"
+      },
+      {
+        "question": "Does the clock appear to have a visible mechanism through the face?",
+        "answer": "No"
+      }
+    ]
+  }
+]

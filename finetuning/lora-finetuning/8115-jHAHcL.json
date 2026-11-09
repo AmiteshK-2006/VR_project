@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/de/de75c031.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the picture frame's visible exterior?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the frame's visible edges, what is its apparent overall shape?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the image's visual texture, what material seems to constitute the frame?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Examining the frame's construction, what is the profile of its cross-section?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent finish or style of the frame's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Observing the frame's edge detail, is the join type visible mitered or butt?",
+        "answer": "Mitered"
+      },
+      {
+        "question": "Judging by its visual appearance, what is the apparent width of the frame's border?",
+        "answer": "Wide"
+      },
+      {
+        "question": "What color is the backing board visible through the frame's opening?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Does the frame's surface show any noticeable grain patterns?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the image, is there evidence of any visible hardware or fittings?",
+        "answer": "No"
+      },
+      {
+        "question": "What kind of texture does the backing board appear to possess?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Looking at the corner joint, how neatly is the frame's miter cut executed?",
+        "answer": "Neatly"
+      },
+      {
+        "question": "Is the frame's color consistent across the visible surfaces?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the overall aesthetic impression of the frame's design?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Judging from the image, is the frame's surface glossy or non-glossy?",
+        "answer": "Matte"
+      }
+    ]
+  }
+]

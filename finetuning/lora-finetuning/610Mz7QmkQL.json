@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/70/709a693b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape and the structured arrangement of data within it, what is the predominant form of this item?",
+        "answer": "Box"
+      },
+      {
+        "question": "Analyzing the textual content, focusing on nutritional details and serving sizes, what type of product information is displayed?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Observing the color palette, is the background primarily a light or dark shade?",
+        "answer": "Light"
+      },
+      {
+        "question": "Examining the font styles and sizes, does the text appear mostly in a single or multiple typefaces?",
+        "answer": "Single"
+      },
+      {
+        "question": "Based on the presence of headings like 'Total Fat,' 'Cholesterol,' and 'Sodium,' what is the primary subject matter being presented?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Considering the context, what is the principal purpose of the text shown, relating to consumer product understanding?",
+        "answer": "Information"
+      },
+      {
+        "question": "Observing the layout's alignment, are the columns mostly centered or aligned to one side?",
+        "answer": "Centered"
+      },
+      {
+        "question": "Considering the overall texture, would you describe the printed surface as glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the text density, is the information presented in a sparsely or densely packed manner?",
+        "answer": "Densely"
+      },
+      {
+        "question": "Given the use of percentages in the nutritional data, what is the nature of the comparisons being made?",
+        "answer": "Daily"
+      },
+      {
+        "question": "Examining the presence of numeric values, would the quantitative data be mainly whole numbers or decimals?",
+        "answer": "Whole"
+      },
+      {
+        "question": "Based on the visual presentation, is the overall design aesthetic simple or complex?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Considering the style of presentation, would you describe the overall tone as informal or formal?",
+        "answer": "Formal"
+      },
+      {
+        "question": "Given the prominent display of serving sizes, what is the implied focus of the information?",
+        "answer": "Portion"
+      },
+      {
+        "question": "Considering the presence of units such as 'grams' and 'milligrams,' what is the measurement system primarily employed?",
+        "answer": "Metric"
+      }
+    ]
+  }
+]

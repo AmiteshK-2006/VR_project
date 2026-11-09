@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e3/e3d9eb34.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape and form factor of the primary visible element in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the predominant color of the background behind the nutritional information?",
+        "answer": "Black"
+      },
+      {
+        "question": "What color is the text of the 'Nutrition Facts' heading prominently displayed?",
+        "answer": "Black"
+      },
+      {
+        "question": "What prominent company logo is visible at the very bottom of the image?",
+        "answer": "Amazon"
+      },
+      {
+        "question": "What is the dominant color of the logo situated at the lower portion of the rectangular area?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What is the general texture implied by the appearance of the nutritional information panel?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the style of the font used for the 'Nutrition Facts' section.",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the apparent material of the surface holding the nutritional information?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Describe the layout style of the nutritional information, focusing on its organization.",
+        "answer": "Tabular"
+      },
+      {
+        "question": "What is the color of the thin vertical strip adjacent to the main panel?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall visual impression of the nutritional information, is it cluttered or organized?",
+        "answer": "Organized"
+      },
+      {
+        "question": "What is the primary method of presenting quantitative data within the nutritional facts?",
+        "answer": "Numerical"
+      },
+      {
+        "question": "What are the primary units of measurement utilized for the values in the nutritional information?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Is the overall visual style of the image predominantly minimalist or detailed?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Considering the image, what is the primary function of the displayed element?",
+        "answer": "Informational"
+      }
+    ]
+  }
+]

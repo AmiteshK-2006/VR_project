@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e4/e453c056.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular layout and the detailed textual content, what is the primary function of this item?",
+        "answer": "Label"
+      },
+      {
+        "question": "Observing the prominent header at the top, what specific dietary information does this package provide?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Focusing on the text's organization, what is the descriptive format used to present the nutritional values?",
+        "answer": "Table"
+      },
+      {
+        "question": "Based on the typeface and font size, what is the implied tone and purpose of this product's information?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Analyzing the visual elements, what is the predominant color scheme utilized throughout the entire label?",
+        "answer": "White"
+      },
+      {
+        "question": "Given the text's density and the small font size, what can be inferred regarding the intended reading distance?",
+        "answer": "Close"
+      },
+      {
+        "question": "Regarding the textual layout, what is the overall direction of the text flow within the label?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Considering the style of typography, is the overall visual appeal considered to be modern or dated?",
+        "answer": "Dated"
+      },
+      {
+        "question": "From the visual appearance of the paper-like material and the subtle texture, what might the label be printed on?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Considering the clarity and legibility of the printed text, what can be inferred regarding the print quality?",
+        "answer": "High"
+      },
+      {
+        "question": "Examining the visual attributes of the label, is the label's texture predominantly glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the structural integrity of the label, how does it appear to be attached to the product?",
+        "answer": "Attached"
+      },
+      {
+        "question": "Observing the size and format of the label, what can be inferred about the product it's on?",
+        "answer": "Packaged"
+      },
+      {
+        "question": "By evaluating the numerous data points within the label, what is the primary nutritional data summarized?",
+        "answer": "Facts"
+      },
+      {
+        "question": "From the contrast and boldness of the lettering, what is the emphasis within the label's visual hierarchy?",
+        "answer": "Header"
+      }
+    ]
+  }
+]

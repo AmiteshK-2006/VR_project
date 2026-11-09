@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/72/7210e5ea.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the visual characteristics, what is the primary textual content displayed on the image?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Based on the image's appearance, what is the dominant color scheme of the text?",
+        "answer": "Black"
+      },
+      {
+        "question": "Judging from the image's visual attributes, what seems to be the font style of the written information?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Analyzing the visual information, how many distinct lines of text are present in the image?",
+        "answer": "Three"
+      },
+      {
+        "question": "If observing the presented image, can you describe the overall arrangement of the text?",
+        "answer": "Linear"
+      },
+      {
+        "question": "From the appearance, what seems to be the text's case (uppercase, lowercase, or mixed)?",
+        "answer": "Mixed"
+      },
+      {
+        "question": "Judging by the visual appearance, what is the approximate size of the text relative to each other?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Observing the image, what appears to be the background of the textual information?",
+        "answer": "White"
+      },
+      {
+        "question": "By examining the image, is the text's visual presentation bold, italicized, or regular?",
+        "answer": "Regular"
+      },
+      {
+        "question": "Based solely on visual inspection, what is the overall style of the lettering?",
+        "answer": "Simple"
+      },
+      {
+        "question": "From the image, does the text appear to be printed or handwritten?",
+        "answer": "Printed"
+      },
+      {
+        "question": "Analyzing the image's visual elements, can you estimate the text's readability?",
+        "answer": "High"
+      },
+      {
+        "question": "From a purely visual perspective, what is the level of detail in the text's appearance?",
+        "answer": "Low"
+      },
+      {
+        "question": "Based on the visuals alone, does the text show any visual distortions or irregularities?",
+        "answer": "No"
+      },
+      {
+        "question": "By analyzing the image's appearance, what seems to be the purpose of the text?",
+        "answer": "Informative"
+      }
+    ]
+  }
+]

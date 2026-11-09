@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/76/76ea7899.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the visible fabric section shown in the provided image?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the image, what appears to be the primary material of the tag and the visible portion of the product?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Based on the visible texture, what is the overall feel of the product's fabric?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the visible fabric exhibit any discernible pattern or design elements?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What type of pattern, if any, is present on the visible fabric section of the product?",
+        "answer": "Floral"
+      },
+      {
+        "question": "Considering the product's visible shape, is it rectangular, circular, or another form?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent size of the product's tag, relative to the overall product (as a rough estimate)?",
+        "answer": "Small"
+      },
+      {
+        "question": "Judging solely by the image, what language(s) are used on the product’s tag?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "Are there any noticeable symbols or icons present on the product's care tag?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the brand name clearly displayed on the item's tag?",
+        "answer": "Amazonbasics"
+      },
+      {
+        "question": "Can you identify any specific care instructions visible on the tag?",
+        "answer": "Wash"
+      },
+      {
+        "question": "What type of care instructions are indicated, in terms of color matching?",
+        "answer": "Similar"
+      },
+      {
+        "question": "Judging from the image, does the tag include any numbers or numerical information?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the visual, what is the format of the information provided on the tag?",
+        "answer": "Text"
+      },
+      {
+        "question": "In the provided image, is there any information about the product's country of origin?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

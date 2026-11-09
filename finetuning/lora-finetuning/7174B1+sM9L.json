@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/98/987a24a1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall shape and design, what best describes the product's form factor?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the predominant color of the product's container, ignoring any labels or graphics?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the visible texture, what material appears to be used for the main body?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the most prominent graphic element on the label; consider its shape and color scheme.",
+        "answer": "Sun"
+      },
+      {
+        "question": "Is there a noticeable cap or closure on top of the product's container?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the overall visual style and impression given by the product's packaging?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Is there any indication of text or labeling on the product's side?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What color is the rectangular block of information on the label, providing product details?",
+        "answer": "Red"
+      },
+      {
+        "question": "Considering the entire label, what is the dominant color scheme employed?",
+        "answer": "White"
+      },
+      {
+        "question": "Excluding the main label, are there other significant markings or symbols on the container?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the product's packaging give any clues about its intended purpose or contents?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What secondary color is used in the sun graphic and wave design on the label?",
+        "answer": "Orange"
+      },
+      {
+        "question": "Describe the type of information provided in the textual content on the label.",
+        "answer": "Text"
+      },
+      {
+        "question": "Considering the barcodes and information, what kind of product is most likely packaged?",
+        "answer": "Spray"
+      },
+      {
+        "question": "Ignoring graphics, what is the color of the top cap of the container?",
+        "answer": "White"
+      }
+    ]
+  }
+]

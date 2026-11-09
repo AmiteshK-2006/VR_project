@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1f/1fcf6c93.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the prominent textual information displayed, what is the primary subject of this nutrition label?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Based on the clearly visible numeric value, how many calories are present per serving?",
+        "answer": "60"
+      },
+      {
+        "question": "Observing the detailed breakdown, what is the total fat content, expressed in grams, per serving?",
+        "answer": "2.5"
+      },
+      {
+        "question": "According to the label's clear text, what is the total carbohydrate content in grams per serving?",
+        "answer": "7"
+      },
+      {
+        "question": "As indicated by the text, what is the amount of dietary fiber, in grams, per serving?",
+        "answer": "2"
+      },
+      {
+        "question": "Focusing on the sugar content, how many grams of total sugars are there in each serving?",
+        "answer": "2"
+      },
+      {
+        "question": "Based on the nutritional information, how many grams of protein are included per serving?",
+        "answer": "2"
+      },
+      {
+        "question": "Examining the sodium content, how many milligrams are present in a single serving?",
+        "answer": "270"
+      },
+      {
+        "question": "What is the serving size, as clearly stated on the label in units of volume and weight?",
+        "answer": "cup"
+      },
+      {
+        "question": "From the label, what is the number of servings contained within the package?",
+        "answer": "3"
+      },
+      {
+        "question": "What is the predominant color scheme utilized on this nutritional fact label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the overall visual arrangement, what is the shape of the nutrition facts panel?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "In terms of font characteristics, what is the style of the lettering used to display numerical data?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Observing the overall layout of the information presented, what is the orientation of the text?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Regarding the background, what is the apparent texture of the surface displaying the nutritional information?",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4c/4cab7d68.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the displayed fabric sample?",
+        "answer": "Burgundy"
+      },
+      {
+        "question": "What is the overall texture of the fabric, as visually apparent?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Describing the weave's visual appearance, what pattern is most prominent?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Considering the fiber arrangement, what kind of weave is suggested by the image?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Based on its appearance, what is the likely material composition of this fabric?",
+        "answer": "Linen"
+      },
+      {
+        "question": "Does the fabric exhibit a noticeable sheen or glossiness in the provided image?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging from the image alone, how would you characterize the fabric's density?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the apparent directionality of the woven pattern in the fabric sample?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the overall tone of the color displayed, considering its variations?",
+        "answer": "Deep"
+      },
+      {
+        "question": "Regarding the visible weave, how would you describe its uniformity across the sample?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "What is the visual impression of the fabric's thickness or weight, based on the picture?",
+        "answer": "Medium"
+      },
+      {
+        "question": "From the image alone, would you describe the visible fiber structure as fine or coarse?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Considering the color and texture, what kind of aesthetic could this fabric evoke?",
+        "answer": "Rustic"
+      },
+      {
+        "question": "Judging only from the picture, is there evidence of any visible pattern repeat?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Disregarding any metadata, what is the apparent form of the presented item?",
+        "answer": "Fabric"
+      }
+    ]
+  }
+]

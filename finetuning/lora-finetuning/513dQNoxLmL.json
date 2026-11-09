@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e8/e859e128.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary subject depicted in the detailed, high-resolution image, providing a comprehensive view of the presented nutritional information?",
+        "answer": "Label"
+      },
+      {
+        "question": "Considering the visual elements, what is the dominant color scheme used throughout the presented nutrition facts label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the image's visual texture, what is the most prominent textural quality of the displayed nutritional information?",
+        "answer": "Printed"
+      },
+      {
+        "question": "Observing the visual layout, what is the overall arrangement of the displayed nutrition facts, considering its organization and structure?",
+        "answer": "tabular"
+      },
+      {
+        "question": "Focusing solely on visual details, what is the dominant font style utilized to display the nutritional data and headings?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the numerical value prominently displayed, representing the caloric content per serving, as visually apparent in the image?",
+        "answer": "70"
+      },
+      {
+        "question": "What is the unit of measurement, clearly visible in the image, used to specify the serving size in the presented nutrition facts?",
+        "answer": "egg"
+      },
+      {
+        "question": "Based on visual analysis of the image's textual components, what is the quantity of servings listed on the nutrition facts label?",
+        "answer": "12"
+      },
+      {
+        "question": "What is the weight, displayed in grams and visually identifiable in the image, representing one serving size of the product?",
+        "answer": "50g"
+      },
+      {
+        "question": "Observing the image carefully, what is the descriptive term, visually apparent, used to identify the specific nutritional information presented?",
+        "answer": "Facts"
+      },
+      {
+        "question": "What word is visually prominent at the top of the presented nutrition data in the provided image?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "By examining the layout, what is the term used in the visual presentation to denote a single portion of the described food product?",
+        "answer": "Serving"
+      },
+      {
+        "question": "What is the visual element used to separate and organize the different nutritional components within the presented data?",
+        "answer": "Lines"
+      },
+      {
+        "question": "What is the term displayed which indicates a percentage relative to recommended daily intake, visually apparent in the given image?",
+        "answer": "DV"
+      },
+      {
+        "question": "What is the visual element used to delineate the various nutritional values and their respective percentages?",
+        "answer": "Columns"
+      }
+    ]
+  }
+]

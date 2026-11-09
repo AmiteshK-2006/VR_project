@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2f/2fe23c83.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual layout, what is the primary subject depicted prominently across the entire image?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the specific type of food item whose nutritional details are prominently displayed?",
+        "answer": "Bun"
+      },
+      {
+        "question": "Observing the numerical values, what is the total caloric content per serving of the listed food item?",
+        "answer": "150"
+      },
+      {
+        "question": "According to the presented nutritional information, what is the total fat content in grams per serving?",
+        "answer": "3.5g"
+      },
+      {
+        "question": "Focusing on the carbohydrate details, what is the amount of total carbohydrate in grams per serving?",
+        "answer": "24g"
+      },
+      {
+        "question": "Based on the provided data, what is the quantity of dietary fiber in grams per serving?",
+        "answer": "1g"
+      },
+      {
+        "question": "Examining the sugar content, what is the total amount of sugars in grams present per serving?",
+        "answer": "5g"
+      },
+      {
+        "question": "From the given details, how many grams of added sugar are included in a single serving?",
+        "answer": "3g"
+      },
+      {
+        "question": "What is the amount of protein, in grams, indicated per serving of the food item?",
+        "answer": "4g"
+      },
+      {
+        "question": "Looking at the vitamin content, what is the amount of Vitamin D in micrograms per serving?",
+        "answer": "0"
+      },
+      {
+        "question": "What is the calcium content listed in milligrams per serving?",
+        "answer": "40mg"
+      },
+      {
+        "question": "Based on the provided values, what is the iron content in milligrams per serving?",
+        "answer": "0.4mg"
+      },
+      {
+        "question": "What is the potassium content, measured in milligrams, per serving as displayed?",
+        "answer": "0mg"
+      },
+      {
+        "question": "What is the serving size indicated for the food item in grams?",
+        "answer": "45g"
+      },
+      {
+        "question": "How many servings are contained within the package?",
+        "answer": "6"
+      }
+    ]
+  }
+]

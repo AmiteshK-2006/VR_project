@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b4/b4c06790.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary textual information conveyed on the displayed product?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Considering the visual layout, what specific dietary aspect does the document primarily detail?",
+        "answer": "Facts"
+      },
+      {
+        "question": "What is the size of a single serving of the food product, as depicted on the label?",
+        "answer": "Tortilla"
+      },
+      {
+        "question": "Based on the visual information, how many servings are contained within the product's packaging?",
+        "answer": "Six"
+      },
+      {
+        "question": "What is the total caloric content of a single serving, as indicated on the label's visual display?",
+        "answer": "150"
+      },
+      {
+        "question": "Observing the label, what is the calorie contribution stemming from fat in a single serving?",
+        "answer": "Thirty"
+      },
+      {
+        "question": "According to the label, what is the amount of total fat present in grams per serving?",
+        "answer": "3.5g"
+      },
+      {
+        "question": "What is the quantity of saturated fat, in grams, indicated per serving on the visible label?",
+        "answer": "0g"
+      },
+      {
+        "question": "How many milligrams of sodium are contained in one serving, according to the image?",
+        "answer": "300mg"
+      },
+      {
+        "question": "What is the total carbohydrate content, in grams, of a single serving shown on the label?",
+        "answer": "26g"
+      },
+      {
+        "question": "Examining the label, how many grams of dietary fiber are present in each serving?",
+        "answer": "1g"
+      },
+      {
+        "question": "Based on the image, how many grams of sugar are there per serving of the food product?",
+        "answer": "1g"
+      },
+      {
+        "question": "As shown in the image, what is the protein content, in grams, per serving of the food item?",
+        "answer": "5g"
+      },
+      {
+        "question": "What is the percentage of the daily value of vitamin A found in a single serving, according to the label?",
+        "answer": "0%"
+      },
+      {
+        "question": "What is the percentage of the daily value of iron found in one serving, as indicated on the label?",
+        "answer": "8%"
+      }
+    ]
+  }
+]

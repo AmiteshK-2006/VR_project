@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/10/108237f3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall shape, what geometrical form best describes the container's structure?",
+        "answer": "Quadrilateral"
+      },
+      {
+        "question": "What is the dominant color of the product's contents, as visibly apparent through the container?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What material is predominantly used in the construction of the container holding the product?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Observing the top of the container, what is the most apparent feature capping the bottle?",
+        "answer": "Lid"
+      },
+      {
+        "question": "Disregarding text, what is the primary color of the label applied to the bottle?",
+        "answer": "Green"
+      },
+      {
+        "question": "Focusing on the texture, what is the surface appearance of the container's body?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describing the overall appearance of the contained product, what is its consistency?",
+        "answer": "Liquid"
+      },
+      {
+        "question": "Based on the visible label details, is there any indication of organic certification?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the label's presence and arrangement, where is the label placed on the container?",
+        "answer": "Side"
+      },
+      {
+        "question": "What is the overall shape of the label affixed to the product's container?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the image, is the container transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Considering the lid's attributes, what is its visible color?",
+        "answer": "Black"
+      },
+      {
+        "question": "Observing the label's design, is it primarily textual or graphical in composition?",
+        "answer": "Textual"
+      },
+      {
+        "question": "Considering the container's structure, what is its visible form factor?",
+        "answer": "Bottle"
+      },
+      {
+        "question": "What is the approximate size of the container, judging from its visible dimensions?",
+        "answer": "Small"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/04/04a5a905.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the visual layout, what is the dominant textual element depicted on the rectangular surface?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the primary color of the background on which the ingredient list is printed?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the overall shape of the product's information panel as observed in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the typography, what is the style of the lettering for 'INGREDIENTS'?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Based on the visual texture, what can be inferred about the material of the label?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the visual presentation, is the text primarily aligned to the left or right?",
+        "answer": "Left"
+      },
+      {
+        "question": "Based on the visual details, what is the size of the font used in the ingredients list?",
+        "answer": "Small"
+      },
+      {
+        "question": "Judging from the image, what appears to be the overall format of the provided information?",
+        "answer": "List"
+      },
+      {
+        "question": "Considering the image, what is the apparent method of presentation for the ingredient components?",
+        "answer": "Bulleted"
+      },
+      {
+        "question": "Based solely on visual characteristics, is the text predominantly uppercase or lowercase?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "What is the color of the text used to list the ingredients in the given product image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the visual presentation, is there any noticeable pattern or design besides the text?",
+        "answer": "None"
+      },
+      {
+        "question": "Judging from the visual aspects, how many distinct lines of text are visible in the image?",
+        "answer": "Six"
+      },
+      {
+        "question": "Based on the image, what seems to be the orientation of the label or text display?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Considering the visual clarity, how distinct is the legibility of the text on the surface?",
+        "answer": "Clear"
+      }
+    ]
+  }
+]

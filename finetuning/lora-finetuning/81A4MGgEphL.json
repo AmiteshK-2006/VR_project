@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b1/b1aaaac1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the depicted phone case, based purely on visual observation?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the image, what design pattern is prominently featured on the phone case?",
+        "answer": "Wooden"
+      },
+      {
+        "question": "From the image alone, what appears to be the primary material replicated in the case's design?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Based only on visual inspection, what secondary color is used prominently in the design of this phone case?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "Judging solely from the image provided, what is the overall shape of the phone case being shown?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What stylistic choice, evident in the image, is applied to the simulated wooden planks on the case?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Based on the provided visual, what kind of texture is visually mimicked in the phone case's design?",
+        "answer": "Rough"
+      },
+      {
+        "question": "In the visual representation, what is the color of the thin band separating the two main color sections?",
+        "answer": "White"
+      },
+      {
+        "question": "Observing just the picture, what kind of pattern is integrated into the white band on the phone case?",
+        "answer": "Floral"
+      },
+      {
+        "question": "What is the apparent finish of the phone case, judging solely from its visual appearance?",
+        "answer": "Matte"
+      },
+      {
+        "question": "According to the image, what detail is present at the top and bottom of the phone case design?",
+        "answer": "Gray"
+      },
+      {
+        "question": "From a visual examination, what is the implied condition of the wood represented in the phone case design?",
+        "answer": "Weathered"
+      },
+      {
+        "question": "What is the apparent orientation of the depicted phone case in the main part of the image?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What appears to be the overall style of the design depicted on the phone case shown in the image?",
+        "answer": "Rustic"
+      },
+      {
+        "question": "Judging from the image alone, how many sides of the phone case are shown?",
+        "answer": "Three"
+      }
+    ]
+  }
+]

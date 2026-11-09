@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/14/14bb3bf4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the prominent text on the label, what specific type of rice is shown to be an ingredient?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Based on the clearly visible text, what is the grain size descriptor for the rice?",
+        "answer": "Short"
+      },
+      {
+        "question": "According to the label's allergy information, which major allergen is explicitly mentioned?",
+        "answer": "Gluten"
+      },
+      {
+        "question": "As indicated on the packaging, is the product suitable for vegetarians?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is explicitly stated as an ingredient, clearly visible in the image?",
+        "answer": "Rice"
+      },
+      {
+        "question": "Does the text on the label specify the rice's cultivation method?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Besides gluten, what other allergen is mentioned as a possible contaminant?",
+        "answer": "Soy"
+      },
+      {
+        "question": "What is indicated regarding the product's suitability for a specific dietary need?",
+        "answer": "Vegetarian"
+      },
+      {
+        "question": "What is highlighted for allergy considerations; the information related to which components?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What category of information is described at the bottom of the visible text?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the label's primary purpose, indicated by its text?",
+        "answer": "Information"
+      },
+      {
+        "question": "According to the writing on the package, what aspect of the listed ingredients is important to note for allergies?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Does the text section list other possible contaminants beside the major allergens?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What information is provided about sesame's presence in the product?",
+        "answer": "Possible"
+      },
+      {
+        "question": "What does the visible text say about the presence of nuts in the product?",
+        "answer": "Possible"
+      }
+    ]
+  }
+]

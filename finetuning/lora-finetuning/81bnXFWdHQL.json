@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5e/5e5a15fc.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual appearance, what is the dominant color of the product depicted within the transparent packaging?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Based on the visual texture evident, what is the apparent physical state of the food product within the bag?",
+        "answer": "Granular"
+      },
+      {
+        "question": "Observing the packaging's form, what is the most precise geometrical description of its overall three-dimensional shape?",
+        "answer": "Triangular"
+      },
+      {
+        "question": "From a purely visual assessment, what appears to be the primary material used for constructing the outer packaging?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Analyzing the image, what kind of labeling is prominently displayed on the packaging, besides the nutrition facts?",
+        "answer": "Text"
+      },
+      {
+        "question": "Judging from the image, what is the visible primary method of product packaging being utilized?",
+        "answer": "Bag"
+      },
+      {
+        "question": "What is the main design element that stands out on the product's package, apart from the text and nutritional information?",
+        "answer": "Seal"
+      },
+      {
+        "question": "What is the texture of the food product based on a detailed visual inspection?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Considering the visible components, is there any sign of additional elements aside from the main food product?",
+        "answer": "None"
+      },
+      {
+        "question": "Based solely on visual assessment of the contents, what is the apparent size of the individual particles of the food product?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the shape of the individual components of the food product, as observed in the image?",
+        "answer": "Irregular"
+      },
+      {
+        "question": "What seems to be the overall visual appeal or aesthetic of the product's packaging?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Examining the nutrition label closely, is there an indication of specific food types listed?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Given the visual evidence, does the product show any specific brand identification or markings?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on visual observation, is the content of the packaging fully visible and uniformly distributed?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

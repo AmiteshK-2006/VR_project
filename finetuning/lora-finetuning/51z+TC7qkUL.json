@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2b/2b5f825a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the primary text's orientation on the depicted surface?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the dominant color scheme used for the textual information provided?",
+        "answer": "Black"
+      },
+      {
+        "question": "Describe the textual style utilized for writing the ingredients list.",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the visual appearance, what is the format of the presented product details?",
+        "answer": "List"
+      },
+      {
+        "question": "Focusing on the visual information, what kind of information is predominantly displayed?",
+        "answer": "Text"
+      },
+      {
+        "question": "What appears to be the background's color or shade on which the text is printed?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Judging from the visual characteristics, what is the overall text size relative to the image?",
+        "answer": "Small"
+      },
+      {
+        "question": "In terms of its visual arrangement, what is the text's alignment within the boundaries?",
+        "answer": "Left"
+      },
+      {
+        "question": "What is the apparent visual condition of the text \u2013 legible or illegible?",
+        "answer": "Legible"
+      },
+      {
+        "question": "What visual characteristics distinguish the ingredients from other text sections?",
+        "answer": "Bulleted"
+      },
+      {
+        "question": "Examining the image visually, how is the text distributed on the container?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What distinguishes the heading 'Ingredients' visually from the subsequent content?",
+        "answer": "Larger"
+      },
+      {
+        "question": "From a purely visual assessment, is the font weight of the text bold or standard?",
+        "answer": "Standard"
+      },
+      {
+        "question": "Does the visual presentation of the text suggest any specific brand identity?",
+        "answer": "None"
+      },
+      {
+        "question": "Judging from its visual appearance, is the text's style formal or informal?",
+        "answer": "Formal"
+      }
+    ]
+  }
+]

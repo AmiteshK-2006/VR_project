@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/dd/dd528777.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the predominant shape of the depicted item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What color dominates the visible surface of this product?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Based on the image, what appears to be the material composition of this object?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Is there a barcode present on the item's surface, providing identification?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging by the image, what seems to be the primary function or purpose of this object?",
+        "answer": "Packaging"
+      },
+      {
+        "question": "Observing the image carefully, can you identify any recycling symbols present?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the item show any texture variations across its surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What type of printing is primarily used on the item's visible side?",
+        "answer": "Text"
+      },
+      {
+        "question": "Looking at the edges, what do you observe about the item's construction?",
+        "answer": "Folded"
+      },
+      {
+        "question": "Does the image reveal any noticeable markings or logos besides the barcode?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the overall size and proportions, what category might this item belong to?",
+        "answer": "Box"
+      },
+      {
+        "question": "What is the apparent condition of the item displayed, judging from the image?",
+        "answer": "New"
+      },
+      {
+        "question": "If you were to describe the item's visual style, what would be the most fitting word?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Does the image clearly show any other details or features on the item?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the item's appearance, what is its likely manufacturing method?",
+        "answer": "Printing"
+      }
+    ]
+  }
+]

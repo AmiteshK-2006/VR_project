@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9b/9bc73f01.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout and typography, what is the primary function of this rectangular item, visually apparent from its design?",
+        "answer": "Label"
+      },
+      {
+        "question": "What is the predominant color used for the textual information presented on this rectangular item?",
+        "answer": "Black"
+      },
+      {
+        "question": "Observing the text blocks, what is the general category of information detailed extensively on this product label?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Based on the prominent numerical value displayed, what is the calorie count per serving of the product this label describes?",
+        "answer": "20"
+      },
+      {
+        "question": "What is the background color of this nutrition facts panel, as seen in the provided image?",
+        "answer": "White"
+      },
+      {
+        "question": "Focusing on the textual content, what is the measurement unit repeatedly used to quantify the different nutritional components?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Considering the overall text formatting, what is the font style mostly used throughout this nutrition facts panel?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the primary format of the presented information, based on how the data is organized into rows and columns?",
+        "answer": "Table"
+      },
+      {
+        "question": "Considering the context, what is the overall shape of the item which contains the nutrition information?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the material that the nutrition facts label is printed on, which looks like a smooth and relatively rigid surface?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the term written prominently at the top of the label, indicating the type of information it presents?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What word follows 'Nutrition' at the top of the label, completing the title of the food information?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Considering the context of the label, what is the measurement unit used for the serving size described in the label?",
+        "answer": "Cup"
+      },
+      {
+        "question": "Looking at the numerical values next to nutritional components, what is the percentage unit consistently used to express daily values?",
+        "answer": "Percent"
+      },
+      {
+        "question": "What is the type of information included about various food components such as Fat, Carbohydrate, Fiber, and Sugars?",
+        "answer": "Quantities"
+      }
+    ]
+  }
+]

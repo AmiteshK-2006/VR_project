@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5a/5a07ad4d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant visual texture observed across the entire surface of the item?",
+        "answer": "Heathered"
+      },
+      {
+        "question": "Considering the overall visual appearance, what single word best describes the item's color?",
+        "answer": "Grey"
+      },
+      {
+        "question": "Based on the image, what is the most apparent material composing this item?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Judging solely from the image, what is the most precise shape of the displayed product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describing the visual attributes, what is the most noticeable characteristic of the item's surface?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "From a purely visual standpoint, what kind of weave or pattern is visible on the item?",
+        "answer": "Knit"
+      },
+      {
+        "question": "Does the item's appearance suggest a smooth or rough feel to the touch?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the visual evidence, what is the most likely construction method of this item?",
+        "answer": "Woven"
+      },
+      {
+        "question": "What is the overall visual impression regarding the level of sheen or gloss on the item's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "If one were to describe the color variation, what term best captures the subtle differences in shades?",
+        "answer": "Heathered"
+      },
+      {
+        "question": "What is the apparent visual state of the item shown, considering any flaws or imperfections?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Does the image suggest the item possesses any type of discernible visual pattern?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on what is visually apparent, what seems to be the dominant visual direction of the fibers?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What impression of thickness does the item's visual presentation convey?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Considering the visual detail, what is the apparent level of uniformity in terms of color and texture?",
+        "answer": "Consistent"
+      }
+    ]
+  }
+]

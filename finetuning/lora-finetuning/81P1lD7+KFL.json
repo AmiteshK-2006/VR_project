@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/34/34620b94.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual layout, what is the primary function of this displayed information?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Based on the prominent numerical value displayed, what is the calorie count per serving?",
+        "answer": "Twenty"
+      },
+      {
+        "question": "What is the textual description above the nutritional values, providing context to the data presented?",
+        "answer": "Facts"
+      },
+      {
+        "question": "What is the metric unit used to express the serving size, reflecting the standard system of measurement?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Focusing on the detailed breakdown, what component's quantity stands out as significant in the carbohydrate section?",
+        "answer": "Fiber"
+      },
+      {
+        "question": "Within the micronutrient section, which vitamin displays a percentage value that is notably higher than others?",
+        "answer": "C"
+      },
+      {
+        "question": "Referring to the fatty acid components, what is the quantity of saturated fat indicated in grams?",
+        "answer": "Zero"
+      },
+      {
+        "question": "Considering the presented dietary information, what is the total amount of sugars listed in grams?",
+        "answer": "Three"
+      },
+      {
+        "question": "Examining the details on minerals, what specific mineral's quantity is expressed in milligrams?",
+        "answer": "Potassium"
+      },
+      {
+        "question": "Concentrating on the trace elements section, what specific vitamin's quantity is listed in micrograms?",
+        "answer": "A"
+      },
+      {
+        "question": "Considering the specified serving size, how many servings are approximately contained within the package?",
+        "answer": "Three"
+      },
+      {
+        "question": "Focusing solely on the layout's style, what is the overall organization of the information?",
+        "answer": "Table"
+      },
+      {
+        "question": "Based on the visual presentation, what textual element precedes the numerical calorie count?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Examining the comprehensive nutrient list, what nutrient's value is indicated as zero, suggesting an absence of this component?",
+        "answer": "Cholesterol"
+      },
+      {
+        "question": "Referring to the quantitative data on minerals, what element shows a value in milligrams?",
+        "answer": "Calcium"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/90/908cfb0f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the background of the nutritional facts panel?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of the nutritional information panel shown in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the font style used for the heading 'Supplement Facts'?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What color is the text used for the values in the 'Amount per serving' column?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the font weight used for the 'Serving Size' label?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the unit of measurement used for 'Total Fat'?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the text color of the footnote at the bottom?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the color of the text for the percentage daily value?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the format used for displaying the serving size?",
+        "answer": "Numerical"
+      },
+      {
+        "question": "What is the general layout style of the nutritional information?",
+        "answer": "Tabular"
+      },
+      {
+        "question": "What is the alignment of the ‘%Daily Value’ column?",
+        "answer": "Right"
+      },
+      {
+        "question": "What is the text case of the 'Supplement Facts' label?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "What is the type of information presented in the image?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Is there a border around the entire nutritional fact panel?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the unit of measurement for protein?",
+        "answer": "Grams"
+      }
+    ]
+  }
+]

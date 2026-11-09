@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3b/3b8117b2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the provided image?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the apparent texture of the displayed fabric sample?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Considering the weave, what is the overall pattern of this fabric?",
+        "answer": "Herringbone"
+      },
+      {
+        "question": "Based on visual inspection, what is the likely material of this fabric?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "What is the general visual appearance of the fabric's surface?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Describing the fabric's visual weight, is it heavy or light?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Does the image show any obvious sheen or gloss on the fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "From the image, is the fabric's color consistent or variegated?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Judging by the visible fibers, what is the apparent fiber density?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the predominant visual characteristic of the fibers?",
+        "answer": "Short"
+      },
+      {
+        "question": "Can you identify any distinct raised patterns within the weave?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the implied level of softness based on visual cues?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Does the image suggest a smooth or rough surface feel?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Considering the details visible, how would you describe the fabric's visual depth?",
+        "answer": "Shallow"
+      },
+      {
+        "question": "What is the overall visual impression of this fabric's design?",
+        "answer": "Subtle"
+      }
+    ]
+  }
+]

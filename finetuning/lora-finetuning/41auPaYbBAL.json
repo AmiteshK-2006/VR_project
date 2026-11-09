@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9f/9feb003c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color observed across the entire visible surface?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the overall visual texture, what is the apparent surface finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on the visual uniformity, what is the apparent surface texture of the item?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the predominant shape of the presented item, based on visible contours?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging by the image, does the item exhibit any visible patterns or markings?",
+        "answer": "None"
+      },
+      {
+        "question": "Does the visible area suggest any discernible three-dimensional features or depth?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the implied material based purely on visual assessment of the surface?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Considering the image's lighting, what is the perceived reflectivity of the surface?",
+        "answer": "Low"
+      },
+      {
+        "question": "Judging from its visual homogeneity, what is the item's overall structural design?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the inferred state of the item, pristine or showing signs of wear?",
+        "answer": "Pristine"
+      },
+      {
+        "question": "Based purely on visible features, is the item transparent, translucent, or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Does the image show any visible creases, folds, or wrinkles on the surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the item exhibit a glossy or a non-glossy sheen according to the image?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on visual assessment, is the item flexible or rigid in nature?",
+        "answer": "Rigid"
+      },
+      {
+        "question": "Considering its visual presentation, what is the item's apparent thickness or depth?",
+        "answer": "Thin"
+      }
+    ]
+  }
+]

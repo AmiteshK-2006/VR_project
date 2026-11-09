@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f5/f5d94233.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape and the presence of textual information, what is the primary function of this object, as visually evident?",
+        "answer": "Label"
+      },
+      {
+        "question": "Observing the distinct black and white linear pattern at the bottom, what is the purpose of this component?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "Focusing on the textual content, what is the primary subject matter conveyed by the majority of the writing?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Based on the style and density of the text blocks, what is the likely printing method used for this object?",
+        "answer": "Digital"
+      },
+      {
+        "question": "Examining the overall color scheme, what are the predominant shades observed in the product's design?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the visual texture, what is the general surface feel of the main area of this object?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Looking at the layout of the information, what is the dominant orientation of text blocks and the barcode?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Given the density of the text, what's the likely reading experience from close proximity?",
+        "answer": "Detailed"
+      },
+      {
+        "question": "Regarding the style of the lettering, what would best describe the typeface used throughout the product?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the visual elements, which manufacturing company is mentioned?",
+        "answer": "Wholefoods"
+      },
+      {
+        "question": "Based on the information presented, what is the primary ingredient listed?",
+        "answer": "Milk"
+      },
+      {
+        "question": "In terms of size, what would best classify this item?",
+        "answer": "Small"
+      },
+      {
+        "question": "Observing the visual design, how would you describe the information architecture?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Regarding the visual presentation, what is the overall visual impact of this label?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Judging by the text and barcode, for what type of product is this label intended?",
+        "answer": "Food"
+      }
+    ]
+  }
+]

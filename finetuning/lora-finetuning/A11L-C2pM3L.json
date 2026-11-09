@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ac/ac772ff3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the packaging's background, as shown in the provided image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the image, what is the predominant text color on the packaging?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the visual inspection of the product image, what appears to be the shape of the package?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent material of the product's primary packaging, based solely on the image?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Judging from the image, what is the texture of the packaging's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the packaging in the image exhibit any noticeable gloss or shine?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent size of the packaging shown in the image, relative to common objects?",
+        "answer": "Small"
+      },
+      {
+        "question": "Based on the image, is there a noticeable logo or brand name displayed on the packaging?",
+        "answer": "Yes"
+      },
+      {
+        "question": "According to the image, what type of information is printed on the back of the packaging?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the type of seal or closure used for the package as shown in the image?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Does the image reveal any visible perforations or tear lines on the packaging?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image, are there any prominent design elements besides text on the packaging?",
+        "answer": "No"
+      },
+      {
+        "question": "What is depicted on the visible portions of the packaging, in terms of graphics or illustrations?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the weight of the product, according to what is visible in the picture?",
+        "answer": "100g"
+      },
+      {
+        "question": "Does the image show any visible damage or imperfection to the packaging?",
+        "answer": "No"
+      }
+    ]
+  }
+]

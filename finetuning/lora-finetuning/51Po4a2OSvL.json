@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8a/8a031378.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the most accurate description of the product's shape, given its design and contents?",
+        "answer": "Jug"
+      },
+      {
+        "question": "Based on the visual characteristics, what color is the liquid inside the container, predominantly?",
+        "answer": "Red"
+      },
+      {
+        "question": "Judging by its appearance, what material seems to constitute the main structure of the container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the label's text and imagery, what flavor profile is clearly communicated?",
+        "answer": "Punch"
+      },
+      {
+        "question": "Given the images on the label, what kind of fruit is prominently represented besides apples?",
+        "answer": "Cherries"
+      },
+      {
+        "question": "Observing the cap's construction, what is its dominant color?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the apparent finish of the plastic bottle, describing its tactile quality?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Considering the label's visual design, what word best captures the branding style?",
+        "answer": "Organic"
+      },
+      {
+        "question": "In reference to the overall size, what is the approximate volume of the contents as indicated by visual cues?",
+        "answer": "Large"
+      },
+      {
+        "question": "Analyzing the label's design, is the text predominantly arranged horizontally or vertically?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Is the label's main background predominantly a light shade or a darker one?",
+        "answer": "Light"
+      },
+      {
+        "question": "Considering the label's visual elements, what is the primary style of illustration?",
+        "answer": "Cartoon"
+      },
+      {
+        "question": "Judging by the texture, is the surface of the jug smooth or textured?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the general condition of the product's packaging, appearing intact or damaged?",
+        "answer": "Intact"
+      },
+      {
+        "question": "Based on the bottle's construction, what is the primary function of its handle?",
+        "answer": "Pouring"
+      }
+    ]
+  }
+]

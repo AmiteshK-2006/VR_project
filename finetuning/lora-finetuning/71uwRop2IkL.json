@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/11/119010cf.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the liquid contained within the plastic jug, as visibly shown in the product image?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the overall form, what is the most accurate geometric description of the container holding the product?",
+        "answer": "Jug"
+      },
+      {
+        "question": "What material appears to constitute the primary structure of the product's packaging, as evident from the image?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the color of the cap situated at the top of the container, clearly visible in the provided image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the visible text on the label, what is the specific type of dairy product this container holds?",
+        "answer": "Milk"
+      },
+      {
+        "question": "Observing the label, what descriptive term is used to specify the fat content of the milk inside?",
+        "answer": "Reduced"
+      },
+      {
+        "question": "From the label's information, what percentage of fat is stated to be less than in whole milk?",
+        "answer": "25%"
+      },
+      {
+        "question": "What brand name is prominently displayed on the label of the product container, as shown in the picture?",
+        "answer": "365"
+      },
+      {
+        "question": "Considering the overall design and label features, is there any indication of vitamins added to the milk product?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent shape of the handle integrated into the design of the milk jug, based on the visual inspection?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Judging by the visual features of the container, what is the most likely size of the packaging in terms of volume?",
+        "answer": "Gallon"
+      },
+      {
+        "question": "What is the apparent texture of the plastic jug's surface, as shown in the provided image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the overall visual presentation of the product label's design style in a single word.",
+        "answer": "Clean"
+      },
+      {
+        "question": "Based on visible details, is there any noticeable embossing or texturing on the plastic container itself?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image, what is the general condition of the product container; is it new or used?",
+        "answer": "New"
+      }
+    ]
+  }
+]

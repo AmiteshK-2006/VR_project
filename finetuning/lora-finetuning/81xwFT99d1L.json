@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/57/57e827fd.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant textual feature prominently displayed across the top of the presented image?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Considering the textual content, what specific dietary aspect is the primary focus of the information provided?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Based on the visual layout, what metric is listed first under the 'Amount Per Serving' section?",
+        "answer": "Calories"
+      },
+      {
+        "question": "What is the numerical value, in grams, corresponding to the 'Total Fat' content per serving?",
+        "answer": "6g"
+      },
+      {
+        "question": "What is the percentage Daily Value for Total Fat according to the provided image?",
+        "answer": "9%"
+      },
+      {
+        "question": "What is the numerical value in grams displayed for 'Saturated Fat' per serving?",
+        "answer": "2g"
+      },
+      {
+        "question": "What is the percentage of Daily Value listed alongside 'Saturated Fat'?",
+        "answer": "10%"
+      },
+      {
+        "question": "What is the numerical value shown for 'Cholesterol' (in mg) per serving?",
+        "answer": "0"
+      },
+      {
+        "question": "What is the amount of 'Sodium' (in mg) per serving, as depicted in the image?",
+        "answer": "20mg"
+      },
+      {
+        "question": "What is the percentage Daily Value displayed next to 'Sodium'?",
+        "answer": "1%"
+      },
+      {
+        "question": "What is the numerical value of 'Total Carbohydrate' (in grams) per serving?",
+        "answer": "19g"
+      },
+      {
+        "question": "What is the percentage Daily Value associated with the 'Total Carbohydrate' content?",
+        "answer": "6%"
+      },
+      {
+        "question": "What is the amount of 'Dietary Fiber' (in grams) per serving?",
+        "answer": "1g"
+      },
+      {
+        "question": "What is the quantity of 'Sugars' (in grams) present in a single serving?",
+        "answer": "13g"
+      },
+      {
+        "question": "What is the amount of 'Protein' (in grams) found per serving?",
+        "answer": "2g"
+      }
+    ]
+  }
+]

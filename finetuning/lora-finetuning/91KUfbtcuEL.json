@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9f/9f6f5d57.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the ice cream shown in the product image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent consistency of the frozen dessert?",
+        "answer": "Creamy"
+      },
+      {
+        "question": "What is the primary shape of the container holding the frozen confection?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Based on the image, what material appears to comprise the product's packaging?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the overall color scheme of the product's label, predominantly visible on the container?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Judging by the visual depiction, what type of food product is contained within the packaging?",
+        "answer": "Icecream"
+      },
+      {
+        "question": "Does the product image clearly showcase any distinct patterns or designs on the container?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image, what seems to be the size of the container relative to a typical household item?",
+        "answer": "Large"
+      },
+      {
+        "question": "Is there visible text on the container providing a description or name of the product?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent finish of the container's external surface, based on visual observation?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on the image alone, is the product packaging primarily transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Does the image reveal any noticeable imperfections or damage to the product's container?",
+        "answer": "No"
+      },
+      {
+        "question": "What kind of lid is present on the ice cream container as shown?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the most prominent graphic element on the packaging, besides the text?",
+        "answer": "None"
+      },
+      {
+        "question": "Based on visual cues, is the product's packaging designed for single-serving or multiple servings?",
+        "answer": "Multiple"
+      }
+    ]
+  }
+]

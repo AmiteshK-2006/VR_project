@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8f/8f4ff02b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular layout and textual content, what is the primary function of this visually presented information?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the predominant color scheme used for the text and numerical values, creating a clear visual hierarchy?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the visual style of the text, predominantly characterized by a uniform sans-serif typeface?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Focusing on the topmost line, what is the descriptive phrase signaling the nature of the information presented?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Observing the numerical values and their accompanying percentage symbols, what is the quantitative aspect being presented?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Looking at the structured tabular format, what dietary component is listed first, highlighting its significance?",
+        "answer": "Fat"
+      },
+      {
+        "question": "What is the unit of measurement used consistently for the quantities of various nutrients listed?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Considering the information about the various elements, what is the measurement unit for cholesterol?",
+        "answer": "Mg"
+      },
+      {
+        "question": "What is the type of fat that is explicitly highlighted due to its potential health implications?",
+        "answer": "Saturated"
+      },
+      {
+        "question": "Looking at the nutritional data, what component has a value of 0g, signaling its absence?",
+        "answer": "Trans"
+      },
+      {
+        "question": "What is the nutritional component with the highest percentage value?",
+        "answer": "Sugar"
+      },
+      {
+        "question": "What is the term that appears following 'Total Sugars' to indicate an important health attribute?",
+        "answer": "Includes"
+      },
+      {
+        "question": "What is the quantitative value expressed next to the term 'Protein', denoting its amount per serving?",
+        "answer": "2g"
+      },
+      {
+        "question": "What is the vitamin highlighted in the nutrition facts, indicated by its abbreviation?",
+        "answer": "D"
+      },
+      {
+        "question": "Considering the bottom section detailing minerals, what is the mineral listed after Calcium?",
+        "answer": "Iron"
+      }
+    ]
+  }
+]

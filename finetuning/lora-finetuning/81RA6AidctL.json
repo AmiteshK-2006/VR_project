@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/04/04cecd77.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the bottle's label, excluding text and smaller design elements?",
+        "answer": "Purple"
+      },
+      {
+        "question": "What is the primary shape of the supplement container?",
+        "answer": "Cylinder"
+      },
+      {
+        "question": "What material appears to constitute the primary body of the supplement bottle?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the overall texture, is the bottle's surface predominantly smooth or rough?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What color is the cap of the supplement bottle?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the supplement contained within the bottle (as visually inferred from the bottle's shape)?",
+        "answer": "Capsule"
+      },
+      {
+        "question": "What is the dominant color of the text on the primary label of the bottle?",
+        "answer": "White"
+      },
+      {
+        "question": "Is there any noticeable texture to the label itself (e.g., glossy, matte)?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What appears to be the material of the supplement bottle's cap?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What color is the small circular logo near the bottom of the label?",
+        "answer": "Green"
+      },
+      {
+        "question": "Describe the visual style of the text font on the label (e.g., serif, sans-serif)?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Is the label design primarily characterized by simplicity or complexity in terms of visual elements?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Based on the image, what type of closure does the bottle use?",
+        "answer": "Screw"
+      },
+      {
+        "question": "Does the label include any visible images or illustrations besides text and the logo?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the general condition of the product shown (e.g., new, used, damaged)?",
+        "answer": "New"
+      }
+    ]
+  }
+]

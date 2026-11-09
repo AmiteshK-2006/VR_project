@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ac/acf9c872.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout and textual content, what is the primary purpose of this rectangular item depicted in the image?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Observing the prominent header at the top, what specific dietary information is this product label designed to provide?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Focusing on the structured data within the label, what specific nutritional component is listed first and prominently displayed?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Examining the detailed breakdown of fat, what type of fat is highlighted as a percentage of daily value?",
+        "answer": "Saturated"
+      },
+      {
+        "question": "Looking closely at the mineral content section, which essential mineral is explicitly listed with its percentage daily value?",
+        "answer": "Calcium"
+      },
+      {
+        "question": "Based on the visual presentation of the data, what is the unit of measurement consistently used for various nutrients?",
+        "answer": "mg"
+      },
+      {
+        "question": "Given the numerous numerical values in columns, what is the significance of the second column of numbers?",
+        "answer": "Percent"
+      },
+      {
+        "question": "Considering the layout's organization, what is the type of nutritional information presented in the bottom section of the label?",
+        "answer": "Daily"
+      },
+      {
+        "question": "Analyzing the text size and boldness, what nutritional component appears to be emphasized the most?",
+        "answer": "Fat"
+      },
+      {
+        "question": "Given the text's appearance, what is the overall color scheme predominantly used for the label's text and background?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the label's size and design, what is the apparent format of the provided nutritional information?",
+        "answer": "Table"
+      },
+      {
+        "question": "Observing the visual style, what is the style of the font used throughout the label's text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the overall presentation of the data, what is the intended audience for this detailed nutritional information?",
+        "answer": "Consumers"
+      },
+      {
+        "question": "Considering the clarity of the presented information, what is the nature of the information being communicated?",
+        "answer": "Quantitative"
+      },
+      {
+        "question": "Given the structure and content, what is the general orientation of the label within the image?",
+        "answer": "Vertical"
+      }
+    ]
+  }
+]

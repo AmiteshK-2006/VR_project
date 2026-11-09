@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b5/b57ea396.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the image's text, what primary ingredient is prominently featured among the numerous listed components?",
+        "answer": "Oats"
+      },
+      {
+        "question": "Based on the textual details provided in the image, what specific type of oat is used as a key component?",
+        "answer": "Steel"
+      },
+      {
+        "question": "What additional type of oat, besides steel-cut, is included in the ingredient list shown in the image?",
+        "answer": "Rolled"
+      },
+      {
+        "question": "According to the image's text, what fruit-based ingredient is incorporated into the product?",
+        "answer": "Apples"
+      },
+      {
+        "question": "As shown in the textual details, what nut is explicitly mentioned as a component of this product?",
+        "answer": "Walnuts"
+      },
+      {
+        "question": "What is listed as an added substance to improve the product's overall taste, based on the image's text?",
+        "answer": "Syrup"
+      },
+      {
+        "question": "According to the image, what spice is incorporated to enhance the flavor profile?",
+        "answer": "Cinnamon"
+      },
+      {
+        "question": "What extract is listed among the ingredients, shown in the textual details presented in the picture?",
+        "answer": "Vanilla"
+      },
+      {
+        "question": "Based on the image's text, what substance acts as a preservative in this product?",
+        "answer": "Vitamin"
+      },
+      {
+        "question": "What other type of nut is listed as a possible contaminant in the image?",
+        "answer": "Tree"
+      },
+      {
+        "question": "What acid is mentioned in the image for a color-enhancing purpose?",
+        "answer": "Ascorbic"
+      },
+      {
+        "question": "What is indicated as a potential allergen to be aware of, as stated in the image?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "What other potential allergen is indicated in the image, besides wheat?",
+        "answer": "Soy"
+      },
+      {
+        "question": "Considering the textual details in the image, what is explicitly mentioned for maintaining freshness?",
+        "answer": "Vitamin"
+      },
+      {
+        "question": "What is the overall background color and shade of the packaging based on the provided image?",
+        "answer": "Brown"
+      }
+    ]
+  }
+]

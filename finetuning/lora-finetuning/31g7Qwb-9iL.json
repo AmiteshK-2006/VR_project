@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/00/005ba12d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's explicit mention of ingredients, what primary ingredient is visually implied to be present in this product?",
+        "answer": "Corn"
+      },
+      {
+        "question": "Based on the textual information provided regarding the product's composition, what type of oil is indicated as a potential component?",
+        "answer": "Vegetable"
+      },
+      {
+        "question": "Given the textual details, what additional oil type is listed as a potential constituent of the item?",
+        "answer": "Sunflower"
+      },
+      {
+        "question": "According to the provided text, what is another possible oil indicated within the product's ingredient list?",
+        "answer": "Safflower"
+      },
+      {
+        "question": "As per the text, which further oil is mentioned amongst the potential constituents of this product?",
+        "answer": "Canola"
+      },
+      {
+        "question": "From the text, can you identify a common seasoning or flavor enhancer that is explicitly mentioned?",
+        "answer": "Salt"
+      },
+      {
+        "question": "The text refers to the primary ingredient as 'ground'. What state of processing is this ingredient visually implied to be in?",
+        "answer": "Ground"
+      },
+      {
+        "question": "Considering the descriptive details, what color is the primary ingredient, as referenced in the accompanying text?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the textual information on ingredients, how would you describe the nature of this item overall?",
+        "answer": "Processed"
+      },
+      {
+        "question": "Based on the text's mention of a core component, is the product composition expected to be homogenous or heterogeneous?",
+        "answer": "Homogenous"
+      },
+      {
+        "question": "Given the ingredient description in the text, does the image visually suggest any large, visible elements?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the textual description of ingredients, would you describe the product's appearance as coarse or fine?",
+        "answer": "Fine"
+      },
+      {
+        "question": "Considering the ingredients described in the text, is the product likely to have a significant natural fiber content?",
+        "answer": "Yes"
+      },
+      {
+        "question": "From the provided textual details, is the product expected to possess a visibly smooth or grainy texture?",
+        "answer": "Grainy"
+      },
+      {
+        "question": "Considering the ingredients listed, does the image suggest the product to be primarily dry or wet?",
+        "answer": "Dry"
+      }
+    ]
+  }
+]

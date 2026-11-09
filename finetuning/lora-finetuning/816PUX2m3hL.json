@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2d/2d7d2948.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant textual characteristic displayed across the entire image?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Focusing on the textual elements, what is the primary language used throughout the displayed information?",
+        "answer": "English"
+      },
+      {
+        "question": "Observing the typography, what specific font style is predominantly used to present the product details?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Regarding the textual layout, what is the organizational pattern employed for presenting the ingredient list?",
+        "answer": "List"
+      },
+      {
+        "question": "Analyzing the visual density, how would you describe the concentration of textual information within the image?",
+        "answer": "High"
+      },
+      {
+        "question": "In terms of visual hierarchy, which textual element stands out as the most prominent in terms of size and placement?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Focusing on the textual attributes, what is the overall tone conveyed by the style of the lettering?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Analyzing the visual clarity, how legible is the printed text throughout the image, considering factors such as font size and contrast?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the predominant color used for the text displayed in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the background color of the image?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the visual presentation, what is the primary format used for the ingredient listing?",
+        "answer": "List"
+      },
+      {
+        "question": "What is the texture of the visual appearance of the text on the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the formatting of the text, does the image use any form of visual separation, such as bullets or numbering?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the style of capitalization used for the word 'INGREDIENTS'?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Describe the alignment of the text in the image.",
+        "answer": "Left"
+      }
+    ]
+  }
+]

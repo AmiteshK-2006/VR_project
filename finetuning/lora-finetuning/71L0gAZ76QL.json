@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b7/b73cf43b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the primary format of the provided information?",
+        "answer": "Text"
+      },
+      {
+        "question": "Disregarding any specific words, what is the dominant visual characteristic of the provided image?",
+        "answer": "Lines"
+      },
+      {
+        "question": "Focusing on the textual layout, what is the most apparent structural element used to organize the information?",
+        "answer": "Columns"
+      },
+      {
+        "question": "Based on the text's alignment, how would you describe its orientation?",
+        "answer": "Left"
+      },
+      {
+        "question": "Considering the typeface, what visual characteristic is consistently observed?",
+        "answer": "Serif"
+      },
+      {
+        "question": "Regarding the density of text, how would you describe its visual distribution?",
+        "answer": "Dense"
+      },
+      {
+        "question": "What visual characteristic would best describe the length of most lines of text?",
+        "answer": "Long"
+      },
+      {
+        "question": "Observing the capitalization, what's the most frequently occurring textual pattern?",
+        "answer": "Sentence"
+      },
+      {
+        "question": "Considering the visual prominence, what is the most conspicuous element of the text?",
+        "answer": "Words"
+      },
+      {
+        "question": "Based solely on visual observation of the image, what is the texture of the item depicted?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "If a scale were to be used to judge it, how would you describe the visual size of the text elements?",
+        "answer": "Small"
+      },
+      {
+        "question": "By only looking at the image, what is the most apparent visual attribute of the entire textual content?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on visual analysis, what is the background's most striking attribute?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the visual contrast between the text and background?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the apparent shape of the text block?",
+        "answer": "Rectangular"
+      }
+    ]
+  }
+]

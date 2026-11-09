@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b4/b438b8bf.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what is the dominant color scheme of the product packaging?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary text style used for the prominent title on the package?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the visual information provided, what type of information does the large section of text on the main portion of the product label present?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Observing the lower section of the package, which brand is prominently displayed on the product?",
+        "answer": "WholeFoods"
+      },
+      {
+        "question": "What is the texture of the surface where the primary label is located, as visually perceived?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Focusing on the typography, what is the style of the lettering used in the smaller print sections of the package's text?",
+        "answer": "Serif"
+      },
+      {
+        "question": "Analyzing the visual characteristics, what is the material of the product packaging based on its appearance?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the shape of the area primarily occupied by the nutrition information on the product label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Regarding the layout, what is the orientation of the primary nutritional information panel on the product's packaging?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the visual appearance of the text formatting for the nutritional facts headings?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Considering the visual elements, what is the style of the overall design aesthetic of the product's label?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Observing the brand logo, what is the primary color used within the brand's symbol?",
+        "answer": "Green"
+      },
+      {
+        "question": "Judging by the text formatting, what is the stylistic approach of the font used to display the brand name?",
+        "answer": "Cursive"
+      },
+      {
+        "question": "Regarding the layout, how is the text on the label arranged predominantly, considering both columns and rows?",
+        "answer": "Columnar"
+      },
+      {
+        "question": "What is the general visual condition of the printed label on the product's packaging?",
+        "answer": "Clean"
+      }
+    ]
+  }
+]

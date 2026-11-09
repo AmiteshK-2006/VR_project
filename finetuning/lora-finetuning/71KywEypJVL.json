@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/62/6244ecb3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall color presentation, what is the dominant hue of the product's packaging, as visually apparent?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Observing the text's visual characteristics, what color is the text printed on the product's packaging?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the visible textual information, what is the primary ingredient listed, as clearly shown in the image?",
+        "answer": "Water"
+      },
+      {
+        "question": "Judging by the visual clarity and distinctness of the text's font, what is the overall style of the text, as shown on the product's packaging?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Examining the text's physical appearance, what seems to be the size of the font used in the product's label, comparatively?",
+        "answer": "Small"
+      },
+      {
+        "question": "From a visual perspective, what appears to be the texture of the product's packaging material, based on the image's texture?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the visible text, what is a secondary ingredient explicitly mentioned in the label's contents?",
+        "answer": "Sugar"
+      },
+      {
+        "question": "From visual inspection of the product's label, what artificial additive is visually identified as an ingredient?",
+        "answer": "Flavor"
+      },
+      {
+        "question": "Based on the visible text, what is one of the listed colorings added to the product, as explicitly shown?",
+        "answer": "Caramel"
+      },
+      {
+        "question": "Examining the text closely, what acid is mentioned as part of the product's ingredient list?",
+        "answer": "Citric"
+      },
+      {
+        "question": "Judging by the visible text, what type of water is specifically listed among the product's ingredients?",
+        "answer": "Carbonated"
+      },
+      {
+        "question": "From the visual information available, what form of sugar is identified as an ingredient in the product?",
+        "answer": "Invert"
+      },
+      {
+        "question": "What is the type of the text, is it cursive or some other kind?",
+        "answer": "Print"
+      },
+      {
+        "question": "Judging by the visible information, what is the apparent state of the text on the product's packaging?",
+        "answer": "Clear"
+      },
+      {
+        "question": "By evaluating the available visual evidence, what seems to be the general condition of the product's label in the image?",
+        "answer": "Intact"
+      }
+    ]
+  }
+]

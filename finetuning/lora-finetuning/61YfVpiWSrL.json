@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/83/8317d017.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's visual characteristics, what is the overall textual alignment observed across the lines of information presented?",
+        "answer": "Left"
+      },
+      {
+        "question": "Based on the image's visual presentation, what is the predominant font style employed in the text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Analyzing the text's visual appearance, what is the approximate font size used in the ingredient description?",
+        "answer": "Small"
+      },
+      {
+        "question": "Observing the text's visual structure, describe the arrangement of the ingredient list's content.",
+        "answer": "Linear"
+      },
+      {
+        "question": "From the visual examination of the text's layout, how many distinct blocks of text can be easily identified?",
+        "answer": "Two"
+      },
+      {
+        "question": "Judging from the text's visual appearance, what color is the primary text used in the ingredient description?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the visual presentation, what is the overall style of the ingredient information presentation?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Regarding the text's visual quality, what is the apparent clarity of the text displayed in the image?",
+        "answer": "Clear"
+      },
+      {
+        "question": "From the visual assessment of the image, what kind of surface is the text printed on?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Based on the visual appearance, what is the orientation of the text presented?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Considering the visual structure, does the text display any unusual formatting or styling?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image, what is the general condition of the text?",
+        "answer": "Good"
+      },
+      {
+        "question": "Based solely on the visual characteristics of the text, is there evidence of significant blurring or distortion present?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the visual inspection indicate that the text is handwritten or machine-printed?",
+        "answer": "Printed"
+      },
+      {
+        "question": "Observing the text's visual appearance, does it include any additional design elements besides the words themselves?",
+        "answer": "No"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f0/f0d3ba2d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the can's primary label, excluding any text or logos?",
+        "answer": "White"
+      },
+      {
+        "question": "What appears to be the primary material used in the construction of this cylindrical container?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Considering the overall shape, what geometric form best describes the product's packaging?",
+        "answer": "Cylinder"
+      },
+      {
+        "question": "Describe the texture of the can's surface, based on visual observation of the image.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall appearance of the can's surface, considering reflectivity and shine?",
+        "answer": "Shiny"
+      },
+      {
+        "question": "What is the predominant orientation of the text displayed on the can's label?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What kind of writing system is used on the main label of this canned product?",
+        "answer": "Japanese"
+      },
+      {
+        "question": "Based on the visual details, what is the color of the recycling symbol on the can?",
+        "answer": "Green"
+      },
+      {
+        "question": "What shape is the recycling symbol present on the can's side?",
+        "answer": "Triangle"
+      },
+      {
+        "question": "Considering the visual elements, what is the implied purpose of this cylindrical container?",
+        "answer": "Food"
+      },
+      {
+        "question": "Describe the type of print used on the can, focusing on its level of detail and sharpness.",
+        "answer": "Sharp"
+      },
+      {
+        "question": "What is the general color palette used on the side label of the can?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the general condition of the can based on the image (i.e., damaged or undamaged)?",
+        "answer": "Undamaged"
+      },
+      {
+        "question": "Does the can have any noticeable dents or scratches based on the visible portion?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent size of the can relative to a typical human hand (e.g., small, medium, large)?",
+        "answer": "Small"
+      }
+    ]
+  }
+]

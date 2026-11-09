@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/84/845d3e2e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme employed throughout the entire nutrition facts label?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the overall textual layout, what is the primary font style used for the header 'Nutrition Facts'?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Focusing on the numerical data, what is the unit of measurement consistently used for the 'Serving Size'?",
+        "answer": "Cup"
+      },
+      {
+        "question": "What is the specific measurement, in milliliters, indicated for one serving size?",
+        "answer": "240"
+      },
+      {
+        "question": "Regarding the calorie count, what numerical value is prominently displayed for each serving?",
+        "answer": "150"
+      },
+      {
+        "question": "What is the numerical value associated with 'Total Fat' in grams for one serving?",
+        "answer": "5"
+      },
+      {
+        "question": "Concentrating on the nutritional breakdown, what value in grams is specified for 'Saturated Fat' per serving?",
+        "answer": "5"
+      },
+      {
+        "question": "What is the value assigned to 'Cholesterol' in milligrams for a single serving?",
+        "answer": "30"
+      },
+      {
+        "question": "What numerical value in milligrams is given for 'Sodium' content per serving?",
+        "answer": "120"
+      },
+      {
+        "question": "Focusing on the carbohydrates, what is the value in grams listed for 'Total Carbohydrate'?",
+        "answer": "12"
+      },
+      {
+        "question": "What is the specified amount, in grams, of 'Total Sugars' in a single serving?",
+        "answer": "11"
+      },
+      {
+        "question": "Considering the protein content, what is the value shown in grams for 'Protein'?",
+        "answer": "5"
+      },
+      {
+        "question": "What numerical value is shown for 'Calcium' in milligrams for a single serving?",
+        "answer": "280"
+      },
+      {
+        "question": "In terms of vitamins, what is the value displayed for 'Vitamin D' in micrograms?",
+        "answer": "2.5"
+      },
+      {
+        "question": "What is the numerical value listed for 'Potassium' in milligrams per serving?",
+        "answer": "350"
+      }
+    ]
+  }
+]

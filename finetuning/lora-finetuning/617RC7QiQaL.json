@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a3/a37a771d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary textual information conveyed across the entire surface of the presented item?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the prominent style of the text used to display the nutritional data?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the overall shape of the depicted nutritional information panel?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What color scheme is predominantly used throughout the nutritional facts panel?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the background color of the area showing the product's nutritional details?",
+        "answer": "White"
+      },
+      {
+        "question": "What specific metric is highlighted by a larger font size than the rest?",
+        "answer": "Calories"
+      },
+      {
+        "question": "What is the numerical value displayed for calories per serving?",
+        "answer": "35"
+      },
+      {
+        "question": "What unit of measurement is used to specify the serving size of the product?",
+        "answer": "Tablespoon"
+      },
+      {
+        "question": "What is the quantitative value assigned to the serving size of the product?",
+        "answer": "One"
+      },
+      {
+        "question": "What unit of weight measurement is used for the product's serving size?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the numerical value indicating the weight of the serving size?",
+        "answer": "Eighteen"
+      },
+      {
+        "question": "What is the approximate number of servings contained within the product packaging?",
+        "answer": "Sixteen"
+      },
+      {
+        "question": "Does the nutritional information section feature a breakdown of macronutrients?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the visual texture of the surface displaying the nutritional details?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall layout of the information on the product's packaging?",
+        "answer": "Tabular"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f9/f9069739.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what dominant color is prominently displayed on the ingredient list?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the primary typeface style used to communicate the product's ingredients?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Observing the text layout, what is the organization method used to present the various components?",
+        "answer": "List"
+      },
+      {
+        "question": "Based on the visual structure, what is the principal manner of categorization used for the information presented?",
+        "answer": "Hierarchical"
+      },
+      {
+        "question": "Regarding the visual hierarchy, what text size is predominantly employed for the main ingredient listings?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the text's orientation, as visually determined from the image?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "From a purely visual perspective, which word has the most significant text size and weight?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Visually analyzing the text elements, what type of casing is consistently applied for the ingredient names?",
+        "answer": "Title"
+      },
+      {
+        "question": "Judging solely by the visual aspects, what is the apparent texture of the surface the text is printed on?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the visual appearance of the information presentation, in terms of its density or sparseness?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Considering the visual characteristics, how many distinct sections or categories of text are identifiable?",
+        "answer": "Three"
+      },
+      {
+        "question": "Visually speaking, how would you describe the overall visual contrast between the text and the background?",
+        "answer": "High"
+      },
+      {
+        "question": "In terms of the image's visual properties, what is the aspect ratio of the ingredient list section?",
+        "answer": "Tall"
+      },
+      {
+        "question": "Regarding the visual presentation of the text, what is the overall alignment of the text blocks?",
+        "answer": "Left"
+      },
+      {
+        "question": "Based on visual observation, what is the general visual style of the ingredient list presentation?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

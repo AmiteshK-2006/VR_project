@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/35/35abba8d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the product packaging?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of the product's packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material appears to constitute the product's packaging?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the predominant color of the brand logo on the package?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the text prominently displayed on the product packaging?",
+        "answer": "Vedaka"
+      },
+      {
+        "question": "What kind of image is shown on the product's packaging?",
+        "answer": "Product"
+      },
+      {
+        "question": "What appears to be the texture of the product's packaging?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent condition of the product's seal?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Does the packaging display any significant graphical elements besides the logo?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the image on the package accurately depict the contained product?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is there any indication of weight or quantity on the packaging?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the orientation of the text on the packaging?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Is the packaging transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Are there any visible tears or damages on the packaging?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the size of the product shown in the image relative to a human hand?",
+        "answer": "Large"
+      }
+    ]
+  }
+]

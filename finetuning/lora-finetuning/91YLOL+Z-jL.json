@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/7f/7f7ea930.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the shoe's upper, as visually apparent in the provided image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the image, what appears to be the primary material used in constructing the shoe's main body?",
+        "answer": "Suede"
+      },
+      {
+        "question": "Based on the visible image, describe the overall shape of the shoe's silhouette, including its toe and heel.",
+        "answer": "Low-top"
+      },
+      {
+        "question": "What design element, clearly visible in the image, is most prominent across the upper of the shoe?",
+        "answer": "Perforated"
+      },
+      {
+        "question": "What is the texture of the material of the shoe's main body, observable in the image?",
+        "answer": "Textured"
+      },
+      {
+        "question": "From the image, what color is the inner lining, partially visible at the heel?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the color of the heel counter, the visible portion in the back of the shoe?",
+        "answer": "Black"
+      },
+      {
+        "question": "What type of lacing system is present on the shoe, as depicted in the provided image?",
+        "answer": "Lace-up"
+      },
+      {
+        "question": "What is the apparent material composition of the shoe's sole, judging from the visible details in the image?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "What is the pattern of the inner lining which is seen at the back of the shoe?",
+        "answer": "Striped"
+      },
+      {
+        "question": "Based on the image, describe the design of the sole, considering its structure and visible details.",
+        "answer": "Flat"
+      },
+      {
+        "question": "What is the apparent texture of the outsole, visible at the bottom of the shoe in the image?",
+        "answer": "Ridged"
+      },
+      {
+        "question": "What style of shoe does the image clearly show, based only on the image?",
+        "answer": "Sneaker"
+      },
+      {
+        "question": "From the image, what detail is present on the tongue, close to the laces?",
+        "answer": "None"
+      },
+      {
+        "question": "Observing the image, how many eyelets are visible in the shoe's lacing system?",
+        "answer": "Seven"
+      }
+    ]
+  }
+]

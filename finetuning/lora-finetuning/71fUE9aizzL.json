@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ef/efd2cfaa.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the picture frames' exterior?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of each individual frame?",
+        "answer": "Square"
+      },
+      {
+        "question": "Considering the visible borders, what material appears to constitute the frames?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Describe the texture of the visible frame surfaces, based solely on the image.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "How many picture frames are depicted in the provided image?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the apparent finish of the frame's exterior, considering the light reflection?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on the image, what seems to be the primary function of these items?",
+        "answer": "Display"
+      },
+      {
+        "question": "What is the color of the matting visible within each picture frame?",
+        "answer": "White"
+      },
+      {
+        "question": "Ignoring the text, what is the general shape of the inner mat opening?",
+        "answer": "Square"
+      },
+      {
+        "question": "Considering the visible edges, what seems to be the width of the frame's border?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What is the apparent depth or thickness of each frame's visible border?",
+        "answer": "Narrow"
+      },
+      {
+        "question": "Judging by the image, what seems to be the style of these picture frames?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the apparent material of the inner mat that holds the image?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Based on visual details, are the frames ornamented or simplistic?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Considering the image's clarity, does the frame appear to be glossy or dull?",
+        "answer": "Dull"
+      }
+    ]
+  }
+]

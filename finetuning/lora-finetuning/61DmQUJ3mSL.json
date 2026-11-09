@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2c/2cc9141c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the food item predominantly visible within the transparent packaging?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the overall form, what is the most accurate geometrical description of the packaged product's shape?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on visual inspection, what appears to be the primary material composing the food product itself?",
+        "answer": "Bread"
+      },
+      {
+        "question": "Observing the exterior packaging, what material seems to be used for the primary container holding the food?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Judging from the image, what appears to be the texture of the food item visible inside the packaging?",
+        "answer": "Crispy"
+      },
+      {
+        "question": "Does the visible food item showcase any distinct or noticeable patterns on its surface?",
+        "answer": "No"
+      },
+      {
+        "question": "In the provided image, are there any other components bundled alongside the main food item?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall visual impression of the food item's apparent level of doneness?",
+        "answer": "Baked"
+      },
+      {
+        "question": "Can you describe the apparent level of detail and clarity of the image showing the food product?",
+        "answer": "Blurry"
+      },
+      {
+        "question": "Based on its appearance, what is the likely preparation style of the visible food item?",
+        "answer": "Roasted"
+      },
+      {
+        "question": "Considering its physical characteristics, what is the most plausible culinary category this food item belongs to?",
+        "answer": "Bread"
+      },
+      {
+        "question": "What is the approximate size ratio of the package compared to the food content within?",
+        "answer": "Similar"
+      },
+      {
+        "question": "Is the packaging design prominently visible, showcasing any branding, text, or distinctive features?",
+        "answer": "No"
+      },
+      {
+        "question": "Is the product's orientation primarily vertical or horizontal within its package?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the apparent overall condition or state of the product shown in the provided image?",
+        "answer": "Sealed"
+      }
+    ]
+  }
+]

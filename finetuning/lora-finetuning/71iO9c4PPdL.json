@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/40/4018ae08.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the text on the nutrition facts panel?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the nutrition facts panel as shown in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the text's appearance, what is the likely texture of the panel's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the visual style, what is the overall tone of the nutrition information presentation?",
+        "answer": "Informative"
+      },
+      {
+        "question": "What is the predominant style of the lettering used in the nutrition facts?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the primary visual element used to separate different nutritional categories?",
+        "answer": "Lines"
+      },
+      {
+        "question": "What color are the numerical values presented against the black text?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe the visual layout of the information; is it organized using columns or rows?",
+        "answer": "Columns"
+      },
+      {
+        "question": "Considering the image resolution, what is the apparent printing quality of the nutrition panel?",
+        "answer": "High"
+      },
+      {
+        "question": "Judging from the image contrast, is the text easily legible?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the background color of the nutrition facts panel?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on visual observation, is the nutritional information presented in a tabular format?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the orientation of the text on the nutrition facts panel?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Judging by visual clarity, is the information presented easily understandable?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent material of the nutrition facts label?",
+        "answer": "Paper"
+      }
+    ]
+  }
+]

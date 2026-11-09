@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/00/00b1a8b1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the background on which the text is printed, as observed in the provided image?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering the visual elements, what is the primary typeface style used for the text on the product label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the image, what is the overall shape of the label containing the product information?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the textual content that directly follows the word 'Ingredients' in the displayed information?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the color of the printed text visible on the provided product label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the case of the lettering used for the word 'Ingredients' on the displayed label?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "What is the second ingredient listed after 'Organic Milk' according to the product label image?",
+        "answer": "Cream"
+      },
+      {
+        "question": "What word follows the word 'Contains' in the displayed text on the label?",
+        "answer": "Milk"
+      },
+      {
+        "question": "Based on the image, what is the texture of the paper material that seems to comprise the label?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the visual details, what term precedes the statement 'Milk Ingredients' on the given product label?",
+        "answer": "Contains"
+      },
+      {
+        "question": "What adjective modifies the word 'Milk' in the list of ingredients displayed on the label?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the general orientation of the text on the label as depicted in the picture?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What word is used to categorize the components listed on the label?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the material that seems to be used for this label based on the image alone?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Excluding 'Ingredients', what is the first word printed on this label?",
+        "answer": "Organic"
+      }
+    ]
+  }
+]

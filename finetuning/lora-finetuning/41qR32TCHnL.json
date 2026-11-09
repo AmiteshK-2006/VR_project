@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a9/a94d93d5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color observed across the entire visible surface of the item?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the visual texture, what is the most apparent surface characteristic of the product?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Based solely on the image's visual information, what seems to be the primary material of the object?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Judging from the image, what is the general shape or form of this item, ignoring any minor details?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Does the visible surface of the object show a uniform or varied appearance in terms of tone and shading?",
+        "answer": "Varied"
+      },
+      {
+        "question": "If you were to describe the subtle light play on the surface, what would be the most accurate word?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the image alone, how would you characterize the overall visual feel of the product's texture?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What type of visual pattern, if any, is subtly visible on the surface of this product?",
+        "answer": "None"
+      },
+      {
+        "question": "Based on the visual details, what is the apparent level of sheen or gloss on the item's surface?",
+        "answer": "Low"
+      },
+      {
+        "question": "Is there any visible stitching, seams, or other forms of joining noticeable on the product's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "From the image, can you describe the degree of reflectivity from the object's surface?",
+        "answer": "Low"
+      },
+      {
+        "question": "What is the most visually striking characteristic of the product's surface finish?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "Describe the visual consistency of the material's texture across the entire visible area.",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Considering the visual evidence, how would you describe the overall visual depth of the object's texture?",
+        "answer": "Shallow"
+      },
+      {
+        "question": "What is the apparent visual weight or density suggested by the appearance of the material shown?",
+        "answer": "Light"
+      }
+    ]
+  }
+]

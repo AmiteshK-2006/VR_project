@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b1/b1bfce94.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed cleaning wipe?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the apparent texture of the surface of the wipe?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Considering its folded state, what is the overall shape of the single wipe?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on its appearance, what is the likely material of this cleaning wipe?",
+        "answer": "Cloth"
+      },
+      {
+        "question": "Judging by the image, is the wipe visibly patterned or plain?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Does the wipe show any visible signs of being pre-moistened?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the folds, how many layers appear to be present in the wipe?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "Judging by the image, does this appear to be a single wipe or a pack?",
+        "answer": "Single"
+      },
+      {
+        "question": "What is the general condition of the edges of the unfolded wipe?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering its size and thickness, how would you describe the wipe's bulk?",
+        "answer": "Thin"
+      },
+      {
+        "question": "From the visual inspection, is the wipe visibly perforated or continuous?",
+        "answer": "Continuous"
+      },
+      {
+        "question": "Based on its look, would you classify the wipe as disposable or reusable?",
+        "answer": "Disposable"
+      },
+      {
+        "question": "Considering the image, does the wipe exhibit any discernible sheen or gloss?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the wipe's surface have any noticeable embossing or imprinting?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the folds, is the wipe's material visibly stiff or pliable?",
+        "answer": "Pliable"
+      }
+    ]
+  }
+]

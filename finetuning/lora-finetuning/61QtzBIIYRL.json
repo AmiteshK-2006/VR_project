@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/79/795e86b5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color scheme of this product's label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary textual information conveyed on this product label regarding its nutritional content?",
+        "answer": "Supplement"
+      },
+      {
+        "question": "Examining the label's design, what kind of typeface is predominantly used for the main header?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Based on the text, what is the stated serving size of this dietary supplement, according to the label?",
+        "answer": "Lozenge"
+      },
+      {
+        "question": "What specific vitamin is prominently featured on this supplement's label, shown in clear text?",
+        "answer": "B12"
+      },
+      {
+        "question": "According to the label's nutritional information, in what form is vitamin B12 presented in this product?",
+        "answer": "Cyanocobalamin"
+      },
+      {
+        "question": "What is the unit of measurement used to indicate the quantity of vitamin B12 in this product's serving?",
+        "answer": "mcg"
+      },
+      {
+        "question": "Observing the label, what numerical value represents the amount of vitamin B12 per serving?",
+        "answer": "500"
+      },
+      {
+        "question": "Analyzing the product label's design, what is the layout style used to organize the information (e.g., tabular, linear)?",
+        "answer": "Tabular"
+      },
+      {
+        "question": "What is the overall shape of the label as it appears in the provided image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the overall visual characteristics, is the texture of the label primarily glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the main language used in the text on this product label?",
+        "answer": "English"
+      },
+      {
+        "question": "What is the alignment of the 'Supplement Facts' header text on this label?",
+        "answer": "Center"
+      },
+      {
+        "question": "What is the visual style of the text on the label in terms of font style (serif or sans-serif)?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the general visual impression regarding the clarity of the label's text and layout?",
+        "answer": "Clear"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/af/afdf975c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary descriptor of the product's format, as explicitly stated on the packaging?",
+        "answer": "Chewable"
+      },
+      {
+        "question": "What is the principal function or health benefit prominently displayed on the product's label?",
+        "answer": "Probiotic"
+      },
+      {
+        "question": "What color is the dominant textual element announcing the product's name?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What is the overall shape of the product's container, as presented in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material is the primary container made from, based on its visual appearance?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the most prominent brand name or logo featured on the packaging?",
+        "answer": "365"
+      },
+      {
+        "question": "What is the predominant color of the brand logo displayed on the container?",
+        "answer": "Black"
+      },
+      {
+        "question": "What design element is used repeatedly to indicate key product features, as seen on the label?",
+        "answer": "Checkmarks"
+      },
+      {
+        "question": "What color is the background of the primary label section, where the product name is prominently displayed?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the texture of the outer packaging, as suggested by its appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall color scheme of the product's packaging, ignoring the text and logo?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the orientation of the primary textual label on the product's container?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the style of the typography used to label the product's name?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the most prominent graphic design element apart from the logo and text?",
+        "answer": "Sunburst"
+      },
+      {
+        "question": "What type of dietary restriction is explicitly mentioned as fulfilled by the product?",
+        "answer": "Vegetarian"
+      }
+    ]
+  }
+]

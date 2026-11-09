@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/33/33172ab6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color of the product's visible portions?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the image, what appears to be the primary textural characteristic of the food pieces?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Judging from the image, what is the apparent shape of the individual pieces of food within the packaging?",
+        "answer": "Irregular"
+      },
+      {
+        "question": "Given the visual evidence, what kind of packaging seems to be enclosing the product?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the apparent state of the product, frozen or fresh, according to the visual information provided?",
+        "answer": "Frozen"
+      },
+      {
+        "question": "Examining the image carefully, what is the apparent consistency of the food items shown?",
+        "answer": "Solid"
+      },
+      {
+        "question": "From a visual perspective, what seems to be the size of the individual food pieces?",
+        "answer": "Small"
+      },
+      {
+        "question": "Considering the image, what might be the general shape of the product's primary packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent level of moisture visually discernible on the surface of the food?",
+        "answer": "Low"
+      },
+      {
+        "question": "Based on the visual appearance, what is the apparent degree of translucence or transparency of the food items?",
+        "answer": "Low"
+      },
+      {
+        "question": "What does the image suggest about the uniformity in terms of size and shape of the food items?",
+        "answer": "Low"
+      },
+      {
+        "question": "What might be the overall presentation of the food's surface, considering smoothness or roughness?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What is the presence of any noticeable markings or patterns on the food pieces?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the packaging, is there any clear indication of a brand name or logo visually apparent?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the visible details, what is the apparent number of food items visible within the packaging?",
+        "answer": "Many"
+      }
+    ]
+  }
+]

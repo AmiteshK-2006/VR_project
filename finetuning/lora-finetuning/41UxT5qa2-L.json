@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d0/d01fed67.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the presented baked good?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the overall shape of the main loaf of bread?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What kind of surface texture is apparent on the bread's top?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Describe the visible pattern of indentations on the bread's surface?",
+        "answer": "Irregular"
+      },
+      {
+        "question": "What appears to be the internal crumb structure of the bread?",
+        "answer": "Porous"
+      },
+      {
+        "question": "What is the apparent dominant baking style of the bread shown?",
+        "answer": "Artisan"
+      },
+      {
+        "question": "Considering the cuts, what might be the intended serving style of this bread?",
+        "answer": "Sliced"
+      },
+      {
+        "question": "What is the apparent texture of the sliced portions of the bread?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What is the general visual impression of the bread's crust?",
+        "answer": "Crisp"
+      },
+      {
+        "question": "Judging by the image, what kind of bread is this likely to be?",
+        "answer": "Flatbread"
+      },
+      {
+        "question": "Does the bread show evidence of any visible added ingredients?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent level of browning on the bread's surface?",
+        "answer": "Light"
+      },
+      {
+        "question": "Is the bread shown appearing fresh or stale from its look?",
+        "answer": "Fresh"
+      },
+      {
+        "question": "What is the apparent size of the bread relative to a standard loaf?",
+        "answer": "Small"
+      },
+      {
+        "question": "Considering the image only, is this bread likely whole wheat?",
+        "answer": "No"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/14/14166286.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the presented textile product?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of the displayed fabric item?",
+        "answer": "Square"
+      },
+      {
+        "question": "What appears to be the primary material used in the manufacture of this item?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Considering the image, what is the apparent texture of the fabric?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on visual inspection, what is the general condition of this item?",
+        "answer": "New"
+      },
+      {
+        "question": "Does the fabric show any visible patterns or designs, according to the image?",
+        "answer": "No"
+      },
+      {
+        "question": "Are there any noticeable imperfections or defects visible in the provided image?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the edges, how would you describe the hem or finishing of this item?",
+        "answer": "Folded"
+      },
+      {
+        "question": "Judging from the picture, what is the approximate size of the object shown?",
+        "answer": "Small"
+      },
+      {
+        "question": "Does the image show any visible branding or labeling on the product?",
+        "answer": "No"
+      },
+      {
+        "question": "Does this product seem to possess any discernible level of sheen or gloss?",
+        "answer": "Slight"
+      },
+      {
+        "question": "From the image provided, what is the overall visual impression of the product?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Considering the visual presentation, is the item creased or wrinkled?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent thickness or weight of the displayed fabric?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Considering the image, is the fabric visibly absorbent or water resistant?",
+        "answer": "Absorbent"
+      }
+    ]
+  }
+]

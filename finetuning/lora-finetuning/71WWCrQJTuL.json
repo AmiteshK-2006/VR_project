@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a9/a9605a39.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the nutrition facts label's text?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the nutrition facts label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the background color of the nutrition facts label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary material that the label appears to be printed on?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the style of the font used in the label's header?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Does the label contain any images or illustrations?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the texture of the label, based on its visual appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the label's layout, what is its overall orientation?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Based on its visual appearance, what is the label's finish (e.g., glossy, matte)?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the text on the label use any special formatting besides bolding?",
+        "answer": "No"
+      },
+      {
+        "question": "What type of information is presented within the label's main body?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Are there any noticeable folds or creases visible in the label\u2019s surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the overall clarity, is the label's text easily readable?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the primary method of presenting the nutritional information?",
+        "answer": "Text"
+      },
+      {
+        "question": "Are there any visible watermarks or security features on the label?",
+        "answer": "No"
+      }
+    ]
+  }
+]

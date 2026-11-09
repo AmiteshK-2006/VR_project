@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/17/17b90d2f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular layout and the prominent numerical data presented within clearly defined rows and columns, what is the primary function of this product's label?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Observing the distinct blocks of text, each section headed by descriptive terms like 'Total Fat' and 'Dietary Fiber,' what type of information is predominantly displayed across the entire surface?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Focusing on the numerical values within each category, and given the units of measurement (e.g., 'g', 'mg'), what specific aspect of the food product is being quantified in this detailed breakdown?",
+        "answer": "Amounts"
+      },
+      {
+        "question": "Based on the presence of percentages next to many of the numerical entries, what comparative context or metric is being utilized to provide additional nutritional information regarding the product?",
+        "answer": "DV"
+      },
+      {
+        "question": "Examining the consistent use of a sans-serif typeface in a black color against a white background, what would be the design goal behind these typography choices?",
+        "answer": "Clarity"
+      },
+      {
+        "question": "Given the clear delineation of sections and the sequential arrangement of nutritional components (fat, carbs, sugars, etc.), what organizational principle governs the layout of the text blocks?",
+        "answer": "Order"
+      },
+      {
+        "question": "Given the statement 'about 6 servings per container,' what measure or unit is employed for expressing the quantity of food within a single packaging unit?",
+        "answer": "Servings"
+      },
+      {
+        "question": "Observing the phrase '1 cup (113g)' in the 'Serving size' section, which system of units (metric or imperial) is predominantly used to specify the size of a single portion?",
+        "answer": "Metric"
+      },
+      {
+        "question": "From the prominently displayed number '80' associated with 'Calories per serving', what is the primary unit used in measuring the energy content in this nutrition label?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Considering the inclusion of various vitamins and minerals (like Vitamin C, Potassium, Iron), what is the broad category of nutritional information presented by this detailed list?",
+        "answer": "Micro"
+      },
+      {
+        "question": "Noticing the use of both numerical values and their corresponding percentages, what analytical approach is implied by this combination in the presentation of nutritional data?",
+        "answer": "Ratio"
+      },
+      {
+        "question": "Given the explicit mention of 'Added Sugars' as a distinct category from 'Total Sugars,' what nutritional aspect is specifically highlighted through this distinction?",
+        "answer": "Additives"
+      },
+      {
+        "question": "Examining the various nutritional components such as protein, fat, fiber, etc., what is the overall context of this label’s information pertaining to the food’s properties?",
+        "answer": "Composition"
+      },
+      {
+        "question": "Considering the overall look of the label, what is the general style or tone evoked by the typeface, layout, and the use of percentages for nutritional values?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Given the presence of both descriptive text and numerical data, what is the primary communication purpose of this product label?",
+        "answer": "Instruction"
+      }
+    ]
+  }
+]

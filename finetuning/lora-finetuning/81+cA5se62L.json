@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/eb/eba64c39.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the primary color scheme of the product label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the predominant font style used throughout the label's textual content?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the image, what is the shape of the printed information panel?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What type of text is prominently displayed at the top of the label, indicating its purpose?",
+        "answer": "Supplement"
+      },
+      {
+        "question": "What specific unit of measurement is used to describe the 'Serving Size' on the label?",
+        "answer": "Tablet"
+      },
+      {
+        "question": "Observing the label, what is the primary ingredient highlighted in bold text?",
+        "answer": "Garlic"
+      },
+      {
+        "question": "What term is used to denote the daily recommended intake level, or its lack thereof, in this product description?",
+        "answer": "Value"
+      },
+      {
+        "question": "Analyzing the label, what term describes the additional components besides the main ingredient?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What specific chemical compound is mentioned as a component of the 'Garlic' ingredient?",
+        "answer": "Allicin"
+      },
+      {
+        "question": "What is the format of the information regarding daily recommended intake levels in terms of percentages?",
+        "answer": "Percentage"
+      },
+      {
+        "question": "What is the texture of the overall printed label surface, based on its appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What type of finish does the label appear to have, based on the image?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the format of the product information on the label?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the visual style of the label's overall design?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the general orientation of the information presented on the label?",
+        "answer": "Vertical"
+      }
+    ]
+  }
+]

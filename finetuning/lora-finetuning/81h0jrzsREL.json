@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e2/e2375ace.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the liquid inside the bottle, as visibly shown in the image?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the bottle's overall form, what is its most descriptive shape?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What material appears to constitute the bottle's primary structure, judging by its visual properties?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What specific term best describes the cap's visible texture, based on the image's clarity?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the visible text prominently displayed on the bottle's cap, concerning the liquid's properties?",
+        "answer": "Alcohol-Free"
+      },
+      {
+        "question": "What is the overall transparency level of the bottle, enabling visibility of the contents?",
+        "answer": "Translucent"
+      },
+      {
+        "question": "Based on the image, what is the visible type of printing on the bottle's label, considering its style and location?",
+        "answer": "Text"
+      },
+      {
+        "question": "Describing the bottle's base, what is the shape of its bottom section?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What is the apparent finish of the bottle's surface, judging from its reflection and sheen?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What is the apparent style of the label's design on the back of the bottle, observing its elements?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Observing the bottle's overall design, what is the primary function it suggests?",
+        "answer": "Container"
+      },
+      {
+        "question": "What is the visible form of the cap's primary fastening mechanism, based on the image?",
+        "answer": "Screw"
+      },
+      {
+        "question": "What is the visible texture of the label's surface, based on image clarity and features?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent size of the text on the label, relative to the bottle’s dimensions?",
+        "answer": "Small"
+      },
+      {
+        "question": "Disregarding liquid, what is the color of the bottle itself, excluding labels and cap?",
+        "answer": "Clear"
+      }
+    ]
+  }
+]

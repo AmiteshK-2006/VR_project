@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c6/c6c81b64.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color visibly present on the product's label, based solely on the image?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the visible texture, what is the apparent consistency of the product inside the container?",
+        "answer": "Thick"
+      },
+      {
+        "question": "What is the primary shape of the container holding the product, as shown in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material appears to compose the primary container holding the product?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Judging by the image, what kind of food item does the container seem to hold?",
+        "answer": "Soup"
+      },
+      {
+        "question": "Based on the image, what is the most apparent color of the product itself?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Observing the label, what is the printed text's dominant color?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall visible texture of the product's label, based solely on the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the visible text, what seems to be the brand or distributor of the product?",
+        "answer": "Wholefoods"
+      },
+      {
+        "question": "Does the container have a noticeable lid, clearly evident in the image?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the nutritional information label, is there visible text regarding serving size?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the image, what type of container is used, including material, according to visual cues?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the visible format of the nutrition information panel visible on the image?",
+        "answer": "Text"
+      },
+      {
+        "question": "Based on the visible text on the image, is there any indication of ingredients present?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the image show any visible markings other than text, focusing solely on visual cues?",
+        "answer": "No"
+      }
+    ]
+  }
+]

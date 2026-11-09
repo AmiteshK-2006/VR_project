@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/55/5579a083.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary text displayed prominently at the top of this food label?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What crucial information does the label clearly state regarding the serving size?",
+        "answer": "Unit"
+      },
+      {
+        "question": "What numerical value is prominently featured indicating the caloric content per serving?",
+        "answer": "80"
+      },
+      {
+        "question": "What is the total amount of carbohydrates listed per serving, in grams?",
+        "answer": "15"
+      },
+      {
+        "question": "What is the total amount of sugars, in grams, specified per serving?",
+        "answer": "15"
+      },
+      {
+        "question": "What is the amount of added sugars, in grams, per serving as indicated?",
+        "answer": "5g"
+      },
+      {
+        "question": "What is the amount of dietary fiber, in grams, listed per serving?",
+        "answer": "1"
+      },
+      {
+        "question": "What is the total fat content, in grams, specified per serving?",
+        "answer": "0"
+      },
+      {
+        "question": "What is the total amount of protein, in grams, present per serving?",
+        "answer": "0"
+      },
+      {
+        "question": "What is the cholesterol content, in milligrams, as shown per serving?",
+        "answer": "0"
+      },
+      {
+        "question": "What is the sodium content, in milligrams, indicated on this label per serving?",
+        "answer": "0"
+      },
+      {
+        "question": "How many servings are contained within this particular food package?",
+        "answer": "6"
+      },
+      {
+        "question": "What is the weight, in grams, of a single serving as specified on the label?",
+        "answer": "113"
+      },
+      {
+        "question": "What is the font style of the 'Nutrition Facts' heading?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the overall color scheme of this food label?",
+        "answer": "Black"
+      }
+    ]
+  }
+]

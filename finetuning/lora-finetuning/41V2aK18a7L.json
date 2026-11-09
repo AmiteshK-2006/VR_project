@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fb/fbffdb23.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's visual characteristics, what is the dominant color of the background on which the ingredients are printed?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Based on the image, what is the primary font style used to display the 'Ingredients' label and the listed items?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Observing the image closely, what is the case of the lettering used to write out the ingredients?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "What is the primary vegetable mentioned, considering its position and prominence in the visible text?",
+        "answer": "Broccoli"
+      },
+      {
+        "question": "Judging by the text's visual appearance, is the font size uniform across the entire ingredient list?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the second vegetable explicitly mentioned within the visible ingredient list?",
+        "answer": "Carrots"
+      },
+      {
+        "question": "Focusing solely on the visual information, what is the listed third and final vegetable?",
+        "answer": "Cauliflower"
+      },
+      {
+        "question": "Looking at the image, does the text show any signs of bolding or emphasis for any particular ingredient?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the visual style of the text, would you describe the overall text alignment as left-aligned, centered, or right-aligned?",
+        "answer": "Left"
+      },
+      {
+        "question": "In reference to the text's visual features, what seems to be the line spacing (leading) between the different lines of the ingredient list?",
+        "answer": "Single"
+      },
+      {
+        "question": "Does the text seem to have any kind of shadow or outline effect applied to it for visual enhancement?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image, what is the overall clarity and legibility of the printed text on the background?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Judging by the visual quality, is there any noticeable distortion or blurring in the text's appearance?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the appearance of the text, what writing style is used, script or print?",
+        "answer": "Print"
+      },
+      {
+        "question": "What word precedes the enumeration of the ingredients?",
+        "answer": "Ingredients"
+      }
+    ]
+  }
+]

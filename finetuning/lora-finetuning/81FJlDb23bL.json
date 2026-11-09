@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/df/df3d7751.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary advertised function of the product depicted in the image, as explicitly stated on its label?",
+        "answer": "Prenatal"
+      },
+      {
+        "question": "What dietary restriction is explicitly catered to by this product, as indicated on its label?",
+        "answer": "Vegetarian"
+      },
+      {
+        "question": "What is the dominant color scheme used in the design of the product's label, as visually apparent?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the shape of the container holding the product, as visually observed in the provided image?",
+        "answer": "Cylinder"
+      },
+      {
+        "question": "What is the material that appears to constitute the container of the product displayed in the image?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the predominant color of the text on the label, clearly visible in the image?",
+        "answer": "Purple"
+      },
+      {
+        "question": "What is the overall visual texture of the label, as evident from its appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the stated number of units contained within the product's packaging, as shown on the label?",
+        "answer": "90"
+      },
+      {
+        "question": "What is the specified frequency of consumption for this product, as indicated on the label?",
+        "answer": "Daily"
+      },
+      {
+        "question": "What brand name is prominently featured on the label of the product shown in the image?",
+        "answer": "365"
+      },
+      {
+        "question": "What type of supplement is indicated by the text on the product's container?",
+        "answer": "Multi"
+      },
+      {
+        "question": "What design element is used to separate the text sections on the product's label?",
+        "answer": "Lines"
+      },
+      {
+        "question": "What color are the brand logo's accent colors, clearly visible?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the overall style of the label's design, considering fonts and graphics?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the format of the product contained within its packaging, shown in the image?",
+        "answer": "Tablets"
+      }
+    ]
+  }
+]

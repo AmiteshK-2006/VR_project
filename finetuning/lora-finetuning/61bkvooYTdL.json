@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/db/db01611c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the tube's primary label?",
+        "answer": "DarkGray"
+      },
+      {
+        "question": "What material appears to constitute the primary packaging?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the overall shape of the product container?",
+        "answer": "Tube"
+      },
+      {
+        "question": "What color is the text on the bottom of the tube?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the apparent texture of the tube's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the color of the cap at the top of the tube?",
+        "answer": "DarkGray"
+      },
+      {
+        "question": "What type of writing is visible on the packaging, descriptive or instructional?",
+        "answer": "Instructional"
+      },
+      {
+        "question": "Is the volume of the product stated on the tube?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What unit of measurement is used for the product's volume?",
+        "answer": "ml"
+      },
+      {
+        "question": "What is the general color scheme of the product label?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "Is there a noticeable logo or branding displayed on the tube?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the image show any prominent seals or certifications?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the color palette, what is the overall mood conveyed?",
+        "answer": "Serious"
+      },
+      {
+        "question": "Is there any visual indication of a pump or dispensing mechanism?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the tube appear flexible or rigid?",
+        "answer": "Flexible"
+      }
+    ]
+  }
+]

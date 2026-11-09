@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/be/beafacfd.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the packaging's primary design element?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What is the overall shape of the product's packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material appears to constitute the product's packaging?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Describing the texture of the packaging, is it smooth or rough?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the predominant color of the text on the packaging?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the style of the illustrative design on the bag?",
+        "answer": "Rustic"
+      },
+      {
+        "question": "Is the bag sealed or open at the top?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "What kind of image is displayed at the top of the bag?",
+        "answer": "Landscape"
+      },
+      {
+        "question": "What is the color of the secondary design element at the bottom?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What is the main color in the background of the illustration?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Are there any prominent nutritional facts displayed?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the packaging feature a barcode for identification?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the overall impression of the packaging design: modern or vintage?",
+        "answer": "Vintage"
+      },
+      {
+        "question": "Is there any visible brand name or logo clearly identifiable?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the primary method of information display on the bag?",
+        "answer": "Text"
+      }
+    ]
+  }
+]

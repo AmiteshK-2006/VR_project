@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/20/2066e4ab.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the product packaging, as shown in the image?",
+        "answer": "Teal"
+      },
+      {
+        "question": "Considering the overall design, what is the style of the text font used for the product name?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the primary language used for the product description on the packaging?",
+        "answer": "English"
+      },
+      {
+        "question": "Observing the text, what specific skin type is this cleansing milk designed for, according to the label?",
+        "answer": "Normal"
+      },
+      {
+        "question": "What is the overall shape of the visible portion of the product container, as depicted in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the image, what appears to be the texture of the packaging shown?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the material of the background for the product information, based on its visual characteristics?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Describing the branding logo's visual appearance, what is its overall shape?",
+        "answer": "Geometric"
+      },
+      {
+        "question": "What is the visual style of the overall label and text placement?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the color of the brand logo, as shown on the packaging?",
+        "answer": "White"
+      },
+      {
+        "question": "What type of product is shown on the package, judging from the provided text?",
+        "answer": "Cleansing"
+      },
+      {
+        "question": "What is the color of the smaller text, aside from the main product description?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the form of the product advertised, as depicted by the packaging design?",
+        "answer": "Milk"
+      },
+      {
+        "question": "What language is used in the second line of text on the packaging?",
+        "answer": "English"
+      },
+      {
+        "question": "Is the text on the image primarily in upper-case or lower-case letters?",
+        "answer": "Uppercase"
+      }
+    ]
+  }
+]

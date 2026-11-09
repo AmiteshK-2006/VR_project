@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fd/fd4dfd4f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the dominant shape of the depicted food item?",
+        "answer": "Oval"
+      },
+      {
+        "question": "What is the primary color that visually dominates the majority of this food product?",
+        "answer": "Orange"
+      },
+      {
+        "question": "Judging by its appearance, what seems to be the likely texture of this item, smooth or coarse?",
+        "answer": "Coarse"
+      },
+      {
+        "question": "Based on its visual characteristics, what is the most likely food category this item belongs to?",
+        "answer": "Snack"
+      },
+      {
+        "question": "Given its look, would you describe the visual consistency of this food as uniformly colored or variegated?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Does the image exhibit any visible signs of added ingredients or textural variety on the surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image, does this food item appear to be baked, fried, or processed in another manner?",
+        "answer": "Fried"
+      },
+      {
+        "question": "Based on its visual features, what is the approximate size of this food item in proportion to a human hand?",
+        "answer": "Small"
+      },
+      {
+        "question": "Considering the visual presentation, does this food item show any signs of being artificially enhanced in color or texture?",
+        "answer": "No"
+      },
+      {
+        "question": "From a visual standpoint, can you detect any specific patterns or markings on the surface of this food item?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the visual evidence, what could be the likely method of packaging for this type of food item?",
+        "answer": "Bag"
+      },
+      {
+        "question": "Looking at the image, does this food item appear to be individually wrapped or part of a larger group?",
+        "answer": "Individual"
+      },
+      {
+        "question": "Does the coloring of this product suggest the presence of any particular seasonings or flavor profiles?",
+        "answer": "No"
+      },
+      {
+        "question": "Visually evaluating the item, can you identify any noticeable imperfections or irregularities on its surface?",
+        "answer": "No"
+      },
+      {
+        "question": "From this single product image, what is the most likely culinary category does it belong to, such as savory or sweet?",
+        "answer": "Savory"
+      }
+    ]
+  }
+]

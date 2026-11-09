@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/25/25b06f66.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual impression, what is the dominant color of the fabric?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Based on the visual texture, what is the apparent weave structure of the fabric?",
+        "answer": "Linen"
+      },
+      {
+        "question": "Examining the image closely, what is the most apparent surface texture of the material?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Judging by the visible fibers, what is the likely primary material composition?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "What is the predominant visual pattern observed across the fabric's surface?",
+        "answer": "Linear"
+      },
+      {
+        "question": "From the image, describe the visual density of the fabric's weave.",
+        "answer": "Tight"
+      },
+      {
+        "question": "Focusing on the image's details, does the fabric exhibit any noticeable sheen or gloss?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the color consistency, is there a visible gradient or variation in shade?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Does the image suggest any kind of distinct pattern repeat within the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "Regarding the visual composition, how would you describe the overall look of the fabric?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "Considering the fine details, does the fabric have visible irregularities in its weave?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "From the presented image, is the weave visible to the naked eye?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based solely on visual inspection, does the fabric appear heavy or lightweight?",
+        "answer": "Medium"
+      },
+      {
+        "question": "From the provided visual, describe the overall visual tone of the fabric.",
+        "answer": "Neutral"
+      },
+      {
+        "question": "Judging by the image, how would you describe the color saturation of the fabric?",
+        "answer": "Low"
+      }
+    ]
+  }
+]

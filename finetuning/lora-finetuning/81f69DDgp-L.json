@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/04/04e968dd.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape and uniformly dark background, what is the primary format of the depicted item?",
+        "answer": "Label"
+      },
+      {
+        "question": "Observing the grayscale palette and lack of vibrant hues, what is the predominant color scheme of the displayed labels?",
+        "answer": "Black"
+      },
+      {
+        "question": "Focusing on the textual content and its arrangement, what language appears to be predominantly utilized?",
+        "answer": "Japanese"
+      },
+      {
+        "question": "Analyzing the numerous thin vertical lines, grouped closely together, what type of code is visibly encoded?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "Given the presence of symbols indicating material composition and recyclability, what type of information is conveyed by these symbols?",
+        "answer": "Recycling"
+      },
+      {
+        "question": "Concentrating on the graphic elements adjacent to the barcode, what standardized symbol represents material composition?",
+        "answer": "Triangle"
+      },
+      {
+        "question": "Based on the presence of a numeric string associated with the product's identity, what unique identifier does this number seem to represent?",
+        "answer": "Code"
+      },
+      {
+        "question": "Considering the overall arrangement and the inclusion of contact details, what is the likely function of this type of label?",
+        "answer": "Information"
+      },
+      {
+        "question": "Given the presence of a customer service contact number, what additional details are provided alongside the identification details?",
+        "answer": "Contact"
+      },
+      {
+        "question": "Observing the fine lines and detailed characters of the print, what is the resolution of the text and barcodes?",
+        "answer": "High"
+      },
+      {
+        "question": "Based on the consistent formatting across all displayed labels, what standardization seems to be applied in printing?",
+        "answer": "Uniformity"
+      },
+      {
+        "question": "Given the rectangular dimensions and compact layout, what design principle seems to be prioritized?",
+        "answer": "Efficiency"
+      },
+      {
+        "question": "Judging from the clear and readable presentation of information, what aspect of label design is prioritized?",
+        "answer": "Clarity"
+      },
+      {
+        "question": "Considering the paper-like appearance of the surface, what material is most likely used for the label printing?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Examining the style of the text font, what overall aesthetic does it project?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

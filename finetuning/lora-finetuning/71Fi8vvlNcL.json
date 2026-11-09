@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/19/190d8b64.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what is the primary format of the nutritional information displayed on this product?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the dominant color scheme used for the background of the nutritional information panel?",
+        "answer": "White"
+      },
+      {
+        "question": "Focusing on the text's visual properties, what is the font style predominantly used for the headings?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the primary color of the text used to display the nutritional values and ingredient details?",
+        "answer": "Black"
+      },
+      {
+        "question": "Regarding the visual hierarchy, what is the size of the font used for the \u2018Supplement Facts\u2019 heading compared to the rest?",
+        "answer": "Larger"
+      },
+      {
+        "question": "Observing the layout, what is the structure used to organize the various components of the nutrition information?",
+        "answer": "Columns"
+      },
+      {
+        "question": "Analyzing the text, what is the term used to denote the recommended daily intake?",
+        "answer": "Percent"
+      },
+      {
+        "question": "Based solely on visual appearance, what is the style of the text formatting for the units of measurement (e.g., mg, g)?",
+        "answer": "Regular"
+      },
+      {
+        "question": "Examining the text closely, what is the term used to indicate the quantity of each component within a single serving?",
+        "answer": "Amount"
+      },
+      {
+        "question": "Regarding the visual clarity, how is the information regarding added sugars visually differentiated from other sugars?",
+        "answer": "Separate"
+      },
+      {
+        "question": "What is the visual presentation of the statement specifying the daily value?",
+        "answer": "Footnote"
+      },
+      {
+        "question": "What is the visual indicator to represent data absence in a nutrition fact?",
+        "answer": "Asterisk"
+      },
+      {
+        "question": "Considering the text's layout, how are the 'Other Ingredients' visually separated from 'Supplement Facts'?",
+        "answer": "Spacing"
+      },
+      {
+        "question": "What is the visual style of the list of ingredients in the 'Other Ingredients' section?",
+        "answer": "List"
+      },
+      {
+        "question": "What is the visual format used to present potential allergens or cross-contamination warnings?",
+        "answer": "Text"
+      }
+    ]
+  }
+]

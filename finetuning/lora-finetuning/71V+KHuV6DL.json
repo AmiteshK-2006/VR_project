@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/36/36c822ca.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what is the primary color scheme of the product's label, as visually apparent?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the visual appearance, what is the predominant text color used on the product's label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Judging from the image, what is the general shape of the product's label, assuming a rectangular container?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "From a visual standpoint, what is the apparent texture of the product's label, based on its image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the visual style of the font used for the label's 'INGREDIENTS' heading, considering its overall appearance?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Disregarding any specific words, what is the visual formatting of the ingredient list, apparent from the image?",
+        "answer": "List"
+      },
+      {
+        "question": "Considering the image, what kind of visual separation is used between the different ingredients in the list?",
+        "answer": "Line-breaks"
+      },
+      {
+        "question": "Based on the image, what is the general visual character of the capitalization used in the ingredient list?",
+        "answer": "Title-case"
+      },
+      {
+        "question": "Observing the image closely, what is the visual density of the text on the label, considering the amount of information and the space?",
+        "answer": "High"
+      },
+      {
+        "question": "From a purely visual assessment, does the label appear to use any significant visual embellishments or graphic elements?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the image, what is the visual alignment of the text on the product's label?",
+        "answer": "Left"
+      },
+      {
+        "question": "Ignoring context, what is the apparent visual size of the text on the product label, compared to a typical label?",
+        "answer": "Small"
+      },
+      {
+        "question": "Based solely on what's shown, what is the apparent visual readability of the ingredient list, considering the font and layout?",
+        "answer": "High"
+      },
+      {
+        "question": "Considering only the provided image, is there any visual indication of a logo or brand mark on the label?",
+        "answer": "No"
+      },
+      {
+        "question": "From a purely visual inspection, what could be described as the overall visual aesthetic of the product's label?",
+        "answer": "Minimalist"
+      }
+    ]
+  }
+]

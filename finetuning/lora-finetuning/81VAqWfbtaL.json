@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ca/ca4fc852.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary shape of the depicted dietary supplement?",
+        "answer": "Capsule"
+      },
+      {
+        "question": "Based on the label, what is the capsule's stated material?",
+        "answer": "Vegetarian"
+      },
+      {
+        "question": "What color is the text on the supplement facts label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the background color of the Supplement Facts panel?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the stated serving size of the supplement?",
+        "answer": "One"
+      },
+      {
+        "question": "What is the primary ingredient listed per serving?",
+        "answer": "Suntheanine"
+      },
+      {
+        "question": "What is the unit of measurement for the listed ingredient amount?",
+        "answer": "mg"
+      },
+      {
+        "question": "What is the listed amount of Suntheanine per serving?",
+        "answer": "200"
+      },
+      {
+        "question": "What is the secondary ingredient listed after Suntheanine?",
+        "answer": "Rice"
+      },
+      {
+        "question": "What type of flour is listed as an ingredient?",
+        "answer": "Rice"
+      },
+      {
+        "question": "What specific type of capsule is used, as indicated on the label?",
+        "answer": "Vegetarian"
+      },
+      {
+        "question": "What other ingredient is listed besides rice flour and the capsule?",
+        "answer": "Silicon"
+      },
+      {
+        "question": "Besides rice flour and the capsule, what other ingredient is listed?",
+        "answer": "Magnesium"
+      },
+      {
+        "question": "What is the form of magnesium listed as an ingredient?",
+        "answer": "Stearate"
+      },
+      {
+        "question": "What is the source specified for the magnesium stearate?",
+        "answer": "Vegetarian"
+      }
+    ]
+  }
+]

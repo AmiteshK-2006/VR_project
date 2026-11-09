@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e3/e3b41f05.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed wallet?",
+        "answer": "Black"
+      },
+      {
+        "question": "What primary material appears to constitute the wallet's exterior?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Considering the visible texture, what is the overall feel of the wallet's surface?",
+        "answer": "Grainy"
+      },
+      {
+        "question": "Describe the shape and form factor of the presented wallet?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "How many distinct compartments are clearly visible for holding cards?",
+        "answer": "Three"
+      },
+      {
+        "question": "What type of fastening mechanism, if any, is visible on the wallet?",
+        "answer": "None"
+      },
+      {
+        "question": "Is there a designated area visible for holding paper currency?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the image, what appears to be the capacity for coins?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "Does the wallet show any noticeable branding, logos, or embossed patterns?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the image, what is the overall size of the wallet?",
+        "answer": "Compact"
+      },
+      {
+        "question": "What is the apparent style of the wallet: formal, casual, or other?",
+        "answer": "Casual"
+      },
+      {
+        "question": "Does the wallet appear to be constructed from a single piece of material?",
+        "answer": "No"
+      },
+      {
+        "question": "Is the wallet's design minimalist or ornate in terms of its visual complexity?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Considering the materials, is the wallet likely to be waterproof?",
+        "answer": "No"
+      },
+      {
+        "question": "Are there any visible protective features, like RFID blocking, indicated in the image?",
+        "answer": "No"
+      }
+    ]
+  }
+]

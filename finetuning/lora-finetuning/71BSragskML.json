@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/de/de121111.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what dominant color best describes the product's appearance within its packaging?",
+        "answer": "Orange"
+      },
+      {
+        "question": "Based solely on the image, what appears to be the primary foodstuff contained within the transparent packaging?",
+        "answer": "Cheese"
+      },
+      {
+        "question": "Judging from the image, what is the most apparent shape of the individual food items inside the package?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "From a visual standpoint, what seems to be the texture of the food product shown in the provided image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Disregarding any textual information, what packaging material appears to primarily encase the food product?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the apparent physical state of the food item depicted in the picture (solid, liquid, gas)?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Observing the image alone, what is the general arrangement of the product units within the package?",
+        "answer": "Stacked"
+      },
+      {
+        "question": "Based on visual observation, how many primary layers of the product seem to be present within the packaging?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "If you were to describe the product's visible surface, which descriptor most accurately describes its sheen (e.g., matte, glossy, etc.)?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "From the visual inspection, are there any noticeable markings or patterns on the surface of the individual food items?",
+        "answer": "None"
+      },
+      {
+        "question": "What kind of packaging seal is predominantly visible at the top of the product's bag?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Based on what is visibly clear in the image, what is the most apparent overall form of the entire product package?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Focusing purely on the visual features, what would you say about the consistency of the product's color throughout the package?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Considering the provided image, what seems to be the primary method of packaging closure observed?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Looking at the image alone, are there any apparent perforations or openings present within the packaging?",
+        "answer": "No"
+      }
+    ]
+  }
+]

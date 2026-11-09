@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/21/21bb8c20.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall shape and dimensions, what is the primary form factor of this product as depicted in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Observing the dominant hue across the visible product surface, what single word best describes its color?",
+        "answer": "Orange"
+      },
+      {
+        "question": "Based on the image alone, what appears to be the primary material used for the product's packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the textual description printed prominently on the orange side panels of this package?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Judging from the appearance, what seems to be the primary intended use or application of this product?",
+        "answer": "Topical"
+      },
+      {
+        "question": "Focusing on the design elements, is there a noticeable logo or emblem present on this product's packaging?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the texture implied by the image, is the outer surface of this product packaging smooth or rough?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Concentrating only on the packaging, does this product appear to contain a significant amount of material or is the quantity minimal?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "Considering the image's details, does the product packaging show any particular warnings or cautions?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the color of the smaller text and labels on the packaging, excluding the orange background?",
+        "answer": "Black"
+      },
+      {
+        "question": "From the visual evidence, is there a visible website address or contact information displayed on the product's label?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based purely on the image, does the product's packaging appear to have a glossy or matte finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Are there any notable lines or seams visible on the packaging, suggesting a certain construction method?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the details available, does the package incorporate any noticeable perforations or tear-off sections?",
+        "answer": "No"
+      },
+      {
+        "question": "From the visual inspection, what is the overall style of the text and fonts used on this product's packaging?",
+        "answer": "Sans-serif"
+      }
+    ]
+  }
+]

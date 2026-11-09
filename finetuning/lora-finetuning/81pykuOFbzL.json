@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/be/bed23b35.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the liquid visible within the container?",
+        "answer": "Red"
+      },
+      {
+        "question": "What material appears to constitute the majority of the container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the overall shape of the liquid-holding container?",
+        "answer": "Jug"
+      },
+      {
+        "question": "What color is the cap or closure atop the container?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Describe the texture of the container's visible surface, based on the image.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What type of handle is present on the container for carrying purposes?",
+        "answer": "Loop"
+      },
+      {
+        "question": "What is the general function or purpose of this product, according to its label?",
+        "answer": "Cleaner"
+      },
+      {
+        "question": "Based on the label's text, what specific type of cleaner is it?",
+        "answer": "Disinfectant"
+      },
+      {
+        "question": "Is the container's label predominantly oriented vertically or horizontally?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the approximate form factor of the container?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Does the container show noticeable ribbing or texturing along its sides?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent transparency level of the liquid inside?",
+        "answer": "Translucent"
+      },
+      {
+        "question": "Are there any significant markings or symbols other than text on the container?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the size of the container based on the label?",
+        "answer": "2L"
+      },
+      {
+        "question": "Judging from the image, is the container opaque, translucent, or transparent?",
+        "answer": "Translucent"
+      }
+    ]
+  }
+]

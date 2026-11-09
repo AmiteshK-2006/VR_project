@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c0/c01a853b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the textual information presented, what is the primary ingredient visibly listed in the crackers?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "Based on the visible text, what type of cheese is a key component of the filling?",
+        "answer": "Cheddar"
+      },
+      {
+        "question": "What kind of oil, as per the visible text, is used in the cracker's preparation?",
+        "answer": "Sunflower"
+      },
+      {
+        "question": "According to the image, what is one of the visible leavening agents used in the crackers?",
+        "answer": "Baking"
+      },
+      {
+        "question": "As per the text, what is one visible ingredient acting as an emulsifier?",
+        "answer": "Lecithin"
+      },
+      {
+        "question": "What additional nut, as indicated by the label, might be present as a potential allergen?",
+        "answer": "Peanuts"
+      },
+      {
+        "question": "What kind of sugar, as per the visible text, is employed in the cracker recipe?",
+        "answer": "Cane"
+      },
+      {
+        "question": "Based on the image, what is listed as a color additive in the cheese filling?",
+        "answer": "Annatto"
+      },
+      {
+        "question": "What is one visible type of milk derivative used in the cheese filling?",
+        "answer": "Buttermilk"
+      },
+      {
+        "question": "What is the visible form of milk specified in the cheese filling ingredient list?",
+        "answer": "Dry"
+      },
+      {
+        "question": "What visible ingredient is described as an extract in the crackers?",
+        "answer": "Malt"
+      },
+      {
+        "question": "What type of salt is explicitly mentioned in the ingredient list?",
+        "answer": "Sea"
+      },
+      {
+        "question": "What is the visible method used to process the sunflower seed oil?",
+        "answer": "Expeller"
+      },
+      {
+        "question": "What is one type of phosphate used, as seen in the text, as an ingredient in the cheese?",
+        "answer": "Disodium"
+      },
+      {
+        "question": "What is listed as a type of enzyme in the provided text?",
+        "answer": "Microbial"
+      }
+    ]
+  }
+]

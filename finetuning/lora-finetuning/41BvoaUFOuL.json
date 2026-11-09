@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a4/a4f48d55.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the product label, as visually apparent?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the overall visual texture, what is the label's apparent surface finish?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the label's visual appearance, what is its presumed material?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the visual style of the typography used on the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Judging by the image, what is the overall shape of the product's label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What type of visual information is predominantly conveyed on the label?",
+        "answer": "Text"
+      },
+      {
+        "question": "Observing the label's layout, what method is used to visually arrange the text?",
+        "answer": "Blocks"
+      },
+      {
+        "question": "What can be visually confirmed as a production process mentioned on the label?",
+        "answer": "Processed"
+      },
+      {
+        "question": "Describing its presentation, what is the visual style of the company name shown?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Considering the image, what is the label's visible degree of transparency?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What is the visual appearance of the text's alignment on the label?",
+        "answer": "Left"
+      },
+      {
+        "question": "What style of visual presentation does the ingredient list adopt?",
+        "answer": "List"
+      },
+      {
+        "question": "How does the text color visually contrast against the label's background?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Describe the visual appearance of the printed information's size on the label.",
+        "answer": "Small"
+      },
+      {
+        "question": "Considering the provided image, is there visible evidence of any illustrations on the label?",
+        "answer": "No"
+      }
+    ]
+  }
+]

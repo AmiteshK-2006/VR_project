@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a8/a8f459d5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the packaging of this string cheese product, as prominently displayed on the front and back?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of the food product's packaging, considering its length and narrow width?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the texture of the outer packaging, is it smooth, rough, or something else?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What material appears to be used for the primary packaging of this food item, judging by its look and feel?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the primary text on the packaging that identifies the product's category?",
+        "answer": "Cheese"
+      },
+      {
+        "question": "What specific type of cheese does the label clearly state is contained within?",
+        "answer": "String"
+      },
+      {
+        "question": "What additional descriptive detail, aside from \"String Cheese\", is provided on the packaging about the cheese type?",
+        "answer": "Mozzarella"
+      },
+      {
+        "question": "What kind of information is predominantly visible on the back of the package, usually containing nutritional details?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Besides nutrition information, what other data is visibly printed on the back of the string cheese packaging?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "Observing the overall packaging design, is it minimalist, ornate, or somewhere in between?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Judging by the color scheme of the text on the packaging, what is the dominant accent color used?",
+        "answer": "Green"
+      },
+      {
+        "question": "What shape is the logo on the string cheese's packaging, ignoring any text inside?",
+        "answer": "Circular"
+      },
+      {
+        "question": "What is the color of the logo located near the top of the packaging, excluding any text within it?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the general weight or size indicated on the packaging's bottom, referencing the product's quantity?",
+        "answer": "1.5oz"
+      },
+      {
+        "question": "Based on the visible details, is the packaging design primarily intended to attract children or adults?",
+        "answer": "Adults"
+      }
+    ]
+  }
+]

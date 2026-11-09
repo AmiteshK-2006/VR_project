@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/44/449ba8c2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's visual characteristics, what is the overall color of the presented ingredients label?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Based on the image, what is the primary style of lettering used for the 'Ingredients' declaration?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Observing the label, what is the dominant color of the printed text detailing the product's components?",
+        "answer": "Black"
+      },
+      {
+        "question": "From a visual standpoint, what word precedes the colon in the description of the product's contents?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the visual descriptor for the type of blueberries listed as the ingredient, as seen on the label?",
+        "answer": "Wild"
+      },
+      {
+        "question": "According to the label's text, what is the stated condition of the berries used in the product, shown visually?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What single word describes the fruit type prominently featured in the image's text?",
+        "answer": "Blueberries"
+      },
+      {
+        "question": "Judging by the visual presentation, what is the general format of the displayed textual information?",
+        "answer": "List"
+      },
+      {
+        "question": "If focusing solely on visual aspects, is the text on the label presented in uppercase or lowercase letters?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Describe the visual appearance of the background surface upon which the text is printed.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What visual characteristic best describes the style of the text's font?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Based on the visual information, what is the surface's texture where the text is located?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on the provided image, is the text on the label in one or multiple lines?",
+        "answer": "One"
+      },
+      {
+        "question": "From a visual perspective, what is the apparent orientation of the label's text?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the apparent size of the printed text on the label, considering visual clues alone?",
+        "answer": "Small"
+      }
+    ]
+  }
+]

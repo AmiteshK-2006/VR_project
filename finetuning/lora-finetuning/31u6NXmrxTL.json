@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a4/a4a08df1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the depicted rectangular artwork?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What appears to be the primary artistic medium used in this piece?",
+        "answer": "Watercolor"
+      },
+      {
+        "question": "Describe the overall texture implied by the visible brushstrokes and color gradients?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the general shape of the presented framed image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the image's scale relative to the human figure, is it a large or small piece?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Based on visual cues, what seems to be the artistic style employed?",
+        "answer": "Abstract"
+      },
+      {
+        "question": "What is the apparent texture of the artwork's surface, based on the light reflection?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the color palette and style, what is the artwork’s overall mood or feeling?",
+        "answer": "Calm"
+      },
+      {
+        "question": "From the visible details, what is the apparent type of frame or border?",
+        "answer": "None"
+      },
+      {
+        "question": "Describe the level of detail present in the image's central subject matter?",
+        "answer": "Moderate"
+      },
+      {
+        "question": "Does the artwork incorporate discernible patterns or repetitions in its design?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the image exhibit a clear focal point or area of emphasis?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is there any significant text or lettering observable within the image?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the color variations, what might be the subject matter?",
+        "answer": "Landscape"
+      },
+      {
+        "question": "Are there any clearly defined, geometric forms within the composition?",
+        "answer": "No"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b5/b507d3ef.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the detailed visual presentation, what is the primary subject depicted in the image's central focus?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Based on the image's clear textual information, what specific dietary component's quantity is prominently displayed?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Observing the textual layout, what is the unit of measurement consistently used for the quantitative values?",
+        "answer": "Grams"
+      },
+      {
+        "question": "From the image's visual data, what is the total amount of carbohydrates per serving indicated?",
+        "answer": "11g"
+      },
+      {
+        "question": "What is the specified serving size of the product shown in the provided visual information?",
+        "answer": "Cup"
+      },
+      {
+        "question": "Judging by the text's organization, what is the nutritional content category indicated before the values for fat?",
+        "answer": "Total"
+      },
+      {
+        "question": "According to the image's text, what is the percentage daily value of total fat present in a single serving?",
+        "answer": "2%"
+      },
+      {
+        "question": "What specific element is listed as having a value of zero grams per serving?",
+        "answer": "Sugars"
+      },
+      {
+        "question": "Based on the image, what is the value indicated for dietary fiber per serving?",
+        "answer": "0g"
+      },
+      {
+        "question": "What is the amount of protein stated per serving, as visually evident from the text?",
+        "answer": "7g"
+      },
+      {
+        "question": "What vitamin's content, in mcg, is specified in the visual information provided?",
+        "answer": "D"
+      },
+      {
+        "question": "According to the image's details, what is the mineral listed alongside vitamin D?",
+        "answer": "Calcium"
+      },
+      {
+        "question": "What mineral, measured in mg, is presented at the very bottom of the visual data?",
+        "answer": "Potas"
+      },
+      {
+        "question": "What is the total number of servings approximately contained within the product's packaging, as visually displayed?",
+        "answer": "5"
+      },
+      {
+        "question": "Based on the image's visual textual information, what is the displayed unit of measurement for cholesterol?",
+        "answer": "mg"
+      }
+    ]
+  }
+]

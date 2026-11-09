@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/53/530d88fd.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the containers shown in the image?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What material appears to constitute the majority of the containers?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the overall shape of each individual container, ignoring the lid.",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the color of the flip-top lids on each container?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary function suggested by the design of these containers?",
+        "answer": "Storage"
+      },
+      {
+        "question": "What text is visible on the top of each container's lid?",
+        "answer": "SOSIMO"
+      },
+      {
+        "question": "Considering the containers' transparency, what can be easily seen through them?",
+        "answer": "Contents"
+      },
+      {
+        "question": "Describe the texture of the visible plastic surfaces of the containers.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "How many individual containers are depicted in the provided product image?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the apparent design feature present on the front of each container?",
+        "answer": "Lines"
+      },
+      {
+        "question": "What type of lid mechanism is visibly present on each container?",
+        "answer": "Flip-top"
+      },
+      {
+        "question": "What is the general appearance of the containers; are they opaque or translucent?",
+        "answer": "Translucent"
+      },
+      {
+        "question": "Judging from the image, what seems to be the primary use case of the product?",
+        "answer": "Food"
+      },
+      {
+        "question": "Considering the lid design, how is the container likely sealed and opened?",
+        "answer": "Manually"
+      },
+      {
+        "question": "What is the most prominent feature that indicates the containers' brand?",
+        "answer": "Logo"
+      }
+    ]
+  }
+]

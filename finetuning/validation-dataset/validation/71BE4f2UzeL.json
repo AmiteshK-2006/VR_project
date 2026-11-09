@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e1/e13cd190.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the dominant shape of this product container?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What color is the primary body of the product container, as visually apparent?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Based on visual inspection, what material appears to constitute the primary container?",
+        "answer": "Glass"
+      },
+      {
+        "question": "What color is the dispensing mechanism at the top of the bottle?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the material of the visible part of the dispensing mechanism?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the texture of the product container's surface, as visually apparent.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent type of closure or dispensing method present?",
+        "answer": "Pump"
+      },
+      {
+        "question": "Is there any labeling or text directly visible on the bottle's body?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Describe the color scheme of the visible labeling or text on the container.",
+        "answer": "Orange"
+      },
+      {
+        "question": "Is the label on the bottle predominantly transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Describe the overall size and scale of the product container as visually perceived.",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the apparent condition of the product container - new or used?",
+        "answer": "New"
+      },
+      {
+        "question": "Observing the details, are there any noticeable scratches or imperfections on the product?",
+        "answer": "No"
+      },
+      {
+        "question": "Are there any visible symbols or icons on the label other than text?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent style of the label's typography or font?",
+        "answer": "Sans-serif"
+      }
+    ]
+  }
+]

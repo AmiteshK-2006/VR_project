@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/92/92e3e755.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual presentation, what is the primary purpose of this rectangular item, as visually apparent?",
+        "answer": "Label"
+      },
+      {
+        "question": "Based on the visual prominence of the text, what is the dominant subject matter explicitly communicated?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Observing the textual arrangement, what is the implied organizational structure of the listed items?",
+        "answer": "List"
+      },
+      {
+        "question": "Judging from the visual style of the text, what is the likely intended audience for this information?",
+        "answer": "Consumers"
+      },
+      {
+        "question": "Given the text's visual characteristics, what is the likely medium or substrate on which this information is printed?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Focusing on the typography and visual density, what is the overall style of the text presentation?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the visual color scheme of the labeling, as captured by the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the visual contrast and legibility, what is the background color of the label, as observed in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the visual presentation, what is the likely format or type of this food-related information?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the font weight of the word 'INGREDIENTS', visually apparent in the label?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the visual orientation of the textual content within the rectangular label, as observable in the image?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the text size used for the principal listing of ingredients in the label, as determined visually?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the case style of the 'INGREDIENTS' header, visually identified in the product label?",
+        "answer": "Upper"
+      },
+      {
+        "question": "What is the general visual condition or state of the product's image, considering clarity, sharpness, and focus?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Considering the visual properties of the label's shape, what is the geometric form of the informational area?",
+        "answer": "Rectangle"
+      }
+    ]
+  }
+]

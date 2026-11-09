@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/64/64b4ed2c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the top-left sheet of paper?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the overall shape of each individual paper sheet?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the texture apparent on the bottom-left sheet, based solely on visual observation?",
+        "answer": "SlightlyRough"
+      },
+      {
+        "question": "What color is the paper sheet located in the top-right quadrant of the image?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What is the most vibrant color present among the four sheets of paper?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What is the general color tone of the bottom-right sheet?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "Considering the image, what material do the sheets appear to be made from?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Based on visual analysis, is there any discernible pattern on the sheets?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the image indicate any significant thickness variation between sheets?",
+        "answer": "No"
+      },
+      {
+        "question": "Are the sheets uniformly colored, or do they exhibit any significant tonal variations?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What is the approximate aspect ratio of the rectangular sheets?",
+        "answer": "Landscape"
+      },
+      {
+        "question": "Judging by the appearance, are the edges of the sheets straight or irregular?",
+        "answer": "Straight"
+      },
+      {
+        "question": "Do the colors displayed appear to be matte or glossy in finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on the visual inspection, are the sheets translucent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Does the image show any markings, writing or logos on the paper sheets?",
+        "answer": "No"
+      }
+    ]
+  }
+]

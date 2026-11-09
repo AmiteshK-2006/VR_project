@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/79/79888fb1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall color of the depicted item, considering its visible surface?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What appears to be the dominant text or marking present on the item?",
+        "answer": "PT06"
+      },
+      {
+        "question": "Considering the visual uniformity, what might be the implied texture of this item's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on its appearance, what is the most likely material composition of this product?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Judging by its lack of perceptible contours, what is the primary shape of this item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Given its plain appearance, can any prominent design elements be visually identified?",
+        "answer": "None"
+      },
+      {
+        "question": "Does the item present any visible patterns, lines, or other repetitive design features?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on visual cues, what is the apparent thickness or depth of this item?",
+        "answer": "Thin"
+      },
+      {
+        "question": "In terms of its visual characteristics, how would you describe the surface finish of this product?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Is there any evidence of a particular type of surface treatment or coating on the item?",
+        "answer": "No"
+      },
+      {
+        "question": "Are there any other noticeable markings or imprints aside from the main label?",
+        "answer": "None"
+      },
+      {
+        "question": "From the image, how would you classify the overall visual style of this product?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Does the image indicate any form of embellishment or additional decoration present?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image, what is the perceived weight of the item based on its visual qualities?",
+        "answer": "Light"
+      },
+      {
+        "question": "Considering its features, can you visually determine if the item has any functional elements?",
+        "answer": "No"
+      }
+    ]
+  }
+]

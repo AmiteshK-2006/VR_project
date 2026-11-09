@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ba/ba703f1b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the depicted surface?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall textural impression conveyed by the surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the subtle lines, what is the apparent grain direction?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Based on the visual uniformity, is the surface patterned or unpatterned?",
+        "answer": "Unpatterned"
+      },
+      {
+        "question": "Judging by the image, does the surface appear glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the visual impression of the surface's finish, considering the light reflection?",
+        "answer": "Subdued"
+      },
+      {
+        "question": "Does the image suggest any significant surface imperfections or irregularities?",
+        "answer": "None"
+      },
+      {
+        "question": "Observing the visual quality, how would you describe the surface's sheen?",
+        "answer": "Low"
+      },
+      {
+        "question": "Given the image quality, is the surface visibly textured or flat?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Does the surface appear to have any visible coating or treatment?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the light reflection, is the material opaque or translucent?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "From the visual evidence, what might be the material of the shown surface?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Does the image display a consistently even color distribution across the entire surface?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the main noticeable feature in the visual representation of the surface?",
+        "answer": "Grain"
+      },
+      {
+        "question": "How would you describe the general visual consistency of the surface shown in the picture?",
+        "answer": "Uniform"
+      }
+    ]
+  }
+]

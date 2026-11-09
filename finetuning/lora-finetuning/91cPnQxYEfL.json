@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/02/0241f2d1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the basketball, as shown in the provided image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the overall shape of the sporting good displayed?",
+        "answer": "Sphere"
+      },
+      {
+        "question": "Considering the visual texture, what material appears to comprise the basketball?",
+        "answer": "Leather"
+      },
+      {
+        "question": "What design element is prominently visible, dividing the ball into sections?",
+        "answer": "Panels"
+      },
+      {
+        "question": "Describe the color of the lines that separate the panels of the basketball.",
+        "answer": "Black"
+      },
+      {
+        "question": "Based solely on visual inspection, what is the apparent surface texture of the sphere?",
+        "answer": "Pebbled"
+      },
+      {
+        "question": "Focusing on the bottom panel, what type of markings are present?",
+        "answer": "Text"
+      },
+      {
+        "question": "Ignoring metadata, what is the apparent size of the ball relative to typical basketballs?",
+        "answer": "Standard"
+      },
+      {
+        "question": "Does the image show any visible damage or significant wear to the basketball?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the general condition of the basketball shown in the image?",
+        "answer": "New"
+      },
+      {
+        "question": "Judging from the image, is the basketball inflated or deflated?",
+        "answer": "Inflated"
+      },
+      {
+        "question": "Based on the image, what is the number of panels visible on the basketball?",
+        "answer": "Eight"
+      },
+      {
+        "question": "Are there any visible logos or brand markings besides the text on the bottom?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the image, what is the style of the lettering on the bottom panel?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the image, what is the relative glossiness of the basketball’s surface?",
+        "answer": "Slight"
+      }
+    ]
+  }
+]

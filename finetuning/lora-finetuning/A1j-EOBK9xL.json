@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c0/c0388445.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color observed across the entire fabric sample?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visible weave, what is the apparent texture of the material?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Based on the visual characteristics, what is the most likely fiber type?",
+        "answer": "Linen"
+      },
+      {
+        "question": "Describing the visual appearance, what is the overall finish of the fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging from the image, what is the implied weight or thickness of the fabric?",
+        "answer": "Medium"
+      },
+      {
+        "question": "From the image, what kind of visual pattern is subtly present in the weave?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Considering the uniformity, is there significant visual variation in the fabric's color?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the fabric exhibit any noticeable sheen or glossiness in the provided image?",
+        "answer": "No"
+      },
+      {
+        "question": "Is the weave of the fabric visibly loose or tightly constructed in the presented image?",
+        "answer": "Tight"
+      },
+      {
+        "question": "Judging by the image, is there a distinct visible pile or nap on the fabric's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "From visual inspection, does the fabric appear to have any visible imperfections?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image, does the fabric seem to have a smooth or rough hand-feel?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent directionality of the weave as depicted in the sample image?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Based on the provided image, what is the overall visual impression of the fabric?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Considering the image, is the fabric's color consistent throughout the entire sample?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

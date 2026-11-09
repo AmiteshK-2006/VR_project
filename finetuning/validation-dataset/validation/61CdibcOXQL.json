@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/40/40a8e6bb.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall shape and form, what best describes the container's geometry?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the predominant color of the substance contained within the transparent container?",
+        "answer": "Dark-grey"
+      },
+      {
+        "question": "What material appears to constitute the primary container holding the product?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on the image, what seems to be the texture of the substance inside?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Observing the label, what color is the prominent rectangular block?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What appears to be the general state of the substance inside the container?",
+        "answer": "Aggregates"
+      },
+      {
+        "question": "From a visual inspection, what type of container is used for packaging?",
+        "answer": "Jar"
+      },
+      {
+        "question": "What is the apparent form factor of the pieces of substance present?",
+        "answer": "Irregular"
+      },
+      {
+        "question": "Disregarding text, what is the overall color scheme of the packaging label?",
+        "answer": "Bilingual"
+      },
+      {
+        "question": "Judging from its appearance, what seems to be the purpose of the transparent cylinder?",
+        "answer": "Packaging"
+      },
+      {
+        "question": "Looking at the label's design, what is the most visible symbol?",
+        "answer": "Exclamation"
+      },
+      {
+        "question": "What appears to be the orientation of the label on the product container?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Considering the content's visual density, what is its apparent consistency?",
+        "answer": "Dense"
+      },
+      {
+        "question": "What kind of seal is noticeable at the top of the container?",
+        "answer": "Screw-top"
+      },
+      {
+        "question": "Based on the image's clarity, what is the level of transparency of the primary container?",
+        "answer": "Translucent"
+      }
+    ]
+  }
+]

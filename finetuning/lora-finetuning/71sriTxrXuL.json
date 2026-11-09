@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a1/a1b0c13c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall shape of the bread loaf as depicted in the provided image, what single word best describes its form?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visual details, what is the predominant color of the bread's crust, as accurately described by a single word?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What single word describes the material primarily used for packaging the bread loaf shown in the image?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Observing the label closely, what single word best describes the type of bread depicted in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "What single word describes the texture of the bread loaf, as visually suggested in the picture?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Focusing on the label's design, what single word best describes the pattern or symbol on the central graphic?",
+        "answer": "Circular"
+      },
+      {
+        "question": "What single word most accurately reflects the overall appearance of the bread loaf in terms of its apparent freshness?",
+        "answer": "Fresh"
+      },
+      {
+        "question": "From the image, what single word best describes the color of the text on the food packaging label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the visual features of the packaging, what is the primary color used in the design of the label?",
+        "answer": "Green"
+      },
+      {
+        "question": "What single-word best describes the apparent condition or state of the bread loaf in the image?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "What single word best represents the style of the label's design on the bread packaging shown?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Observing the label, what single word indicates a key characteristic of the ingredients used?",
+        "answer": "Organic"
+      },
+      {
+        "question": "According to the image, what single word best describes an additional ingredient in the bread?",
+        "answer": "Garlic"
+      },
+      {
+        "question": "What single word best represents the visible form of the bread packaging?",
+        "answer": "Bag"
+      },
+      {
+        "question": "Based on the visible details, what single word describes the overall presentation of the product in the image?",
+        "answer": "Neat"
+      }
+    ]
+  }
+]

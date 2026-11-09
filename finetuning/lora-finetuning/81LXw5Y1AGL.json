@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b9/b969cdd3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color scheme of the nutrition facts label?",
+        "answer": "White"
+      },
+      {
+        "question": "Examining the label's typography, what is the font style predominantly used for the nutritional information?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Focusing on the textual layout, what organizational structure is employed to present the supplement facts?",
+        "answer": "Tabular"
+      },
+      {
+        "question": "Based on the visual density of the text, how would you describe the level of detail provided regarding the supplement's composition?",
+        "answer": "Extensive"
+      },
+      {
+        "question": "Observing the textual elements, what is the primary language used throughout the supplement facts label?",
+        "answer": "English"
+      },
+      {
+        "question": "Analyzing the label's structure, what is the format used to present the 'Amount Per Serving' and '% Daily Value' data?",
+        "answer": "Columns"
+      },
+      {
+        "question": "From a visual perspective, what is the primary method used to separate the different nutritional components?",
+        "answer": "Lines"
+      },
+      {
+        "question": "What is the visual appearance of the text size for the 'Supplement Facts' heading compared to the rest of the label?",
+        "answer": "Larger"
+      },
+      {
+        "question": "Considering the label's overall visual style, what is the apparent level of professionalism it conveys?",
+        "answer": "High"
+      },
+      {
+        "question": "Focusing on the visual representation, how is the 'Serving Size' information visually distinguished from other data?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Looking at the visual elements, what is the shape of the container holding the nutritional supplement, as inferred from the label's shape?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Observing the text, what is the unit of measurement mainly used for 'Amount Per Serving' values?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What visual cue separates the 'Supplement Facts' section header from the rest of the content?",
+        "answer": "Spacing"
+      },
+      {
+        "question": "Analyzing the design elements, what is the general visual pattern of the nutritional information presentation?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the primary visual technique used to present the percentages relative to daily values?",
+        "answer": "Numbers"
+      }
+    ]
+  }
+]

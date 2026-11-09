@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/32/32980398.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what single word best describes the dominant textual style employed on the label?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Focusing solely on the visual appearance, what is the primary ingredient explicitly declared on the label?",
+        "answer": "Garlic"
+      },
+      {
+        "question": "Based on a purely visual assessment of the label, what is the background color of the text?",
+        "answer": "White"
+      },
+      {
+        "question": "What single word describes the typography style of the words 'INGREDIENTS' and 'PRODUCED'?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "From a visual standpoint, what is the color of the text on the label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Disregarding any context beyond the visual, what is the case of the lettering used throughout the label?",
+        "answer": "Upper"
+      },
+      {
+        "question": "Examining only the visible text, what is the format of the information presented?",
+        "answer": "List"
+      },
+      {
+        "question": "From a visual perspective, how many lines of text are clearly visible on this label?",
+        "answer": "Two"
+      },
+      {
+        "question": "In terms of visual prominence, what is the position of the word 'INGREDIENTS' relative to other elements on the label?",
+        "answer": "Top"
+      },
+      {
+        "question": "Considering visual characteristics alone, what kind of label is presented?",
+        "answer": "Food"
+      },
+      {
+        "question": "What single word best captures the overall visual texture of the label?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based only on visual attributes, what is the general orientation of the textual information?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "From a purely visual inspection, what is the shape of the label implied by the visible text?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging from the visual components, what is the apparent physical form of this item?",
+        "answer": "Label"
+      },
+      {
+        "question": "Considering the visible text alone, what term appears immediately after 'INGREDIENTS:'?",
+        "answer": "Garlic"
+      }
+    ]
+  }
+]

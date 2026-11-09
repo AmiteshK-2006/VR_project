@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/62/622de72d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual presentation, what is the dominant color scheme employed in the ingredient labeling?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the visual information provided, what specific spice is listed as an ingredient?",
+        "answer": "Cinnamon"
+      },
+      {
+        "question": "What adjective describes the type of cinnamon specifically mentioned in the product's ingredient list?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Analyzing the text's arrangement, what is the primary font style used in the ingredients declaration?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Observing the labeling, what additional information is given regarding the production facility's operations?",
+        "answer": "Processing"
+      },
+      {
+        "question": "From the provided text, which type of nut is mentioned as potentially being processed in the same facility?",
+        "answer": "Tree"
+      },
+      {
+        "question": "What dairy product is listed as a potential cross-contaminant in the manufacturing setting?",
+        "answer": "Milk"
+      },
+      {
+        "question": "Examining the allergen warnings, what grain is indicated as potentially present during production?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "According to the label, which legume is listed among the potential cross-contaminants?",
+        "answer": "Soy"
+      },
+      {
+        "question": "What is the overall layout of the text on the label?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the case of the lettering in the ingredient statement?",
+        "answer": "Upper"
+      },
+      {
+        "question": "What is the type of text presented?",
+        "answer": "Label"
+      },
+      {
+        "question": "What is the general orientation of the text blocks in this label?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the most prominent textual feature on this product?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Given the available information, what is the primary subject of the text?",
+        "answer": "Ingredients"
+      }
+    ]
+  }
+]

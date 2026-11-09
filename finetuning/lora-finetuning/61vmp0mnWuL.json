@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f6/f6e28748.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant visible color of the depicted pharmaceutical item?",
+        "answer": "Purple"
+      },
+      {
+        "question": "Considering the provided scale, what is the approximate diameter of the object shown?",
+        "answer": "One"
+      },
+      {
+        "question": "What is the most apparent shape characterizing the illustrated medicinal product?",
+        "answer": "Round"
+      },
+      {
+        "question": "Based on the image, what seems to be the primary texture of the shown pharmaceutical?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the visual details, what is the apparent surface finish of the pill?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Does the image suggest any noticeable pattern or design on the pill's surface?",
+        "answer": "None"
+      },
+      {
+        "question": "What seems to be the primary material used in the manufacturing of this object?",
+        "answer": "Compressed"
+      },
+      {
+        "question": "Judging from its visual characteristics, what is the likely form of this pharmaceutical?",
+        "answer": "Tablet"
+      },
+      {
+        "question": "What kind of visual marking or division is visible across the center of the pill?",
+        "answer": "Line"
+      },
+      {
+        "question": "Does the provided image showcase any visible imperfections or irregularities?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent overall visual condition of the object depicted in the image?",
+        "answer": "Intact"
+      },
+      {
+        "question": "In terms of visual presentation, how would you describe the overall clarity of the image?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Based solely on the visual, is the object shown whole or fragmented?",
+        "answer": "Whole"
+      },
+      {
+        "question": "Considering the color and form, what is the most salient visual aspect of the pill?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Based on the visual evidence, is the item displayed single or in a collection?",
+        "answer": "Single"
+      }
+    ]
+  }
+]

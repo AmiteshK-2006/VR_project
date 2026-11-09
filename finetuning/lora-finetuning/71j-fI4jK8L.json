@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d8/d873bac8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the displayed text on the supplement facts label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the overall label design, what is the dominant textual element concerning the product's nutritional content?",
+        "answer": "Supplement"
+      },
+      {
+        "question": "What is the shape of the individual units of the dietary supplement as described within the provided text on the label?",
+        "answer": "Softgels"
+      },
+      {
+        "question": "Based on the label's content, what specific type of fatty acid is prominently featured and quantified in milligrams?",
+        "answer": "Omega-3s"
+      },
+      {
+        "question": "What is the unit of measurement used to express the quantity of the various components, such as total fat and cholesterol?",
+        "answer": "mg"
+      },
+      {
+        "question": "What specific fatty acid is listed under the broader category of 'Omega-3s' and presented with its quantitative value?",
+        "answer": "EPA"
+      },
+      {
+        "question": "What word, besides 'Supplement Facts', appears most prominently at the top of the label?",
+        "answer": "Supplement"
+      },
+      {
+        "question": "What is the measurement unit for 'Total Fat' as shown in the nutrition facts?",
+        "answer": "g"
+      },
+      {
+        "question": "What is the measurement unit for the 'Calories' listed on this label?",
+        "answer": "Calories"
+      },
+      {
+        "question": "What is the secondary unit of measure used to describe the nutritional value of certain ingredients?",
+        "answer": "Percent"
+      },
+      {
+        "question": "What specific fatty acid is shown next to 'Docosahexaenoic Acid' in the nutrition facts?",
+        "answer": "DHA"
+      },
+      {
+        "question": "Disregarding the quantitative values, what is another term used to refer to the 'Daily Value' shown for each nutrient?",
+        "answer": "Percent"
+      },
+      {
+        "question": "What is the numerical value shown for 'Servings Per Containers'?",
+        "answer": "30"
+      },
+      {
+        "question": "What is the numerical value associated with 'Total Omega-3s'?",
+        "answer": "1660"
+      },
+      {
+        "question": "What is the other component of the Omega-3s family that has its amount expressed in mg?",
+        "answer": "Other"
+      }
+    ]
+  }
+]

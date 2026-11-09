@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5c/5ce69836.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the coffee table's top surface, as depicted in the provided line drawing?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the line drawing, what is the overall shape of the coffee table's top surface?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visual representation, what appears to be the primary material used for the coffee table's legs?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Does the coffee table, as shown in the image, feature a lower shelf for storage or display?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging from the illustration, what is the approximate number of legs supporting the coffee table?",
+        "answer": "Four"
+      },
+      {
+        "question": "In the provided line drawing, what seems to be the style of the coffee table's legs – thick or thin?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Observing the image, does the coffee table's design appear to be simplistic or ornate?",
+        "answer": "Simple"
+      },
+      {
+        "question": "According to the image, is the top surface of the coffee table flush or does it overhang the legs?",
+        "answer": "Overhang"
+      },
+      {
+        "question": "From the line drawing, what appears to be the general construction style of the coffee table?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Does the provided line drawing illustrate any visible ornamentation or carvings on the coffee table?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the visual representation, what is the overall aesthetic of the coffee table – modern or traditional?",
+        "answer": "Modern"
+      },
+      {
+        "question": "Considering the line drawing, does the coffee table appear to be of a low or high height profile?",
+        "answer": "Low"
+      },
+      {
+        "question": "Observing the image, is the lower shelf completely enclosed or open on all sides?",
+        "answer": "Open"
+      },
+      {
+        "question": "Judging from the illustration, are the legs of the coffee table tapered or straight?",
+        "answer": "Straight"
+      },
+      {
+        "question": "Based solely on the visual representation, is the line drawing of the coffee table presented in a three-dimensional or two-dimensional manner?",
+        "answer": "Three-dimensional"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2e/2e2a799c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the item's outer covering?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary material of the product's surface?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Describe the overall shape of the product when viewed from above?",
+        "answer": "Triangular"
+      },
+      {
+        "question": "What is the apparent texture of the visible outer material?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Considering the product's form, what is its probable function?",
+        "answer": "Support"
+      },
+      {
+        "question": "What type of packaging is immediately visible around the product?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the color of the packaging container in the image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Is there any visible branding or logo on the product itself?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on its visual features, what is the item's likely use location?",
+        "answer": "Seat"
+      },
+      {
+        "question": "Does the product show any signs of seams or stitching visible in the image?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What seems to be the material of the interior, visible through the opening?",
+        "answer": "Unknown"
+      },
+      {
+        "question": "Judging by its size, is this product likely for an adult or child?",
+        "answer": "Adult"
+      },
+      {
+        "question": "Considering the product's design, is it rigid or flexible in form?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "What kind of material is the box the product is packaged in constructed from?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Does the product seem to have any noticeable fasteners or closures?",
+        "answer": "No"
+      }
+    ]
+  }
+]

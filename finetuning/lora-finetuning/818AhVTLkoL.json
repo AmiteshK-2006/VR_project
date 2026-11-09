@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f9/f989df60.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant, visually apparent color of the folded fabric item shown?",
+        "answer": "Purple"
+      },
+      {
+        "question": "Considering the overall visual presentation, what is the most likely material type?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Based on the image's visual cues, what is the item's apparent primary shape?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging from the image, what is the texture of the folded fabric presented?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the visual details, how many visible layers of fabric are there?",
+        "answer": "Two"
+      },
+      {
+        "question": "Considering the image, what is the overall visual impression of the item's condition?",
+        "answer": "New"
+      },
+      {
+        "question": "Based on the visual clues, what does the folded fabric item appear to be?",
+        "answer": "Sheet"
+      },
+      {
+        "question": "From the image, what is the approximate thickness of the folded item?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Considering its visual attributes, does the item have any obvious patterns or prints?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the visuals, what is the visible state of the folded fabric's edges?",
+        "answer": "Neat"
+      },
+      {
+        "question": "Considering visual details, does the item appear to exhibit a sheen or gloss?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the visual presentation, is there any visible damage to the item?",
+        "answer": "No"
+      },
+      {
+        "question": "From the image, what would you describe as the overall visual quality of the item?",
+        "answer": "Plain"
+      },
+      {
+        "question": "What is the apparent visual level of detail or complexity in the fabric's design?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "Based on the image, is the item's color uniform across its visible surface?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

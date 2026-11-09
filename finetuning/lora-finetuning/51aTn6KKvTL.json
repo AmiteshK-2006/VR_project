@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8f/8fb2001a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the primary subject depicted in this image?",
+        "answer": "Label"
+      },
+      {
+        "question": "Observing the text's typographical characteristics, what is the style of the main heading?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Based on the visible text, what specific nutritional information is prominently displayed?",
+        "answer": "Vitamin"
+      },
+      {
+        "question": "Analyzing the text blocks, what unit of measurement is used to quantify the vitamin content?",
+        "answer": "mcg"
+      },
+      {
+        "question": "Judging by the textual layout, what is the primary purpose of this image's content?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Examining the textual content, what term describes the dosage form of the supplement?",
+        "answer": "Lozenge"
+      },
+      {
+        "question": "Considering the visual presentation, what is the background color of the informational label?",
+        "answer": "White"
+      },
+      {
+        "question": "By analyzing the font used, what is the dominant color of the text on the label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the overall layout, what is the orientation of the textual information on the label?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Based on the visible text, what is the percentage of the daily value provided by one serving?",
+        "answer": "8333"
+      },
+      {
+        "question": "Examining the image carefully, what is the specific form of vitamin B12 presented?",
+        "answer": "Cyanocobalamin"
+      },
+      {
+        "question": "Considering the visual structure, how many horizontal lines segment the different sections of information?",
+        "answer": "Three"
+      },
+      {
+        "question": "Focusing on the text detailing the serving size, how many lozenges constitute one serving?",
+        "answer": "One"
+      },
+      {
+        "question": "Analyzing the displayed text, what term indicates the summarized nutrient values?",
+        "answer": "Supplement"
+      },
+      {
+        "question": "Judging by the image, what is the general format of this visual information?",
+        "answer": "Table"
+      }
+    ]
+  }
+]

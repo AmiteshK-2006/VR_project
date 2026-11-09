@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/05/05e0a4da.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the predominant geometric shape exhibited by this object?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What appears to be the primary material composing the majority of this item, based on visual inspection?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Based on the visual evidence provided, what single word best describes the item's surface texture?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Disregarding any potential markings, what color best encapsulates the visible portion of this object?",
+        "answer": "Silver"
+      },
+      {
+        "question": "Observing the ends, what design feature or characteristic is noticeable on both terminal sections?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Analyzing the object's length in relation to its diameter, which descriptor is most appropriate for its overall proportions?",
+        "answer": "Slender"
+      },
+      {
+        "question": "Judging by the visual details provided, what is the most apparent finish applied to this object's surface?",
+        "answer": "Polished"
+      },
+      {
+        "question": "Considering its design elements and length, for what purpose might this item commonly be used?",
+        "answer": "Hardware"
+      },
+      {
+        "question": "If you were to describe its cross-sectional profile, what geometric term would best apply?",
+        "answer": "Circular"
+      },
+      {
+        "question": "Focusing exclusively on visual cues, what overall impression of weight does the product convey?",
+        "answer": "Lightweight"
+      },
+      {
+        "question": "Ignoring any labels or markings, is the product's surface visibly marked or patterned in any way?",
+        "answer": "No"
+      },
+      {
+        "question": "Based solely on its visual appearance, what type of manufacturing process was most likely employed in its creation?",
+        "answer": "Machined"
+      },
+      {
+        "question": "If the object had a functional purpose, what is the most likely way that the item would be grasped or manipulated by a user?",
+        "answer": "Gripped"
+      },
+      {
+        "question": "Does the visual information suggest that this item might be part of a larger assembly or mechanism?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Describe the visual clarity and definition of the object within the provided image.",
+        "answer": "Blurry"
+      }
+    ]
+  }
+]

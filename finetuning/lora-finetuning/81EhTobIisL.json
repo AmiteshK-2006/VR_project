@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c6/c676bc58.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant textual characteristic of the provided image?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Focusing on the textual elements, what is the primary purpose of the displayed text, as visually evident?",
+        "answer": "Listing"
+      },
+      {
+        "question": "Regarding the typography, what is the general font style used in the text, ignoring any stylistic variations?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Analyzing the textual arrangement, how would you visually describe the layout of the listed items?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Based on visual observation, what is the primary color of the text shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "From a visual perspective, does the text exhibit any notable text formatting styles, such as bolding or italics?",
+        "answer": "No"
+      },
+      {
+        "question": "By visually examining the image, what is the background color of the text display area?",
+        "answer": "White"
+      },
+      {
+        "question": "Judging from the visual representation of the text, does the image appear to depict a high- or low-resolution visual?",
+        "answer": "Low"
+      },
+      {
+        "question": "Considering the visual context, what is the apparent size of the text shown relative to a typical printed text?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the visual format of the text presented, considering whether it is a single line or multiple lines?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "From a visual standpoint, what is the most apparent visual element within the image?",
+        "answer": "Text"
+      },
+      {
+        "question": "Based on the visual presentation, is there any noticeable visual distortion or irregularity in the text?",
+        "answer": "No"
+      },
+      {
+        "question": "Visually observing the arrangement, what is the general shape of the main textual area or box?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based solely on the visual cues, what is the overall visual tone and style of the presented image?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Considering the visual elements, what is the visible language used in the presented text?",
+        "answer": "English"
+      }
+    ]
+  }
+]

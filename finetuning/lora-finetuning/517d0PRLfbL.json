@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fb/fbeffe1b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary purpose indicated on the label for this product?",
+        "answer": "Antacid"
+      },
+      {
+        "question": "What is the active ingredient listed per tablet, as shown on the label?",
+        "answer": "Calcium"
+      },
+      {
+        "question": "What is the shape of the information panel presented in the image?",
+        "answer": "Trapezoid"
+      },
+      {
+        "question": "What is the weight, in milligrams, of the active ingredient per tablet, according to the label?",
+        "answer": "750"
+      },
+      {
+        "question": "What is the predominant color scheme utilized in the textual presentation of the label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the type of text used to present the 'Drug Facts' header on the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What term is employed to introduce the active ingredient information on the label?",
+        "answer": "Active"
+      },
+      {
+        "question": "Besides 'Active Ingredient,' what other descriptive label heading is visible?",
+        "answer": "Purpose"
+      },
+      {
+        "question": "What is the unit of measurement specified for the listed active ingredient?",
+        "answer": "mg"
+      },
+      {
+        "question": "What is the overall textual style used for the information contained within the panel?",
+        "answer": "Formal"
+      },
+      {
+        "question": "What kind of information does the label primarily display concerning the product?",
+        "answer": "Pharmaceutical"
+      },
+      {
+        "question": "What is the background color of the label's informational panel, as visibly presented?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the visual style or design overall of the label, in terms of its arrangement?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Considering the label's visual design, what is the apparent intended audience?",
+        "answer": "Consumers"
+      },
+      {
+        "question": "What is the primary function suggested by the label for the product it describes?",
+        "answer": "Relief"
+      }
+    ]
+  }
+]

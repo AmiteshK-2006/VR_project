@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c8/c8edc8eb.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the folded textile item shown?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the visible texture, what is the apparent fabric type?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Based on its shape and folds, what type of bedding item is this?",
+        "answer": "Pillowcase"
+      },
+      {
+        "question": "Observing the seams, what is the stitch style along the edges?",
+        "answer": "Straight"
+      },
+      {
+        "question": "Judging by the overall visual impression, what is the fabric's sheen?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the visible number of seams present in the folded bedding?",
+        "answer": "Two"
+      },
+      {
+        "question": "Considering its size and fold, is this a standard size or a king?",
+        "answer": "Standard"
+      },
+      {
+        "question": "Given the material, would you describe the apparent texture as rough or smooth?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the item display any visible patterns or prints?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on its overall visual appearance, is the bedding item new or worn?",
+        "answer": "New"
+      },
+      {
+        "question": "What is the primary material, inferred from its look and feel?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Does this show any signs of significant creasing or wrinkling?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "What is the apparent overall condition of the item pictured?",
+        "answer": "Good"
+      },
+      {
+        "question": "Is there noticeable fraying visible at any edges or seams?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall form of the item, in terms of its geometry?",
+        "answer": "Rectangular"
+      }
+    ]
+  }
+]

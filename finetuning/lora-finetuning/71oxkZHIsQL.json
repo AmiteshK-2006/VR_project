@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/42/425ad2b3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what single word best describes the dominant color of this sofa?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Based on the image's texture, what material appears to be primarily used in the construction of this sofa?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "What is the most apparent overall shape of this furniture piece, judging only by its visible features?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging by the visible seams and padding, what is the most likely type of sofa shown?",
+        "answer": "Loveseat"
+      },
+      {
+        "question": "From the visible design elements, what is the predominant style of the sofa's legs?",
+        "answer": "Block"
+      },
+      {
+        "question": "What is the general visible texture of the sofa's upholstery?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering its visible features, does this sofa appear to be designed primarily for sitting or for a different function?",
+        "answer": "Sitting"
+      },
+      {
+        "question": "Based only on the visible appearance, what level of detail is evident in the design of this sofa's armrests?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "What is the visible orientation of the cushions on the visible portions of this sofa?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Considering the visible back, how would you describe the visible profile of this sofa?",
+        "answer": "Straight"
+      },
+      {
+        "question": "What is the apparent number of main seating areas on this sofa, solely based on visual inspection?",
+        "answer": "Two"
+      },
+      {
+        "question": "Describe the visible form of the sofa\u2019s back, judging from the image provided?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Judging from the image, what does the back portion of the sofa seem to lack?",
+        "answer": "Pillows"
+      },
+      {
+        "question": "What is the apparent condition of the visible parts of the sofa?",
+        "answer": "New"
+      },
+      {
+        "question": "Based purely on visual inspection of this sofa, what is its apparent size compared to other sofas?",
+        "answer": "Small"
+      }
+    ]
+  }
+]

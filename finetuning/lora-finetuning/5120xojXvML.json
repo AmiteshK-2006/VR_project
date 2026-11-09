@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bf/bfaadf0c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the font style and overall presentation, what best describes the label's visual style?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the primary color used for the text on the label, based solely on visual observation?",
+        "answer": "Black"
+      },
+      {
+        "question": "What single word accurately describes the background color of this product's label?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Disregarding context, what single word best encapsulates the shape of the label depicted?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based purely on visual inspection, what material appears to be used for the label?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the overall text alignment style used for the ingredients list on the label?",
+        "answer": "Left"
+      },
+      {
+        "question": "What is the case of the lettering used for the word 'INGREDIENTS' on the label?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Describe the visual texture of the label's surface shown in the image.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent size of the text, considering the visual details of the product label?",
+        "answer": "Small"
+      },
+      {
+        "question": "Excluding the word 'INGREDIENTS', what is the most frequently recurring word in the list?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the arrangement pattern of the listed ingredients on the label?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Does the font used on the label show any visible visual distortion or irregularities?",
+        "answer": "No"
+      },
+      {
+        "question": "What punctuation mark is used at the end of the entire ingredients statement?",
+        "answer": "Period"
+      },
+      {
+        "question": "What kind of information is predominantly displayed on the label?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Looking at the label's visual design, what is its primary function?",
+        "answer": "Informational"
+      }
+    ]
+  }
+]

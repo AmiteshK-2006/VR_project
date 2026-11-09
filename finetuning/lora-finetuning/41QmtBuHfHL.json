@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/63/63e8c7b5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary ingredient explicitly stated on the product label, as visually evident?",
+        "answer": "Semolina"
+      },
+      {
+        "question": "Based on the visible text, what other grain is a component of this product?",
+        "answer": "Durum"
+      },
+      {
+        "question": "According to the label's visible text, what vitamin is listed among the ingredients?",
+        "answer": "Niacin"
+      },
+      {
+        "question": "What mineral, shown in the label's ingredient list, is included for nutritional purposes?",
+        "answer": "Iron"
+      },
+      {
+        "question": "Can you identify any other vitamin explicitly mentioned within the visible ingredient list?",
+        "answer": "Riboflavin"
+      },
+      {
+        "question": "What additional vitamin is included in the product's composition, as shown in the visible text?",
+        "answer": "Folic"
+      },
+      {
+        "question": "Does the label clearly indicate any potential allergen contained within the product?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "What other substance is listed on the label as a possible cross-contaminant?",
+        "answer": "Eggs"
+      },
+      {
+        "question": "What chemical compound is included in the list of ingredients shown on the label?",
+        "answer": "Thiamin"
+      },
+      {
+        "question": "What is the overall font style used for the text on the food label, considering its visual characteristics?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the primary color of the text visible on the food label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Describe the background's visible texture of the product label.",
+        "answer": "Grainy"
+      },
+      {
+        "question": "What is the overall visual layout pattern of the text blocks on the product label?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Is the text on the food label arranged in a simple or complex structural manner?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the general shape of the rectangular area displaying the text on the label?",
+        "answer": "Rectangle"
+      }
+    ]
+  }
+]

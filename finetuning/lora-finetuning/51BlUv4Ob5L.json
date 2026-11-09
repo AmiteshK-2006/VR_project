@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e1/e15344e4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual presentation, what is the dominant color scheme employed in the labeling of this product?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the primary mode of textual presentation used to communicate product information on the label, judging from the image provided?",
+        "answer": "Print"
+      },
+      {
+        "question": "Based on the visible text's arrangement on the label, what is the most probable format of this product's descriptive text?",
+        "answer": "List"
+      },
+      {
+        "question": "Considering the font and lettering style, what can be said about the overall aesthetic tone of the product's label?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Given the image, what appears to be the surface texture of the label on which the product information is printed?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging solely from the image, what seems to be the physical form of the product's informational labeling?",
+        "answer": "Sticker"
+      },
+      {
+        "question": "From the visual details in the provided image, what can you infer about the material of the product's label based on its appearance?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Based only on the image, what is the overall shape and orientation of the product's label, as presented?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the density and arrangement of text on the label, what can be said about the level of detail in the product's information presented?",
+        "answer": "High"
+      },
+      {
+        "question": "From a purely visual standpoint, how would you characterize the style of the text's typeface used in the product labeling?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Given the image, can you comment on the overall visual clarity of the text printed on the product label?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Considering the visual attributes, what appears to be the approximate size of the text font utilized in the product labeling?",
+        "answer": "Small"
+      },
+      {
+        "question": "Considering the image, what is the most prominent visual feature of the product label besides the text?",
+        "answer": "None"
+      },
+      {
+        "question": "Judging by the visual cues, how would you describe the visual weight of the text on the product label?",
+        "answer": "Dense"
+      },
+      {
+        "question": "From a purely visual perspective, what appears to be the general condition of the product's label?",
+        "answer": "Intact"
+      }
+    ]
+  }
+]

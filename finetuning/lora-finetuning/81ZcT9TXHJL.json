@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/97/972a159c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the depicted fabric, based on its dominant shade in the image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the image's lighting and the fabric's appearance, what is the overall visual texture of the material?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the visible drape and folds, what is the apparent weight or thickness of the fabric?",
+        "answer": "Light"
+      },
+      {
+        "question": "Judging by the image, what is the most prominent visual characteristic of the fabric's structure?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the general appearance of the fabric's surface, considering the subtle variations in shade?",
+        "answer": "Sheer"
+      },
+      {
+        "question": "If you were to describe the fabric's visual transparency, what single word best captures that aspect?",
+        "answer": "Translucent"
+      },
+      {
+        "question": "Considering the light's interaction with the fabric, what would best describe its level of opacity?",
+        "answer": "Low"
+      },
+      {
+        "question": "From the image alone, what seems to be the likely fiber content based on the fabric's drape and appearance?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "What single word best describes the overall visual impression created by the subtle shading differences within the fabric?",
+        "answer": "Gradated"
+      },
+      {
+        "question": "Based solely on the visual properties shown, what seems to be the finish of the fabric (e.g., matte, glossy)?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What kind of visual effect does the light create on the vertical lines of the fabric?",
+        "answer": "Stripes"
+      },
+      {
+        "question": "Considering the image, what seems to be the intended use or application of this material?",
+        "answer": "Curtains"
+      },
+      {
+        "question": "What is the apparent degree of uniformity or consistency in the color and texture of the fabric?",
+        "answer": "Even"
+      },
+      {
+        "question": "From the way light interacts with the material, what can be inferred about its density?",
+        "answer": "Loose"
+      },
+      {
+        "question": "Considering the image's resolution and the detail visible, what is the discernible surface pattern of the fabric?",
+        "answer": "Plain"
+      }
+    ]
+  }
+]

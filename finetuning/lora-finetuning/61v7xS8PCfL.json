@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/40/4041ecaf.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the visible product surface?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary material used in the product's construction?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the overall three-dimensional form or shape of the object shown?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the edges and corners, what is the general style of the item?",
+        "answer": "Angled"
+      },
+      {
+        "question": "What kind of surface texture does the product's exterior seem to possess?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the image, how many distinct sides are clearly visible on the item?",
+        "answer": "Three"
+      },
+      {
+        "question": "Based on the image, does the item exhibit any significant patterns or designs?",
+        "answer": "None"
+      },
+      {
+        "question": "Does the product appear to have any noticeable markings, logos, or text?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the item show any signs of visible seams, joints or assembly points?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering its shape and potential function, how would you describe the item's profile?",
+        "answer": "Low"
+      },
+      {
+        "question": "From the image, does the material appear glossy, matte, or somewhere in between?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the apparent level of transparency or translucency of the product?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What is the general impression of the product's weight based on its appearance?",
+        "answer": "Light"
+      },
+      {
+        "question": "Judging by the image, is the product primarily designed for indoor or outdoor use?",
+        "answer": "Indoor"
+      },
+      {
+        "question": "What is the apparent thickness of the visible material?",
+        "answer": "Thin"
+      }
+    ]
+  }
+]

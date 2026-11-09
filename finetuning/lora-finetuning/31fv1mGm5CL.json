@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/75/7529c4bc.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall text layout, what is the dominant alignment of the words?",
+        "answer": "Left"
+      },
+      {
+        "question": "What is the primary color used in the text displayed within this image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the presented text, what is one of the listed ingredients?",
+        "answer": "Gelatin"
+      },
+      {
+        "question": "What is the font style of the text which says 'Other Ingredients'?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Observing the text closely, what is the case of the lettering?",
+        "answer": "Upper"
+      },
+      {
+        "question": "Considering the visual presentation of the words, what is the approximate size of the lettering?",
+        "answer": "Small"
+      },
+      {
+        "question": "Looking at the image, is the text printed on a textured or smooth background?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From the image, what can be visually determined about the clarity of the text?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Considering the composition of the text, how many lines of text are present?",
+        "answer": "One"
+      },
+      {
+        "question": "Based on the image provided, what is the type of text displayed - is it a paragraph or a list?",
+        "answer": "List"
+      },
+      {
+        "question": "By observing the visual spacing, describe the text's kerning (letter spacing)",
+        "answer": "Normal"
+      },
+      {
+        "question": "Considering the visual elements, what type of punctuation is predominantly used?",
+        "answer": "Comma"
+      },
+      {
+        "question": "Is the text in a single font or are multiple fonts visually apparent?",
+        "answer": "Single"
+      },
+      {
+        "question": "If the words were arranged differently, would they retain the same meaning?",
+        "answer": "No"
+      },
+      {
+        "question": "Regarding the visual details, what is the overall style of the text?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

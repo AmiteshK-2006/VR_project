@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c9/c9616784.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the provided image, what is the dominant color visually present in the majority of the image?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Based on the visual information, what appears to be the primary textural characteristic of the depicted item?",
+        "answer": "Linear"
+      },
+      {
+        "question": "From a visual standpoint, can you describe the overall shape or form of what is shown in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging solely from the image, what seems to be the most prominent visual element present?",
+        "answer": "Bars"
+      },
+      {
+        "question": "If analyzing the image only, what appears to be the general level of contrast among the visual elements?",
+        "answer": "Low"
+      },
+      {
+        "question": "When observing the image, what would you describe as the most noticeable visual pattern?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "In the image provided, what does the background primarily appear to be?",
+        "answer": "White"
+      },
+      {
+        "question": "By visual examination alone, what can be said about the clarity or sharpness of the visual details?",
+        "answer": "Blurry"
+      },
+      {
+        "question": "What is the apparent visual density of the elements contained within the image?",
+        "answer": "High"
+      },
+      {
+        "question": "Based only on visual observation, does the image suggest the presence of any specific symbols or logos?",
+        "answer": "No"
+      },
+      {
+        "question": "Visually analyzing the image, what would you say is the apparent visual saturation of the main color?",
+        "answer": "Low"
+      },
+      {
+        "question": "Based on visual examination, does there appear to be a significant variation in the visual elements' size?",
+        "answer": "No"
+      },
+      {
+        "question": "From a purely visual perspective, what best defines the visual arrangement of elements in the picture?",
+        "answer": "Ordered"
+      },
+      {
+        "question": "Judging visually, how would you describe the overall visual tone of the presented image?",
+        "answer": "Pale"
+      },
+      {
+        "question": "What appears to be the main subject's visual orientation within the provided image?",
+        "answer": "Horizontal"
+      }
+    ]
+  }
+]

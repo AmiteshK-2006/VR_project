@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ee/eef21d5f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual design, what is the predominant style of this product's label?",
+        "answer": "Informative"
+      },
+      {
+        "question": "What is the primary color used for the background of the nutrition facts panel?",
+        "answer": "White"
+      },
+      {
+        "question": "Focusing on the text, what is the most prominent font weight used for numerical values?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the color of the text that presents nutritional values?",
+        "answer": "Black"
+      },
+      {
+        "question": "Observing the layout, what is the dominant orientation of the text blocks?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the visual form of the data that is presented in this product information panel?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the overall shape of the nutrition information panel?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Examining the visual hierarchy, what is the size of the text for 'Calories' compared to other values?",
+        "answer": "Larger"
+      },
+      {
+        "question": "What is the text color used for the percentages of daily value?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the formatting style used for numerical values denoting grams or milligrams?",
+        "answer": "Number"
+      },
+      {
+        "question": "Regarding the typographic style, what is the type of font family used for the main text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What type of information is given within the 'Nutrition Facts' panel?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the unit of measurement used for 'Serving size'?",
+        "answer": "Ounces"
+      },
+      {
+        "question": "What is the visual characteristic of the lines separating the different nutritional components?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the visual format of the percentage values that represent the daily values?",
+        "answer": "Number"
+      }
+    ]
+  }
+]

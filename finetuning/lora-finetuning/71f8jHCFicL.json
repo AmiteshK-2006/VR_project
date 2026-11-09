@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/39/3997fdf3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the nutrition facts label, considering the text and background?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary font style used for the heading 'Nutrition Facts' on the label?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Considering the layout, what is the organizational structure used to present the nutritional information?",
+        "answer": "Tabular"
+      },
+      {
+        "question": "What is the texture of the label's surface, based on its visual appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall shape of this nutrition facts label section?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the visual elements, what is the overall style of the text and numbers on the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the material that the label appears to be printed on, given its visual characteristics?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the size of a single serving, according to the information visually presented on the label?",
+        "answer": "Tablespoon"
+      },
+      {
+        "question": "Based on visual inspection, what is the primary unit of measurement for quantities on the nutrition label?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the method of printing used on the label, inferred from the text's appearance?",
+        "answer": "Offset"
+      },
+      {
+        "question": "What is the numerical value displayed for calories per serving, clearly shown in the image?",
+        "answer": "Seventy"
+      },
+      {
+        "question": "What is the total amount of saturated fat per serving, as presented numerically on the label?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the visual representation of the percentage daily value for total fat, visually identifiable in the table?",
+        "answer": "Five"
+      },
+      {
+        "question": "What is the primary language used on this nutrition facts label?",
+        "answer": "English"
+      },
+      {
+        "question": "In terms of information density, how much information is contained within the label's visual space?",
+        "answer": "High"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/86/86f0d50a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the visual texture, what is the dominant surface quality of the product label?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the primary color scheme observed across the entire product label?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the visual appearance, what is the typeface used for the 'INGREDIENTS' heading?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Judging by the image, what is the general format or style of the text presentation?",
+        "answer": "List"
+      },
+      {
+        "question": "What color is the text in the ingredient list of the product?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the apparent print method used to print the text on the packaging?",
+        "answer": "Offset"
+      },
+      {
+        "question": "In the image, is there any noticeable variation in font size within the text block?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent material of the surface on which the product information is printed?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the visual style used to separate the ingredient list from the other text?",
+        "answer": "Spacing"
+      },
+      {
+        "question": "Judging from the image, how many main sections does the text block visually divide into?",
+        "answer": "Two"
+      },
+      {
+        "question": "Is there a visual border or frame around the ingredient list on the label?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the visual presentation of text, what is the overall level of detail of the ingredients?",
+        "answer": "High"
+      },
+      {
+        "question": "Considering the label's layout, what is the general organizational approach to listing ingredients?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the most prominent word displayed on the image and easily visually identifiable?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the overall shape of the visible portion of the product label?",
+        "answer": "Rectangular"
+      }
+    ]
+  }
+]

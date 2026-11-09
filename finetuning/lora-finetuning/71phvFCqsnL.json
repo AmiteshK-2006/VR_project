@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b0/b0cf53e0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary textual element displayed prominently on the food product's label?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Considering the visual layout, what specific dietary information is being highlighted on this food label?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Based on the image, what is the total number of calories present in a single serving of this food item?",
+        "answer": "25"
+      },
+      {
+        "question": "Observing the label, what is the measurement unit used to express the serving size of this food product?",
+        "answer": "Cup"
+      },
+      {
+        "question": "What is the specified weight, in grams, corresponding to a single serving of the food item as shown on the label?",
+        "answer": "85g"
+      },
+      {
+        "question": "In examining the label, what is the approximate number of servings contained within the entire package of the food product?",
+        "answer": "5"
+      },
+      {
+        "question": "Judging from the label, what is the value indicated for total fat in grams per serving of this food product?",
+        "answer": "0g"
+      },
+      {
+        "question": "According to the visual information, what is the quantity of saturated fat, in grams, per serving, as listed on the food label?",
+        "answer": "0g"
+      },
+      {
+        "question": "What is the amount of dietary fiber, in grams, per serving, as presented on the food label?",
+        "answer": "2g"
+      },
+      {
+        "question": "Based solely on the image, what is the amount of total sugar, in grams, per serving as specified on the product label?",
+        "answer": "2g"
+      },
+      {
+        "question": "What is the amount of protein, in grams, per serving as indicated on the food label?",
+        "answer": "2g"
+      },
+      {
+        "question": "According to the label's visual information, how much sodium, in milligrams, is contained in a single serving of this food product?",
+        "answer": "20mg"
+      },
+      {
+        "question": "Judging by the visual information provided, what is the percentage of the daily value for sodium contained in one serving of this product?",
+        "answer": "1%"
+      },
+      {
+        "question": "What is the color predominantly used for the text on this nutritional information label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the nutritional information label as displayed in the image?",
+        "answer": "Rectangular"
+      }
+    ]
+  }
+]

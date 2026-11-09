@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/23/23c74b39.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the printed text on the nutritional supplement facts label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the overall label design, what is the primary font style employed?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What shape is the primary layout of the nutritional information on the label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Observing the text blocks, what is the primary method of text organization?",
+        "answer": "Columns"
+      },
+      {
+        "question": "Based on the label's appearance, what is the overall impression of the printing quality?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the background color of the nutritional facts label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the stated serving size of the product as indicated on the label?",
+        "answer": "Two"
+      },
+      {
+        "question": "According to the label, what unit is used for measuring the total carbohydrate content per serving?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the measurement unit for Vitamin C content as listed on the label?",
+        "answer": "Milligrams"
+      },
+      {
+        "question": "What is the style of the 'Supplement Facts' header?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Describe the visual presentation of the percentage Daily Values in the table.",
+        "answer": "Numeric"
+      },
+      {
+        "question": "What is the orientation of the label, relative to the camera?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Judging from the text density and line spacing, what is the readability of the nutritional facts?",
+        "answer": "High"
+      },
+      {
+        "question": "What type of information is presented on the displayed label?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the visual characteristic of the asterisks used in footnotes on the label?",
+        "answer": "Small"
+      }
+    ]
+  }
+]

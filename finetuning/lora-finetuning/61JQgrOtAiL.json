@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/20/20964e20.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the text displaying the product's ingredients and calorie information?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the overall layout, what is the primary textual orientation of the nutritional information presented?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the font style employed for the header indicating the calorie content of the product?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the visual appearance, what is the overall tone conveyed by the text's color and font style?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Describe the visual texture of the background on which the product information is printed?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the approximate size of the text relative to the overall image dimensions?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the type of text used to present the list of ingredients, considering its style and formatting?",
+        "answer": "List"
+      },
+      {
+        "question": "What is the visual character of the text's arrangement, in terms of spacing and alignment?",
+        "answer": "Organized"
+      },
+      {
+        "question": "What visual element separates the 'Calorie Content' section from the 'Ingredients' section?",
+        "answer": "Spacing"
+      },
+      {
+        "question": "Is the text uniformly sized throughout the nutritional information display?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the style of capitalization employed in the ingredient list?",
+        "answer": "Sentence"
+      },
+      {
+        "question": "Judging by the text's arrangement, is the information prioritized in a specific order?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the visual format in which the calorie information is presented (e.g., fraction, decimal)?",
+        "answer": "Decimal"
+      },
+      {
+        "question": "Does the text display any visual enhancements or graphical elements aside from the text itself?",
+        "answer": "No"
+      },
+      {
+        "question": "What visual method is used to list multiple components within a single ingredient category (e.g., vitamins)?",
+        "answer": "Parentheses"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6f/6fce0aad.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color scheme used in the prominent labeling of the product's nutritional information, predominantly observed at the top and throughout the body of the text?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the overall structure and layout, what is the most apparent geometric form used to organize the nutritional details of this food item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary textual style employed throughout the nutrition facts panel, encompassing headings, values, and percentages?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Given the image's visual elements, what is the material type most likely used for the packaging or label of the product, judging by its surface and print quality?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Considering the visible information, what is the nutritional category highlighted in bold lettering and prominently featured at the top of the displayed panel?",
+        "answer": "Calories"
+      },
+      {
+        "question": "What is the measurement unit displayed consistently in the data representing total fat, saturated fat, and other fats within the given context?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Based on the textual content visible, which vital nutrient is specifically quantified in milligrams (mg) among various elements listed on the food label?",
+        "answer": "Sodium"
+      },
+      {
+        "question": "Considering the visual presentation of percentages, what is the maximum daily value percentage displayed among all listed nutritional components within the nutritional facts?",
+        "answer": "Fifteen"
+      },
+      {
+        "question": "What is the quantitative value, presented in grams (g), that is given for 'Total Sugars' within the displayed nutritional information of the product?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the unit of measurement employed for the vitamin D content, as visibly presented in the nutrition facts of this particular food item?",
+        "answer": "Micrograms"
+      },
+      {
+        "question": "What is the numerical value indicated for 'Protein' in grams (g), found within the visible nutritional data on the item?",
+        "answer": "Four"
+      },
+      {
+        "question": "Based solely on the visual elements, what is the method of presenting the nutritional value percentages, i.e., are they represented as fractions, decimals, or a different format?",
+        "answer": "Percentage"
+      },
+      {
+        "question": "What is the predominant style of text formatting observed throughout the body of nutritional data presented in the image (e.g., italic, bold, or regular)?",
+        "answer": "Regular"
+      },
+      {
+        "question": "What is the format in which the serving size is specified, based solely on its visual presentation on the label?",
+        "answer": "Fraction"
+      },
+      {
+        "question": "What is the numerical value representing the total number of servings contained within this product\u2019s packaging, as visually presented?",
+        "answer": "Ten"
+      }
+    ]
+  }
+]

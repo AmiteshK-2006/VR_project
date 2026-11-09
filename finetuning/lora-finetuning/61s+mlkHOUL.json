@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/19/19c63bc2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the packaging, primarily noticeable on the top and bottom sections?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the primary ingredient explicitly stated on the packaging, indicated in large font?",
+        "answer": "Raisins"
+      },
+      {
+        "question": "Considering the text and imagery, what is the overall nature of the product as presented on the packaging?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What secondary ingredient is listed below the primary ingredient, visibly part of the product's composition?",
+        "answer": "Sunflower"
+      },
+      {
+        "question": "Describe the shape of the raisins depicted on the upper right of the packaging, providing the most accurate geometrical term.",
+        "answer": "Oval"
+      },
+      {
+        "question": "What is the color of the raisins shown in the image, considering the overall hue and tonal variations?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What prominent logo is displayed at the top of the packaging, clearly recognizable as a brand identifier?",
+        "answer": "Wholefoods"
+      },
+      {
+        "question": "Based on the style of the text, how would you describe the overall aesthetic of the packaging design?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Considering the text's language and layout, where might this product be primarily sold?",
+        "answer": "USA"
+      },
+      {
+        "question": "What language, besides English, is explicitly shown on the packaging, denoting the ingredients?",
+        "answer": "German"
+      },
+      {
+        "question": "Considering the packaging design and the text present, what kind of farming is involved in producing the ingredients?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Given the text format, how many languages describe the product's ingredients on the packaging?",
+        "answer": "Four"
+      },
+      {
+        "question": "Considering the small details on the package, what additional information is provided about the product apart from the ingredients?",
+        "answer": "Weight"
+      },
+      {
+        "question": "What is the overall background color of the text present on the packaging?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the image, what is the texture of the raisins, as suggested by the small depiction on the packaging?",
+        "answer": "Wrinkled"
+      }
+    ]
+  }
+]

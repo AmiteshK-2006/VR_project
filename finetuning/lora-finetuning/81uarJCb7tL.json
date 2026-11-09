@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1f/1f808c3d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual appearance, what is the dominant color of this shoe?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the apparent primary material used in constructing the upper part of this shoe?",
+        "answer": "Canvas"
+      },
+      {
+        "question": "Focusing on the lacing system, what color are the shoelaces?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the image, what is the predominant texture of the shoe's upper?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Describe the shape of the shoe's toe box, considering the image's details?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What type of closure mechanism does this casual shoe employ, as shown visually?",
+        "answer": "Lace-up"
+      },
+      {
+        "question": "What is the visible color of the shoe's insole, as depicted in the product image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Judging from its overall style, what kind of footwear is this, as visually evident?",
+        "answer": "Sneaker"
+      },
+      {
+        "question": "What is the apparent material of the shoe's sole, from visual observation?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Describe the overall design of the shoe, considering its visible components?",
+        "answer": "Casual"
+      },
+      {
+        "question": "What small design element is noticeable near the laces on the shoe?",
+        "answer": "Logo"
+      },
+      {
+        "question": "Considering the visible structure, is the shoe's height categorized as high, mid, or low?",
+        "answer": "Low"
+      },
+      {
+        "question": "Based on the visible features, how would you categorize this shoe's style?",
+        "answer": "Slip-on"
+      },
+      {
+        "question": "What is the visible texture of the outer sole of this particular shoe?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging from the image, what is the visible style of the shoe's heel?",
+        "answer": "Flat"
+      }
+    ]
+  }
+]

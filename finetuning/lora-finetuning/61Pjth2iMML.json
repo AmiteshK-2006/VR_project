@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/dd/dd19567e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary descriptor of the cherries detailed on the label, considering the provided image?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Considering the image, what is the single-word description of the product's listed ingredient?",
+        "answer": "Cherries"
+      },
+      {
+        "question": "Based on the image, what is the color of the text indicating the product's ingredients?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the background color of the label in the image provided?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the word preceding the colon in the presented label text, as shown in the image?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Describe the style of the lettering used for the ingredients list, as visually observed in the provided image?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Judging by the image, what is the case of the text used on the label for the product's ingredients?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Looking at the image, what punctuation mark appears at the end of the ingredient statement?",
+        "answer": "Period"
+      },
+      {
+        "question": "What word, seen in the image, describes the nature of the cherries listed as the product's ingredient?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the visual texture of the background area in which the label is printed, as observed in the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image, how many words make up the ingredient declaration visible on the product label?",
+        "answer": "Two"
+      },
+      {
+        "question": "Based on the provided image, is the label text aligned to the left, right or center?",
+        "answer": "Left"
+      },
+      {
+        "question": "What is the visual appearance of the label's text in terms of clarity and readability, given the provided image?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the overall font weight or style of the displayed text considering the image?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Given the image, what is the overall impression of the label's design - simple or complex?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

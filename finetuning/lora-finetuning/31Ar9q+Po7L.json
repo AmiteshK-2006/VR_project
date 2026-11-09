@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d5/d50ff09b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color scheme of the packaging, as visually apparent?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the overall shape of the product's packaging, ignoring the minor details?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the primary material used for the product's packaging?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Considering the visible texture, what is the surface feel likely to be?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the visual pattern or design on the product packaging.",
+        "answer": "Geometric"
+      },
+      {
+        "question": "What color is the text predominantly displayed on the packaging?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the image, what seems to be the dominant texture of the packaging?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the overall style of the product's packaging design?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What seems to be the general size of the product shown in relation to a human hand?",
+        "answer": "Small"
+      },
+      {
+        "question": "Is there any noticeable embossing or debossing on the packaging surface?",
+        "answer": "No"
+      },
+      {
+        "question": "What kind of visual elements (if any) are used to add visual interest to the packaging?",
+        "answer": "Lines"
+      },
+      {
+        "question": "What is the orientation of the product displayed in the image?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Are there any visible seals or closures on the product packaging?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the approximate number of colors in the packaging design?",
+        "answer": "Three"
+      },
+      {
+        "question": "Does the packaging appear to have any reflective properties?",
+        "answer": "No"
+      }
+    ]
+  }
+]

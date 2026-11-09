@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8d/8dc5522b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the predominant color of the displayed item?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "Based on the image's texture, what is the apparent surface finish of the product?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging by the visual uniformity, what can be inferred about the product's surface texture?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From a purely visual standpoint, what material seems most likely to be used in this product's construction?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Does the image reveal any noticeable patterns or designs on the product's surface?",
+        "answer": "None"
+      },
+      {
+        "question": "Analyzing the image's edges, is the product's shape predominantly rectangular, square, or circular?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Does the product exhibit any visible glossiness or shine, considering the light reflection?",
+        "answer": "No"
+      },
+      {
+        "question": "Ignoring any potential external factors, what is the apparent thickness of the item shown?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Based on the image, is there any clear indication of any visible markings or imprints?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the image closely, does the product display any visible creases or folds?",
+        "answer": "No"
+      },
+      {
+        "question": "From the visual characteristics, what is the apparent weight or density of the product?",
+        "answer": "Light"
+      },
+      {
+        "question": "In terms of its overall form factor, how would you describe the product’s visual dimensionality?",
+        "answer": "Two-dimensional"
+      },
+      {
+        "question": "Judging purely from appearance, does the product appear to be rigid or flexible in nature?",
+        "answer": "Rigid"
+      },
+      {
+        "question": "Considering the visual details, is there any evidence of perforations or holes in the item shown?",
+        "answer": "No"
+      },
+      {
+        "question": "Given the image quality, is there any perceptible grain or fiber-like structure visible on the surface?",
+        "answer": "No"
+      }
+    ]
+  }
+]

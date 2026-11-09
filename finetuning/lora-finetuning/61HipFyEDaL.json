@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/be/be3afd50.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the dominant shape of this metallic component?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What single color best describes the finish of the displayed product?",
+        "answer": "Silver"
+      },
+      {
+        "question": "Based on visual appearance, what material seems most likely to be used in manufacturing?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Observing the surface texture, would you characterize it as rough or smooth?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the item's design incorporate any visible joints or seams?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Focusing on the larger end cap, what geometric shape would you use to describe it?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "In the image, is the cylindrical body uniform or does it exhibit variations in diameter?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Judging by its construction, what is the most probable function of this object?",
+        "answer": "Connector"
+      },
+      {
+        "question": "Describe the overall visual impression of the product's finish; is it glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the image, does the object show any engravings, logos, or markings?",
+        "answer": "No"
+      },
+      {
+        "question": "Examining the smaller end of the component, can you discern its shape with precision?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "From the provided view, is the object's length visibly uniform along its axis?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on its visual characteristics, would you describe it as a delicate or robust object?",
+        "answer": "Robust"
+      },
+      {
+        "question": "What is the apparent finish of the metallic material; is it brushed or polished?",
+        "answer": "Brushed"
+      },
+      {
+        "question": "Regarding the main body of the product, what is the most visible feature?",
+        "answer": "Length"
+      }
+    ]
+  }
+]

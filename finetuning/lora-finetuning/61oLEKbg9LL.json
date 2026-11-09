@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1f/1fadccec.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the main body of the textile item shown?",
+        "answer": "Navy"
+      },
+      {
+        "question": "What color is the visible trim or binding along the top edge?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What is the apparent texture of the primary fabric component?",
+        "answer": "Fuzzy"
+      },
+      {
+        "question": "Describe the overall shape of the item depicted in the provided close-up image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What seems to be the primary material or composition of this product?",
+        "answer": "Textile"
+      },
+      {
+        "question": "Considering the image, what is the visual appearance of the fabric's surface?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Is the color of the top border consistent throughout its visible length?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent thickness or density of the shown textile item?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Does the displayed item appear to be a finished product, or only a section?",
+        "answer": "Section"
+      },
+      {
+        "question": "Judging by the image alone, does the fabric have any visible pattern?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the detail, what is the nature of the edge finish?",
+        "answer": "Bound"
+      },
+      {
+        "question": "How would you describe the stitching or binding along the top?",
+        "answer": "Neat"
+      },
+      {
+        "question": "Based solely on the visual, what is the style of the visible trim?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What impression does the visual appearance give regarding product quality?",
+        "answer": "Good"
+      },
+      {
+        "question": "From the zoomed-in image, does the fabric seem to be tightly woven?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

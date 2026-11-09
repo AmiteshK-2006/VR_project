@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b3/b31abf9b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the bread slices visually apparent in this image?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the visible fillings, what primary protein is prominently featured in this sandwich?",
+        "answer": "Turkey"
+      },
+      {
+        "question": "Based on visual inspection, what leafy green is used as a filling component in this sandwich?",
+        "answer": "Lettuce"
+      },
+      {
+        "question": "What sliced red vegetable seems to be present among the fillings of this sandwich?",
+        "answer": "Tomato"
+      },
+      {
+        "question": "Judging by the appearance, what cured pork product is included as a filling in the sandwich?",
+        "answer": "Bacon"
+      },
+      {
+        "question": "What is the apparent shape of the main component of the food product displayed in this image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the texture of the bread, as evident in its visual presentation in the image?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Considering the filling arrangement, how many visible layers of filling exist within the sandwich?",
+        "answer": "Three"
+      },
+      {
+        "question": "What seems to be the visual appearance of the spread or sauce used within the sandwich?",
+        "answer": "Creamy"
+      },
+      {
+        "question": "What type of bread visually appears to be the base for this sandwich shown in the image?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "How many sandwiches are clearly visible and fully presented within the image's frame?",
+        "answer": "Two"
+      },
+      {
+        "question": "Considering visual evidence, what is the apparent general condition of the sandwiches?",
+        "answer": "Fresh"
+      },
+      {
+        "question": "From the visible ingredients, what appears to be the general style of this food product?",
+        "answer": "Club"
+      },
+      {
+        "question": "Based on the image, what seems to be the surface texture of the meat components?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent overall presentation style of the food items in the provided image?",
+        "answer": "Neat"
+      }
+    ]
+  }
+]

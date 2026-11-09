@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d6/d698bcdf.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the depicted material sample?",
+        "answer": "Navy"
+      },
+      {
+        "question": "Considering the visible texture, what is the most likely material type?",
+        "answer": "Felt"
+      },
+      {
+        "question": "Judging by the image, what is the overall surface texture of the material?",
+        "answer": "Coarse"
+      },
+      {
+        "question": "Based on the visual evidence, is the material shiny or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Describe the uniformity of the color across the material's surface.",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Does the material appear to have any discernible patterns?",
+        "answer": "No"
+      },
+      {
+        "question": "Can you visually assess if the material is thick or thin?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Considering the visual attributes, what is the implied softness of the material?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Does the material show any noticeable fibers or weaves?",
+        "answer": "No"
+      },
+      {
+        "question": "From the visual evidence, would you describe the material's drape?",
+        "answer": "Stiff"
+      },
+      {
+        "question": "Does the image suggest any visible irregularities in the material?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the visual appearance, what is the likely finish of the material?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What is the general visual impression made by the material's appearance?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Based on the image, how would you characterize the material's density?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Does the color appear to be vibrant or subdued?",
+        "answer": "Subdued"
+      }
+    ]
+  }
+]

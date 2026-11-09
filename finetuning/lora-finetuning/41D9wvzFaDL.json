@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ab/ab727ade.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's overall appearance, what is the primary color scheme used for the displayed ingredients list?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the most prominent label category displayed on the food product's packaging,  given the image shows only text?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Based on the visible text, what type of root is specifically mentioned in the ingredients list?",
+        "answer": "Robidos"
+      },
+      {
+        "question": "Looking at the label's typography, what descriptor is applied to these root ingredients?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Considering the flavorings present, what type of fruit's essence is added to the product?",
+        "answer": "Citrus"
+      },
+      {
+        "question": "What adjective describes the nature of the citrus flavorings incorporated into the product?",
+        "answer": "Natural"
+      },
+      {
+        "question": "Based on the text, what describes the composition of the list of the product's components?",
+        "answer": "List"
+      },
+      {
+        "question": "Judging from the visible text style, what is the overall style of the displayed text on the packaging?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Observing the given text, what is the case of all the letters utilized in the ingredients description?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Focusing on the label's presentation, is the text layout aligned to a specific side or direction?",
+        "answer": "Left"
+      },
+      {
+        "question": "What is the general font weight used for the text describing the product's contents?",
+        "answer": "Regular"
+      },
+      {
+        "question": "From the visual inspection, is there any indication of the product weight or quantity displayed in the image?",
+        "answer": "No"
+      },
+      {
+        "question": "Regarding the text, what punctuation is present after the final ingredient listed?",
+        "answer": "Period"
+      },
+      {
+        "question": "Looking solely at the image, are there any graphics or illustrations present besides text?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on visual assessment, what is the background color of the packaging label where the ingredients are listed?",
+        "answer": "Beige"
+      }
+    ]
+  }
+]

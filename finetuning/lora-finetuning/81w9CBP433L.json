@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3b/3bce6452.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the container holding the liquid?",
+        "answer": "Bottle"
+      },
+      {
+        "question": "What material appears to constitute the main body of the container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What color is the liquid visible through the transparent container?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the predominant color of the cap or lid on top?",
+        "answer": "White"
+      },
+      {
+        "question": "What type of closure is present at the opening of the container?",
+        "answer": "Cap"
+      },
+      {
+        "question": "Describing the surface texture of the plastic bottle, is it glossy or matte?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What is the general form of the labeling affixed to the container?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Is there any noticeable text or graphics present on the label?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the general color scheme of the label's background?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the overall design, would you classify the bottle as sleek or bulky?",
+        "answer": "Bulky"
+      },
+      {
+        "question": "What is the general orientation of the label on the container?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Is the label fully covering a significant part of the container?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What seems to be the primary function indicated by the bottle and label?",
+        "answer": "Container"
+      },
+      {
+        "question": "Based on the image, is the bottle completely full or partially full?",
+        "answer": "Full"
+      },
+      {
+        "question": "What kind of barcode is visible on the label?",
+        "answer": "UPC"
+      }
+    ]
+  }
+]

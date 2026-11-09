@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/99/99fdb12c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color scheme used throughout the product's labeling, considering the background and text?",
+        "answer": "Black"
+      },
+      {
+        "question": "What dominant shape best describes the overall configuration of this product's packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visual cues, what appears to be the main function of the product, judging by the text on the label?",
+        "answer": "Antiseptic"
+      },
+      {
+        "question": "What is the format of the product information displayed prominently on the product's packaging?",
+        "answer": "Text"
+      },
+      {
+        "question": "Considering the textual information, what seems to be the primary method for conveying product details?",
+        "answer": "List"
+      },
+      {
+        "question": "What kind of code is depicted prominently on the packaging for identification purposes?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "What is the general appearance of the text on the label, in terms of its style and formatting?",
+        "answer": "Plain"
+      },
+      {
+        "question": "What is the type of information mainly highlighted in the upper section of the product label?",
+        "answer": "Facts"
+      },
+      {
+        "question": "What specific section of the label explains the proper use of the product?",
+        "answer": "Directions"
+      },
+      {
+        "question": "What section lists any non-active components present in the product?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the general texture of the surface on which the information is displayed?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging from the visible text, what is the primary method suggested for contacting the manufacturer?",
+        "answer": "Contact"
+      },
+      {
+        "question": "What is the tone conveyed by the general style of the product label?",
+        "answer": "Informative"
+      },
+      {
+        "question": "What method is used to denote various sections of the label?",
+        "answer": "Headers"
+      },
+      {
+        "question": "What type of information appears at the bottom of the label to encourage customer feedback?",
+        "answer": "Questions"
+      }
+    ]
+  }
+]

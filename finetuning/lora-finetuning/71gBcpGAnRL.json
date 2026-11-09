@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/66/669ec8f1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color displayed on the washing instructions label?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the primary material that the label appears to be printed on?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Considering the visual texture, what is the likely surface finish of the label?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the dominant typeface style used in the label's text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What laundry instruction is prominently displayed in the upper right section of the image?",
+        "answer": "Washing"
+      },
+      {
+        "question": "Based on the icons and text, what is a primary care instruction shown?",
+        "answer": "Gentle"
+      },
+      {
+        "question": "What is the maximum washing temperature (in degrees Celsius) specified in the label?",
+        "answer": "30"
+      },
+      {
+        "question": "Considering the symbols, is bleaching permitted for the product?",
+        "answer": "No"
+      },
+      {
+        "question": "According to the label, is tumble drying allowed for this item?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the temperature setting recommended for ironing this item?",
+        "answer": "Low"
+      },
+      {
+        "question": "Does the label indicate the possibility of professional dry cleaning?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the brand name subtly shown at the bottom of the label?",
+        "answer": "UMI"
+      },
+      {
+        "question": "What word follows 'UMI' on the label's bottom?",
+        "answer": "Essentials"
+      },
+      {
+        "question": "What is the overall shape of the label shown in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Is there any imagery besides text and symbols on this label?",
+        "answer": "No"
+      }
+    ]
+  }
+]

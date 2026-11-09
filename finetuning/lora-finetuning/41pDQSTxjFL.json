@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6f/6f7b93d7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape and the clearly defined sections within the presented image, what is the dominant geometric form of the nutritional facts label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visual characteristics of the text, what is the dominant color scheme used for the printed nutritional information?",
+        "answer": "Black"
+      },
+      {
+        "question": "Observing the image's texture closely, what is the apparent surface texture of the label's paper material?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Given the visible design elements, what type of organizational structure is predominantly used to organize and present the nutritional information?",
+        "answer": "Tabular"
+      },
+      {
+        "question": "Focusing on the text's presentation, what is the primary typeface style used in presenting the data on calories, fat content, and other related nutritional values?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the text's attributes such as font size and spacing, what is the level of visual density in the nutritional information layout?",
+        "answer": "High"
+      },
+      {
+        "question": "Observing the arrangement of different sections in the nutritional information label, what is the visual hierarchy established through visual elements like size, weight and placement?",
+        "answer": "Hierarchical"
+      },
+      {
+        "question": "What is the primary method of information communication being used in this nutritional fact label to visually present the data?",
+        "answer": "Textual"
+      },
+      {
+        "question": "Analyzing the visible markings, what is the method used to visually represent the percentage values of different nutrients in relation to daily recommended intake?",
+        "answer": "Numbers"
+      },
+      {
+        "question": "Considering the overall visual presentation, what is the general aesthetic style of the nutritional fact label's design?",
+        "answer": "Informative"
+      },
+      {
+        "question": "From a visual perspective, is there any visual use of imagery or illustrations in addition to the numerical data in the nutrition facts panel?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the overall layout, what is the degree of visual complexity associated with the nutritional fact label's design and information structure?",
+        "answer": "Moderate"
+      },
+      {
+        "question": "Focusing on the readability, what is the level of contrast present between the text and the background color of the nutrition label, facilitating optimal readability?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the apparent visual condition or state of the nutritional facts label as depicted, in terms of damage, wear, or cleanliness?",
+        "answer": "Clean"
+      },
+      {
+        "question": "From a purely visual standpoint, what is the apparent level of visual clarity and legibility of the text used on the nutrition facts label?",
+        "answer": "High"
+      }
+    ]
+  }
+]

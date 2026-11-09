@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c1/c1cf0f11.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the textual information provided on the label, what primary ingredient is predominantly featured in this product?",
+        "answer": "Peanuts"
+      },
+      {
+        "question": "Based on the label's textual content, what additional ingredient is listed alongside peanuts?",
+        "answer": "Salt"
+      },
+      {
+        "question": "According to the textual information, what type of peanuts are used in this product's production?",
+        "answer": "Roasted"
+      },
+      {
+        "question": "What is indicated regarding the product's manufacturing facility on the image?",
+        "answer": "Facility"
+      },
+      {
+        "question": "Does the product label state that the manufacturing facility handles specific types of nuts?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What other type of nuts are processed in the facility stated on the label?",
+        "answer": "Tree"
+      },
+      {
+        "question": "What is the overall shape of the packaging as visually captured in this product's label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the most prominent color in this product's label?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe the overall text style applied throughout the text that is present on the label in the picture provided",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What kind of texture would you attribute to the surface of the product's packaging, based on its image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image, does the label provide a brand name or logo?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the visual appearance of the text on the label in terms of its clarity?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Considering the image, what printing method appears to have been used for the label?",
+        "answer": "Offset"
+      },
+      {
+        "question": "What is the general orientation of the text present on the product's label?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Considering the image, what seems to be the main purpose of the text on the product's label?",
+        "answer": "Informative"
+      }
+    ]
+  }
+]

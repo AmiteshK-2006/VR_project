@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5c/5c741e1c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual structure, what is the dominant organizational style of the presented nutritional information?",
+        "answer": "tabular"
+      },
+      {
+        "question": "What is the primary color used for the headings and prominent text blocks within the visual?",
+        "answer": "brown"
+      },
+      {
+        "question": "Observing the text layout, what is the font style primarily employed for the numerical values and data points?",
+        "answer": "bold"
+      },
+      {
+        "question": "Based on visual inspection, what is the text's alignment pattern within each row of the nutrition facts table?",
+        "answer": "right"
+      },
+      {
+        "question": "Focusing on the textual elements, what is the overall tone and presentation style of the provided information?",
+        "answer": "formal"
+      },
+      {
+        "question": "Considering the visual elements, what is the designated unit of measurement for the serving size in the given context?",
+        "answer": "cup"
+      },
+      {
+        "question": "Examining the visual representation of the nutritional information, what is the unit of measurement used for 'calories'?",
+        "answer": "calories"
+      },
+      {
+        "question": "By analyzing the visual composition, what is the unit of measurement employed for the 'total fat' content?",
+        "answer": "grams"
+      },
+      {
+        "question": "According to visual observation, what is the listed numerical value for 'calories' per serving?",
+        "answer": "200"
+      },
+      {
+        "question": "Based on the visual depiction, what is the unit of measurement used to denote the quantity of 'protein'?",
+        "answer": "grams"
+      },
+      {
+        "question": "From a visual perspective, what is the unit for 'vitamin D'?",
+        "answer": "mcg"
+      },
+      {
+        "question": "Analyzing the visual content, what is the unit of measurement for 'iron'?",
+        "answer": "mg"
+      },
+      {
+        "question": "What is the numerical value associated with 'Dietary Fiber', visually observed from the image?",
+        "answer": "2"
+      },
+      {
+        "question": "Focusing on the visual layout, what is the shape of the nutritional information panel?",
+        "answer": "rectangular"
+      },
+      {
+        "question": "What is the texture visually apparent on the presented nutritional information panel?",
+        "answer": "smooth"
+      }
+    ]
+  }
+]

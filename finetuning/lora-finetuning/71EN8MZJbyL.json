@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/13/13cb92dc.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the visible surface of the product?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What appears to be the primary material used in the construction of the filter?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the overall shape of each individual filter unit depicted in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What design feature is prominently displayed on the surface of the filter?",
+        "answer": "Lines"
+      },
+      {
+        "question": "What is the direction indicated by the arrow markings on the filter?",
+        "answer": "Down"
+      },
+      {
+        "question": "Based on visible text, what is the indicated function of this product?",
+        "answer": "Filter"
+      },
+      {
+        "question": "What text indicates the country of origin of the product?",
+        "answer": "China"
+      },
+      {
+        "question": "What is the texture of the visible surface, based on the image's resolution?",
+        "answer": "Woven"
+      },
+      {
+        "question": "What is the orientation of the visible parallel lines across the filter?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Can you visually confirm any markings which appear to be manufacturing dates?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the product appear to be comprised of multiple layers or sections?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the image show any indication of the product's intended application?",
+        "answer": "Air"
+      },
+      {
+        "question": "What is the visible arrangement of the multiple filters in the image?",
+        "answer": "Stacked"
+      },
+      {
+        "question": "Based on the product's markings, does it seem like a single-use or reusable item?",
+        "answer": "Single"
+      },
+      {
+        "question": "What is visible at the edges of the filter to suggest its structural integrity?",
+        "answer": "Frame"
+      }
+    ]
+  }
+]

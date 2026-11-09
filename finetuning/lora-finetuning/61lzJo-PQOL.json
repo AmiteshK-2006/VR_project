@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0a/0a680f67.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the tote bag shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What material appears to constitute the majority of the tote bag?",
+        "answer": "Canvas"
+      },
+      {
+        "question": "Considering the image, what is the overall shape of the presented tote bag?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visible design, what is the most prominent feature on the bag's surface?",
+        "answer": "Bottles"
+      },
+      {
+        "question": "Observing the image, what kind of handle does the bag possess?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Judging by the image, what seems to be the texture of the tote bag's material?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent style of the bottles depicted on the tote bag's surface?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Based solely on visual observation, how many bottles are depicted on the bag?",
+        "answer": "Three"
+      },
+      {
+        "question": "What seems to be the arrangement of the bottles depicted on the bag's surface?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the apparent design technique used to represent the bottles on the bag?",
+        "answer": "Print"
+      },
+      {
+        "question": "From the image provided, what is the general size of the tote bag shown?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Judging from its visual appearance, what is the bag's apparent weight capacity?",
+        "answer": "High"
+      },
+      {
+        "question": "Considering the image, is the bag's material transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Based on the image, what seems to be the bag's main intended use?",
+        "answer": "Carrying"
+      },
+      {
+        "question": "Does the bag seem to have any additional pockets or compartments visible?",
+        "answer": "No"
+      }
+    ]
+  }
+]

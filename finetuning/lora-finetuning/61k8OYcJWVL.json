@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ca/ca7b0653.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed material sample?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What natural material appears to be the primary component?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Considering the visible texture, what is the apparent finish of the leather?",
+        "answer": "Grained"
+      },
+      {
+        "question": "Based on the image, what is the overall visual impression of the leather's texture?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Describe the visual uniformity of the leather's color and texture across the sample.",
+        "answer": "Consistent"
+      },
+      {
+        "question": "What kind of visual imperfections, if any, are noticeable in the leather's surface?",
+        "answer": "Scratches"
+      },
+      {
+        "question": "How would you characterize the visual depth or richness of the leather's color?",
+        "answer": "Deep"
+      },
+      {
+        "question": "Judging by the image, what is the general tone of the shown leather's shade?",
+        "answer": "Warm"
+      },
+      {
+        "question": "Considering the lighting, how would you describe the leather's sheen or gloss?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Can you describe the visible pattern in the leather's grain or texture?",
+        "answer": "Irregular"
+      },
+      {
+        "question": "What visual characteristics suggest the leather's natural origin?",
+        "answer": "Organic"
+      },
+      {
+        "question": "From this image, is there evidence of any artificial coloring on the leather?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the leather sample appear to possess a discernible pattern or design?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent thickness of the leather based solely on its visual qualities?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Based on visual appearance, does the leather seem supple or rigid?",
+        "answer": "Supple"
+      }
+    ]
+  }
+]

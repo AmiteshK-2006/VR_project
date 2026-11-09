@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3b/3b39652c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what best describes the dominant color scheme employed in the product's labeling?",
+        "answer": "Orange"
+      },
+      {
+        "question": "Based on the visual texture, what would you describe the surface of the label as?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the primary language used in the textual information displayed on the product?",
+        "answer": "English"
+      },
+      {
+        "question": "What shape best characterizes the overall format of the nutritional information panel?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Observing the text's arrangement, what typography style is predominantly used throughout?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Regarding the text's legibility, how would you describe the overall readability of the nutritional facts?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the apparent visual orientation of the nutritional details provided on the product?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Considering the visual layout, where is the brand name prominently positioned on the product label?",
+        "answer": "Top"
+      },
+      {
+        "question": "What type of visual elements are used to separate different categories of nutritional information on the label?",
+        "answer": "Lines"
+      },
+      {
+        "question": "What is the general visual format of the 'Per 100g' and 'Per 20g' serving information?",
+        "answer": "tabular"
+      },
+      {
+        "question": "What is the visual tone or mood conveyed by the label's color palette and typography?",
+        "answer": "Friendly"
+      },
+      {
+        "question": "Does the labeling include any visual symbols or icons besides text, and if so what are they?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the visual design choices, does the labeling appear modern or outdated?",
+        "answer": "Modern"
+      },
+      {
+        "question": "Is the packaging material visibly glossy, matte, or somewhere in between?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging by the visible text and layout, what is the likely intended audience for this product?",
+        "answer": "Consumers"
+      }
+    ]
+  }
+]

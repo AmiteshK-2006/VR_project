@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/be/be8834cc.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the adhesive backing visible on the product?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of the main product component, excluding the adhesive?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What seems to be the primary material used for the main body of the item?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Considering the visible portion, what is the surface texture of the metallic part?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image, what is the color of the visible metallic surface?",
+        "answer": "Silver"
+      },
+      {
+        "question": "What appears to be the purpose of the peelable section on the product?",
+        "answer": "Adhesive"
+      },
+      {
+        "question": "What seems to be the overall color of the protective layer on the adhesive?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the apparent state of the adhesive, considering the peeled section?",
+        "answer": "Exposed"
+      },
+      {
+        "question": "What is the visible style of the adhesive's protective layer markings?",
+        "answer": "Text"
+      },
+      {
+        "question": "What can be seen regarding the thickness of the metal component?",
+        "answer": "Thin"
+      },
+      {
+        "question": "What is the apparent finish of the metal surface, glossy or matte?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Judging by the image, is the product flexible or rigid?",
+        "answer": "Rigid"
+      },
+      {
+        "question": "What appears to be the primary function of this product, judging from its features?",
+        "answer": "Adhesive"
+      },
+      {
+        "question": "What is the overall size of the product, relative to a human hand?",
+        "answer": "Small"
+      },
+      {
+        "question": "What type of protective covering is partially removed in the image?",
+        "answer": "Paper"
+      }
+    ]
+  }
+]

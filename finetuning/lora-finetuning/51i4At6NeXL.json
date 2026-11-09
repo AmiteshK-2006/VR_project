@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0f/0fe22de3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the text displayed on the product packaging?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What percentage of Swiss butter is explicitly mentioned in the product description?",
+        "answer": "23"
+      },
+      {
+        "question": "What language is used in the primary product description?",
+        "answer": "English"
+      },
+      {
+        "question": "How many additional languages are included in the product description, besides English?",
+        "answer": "Five"
+      },
+      {
+        "question": "What is the typeface style used for the main product description?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the overall tone or style of the packaging's typography?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the background color of the product packaging text?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe the formatting used for the additional language translations of the product description?",
+        "answer": "Brackets"
+      },
+      {
+        "question": "What is the visual texture of the background of the product's packaging?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the font and size, how would you describe the text's readability?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the overall design style of the packaging, in terms of its simplicity or complexity?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Describe the alignment of the text on the package; is it left, center, or right?",
+        "answer": "Center"
+      },
+      {
+        "question": "What is the case of the primary product description text (uppercase, lowercase, or title case)?",
+        "answer": "Title"
+      },
+      {
+        "question": "What is the color of the text on the product's packaging?",
+        "answer": "Black"
+      },
+      {
+        "question": "Ignoring the language codes, how many lines of text are present on the packaging?",
+        "answer": "Two"
+      }
+    ]
+  }
+]

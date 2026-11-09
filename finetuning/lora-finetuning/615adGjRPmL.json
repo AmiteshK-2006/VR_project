@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/37/37d72ef7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what single word best describes the dominant hue of the displayed product label?",
+        "answer": "Red"
+      },
+      {
+        "question": "Based on the image, what is the primary text content printed on the visible surface of the product?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What specific ingredient is prominently mentioned within the label's text, as depicted in the image?",
+        "answer": "Cinnamon"
+      },
+      {
+        "question": "Observing the textual layout on the product label, what descriptor best defines the type of the text?",
+        "answer": "Printed"
+      },
+      {
+        "question": "Judging by the image, what single word accurately captures the general formatting style of the printed label text?",
+        "answer": "Block"
+      },
+      {
+        "question": "From a visual standpoint, what is the implied status of the featured cinnamon ingredient as expressed on the label?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Considering the texture evident in the photograph, what single-word descriptor accurately reflects the appearance of the label's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent form of the product being presented, as directly observable in the image?",
+        "answer": "Label"
+      },
+      {
+        "question": "What is the visible color of the printed text, as observed on the product packaging?",
+        "answer": "Black"
+      },
+      {
+        "question": "What would accurately describe the general visual style used for the label\u2019s lettering?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What best captures the visible state of the printed text on the label, regarding its clarity or condition?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What visual element follows the word 'Ingredients' on the product's label?",
+        "answer": "Colon"
+      },
+      {
+        "question": "If you were to characterize the visual presentation of the product label text, what word would best express its nature?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What single word most accurately encapsulates the surface finish of the depicted packaging label?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the image, how can we describe the overall text arrangement of the ingredient information?",
+        "answer": "Linear"
+      }
+    ]
+  }
+]

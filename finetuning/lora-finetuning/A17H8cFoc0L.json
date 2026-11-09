@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/39/39a1e1f1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the image?",
+        "answer": "Pink"
+      },
+      {
+        "question": "Considering the texture, what is the apparent material of the sheet?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "What is the overall visual pattern displayed on the sheet's surface?",
+        "answer": "Grid"
+      },
+      {
+        "question": "Based on the image, what is the general weave type of the fabric?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Observing the folds, what is the fabric's implied drape or hand feel?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Describe the visual appearance of the fabric's surface texture.",
+        "answer": "Textured"
+      },
+      {
+        "question": "Does the fabric display any noticeable sheen or glossiness?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging from the image, what is the apparent weight or density of the fabric?",
+        "answer": "Light"
+      },
+      {
+        "question": "What is the visual characteristic of the fabric's color saturation?",
+        "answer": "Pale"
+      },
+      {
+        "question": "Considering the folds, what is the fabric's apparent flexibility or stiffness?",
+        "answer": "Drapey"
+      },
+      {
+        "question": "What type of visual detail is suggested by the subtle lines on the fabric?",
+        "answer": "Weave"
+      },
+      {
+        "question": "Judging from the image, what is the apparent thickness of the fabric?",
+        "answer": "Thin"
+      },
+      {
+        "question": "What is the most visible visual aspect of the fabric's structure?",
+        "answer": "Grid"
+      },
+      {
+        "question": "Considering the image, does the fabric show any visible seams or stitching?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the overall visual impression of the sheet's color tone?",
+        "answer": "Muted"
+      }
+    ]
+  }
+]

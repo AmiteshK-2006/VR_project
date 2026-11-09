@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/75/75f61ffa.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the packaging's label?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What is the overall shape of the product's packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material appears to constitute the main packaging?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the image, what seems to be the product's primary function?",
+        "answer": "Filtering"
+      },
+      {
+        "question": "Based on the visual, what is the texture of the packaging?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What type of illustrations are depicted on the packaging?",
+        "answer": "Diagrammatic"
+      },
+      {
+        "question": "What seems to be the color of the product inside the packaging?",
+        "answer": "White"
+      },
+      {
+        "question": "Does the packaging exhibit any noticeable transparency?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the appearance of the packaging's seal?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Judging by the visual, how many steps are shown in the diagram?",
+        "answer": "Four"
+      },
+      {
+        "question": "What is the general state of the packaging, unopened or opened?",
+        "answer": "Unopened"
+      },
+      {
+        "question": "Is there any text visible besides the diagram on the packaging?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the label, what type of product is suggested?",
+        "answer": "Filter"
+      },
+      {
+        "question": "What kind of printing technique appears on the packaging?",
+        "answer": "Inkjet"
+      },
+      {
+        "question": "Does the product packaging show any visible damage?",
+        "answer": "No"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e3/e3ab91bb.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the food item depicted on the package?",
+        "answer": "Reddish"
+      },
+      {
+        "question": "What appears to be the primary texture of the food product shown?",
+        "answer": "Porous"
+      },
+      {
+        "question": "Considering the image, what shape best describes the packaged food?",
+        "answer": "Round"
+      },
+      {
+        "question": "What is the apparent form of the food item presented in the packaging?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Based on visual inspection, what material is the food package primarily made of?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What color is the primary text on the food's packaging?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the overall shape of the entire packaged item shown?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Can you describe the apparent design style of the product packaging?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What seems to be the main brand name featured on the packaging?",
+        "answer": "Vedaka"
+      },
+      {
+        "question": "Judging by the image, what is the color of the smaller circle on the box?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the apparent background color of the packaging design?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "Does the image show any noticeable markings or patterns on the food itself?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the orientation of the product shown within the packaging.",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Based on visual cues, is the package mainly glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the general size of the packaging, relative to a human hand?",
+        "answer": "Small"
+      }
+    ]
+  }
+]

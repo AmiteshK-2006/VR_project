@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4c/4c3af9a7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular layout and the detailed nutritional information presented in a grid-like structure, what is the primary format of this product's label?",
+        "answer": "tabular"
+      },
+      {
+        "question": "Observing the prominent text at the top, what crucial information about the product's composition is prominently displayed?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Focusing on the numerical values throughout the label, what key aspect of the product's contents is extensively quantified?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Given the repetition of the abbreviation 'Og' in multiple rows, what specific nutritional component is consistently measured across various categories?",
+        "answer": "grams"
+      },
+      {
+        "question": "Looking at the consistently used percentages shown after each nutritional component, what standard is used for these percentage values?",
+        "answer": "Daily"
+      },
+      {
+        "question": "Noticing the consistent use of capital letters for certain words, what style is used for the main headings?",
+        "answer": "uppercase"
+      },
+      {
+        "question": "Based on the presence of various entries like 'Total Fat', 'Sugars', and 'Protein', what type of information is being communicated on this label?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Based on the mention of 'Serving size' and 'Amount per serving', what aspect of the product's consumption is being described?",
+        "answer": "portioning"
+      },
+      {
+        "question": "Observing the presence of numerous measurements with the '0g' value, what is the general nutritional profile of this food item as suggested by the absence of certain components?",
+        "answer": "lean"
+      },
+      {
+        "question": "Noting the presence of a numerical value of '35' under the 'Calories' label, what is the caloric value of one serving of this food item?",
+        "answer": "thirty-five"
+      },
+      {
+        "question": "Looking at the text indicating 'About 16 servings', what is the approximate number of servings in this product's packaging?",
+        "answer": "sixteen"
+      },
+      {
+        "question": "Considering the different entries listed under the heading 'Amount per serving', what is the style of this table?",
+        "answer": "vertical"
+      },
+      {
+        "question": "Examining the units used in '1 Tbsp (18g)', what is the unit of measurement used for serving size?",
+        "answer": "grams"
+      },
+      {
+        "question": "Considering the details of 'Vit. D' and other micronutrients, what overall nutrient profile of this product is presented?",
+        "answer": "vitamin"
+      },
+      {
+        "question": "Noticing the fine print at the bottom regarding daily values, what is indicated by this small text?",
+        "answer": "reference"
+      }
+    ]
+  }
+]

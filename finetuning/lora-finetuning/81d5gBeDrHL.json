@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b4/b4cf3994.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the background in the image?",
+        "answer": "Teal"
+      },
+      {
+        "question": "What is the primary text describing the information provided?",
+        "answer": "Instructions"
+      },
+      {
+        "question": "What is the main topic that the textual information relates to?",
+        "answer": "Washing"
+      },
+      {
+        "question": "What temperature in Celsius is specified for gentle cycle washing?",
+        "answer": "30"
+      },
+      {
+        "question": "Is bleaching allowed according to the instructions shown?",
+        "answer": "No"
+      },
+      {
+        "question": "Is tumble drying permitted based on the image's instructions?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the recommended ironing temperature?",
+        "answer": "Low"
+      },
+      {
+        "question": "Is professional dry cleaning an option according to the provided instructions?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What type of cycle is recommended for washing the item?",
+        "answer": "Gentle"
+      },
+      {
+        "question": "What is the brand name visible on the bottom left corner?",
+        "answer": "UMI"
+      },
+      {
+        "question": "What additional word follows 'UMI' indicating the product line?",
+        "answer": "Essentials"
+      },
+      {
+        "question": "What is the shape of the information boxes alongside the instructions?",
+        "answer": "Square"
+      },
+      {
+        "question": "What is the overall style of the text font used throughout?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What type of graphic symbols accompany each washing instruction?",
+        "answer": "Icons"
+      },
+      {
+        "question": "Considering the visual design, what is the overall feel or tone conveyed?",
+        "answer": "Clean"
+      }
+    ]
+  }
+]

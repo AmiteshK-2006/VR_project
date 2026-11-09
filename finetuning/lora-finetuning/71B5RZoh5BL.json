@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ca/caea06ac.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the packaging visible on the product's exterior?",
+        "answer": "Green"
+      },
+      {
+        "question": "What appears to be the primary material used for the product's immediate packaging?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the shape and form, what is the general geometric classification of the product inside?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on visual texture, what is the apparent surface quality of the food product itself?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What color is prominently displayed on the secondary label affixed to the packaging?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall transparency level of the plastic packaging encasing the item?",
+        "answer": "Semi-transparent"
+      },
+      {
+        "question": "Judging by the image, what is the approximate relative size of the item in relation to a standard hand?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Does the primary packaging show any significant creases or folds indicative of handling?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the hue, what is the main color of the visible food item within the packaging?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What is the apparent structural integrity of the packaging—is it intact or damaged?",
+        "answer": "Intact"
+      },
+      {
+        "question": "What kind of seal is visibly present on the packaging, suggesting a method of closure?",
+        "answer": "Heat-sealed"
+      },
+      {
+        "question": "What is the general textural impression of the plastic wrap, is it smooth or rough?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on its shape and dimensions, what is the suggested culinary form factor of the contents?",
+        "answer": "Fillet"
+      },
+      {
+        "question": "What style of graphic design is used on the outer label to convey product information?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Considering the visible elements, what is the overall state of the product packaging—used, new, damaged?",
+        "answer": "New"
+      }
+    ]
+  }
+]

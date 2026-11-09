@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/14/146b552f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the provided text, what primary ingredient is listed as a component of the product?",
+        "answer": "Rice"
+      },
+      {
+        "question": "What kind of capsule is mentioned in the ingredient list, concerning its source?",
+        "answer": "Vegetable"
+      },
+      {
+        "question": "Based on the text, what substance acts as a vegetable-based lubricant in the product?",
+        "answer": "Stearate"
+      },
+      {
+        "question": "According to the text, what other nut type might be present as a cross-contaminant?",
+        "answer": "Tree"
+      },
+      {
+        "question": "What dairy product is listed as a potential cross-contaminant during processing?",
+        "answer": "Milk"
+      },
+      {
+        "question": "Does the text indicate the presence of any poultry-related cross-contaminants?",
+        "answer": "Eggs"
+      },
+      {
+        "question": "What kind of seafood is identified as a potential cross-contaminant in the production?",
+        "answer": "Shellfish"
+      },
+      {
+        "question": "What type of fish is listed as a potential cross-contaminant due to processing?",
+        "answer": "Fish"
+      },
+      {
+        "question": "What grain is listed as a possible cross-contaminant in the production facility?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "What legume is named as a potential cross-contaminant due to the shared facility?",
+        "answer": "Soy"
+      },
+      {
+        "question": "What is the main text's color, considering its visual appearance?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall background of the text, based on visual observation?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the font style primarily used for the provided text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the text's arrangement on the page, with regard to its layout?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Based on appearance, what is the case of the letters in the provided text?",
+        "answer": "Upper"
+      }
+    ]
+  }
+]

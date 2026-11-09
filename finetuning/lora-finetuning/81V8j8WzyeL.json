@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d7/d7032b34.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the depicted rectangular object?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the object's visual texture, what is its apparent surface characteristic?",
+        "answer": "Mesh"
+      },
+      {
+        "question": "Based on the image, what is the overall geometric shape of the product shown?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging from the image, what material best describes the construction of this item?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Observing the repeated pattern, what design element characterizes this item's surface?",
+        "answer": "Grid"
+      },
+      {
+        "question": "Does the image suggest any noticeable gloss or sheen to the item's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the apparent primary functional purpose suggested by this item's design?",
+        "answer": "Decorative"
+      },
+      {
+        "question": "Considering the pattern's uniformity, how would you describe the visual regularity?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "From the image, can the product be described as having a transparent or opaque quality?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Observing the image, does this item appear to be flexible or rigid in nature?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Based solely on the visual evidence, what is the item's apparent thickness?",
+        "answer": "Thin"
+      },
+      {
+        "question": "What is the apparent scale of the grid pattern repeated across the item's surface?",
+        "answer": "Small"
+      },
+      {
+        "question": "Does the visual evidence suggest any discernible three-dimensional features?",
+        "answer": "Flat"
+      },
+      {
+        "question": "From the provided image, is the item's edge visibly finished or unfinished?",
+        "answer": "Unfinished"
+      },
+      {
+        "question": "Considering the image, does this item appear to be patterned or plain in its design?",
+        "answer": "Patterned"
+      }
+    ]
+  }
+]

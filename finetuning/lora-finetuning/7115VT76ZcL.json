@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/eb/eb60bc75.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape and the clearly defined text blocks, what is the primary form factor of this product's packaging?",
+        "answer": "Box"
+      },
+      {
+        "question": "Observing the color palette predominantly used for the background and text, what is the main color scheme employed?",
+        "answer": "Purple"
+      },
+      {
+        "question": "Focusing on the textual content, what is the primary function or purpose indicated for this product?",
+        "answer": "Analgesic"
+      },
+      {
+        "question": "Based on the textual details provided, what is the main relief this product aims to provide?",
+        "answer": "Itching"
+      },
+      {
+        "question": "Examining the textual layout, what kind of document is this predominantly?",
+        "answer": "Label"
+      },
+      {
+        "question": "Considering the multiple distinct sections present (e.g., Active Ingredients, Directions), what is the most likely product classification based on the presented information?",
+        "answer": "Medication"
+      },
+      {
+        "question": "Regarding the content of the text blocks, what is the indicated usage type for this product?",
+        "answer": "External"
+      },
+      {
+        "question": "Based on the structured information provided, what is the style in which the product information is presented?",
+        "answer": "Informational"
+      },
+      {
+        "question": "Considering the typeface and text size used throughout the document, how would you characterize the overall legibility of the textual content?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Analyzing the textual structure, what is the design methodology used to organize the given information?",
+        "answer": "Categorical"
+      },
+      {
+        "question": "Observing the small printed text sections, what type of detail is predominantly communicated?",
+        "answer": "Instructional"
+      },
+      {
+        "question": "Based on the nature of the information provided, what is the intended audience for this packaging information?",
+        "answer": "Consumers"
+      },
+      {
+        "question": "Considering the overall appearance of the product's packaging label, what is the design style primarily employed?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Based on the presence of active ingredients listed, what is the type of product this is?",
+        "answer": "Ointment"
+      },
+      {
+        "question": "Considering the warnings section, what is one key precaution mentioned related to usage?",
+        "answer": "Avoid eyes"
+      }
+    ]
+  }
+]

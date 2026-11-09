@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4a/4abf8db9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual design, what is the primary purpose of this rectangular label?",
+        "answer": "Information"
+      },
+      {
+        "question": "What is the most prominent number displayed on the nutrition facts label, indicating the caloric content per serving?",
+        "answer": "120"
+      },
+      {
+        "question": "Focusing on the text, what is the designated measurement unit for the serving size of the product shown?",
+        "answer": "Tbsp"
+      },
+      {
+        "question": "Based on the label's organization, what is the primary subject matter conveyed on this rectangle?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the dominant color used for the text and numbers on the nutrition label's background?",
+        "answer": "Black"
+      },
+      {
+        "question": "Observing the layout, what specific type of nutritional information does this label provide?",
+        "answer": "Facts"
+      },
+      {
+        "question": "What is the text that is used to label the serving size information on the product label?",
+        "answer": "Serving"
+      },
+      {
+        "question": "Examining the text and layout, what dietary component has a value of 0g according to the label?",
+        "answer": "Protein"
+      },
+      {
+        "question": "What is the text label used to introduce the caloric information per serving on this nutritional label?",
+        "answer": "Calories"
+      },
+      {
+        "question": "What is the textual descriptor used to identify the percentage of daily value for each nutrient on this nutrition label?",
+        "answer": "DV"
+      },
+      {
+        "question": "What is the value, in grams, listed for total fat content per serving, as shown on the nutrition label?",
+        "answer": "14g"
+      },
+      {
+        "question": "What is the unit used to measure the amount of saturated fat, as presented on the nutrition information label?",
+        "answer": "g"
+      },
+      {
+        "question": "What textual element is used to label the 'sodium' content information on the label?",
+        "answer": "Sodium"
+      },
+      {
+        "question": "What is the numerical value indicating the percentage of the daily value (%DV) for total fat, based on the nutrition label provided?",
+        "answer": "18%"
+      },
+      {
+        "question": "What is the value, in grams, of monounsaturated fat per serving according to the nutrition label?",
+        "answer": "10g"
+      }
+    ]
+  }
+]

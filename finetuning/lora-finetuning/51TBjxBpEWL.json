@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a8/a879e087.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular layout and the detailed textual content, what is the dominant shape of the presented product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visual texture and lack of glossy sheen, what is the apparent material of the surface?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Given the prominent 'Nutrition Facts' header and the tabular data beneath, what is the primary function of this item?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Analyzing the font style, size and weight, how would you describe the overall text presentation?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Observing the color palette, what is the predominant shade of the background?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Focusing on the textual elements, what is the primary color of the text throughout?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the uniformity of the data arrangement, how is the information structured?",
+        "answer": "Tabular"
+      },
+      {
+        "question": "What is the style of the text used for the main title of the presented information?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Examining the level of detail within the textual information, how is the information presented?",
+        "answer": "Detailed"
+      },
+      {
+        "question": "By observing the various data points such as fats, sugars, and proteins, what category of information is displayed?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the format of the presented nutritional facts, given the rows and columns visible?",
+        "answer": "Table"
+      },
+      {
+        "question": "In terms of visual prominence, what is the textual weight or boldness of the header section?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Looking at the arrangement of information,  how is the data organized in terms of sections?",
+        "answer": "Categorical"
+      },
+      {
+        "question": "Observing the spacing between lines and columns, what is the overall design aesthetic?",
+        "answer": "Organized"
+      },
+      {
+        "question": "Considering the presence of percentages and quantitative data, what kind of units are employed throughout?",
+        "answer": "Grams"
+      }
+    ]
+  }
+]

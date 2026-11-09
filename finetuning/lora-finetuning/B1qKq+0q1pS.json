@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e4/e48c2190.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the fabric shown in the image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the weave and fiber, what is the apparent texture of this fabric?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Based on its visual appearance, what is the likely material composition of this textile?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "Does the fabric display a uniform or variegated color distribution across its surface?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Observing the image closely, what is the general feel or hand of the fabric?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the image, is the fabric's surface characterized by a distinct pattern?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the visible fibers, is the fabric dense or loosely woven?",
+        "answer": "Dense"
+      },
+      {
+        "question": "In terms of visual appearance, how would you describe the sheen of the fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "From the image, does the fabric appear thick or thin?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Based on the image, is there a noticeable pile or nap on the fabric's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the image provided, what is the overall visual weight of the fabric?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "Does the fabric's appearance suggest it is suitable for upholstery or apparel?",
+        "answer": "Upholstery"
+      },
+      {
+        "question": "Considering the image, how would you describe the visual clarity or definition of the fabric's weave?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Based on the image, is the fabric's color even across its area?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the fabric show any obvious imperfections or inconsistencies in its weave?",
+        "answer": "No"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5b/5b87a5f6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary ingredient visibly declared on the product's label?",
+        "answer": "Flour"
+      },
+      {
+        "question": "Considering the listed ingredients, what is a major allergen explicitly stated?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "Based on the ingredient list, which grain besides wheat is prominently included?",
+        "answer": "Barley"
+      },
+      {
+        "question": "What additive is identified as a preservative in the ingredient list?",
+        "answer": "Calcium"
+      },
+      {
+        "question": "What type of oil is listed among the ingredients of this product?",
+        "answer": "Soybean"
+      },
+      {
+        "question": "What vitamin is mentioned in the ingredient list, specifically B1?",
+        "answer": "Thiamin"
+      },
+      {
+        "question": "What is another vitamin in the ingredient list, specifically B2?",
+        "answer": "Riboflavin"
+      },
+      {
+        "question": "What acid is included in the long list of ingredients?",
+        "answer": "Citric"
+      },
+      {
+        "question": "What mineral is indicated as being part of the enriched wheat flour?",
+        "answer": "Iron"
+      },
+      {
+        "question": "What is listed as another common ingredient in addition to sugar and yeast?",
+        "answer": "Water"
+      },
+      {
+        "question": "What is the name of the other prominent allergen indicated on the label?",
+        "answer": "Soy"
+      },
+      {
+        "question": "What chemical is present that acts as an emulsifier?",
+        "answer": "Monoglycerides"
+      },
+      {
+        "question": "What type of acid is utilized, relating to grain processing?",
+        "answer": "Vinegar"
+      },
+      {
+        "question": "What is included to enhance the overall texture and structure?",
+        "answer": "Gluten"
+      },
+      {
+        "question": "What compound acts as a stabilizer and emulsifier in the product?",
+        "answer": "Lecithin"
+      }
+    ]
+  }
+]

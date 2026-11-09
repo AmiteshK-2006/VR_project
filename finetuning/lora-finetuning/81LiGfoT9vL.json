@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d9/d922206e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual layout, what is the predominant orientation of the text within the image?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Focusing on the textual content, what is the primary subject matter described extensively in the image?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Analyzing the typography, what is the dominant font style employed for the main headings and subheadings?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Observing the text blocks, what specific category of food item is prominently featured among the ingredients?",
+        "answer": "Cheese"
+      },
+      {
+        "question": "Examining the textual information, what type of dairy product is explicitly identified as a constituent?",
+        "answer": "Milk"
+      },
+      {
+        "question": "Based on the ingredient list, what culinary herb is mentioned among the other components?",
+        "answer": "Basil"
+      },
+      {
+        "question": "According to the text, which aromatic spice is listed among the various ingredients?",
+        "answer": "Oregano"
+      },
+      {
+        "question": "From the provided information, what common vegetable is explicitly included among the main ingredients?",
+        "answer": "Tomatoes"
+      },
+      {
+        "question": "Considering the text, what kind of oil is listed as an ingredient in the recipe?",
+        "answer": "Olive"
+      },
+      {
+        "question": "What is the main flavor profile that the text suggests, referring to the list of ingredients?",
+        "answer": "Italian"
+      },
+      {
+        "question": "Based on the content, what type of cheese is specifically listed among the various cheeses?",
+        "answer": "Parmesan"
+      },
+      {
+        "question": "Referring to the text, what other cheese variant is mentioned alongside others?",
+        "answer": "Romano"
+      },
+      {
+        "question": "What other cheese type is specifically identified amongst the ingredients?",
+        "answer": "Provolone"
+      },
+      {
+        "question": "According to the text, what additional cheese is included in the ingredient list?",
+        "answer": "Muenster"
+      },
+      {
+        "question": "What is the overall tone and style of the textual information presented in the image?",
+        "answer": "Informative"
+      }
+    ]
+  }
+]

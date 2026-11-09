@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5b/5be84382.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the packaging, as observed from the provided image?",
+        "answer": "Green"
+      },
+      {
+        "question": "Considering the packaging's design, what is the primary shape of the product container shown?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visual texture, what would you describe the surface of the packaging as?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What style of lettering is predominantly used on the packaging, as visually apparent?",
+        "answer": "Script"
+      },
+      {
+        "question": "What specific type of soup is indicated on the packaging, as visually identifiable?",
+        "answer": "Chicken"
+      },
+      {
+        "question": "What preparation style of the soup is explicitly stated on the package, based on visual observation?",
+        "answer": "Thai"
+      },
+      {
+        "question": "From the visual elements, what additional ingredient is explicitly mentioned, aside from chicken?",
+        "answer": "Coconut"
+      },
+      {
+        "question": "What is the brand name printed on the product's packaging, according to the image?",
+        "answer": "Prime"
+      },
+      {
+        "question": "According to the visual details, what word precedes the brand name on the package?",
+        "answer": "Wickedly"
+      },
+      {
+        "question": "What instruction is visible on the top of the package, guiding the consumer on how to open it?",
+        "answer": "Lift"
+      },
+      {
+        "question": "Can you identify a specific type of mushroom listed among the ingredients on the package?",
+        "answer": "Shiitake"
+      },
+      {
+        "question": "What type of potato is specifically mentioned as an ingredient on the packaging?",
+        "answer": "Red"
+      },
+      {
+        "question": "From a visual assessment, what word describes the color of the chicken used in the soup?",
+        "answer": "White"
+      },
+      {
+        "question": "Besides the main ingredients, is there any additional labeling on the package related to Amazon?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the packaging's design, what kind of material appears to be used for the container?",
+        "answer": "Cardboard"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d4/d40b2226.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color visually apparent on the product's packaging?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Judging by the image, what appears to be the primary material of the container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on the visible text, what is the product's designated volume?",
+        "answer": "500ml"
+      },
+      {
+        "question": "Considering the image, what shape best describes the product's packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "From the visual inspection, what language is predominantly used on the label?",
+        "answer": "Japanese"
+      },
+      {
+        "question": "Does the packaging show any noticeable texture or surface finish?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the image, what kind of product does the packaging suggest it contains?",
+        "answer": "Beverage"
+      },
+      {
+        "question": "Does the packaging feature any prominent graphic design elements?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall visual impression of the packaging's design?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Considering the visible text and imagery, what is the likely category of this product?",
+        "answer": "Drink"
+      },
+      {
+        "question": "Can you describe the visual style of the text on the packaging?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Does the container exhibit any visible seams or closures?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the image, is the packaging transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What is the apparent condition of the packaging based on the image?",
+        "answer": "New"
+      },
+      {
+        "question": "Based solely on visual cues, is there a noticeable brand logo?",
+        "answer": "No"
+      }
+    ]
+  }
+]

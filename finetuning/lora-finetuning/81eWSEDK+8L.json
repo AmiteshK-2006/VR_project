@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bf/bffb5563.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the detailed nutritional information presented, what is the primary food item depicted?",
+        "answer": "Pizza"
+      },
+      {
+        "question": "Based on the visual representation, what specific type of cheese is prominently featured?",
+        "answer": "Mozzarella"
+      },
+      {
+        "question": "Judging from the image's content, what vegetable is a key ingredient?",
+        "answer": "Basil"
+      },
+      {
+        "question": "Observing the label, what type of bread is used in the food?",
+        "answer": "Baguette"
+      },
+      {
+        "question": "What is the apparent form or presentation of the food item?",
+        "answer": "Frozen"
+      },
+      {
+        "question": "What kind of potato variety is identified on the label?",
+        "answer": "Yukon"
+      },
+      {
+        "question": "According to the nutrition facts, which grain appears as a primary ingredient?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "What kind of oil is listed within the ingredients of the food?",
+        "answer": "Olive"
+      },
+      {
+        "question": "Can you identify a common spice included in the food preparation?",
+        "answer": "Garlic"
+      },
+      {
+        "question": "What is the overall shape of the package as displayed in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary color of the displayed text on the packaging?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the predominant color of the background on the nutrition label?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the details provided, is the product's packaging primarily glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Can you describe the overall texture implied by the image?",
+        "answer": "Printed"
+      },
+      {
+        "question": "Is the nutritional information displayed in a table format or paragraph format?",
+        "answer": "Table"
+      }
+    ]
+  }
+]

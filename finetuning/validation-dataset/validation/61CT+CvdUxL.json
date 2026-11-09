@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/cd/cd269192.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the product's packaging?",
+        "answer": "White"
+      },
+      {
+        "question": "What shape does the container of the product have?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the apparent texture of the product inside the container?",
+        "answer": "Creamy"
+      },
+      {
+        "question": "What primary color is depicted in the product's label illustration?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What fruit is prominently featured on the product's label?",
+        "answer": "Mango"
+      },
+      {
+        "question": "What material appears to be the primary container material?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Is the label's design primarily text-based or graphic-based?",
+        "answer": "Graphic"
+      },
+      {
+        "question": "Describe the overall style of the product's label design?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the general color scheme of the label design elements?",
+        "answer": "Warm"
+      },
+      {
+        "question": "What is the approximate size of the container, relative to an average hand?",
+        "answer": "Small"
+      },
+      {
+        "question": "Does the container have a lid or closure of any kind?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Are there any noticeable patterns or textures on the container itself?",
+        "answer": "No"
+      },
+      {
+        "question": "What language is used in the text visible on the container?",
+        "answer": "English"
+      },
+      {
+        "question": "What appears to be the primary function of this product?",
+        "answer": "Cosmetic"
+      },
+      {
+        "question": "Is the product in a single-unit container, or multiple?",
+        "answer": "Single"
+      }
+    ]
+  }
+]

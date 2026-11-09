@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/be/be39703b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary material visibly composing the majority of the shown product?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Considering its geometric form, what is the overall shape of the presented item?",
+        "answer": "Octagonal"
+      },
+      {
+        "question": "Describe the overall transparency exhibited by the item in the image, considering light transmission.",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the predominant surface texture apparent across the entire visible surface of this object?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on its appearance, what is the likely intended use for this particular object?",
+        "answer": "Dish"
+      },
+      {
+        "question": "What is the general visual depth or height of the product shown, relative to its width?",
+        "answer": "Shallow"
+      },
+      {
+        "question": "Observing the edges, what shape characterizes the visible cross-section of this product?",
+        "answer": "Beveled"
+      },
+      {
+        "question": "Describe the visual finish or style of the item's outer rim and surface area.",
+        "answer": "Polished"
+      },
+      {
+        "question": "Given the product's features, what is its most likely function regarding food or drink?",
+        "answer": "Serving"
+      },
+      {
+        "question": "Focusing on the rim, what geometric pattern or design is visible along its exterior?",
+        "answer": "Faceted"
+      },
+      {
+        "question": "Considering the production methods, what is the most probable manufacturing process used?",
+        "answer": "Molded"
+      },
+      {
+        "question": "How many visible sides or facets are discernible around the circumference of the object?",
+        "answer": "Eight"
+      },
+      {
+        "question": "What is the visual reflectivity of the item's exterior surface, in terms of light reflection?",
+        "answer": "High"
+      },
+      {
+        "question": "Based solely on the visible attributes, what is the apparent overall style of the item?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Does the product contain any additional visible components, aside from the primary body?",
+        "answer": "No"
+      }
+    ]
+  }
+]

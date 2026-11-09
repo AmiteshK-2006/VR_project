@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e2/e2473333.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the USB cable shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What type of connector is visible on the smaller end of this cable?",
+        "answer": "MicroUSB"
+      },
+      {
+        "question": "What is the type of connector present at the larger end of the cable?",
+        "answer": "USB"
+      },
+      {
+        "question": "Considering the cable's overall length, what would you describe its size as?",
+        "answer": "Short"
+      },
+      {
+        "question": "Based on the image, what appears to be the material composition of the cable?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the cable's apparent flexibility or stiffness from the provided view.",
+        "answer": "Flexible"
+      },
+      {
+        "question": "What is the overall shape or form factor of the cable as depicted?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Does the cable exhibit any visible branding, logos, or markings?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the image, does the cable seem to be shielded or unshielded?",
+        "answer": "Unshielded"
+      },
+      {
+        "question": "Observing the connectors, what is the apparent finish of the metal components?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering its construction, how would you describe the cable's apparent durability?",
+        "answer": "Moderate"
+      },
+      {
+        "question": "From visual observation, what seems to be the cable's construction?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Does the image show any significant defects or damage to the cable?",
+        "answer": "No"
+      },
+      {
+        "question": "Focusing on the micro-USB end, what is the orientation of its connector?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Regarding the USB-A end, how would you describe the connector's orientation?",
+        "answer": "Horizontal"
+      }
+    ]
+  }
+]

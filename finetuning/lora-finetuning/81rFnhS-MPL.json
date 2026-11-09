@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/14/14d83b0d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular layout, what is the primary shape of this product's nutritional information panel?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Observing the font style used throughout, what would you describe the overall typeface as?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the color scheme, what is the predominant color used in the text and headings?",
+        "answer": "Black"
+      },
+      {
+        "question": "Focusing on the background, what color would best describe the surface of the label?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the visual organization, how would you characterize the arrangement of nutritional data?",
+        "answer": "tabular"
+      },
+      {
+        "question": "What is the overall texture apparent in the visual presentation of the nutritional facts?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Examining the listed values, what unit is consistently used to measure the quantity of fat?",
+        "answer": "grams"
+      },
+      {
+        "question": "In reference to the serving size, what is the unit of measurement for the stated amount?",
+        "answer": "cup"
+      },
+      {
+        "question": "Analyzing the text, what term is used to denote the energy content per serving?",
+        "answer": "Calories"
+      },
+      {
+        "question": "What term is consistently used in the table next to percentages?",
+        "answer": "Fat"
+      },
+      {
+        "question": "Focusing on the upper portion, what two words are prominently displayed in bold?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the single word used to describe the number of servings?",
+        "answer": "Servings"
+      },
+      {
+        "question": "Based on the visible data, what nutrient is measured in milligrams (mg)?",
+        "answer": "Calcium"
+      },
+      {
+        "question": "Looking at the data presented, which nutrient is specified using the unit 'g'?",
+        "answer": "Protein"
+      },
+      {
+        "question": "What is the term used to indicate the percentage of daily value?",
+        "answer": "Percent"
+      }
+    ]
+  }
+]

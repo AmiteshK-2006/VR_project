@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c5/c504c446.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form and dimensions, what best describes the container's shape?",
+        "answer": "Bottle"
+      },
+      {
+        "question": "What material is predominantly used in the construction of this product's container?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Based on the visible hue, what is the dominant color of the bottle?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Describe the texture of the bottle's exterior surface, as apparent in the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the container exhibit any noticeable markings or labels aside from text?",
+        "answer": "No"
+      },
+      {
+        "question": "What type of closure or lid is affixed to the bottle's opening?",
+        "answer": "Cap"
+      },
+      {
+        "question": "Observing the bottle's base, is it flat or curved?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What appears to be the general condition of the bottle; is it new or used?",
+        "answer": "New"
+      },
+      {
+        "question": "Based on the image, does the bottle's shape seem consistent throughout its length?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the visible label, what kind of information is presented on it?",
+        "answer": "Text"
+      },
+      {
+        "question": "Is the bottle's color uniform across the entire visible surface, or does it vary?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Does the bottle's label include any graphics beyond text?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the image, what seems to be the overall transparency of the bottle?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Is the cap integrated into the bottle's body, or is it removable?",
+        "answer": "Removable"
+      },
+      {
+        "question": "Considering the visible label, what is its primary function on this bottle?",
+        "answer": "Informative"
+      }
+    ]
+  }
+]

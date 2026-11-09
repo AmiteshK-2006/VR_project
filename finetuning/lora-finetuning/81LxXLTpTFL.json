@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4c/4cd45b31.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout and textual content, what is the primary function of this depicted item?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Focusing on the prominent numerical data, what is the total calorie count per serving indicated?",
+        "answer": "130"
+      },
+      {
+        "question": "Observing the textual hierarchy, what is the descriptor used to categorize the dietary information presented?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Regarding the visual presentation of nutritional values, what is the color scheme predominantly used for the text?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the textual content, what is the grade assigned to the food product described?",
+        "answer": "A"
+      },
+      {
+        "question": "Considering the descriptive terms used for the product's processing, what is the first listed process used in its preparation?",
+        "answer": "Homogenized"
+      },
+      {
+        "question": "Considering the format and layout, what is the shape of the depicted nutritional information panel?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visual appearance of the text, what font style is used for the major headings of the information?",
+        "answer": "Bold"
+      },
+      {
+        "question": "In terms of design elements, what is the visual style of the border surrounding the nutritional information?",
+        "answer": "None"
+      },
+      {
+        "question": "According to the provided textual content, what is one of the vitamins explicitly mentioned as being added?",
+        "answer": "A"
+      },
+      {
+        "question": "Based on the textual content, what measurement unit is predominantly used for expressing the quantity of various nutrients?",
+        "answer": "mg"
+      },
+      {
+        "question": "Regarding the visual appearance, what is the background color of the nutritional information panel?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the text describing processing, what is the second listed process used in the preparation of the food?",
+        "answer": "Pasteurized"
+      },
+      {
+        "question": "Referring to the dietary information, what nutrient is listed with a value of 13g per serving?",
+        "answer": "Carb"
+      },
+      {
+        "question": "In the context of serving size, what unit of volume is specified for a single serving?",
+        "answer": "cup"
+      }
+    ]
+  }
+]

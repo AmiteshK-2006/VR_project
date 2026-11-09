@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/90/900e078e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color gradient showcased across the item's surface?",
+        "answer": "Grey"
+      },
+      {
+        "question": "What is the overall shape of the presented product, ignoring the cutout?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Observing the edges, what appears to be the primary material used in its construction?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Focusing on the texture, what is the visual impression of the product's finish?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the positioning and shape of the noticeable cutout or opening within the product?",
+        "answer": "Top-right"
+      },
+      {
+        "question": "Considering its form and apparent function, what is the likely purpose of this item?",
+        "answer": "Privacy"
+      },
+      {
+        "question": "What is the apparent level of transparency or opacity displayed by the product?",
+        "answer": "Translucent"
+      },
+      {
+        "question": "Is there any discernible pattern or design visible on the surface of the item?",
+        "answer": "None"
+      },
+      {
+        "question": "Given its grayscale shading, does the product present a glossy or matte appearance?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the general thickness or slenderness of the object depicted in the image?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Based on its size and feature, where might this item be typically used?",
+        "answer": "Screen"
+      },
+      {
+        "question": "Does the image reveal any visible text, logos, or branding on the product?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering its functionality, what kind of device does this protect?",
+        "answer": "Monitor"
+      },
+      {
+        "question": "If it were to be placed onto a surface, how would it adhere?",
+        "answer": "Static"
+      },
+      {
+        "question": "What is the apparent overall visual style of the item (e.g., minimalist)?",
+        "answer": "Minimalist"
+      }
+    ]
+  }
+]

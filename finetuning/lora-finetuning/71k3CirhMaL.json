@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b6/b618e6dc.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the dominant three-dimensional shape of the presented product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on visual inspection, what appears to be the primary material used in the product's construction?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Observing the color palette, what single word best describes the overall hue of the product?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "What is the most prominent textual element visible on the item, from a purely visual perspective?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "Focusing solely on what you see, what seems to be the surface texture of the product?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From a visual standpoint, what seems to be the printing method used for the barcode and text on the item?",
+        "answer": "Black"
+      },
+      {
+        "question": "Describe the visible edge details of the item from a visual standpoint.",
+        "answer": "Straight"
+      },
+      {
+        "question": "Considering the structural integrity, what is the most likely intended function of the object?",
+        "answer": "Packaging"
+      },
+      {
+        "question": "What design element is shown on the product to aid in logistics and tracking?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "Can you describe the visual apparent weight of the object based solely on its form?",
+        "answer": "Lightweight"
+      },
+      {
+        "question": "Describe the apparent finish or coating of the product based solely on visual observation.",
+        "answer": "Matte"
+      },
+      {
+        "question": "Focusing solely on visual cues, what can be inferred about the product's level of decoration?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "What is the observable visual condition of the presented product?",
+        "answer": "Unopened"
+      },
+      {
+        "question": "Describe the overall visual impression of the product's structural sturdiness.",
+        "answer": "Rigid"
+      },
+      {
+        "question": "What is the visible state of the product's surface; is it marked or unmarked?",
+        "answer": "Unmarked"
+      }
+    ]
+  }
+]

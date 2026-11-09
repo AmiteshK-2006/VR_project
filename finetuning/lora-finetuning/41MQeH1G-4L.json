@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/19/19d17ea0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's prominent position and clear font, what primary ingredient is explicitly listed?",
+        "answer": "Cashews"
+      },
+      {
+        "question": "Based on the textual information provided, what secondary oil is mentioned as a component?",
+        "answer": "Canola"
+      },
+      {
+        "question": "What is the precise descriptor used to qualify the production method of the mentioned oil?",
+        "answer": "Expeller"
+      },
+      {
+        "question": "Given the label's straightforward language, what additional nut might be present as a potential contaminant?",
+        "answer": "Peanuts"
+      },
+      {
+        "question": "According to the label, what other type of nuts besides cashews could potentially be found in the product?",
+        "answer": "Tree"
+      },
+      {
+        "question": "What dairy product is potentially present due to shared processing facilities, as indicated on the label?",
+        "answer": "Milk"
+      },
+      {
+        "question": "What grain is mentioned in the label regarding the potential for cross-contamination in production?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "What legume is noted on the label as a potential contaminant due to shared processing facilities?",
+        "answer": "Soy"
+      },
+      {
+        "question": "Describing the textual style on the label, what term best captures its overall appearance?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Observing the label's layout, what color predominantly characterizes the text?",
+        "answer": "Black"
+      },
+      {
+        "question": "In terms of font characteristics, what term most accurately depicts the text's design on the label?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What adjective is suitable to describe the presentation of information on this label?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Describing the overall message of the label's text, what is its primary goal?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Concerning the label's textual content, how would you describe its overall organization?",
+        "answer": "Structured"
+      },
+      {
+        "question": "What single word describes the background color of the label?",
+        "answer": "White"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fb/fbd9560a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual impression, what is the dominant color of the fabric shown?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Based on the image, what is the apparent texture of the fabric's surface?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Judging from the image, what kind of weave pattern is predominantly visible in the fabric?",
+        "answer": "Grid"
+      },
+      {
+        "question": "From the visual appearance alone, what is the primary material that seems to constitute the fabric?",
+        "answer": "Linen"
+      },
+      {
+        "question": "If you were to describe the fabric's visual grain, what term would best capture its appearance?",
+        "answer": "Fine"
+      },
+      {
+        "question": "What single word best captures the overall visual lightness or darkness of the fabric's shade?",
+        "answer": "Light"
+      },
+      {
+        "question": "Given the image, what is the most apparent visual characteristic of the fabric's weave?",
+        "answer": "Regular"
+      },
+      {
+        "question": "Judging from the visible structure, what is the most prominent pattern type displayed in the fabric?",
+        "answer": "Geometric"
+      },
+      {
+        "question": "Based purely on its visual characteristics, would you say the fabric's surface is smooth or rough?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From a visual standpoint only, what is the apparent level of visual detail or complexity in the fabric's weave?",
+        "answer": "High"
+      },
+      {
+        "question": "Considering the image, would you characterize the color of the fabric as warm or cool?",
+        "answer": "Warm"
+      },
+      {
+        "question": "Does the fabric exhibit a noticeably glossy or matte finish, based solely on the visual appearance?",
+        "answer": "Matte"
+      },
+      {
+        "question": "In terms of visual consistency, does the fabric's color appear uniform or varied throughout the image?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Visually, does the fabric's weave appear tightly or loosely constructed?",
+        "answer": "Tightly"
+      },
+      {
+        "question": "Considering solely the image, what's the predominant visual dimension of the fabric's weave structure?",
+        "answer": "Two-dimensional"
+      }
+    ]
+  }
+]

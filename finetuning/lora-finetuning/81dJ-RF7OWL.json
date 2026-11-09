@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ce/ce33d938.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual layout, what is the dominant textual element presented on this rectangular surface?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the primary color used for the prominent text indicating the calorie count per serving?",
+        "answer": "Black"
+      },
+      {
+        "question": "Focusing on the numerical data, what is the total number of servings contained within this product's packaging?",
+        "answer": "Five"
+      },
+      {
+        "question": "What is the specified weight, in grams, of a single serving of this particular edible item?",
+        "answer": "Thirty"
+      },
+      {
+        "question": "In relation to the daily value, what percentage of saturated fat is found in one serving of this food item?",
+        "answer": "Zero"
+      },
+      {
+        "question": "What is the quantitative measure, in milligrams, of cholesterol found within a single serving of this food product?",
+        "answer": "Thirty"
+      },
+      {
+        "question": "According to this nutritional information, what is the total amount of carbohydrate, in grams, present in one serving?",
+        "answer": "Twenty"
+      },
+      {
+        "question": "What is the precise numerical value of total sugars, measured in grams, found within a single serving of this food?",
+        "answer": "Eight"
+      },
+      {
+        "question": "From the provided data, how many grams of added sugar are present in one serving of the product?",
+        "answer": "Eight"
+      },
+      {
+        "question": "What is the amount, in milligrams, of sodium included in one serving, as indicated by the label?",
+        "answer": "Sixty-five"
+      },
+      {
+        "question": "Based on the information provided, what is the total amount of protein, in grams, found in one serving of the food?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the specified quantity, in milligrams, of potassium contained within one serving, according to this nutrition label?",
+        "answer": "Zero"
+      },
+      {
+        "question": "Observing the label's layout, what is the unit of measurement consistently used for quantifying various nutritional components?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the total number of calories specified per serving of this food product, as clearly displayed?",
+        "answer": "OneHundredForty"
+      },
+      {
+        "question": "What is the format of the nutritional information shown in the image, based on its visual appearance?",
+        "answer": "Table"
+      }
+    ]
+  }
+]

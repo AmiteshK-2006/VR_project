@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e1/e12801ae.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the textual information present, what is the primary material comprising the capsule?",
+        "answer": "Vegetable"
+      },
+      {
+        "question": "Based on the provided text, what specific substance is used as a capsule shell?",
+        "answer": "Hypromellose"
+      },
+      {
+        "question": "What additional ingredient, aside from the capsule, is mentioned in the text?",
+        "answer": "Rice"
+      },
+      {
+        "question": "According to the text, which vegetable-sourced ingredient is included?",
+        "answer": "Magnesium"
+      },
+      {
+        "question": "As indicated in the text, what inorganic compound is listed as an ingredient?",
+        "answer": "Silicon"
+      },
+      {
+        "question": "What is indicated in the text about the production facility's handling of tree nuts?",
+        "answer": "Processes"
+      },
+      {
+        "question": "Does the text mention the processing of milk in the production facility?",
+        "answer": "Yes"
+      },
+      {
+        "question": "According to the text, does the facility process eggs?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the textual data, does the facility process shellfish?",
+        "answer": "Yes"
+      },
+      {
+        "question": "As per the text, is fish processed in the production facility?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the provided text indicate wheat processing in the facility?",
+        "answer": "Yes"
+      },
+      {
+        "question": "According to the text, does the facility process soy?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the font style of the text on the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the color of the text on the label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the background color of the label?",
+        "answer": "White"
+      }
+    ]
+  }
+]

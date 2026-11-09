@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/27/27c28ddc.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color observed across the entire fabric sample?",
+        "answer": "Burgundy"
+      },
+      {
+        "question": "What is the most prominent textural characteristic displayed by the fabric?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Describe the visual appearance of the fabric's surface, considering its grain or weave?",
+        "answer": "Striated"
+      },
+      {
+        "question": "Based on the image, what is the apparent material composition of the sample?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "Considering the overall visual impression, how would you classify the sheen of this fabric?",
+        "answer": "Slight"
+      },
+      {
+        "question": "Judging by the image, how would you describe the depth of the color's saturation?",
+        "answer": "Rich"
+      },
+      {
+        "question": "What is the general directionality of the visible linear patterns in the fabric?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Does the visual evidence suggest any noticeable pattern repetition within the fabric?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent uniformity of the color and texture across the visible area?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Considering its texture, what kind of tactile feel does the fabric seem to possess?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From the visual details, would you describe this fabric as plain or textured?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Does the image show any noticeable irregularities or imperfections in the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "Based solely on visual cues, how would you characterize the fabric's weight or density?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Considering the visual characteristics of the sample, how would you describe its finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the overall visual impression, how would you describe the fabric's drape?",
+        "answer": "Soft"
+      }
+    ]
+  }
+]

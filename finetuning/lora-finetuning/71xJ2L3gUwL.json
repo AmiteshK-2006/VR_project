@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/28/28b56169.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall design, what is the dominant textual feature prominently displayed on the container's label?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the primary color of the text that details the nutritional information?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the label's visual appearance, what is the overall shape of the container depicted?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Observing the label's font style, what is the general font weight used for the 'Nutrition Facts' heading?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the color of the background of the Nutrition Facts panel against which the black text stands out?",
+        "answer": "White"
+      },
+      {
+        "question": "From the visual characteristics of the text, what is the style of the font?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Disregarding the text, what is the apparent background material implied by the label's image?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Based on the clearly visible label, what is the implied texture of the label surface itself?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the orientation of the text blocks on the nutrition label with respect to the container?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the visible formatting style applied to numerical values and units?",
+        "answer": "Regular"
+      },
+      {
+        "question": "Judging by the arrangement, how is the information structured within each section of the label?",
+        "answer": "tabular"
+      },
+      {
+        "question": "What is the apparent finish of the text printing on the label, glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Looking closely at the lettering, what is the overall case of the textual content?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "What is the overall contrast between the text and the background?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the visual prominence of the 'Servings' information relative to other elements?",
+        "answer": "High"
+      }
+    ]
+  }
+]

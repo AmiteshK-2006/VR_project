@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8b/8bbb20da.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the container's main body?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the apparent material of the container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What shape best describes the overall product packaging?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What color is the prominent label or band around the container?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "Is the container's lid visibly separate or integrated?",
+        "answer": "Separate"
+      },
+      {
+        "question": "What is the apparent texture of the container's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What type of closure is present on the container's top?",
+        "answer": "Screw-on"
+      },
+      {
+        "question": "Describing the label, are there any prominent symbols visible?",
+        "answer": "Exclamation"
+      },
+      {
+        "question": "What language(s) appear on the main label of the product?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "Considering the label's text, what is the product's function implied?",
+        "answer": "Cleaning"
+      },
+      {
+        "question": "Does the product packaging seem to feature any safety warnings?",
+        "answer": "Yes"
+      },
+      {
+        "question": "From the image, can you determine the container's approximate size?",
+        "answer": "Large"
+      },
+      {
+        "question": "What is the apparent overall condition of the product container?",
+        "answer": "New"
+      },
+      {
+        "question": "Does the container seem to be transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What is the overall design style of the packaging?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

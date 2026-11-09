@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/02/02d54787.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the rectangular lid shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What primary material appears to constitute the entire visible structure of this product?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the overall form, what geometric term best describes the shape of this product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent surface texture of the lid, as observed from the provided image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Focusing on the top surface, how many noticeable sections or divisions are present on the lid?",
+        "answer": "Two"
+      },
+      {
+        "question": "Observing the edges, what shape best describes the cross-section profile of the lid's rim?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based solely on visual observation, what is the apparent finish of the lid's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Describe the apparent design style of the lid: simple, ornate, or something else?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Judging by appearance, what is the likely function of this object?",
+        "answer": "Lid"
+      },
+      {
+        "question": "What is the general size of this rectangular lid compared to common household objects?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Does the lid exhibit any apparent texturing, patterns, or logos?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image, is the lid shown in a closed or open state?",
+        "answer": "Closed"
+      },
+      {
+        "question": "Does the lid have a single or multiple-piece construction?",
+        "answer": "Single"
+      },
+      {
+        "question": "What is the overall impression of the lid in terms of its weight-bearing capacity?",
+        "answer": "Lightweight"
+      },
+      {
+        "question": "Judging from the image, what is the visible height of this rectangular lid?",
+        "answer": "Low"
+      }
+    ]
+  }
+]

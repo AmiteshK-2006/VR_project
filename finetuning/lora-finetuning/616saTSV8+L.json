@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/44/44beda53.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color scheme used throughout the entire nutritional information panel?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the textual layout, what is the overall shape of this nutritional label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary material implied by the overall visual appearance of this nutrition facts label?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Based on the image, what is the primary method used to display the nutritional values?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the font style predominantly used for displaying the key information categories?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the font weight utilized for prominently displaying the heading 'Nutrition Facts'?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the numerical value presented concerning calories per serving size?",
+        "answer": "140"
+      },
+      {
+        "question": "What is the unit of measurement used for expressing caloric content per serving?",
+        "answer": "Calories"
+      },
+      {
+        "question": "What is the specified serving size indicated on the nutrition facts label?",
+        "answer": "Cookies"
+      },
+      {
+        "question": "What is the quantitative value provided for the number of servings contained within the product packaging?",
+        "answer": "12"
+      },
+      {
+        "question": "What is the visual texture implied by the label's surface, considering the flatness and uniform appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall design style exhibited by the arrangement of text and values on this panel?",
+        "answer": "Tabular"
+      },
+      {
+        "question": "What is the style of lines used to separate the different nutritional components?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Considering the arrangement of the text, what is the orientation of the label relative to the reader?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Observing the image, what is the general readability of the text present within the label?",
+        "answer": "High"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2c/2c733f00.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary text displayed prominently on this rectangular label?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Considering the overall label design, what is its predominant shape?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visual characteristics, what is the background color of the label?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "What is the color of the text printed on the product label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Judging by its visual appearance, what is the apparent texture of the label surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From the image, what type of information is prominently detailed in the text?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Observing the typography, what is the general font style of the text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the style, what is the case used for the major text on this label?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "In terms of text organization, how is the information presented?",
+        "answer": "List"
+      },
+      {
+        "question": "What kind of mark or notation is present after 'Natural' ingredient?",
+        "answer": "Asterisk"
+      },
+      {
+        "question": "Regarding the label's construction, what is the visual material it appears to be made of?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Judging by its visual attributes, what appears to be the label's finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What single word summarizes the overall labeling appearance?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Describe the visual density of the text on the product label.",
+        "answer": "Moderate"
+      },
+      {
+        "question": "Considering the font, how would you characterize the text's weight?",
+        "answer": "Regular"
+      }
+    ]
+  }
+]

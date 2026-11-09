@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fc/fc44a5a3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color displayed prominently on the nutritional facts panel?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the overall shape of the nutritional information panel presented?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary material of the nutritional facts label, judging from its texture and visual properties?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the textual style used for the heading 'Nutrition Facts', considering its font and size?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the visual element that separates the header from the rest of the nutritional facts information?",
+        "answer": "Line"
+      },
+      {
+        "question": "Based on the visual presentation, what is the format of the nutritional data shown?",
+        "answer": "Table"
+      },
+      {
+        "question": "Considering the visual layout, what is the method of presenting nutritional values (e.g., grams, percentages)?",
+        "answer": "Both"
+      },
+      {
+        "question": "What is the visual attribute of the numbers indicating caloric and macronutrient values?",
+        "answer": "Large"
+      },
+      {
+        "question": "What is the visual design element used to highlight the percentages of daily values?",
+        "answer": "Smaller"
+      },
+      {
+        "question": "What is the typeface or font style employed throughout the nutritional information label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the visual characteristic of the daily value percentages, in relation to their numerical representation?",
+        "answer": "Smaller"
+      },
+      {
+        "question": "What is the general visual presentation style of the nutritional facts panel (e.g., simple, complex)?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Describe the visual appearance of the text regarding the serving size and its relation to the overall panel?",
+        "answer": "Prominent"
+      },
+      {
+        "question": "What is the visual characteristic of the 'Calories' value compared to other nutritional information?",
+        "answer": "Largest"
+      },
+      {
+        "question": "What is the visual alignment of the data within each row of the nutritional facts table?",
+        "answer": "Right"
+      }
+    ]
+  }
+]

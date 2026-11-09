@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9f/9f8af629.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the bed frame, as visually apparent in the product image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the overarching shape of the bed's headboard, considering its curvature and proportions?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Based on visual texture, what material appears to constitute the majority of the bed frame?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Does the bed frame display a visible pattern, grain, or texture indicative of the material?",
+        "answer": "Woodgrain"
+      },
+      {
+        "question": "Considering the image, what is the general shape of the bed's overall structure?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging by visual assessment, what seems to be the predominant finish on the wooden surface?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Does the bed appear to possess any visible drawers, storage compartments, or under-bed space?",
+        "answer": "Yes"
+      },
+      {
+        "question": "From the image, is there any noticeable ornamentation or detailing on the headboard's design?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the visible structural components, how many distinct parts make up the bed's frame?",
+        "answer": "Three"
+      },
+      {
+        "question": "Based solely on the image's visual data, what is the apparent height of the headboard relative to the footboard?",
+        "answer": "Taller"
+      },
+      {
+        "question": "Observing the image, is the style of the bed frame contemporary, traditional, or another style?",
+        "answer": "Traditional"
+      },
+      {
+        "question": "What is the apparent visual condition of the bed frame's surface: smooth or rough?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the image, does the frame's structure appear robust and stable or flimsy?",
+        "answer": "Robust"
+      },
+      {
+        "question": "Considering the visual details, what is the overall aesthetic of the bed frame; simple or ornate?",
+        "answer": "Simple"
+      },
+      {
+        "question": "From the visual characteristics alone, what seems to be the approximate size of the bed (single, double, king etc.)?",
+        "answer": "Double"
+      }
+    ]
+  }
+]

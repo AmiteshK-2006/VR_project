@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/50/50453adb.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the text on the packaging, which prominently displays the product name and other key details?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the visual appearance of the nuts depicted on the package, what is their apparent dominant color?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Based on the image, what is the primary shape of the food product container, ignoring its contents?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What specific type of nut is illustrated and mentioned on the packaging, signifying the main product?",
+        "answer": "Pecans"
+      },
+      {
+        "question": "Judging from the image, what is the apparent texture of the nuts, as visible on the packaging?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What is the material that constitutes the primary packaging of the product, as visibly depicted in the image?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What cooking method is explicitly mentioned on the product packaging, offering insight into the preparation process?",
+        "answer": "Kettle-cooked"
+      },
+      {
+        "question": "What is the flavor profile of the nuts predominantly featured in the product's description, displayed on the packaging?",
+        "answer": "ButterToffee"
+      },
+      {
+        "question": "What word is used on the package to convey the absence of artificial flavors in the nuts?",
+        "answer": "Naturally"
+      },
+      {
+        "question": "What is the overall style of the packaging design, considering its font, color palette, and illustrative elements?",
+        "answer": "Rustic"
+      },
+      {
+        "question": "What is the shape of the prominent logo featuring the product's brand name visible on the packaging?",
+        "answer": "Circular"
+      },
+      {
+        "question": "What is the primary color of the background of the packaging behind the product description?",
+        "answer": "White"
+      },
+      {
+        "question": "What unit of measurement is used to indicate the net weight of the product as shown on the packaging?",
+        "answer": "Oz"
+      },
+      {
+        "question": "What is the brand name visibly displayed on the product's packaging?",
+        "answer": "WholeFoods"
+      },
+      {
+        "question": "What is the overall state of the nuts shown, implying their level of preparation?",
+        "answer": "Cooked"
+      }
+    ]
+  }
+]

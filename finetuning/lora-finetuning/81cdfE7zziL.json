@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/aa/aafc4604.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the jar's contents, as shown in the image?",
+        "answer": "Dark"
+      },
+      {
+        "question": "What is the primary color of the jar's lid, as visibly depicted?",
+        "answer": "Green"
+      },
+      {
+        "question": "What material appears to constitute the main body of the jar?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Considering the visible texture, what is the overall surface feel of the jar?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What shape best describes the overall form of the product container?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Based on the image, what type of closure does the jar appear to have?",
+        "answer": "Screw"
+      },
+      {
+        "question": "What is the apparent color of the small illustrations on the label?",
+        "answer": "Purple"
+      },
+      {
+        "question": "Judging by the image, what kind of label is affixed to the jar?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the visible orientation of the printed text on the jar's label?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the visible design element located at the bottom of the label?",
+        "answer": "Bar code"
+      },
+      {
+        "question": "What appears to be the color scheme of the small icons on the jar?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall form factor of the illustrated fruit on the label?",
+        "answer": "Circular"
+      },
+      {
+        "question": "Considering the label's detailing, what type of product is suggested?",
+        "answer": "Spread"
+      },
+      {
+        "question": "What is the visible feature at the top of the jar indicating product sealing?",
+        "answer": "Lid"
+      },
+      {
+        "question": "What kind of print is predominantly displayed across the jar's label?",
+        "answer": "Text"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bc/bc204ba5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the label indicating 'Nighttime Severe Cold & Flu'?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the predominant color of the label indicating 'Daytime Severe Cold & Flu'?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the overall shape of each individual product label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary text on the left label, specifying the usage time?",
+        "answer": "Nighttime"
+      },
+      {
+        "question": "What is the primary text on the right label, specifying the usage time?",
+        "answer": "Daytime"
+      },
+      {
+        "question": "What is the main illness targeted by both products, indicated on their labels?",
+        "answer": "Cold"
+      },
+      {
+        "question": "What additional ailment is mentioned alongside 'cold' on the labels?",
+        "answer": "Flu"
+      },
+      {
+        "question": "What is the term describing the severity of the illness addressed?",
+        "answer": "Severe"
+      },
+      {
+        "question": "What section of the label presents detailed product composition?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the color of the box containing the 'Active Ingredients' details?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What unit of measurement is utilized for the active ingredients?",
+        "answer": "mg"
+      },
+      {
+        "question": "What word signifies the intended effect or function of each ingredient?",
+        "answer": "Purpose"
+      },
+      {
+        "question": "Considering the labels' design, what is the overall style?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Considering the font used, what is the general typeface style?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the apparent texture of the product labels, based on image resolution?",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

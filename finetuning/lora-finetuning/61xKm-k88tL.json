@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/49/49663063.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the packaging shown in the image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the overall shape of the product's packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the primary material of the product's packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the most prominent text visible on the product packaging?",
+        "answer": "Vedaka"
+      },
+      {
+        "question": "Describing the surface texture of the product within the packaging, is it smooth or grainy?",
+        "answer": "Grainy"
+      },
+      {
+        "question": "What seems to be the approximate size of the product packaging, relative to a human hand?",
+        "answer": "Small"
+      },
+      {
+        "question": "What kind of image, if any, is depicted on the product packaging, aside from text?",
+        "answer": "Circular"
+      },
+      {
+        "question": "Considering the color palette, what is the secondary color in the product packaging?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Is there any indication of a seal or logo present on the packaging?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the packaging display any visible details regarding weight or quantity?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the visual appearance, what seems to be the general type of product inside?",
+        "answer": "Food"
+      },
+      {
+        "question": "Does the package appear to be sealed or open?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "What is the orientation of the product packaging in the image?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Based on the visual elements, is the design of the packaging minimalistic or ornate?",
+        "answer": "Minimalistic"
+      },
+      {
+        "question": "Considering the overall presentation, is the packaging design modern or vintage?",
+        "answer": "Modern"
+      }
+    ]
+  }
+]

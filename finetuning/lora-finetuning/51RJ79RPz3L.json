@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5a/5afcecc7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the pouch's primary visual element, what is the overall shape of the food packaging?",
+        "answer": "Pouch"
+      },
+      {
+        "question": "Observing the top of the pouch, what color is the resealable cap?",
+        "answer": "Orange"
+      },
+      {
+        "question": "Based on the image's visual details, what is the apparent material of the flexible packaging?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Focusing on the text displayed prominently on the front, what is the main ingredient mentioned?",
+        "answer": "Apple"
+      },
+      {
+        "question": "From the image provided, what additional flavor is indicated alongside the main ingredient?",
+        "answer": "Caramel"
+      },
+      {
+        "question": "Judging by the pouch's visual cues, what other fruit is listed in its contents?",
+        "answer": "Ginger"
+      },
+      {
+        "question": "Examining the packaging's label, what single word describes the product's source?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What additional ingredient is suggested, given the visual information on the label?",
+        "answer": "Millet"
+      },
+      {
+        "question": "Considering the labeling, can you identify a nutritional aspect showcased on the package?",
+        "answer": "Calories"
+      },
+      {
+        "question": "What is the textual indication of the product's food category, shown on the pouch?",
+        "answer": "Baby"
+      },
+      {
+        "question": "Observing the back of the pouch, what type of information is provided to the consumer?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Looking at the rear of the pouch, what kind of code is visible for identification purposes?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "Judging by its visual details, what is the general texture of the packaging's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image, what is the overall color palette of the food pouch packaging?",
+        "answer": "White"
+      },
+      {
+        "question": "Examining the pouch's label, what is the single-word indication of the product's manufacturing origin?",
+        "answer": "USA"
+      }
+    ]
+  }
+]

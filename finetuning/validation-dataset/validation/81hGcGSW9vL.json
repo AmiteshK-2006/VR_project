@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e9/e99239ac.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall packaging design, what is the primary color scheme dominating the background of the product's label?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Based on the text's visual characteristics, what font style is predominantly used to present the product's ingredients?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Observing the text layout, what is the organizational structure employed to list the various components of this food product?",
+        "answer": "List"
+      },
+      {
+        "question": "Examining the text's visual properties, what is the approximate font size of the main header 'INGREDIENTS'?",
+        "answer": "Large"
+      },
+      {
+        "question": "Considering the label's visual features, what is the text's general case (uppercase, lowercase, or a mix)?",
+        "answer": "Mixed"
+      },
+      {
+        "question": "What is the visual style of the text in the warning section (allergen information) concerning potential allergens?",
+        "answer": "Italic"
+      },
+      {
+        "question": "Judging by the image's clarity, what is the overall print quality of the ingredients list on this food package?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Considering the label's design, what is the visual arrangement of the different ingredient categories (e.g., crackers, filling)?",
+        "answer": "Sections"
+      },
+      {
+        "question": "What is the visual appearance of the text that specifies the ingredients for the cracker component itself?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Analyzing the visual information, what is the format used to present the ingredient components, such as 'Organic Wheat Flour'?",
+        "answer": "Bulleted"
+      },
+      {
+        "question": "Based on the visual texture, what is the apparent surface finish of the product's packaging material?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the visual prominence of the 'CONTAINS' statement regarding potential allergens?",
+        "answer": "Prominent"
+      },
+      {
+        "question": "What is the visual density of the text on the overall label; sparsely arranged or densely packed?",
+        "answer": "Dense"
+      },
+      {
+        "question": "What is the visual tone of the label: cheerful, serious, or neutral?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "What is the overall visual impression of the label's design: simple, complex, or minimalistic?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/af/af304617.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the provided image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the primary material composition indicated on the label?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "What brand name is prominently displayed on the care label?",
+        "answer": "Amazonbasics"
+      },
+      {
+        "question": "What is the overall shape of the visible section of the garment?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent texture of the fabric, based solely on visual inspection?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What type of instructions are depicted using symbols on the label?",
+        "answer": "Washing"
+      },
+      {
+        "question": "What is the general orientation of the text on the care label?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the color of the stitching visible along the edge of the fabric?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Based on the image, what is the size of the label in relation to the fabric?",
+        "answer": "Small"
+      },
+      {
+        "question": "What kind of finish does the fabric appear to possess judging by the image?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering only visual features, what is the style of the label's font?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the apparent weight or thickness of the fabric?",
+        "answer": "Lightweight"
+      },
+      {
+        "question": "What is the color of the background of the care label?",
+        "answer": "White"
+      },
+      {
+        "question": "Observing the image, what is the fabric's level of transparency?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What is the overall condition of the label and fabric shown in the image?",
+        "answer": "New"
+      }
+    ]
+  }
+]

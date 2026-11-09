@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/7c/7c0714f9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular layout, what is the dominant color scheme of this nutritional information panel, prominently featuring bold text and numerical data?",
+        "answer": "Red"
+      },
+      {
+        "question": "Observing the textual content, what specific dietary aspect is this panel primarily designed to provide detailed information about?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Focusing on the top section of the panel, what single word describes the type of information being presented,  regarding the serving size and number of servings?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Examining the left-hand column, what is the main unit of measurement utilized repeatedly to quantify various nutritional components?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Looking at the right-hand column's numerical values, what percentage-based metric is used consistently to provide context for the daily intake recommendations?",
+        "answer": "Percent"
+      },
+      {
+        "question": "Concentrating on the listed macronutrients, what single nutrient is specified with a value of '2.5g' within the provided nutritional breakdown?",
+        "answer": "Fat"
+      },
+      {
+        "question": "Focusing on the micronutrient section, which vitamin's percentage of daily value is explicitly listed, alongside others, towards the panel's bottom?",
+        "answer": "Vitamin"
+      },
+      {
+        "question": "Considering the quantitative data, what is the listed amount of 'Sugars' in the provided serving size, expressed as a single-word numerical value?",
+        "answer": "One"
+      },
+      {
+        "question": "Looking at the panel's structure, what single term describes the distinct organization of the nutritional content, structured in rows and columns?",
+        "answer": "Table"
+      },
+      {
+        "question": "Paying attention to the font styles, what single adjective best describes the style of the typeface used for 'Nutrition Facts' in the panel's heading?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Considering the textual details, what specific nutrient is quantified as '0g' in the fat category of the nutritional information?",
+        "answer": "Trans"
+      },
+      {
+        "question": "Examining the lower section, what mineral, expressed as a single word, is presented along with daily value percentages?",
+        "answer": "Calcium"
+      },
+      {
+        "question": "Focusing on the quantitative information, what single numerical value is listed as the amount of 'Protein' in grams, within the nutritional analysis?",
+        "answer": "Six"
+      },
+      {
+        "question": "Considering the context of the panel, what term best describes the concise representation of dietary elements in readily understandable numerical formats?",
+        "answer": "Summary"
+      },
+      {
+        "question": "Based on the layout, what single word describes the overall textual format of the nutritional information, reflecting a clear and organized presentation?",
+        "answer": "Linear"
+      }
+    ]
+  }
+]

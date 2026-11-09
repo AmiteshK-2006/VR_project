@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/18/18d3d6a8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the fabric shown in the provided image?",
+        "answer": "Taupe"
+      },
+      {
+        "question": "Considering the weave and texture, what is the overall visual feel of the fabric?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Based on the image, what kind of textile fiber is primarily used in the fabric's construction?",
+        "answer": "Linen"
+      },
+      {
+        "question": "Describing the pattern, is the fabric uniformly colored or does it have a noticeable pattern?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Considering the visible threads, what is the most apparent type of weave structure?",
+        "answer": "Plain"
+      },
+      {
+        "question": "If you were to describe the visual texture, what word best captures the surface of the fabric?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Based on the visual details, how would you describe the visual weight or thickness of the fabric?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What term best describes the visual appearance of the threads in terms of their arrangement?",
+        "answer": "Intertwined"
+      },
+      {
+        "question": "Analyzing the color variations, is there a significant color contrast within the fabric's appearance?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "Judging from the image, what is the implied level of sheen or glossiness present on the surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Focusing on the visual structure, how consistent is the appearance of the weave across the sample?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Based purely on the visual details, does the fabric appear to have a raised or a flat surface?",
+        "answer": "Flat"
+      },
+      {
+        "question": "From the image's perspective, how would you characterize the general aesthetic quality of the fabric?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the overall visual impression of the fabric in terms of its density?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Considering the image, how would you characterize the visual clarity of the fabric's structure?",
+        "answer": "Clear"
+      }
+    ]
+  }
+]

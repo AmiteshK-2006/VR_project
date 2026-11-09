@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a5/a54c8449.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed fabric swatch?",
+        "answer": "Taupe"
+      },
+      {
+        "question": "What is the overall texture observed across the fabric's surface?",
+        "answer": "Flocked"
+      },
+      {
+        "question": "Considering the visual characteristics, what is the likely material composition?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "Based on the image, does the material appear to have a noticeable sheen or gloss?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the primary visual characteristic that defines the fabric's appearance?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Judging from the image, is the fabric pattern uniform or variegated?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Does the fabric exhibit any noticeable weave pattern or structure?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the visual impression created by the surface of the fabric sample?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Given the visual information, would you classify the fabric's drape as heavy or light?",
+        "answer": "Medium"
+      },
+      {
+        "question": "From the image, can we ascertain the thickness of this textile material?",
+        "answer": "Moderate"
+      },
+      {
+        "question": "Does the color across the whole sample appear consistent and even?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the visual aspects, what is the implied softness of this textile?",
+        "answer": "Soft"
+      },
+      {
+        "question": "How would you characterize the light reflection properties of the fabric surface?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "Is the visible section of the fabric sample exhibiting any obvious imperfections?",
+        "answer": "No"
+      },
+      {
+        "question": "Based purely on visual assessment, how would you describe the visual weight of the fabric?",
+        "answer": "Light"
+      }
+    ]
+  }
+]

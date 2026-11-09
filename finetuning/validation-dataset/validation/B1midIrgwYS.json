@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e5/e57abcdf.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color observed across the entire fabric sample?",
+        "answer": "Burgundy"
+      },
+      {
+        "question": "Considering the visible weave, what kind of texture is predominantly displayed?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Based on visual inspection, what appears to be the primary material composition?",
+        "answer": "Linen"
+      },
+      {
+        "question": "Judging from the image, how would you describe the overall visual appearance of the fabric's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the most apparent characteristic of the fabric's woven structure, as seen in the image?",
+        "answer": "Even"
+      },
+      {
+        "question": "Does the fabric exhibit a noticeable sheen or luster in the provided image?",
+        "answer": "Slight"
+      },
+      {
+        "question": "Considering the color saturation, how intense is the primary shade presented in the sample?",
+        "answer": "Deep"
+      },
+      {
+        "question": "If you were to describe the fabric's visual weight, what would it appear to be?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the directionality of the visible weave pattern in this textile sample?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Does the image suggest the presence of any discernible patterns beyond the basic weave?",
+        "answer": "No"
+      },
+      {
+        "question": "From the image, can you discern any visible imperfections or irregularities in the fabric?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the color depth, how would you characterize the shade's overall tone?",
+        "answer": "Warm"
+      },
+      {
+        "question": "Based purely on visual analysis, how would you characterize the density of the weave?",
+        "answer": "Tight"
+      },
+      {
+        "question": "Considering the visible fibers, how would you describe the general fineness of the fabric?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Does the image show any significant variation in color across the sample?",
+        "answer": "No"
+      }
+    ]
+  }
+]

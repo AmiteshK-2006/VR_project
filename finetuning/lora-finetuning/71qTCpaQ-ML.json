@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e8/e84d4f4c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall design, what is the predominant color scheme employed in this nutrition facts label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the primary typeface style used for the most prominent text elements like 'Nutrition Facts' and 'Calories'?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Focusing on the textual layout, what is the overall orientation of the information presented on this nutrition label?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Observing the visual hierarchy, what is the size of the font used for the number indicating the total calories per serving?",
+        "answer": "Large"
+      },
+      {
+        "question": "Based on the visual presentation, what is the format for the quantitative values presented, for example '14g'?",
+        "answer": "Numeric"
+      },
+      {
+        "question": "Considering the visual style, what can you say about the use of contrast between text and background?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the visual style of the text and numbers regarding bolding and capitalization?",
+        "answer": "Mixed"
+      },
+      {
+        "question": "What is the general format of the information on this nutrition label?",
+        "answer": "Table"
+      },
+      {
+        "question": "Disregarding the values, what is the format of each nutrition fact presented in the list?",
+        "answer": "Text"
+      },
+      {
+        "question": "Looking at the visual style, is there any noticeable use of visual separators between different sections of the nutrition facts?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the visual layout, does the label follow a specific reading order from top to bottom or left to right?",
+        "answer": "Top"
+      },
+      {
+        "question": "In terms of visual style, how would you describe the overall appearance of the label?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the visual texture of the label, assuming it's printed on a typical food label?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Disregarding content, what is the shape of the nutrition facts panel itself?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the visual elements, what is the background color of the nutrition label?",
+        "answer": "Black"
+      }
+    ]
+  }
+]

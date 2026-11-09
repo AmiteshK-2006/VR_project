@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a8/a8dc217b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual layout, what is the primary subject depicted in this image?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Based on the prominent header at the top, what specific type of information is being presented?",
+        "answer": "Facts"
+      },
+      {
+        "question": "What is the numerical value prominently displayed as the caloric content per serving?",
+        "answer": "140"
+      },
+      {
+        "question": "What unit of measurement is used for the serving size of this particular food item?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the specified number of servings contained within this single package?",
+        "answer": "Six"
+      },
+      {
+        "question": "What is the listed amount, in grams, of total fat per single serving of this product?",
+        "answer": "Four"
+      },
+      {
+        "question": "What is the listed amount, in milligrams, of sodium per serving, according to the label?",
+        "answer": "220"
+      },
+      {
+        "question": "According to this label, how many grams of total carbohydrate are in a single serving?",
+        "answer": "22"
+      },
+      {
+        "question": "What is the amount, in grams, of dietary fiber found in a single serving as per this label?",
+        "answer": "Four"
+      },
+      {
+        "question": "In grams, what is the total amount of sugars in a single serving, as indicated on the label?",
+        "answer": "Two"
+      },
+      {
+        "question": "As specified on the label, how many grams of protein are included in each serving?",
+        "answer": "Five"
+      },
+      {
+        "question": "What is the amount, in milligrams, of calcium present in a single serving of this item?",
+        "answer": "70"
+      },
+      {
+        "question": "According to the nutrition label, how many milligrams of iron are there in one serving?",
+        "answer": "1.6"
+      },
+      {
+        "question": "What is the total amount of potassium, in milligrams, contained in one serving, as indicated on this label?",
+        "answer": "Zero"
+      },
+      {
+        "question": "What is the specified serving size of this food, in terms of its individual unit?",
+        "answer": "Tortilla"
+      }
+    ]
+  }
+]

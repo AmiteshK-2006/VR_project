@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1b/1b5b91f4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed fabric swatch?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the apparent texture of the fabric, based on visual inspection?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Considering the visual weave, what is the likely fiber type of this fabric?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "Does the fabric exhibit a noticeable pattern or design, based solely on the image?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image, is the fabric’s surface smooth or rough to the touch?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the overall visual appearance of the fabric swatch provided?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Based on the image's clarity, is there any visible sheen or luster present?",
+        "answer": "Slight"
+      },
+      {
+        "question": "Considering the visual appearance, what is the likely weight of the material?",
+        "answer": "Light"
+      },
+      {
+        "question": "What is the apparent density of the weave, fine or coarse, based on the image?",
+        "answer": "Fine"
+      },
+      {
+        "question": "Does the image show any obvious flaws or imperfections in the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "Is the fabric's color uniform across the visible area in the image?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging by the weave, would you consider the fabric opaque or translucent?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What is the visual form or shape of the displayed product in the provided image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Does the image suggest that the material has a stretch or give to it?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering its visual appearance, how would you classify the displayed material?",
+        "answer": "Fabric"
+      }
+    ]
+  }
+]

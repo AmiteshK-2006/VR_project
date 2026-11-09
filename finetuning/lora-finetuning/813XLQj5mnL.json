@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ff/ff480924.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color displayed prominently on the packaging?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What is the overall shape of the individual product packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material appears to be used for the product packaging?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the primary text color used on the packaging?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the format of the primary nutritional information?",
+        "answer": "Table"
+      },
+      {
+        "question": "Describing the texture of the packaging, is it glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What type of product does this packaging seem to contain?",
+        "answer": "Powder"
+      },
+      {
+        "question": "Considering the text, what is this product predominantly used for?",
+        "answer": "Drink"
+      },
+      {
+        "question": "What is the general style of the graphics on the package?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What type of barcode is visible at the bottom of the packaging?",
+        "answer": "UPC"
+      },
+      {
+        "question": "What is the visual format of the preparation instructions?",
+        "answer": "Diagram"
+      },
+      {
+        "question": "What is the color of the product illustration in the instructions?",
+        "answer": "Black"
+      },
+      {
+        "question": "What number of servings is indicated per package?",
+        "answer": "Ten"
+      },
+      {
+        "question": "Considering the text, what is the product's serving size?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the form in which this product is measured?",
+        "answer": "Grams"
+      }
+    ]
+  }
+]

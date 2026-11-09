@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f0/f0df31da.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the image?",
+        "answer": "Green"
+      },
+      {
+        "question": "Considering the image's texture, what is the fabric's apparent surface finish?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the visual drape and folds, what is the likely fabric weight?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Judging by the subtle sheen, what is the fabric's general perceived luster?",
+        "answer": "Slight"
+      },
+      {
+        "question": "From the image's close-up, what is the predominant weave type discernible?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Does the fabric show any noticeable pattern or print in the detailed view?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image's texture, how would you describe the fabric's apparent hand feel?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Based on the image's visual characteristics, what is the fabric's likely drape?",
+        "answer": "Fluid"
+      },
+      {
+        "question": "What is the overall visual impression of the fabric's color saturation?",
+        "answer": "Deep"
+      },
+      {
+        "question": "Based on the visual texture, what is the apparent density of the fabric's weave?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Judging from the image's depiction, what is the fabric's general appearance?",
+        "answer": "Solid"
+      },
+      {
+        "question": "From the displayed folds, what is the fabric's apparent resilience to wrinkling?",
+        "answer": "Moderate"
+      },
+      {
+        "question": "What is the visible uniformity of the fabric's color and texture?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Based on the image's visual evidence, how would you describe the fabric's sheen?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "From the close-up view, what is the apparent clarity of the fabric's weave structure?",
+        "answer": "Visible"
+      }
+    ]
+  }
+]

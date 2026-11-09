@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ac/ac672fe5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout and text organization, what is the primary function of this rectangular item?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the predominant color used for the text and data presented on this rectangular label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the visual elements, what specific food-related information is prominently displayed?",
+        "answer": "Facts"
+      },
+      {
+        "question": "What is the typeface used for the primary heading, considering its boldness and style?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Judging by the visual hierarchy and size, what measurement unit is consistently used for the quantitative data?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the background color of this rectangular informational label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the visual style of the numerical values, such as percentages and quantities, in their formatting?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Observing the visual structure, what is the pattern of data arrangement, row-wise or column-wise?",
+        "answer": "Column"
+      },
+      {
+        "question": "What is the material of the surface on which the data is printed, to judge by its texture?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Considering the visual cues such as the small print, what is the type of label depicted?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Based solely on visual analysis, what is the alignment of most of the textual data on the label?",
+        "answer": "Left"
+      },
+      {
+        "question": "What is the overall shape of the product shown?",
+        "answer": "Rectangle"
+      },
+      {
+        "question": "What visual style is used to present the percentage values relative to daily intake?",
+        "answer": "Numeric"
+      },
+      {
+        "question": "Given the presented visual information, what kind of document is shown?",
+        "answer": "Label"
+      },
+      {
+        "question": "What is the general condition of this nutritional fact label, as visually evident?",
+        "answer": "New"
+      }
+    ]
+  }
+]

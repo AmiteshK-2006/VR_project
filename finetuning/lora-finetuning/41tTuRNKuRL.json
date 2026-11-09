@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8c/8c94cb2f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the depicted writing instrument, as visibly apparent in the provided image?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the overall form, what is the most accurate geometrical description of this object's shape?",
+        "answer": "Conical"
+      },
+      {
+        "question": "Based on visual inspection, what appears to be the primary material composing the barrel of this pen?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Judging from the image, does the pen's surface texture appear smooth or rough to the touch?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the tip closely, what type of writing mechanism is visibly present at the pen's end?",
+        "answer": "Ballpoint"
+      },
+      {
+        "question": "What is the overall visual impression of the pen's design: simple or complex?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Examining the image, is there any noticeable branding or text imprinted on the pen's body?",
+        "answer": "None"
+      },
+      {
+        "question": "Is the pen's body, judging visually, composed of a single piece or multiple components?",
+        "answer": "Single"
+      },
+      {
+        "question": "Considering the visual properties, what is the most apparent finish of the pen's surface?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "From the image, does the pen's color appear uniform or variegated across its surface?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Does the visible portion of the pen suggest a retractable or non-retractable design?",
+        "answer": "Non-retractable"
+      },
+      {
+        "question": "Based on the visual details, what is the approximate size of the pen relative to common objects?",
+        "answer": "Standard"
+      },
+      {
+        "question": "Focusing on the pen's tip, does it seem sharp or blunt in its visual presentation?",
+        "answer": "Blunt"
+      },
+      {
+        "question": "In terms of visual design elements, are there any distinctive features or embellishments on the pen?",
+        "answer": "None"
+      },
+      {
+        "question": "Does the image suggest the pen is transparent, translucent, or opaque?",
+        "answer": "Opaque"
+      }
+    ]
+  }
+]

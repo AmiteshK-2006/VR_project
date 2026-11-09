@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c0/c030bd4a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the food packaging, as shown in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the visible text, what is the primary ingredient listed on the package?",
+        "answer": "Potato"
+      },
+      {
+        "question": "Based on the visible text, what other vegetable powder is included in the ingredients?",
+        "answer": "Spinach"
+      },
+      {
+        "question": "What is the shape of the overall food packaging depicted in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the overall texture of the packaging material visible in the provided image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What color is the text on the food packaging visible in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the main text style used for the ingredients list on the package?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Judging from the image, what appears to be the size of the food packaging?",
+        "answer": "Small"
+      },
+      {
+        "question": "What additional spice is listed in the ingredients, based on visual examination of the image?",
+        "answer": "Turmeric"
+      },
+      {
+        "question": "What is the orientation of the product packaging visible in the image?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Based on the visible text, what type of oil is used in the product?",
+        "answer": "Sunflower"
+      },
+      {
+        "question": "What is the apparent material of the primary packaging, judging from the provided image?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the style of the packaging design, according to the image provided?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What type of information is primarily displayed on the visible portion of the packaging?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Based on the image, does the packaging show any prominent logo or brand name?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

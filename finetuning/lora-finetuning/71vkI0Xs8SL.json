@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0b/0bae95bd.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color scheme of this food label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary textual element prominently displayed at the top of the nutrition facts panel?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Based on the visual layout, what key nutritional information category is featured in bold immediately beneath the heading?",
+        "answer": "Calories"
+      },
+      {
+        "question": "What measurement unit is consistently used to quantify the amount of fat within this food product?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the primary type of information conveyed by the comprehensive list of entries on the panel?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the visual style of the numerical values and percentages presented within the body of the nutrition facts panel?",
+        "answer": "Regular"
+      },
+      {
+        "question": "What kind of layout is used to organize the nutritional data within each category of this food label?",
+        "answer": "Columnar"
+      },
+      {
+        "question": "What is the shape of the nutritional facts panel as a whole, as depicted in the given image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the text style of the heading 'Nutrition Facts', which is observed at the top of the panel?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the visual texture of the paper on which the nutrition facts are printed, if you were to touch it?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the visual prominence and positioning of the 'Serving Size' information block within the overall panel.",
+        "answer": "Prominent"
+      },
+      {
+        "question": "Considering the visual features, what is the visual weight or emphasis of the 'Calories' information block?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "Describe the arrangement of the data related to vitamins and minerals at the bottom of the nutritional information.",
+        "answer": "tabular"
+      },
+      {
+        "question": "Describe the visual clarity and legibility of the numerical values and labels found throughout the label.",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the overall visual impression that the label gives in terms of its clarity and organization?",
+        "answer": "Organized"
+      }
+    ]
+  }
+]

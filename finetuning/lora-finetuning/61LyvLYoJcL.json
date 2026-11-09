@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e9/e9ad913e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual appearance, what is the dominant textual characteristic displayed on the product?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Based on the visible text, what primary ingredient is explicitly mentioned in the product's composition?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "What specific descriptive term precedes the words \"enriched wheat flour\" in the list of components?",
+        "answer": "Bleached"
+      },
+      {
+        "question": "Disregarding punctuation, what is the first word written in the visible textual content?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the final word shown on the bottom line of the visible text?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "What word is employed to describe the manner in which the wheat flour has been processed?",
+        "answer": "Bleached"
+      },
+      {
+        "question": "What is the final word on the second line of the list of components?",
+        "answer": "RIBOFLAVIN"
+      },
+      {
+        "question": "Apart from wheat, what other nutrient is explicitly detailed in the description of the flour?",
+        "answer": "Iron"
+      },
+      {
+        "question": "What chemical compound, appearing within parentheses in the ingredient list, is mentioned as being included in the wheat flour?",
+        "answer": "Niacin"
+      },
+      {
+        "question": "Ignoring punctuation, what is the second word in the visible text detailing the ingredients?",
+        "answer": "Enriched"
+      },
+      {
+        "question": "What is the final word on the third line of visible text concerning the ingredients?",
+        "answer": "Enzyme"
+      },
+      {
+        "question": "What word describes a form of vitamin B in the ingredient list?",
+        "answer": "Thiamine"
+      },
+      {
+        "question": "What is the grammatical category of the word \"Contains\" in the visible text?",
+        "answer": "Verb"
+      },
+      {
+        "question": "What word, also a vitamin B, is located directly before the word \"and\"?",
+        "answer": "Riboflavin"
+      },
+      {
+        "question": "What vitamin, appearing in the list of components, is given in its abbreviated form?",
+        "answer": "Folic"
+      }
+    ]
+  }
+]

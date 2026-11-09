@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8d/8dfa51b6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant visual characteristic of the object's form, considering its three-dimensional properties and overall geometry?",
+        "answer": "Round"
+      },
+      {
+        "question": "Considering the object's surface, what is the most apparent textural quality perceptible to the eye?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on visual observation, what single word best describes the object's apparent color?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Ignoring the background, what single word best describes the object's overall hue?",
+        "answer": "Pale"
+      },
+      {
+        "question": "Disregarding the background and focusing solely on the item, what is its apparent color family?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "What is the most apparent visual characteristic of the object's surface finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging solely from its appearance, what is the most likely material composition of the object?",
+        "answer": "Tablet"
+      },
+      {
+        "question": "Considering its visible properties, what is the single-word description of its visual consistency?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What is the most obvious visual feature regarding the object's physical dimensions?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the most apparent visual characteristic of the object's physical structure?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Considering its visual attributes, what single word can describe the item's apparent surface quality?",
+        "answer": "Unmarked"
+      },
+      {
+        "question": "Based purely on the visual details, how would you describe the object's apparent weight?",
+        "answer": "Light"
+      },
+      {
+        "question": "If describing the item based only on visual assessment, what single word best captures its form?",
+        "answer": "Circular"
+      },
+      {
+        "question": "In terms of the visual texture of the item, what best describes its surface's tactile quality?",
+        "answer": "Soft"
+      },
+      {
+        "question": "From the visual appearance only, what single word best describes its overall visual impression?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

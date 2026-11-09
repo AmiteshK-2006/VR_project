@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/90/90cb00a2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric depicted in the provided image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visible weave, what is the apparent texture of the fabric?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Based on the image, what kind of material appears to constitute the fabric?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Describe the overall visual pattern present within the fabric's structure.",
+        "answer": "Textured"
+      },
+      {
+        "question": "Judging from the image, what is the apparent finish of the fabric surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the primary direction of the visible threads in the fabric's composition?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "In terms of density, how would you characterize the weave of the fabric shown?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Does the fabric in the picture exhibit any noticeable sheen or glossiness?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the visual details, is there any discernible print or pattern on the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the image, how would you describe the visual uniformity of the fabric's color?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "From the image, what can be inferred about the thickness of the fabric presented?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Based on the image, what is the general visual impression of the fabric's weight?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "What is the most noticeable characteristic visible in the fabric's structure?",
+        "answer": "Weave"
+      },
+      {
+        "question": "Does the image reveal any visible irregularities or imperfections in the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "From the image alone, what can you say about the level of detail in the fabric's weave?",
+        "answer": "Fine"
+      }
+    ]
+  }
+]

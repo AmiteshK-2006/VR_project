@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/38/385bb723.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape and printed text, what is the primary function suggested by the image's visual content?",
+        "answer": "Label"
+      },
+      {
+        "question": "Examining the text's font, size, and style, describe the overall visual impression of the typography used throughout the label?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Based on the visual appearance, what seems to be the intended purpose of the text, given its position, size, and the inclusion of an ingredient list?",
+        "answer": "Instructional"
+      },
+      {
+        "question": "Observing the detailed list, what culinary category does the product likely fall under judging solely from the named ingredients?",
+        "answer": "Condiment"
+      },
+      {
+        "question": "Given the listed ingredients, what would you infer as the product's texture based solely on what's visually presented?",
+        "answer": "Viscous"
+      },
+      {
+        "question": "Considering the text's alignment and density, what is the overall design aesthetic of the label presented in the image?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Judging from the presence and formatting of the ingredient list, what is the communicated characteristic of the product?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Does the label visually suggest any particular manufacturing process based on its content and presentation?",
+        "answer": "Processed"
+      },
+      {
+        "question": "From the listed ingredients, what is the inferred flavor profile of the product shown based solely on visual cues?",
+        "answer": "Spicy"
+      },
+      {
+        "question": "Based on the visual information provided, what might be a potential dietary concern for someone consuming the product?",
+        "answer": "Allergens"
+      },
+      {
+        "question": "Judging by the ingredients listed, what texture is visually implied for the product shown in the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent color of the surface that the text is printed on in the image?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Given the context of the visual information, determine the apparent method of information delivery provided in the image?",
+        "answer": "Printed"
+      },
+      {
+        "question": "Based on the visible text, what might be the primary storage format for the product?",
+        "answer": "Jar"
+      },
+      {
+        "question": "Based on the visual elements provided in the label's typography and arrangement, what is the overall visual feel?",
+        "answer": "Clean"
+      }
+    ]
+  }
+]

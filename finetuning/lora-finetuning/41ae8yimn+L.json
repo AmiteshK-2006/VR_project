@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/66/66c5775b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary descriptor of the flaxseed depicted on the label, considering its hue?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the overall shape of the label showcasing the product information?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the label's text, what is the status of the flaxseed production, according to the label?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What kind of seed is specifically detailed on the label, considering its botanical classification?",
+        "answer": "Flaxseed"
+      },
+      {
+        "question": "What is the textual description preceding the specification of the seed's type and attributes?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What color is the background of the label that lists the product details and other information?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the color of the text on the label providing product information, in terms of its hue?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the overall texture of the label that is providing product information, visually apparent?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the nature of the material upon which the product information is printed, or what is its form?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the style of the lettering used on the product label that contains all of the relevant information?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "In terms of its state, is the label intact, or is it marred in some obvious way?",
+        "answer": "Intact"
+      },
+      {
+        "question": "Considering the print's clarity, is the label's text on the product label easy to read, or is it unclear?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Considering the image, what is the method by which the product information is conveyed on the label?",
+        "answer": "Print"
+      },
+      {
+        "question": "What is the general condition of the label in the image provided, in terms of its presentation?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Considering the image, does the label seem professionally produced, or is it amateurish in its appearance?",
+        "answer": "Professional"
+      }
+    ]
+  }
+]

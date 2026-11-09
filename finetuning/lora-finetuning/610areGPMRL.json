@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/12/12dae419.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color scheme employed in the nutritional facts label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Focusing on the text blocks, what is the primary font style used for the headings and subheadings?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Analyzing the layout of the information, what is the method of organization used for the various vitamins and nutrients listed?",
+        "answer": "tabular"
+      },
+      {
+        "question": "Regarding the numerical data, what unit of measurement is consistently used for the Vitamin dosages?",
+        "answer": "mg"
+      },
+      {
+        "question": "Observing the detailed values, what is the highest percentage Daily Value shown for any single vitamin or nutrient?",
+        "answer": "243%"
+      },
+      {
+        "question": "Considering the context, what does the abbreviation 'IU' stand for in the context of Vitamin D measurement?",
+        "answer": "IU"
+      },
+      {
+        "question": "Based on the data, what is the total carbohydrate content per serving, expressed in grams?",
+        "answer": "5g"
+      },
+      {
+        "question": "In the context of the label's overall structure, what is the style of the borders surrounding each data cell in the table?",
+        "answer": "None"
+      },
+      {
+        "question": "Looking at the presentation, what is the overall shape of the nutritional information area of the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "In terms of visual hierarchy, what size and style is the font used for the 'Supplement Facts' heading at the top?",
+        "answer": "Large"
+      },
+      {
+        "question": "Regarding the visual structure, what is the primary method used to separate the different sections of nutritional information?",
+        "answer": "Spacing"
+      },
+      {
+        "question": "Analyzing the information, how many servings are indicated as being present in a single container?",
+        "answer": "30"
+      },
+      {
+        "question": "According to the label, what is the serving size of the product, expressed in terms of units?",
+        "answer": "2"
+      },
+      {
+        "question": "Considering the visual presentation of values, what is the style used for representing percentages of Daily Value?",
+        "answer": "Numeric"
+      },
+      {
+        "question": "In terms of the label's visual elements, what is the relative size of the text indicating 'Supplement Facts' compared to other text?",
+        "answer": "Larger"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/25/2567d2e9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary material visibly composing the entirety of this drinking glass?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Considering the overall form, what geometric descriptor best encapsulates this container's shape?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Observing the base, what is the descriptive adjective for its profile in relation to the glass's main body?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Based on visual inspection, what is the predominant color or lack thereof in this drinking glass?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Describe the surface texture apparent on the exterior of the glass, considering any irregularities or smoothness?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the glass exhibit any noticeable patterns, designs, or embellishments on its surface?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the visual appearance of the rim at the top opening of this drinking glass?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the overall height-to-width ratio, how would you describe the glass's proportions?",
+        "answer": "Tall"
+      },
+      {
+        "question": "Regarding the glass's visible construction, is it composed of a single piece or multiple parts?",
+        "answer": "Single"
+      },
+      {
+        "question": "From the provided image, what is the approximate thickness of the glass walls, relative to the vessel's overall size?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Judging by its appearance, what is the most likely intended use of this glass vessel?",
+        "answer": "Drinking"
+      },
+      {
+        "question": "Does the image reveal any significant blemishes, imperfections, or distortions in the glass structure?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the visual impression of the glass's overall transparency, considering its ability to transmit light?",
+        "answer": "Transparent"
+      },
+      {
+        "question": "Considering the base's design, is it flared outwards, inwards, or straight?",
+        "answer": "SlightlyOutwards"
+      },
+      {
+        "question": "What is the apparent level of craftsmanship visually suggested by the glass's construction?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/55/5503d9e0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the ice cream's primary component, as shown on the container's image?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "Considering the container's label, what dessert flavor is prominently featured?",
+        "answer": "Bananas"
+      },
+      {
+        "question": "What is the secondary flavor element visually suggested in the ice cream depiction?",
+        "answer": "Caramel"
+      },
+      {
+        "question": "Based on the image, what is the type of container holding the ice cream?",
+        "answer": "Tub"
+      },
+      {
+        "question": "What is the color of the lid of the ice cream container, as shown in the product image?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What is the overall shape of the ice cream container depicted in the provided image?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the material that appears to comprise the primary structure of the ice cream container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What descriptive term is used on the container to specify the product type shown?",
+        "answer": "Icecream"
+      },
+      {
+        "question": "Observing the label, what word precedes 'Foster' in the product name?",
+        "answer": "Bananas"
+      },
+      {
+        "question": "What is the brand name, or identifier, visible on the ice cream container?",
+        "answer": "365"
+      },
+      {
+        "question": "What is the size of the ice cream container, as indicated on the label?",
+        "answer": "Pint"
+      },
+      {
+        "question": "What is the texture implied by the swirl in the ice cream's visual depiction?",
+        "answer": "Swirled"
+      },
+      {
+        "question": "What additional ingredient is mentioned in the description on the label?",
+        "answer": "Whiskey"
+      },
+      {
+        "question": "What is the color of the secondary swirl in the ice cream depicted on the label?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What word follows the word 'Bananas' on the product label?",
+        "answer": "Foster"
+      }
+    ]
+  }
+]

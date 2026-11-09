@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/23/23bc0346.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the image?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the drape and folds, what is the apparent texture of the material?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on its appearance, what is the likely finish of the fabric; matte or glossy?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Judging by the image, does the fabric appear to be woven or knitted?",
+        "answer": "Woven"
+      },
+      {
+        "question": "From the image, what is the overall impression of the fabric's weight; light, medium or heavy?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Does the fabric exhibit any visible pattern or print in the provided image?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering its drape and sheen, what is the likely fiber content of this fabric?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "What is the general shape of the fabric presentation within the image?",
+        "answer": "Swirled"
+      },
+      {
+        "question": "What is the general appearance or impression of the fabric's surface?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Does the fabric showcase any visible imperfections or irregularities in its structure?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the perceived level of the fabric's opacity; sheer or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Based on the image, is the fabric showing any evidence of stretch or elasticity?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the image, what is the fabric's overall visual appeal; dull or vibrant?",
+        "answer": "Vibrant"
+      },
+      {
+        "question": "Does the fabric show any noticeable pilling or fuzziness in the provided close-up?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the folds, how would you describe the fabric's hand or feel; stiff or soft?",
+        "answer": "Soft"
+      }
+    ]
+  }
+]

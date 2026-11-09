@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6e/6ed1a924.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape and the detailed nutritional information presented in a tabular format, what is the primary function of this product's packaging?",
+        "answer": "Label"
+      },
+      {
+        "question": "Observing the text's font style and size, what is the general design style of this food product label, considering the clarity and organization of nutritional data?",
+        "answer": "Clean"
+      },
+      {
+        "question": "What is the predominant color used for the background of the nutrition facts panel, providing a neutral backdrop for the text?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the color of the text, which provides high contrast to the label’s background for optimal readability?",
+        "answer": "Black"
+      },
+      {
+        "question": "What color is the text of the heading 'Nutrition Facts', which visually emphasizes this crucial section of the food label?",
+        "answer": "Green"
+      },
+      {
+        "question": "Judging by the clear, easily readable text format and the well-structured table of values, what can be said about the overall readability of the label?",
+        "answer": "High"
+      },
+      {
+        "question": "Based on the visual appearance of the text, what can be inferred about the font used in the label design – Serif or Sans-serif?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the prominent display of daily values and serving sizes, what type of information is highlighted for consumer awareness?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Based on the style of presentation, what aspect of the label is prioritized in terms of design elements and information hierarchy?",
+        "answer": "Clarity"
+      },
+      {
+        "question": "From the visual layout, which type of tabular structure is used to present the nutritional facts – a simple list, a columnar table, or a complex chart?",
+        "answer": "Table"
+      },
+      {
+        "question": "Based on the visible text 'Serving Size 1 Cup (65g)', what unit of measurement is used to describe the serving size of this food product?",
+        "answer": "Cup"
+      },
+      {
+        "question": "Considering the prominent placement and textual description, what specific measurement is indicated for one serving?",
+        "answer": "65g"
+      },
+      {
+        "question": "Based on the values indicated, what is the number of servings provided in the container of this product, indicated by the text 'Servings Per Container'?",
+        "answer": "One"
+      },
+      {
+        "question": "Looking at the numerical values present within the table, what metric is the primary focus of the nutritional information, such as total fat, carbohydrates, or protein?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the overall texture of the label surface implied by the image, assuming a standard printing process is used?",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

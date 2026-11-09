@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/88/88d12825.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's overall presentation, what is the primary style of text used to convey the product's ingredients?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the text's appearance, what is the likely method of printing used for the ingredient list?",
+        "answer": "Offset"
+      },
+      {
+        "question": "Observing the listed ingredients, what is the main component used in this product's preparation?",
+        "answer": "Popcorn"
+      },
+      {
+        "question": "What specific type of oil, as explicitly mentioned in the ingredient list, is used in this food item?",
+        "answer": "Palm"
+      },
+      {
+        "question": "According to the ingredient list, which flavoring agent has been included in the food product's recipe?",
+        "answer": "Butter"
+      },
+      {
+        "question": "Focusing on the text's structure, what organizational approach has been used to present the ingredient list?",
+        "answer": "List"
+      },
+      {
+        "question": "Judging by the typeface and word spacing, what is the likely tone or style conveyed in this product's labeling?",
+        "answer": "Informative"
+      },
+      {
+        "question": "What common food additive, as indicated on the label, is contained within this food product?",
+        "answer": "Salt"
+      },
+      {
+        "question": "What is the specification given for the popcorn kernels according to the product label?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the descriptor for the palm oil used, according to the ingredient label?",
+        "answer": "Expeller"
+      },
+      {
+        "question": "What qualification is provided regarding the potential presence of other allergenic substances, as per the cautionary statement?",
+        "answer": "Milk"
+      },
+      {
+        "question": "In the cautionary statement, what secondary allergen might this product contain?",
+        "answer": "Soy"
+      },
+      {
+        "question": "What is the overall appearance of the typography used for the ingredient listing and cautionary statement?",
+        "answer": "Plain"
+      },
+      {
+        "question": "What type of statement follows the ingredient list and conveys important safety information?",
+        "answer": "Caution"
+      },
+      {
+        "question": "What is the overall color scheme predominantly used in the textual display on the product packaging?",
+        "answer": "Black"
+      }
+    ]
+  }
+]

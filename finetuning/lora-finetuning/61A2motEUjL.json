@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9d/9d2c392d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the text on the nutrition facts label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the nutrition facts label panel?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the background color of the nutrition label section?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the font style of the header 'Nutrition Facts'?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What measurement unit is used for 'Serving size'?",
+        "answer": "tsp"
+      },
+      {
+        "question": "What is the unit of measurement for 'Sodium'?",
+        "answer": "mg"
+      },
+      {
+        "question": "What is the numerical value for 'Calories' per serving?",
+        "answer": "5"
+      },
+      {
+        "question": "What is the number of servings indicated per container?",
+        "answer": "68"
+      },
+      {
+        "question": "What is the weight of one serving in grams?",
+        "answer": "5"
+      },
+      {
+        "question": "What is the text style of the numerical values in the table?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the listed value for 'Total Fat' in grams?",
+        "answer": "0"
+      },
+      {
+        "question": "What is the listed value for 'Total Carb.' in grams?",
+        "answer": "0"
+      },
+      {
+        "question": "What is the listed value for 'Protein' in grams?",
+        "answer": "0"
+      },
+      {
+        "question": "What percentage of the daily value does the sodium content represent?",
+        "answer": "3"
+      },
+      {
+        "question": "What is the format of the information presented on the label?",
+        "answer": "Table"
+      }
+    ]
+  }
+]

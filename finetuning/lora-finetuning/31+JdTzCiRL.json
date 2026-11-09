@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/60/60a66b5d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the container holding the product?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary material of the container visible in the image?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the overall shape of the product's container, ignoring the lid?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the color of the primary text label on the product container?",
+        "answer": "Green"
+      },
+      {
+        "question": "What word prominently features on the product's label, indicating its contents?",
+        "answer": "Yeast"
+      },
+      {
+        "question": "What adjective describes the nutritional profile of this yeast, as seen on the label?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the color of the smaller text and design elements on the label?",
+        "answer": "Olive"
+      },
+      {
+        "question": "What is the apparent texture of the plastic container, based on the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What kind of lid does the container appear to have, in terms of its shape?",
+        "answer": "Wide"
+      },
+      {
+        "question": "Describe the overall style of the product's labeling design, in one word?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the color of the brand name prominently displayed on the container?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the shape of the brand's logo, as shown on the product container?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What type of food product does the label identify as being contained inside?",
+        "answer": "Vegan"
+      },
+      {
+        "question": "What is the apparent size of the container compared to a human hand?",
+        "answer": "Large"
+      },
+      {
+        "question": "Considering the image and label, what is the overall impression of the product's branding?",
+        "answer": "Clean"
+      }
+    ]
+  }
+]

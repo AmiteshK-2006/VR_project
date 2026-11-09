@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/7f/7fbf9748.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the food product visually presented within the container?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What appears to be the overall texture of the food product, judging solely from the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent shape of the container holding the food product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material seems to compose the primary container for this food item, based solely on visual observation?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the image alone, what is the apparent consistency of the product inside the container?",
+        "answer": "Creamy"
+      },
+      {
+        "question": "Based on the visual information, what is the style of the label font used on the container?",
+        "answer": "Script"
+      },
+      {
+        "question": "What is the overall color palette of the label's design, according to visual inspection?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Describe the form of the label's primary text, as depicted in the image.",
+        "answer": "Curved"
+      },
+      {
+        "question": "What is the visual prominence of the brand name on the container\u2019s label?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "Considering the visual evidence, what type of lid is present on the food container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Does the container appear to be transparent, translucent, or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What is the visible design element next to the product name on the label?",
+        "answer": "Logo"
+      },
+      {
+        "question": "What is the apparent finish of the visible container's surface?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What is the visible placement of the nutrition facts on the container?",
+        "answer": "Side"
+      },
+      {
+        "question": "Based on visual analysis alone, is the container's label predominantly graphical or textual?",
+        "answer": "Textual"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d5/d52eb21d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the provided image, what is the primary textual element displayed prominently?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Based on the visual observation of the text, what is the predominant font style employed?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the general orientation of the text within the rectangular frame?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Judging from the image, what seems to be the primary purpose of the displayed information?",
+        "answer": "Listing"
+      },
+      {
+        "question": "Does the image reveal any type of graphic elements aside from the text itself?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the overall text alignment within the rectangular border?",
+        "answer": "Left"
+      },
+      {
+        "question": "From the image, what can be inferred as the approximate font size used for the ingredient list?",
+        "answer": "Small"
+      },
+      {
+        "question": "Based on the image, what color is used for the text in the provided rectangular frame?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the approximate line spacing or leading used within the presented ingredient list?",
+        "answer": "Single"
+      },
+      {
+        "question": "Does the provided image showcase any bold or italicized text sections within the text?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the background color of the rectangular area that holds the text?",
+        "answer": "White"
+      },
+      {
+        "question": "Judging by the provided image, does the text seem to follow a structured format?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What appears to be the most common punctuation used in the displayed text?",
+        "answer": "Comma"
+      },
+      {
+        "question": "Considering the image, what seems to be the primary medium of this display?",
+        "answer": "Printed"
+      },
+      {
+        "question": "In the image's context, does the text suggest any product-specific characteristics beyond the ingredients?",
+        "answer": "No"
+      }
+    ]
+  }
+]

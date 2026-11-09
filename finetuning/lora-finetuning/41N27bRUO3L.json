@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4d/4dc3c1f7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the presented object, considering its borders and inner cutout?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the visible surface, what dominant color characterizes the item?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on its visual appearance, what material seems to constitute the displayed object?",
+        "answer": "Cardstock"
+      },
+      {
+        "question": "Describe the texture of the object's visible surface, considering its uniformity and smoothness?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the most prominent visual feature of the object's design, excluding its overall shape?",
+        "answer": "Opening"
+      },
+      {
+        "question": "Considering the object's central feature, what geometric shape defines its inner void?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging from the image, how would you characterize the object's overall thickness?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Does the item's surface exhibit any noticeable pattern, markings, or texture variations?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the object's structural integrity, what is its apparent rigidity?",
+        "answer": "Rigid"
+      },
+      {
+        "question": "What is the apparent visual finish of the item's outermost surface, glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the image alone, what is the implied use of the rectangular inner area?",
+        "answer": "Framing"
+      },
+      {
+        "question": "Based on the visible characteristics, what is the apparent weight of this item?",
+        "answer": "Light"
+      },
+      {
+        "question": "Judging by its appearance, is the object pliable or inflexible?",
+        "answer": "Inflexible"
+      },
+      {
+        "question": "What is the apparent visual state of the object, damaged or pristine?",
+        "answer": "Pristine"
+      },
+      {
+        "question": "Considering the image, what is the overall aesthetic impression of this object?",
+        "answer": "Minimalist"
+      }
+    ]
+  }
+]

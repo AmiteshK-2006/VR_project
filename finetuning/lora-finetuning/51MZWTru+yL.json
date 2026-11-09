@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f2/f21c80f7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary textual element displayed prominently on the product's surface, indicating the type of information provided?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Considering the overall layout, what is the dominant organizational structure used to present the data in a clear and structured manner?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the precise unit of measurement used for expressing the serving size of the food item?",
+        "answer": "Ounces"
+      },
+      {
+        "question": "What is the numerical value provided for the total number of calories present in a single serving?",
+        "answer": "150"
+      },
+      {
+        "question": "What is the numerical value indicating the amount of total fat, measured in grams, per serving?",
+        "answer": "10g"
+      },
+      {
+        "question": "What is the numerical value representing the total amount of protein found in each serving?",
+        "answer": "13g"
+      },
+      {
+        "question": "In terms of the provided nutrition information, what is the numerical value, in milligrams, for the amount of sodium per serving?",
+        "answer": "500mg"
+      },
+      {
+        "question": "What is the numerical value that expresses the number of servings contained within the product's packaging?",
+        "answer": "6"
+      },
+      {
+        "question": "What is the specific unit of measurement used to quantify the amount of cholesterol in a serving of the food item?",
+        "answer": "mg"
+      },
+      {
+        "question": "What is the numerical value which states the amount of saturated fat, in grams, present per serving?",
+        "answer": "3.5g"
+      },
+      {
+        "question": "What is the descriptive term indicating the type of fat which is completely absent in a single serving?",
+        "answer": "Trans"
+      },
+      {
+        "question": "What is the unit of measurement that is consistently used to represent the quantities of the various macronutrients in this table?",
+        "answer": "grams"
+      },
+      {
+        "question": "What is the percentage value which shows the daily value of vitamin A provided by a single serving?",
+        "answer": "0%"
+      },
+      {
+        "question": "What is the percentage value that shows the percentage of the recommended daily value of iron in a serving?",
+        "answer": "4%"
+      },
+      {
+        "question": "What is the color of the text used to present the provided nutrition information on this product label?",
+        "answer": "Black"
+      }
+    ]
+  }
+]

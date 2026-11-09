@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e1/e1378109.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall design, what is the primary function conveyed by the prominent display of numerical data organized in rows and columns, featuring bold typefaces and percentage values, all within clearly defined rectangular sections?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the descriptive term used to denote the total energy content, expressed in a large, bold numeric format, indicating the amount of energy per serving?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Focusing on the textual elements, what specific term refers to the quantitative measure of the fatty substances present, and what is the unit of measurement used to quantify the amount of fat present?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Observing the numerical values, what is the specific amount of saturated fat present, indicated by both a numeric value and a unit of measurement?",
+        "answer": "3.5g"
+      },
+      {
+        "question": "Based on the textual information, what is the total amount of carbohydrates present in the food item, represented as a numeric value followed by its respective unit?",
+        "answer": "39g"
+      },
+      {
+        "question": "Analyzing the numerical data, what is the quantity of sugars included in the product, represented by a numerical value with its unit of measurement, specifying the total amount of sugars present?",
+        "answer": "25g"
+      },
+      {
+        "question": "Focusing on the layout and formatting, what is the general shape of the nutritional fact panel section, and what type of design is used to present the data consistently?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What specific term describes the dietary component that contributes to the product's overall protein content?",
+        "answer": "Protein"
+      },
+      {
+        "question": "What is the type of information conveyed in the table, specifically related to the components of the food item?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the unit used for measuring the potassium content?",
+        "answer": "mg"
+      },
+      {
+        "question": "What is the numerical value that represents the amount of iron present in a serving?",
+        "answer": "2.5"
+      },
+      {
+        "question": "What term denotes the percentage values next to each nutrient?",
+        "answer": "Percent"
+      },
+      {
+        "question": "Observing the text, what is the word used to describe facts related to the food content?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Based on the textual information, what is the total serving size?",
+        "answer": "71g"
+      },
+      {
+        "question": "What is the color scheme predominantly used in the visual display of the nutrition facts?",
+        "answer": "Black"
+      }
+    ]
+  }
+]

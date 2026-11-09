@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a0/a01392b4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall appearance, what is the primary color of the depicted textile?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the visible texture, what is the most likely material of the shown fabric?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "Judging by the visible label, where was this product manufactured?",
+        "answer": "Poland"
+      },
+      {
+        "question": "From the label's information, what percentage of polyester constitutes the filling?",
+        "answer": "100"
+      },
+      {
+        "question": "Observing the label's washing instructions, what is the recommended washing parameter?",
+        "answer": "60"
+      },
+      {
+        "question": "What brand is explicitly mentioned on the visible label?",
+        "answer": "Amazonbasics"
+      },
+      {
+        "question": "Considering the text on the label, what is the primary language used for instructions?",
+        "answer": "English"
+      },
+      {
+        "question": "What is the shape of the labeled item, inferred from the visible portion?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the material of the main covering layer indicated on the label?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "What is the nature of the provided washing instructions, regarding color matching?",
+        "answer": "Similar"
+      },
+      {
+        "question": "What type of care symbol is prominently displayed on the label, relating to washing?",
+        "answer": "Machine"
+      },
+      {
+        "question": "Considering the details on the label, what is the type of care symbol related to ironing?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the nature of the care symbol pertaining to bleaching, as shown on the label?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the type of care symbol shown concerning tumble drying, based on the label?",
+        "answer": "None"
+      },
+      {
+        "question": "Judging from the label's instructions, what is the recommended method for washing this product?",
+        "answer": "Machine"
+      }
+    ]
+  }
+]

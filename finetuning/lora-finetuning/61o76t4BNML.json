@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/06/062892f0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant text color depicted on the product's label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the visual appearance, what is the primary background color of the product's label?",
+        "answer": "White"
+      },
+      {
+        "question": "Examining the text's visual style, what font type is predominantly used for labeling the ingredients?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Analyzing the text's arrangement, what is the primary structural element used to organize the information?",
+        "answer": "List"
+      },
+      {
+        "question": "Observing the text closely, what is the visual descriptor for the style of the lettering (e.g., bold, italic)?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Focusing on the textual details, what is the term visually presented to indicate the list of substances?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Observing the visual presentation, what descriptive term is used to clarify the product's manufacturing location?",
+        "answer": "Produced"
+      },
+      {
+        "question": "Considering the product label, what is the visual indicator of a potential allergen or additive?",
+        "answer": "Soy"
+      },
+      {
+        "question": "Based on the label's visuals, what compound is visually mentioned to hinder clumping?",
+        "answer": "Silicon"
+      },
+      {
+        "question": "By observing the label image, what spice is visually listed as an ingredient?",
+        "answer": "Paprika"
+      },
+      {
+        "question": "From the visual analysis of the product label, what grain is mentioned as part of processing?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "Examining the label's visual information, what herb is visibly listed as part of the composition?",
+        "answer": "Oregano"
+      },
+      {
+        "question": "Considering the image of the label, what vegetable is visually listed as part of the seasoning?",
+        "answer": "Onion"
+      },
+      {
+        "question": "By inspecting the image, what is the visual identifier for a key component to enhance flavor?",
+        "answer": "Garlic"
+      },
+      {
+        "question": "Judging from the image, what essential ingredient is listed that is commonly found in culinary preparations?",
+        "answer": "Salt"
+      }
+    ]
+  }
+]

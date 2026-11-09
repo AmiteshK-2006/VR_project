@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d2/d2691018.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall cylindrical shape and the visible cap, what is the primary form factor of this product?",
+        "answer": "Stick"
+      },
+      {
+        "question": "Observing the visible adhesive inside the transparent cap, what is the color of the glue?",
+        "answer": "Purple"
+      },
+      {
+        "question": "Based on the material's appearance and how it reflects light, what seems to be the container's texture?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What appears to be the predominant material composing the product's outer casing?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the design and the printing on the container, is this product likely for household or industrial use?",
+        "answer": "Household"
+      },
+      {
+        "question": "What is the apparent finish or sheen of the product's outer packaging, based on visual observation?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Given its apparent dimensions, what would best describe this product's size category: large, medium, or small?",
+        "answer": "Small"
+      },
+      {
+        "question": "Looking at the labeling details, is this product identified as a single-use or multi-use item?",
+        "answer": "Multi"
+      },
+      {
+        "question": "Judging by the clarity of the label, is the text on the product's container easy or difficult to read?",
+        "answer": "Easy"
+      },
+      {
+        "question": "Analyzing the text on the label, what is the stated function of the product as clearly indicated?",
+        "answer": "Glue"
+      },
+      {
+        "question": "Based on the appearance of the container, what type of closure does this product seem to have?",
+        "answer": "Twist"
+      },
+      {
+        "question": "What brand is prominently displayed on the packaging label of this product?",
+        "answer": "Amazon"
+      },
+      {
+        "question": "What adjective best describes the design style of the label, considering its simplicity and lack of ornamentation?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "According to the text on the label, what is one key property of this particular glue?",
+        "answer": "Washable"
+      },
+      {
+        "question": "Based on visual inspection, does the container have any noticeable decorative elements or patterns besides text?",
+        "answer": "No"
+      }
+    ]
+  }
+]

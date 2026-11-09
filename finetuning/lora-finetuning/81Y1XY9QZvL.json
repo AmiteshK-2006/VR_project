@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/43/43c67565.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the product packaging, as visually apparent in the image?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering the overall shape, what is the best geometrical descriptor for the product's container?",
+        "answer": "Pouch"
+      },
+      {
+        "question": "What seems to be the primary material used for the product's packaging, judging from its appearance?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Based solely on visual inspection, what is the most noticeable graphic element displayed on the packaging?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What textual element is predominantly featured on the main side panel of the product's packaging?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Judging from the visual clues, what appears to be the primary texture of the product's packaging material?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the general impression of the product's packaging design, in terms of its style?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Considering the visible features, can you describe the overall form of the package?",
+        "answer": "Bag"
+      },
+      {
+        "question": "What is depicted in the smaller graphic image near the nutritional facts panel?",
+        "answer": "Food"
+      },
+      {
+        "question": "What is the apparent physical condition of the product's packaging, as shown?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Regarding the visible text, what seems to be the orientation of the nutritional facts label?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the apparent state of the product within the packaging?",
+        "answer": "Dry"
+      },
+      {
+        "question": "What seems to be the size of the product's container, judging from the image?",
+        "answer": "Large"
+      },
+      {
+        "question": "Based on the image, what type of product is packaged in this container?",
+        "answer": "Food"
+      },
+      {
+        "question": "What is the overall visual impression made by the product's packaging design and color scheme?",
+        "answer": "Plain"
+      }
+    ]
+  }
+]

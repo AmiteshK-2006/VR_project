@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c1/c1ec8720.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the charging brick's casing?",
+        "answer": "White"
+      },
+      {
+        "question": "What material appears to constitute the main body of the adapter?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the overall shape of the power adapter, disregarding prongs?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describing the surface texture, is it glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What type of plug does this adapter utilize for wall sockets?",
+        "answer": "US"
+      },
+      {
+        "question": "How many power prongs extend from the adapter's base?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the apparent finish of the metallic prongs?",
+        "answer": "Silver"
+      },
+      {
+        "question": "Is there any visible branding or text on the adapter's surface?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent orientation of the text relative to the prongs?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Considering the visible text, is the font style serif or sans-serif?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Describe the design of the visible part of the adapter's casing.",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the overall size of the adapter relative to a common object?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the color of the text printed on the adapter?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Are there any visible vents or openings in the adapter's body?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Excluding the prongs, what is the number of visible distinct sections?",
+        "answer": "One"
+      }
+    ]
+  }
+]

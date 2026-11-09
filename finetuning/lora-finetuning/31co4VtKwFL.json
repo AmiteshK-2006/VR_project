@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/01/01cb8444.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the device's outer shell?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary material of the device's construction?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the overall form, what geometric shape best describes the device?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What design feature is visible near the top center of the device's surface?",
+        "answer": "Handle"
+      },
+      {
+        "question": "Based on its appearance, what is the most likely function of this object?",
+        "answer": "Speaker"
+      },
+      {
+        "question": "Describe the texture visible on the majority of the device's external surface.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the noticeable pattern present on the device's face, immediately around its central design element?",
+        "answer": "Grid"
+      },
+      {
+        "question": "Are there any visible brand markings or logos on the device's front?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the shape of the central element that is present on the device's surface?",
+        "answer": "Circular"
+      },
+      {
+        "question": "Considering the base, how many feet does the device appear to have?",
+        "answer": "Four"
+      },
+      {
+        "question": "What is the apparent orientation of the small, central circular component on the face?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What kind of surface texture do the feet seem to possess?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Judging by the image, does the device seem to contain any protruding buttons or knobs?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the device exhibit a glossy or matte finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering its design features, does the device appear to be portable or stationary?",
+        "answer": "Portable"
+      }
+    ]
+  }
+]

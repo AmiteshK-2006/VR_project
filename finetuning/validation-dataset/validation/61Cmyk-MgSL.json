@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/06/06988890.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary ingredient explicitly stated on the product label?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "What other grain, besides wheat, is listed among the ingredients?",
+        "answer": "Barley"
+      },
+      {
+        "question": "Which type of flour is specifically identified as a component of the enriched flour?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "What nutrient is mentioned as being added to enhance the flour?",
+        "answer": "Niacin"
+      },
+      {
+        "question": "What mineral is included in the enriched flour blend?",
+        "answer": "Iron"
+      },
+      {
+        "question": "What vitamin, essential for metabolism, is listed in the ingredient information?",
+        "answer": "Thiamin"
+      },
+      {
+        "question": "What other B vitamin is noted in the ingredients of this product?",
+        "answer": "Riboflavin"
+      },
+      {
+        "question": "What crucial vitamin is included for neural tube development?",
+        "answer": "Folic"
+      },
+      {
+        "question": "What common seasoning ingredient is part of the product's composition?",
+        "answer": "Salt"
+      },
+      {
+        "question": "What starch is indicated as being potentially present?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "What leavening agent is listed among the ingredients?",
+        "answer": "Yeast"
+      },
+      {
+        "question": "What legume is noted as a potential allergen?",
+        "answer": "Soy"
+      },
+      {
+        "question": "What type of nut is specified as a possible contaminant?",
+        "answer": "Walnuts"
+      },
+      {
+        "question": "Considering the ingredients, what is the overall texture of the product likely to be?",
+        "answer": "Powdery"
+      },
+      {
+        "question": "Based on the ingredients, what is the likely color of this product?",
+        "answer": "Beige"
+      }
+    ]
+  }
+]

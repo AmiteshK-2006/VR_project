@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c1/c14ca8aa.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the container holding the supplement?",
+        "answer": "Bottle"
+      },
+      {
+        "question": "What is the predominant color of the label on the supplement bottle?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary text color used on the supplement label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the material that the label appears to be printed on?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the texture of the label, based on its visual appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the type of information prominently displayed on the label?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the format of the information presented on the supplement's label?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the key nutrient highlighted in large print on the label?",
+        "answer": "Iodine"
+      },
+      {
+        "question": "Considering the label's design, is it minimalist or ornate?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the overall style of the font used on the supplement label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the visual information provided, is the bottle transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What additional ingredient is listed besides iodine on the label?",
+        "answer": "Kelp"
+      },
+      {
+        "question": "What is the unit of measurement used for iodine content on the label?",
+        "answer": "mcg"
+      },
+      {
+        "question": "What is the stated serving size of the supplement, according to the label?",
+        "answer": "Drop"
+      },
+      {
+        "question": "Considering the label's text, what type of product is this?",
+        "answer": "Supplement"
+      }
+    ]
+  }
+]

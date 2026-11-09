@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fd/fde7bc0a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the visible product surface?",
+        "answer": "White"
+      },
+      {
+        "question": "What appears to be the primary material used in the product's construction?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Considering the product's overall geometry, what is its most prominent shape?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What kind of printing or markings are visible on the product's face?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the apparent texture of the product's outer layer?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Disregarding the text, what design elements are noticeable on the product's front side?",
+        "answer": "Logo"
+      },
+      {
+        "question": "Considering its size relative to the human hand, what could be the product's likely function?",
+        "answer": "Packaging"
+      },
+      {
+        "question": "Based on its size and apparent sturdiness, what is its probable weight?",
+        "answer": "Light"
+      },
+      {
+        "question": "Is there any visible evidence of perforations or other markings aiding separation?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the product display any visible signs of folding or creasing?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall visual impression of the product, considering its aesthetics?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What type of barcode or identifying symbol can be observed on the product?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "Are there any noticeable irregularities or imperfections in the product\u2019s surface?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall level of transparency of the product material?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Does the image show any indication of surface coatings or finishes?",
+        "answer": "No"
+      }
+    ]
+  }
+]

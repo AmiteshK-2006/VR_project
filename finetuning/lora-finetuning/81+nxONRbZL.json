@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/08/0840a0cc.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form and packaging, what is the primary shape of each individual food item within the plastic wrapping?",
+        "answer": "Round"
+      },
+      {
+        "question": "Based on the visual texture apparent on the surface of the food product, what is the predominant surface texture?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the color uniformly across the items, what single word best describes the color of the food product?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Judging by the image alone, what is the apparent food type presented in the package?",
+        "answer": "Buns"
+      },
+      {
+        "question": "Considering the packaging material seen, what is the material that the food product is packaged in?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the general size and form of the food item, relative to a human hand (e.g., small, large, etc.)?",
+        "answer": "Small"
+      },
+      {
+        "question": "Considering the product's apparent state, what is its state of preparation (e.g., raw, cooked, etc.)?",
+        "answer": "Raw"
+      },
+      {
+        "question": "Based on the visual evidence, what appears to be the quantity of food items included in the package?",
+        "answer": "Two"
+      },
+      {
+        "question": "From a visual standpoint, is the food item visually appealing (e.g., yes, no)?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Looking closely at the product, can any markings or designs be visibly identified on the product's surface?",
+        "answer": "None"
+      },
+      {
+        "question": "Based on the image, what is the most likely preparation method implied by the product's visual appearance (e.g., baking, frying)?",
+        "answer": "Baking"
+      },
+      {
+        "question": "Considering the product's apparent consistency, what is its likely consistency (e.g., soft, hard, etc.)?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What is the apparent general thickness of the food item, is it thin or thick?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Judging by the overall visual impression of the food item, what kind of food is it likely intended for (e.g., dessert, sandwich)?",
+        "answer": "Sandwich"
+      },
+      {
+        "question": "Considering the product's presentation and packaging, what is the likely method of sale (e.g., bulk, individual)?",
+        "answer": "Individual"
+      }
+    ]
+  }
+]

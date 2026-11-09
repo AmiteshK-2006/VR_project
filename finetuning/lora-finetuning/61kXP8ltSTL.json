@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d5/d5594479.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the presented acoustic panel?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the overall form, what geometric shape best describes the panel?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging by its appearance, what seems to be the primary material used in its construction?",
+        "answer": "Foam"
+      },
+      {
+        "question": "Based on visual inspection, does the panel's surface exhibit a noticeable texture?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From the image, is there any visible pattern or design imprinted on the panel's face?",
+        "answer": "None"
+      },
+      {
+        "question": "Does the panel's edge reveal a thickness that is relatively uniform across its length?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the image, does the product's surface appear to be matte or glossy?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on its appearance, is the panel likely intended for sound absorption or reflection?",
+        "answer": "Absorption"
+      },
+      {
+        "question": "Judging by the image, is the panel's surface completely unblemished or are there any marks visible?",
+        "answer": "Unblemished"
+      },
+      {
+        "question": "Can you determine if the object has any visible perforations or holes on its surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the image depict the panel as having a rigid or flexible consistency?",
+        "answer": "Rigid"
+      },
+      {
+        "question": "Considering the visual details, does the object appear to have a solid or hollow internal structure?",
+        "answer": "Solid"
+      },
+      {
+        "question": "What is the apparent visual density of the material composing the acoustic panel?",
+        "answer": "Dense"
+      },
+      {
+        "question": "From what can be visually ascertained, is the panel's surface visibly porous or non-porous?",
+        "answer": "Non-porous"
+      },
+      {
+        "question": "Based purely on visual cues, what is the apparent overall condition of the product shown?",
+        "answer": "New"
+      }
+    ]
+  }
+]

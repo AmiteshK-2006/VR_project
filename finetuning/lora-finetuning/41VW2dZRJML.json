@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/93/931eeb85.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall text displayed, what single word best describes the nature of the ingredients listed?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Focusing on the text, what specific aromatic herb is mentioned first in the ingredient list?",
+        "answer": "Peppermint"
+      },
+      {
+        "question": "What is the second herb explicitly mentioned in the text provided in the image?",
+        "answer": "Spearmint"
+      },
+      {
+        "question": "Based solely on the visible text, identify the third and final herb included in this product.",
+        "answer": "Lavender"
+      },
+      {
+        "question": "What is the overall visual presentation style of the information shown in the image?",
+        "answer": "Textual"
+      },
+      {
+        "question": "Disregarding any specific words, what is the general font style used to display the text information?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the orientation of the text on the surface shown in the provided image?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Judging from the displayed text, is the information presented as a short caption or a longer description?",
+        "answer": "Caption"
+      },
+      {
+        "question": "Ignoring any other details, what is the color palette predominantly used in the image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the approximate size of the text shown relative to its background?",
+        "answer": "Small"
+      },
+      {
+        "question": "Describe the clarity or sharpness of the text within the provided image.",
+        "answer": "Blurred"
+      },
+      {
+        "question": "Based on the presentation, what type of background surface is shown with the text?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Disregarding the words themselves, what is the visual alignment of the text block?",
+        "answer": "Left"
+      },
+      {
+        "question": "Considering the content, what is the implied function or use of this product's listed ingredients?",
+        "answer": "Flavoring"
+      },
+      {
+        "question": "What overall visual style would you apply to the presentation of the information shown?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

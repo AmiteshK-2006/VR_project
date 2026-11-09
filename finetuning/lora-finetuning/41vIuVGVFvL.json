@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/7a/7ae371ef.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the background of the ingredient label?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the font style used, what best describes the overall typeface?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Judging by the text's arrangement, what is the dominant orientation of the information?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Based on the text's clarity and precision, how would you characterize the label's style?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Analyzing the text size variations, what is the hierarchy within the label?",
+        "answer": "Hierarchical"
+      },
+      {
+        "question": "Given the text's density, does it suggest brevity or detail?",
+        "answer": "Detailed"
+      },
+      {
+        "question": "What is the apparent language in which the ingredients are listed?",
+        "answer": "English"
+      },
+      {
+        "question": "Regarding the text's weight or boldness, how does it appear overall?",
+        "answer": "Regular"
+      },
+      {
+        "question": "Observing the text's spacing between lines and words, is it close or open?",
+        "answer": "Open"
+      },
+      {
+        "question": "In terms of the visual appearance, does the text seem modern or antiquated?",
+        "answer": "Modern"
+      },
+      {
+        "question": "Considering the use of capitalization, what is the overall tone of the label?",
+        "answer": "Formal"
+      },
+      {
+        "question": "Based on the text's neatness and organization, how is its presentation?",
+        "answer": "Organized"
+      },
+      {
+        "question": "What is the overall texture of the label, based on its visual properties?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the label suggest an eco-friendly or non-eco-friendly nature of the product?",
+        "answer": "Eco-friendly"
+      },
+      {
+        "question": "Based on the visual design, what type of product is this label most associated with?",
+        "answer": "Food"
+      }
+    ]
+  }
+]

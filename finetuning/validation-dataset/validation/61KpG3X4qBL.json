@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b1/b172515b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color scheme of the depicted product label?",
+        "answer": "White"
+      },
+      {
+        "question": "Focusing on the lower section of the label, what are the three distinct circular shapes present, considering both size and color?",
+        "answer": "Circles"
+      },
+      {
+        "question": "Observing the text formatting carefully, what is the primary font style used throughout the product information?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Concentrating only on the lower right corner, what are the colors of the three small circles displayed?",
+        "answer": "Cyan"
+      },
+      {
+        "question": "Looking at the typography in the image, how would you describe the typeface used for the product information?",
+        "answer": "Block"
+      },
+      {
+        "question": "Based on the visual details, what is the apparent material or texture of the product's label surface?",
+        "answer": "Paper"
+      },
+      {
+        "question": "With respect to the color, how would you accurately describe the two larger dark circles, situated at the bottom right corner?",
+        "answer": "Black"
+      },
+      {
+        "question": "From a purely visual inspection, what is the overall shape of the label's primary area on which the text is printed?",
+        "answer": "Rectangle"
+      },
+      {
+        "question": "Observing only the image, how is the text presented, in terms of its arrangement and alignment?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "In terms of design, how is the information on the label presented or organized, considering the use of text and graphic elements?",
+        "answer": "Organized"
+      },
+      {
+        "question": "From the image, excluding any text, what visual elements are present that could be deemed additional markings?",
+        "answer": "Dots"
+      },
+      {
+        "question": "With only visual evidence, excluding text, what is the relative size of the three circles in the lower right corner?",
+        "answer": "Small"
+      },
+      {
+        "question": "Examining the lower portion of the provided visual, what is the orientation of the three colored dots?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Judging from the label's appearance, what is the printing method used to create the text and symbols, such as offset or inkjet?",
+        "answer": "Inkjet"
+      },
+      {
+        "question": "Considering only the visible elements, what is the general condition or state of the product's label, like wrinkled or smooth?",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

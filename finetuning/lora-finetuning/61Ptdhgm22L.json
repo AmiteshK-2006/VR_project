@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a4/a43865e9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the provided text, what is the primary encapsulating material used in this product?",
+        "answer": "Vegetable"
+      },
+      {
+        "question": "Based on the image's text, what specific cellulose derivative is listed among the ingredients?",
+        "answer": "Hydroxypropyl"
+      },
+      {
+        "question": "According to the label, what secondary type of cellulose is included in the product's composition?",
+        "answer": "Microcrystalline"
+      },
+      {
+        "question": "As indicated in the image, which common pharmaceutical excipient is present as an ingredient?",
+        "answer": "Magnesium"
+      },
+      {
+        "question": "What inorganic compound is listed as an ingredient on the provided product label?",
+        "answer": "Silicon"
+      },
+      {
+        "question": "What is the chemical form of the silicon-based ingredient listed on the product's label?",
+        "answer": "Dioxide"
+      },
+      {
+        "question": "What word precedes the term 'ingredients' in the provided textual information?",
+        "answer": "Other"
+      },
+      {
+        "question": "What is the word immediately following the parenthetical explanation of the capsule material?",
+        "answer": "Microcrystalline"
+      },
+      {
+        "question": "Referring to the text provided, what compound acts as a flow agent?",
+        "answer": "Stearate"
+      },
+      {
+        "question": "What is the chemical state of the silicon-based component as per the label?",
+        "answer": "Dioxide"
+      },
+      {
+        "question": "What word follows 'cellulose' in the ingredients list, describing its form?",
+        "answer": "Magnesium"
+      },
+      {
+        "question": "What word describes the type of capsule used to contain the product, as written on the label?",
+        "answer": "Vegetable"
+      },
+      {
+        "question": "In the image, what is the first word in the description of the ingredients?",
+        "answer": "Other"
+      },
+      {
+        "question": "According to the label, what kind of capsule is used?",
+        "answer": "Capsule"
+      },
+      {
+        "question": "As specified in the label, what type of compound acts as an anti-caking agent?",
+        "answer": "Dioxide"
+      }
+    ]
+  }
+]

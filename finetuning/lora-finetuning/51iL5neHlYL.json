@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0e/0e0a9a73.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout and text organization, what is the primary function of this rectangular graphic?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Focusing on the prominent numerical value at the top right corner, what is the total caloric content per serving?",
+        "answer": "50"
+      },
+      {
+        "question": "Examining the bottom section, what single ingredient is explicitly listed?",
+        "answer": "Cantaloupe"
+      },
+      {
+        "question": "Based on the provided data, what is the quantity of potassium (in mg) per serving?",
+        "answer": "374"
+      },
+      {
+        "question": "Looking closely at the text, what unit of measurement is consistently used for serving size?",
+        "answer": "Cup"
+      },
+      {
+        "question": "What is the total carbohydrate content (in grams) indicated per serving?",
+        "answer": "11"
+      },
+      {
+        "question": "Referring to the detailed list, what vitamin is shown to be completely absent per serving?",
+        "answer": "D"
+      },
+      {
+        "question": "What is the amount of protein (in grams) per serving according to the nutrition data?",
+        "answer": "1"
+      },
+      {
+        "question": "According to the nutrition label, how many grams of total sugars are present in each serving?",
+        "answer": "10"
+      },
+      {
+        "question": "Considering the dietary fiber content, how many grams are present per serving?",
+        "answer": "1"
+      },
+      {
+        "question": "Examining the fat content, what is the quantity of saturated fat (in grams)?",
+        "answer": "0"
+      },
+      {
+        "question": "What is the listed amount of sodium (in mg) per serving?",
+        "answer": "20"
+      },
+      {
+        "question": "In terms of the nutrition information provided, what is the total amount of cholesterol (in mg)?",
+        "answer": "0"
+      },
+      {
+        "question": "How many servings are listed on the container?",
+        "answer": "4"
+      },
+      {
+        "question": "What is the weight of one serving (in grams)?",
+        "answer": "140"
+      }
+    ]
+  }
+]

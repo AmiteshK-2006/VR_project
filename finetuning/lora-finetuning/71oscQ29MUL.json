@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e4/e4609f56.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary function indicated by the prominent text on the packaging, suggesting its intended use before a specific activity?",
+        "answer": "Workout"
+      },
+      {
+        "question": "What flavor variant is specified on the label, describing the taste profile of the product?",
+        "answer": "Lemon"
+      },
+      {
+        "question": "Considering the color of the major portion of the wrapper, what is the dominant hue visible?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What shape does the product packaging take, indicating its form factor and dimensions?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the packaging material's visual properties, what is the most likely material used in its construction?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Observing the text, what is the name of the brand or retailer prominently displayed on the wrapper?",
+        "answer": "Wholefoods"
+      },
+      {
+        "question": "What kind of texture does the orange portion of the wrapper visually suggest, is it smooth or coarse?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging from the image, what is the most prominent design element on the front of the package apart from text?",
+        "answer": "Circle"
+      },
+      {
+        "question": "Considering the text, what is the primary benefit suggested by the product, what will it do?",
+        "answer": "Support"
+      },
+      {
+        "question": "What kind of product does the label specify that this item is, to indicate its nature?",
+        "answer": "Supplement"
+      },
+      {
+        "question": "Describe the overall style and visual presentation of the product's packaging, using one word that captures the aesthetic?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Considering the visual appearance of the product, is the print style used on the wrapper modern or old fashioned?",
+        "answer": "Modern"
+      },
+      {
+        "question": "Based on the logo and overall presentation, is the product perceived as premium or budget-friendly?",
+        "answer": "Premium"
+      },
+      {
+        "question": "What is the color of the brand logo on the product, considering the shades present?",
+        "answer": "Green"
+      },
+      {
+        "question": "Judging by the visual clues, is the product's packaging designed to be discreet or eye-catching?",
+        "answer": "Eye-catching"
+      }
+    ]
+  }
+]

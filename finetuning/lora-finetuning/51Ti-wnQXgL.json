@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5a/5a740ed6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the Nutrition Facts panel's background, as shown in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the font style used, what is the overall textual design classification of the Nutrition Facts panel?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the dominant color used for the numerical values within the Nutrition Facts table, according to the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the image, what is the formatting style used for the 'Calories' value?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the textual descriptor used before the nutritional values (e.g., 'Total Fat') in the provided Nutrition Facts panel image?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Describing the arrangement of information, what is the layout of the nutrition facts data?",
+        "answer": "Tabular"
+      },
+      {
+        "question": "What is the unit of measurement used for 'Serving Size' in the image's Nutrition Facts panel?",
+        "answer": "Tbsp"
+      },
+      {
+        "question": "Examining the provided image, what is the orientation of the Nutrition Facts panel?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the case of the lettering used for the header 'Nutrition Facts', as visually apparent in the image?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Judging from the image, what is the overall visual appearance of the nutrition facts text?",
+        "answer": "Clean"
+      },
+      {
+        "question": "What is the style of the borders around the Nutrition Facts table cells, as presented in the image?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the image, what is the visual texture of the nutrition facts panel?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From the image, what is the relative size of the 'Calories' number compared to other numbers?",
+        "answer": "Larger"
+      },
+      {
+        "question": "Considering the visual clarity, what is the legibility of the text in the Nutrition Facts panel?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the type of graphic design used to present the Nutrition Facts information in the image?",
+        "answer": "Informational"
+      }
+    ]
+  }
+]

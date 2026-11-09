@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/7a/7a465b77.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the container's body, as shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What primary material appears to constitute the main container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the image, what is the overall shape of the presented product?",
+        "answer": "Round"
+      },
+      {
+        "question": "Based on the visual, what seems to be the function of the clear ring around the top?",
+        "answer": "Seal"
+      },
+      {
+        "question": "What is the apparent texture of the container's dark-colored surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging from the image, what is the visible state of the container's contents?",
+        "answer": "Full"
+      },
+      {
+        "question": "Does the container show any noticeable external markings or labels in the provided view?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the provided image, what is the apparent finish of the container's surface?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What color is the apparent sealing ring or liner atop the container?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Observing the top, is the container designed with a tamper-evident feature?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the visual, what is the apparent size of the shown container relative to common objects?",
+        "answer": "Large"
+      },
+      {
+        "question": "From the image, what is the apparent thickness of the container's walls?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Does the image show any visible defects or damage on the container's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image, is the container's lid visibly present or absent?",
+        "answer": "Absent"
+      },
+      {
+        "question": "What is the apparent manufacturing method suggested by the container's uniformity?",
+        "answer": "Molding"
+      }
+    ]
+  }
+]

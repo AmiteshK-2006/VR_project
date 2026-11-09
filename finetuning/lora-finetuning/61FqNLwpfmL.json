@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/83/83a013f1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme employed throughout the nutritional information panel, primarily observed in the text and headings?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the overall rectangular layout, what is the primary shape of this nutritional information panel?",
+        "answer": "Rectangle"
+      },
+      {
+        "question": "Observing the surface texture, what is the apparent finish of the paper or cardstock used for printing this nutritional information?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Focusing on the typography, what typeface or font style is predominantly used for the text in this nutritional fact panel?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Examining the structure, what is the primary method of organizing the nutritional data presented in the provided image?",
+        "answer": "Table"
+      },
+      {
+        "question": "Considering the visual hierarchy, what is the most prominent element on the nutrition facts panel, signifying the main focus of the information presented?",
+        "answer": "Title"
+      },
+      {
+        "question": "What is the text weight used for the 'Nutrition Facts' heading relative to the other text on the nutritional information panel?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Looking closely at the text, what is the format employed for the numerical values of the nutritional components, such as calories and fat content?",
+        "answer": "Arabic"
+      },
+      {
+        "question": "Analyzing the arrangement of the nutritional data, how are the different categories of nutrients, such as 'Total Fat' and 'Sodium,' presented on the label?",
+        "answer": "Listed"
+      },
+      {
+        "question": "Considering the visual prominence, what is the relative size of the 'Serving Size' information compared to the other textual elements within the panel?",
+        "answer": "Large"
+      },
+      {
+        "question": "Given the visual layout, what unit is used to express the serving size, directly following the numerical value?",
+        "answer": "Bar"
+      },
+      {
+        "question": "Considering the textual content, what are the units of measurement for the 'Calories from Fat' value listed within the panel's structure?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Focusing on the data displayed, which unit is consistently used in this panel for expressing the amount of nutrients, such as 'Total Fat' and 'Protein'?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the measurement unit used for representing the percentage daily values for various nutrients as seen in the nutrition facts panel?",
+        "answer": "Percent"
+      },
+      {
+        "question": "Considering the arrangement, what is the visual representation used to separate different sections or categories within the nutritional information panel, such as 'Total Fat' and 'Cholesterol'?",
+        "answer": "Lines"
+      }
+    ]
+  }
+]

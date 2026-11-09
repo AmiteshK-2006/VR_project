@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/cd/cd5b49b4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the image?",
+        "answer": "Green"
+      },
+      {
+        "question": "Based on the visible texture, what is the likely material of the fabric?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "What is the overall shape of the fabric sample presented in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging by the image, what is the primary care instruction indicated on the label?",
+        "answer": "Wash"
+      },
+      {
+        "question": "What is depicted on the label, giving instructions on the fabric's care?",
+        "answer": "Symbols"
+      },
+      {
+        "question": "Does the label suggest dry cleaning as an option for cleaning the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the main material composition stated on the fabric label?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "What is the country of origin mentioned on the care label?",
+        "answer": "India"
+      },
+      {
+        "question": "Judging by the image, what is the recommended ironing temperature for this fabric?",
+        "answer": "Medium"
+      },
+      {
+        "question": "According to the label, should bleach be used when laundering the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the label indicate a preferred drying method for this fabric?",
+        "answer": "Tumble"
+      },
+      {
+        "question": "What is the background color of the care instructions label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall style of the text on the fabric care label?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the shape of the fabric care label itself?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the label's information, what type of textile does the image show?",
+        "answer": "Fabric"
+      }
+    ]
+  }
+]

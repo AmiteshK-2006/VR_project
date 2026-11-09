@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/38/38134708.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual appearance, what is the dominant color of these bagels?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Based on the image, what appears to be the primary shape of each individual bagel?",
+        "answer": "Round"
+      },
+      {
+        "question": "From a visual perspective, what kind of surface texture is presented on the bagels' exterior?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Judging solely from the image, what ingredients seem to be visibly sprinkled on the bagels?",
+        "answer": "Seeds"
+      },
+      {
+        "question": "What packaging material, as shown in the image, contains the bagels?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the visual arrangement of the bagels within the packaging, as depicted in the photograph.",
+        "answer": "Stacked"
+      },
+      {
+        "question": "According to the provided image, what seems to be the general size of the bagels relative to each other?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "From the image, what appears to be the overall appearance or condition of the bagels; are they fresh or stale?",
+        "answer": "Fresh"
+      },
+      {
+        "question": "If you look closely, what is noticeable about the distribution of the seeds across each bagel's surface?",
+        "answer": "Even"
+      },
+      {
+        "question": "Observing the image, what seems to be the prevalent color tone of the seeds on the bagels?",
+        "answer": "Brown"
+      },
+      {
+        "question": "From the visual information provided, what kind of product is being shown in the photograph?",
+        "answer": "Bagels"
+      },
+      {
+        "question": "Describe the clarity of the plastic packaging in which the bagels are enclosed.",
+        "answer": "Transparent"
+      },
+      {
+        "question": "Focusing solely on the visual details, what is the implied quantity of bagels in the package?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "By examining the picture, determine if the bagels appear to be baked or unbaked.",
+        "answer": "Baked"
+      },
+      {
+        "question": "Based on visual assessment, what is the apparent state of the bagels — whole or sliced?",
+        "answer": "Whole"
+      }
+    ]
+  }
+]

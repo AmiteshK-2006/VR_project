@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/86/86df89d0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall design, what best describes the visual layout of this food product's nutritional information?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the predominant color used for the text displaying the nutritional information?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the color of the background on which the nutritional facts are printed?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the texture of the surface where the nutritional information is displayed?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the text closely, what is the font style predominantly used for the nutritional information?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based solely on the image, what is the primary shape of the food package implied by the label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Looking at the label's text, what kind of information is primarily presented in bold typeface?",
+        "answer": "Numerical"
+      },
+      {
+        "question": "What is the general appearance and visual style of the text blocks on the label?",
+        "answer": "Tabular"
+      },
+      {
+        "question": "What is the visual style of the information on the nutritional content of the food item?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Examining the layout, which sections are prominently displayed and visually distinct?",
+        "answer": "Categories"
+      },
+      {
+        "question": "Considering the text's visual characteristics, what could you describe the overall visual weight of the text as?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Focusing on the presentation of the nutritional facts, what is the visual hierarchy of the information given?",
+        "answer": "Hierarchical"
+      },
+      {
+        "question": "Based on the visual representation, what is the overall readability of the information?",
+        "answer": "Clear"
+      },
+      {
+        "question": "How would you describe the arrangement of different values and nutritional categories on the label?",
+        "answer": "Organized"
+      },
+      {
+        "question": "Describe the visual consistency of the font size and style used throughout the nutritional information?",
+        "answer": "Consistent"
+      }
+    ]
+  }
+]

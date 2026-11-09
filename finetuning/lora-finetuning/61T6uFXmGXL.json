@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ab/abb2e71f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the displayed rating bars representing product attributes?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the visual layout, what attribute receives the highest rating score?",
+        "answer": "Safety"
+      },
+      {
+        "question": "Based on the bar graph, which feature shows a rating slightly below the maximum score?",
+        "answer": "Comfort"
+      },
+      {
+        "question": "What attribute, besides safety, achieves a near-perfect score according to the visual data?",
+        "answer": "Supportive"
+      },
+      {
+        "question": "Judging by the length of the bars, which aspect scores somewhat lower than the top three?",
+        "answer": "Lightweight"
+      },
+      {
+        "question": "What characteristic receives an almost perfect rating, suggesting minimal odor?",
+        "answer": "NoOdor"
+      },
+      {
+        "question": "According to the visual representation, what is the rating for the 'cooling' attribute?",
+        "answer": "High"
+      },
+      {
+        "question": "Does the visual data suggest the product offers any snoring reduction?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the rating score for fewer allergies, as shown visually?",
+        "answer": "High"
+      },
+      {
+        "question": "Does the graph display a high score for the product's durability?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What visual element quantifies the customer satisfaction level?",
+        "answer": "Bars"
+      },
+      {
+        "question": "What is the general appearance of the rating scale's design?",
+        "answer": "Linear"
+      },
+      {
+        "question": "What type of chart is used to represent the product features and ratings?",
+        "answer": "Bar"
+      },
+      {
+        "question": "What is the visual form of the numerical data representation in the image?",
+        "answer": "Chart"
+      },
+      {
+        "question": "What word appears in the bottom-most line of text?",
+        "answer": "Guarantee"
+      }
+    ]
+  }
+]

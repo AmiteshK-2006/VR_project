@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/97/97314606.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular layout and the detailed nutritional information presented, what is the primary function of this food product label?",
+        "answer": "Informative"
+      },
+      {
+        "question": "What is the most prominent numerical value displayed on the label, representing a key nutritional characteristic?",
+        "answer": "20"
+      },
+      {
+        "question": "Describing the format of the information presented, focusing on its arrangement, what organizational structure is used to display various nutritional components?",
+        "answer": "tabular"
+      },
+      {
+        "question": "Considering the color palette, what is the dominant color used for the background of the nutritional facts panel?",
+        "answer": "White"
+      },
+      {
+        "question": "Focusing on the text's style, what typeface is predominantly used to present the text in the nutritional facts panel?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the text size, how would you describe the size of the text used for the 'Calories' value compared to other nutritional values?",
+        "answer": "Large"
+      },
+      {
+        "question": "What is the unit of measurement used consistently for the quantity of various nutrients displayed on the label?",
+        "answer": "grams"
+      },
+      {
+        "question": "What term is used repeatedly to indicate the absence of a particular nutrient in a serving?",
+        "answer": "Og"
+      },
+      {
+        "question": "Referring to the textual layout, what word precedes the detailed numerical breakdown of nutritional values?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Observing the label's visual elements, what term is used to describe the percentage contribution of each nutrient to the recommended daily intake?",
+        "answer": "Daily"
+      },
+      {
+        "question": "Focusing on the textual content, what is the term that describes the total amount of sugars within a single serving?",
+        "answer": "Sugars"
+      },
+      {
+        "question": "Based on the information provided, which mineral is highlighted with a value of 169mg per serving?",
+        "answer": "Potassium"
+      },
+      {
+        "question": "What is the common unit used to measure the total amount of carbohydrates per serving?",
+        "answer": "grams"
+      },
+      {
+        "question": "What is the term used on the label to represent the recommended daily intake of a given nutrient expressed as a percentage?",
+        "answer": "Value"
+      },
+      {
+        "question": "Based on the provided nutritional information, what is the value for 'Total Fat' listed per serving?",
+        "answer": "Og"
+      }
+    ]
+  }
+]

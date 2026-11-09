@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6a/6ac528fe.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall texture, what is the predominant surface feel of the shoe's sole, based purely on visual inspection?",
+        "answer": "Grainy"
+      },
+      {
+        "question": "What geometric pattern is most prominently displayed across the entire visible surface of the shoe's sole?",
+        "answer": "Triangular"
+      },
+      {
+        "question": "Describe the visible color of the shoe's outsole, as directly observed in the image provided.",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the apparent material of the shoe's sole judging only by the image's visual characteristics?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Focusing on the sole's design, what is the most apparent structural feature that contributes to the shoe's grip?",
+        "answer": "Treads"
+      },
+      {
+        "question": "Based on the image, what is the overall shape of the shoe's sole as viewed from the bottom?",
+        "answer": "Oval"
+      },
+      {
+        "question": "Observing the sole's texture closely, is the surface uniformly textured, or does it show variations?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Describe the arrangement of the design elements on the sole \u2013 are they randomly placed or follow a specific arrangement?",
+        "answer": "Ordered"
+      },
+      {
+        "question": "Can you describe the density of the design pattern on the shoe's sole, based on the visible details?",
+        "answer": "High"
+      },
+      {
+        "question": "Based purely on visual inspection of the image, what is the color depth or shade of the shoe's sole?",
+        "answer": "Light"
+      },
+      {
+        "question": "What is the apparent flexibility of the shoe's sole based on its overall appearance?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Judging only by the visual details, what is the visible thickness of the shoe's outsole?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Considering the visual texture, is the shoe's sole's surface smooth or rough to the touch?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What kind of wear patterns, if any, are visibly present on the surface of the shoe's sole?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the image, is the shoe's sole uniformly colored or does it feature any noticeable variations in color?",
+        "answer": "Uniform"
+      }
+    ]
+  }
+]

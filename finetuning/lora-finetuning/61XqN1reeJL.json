@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/99/99c0bede.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary textual information conveyed on the visible surface?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the dominant color scheme observed in the displayed nutritional data?",
+        "answer": "Black"
+      },
+      {
+        "question": "What specific dietary element is prominently featured and quantified numerically?",
+        "answer": "Calories"
+      },
+      {
+        "question": "What is the numerical value indicated for the total amount of calories per serving?",
+        "answer": "100"
+      },
+      {
+        "question": "What unit of measurement is used to denote the serving size of the food item?",
+        "answer": "Slice"
+      },
+      {
+        "question": "What is the numerical value representing the serving size in grams?",
+        "answer": "40"
+      },
+      {
+        "question": "What is the total quantity of servings contained within the entire packaging?",
+        "answer": "17"
+      },
+      {
+        "question": "What type of fat is listed in the nutrition facts with a value of 0g?",
+        "answer": "Saturated"
+      },
+      {
+        "question": "What is the amount of sodium present in milligrams per serving, according to the label?",
+        "answer": "170"
+      },
+      {
+        "question": "What is the numerical value listed for Total Carbohydrate in grams per serving?",
+        "answer": "18"
+      },
+      {
+        "question": "How many grams of dietary fiber are present in a single serving?",
+        "answer": "1"
+      },
+      {
+        "question": "What is the total amount of sugars, in grams, per serving?",
+        "answer": "1"
+      },
+      {
+        "question": "How many grams of added sugars are included in a serving?",
+        "answer": "1"
+      },
+      {
+        "question": "What is the total amount of protein found in grams per serving?",
+        "answer": "4"
+      },
+      {
+        "question": "Considering the visual layout, what is the style of the text used for the nutritional information?",
+        "answer": "Bold"
+      }
+    ]
+  }
+]

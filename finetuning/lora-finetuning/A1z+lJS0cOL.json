@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ff/ffe92d3f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the image?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the apparent texture of the displayed textile material?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Considering the weave and color, what is the overall visual impression of the fabric?",
+        "answer": "Natural"
+      },
+      {
+        "question": "Based on the visible structure, what kind of material seems most likely?",
+        "answer": "Linen"
+      },
+      {
+        "question": "Describe the appearance of the individual threads comprising the textile?",
+        "answer": "Fine"
+      },
+      {
+        "question": "Judging by the image, how would you characterize the density of the fabric's weave?",
+        "answer": "Tight"
+      },
+      {
+        "question": "What is the general direction of the visible threads in the fabric sample?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Considering the uniformity of the weave, how would you rate the fabric's evenness?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "What is the apparent visual pattern displayed across the surface of the textile?",
+        "answer": "Linear"
+      },
+      {
+        "question": "If you were to feel the fabric, what kind of surface would it most likely present?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From the image, what is the visible overall tone or hue of this textile?",
+        "answer": "Warm"
+      },
+      {
+        "question": "Is there a significant sheen or gloss visible on the surface of this fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the visual impression of the thickness of this textile in the provided image?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Does the image showcase any obvious flaws or imperfections in the fabric's weave?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the visible characteristics, what is the implied weight of the fabric?",
+        "answer": "Light"
+      }
+    ]
+  }
+]

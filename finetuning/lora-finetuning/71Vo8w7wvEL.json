@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e4/e42af09a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the food product contained within the packaging?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What appears to be the primary material of the container holding the food product?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the overall shape of the container, ignoring the lid?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent texture of the food product visible through the container?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the visible portion, what is the approximate consistency of the food product?",
+        "answer": "Creamy"
+      },
+      {
+        "question": "What color is the lid or top section of the packaging?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What material seems to compose the visible portion of the container's lid?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Based on the image, is the container transparent, translucent, or opaque?",
+        "answer": "Transparent"
+      },
+      {
+        "question": "Does the food product inside exhibit any visible layering or separation?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the container's edges and corners, are they sharp or rounded?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What seems to be the overall condition of the container shown in the image?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Considering the visible area, are there any significant markings or labels on the food product itself?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the apparent level of filling of the container concerning its total capacity.",
+        "answer": "Full"
+      },
+      {
+        "question": "What type of closure mechanism does the container appear to employ?",
+        "answer": "Lid"
+      },
+      {
+        "question": "Judging from the appearance, what is the likely purpose of this type of packaging?",
+        "answer": "Food"
+      }
+    ]
+  }
+]

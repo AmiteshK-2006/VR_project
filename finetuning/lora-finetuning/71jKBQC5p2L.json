@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a2/a2c1cfa5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the primary displayed element in this image?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the predominant color scheme observed across the entire image?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What specific kind of text is prominently displayed throughout the image?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Given the textual content, what is the overarching subject matter presented?",
+        "answer": "Food"
+      },
+      {
+        "question": "What is the visual format employed to present the extensive list of components?",
+        "answer": "List"
+      },
+      {
+        "question": "Describe the visual style of the typeface utilized for the displayed text.",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the apparent visual arrangement of the listed items, vertically or horizontally?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Judging from the image, is there any visual separation or grouping of the listed components?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the visual texture or appearance of the background in the image?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Based on visual observation, how would you describe the overall visual density of the image?",
+        "answer": "High"
+      },
+      {
+        "question": "From a visual perspective, is there any discernible branding or logo present?",
+        "answer": "No"
+      },
+      {
+        "question": "Visually inspecting the text, what is its approximate font size relative to the image?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Considering the visual aspects, what is the general visual clarity or legibility of the text?",
+        "answer": "High"
+      },
+      {
+        "question": "Based on the visual information alone, what is the overall tone or mood conveyed by the image?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Considering the visual composition, what is the primary method used to convey information?",
+        "answer": "Text"
+      }
+    ]
+  }
+]

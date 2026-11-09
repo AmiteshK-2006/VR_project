@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e1/e1717ec6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form and visible components, what is the primary function of this item, as visually suggested?",
+        "answer": "Shoe"
+      },
+      {
+        "question": "What is the dominant color observed across the entire visible surface area of the product?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the visual texture and apparent material, what is the likely construction material of the shoe's upper?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Focusing on the sole's design, what is the prominent pattern or arrangement of the treads visible on the outsole?",
+        "answer": "Geometric"
+      },
+      {
+        "question": "Observing the shape of the shoe's profile from the presented angle, how would you best describe its overall silhouette?",
+        "answer": "Sleek"
+      },
+      {
+        "question": "Considering the apparent build and material, what would you categorize the shoe as (e.g., formal, casual, athletic)?",
+        "answer": "Formal"
+      },
+      {
+        "question": "From the image, can you identify any visible stitching or seams used in the shoe's construction?",
+        "answer": "None"
+      },
+      {
+        "question": "Describe the texture of the sole based solely on visual appearance (e.g., smooth, ridged, textured)?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Judging by the visible features, what type of closure mechanism does this shoe appear to utilize?",
+        "answer": "Slip-on"
+      },
+      {
+        "question": "Considering the design, what is the overall style of the shoe's toe (e.g., pointed, rounded, square)?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Based on the sole's design, what can be inferred about the intended use of the shoes (e.g., indoor, outdoor)?",
+        "answer": "Outdoor"
+      },
+      {
+        "question": "Examining the heel area, what is the visible design or feature of the heel counter?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the material and design, what is the general impression of the shoe's weight (e.g., light, medium, heavy)?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Describe the visible details of the shoe's insole (if any) that are apparent in the photograph.",
+        "answer": "None"
+      },
+      {
+        "question": "What is the apparent condition of the shoe (e.g., new, used, worn)?",
+        "answer": "New"
+      }
+    ]
+  }
+]

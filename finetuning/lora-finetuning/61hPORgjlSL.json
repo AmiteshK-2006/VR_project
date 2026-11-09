@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f9/f9004419.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the image's dominant grayscale representation, what is the primary color observed in the depicted accessory?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What specific anatomical location is the illustrated accessory primarily positioned on the model?",
+        "answer": "Wrist"
+      },
+      {
+        "question": "Based on its visual attributes, what material does the accessory appear to be constructed from, inferring from the image alone?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Focusing on the accessory's form, what is the most accurate geometric descriptor of its shape?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Observing the accessory's physical properties, how many noticeable components or parts comprise the item depicted?",
+        "answer": "One"
+      },
+      {
+        "question": "Examining the overall visual design, what descriptive term best encapsulates the accessory's style?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What seems to be the most prominent textural quality of the accessory, given the image's visual details?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the context and visual clues, what is the accessory's most likely primary function?",
+        "answer": "Adornment"
+      },
+      {
+        "question": "What type of fastening or closure mechanism is evident on the accessory, according to the image?",
+        "answer": "None"
+      },
+      {
+        "question": "Given its shape and apparent size, what is the most probable usage scenario of the accessory depicted?",
+        "answer": "Jewelry"
+      },
+      {
+        "question": "Describe the overall finish or surface treatment apparent on the accessory's visible surface in the provided image",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on the visual representation, what is the apparent size or scale of the accessory relative to the human hand?",
+        "answer": "Small"
+      },
+      {
+        "question": "According to the image, are there any patterns, engravings, or markings visible on the accessory's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image, is the accessory depicted as being worn on the left or right wrist of the person?",
+        "answer": "Left"
+      },
+      {
+        "question": "Describe the apparent level of craftsmanship or refinement of the depicted accessory's appearance",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

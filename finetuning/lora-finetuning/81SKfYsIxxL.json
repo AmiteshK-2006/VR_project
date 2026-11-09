@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/01/017b30a5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the packaging, as visually apparent?",
+        "answer": "Red"
+      },
+      {
+        "question": "Considering the overall shape of the product's packaging, what geometric form best describes it?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary food item depicted on the packaging, based on the image?",
+        "answer": "Apples"
+      },
+      {
+        "question": "What kind of food product is contained within the packaging shown, based solely on visual observation?",
+        "answer": "Sauce"
+      },
+      {
+        "question": "What word prominently describes the sweetness level of the contained product on the packaging?",
+        "answer": "Sweetened"
+      },
+      {
+        "question": "What is the name of the brand clearly displayed on the packaging shown in the image?",
+        "answer": "Happy"
+      },
+      {
+        "question": "What is the material that appears to constitute the primary packaging of the product based on visual cues?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Considering the smaller containers within the larger package, what material seems to comprise them?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the color of the smaller, individual containers visible inside the package?",
+        "answer": "Red"
+      },
+      {
+        "question": "Based on the image, what type of graphic design elements, besides text, are used on the packaging?",
+        "answer": "Illustrations"
+      },
+      {
+        "question": "What is the shape of the illustrated apples featured on the product packaging?",
+        "answer": "Round"
+      },
+      {
+        "question": "What is the overall tone of the packaging design, in terms of its visual style?",
+        "answer": "Playful"
+      },
+      {
+        "question": "Describe the texture implied by the image of the packaging’s outer surface.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the visible weight of the product, expressed in ounces according to the packaging?",
+        "answer": "12.8"
+      },
+      {
+        "question": "What additional word is used to describe the contained apple product, along with the word 'sauce'?",
+        "answer": "Apple"
+      }
+    ]
+  }
+]

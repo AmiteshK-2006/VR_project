@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ee/ee3b7523.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the text indicating the ingredients?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the font style used for the word 'INGREDIENTS'?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the text alignment of the ingredient list?",
+        "answer": "Left"
+      },
+      {
+        "question": "What is the overall text case of the ingredient list?",
+        "answer": "Upper"
+      },
+      {
+        "question": "What is the background color of the ingredient label?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the typography, what is the overall feel of the label?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the primary ingredient listed, according to the text?",
+        "answer": "Tomatoes"
+      },
+      {
+        "question": "Describe the visual separation between each ingredient line?",
+        "answer": "Spacing"
+      },
+      {
+        "question": "What word introduces the list of ingredients?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Does the text utilize bolding or italics?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Based solely on the visual, what is the assumed purpose of this text?",
+        "answer": "Information"
+      },
+      {
+        "question": "What is the visual texture of the background?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Is the text block presented within a border?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent format of the ingredient list?",
+        "answer": "List"
+      },
+      {
+        "question": "Does the image suggest a specific food preparation style?",
+        "answer": "None"
+      }
+    ]
+  }
+]

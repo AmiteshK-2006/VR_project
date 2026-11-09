@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/10/1025aa9a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual layout, what is the predominant orientation of the ingredient list?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the primary color used for the text detailing the other ingredients?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Based on the visual appearance, what is the likely background surface of this ingredient label?",
+        "answer": "White"
+      },
+      {
+        "question": "Observing the typography, what kind of typeface is predominantly used for the ingredient descriptions?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Judging from the image, what is the approximate number of lines of text conveying the different ingredients?",
+        "answer": "Five"
+      },
+      {
+        "question": "From a visual assessment, what is the relative size of the text describing 'OTHER INGREDIENTS' compared to the individual components?",
+        "answer": "Larger"
+      },
+      {
+        "question": "What is the apparent visual separation method employed between the 'OTHER INGREDIENTS' label and the ingredient list itself?",
+        "answer": "Colon"
+      },
+      {
+        "question": "Considering the visual style, does the text appear to be printed or handwritten?",
+        "answer": "Printed"
+      },
+      {
+        "question": "Does the textual information exhibit any variations in font weight (boldness) within the overall ingredient list?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the image, is there any noticeable visual distortion, such as blurring or smudging, affecting the clarity of the text?",
+        "answer": "No"
+      },
+      {
+        "question": "Is there a noticeable contrast between the text color and the background color of the image?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging from the visual style, does the text appear to be single-spaced or double-spaced?",
+        "answer": "Single"
+      },
+      {
+        "question": "From the visual inspection, are there any visible watermarks or additional graphic elements superimposed on the ingredient label?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the visual texture of the text on the label? Is it smooth or rough?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the text's visual consistency throughout the ingredient label? Is there noticeable fluctuation in letter size or spacing?",
+        "answer": "Consistent"
+      }
+    ]
+  }
+]

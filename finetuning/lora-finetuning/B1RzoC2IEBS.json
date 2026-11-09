@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2b/2b9ba346.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed material sample?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the apparent texture of the material shown in the image?",
+        "answer": "Grainy"
+      },
+      {
+        "question": "What type of material is predominantly depicted, based solely on visual inspection?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Considering the visual appearance, is the material's finish glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on visual characteristics, is the material's surface even or uneven?",
+        "answer": "Uneven"
+      },
+      {
+        "question": "Judging by the image, what is the overall tone of the material's color?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Does the image suggest a natural or artificial look to the material?",
+        "answer": "Natural"
+      },
+      {
+        "question": "How would you describe the depth of the visible grain in the material?",
+        "answer": "Fine"
+      },
+      {
+        "question": "Does the image indicate the presence of any noticeable patterns in the material?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the visual inspection, is the material's color uniform or variegated?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "From the visual data, what is the primary characteristic of the material's surface?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Judging by the picture alone, is the material smooth or rough to the touch?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Considering the visual evidence only, is the material thick or thin?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Does the image show any significant imperfections or markings on the material?",
+        "answer": "No"
+      },
+      {
+        "question": "Based solely on what's visible, what is the form of the displayed material?",
+        "answer": "Sheet"
+      }
+    ]
+  }
+]

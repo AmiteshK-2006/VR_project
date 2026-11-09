@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a4/a4781861.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form and visible components, what fundamental shape best describes the product shown?",
+        "answer": "Oval"
+      },
+      {
+        "question": "What is the predominant color of the visible surface of the item depicted in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the visual texture and apparent material composition, what material seems to comprise the main body?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Focusing on the sole's appearance, what material appears to be used for its construction?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Examining the sole's edge, what type of visible stitching or construction detail is present?",
+        "answer": "Stitched"
+      },
+      {
+        "question": "Observing the upper portion, what design element appears near the heel area of the product?",
+        "answer": "Seam"
+      },
+      {
+        "question": "Given the overall construction and style, what type of footwear is depicted in the provided image?",
+        "answer": "Shoe"
+      },
+      {
+        "question": "Considering the product's overall structure and the presence of a heel, what can be determined about its purpose?",
+        "answer": "Walking"
+      },
+      {
+        "question": "Looking at the sole's surface, how would you characterize its overall texture?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Inspecting the sole's perimeter closely, what visible feature indicates the joining of the different layers?",
+        "answer": "Edge"
+      },
+      {
+        "question": "From the image, what seems to be the primary function indicated by the footwear's design?",
+        "answer": "Footwear"
+      },
+      {
+        "question": "Considering the image as a whole, what is the apparent condition of the item shown?",
+        "answer": "New"
+      },
+      {
+        "question": "Based on its visual characteristics, what type of footwear is likely suggested by this product's style?",
+        "answer": "Dress"
+      },
+      {
+        "question": "Examining the heel, what feature is apparent on its upper portion?",
+        "answer": "Counter"
+      },
+      {
+        "question": "In reference to the sole's design, what notable feature is present along its outermost edge?",
+        "answer": "Welt"
+      }
+    ]
+  }
+]

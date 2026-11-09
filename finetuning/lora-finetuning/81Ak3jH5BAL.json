@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/38/384a715c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout and textual density, what is the primary function of this item?",
+        "answer": "Document"
+      },
+      {
+        "question": "What is the dominant color observed throughout the rectangular expanse of the document?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe the visual texture of the textual elements distributed across the page.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Focusing solely on the visual presentation, what is the most prevalent shape observed?",
+        "answer": "Rectangle"
+      },
+      {
+        "question": "Given the presence of structured blocks, what is the apparent organization system employed?",
+        "answer": "Columns"
+      },
+      {
+        "question": "Analyzing the visual weight and distribution, what is the general arrangement of the elements?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "In relation to the page boundaries, where are most of the textual components located?",
+        "answer": "Center"
+      },
+      {
+        "question": "Considering the typography, what is the style of the font mostly used?",
+        "answer": "Serif"
+      },
+      {
+        "question": "Given the presence of distinct blocks of text and numbers, what can be inferred about the document's nature?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Regarding the visual design, what is the overall level of visual complexity exhibited?",
+        "answer": "Low"
+      },
+      {
+        "question": "Describe the level of visual detail observed within the textual components.",
+        "answer": "Fine"
+      },
+      {
+        "question": "Considering the density of the text across different sections, what is the overall visual tone?",
+        "answer": "Formal"
+      },
+      {
+        "question": "From a purely visual standpoint, what medium is this document printed on?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the visual appearance of the lines that create the structure of the document?",
+        "answer": "Straight"
+      },
+      {
+        "question": "Considering the length of the text passages, what is the relative length of the document?",
+        "answer": "Long"
+      }
+    ]
+  }
+]

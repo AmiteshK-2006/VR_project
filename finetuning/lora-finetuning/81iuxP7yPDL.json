@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ff/ff79147c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall design, what is the predominant visual characteristic of this product's packaging, based on its layout and information density?",
+        "answer": "Informational"
+      },
+      {
+        "question": "Focusing on the textual elements, what is the primary function described for the product, as explicitly stated on the label?",
+        "answer": "Antiseptic"
+      },
+      {
+        "question": "What is the most striking feature regarding the color palette utilized throughout the product's packaging design?",
+        "answer": "Monochromatic"
+      },
+      {
+        "question": "Observing the textual content, what is the primary method of product identification used on this product's packaging?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "Regarding the visual layout, how is the majority of information presented and organized on the label?",
+        "answer": "Blocks"
+      },
+      {
+        "question": "Analyzing the typography used, what is the style primarily used for the textual elements on the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the texture of the packaging surface that is most apparent from the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the overall presentation, what is the most evident form factor of the packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visual features, what is the most apparent material of the product packaging?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What color is the background of the main textual information on the product's packaging?",
+        "answer": "White"
+      },
+      {
+        "question": "Observing the label's arrangement, what is the overall visual impression of the design's aesthetic?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Analyzing the label's text, what is the primary language used for instructions and information?",
+        "answer": "English"
+      },
+      {
+        "question": "Looking at the visual hierarchy of information, what type of information is given prominence in the top section?",
+        "answer": "Drug"
+      },
+      {
+        "question": "What is the color of the text in the main body of the instructions?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the type of font used to display the barcode numbers on the packaging?",
+        "answer": "Numeric"
+      }
+    ]
+  }
+]

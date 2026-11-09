@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c0/c00816b3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the depicted rectangular object?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the object's length relative to the human silhouette, what is its approximate size category?",
+        "answer": "Small"
+      },
+      {
+        "question": "Based on visual texture, what is the apparent surface finish of the rectangular item?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by its form, what is the most accurate geometric description of the item's shape?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "From the image, what material seems most likely to comprise the main body of this device?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Does the object exhibit any significant curvature along its main axis?",
+        "answer": "No"
+      },
+      {
+        "question": "Are there any visible markings or text printed on the top surface of this object?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the sides, does the item present uniformly flat surfaces or noticeable edges?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Based on the image, is the item's construction noticeably modular or composed of distinct sections?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering its dimensions and form, what is the most likely primary function of this item?",
+        "answer": "Lighting"
+      },
+      {
+        "question": "Excluding the base, how many distinct components can be visually identified?",
+        "answer": "One"
+      },
+      {
+        "question": "Judging from the image, what is the overall design aesthetic of the object?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Does the image show any evident signs of damage or wear on this item?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering its flat shape, how many primary visible faces does the item possess?",
+        "answer": "Six"
+      },
+      {
+        "question": "Is the object's position relative to the silhouette indicative of handheld or stationary use?",
+        "answer": "Stationary"
+      }
+    ]
+  }
+]

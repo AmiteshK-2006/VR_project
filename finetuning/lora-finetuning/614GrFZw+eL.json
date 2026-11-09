@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/52/5234943a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape and the detailed text layout, what is the primary function indicated by the visual design of this item?",
+        "answer": "Information"
+      },
+      {
+        "question": "Observing the prominent header at the top, what key piece of information is immediately conveyed about the product's contents?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Based on the consistent font style and size used throughout the text, what is the main purpose of this item's textual content?",
+        "answer": "Listing"
+      },
+      {
+        "question": "Given the presence of numerical data and units, such as 'grams' and percentages, what type of information is predominantly displayed?",
+        "answer": "Quantities"
+      },
+      {
+        "question": "Judging by the repeated use of bold font and clear labels, what is the intended mode of information delivery for users?",
+        "answer": "Guidance"
+      },
+      {
+        "question": "Considering the structured layout with clear rows and columns, what method of data organization is used to enhance readability?",
+        "answer": "Table"
+      },
+      {
+        "question": "Given the style of the fonts and the overall layout, is the presented information intended for a general audience or for specific experts?",
+        "answer": "General"
+      },
+      {
+        "question": "Based on the consistent use of black text on a white background, what principle of visual design is employed for optimal clarity?",
+        "answer": "Contrast"
+      },
+      {
+        "question": "Focusing on the descriptive labels such as \"Total Fat\" and \"Sugars\", what is the subject matter of the data being presented?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Considering the presence of both nutritional information and values, what is the overall theme conveyed by the item's content?",
+        "answer": "Health"
+      },
+      {
+        "question": "Considering the fine print at the bottom which suggests daily calorie needs, for whom is this item mostly intended?",
+        "answer": "Consumers"
+      },
+      {
+        "question": "By observing the detailed breakdown of nutritional components, what is the intended level of detail in the provided information?",
+        "answer": "Specific"
+      },
+      {
+        "question": "Given the clear presentation of serving size and daily values, what is the main objective of the visual design in this context?",
+        "answer": "Clarity"
+      },
+      {
+        "question": "Given the visual hierarchy of the text and the consistent use of capitalization, what is prioritized in terms of visual prominence?",
+        "answer": "Headers"
+      },
+      {
+        "question": "Considering the overall unblemished condition of the printed label, what is the likely physical state of the item shown?",
+        "answer": "New"
+      }
+    ]
+  }
+]

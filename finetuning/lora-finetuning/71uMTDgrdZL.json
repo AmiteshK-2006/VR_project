@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b7/b77f90bb.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant, visually apparent color of the entire folded fabric item shown?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering the folded form, what is the most accurate description of the overall three-dimensional shape of this product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visible texture and drape, what natural fiber is most likely the primary material used in construction?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Describe the visual texture apparent across the surface of the folded textile product shown, using a single word.",
+        "answer": "Soft"
+      },
+      {
+        "question": "From the image, what is the apparent overall finish of the fabric's surface \u2014 is it shiny or dull?",
+        "answer": "Dull"
+      },
+      {
+        "question": "Considering its folded state, does the item demonstrate any visibly noticeable patterns or designs on its surface?",
+        "answer": "None"
+      },
+      {
+        "question": "Judging from the photograph's depiction, what is the general thickness or weight of the fabric material?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Is there any visual indication of visible seams or stitching apparent on the fabric's exposed surfaces?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the visible edges and hem finishes of the folded fabric item shown in the image; are they raw or finished?",
+        "answer": "Finished"
+      },
+      {
+        "question": "Based solely on visual appearance, what is the apparent level of the product's overall visual detailing or embellishment?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "Given the image, would you describe the fabric as being transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Judging from the image alone, how would you describe the visible condition of the fabric: worn or unworn?",
+        "answer": "Unworn"
+      },
+      {
+        "question": "In the shown product image, what is the apparent overall state of cleanliness of the fabric\u2014dirty or clean?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Considering its appearance, does the folded textile show any visible signs of creases or wrinkles?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on visual characteristics alone, does the product's fabric appear to possess a noticeably high degree of sheen or gloss?",
+        "answer": "No"
+      }
+    ]
+  }
+]

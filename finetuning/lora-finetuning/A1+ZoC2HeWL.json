@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/06/06ea27ef.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color visibly apparent across the entire fabric swatch?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the image's visual texture, what is the most apparent fabric type?",
+        "answer": "Suede"
+      },
+      {
+        "question": "Based on the visual grain and uniformity, what is the apparent fiber density?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Observing the surface closely, is there a discernible sheen or luster present?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging by the visible texture, what would you describe the tactile feel as?",
+        "answer": "Soft"
+      },
+      {
+        "question": "From the visual appearance, does the material seem pliable or rigid?",
+        "answer": "Pliable"
+      },
+      {
+        "question": "Considering the visible uniformity, does the fabric present significant textural variations?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the image show any noticeable pattern or print on the fabric's surface?",
+        "answer": "None"
+      },
+      {
+        "question": "Does the color appear consistent or does it show significant variation across the swatch?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Judging from the subtle variations, is the texture rough or smooth to the touch?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based solely on visual inspection, does the fabric appear to be woven or non-woven?",
+        "answer": "Non-woven"
+      },
+      {
+        "question": "From the image alone, does the fabric seem to be of high or low quality?",
+        "answer": "High"
+      },
+      {
+        "question": "If you were to feel this fabric, would it be heavy or light in weight?",
+        "answer": "Light"
+      },
+      {
+        "question": "Does the image show any visible flaws or imperfections in the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "Is there a noticeable nap or pile to the fabric surface?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

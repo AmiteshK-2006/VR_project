@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c6/c637ae53.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the image's text, what primary ingredient is predominantly featured, as visually evident from the prominent listing?",
+        "answer": "Tomatoes"
+      },
+      {
+        "question": "Based on the textual information provided within the image, can you identify a secondary key ingredient aside from tomatoes?",
+        "answer": "Jalapenos"
+      },
+      {
+        "question": "What specific preparation method for a key ingredient is explicitly mentioned in the provided textual data?",
+        "answer": "Roasted"
+      },
+      {
+        "question": "What is the additional ingredient listed alongside the main ingredient, which is visually evident by its proximity in the text?",
+        "answer": "Puree"
+      },
+      {
+        "question": "According to the visible text, what other vegetable is used in addition to tomatoes and jalapenos?",
+        "answer": "Onions"
+      },
+      {
+        "question": "What acidic component is clearly stated as an ingredient, based solely on the visual text provided?",
+        "answer": "Vinegar"
+      },
+      {
+        "question": "Identify a spice, or seasoning used as part of the recipe as visible in the provided image's text",
+        "answer": "Cilantro"
+      },
+      {
+        "question": "What specific type of pepper is mentioned within the ingredient listing that is clearly visible?",
+        "answer": "Chipotle"
+      },
+      {
+        "question": "Based on the image, what additional ingredient enhances the flavor profile as part of the composition?",
+        "answer": "Garlic"
+      },
+      {
+        "question": "What form of garlic is specified in the ingredient list, directly present in the image?",
+        "answer": "Dehydrated"
+      },
+      {
+        "question": "Referring only to the visible text, what is the additional ingredient that is mentioned as a processing note?",
+        "answer": "Milk"
+      },
+      {
+        "question": "Based on the visible text, specify another ingredient highlighted in the processing note.",
+        "answer": "Eggs"
+      },
+      {
+        "question": "What other component is indicated in the processing note present in the image?",
+        "answer": "Soy"
+      },
+      {
+        "question": "What is the overall format or style of the text presented, in the image's text block?",
+        "answer": "List"
+      },
+      {
+        "question": "Based on the image's visible text, what is the general purpose or nature of this text block?",
+        "answer": "Ingredients"
+      }
+    ]
+  }
+]

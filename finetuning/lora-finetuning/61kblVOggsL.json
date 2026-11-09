@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/06/06f45f88.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what is the dominant color scheme of the text describing the product's ingredients and preparation?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the primary font style used throughout the provided text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Observing the text block, what is the case of the lettering for the heading 'INGREDIENTS'?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "What is the format used for listing the ingredients, specifically focusing on their visual arrangement?",
+        "answer": "List"
+      },
+      {
+        "question": "Analyzing the text, what is the overall text alignment?",
+        "answer": "Left"
+      },
+      {
+        "question": "Regarding the visual design, what punctuation mark is used to separate individual ingredients within the list?",
+        "answer": "Comma"
+      },
+      {
+        "question": "What word is used to introduce the list of allergens or ingredients that may be present due to shared equipment?",
+        "answer": "Contains"
+      },
+      {
+        "question": "Based on the text's appearance, what is the font weight primarily used for the ingredient list?",
+        "answer": "Regular"
+      },
+      {
+        "question": "What is the case of the lettering for the heading 'PREPARED ON SHARED EQUIPMENT WITH OTHER FOODS'?",
+        "answer": "Sentence"
+      },
+      {
+        "question": "What type of text is used to provide information about potential allergens present in the product?",
+        "answer": "Warning"
+      },
+      {
+        "question": "Considering the spacing, what is the visual treatment applied between the 'INGREDIENTS' and 'CONTAINS' sections?",
+        "answer": "Spacing"
+      },
+      {
+        "question": "What is the visual style of the parenthetical information provided for some ingredients, such as '(sea clam juice, salt)'?",
+        "answer": "Parenthetical"
+      },
+      {
+        "question": "Describe the visual hierarchy established through the use of headings and the ingredient list.",
+        "answer": "Hierarchical"
+      },
+      {
+        "question": "How are the words 'SHELLFISH' and 'FISH' visually distinguished in the 'CONTAINS' statement?",
+        "answer": "Capitalized"
+      },
+      {
+        "question": "What is the visual characteristic of the line breaks used to separate information within the text?",
+        "answer": "Linebreak"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d6/d66c4a37.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary textual information conveyed on the product's surface, as depicted in the image?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Considering the layout, what is the dominant orientation of the text blocks presented?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the visual texture of the surface upon which the product's information is printed, as it appears in the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the overall color scheme of the product image; what are the dominant colors?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the style of typeface predominantly employed in the text presented on the product?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What kind of information is displayed in the upper-leftmost section of the text?",
+        "answer": "Serving"
+      },
+      {
+        "question": "What is the format used for the representation of numerical data, according to the image?",
+        "answer": "Decimal"
+      },
+      {
+        "question": "What is the apparent color of the printed text visible on the product shown?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the relative size of the text blocks within the visual representation?",
+        "answer": "Small"
+      },
+      {
+        "question": "What are the visual characteristics of the boundary lines in the product?",
+        "answer": "Straight"
+      },
+      {
+        "question": "How many major columns constitute the overall textual structure, judging by the picture?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the style of the overall arrangement of the text in the image?",
+        "answer": "Tabular"
+      },
+      {
+        "question": "What is the general shape of the depicted product, considering its dimensions?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the visible quality of the print concerning clarity and sharpness, in the given context.",
+        "answer": "Clear"
+      },
+      {
+        "question": "What type of information is predominantly contained within the lower section of the text?",
+        "answer": "Percent"
+      }
+    ]
+  }
+]

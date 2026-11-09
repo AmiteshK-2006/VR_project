@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fb/fbda1184.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the displayed fabric sample?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the weave, what is the apparent texture of the material?",
+        "answer": "Linen"
+      },
+      {
+        "question": "Based on visual inspection, what is the main fiber type suggested by the weave?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Describe the overall visual pattern displayed on the fabric sample?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Does the fabric show a noticeable sheen or glossiness in the image?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the nature of the visible surface structure of the fabric?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Judging by the image, is the fabric's weave tightly or loosely constructed?",
+        "answer": "Tightly"
+      },
+      {
+        "question": "In terms of color variation, how would you characterize the fabric?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What is the general visual appearance of the fabric's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What single adjective best describes the fabric's visual weight?",
+        "answer": "Light"
+      },
+      {
+        "question": "Based solely on the image, what is the fabric's apparent thickness?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Can you describe the visual directionality of the fabric's weave?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "How would you describe the visual clarity of the fabric's weave?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Does the fabric exhibit any noticeable irregularities in its weave?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall visual impression of the fabric's surface finish?",
+        "answer": "Plain"
+      }
+    ]
+  }
+]

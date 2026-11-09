@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/73/73a745b1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout, what is the dominant textual feature depicted in this product image?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the primary color used for the text within the nutritional information panel?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the image, what is the shape of the nutritional facts panel as a whole?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the background color of this nutrition facts label?",
+        "answer": "White"
+      },
+      {
+        "question": "Observing the text closely, what is the font style primarily used for the main headings?",
+        "answer": "Bold"
+      },
+      {
+        "question": "In the image, what measurement unit is used to represent serving size volume?",
+        "answer": "mL"
+      },
+      {
+        "question": "Describe the formatting of nutritional values (e.g., fats, sugars) in the presented data?",
+        "answer": "tabular"
+      },
+      {
+        "question": "What specific unit is consistently used for measuring the quantities of various nutrients?",
+        "answer": "grams"
+      },
+      {
+        "question": "What is the apparent texture of the surface that displays the nutrition facts?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the visual presentation, what is the overall style of the nutritional facts label?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Looking at the information, what is the total amount of calories per serving shown?",
+        "answer": "50"
+      },
+      {
+        "question": "What is the text size used for 'Calories per serving' relative to other text elements?",
+        "answer": "Large"
+      },
+      {
+        "question": "What is the numerical value of sodium present in one serving (in mg)?",
+        "answer": "260"
+      },
+      {
+        "question": "How many servings are stated to approximately be present in the entire container?",
+        "answer": "16"
+      },
+      {
+        "question": "In what unit are the servings measured?",
+        "answer": "Tbsp"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b2/b2bb136f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary textual information displayed prominently on this product?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Considering the overall layout, what is the dominant visual characteristic of this item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the formatting and font style, what is the apparent purpose of this item?",
+        "answer": "Informational"
+      },
+      {
+        "question": "What color is the background of the primary textual section of the product?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the color of the text that is most prominent on the item?",
+        "answer": "Black"
+      },
+      {
+        "question": "Observing the text, what measurement unit is repeatedly used for various components?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Regarding the numerical values presented, what are the units used for energy content?",
+        "answer": "Calories"
+      },
+      {
+        "question": "What type of information is categorized and presented in tabular format?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the texture of the surface material visually evident on the product?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the predominant visual characteristic of the textual content style?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the general visual appearance of the overall design, including its borders?",
+        "answer": "Clean"
+      },
+      {
+        "question": "What aspect is highlighted using a larger font size compared to the rest of the text?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Disregarding the numerical values, what is the main food item referenced on the label?",
+        "answer": "Bagel"
+      },
+      {
+        "question": "Excluding the numbers, what is the general category of data represented by the label?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Focusing on the visual elements, what is the apparent overall condition of the product?",
+        "answer": "New"
+      }
+    ]
+  }
+]

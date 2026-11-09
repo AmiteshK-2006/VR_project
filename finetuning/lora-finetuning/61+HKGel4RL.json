@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4d/4dc6b3be.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual appearance, what is the primary shape of the packaged food item shown?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the image's visual details, what appears to be the main color of the packaging?",
+        "answer": "Green"
+      },
+      {
+        "question": "Judging from the image's visual elements, what kind of text is prominently displayed on the package?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the apparent texture of the list of ingredients on the package, in terms of its visual presentation?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From a purely visual standpoint, what appears to be the general style of the packaging's typography?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the apparent visual contrast between the text and the background on the product's packaging?",
+        "answer": "High"
+      },
+      {
+        "question": "What kind of visual information is given to the consumer regarding the ingredients?",
+        "answer": "List"
+      },
+      {
+        "question": "Regarding the presentation, what type of visual organization is used for the ingredients list?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Analyzing the visual style, what is the apparent tone or mood conveyed by the packaging's design?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Based on the visual details, what is the visual density or amount of text on the packaging?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the overall size of the text blocks describing the ingredients, in terms of visual representation?",
+        "answer": "Small"
+      },
+      {
+        "question": "Considering only visual cues, what language is used in the text on the product's packaging?",
+        "answer": "English"
+      },
+      {
+        "question": "What is the visual impression of the font weight (boldness) of the text on the product's packaging?",
+        "answer": "Regular"
+      },
+      {
+        "question": "What is the visual appearance of the spacing between lines of text in the ingredients list?",
+        "answer": "Tight"
+      },
+      {
+        "question": "Based solely on visual cues, what is the apparent visual readability of the ingredients list?",
+        "answer": "High"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/47/471f74b4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color scheme used in the presented nutritional facts label, considering the background and text colors?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the overall layout, what is the dominant organizational style of the information presented on the food label?",
+        "answer": "tabular"
+      },
+      {
+        "question": "Focusing on the numerical data, what is the highest value for total daily value percentage represented within the label?",
+        "answer": "11%"
+      },
+      {
+        "question": "What is the font style predominantly used for the main headings and values displayed in the nutritional facts label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What specific unit of measurement is consistently employed for values related to various nutrients listed on the food label?",
+        "answer": "grams"
+      },
+      {
+        "question": "Based on the label's information, what numerical value is assigned to the total amount of calories per serving?",
+        "answer": "150"
+      },
+      {
+        "question": "Observing the label, how many servings are indicated as being present within the entire container of the food product?",
+        "answer": "four"
+      },
+      {
+        "question": "What is the size of a single serving as specified in the label's serving size information, using both units?",
+        "answer": "cups"
+      },
+      {
+        "question": "Looking at the label, what is the total number of milligrams indicated for the potassium content per serving?",
+        "answer": "210"
+      },
+      {
+        "question": "What is the numerical value representing the amount of dietary fiber, in grams, listed for a single serving?",
+        "answer": "three"
+      },
+      {
+        "question": "What unit of measurement is used to quantify the amount of added sugars included per serving?",
+        "answer": "grams"
+      },
+      {
+        "question": "What is the numerical value of milligrams for cholesterol content as stated on the label per serving?",
+        "answer": "zero"
+      },
+      {
+        "question": "What is the total amount of protein, in grams, as shown per serving on the label?",
+        "answer": "three"
+      },
+      {
+        "question": "What is the style of the text formatting in the label's top heading?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Considering the nutritional label's design, what is the overall shape of the information panel?",
+        "answer": "Rectangular"
+      }
+    ]
+  }
+]

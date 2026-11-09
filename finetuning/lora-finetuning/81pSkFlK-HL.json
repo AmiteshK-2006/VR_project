@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ca/cab0e8d8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall design, what is the primary function indicated by the text and layout of this product packaging?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Observing the text's organization, what is the dominant type style used to present the ingredient information?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the textual information provided, what specific type of food product is detailed on this label?",
+        "answer": "Pizza"
+      },
+      {
+        "question": "Regarding the format, is the presentation of the ingredient list organized into sections for different components?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the color of the primary textual elements on this product packaging?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the background color of the text blocks that list various ingredients and components of this food item?",
+        "answer": "White"
+      },
+      {
+        "question": "Analyzing the textual content, which category of ingredients is listed initially, preceding the other components?",
+        "answer": "Pizza"
+      },
+      {
+        "question": "What is the overall shape of the presented text block containing the description and ingredients of the food item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Focusing on the text's style, what is the visual impression of the font's weight or thickness in terms of its boldness?",
+        "answer": "Regular"
+      },
+      {
+        "question": "Judging from the arrangement of the ingredient list, what is the general order or structure in which the food components are presented?",
+        "answer": "Categorical"
+      },
+      {
+        "question": "Looking closely at the text, is there a mention of any potential allergens that consumers should be mindful of?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the information's presentation, what is the overall visual tone or style conveyed by the appearance of the text?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Based solely on visual analysis, is the listed information predominantly in uppercase, lowercase, or a mix of both?",
+        "answer": "Mixed"
+      },
+      {
+        "question": "What is the visual texture and appearance of the text itself, indicating its nature (e.g., smooth, rough, printed)?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "In terms of visual hierarchy, what element appears to have the most visual prominence in the presented information?",
+        "answer": "Title"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6e/6e7ede7b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary ingredient explicitly detailed on the label, considering its prominent placement and repeated mention?",
+        "answer": "Peanuts"
+      },
+      {
+        "question": "Based on the text, what specific preparation method was used for the main ingredient before being included in the product?",
+        "answer": "Roasted"
+      },
+      {
+        "question": "According to the label, what additional oil is used in the product's composition, as specified in the ingredient list?",
+        "answer": "Palm"
+      },
+      {
+        "question": "What type of salt is listed among the product's ingredients, as indicated by the label's text?",
+        "answer": "Sea"
+      },
+      {
+        "question": "As per the label, what characteristic regarding the peanuts and oil used is emphasized, in terms of processing and production methods?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Does the label indicate the presence of any other nuts besides peanuts that could be present due to the manufacturing process?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Referring to the label's warning, what additional food item's presence should be taken into account because of where the product is made?",
+        "answer": "Nuts"
+      },
+      {
+        "question": "Considering the text, what term describes the processing method applied to the organic palm oil, before its addition to the food product?",
+        "answer": "Pressed"
+      },
+      {
+        "question": "What is the descriptive term used on the label to describe the condition of the peanuts before they become part of the product?",
+        "answer": "Dry"
+      },
+      {
+        "question": "What word describes the type of processing facility in which this product was manufactured, based on the allergen statement?",
+        "answer": "Facility"
+      },
+      {
+        "question": "What type of statement, as shown on the packaging, reveals potential cross-contamination risk associated with the production setting?",
+        "answer": "Warning"
+      },
+      {
+        "question": "Considering the detailed list of ingredients provided, what is the total number of main components explicitly named?",
+        "answer": "Four"
+      },
+      {
+        "question": "Based on the textual information, what is the overall status of the peanuts in terms of cultivation practices, as indicated by the labeling?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the format of the information presented on the label, conveying details about ingredients and potential allergens?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the main purpose of this label in terms of communicating information about the product to consumers?",
+        "answer": "Ingredients"
+      }
+    ]
+  }
+]

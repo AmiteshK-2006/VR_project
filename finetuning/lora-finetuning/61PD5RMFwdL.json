@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a6/a64078b7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant visible color of the food product contained within the packaging, as observed from the presented image?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "Considering the overall form and dimensions, what is the best geometrical descriptor of the product packaging?",
+        "answer": "Oblong"
+      },
+      {
+        "question": "What appears to be the primary material used for the outer packaging, directly visible in the image?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the most noticeable color of the side label section adjacent to the product within the package?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Based on the image, what is the general texture that seems apparent on the visible surface of the food item?",
+        "answer": "Granular"
+      },
+      {
+        "question": "What kind of text is visible on the side of the package, as indicated by the image?",
+        "answer": "Numeric"
+      },
+      {
+        "question": "Describing the shape of the food product inside, ignoring the packaging, what word best captures its form?",
+        "answer": "Elongated"
+      },
+      {
+        "question": "Judging from the image, what seems to be the state of the product inside the packaging, in terms of its consistency?",
+        "answer": "Solid"
+      },
+      {
+        "question": "What is the most visually apparent design feature visible on the product's packaging?",
+        "answer": "Label"
+      },
+      {
+        "question": "From the presented image, what is the implied orientation of the food product within its packaging?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What seems to be the nature of the packaging material\u2019s transparency or translucency?",
+        "answer": "Semi-transparent"
+      },
+      {
+        "question": "Disregarding the label, what can be said about the surface pattern on the plastic package itself?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based only on visual cues, what is the most likely physical form of the contents inside the bag?",
+        "answer": "Grains"
+      },
+      {
+        "question": "What seems to be the overall visual impression of the product's contents' color uniformity?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "What is the most prominent feature of the label shown on the side of the package?",
+        "answer": "Rectangle"
+      }
+    ]
+  }
+]

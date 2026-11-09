@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a0/a0f3a4db.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the visible upper portion of the shoe?",
+        "answer": "Red"
+      },
+      {
+        "question": "What appears to be the primary material used in constructing the shoe's upper?",
+        "answer": "Knit"
+      },
+      {
+        "question": "Describe the texture evident on the shoe's upper surface, based solely on visual observation?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What is the overall shape of the shoe's visible upper, ignoring the sole?",
+        "answer": "Slender"
+      },
+      {
+        "question": "Considering the visible portion, what style is the shoe's opening around the ankle?",
+        "answer": "Slip-on"
+      },
+      {
+        "question": "Based on the image, what color is the shoe's midsole primarily?",
+        "answer": "White"
+      },
+      {
+        "question": "What design element is prominent on the outer sole's surface, concerning traction?",
+        "answer": "Patterned"
+      },
+      {
+        "question": "What material appears to comprise the shoe's outer sole, based solely on visual examination?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Describe the pattern or texture on the outsole in a single word that is relevant to its function?",
+        "answer": "Treaded"
+      },
+      {
+        "question": "What is the apparent flexibility of the midsole and outer sole, judging from the image?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "What is the apparent thickness of the outer sole, compared to typical shoes?",
+        "answer": "Moderate"
+      },
+      {
+        "question": "What brand name is subtly visible on the inner part of the shoe?",
+        "answer": "Ellips"
+      },
+      {
+        "question": "Considering the visible portion, what is the height of the shoe's upper?",
+        "answer": "Low"
+      },
+      {
+        "question": "What is the overall style of the shoe: athletic, formal, casual, etc.?",
+        "answer": "Casual"
+      },
+      {
+        "question": "Judging from the image, how many visible components compose the shoe's structure?",
+        "answer": "Three"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5f/5f291dee.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's visual presentation, what is the primary color of the text detailing the product's ingredients?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Based on the image, what is the overall visual style of the presented text, considering the font and spacing?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Observing the text block, what is the case of the letters used in the label's heading 'INGREDIENTS'?",
+        "answer": "Upper"
+      },
+      {
+        "question": "What is the font style used to display the ingredient information, considering its weight and appearance?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Judging by the image, what word begins the detailed list of the product components?",
+        "answer": "Cultured"
+      },
+      {
+        "question": "In the text's presentation, what punctuation mark separates the listed ingredients?",
+        "answer": "Comma"
+      },
+      {
+        "question": "Does the displayed information include a statement about additional ingredients within the product?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the specific word used to denote the presence of milk-related components?",
+        "answer": "Contains"
+      },
+      {
+        "question": "Does the visual layout indicate any additional sections or segments beyond the ingredient list?",
+        "answer": "No"
+      },
+      {
+        "question": "What word follows 'Milk' in the principal ingredient declaration?",
+        "answer": "Salt"
+      },
+      {
+        "question": "What is the word immediately after 'microbial' in the ingredient list?",
+        "answer": "Enzymes"
+      },
+      {
+        "question": "Based on the image, what is the background color of the text label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the text's overall visual appearance\u2014is it bold or faint?",
+        "answer": "Faint"
+      },
+      {
+        "question": "In relation to the overall design, how many lines of text compose the core ingredient listing?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the final word on the presented ingredient list?",
+        "answer": "Ingredients"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/27/27998f32.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the visible label on the container?",
+        "answer": "White"
+      },
+      {
+        "question": "What appears to be the primary material of the container itself?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Considering the visible portion, what is the overall shape of the product container?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Based on the visible text, what brand is indicated on the container?",
+        "answer": "365"
+      },
+      {
+        "question": "What kind of lid is visibly present on top of the container?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What is the general texture of the label, as it appears in the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the appearance of the text on the nutrition label \u2014 is it mostly large or small?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the overall color scheme of the visible label design?",
+        "answer": "Monochromatic"
+      },
+      {
+        "question": "Is there any visible illustration or design element besides text on the label?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based solely on visual inspection, what is the apparent size of the container?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the apparent condition of the visible container\u2014is it new or used?",
+        "answer": "New"
+      },
+      {
+        "question": "Considering the visible text, what type of food product is likely contained?",
+        "answer": "Nuts"
+      },
+      {
+        "question": "What kind of typeface does the visible text on the label primarily use?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Describe the visible style of the nutrition information on the label?",
+        "answer": "Tabular"
+      },
+      {
+        "question": "What is the apparent weight or volume of this container shown on the label?",
+        "answer": "Unspecified"
+      }
+    ]
+  }
+]

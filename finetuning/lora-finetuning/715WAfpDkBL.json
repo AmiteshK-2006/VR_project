@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/25/25b4e3dd.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color dominating the product's label, as shown in the image?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the image, what appears to be the shape of the container holding the product?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Based on the visual evidence, what material seems to constitute the product's packaging?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Observing the label, what is the prominent text displayed on the product's packaging?",
+        "answer": "Wholefoods"
+      },
+      {
+        "question": "Does the product's packaging, as shown, exhibit any noticeable texture variations?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the image, what is the overall design style of the product's label?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What specific nutritional information is prominently featured on the product's label?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Does the container, according to the provided image, feature a lid or cap?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the orientation of the product's label, as depicted in the image?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Are there any visible markings or logos on the product's packaging other than text?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the visual, what is the approximate height-to-width ratio of the container?",
+        "answer": "Tall"
+      },
+      {
+        "question": "Does the image reveal any clear indication of the product's weight or volume?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What seems to be the overall condition or appearance of the product's packaging?",
+        "answer": "New"
+      },
+      {
+        "question": "Judging by the image, does the label have any sections or divisions?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the label use any particular font style for its text?",
+        "answer": "Sans-serif"
+      }
+    ]
+  }
+]

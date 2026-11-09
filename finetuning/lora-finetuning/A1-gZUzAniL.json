@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ee/eefcfaac.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the image?",
+        "answer": "Purple"
+      },
+      {
+        "question": "What is the most apparent texture of the displayed textile?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the visual folds, what is the drape of the fabric like?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Considering the image's details, what is the general appearance of the fabric?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "What seems to be the most likely material from visual cues?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "What kind of weave or structure is most visually apparent in the fabric?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Judging by the visible details, what is the overall feel of the fabric?",
+        "answer": "Lightweight"
+      },
+      {
+        "question": "What is the visible pattern of the textile depicted in the image?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Considering the image, how would you describe the fabric's sheen?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the fabric exhibit any visible irregularities in its texture?",
+        "answer": "No"
+      },
+      {
+        "question": "What kind of visible stitching is present at the bottom edge?",
+        "answer": "Straight"
+      },
+      {
+        "question": "What is the apparent level of luster exhibited by the textile?",
+        "answer": "Low"
+      },
+      {
+        "question": "Describing the visual appearance, how even is the fabric's color?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "From the folds displayed, what is the fabric's apparent thickness?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Observing the image, is there any visible print or design on the fabric?",
+        "answer": "None"
+      }
+    ]
+  }
+]

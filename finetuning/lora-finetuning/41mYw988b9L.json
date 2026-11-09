@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/41/41d44ecc.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the text displaying the ingredient list?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall background color of the product's label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the font style used for the word 'INGREDIENTS'?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the case of the lettering used for listing the ingredients?",
+        "answer": "Title"
+      },
+      {
+        "question": "What is the text alignment of the ingredient list?",
+        "answer": "Left"
+      },
+      {
+        "question": "Considering the visual layout, what is the product type indicated?",
+        "answer": "Food"
+      },
+      {
+        "question": "What is the overall shape of the area containing the ingredient list?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the style of the text's formatting; is it bold, italic, or normal?",
+        "answer": "Normal"
+      },
+      {
+        "question": "Describing the visual texture, is the label surface smooth or rough?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the label's appearance, what is the assumed material of the container?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the noticeable spacing between lines of text in the ingredient list?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Considering the label's clarity, what is the readability of the ingredient text?",
+        "answer": "High"
+      },
+      {
+        "question": "Considering the list's length, what is the overall visual density of information?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the general visual impression conveyed by the product labeling?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Based on the text's visual presentation, what is the formality level of the product description?",
+        "answer": "Neutral"
+      }
+    ]
+  }
+]

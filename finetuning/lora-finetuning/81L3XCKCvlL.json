@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/90/90641875.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the displayed product?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary material used in the item's construction?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Considering the overall form, what geometric shape best describes this object?",
+        "answer": "Square"
+      },
+      {
+        "question": "Describing the surface texture, is it smooth or rough to the touch?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the edges, are they sharply defined or softly rounded?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Does the object exhibit any noticeable seams or stitching along its perimeter?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Focusing on the upper section, is there any visible pocket or flap integrated into the design?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the product's color appear uniform across its entire surface area?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the thickness, would you classify it as thin, medium, or thick?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Is the product folded, creased, or displayed flat on a surface?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Does the item show any visible logos, labels, or other markings?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on its appearance, what is the likely intended function of this item?",
+        "answer": "Protective"
+      },
+      {
+        "question": "Judging by the material and construction, is this item rigid or pliable?",
+        "answer": "Pliable"
+      },
+      {
+        "question": "What is the apparent overall condition of the product, considering any visible wear or damage?",
+        "answer": "New"
+      },
+      {
+        "question": "Given its design and material, is this item likely machine washable?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

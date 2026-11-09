@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b2/b21d3d78.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what single word best describes the product's primary purpose as explicitly stated on the label?",
+        "answer": "Sunscreen"
+      },
+      {
+        "question": "Observing the text's arrangement, what term prominently identifies the detailed ingredient list section?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Focusing on the textual information provided, what word signifies the intended application of the product's components?",
+        "answer": "Purpose"
+      },
+      {
+        "question": "Based on the label's visual layout, what word precedes the percentage values indicating concentrations of active components?",
+        "answer": "Avobenzone"
+      },
+      {
+        "question": "Looking at the listed ingredients, what term follows 'Avobenzone' in the active ingredient section?",
+        "answer": "Homosalate"
+      },
+      {
+        "question": "Examining the ingredient list, what word appears before '5.0%' in the provided concentration data?",
+        "answer": "Octisalate"
+      },
+      {
+        "question": "From the label's text, what is the next ingredient mentioned after 'Octisalate' in the active ingredient list?",
+        "answer": "Octocrylene"
+      },
+      {
+        "question": "According to the text, what chemical compound is listed last among the active ingredients?",
+        "answer": "Oxybenzone"
+      },
+      {
+        "question": "What is the overall background color of the entire label?",
+        "answer": "White"
+      },
+      {
+        "question": "Describing the text's visual style, what font weight is predominantly used on the label?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the primary color of the text on the product label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the shape of the information box containing the 'Drug Facts' section?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging by the text's appearance, what is the label's orientation?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What type of information does the product label primarily convey?",
+        "answer": "Technical"
+      },
+      {
+        "question": "Based on visual observation, what is the most noticeable feature of the label's structure?",
+        "answer": "Sections"
+      }
+    ]
+  }
+]

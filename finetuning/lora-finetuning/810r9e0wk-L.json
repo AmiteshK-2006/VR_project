@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/80/8005d18e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the bottle visible in the image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What material appears to constitute the main body of the container shown?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the overall shape, what geometric form best describes the supplement bottle?",
+        "answer": "Cylinder"
+      },
+      {
+        "question": "What is the color of the text on the label, aside from the brand name?",
+        "answer": "Green"
+      },
+      {
+        "question": "What kind of lid or closure is present on top of the container?",
+        "answer": "Screw-top"
+      },
+      {
+        "question": "What appears to be printed at the base of the container, near the barcode?",
+        "answer": "Numbers"
+      },
+      {
+        "question": "What is the apparent texture of the bottle's surface, excluding the label?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What kind of seal or indicator is present to ensure the bottle hasn't been tampered with?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the overall shape of the bottle's cap or lid?",
+        "answer": "Round"
+      },
+      {
+        "question": "What appears to be printed on the left-hand side of the container, likely representing certifications?",
+        "answer": "Logos"
+      },
+      {
+        "question": "Judging by the image, what seems to be the primary purpose of this item?",
+        "answer": "Packaging"
+      },
+      {
+        "question": "What color are the symbols printed to the left of the barcode?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the visible orientation of the label text regarding the container?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What kind of printing technique appears to have been used on the container?",
+        "answer": "Label"
+      },
+      {
+        "question": "Considering the labeling, what is the probable contents of the container?",
+        "answer": "Supplements"
+      }
+    ]
+  }
+]

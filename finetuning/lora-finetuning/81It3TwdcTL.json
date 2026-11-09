@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/51/5123e0de.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the bread's crust, as visibly apparent in the product image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the visible texture, what is the apparent surface quality of the bread?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Based on its visible form, what is the overall shape of the bread loaf presented?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What kind of bread is shown by the packaging label, specifically identifying its composition?",
+        "answer": "Multigrain"
+      },
+      {
+        "question": "Observing the packaging, what is the primary material used for the bread's outer covering?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Judging by the image, what type of bread is this primarily intended for?",
+        "answer": "Sandwich"
+      },
+      {
+        "question": "Does the packaging display any certifications regarding the bread's production?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the visible primary color scheme featured on the packaging label?",
+        "answer": "Green"
+      },
+      {
+        "question": "Can you identify any seeds or grains visibly embedded in the bread's surface?",
+        "answer": "Seeds"
+      },
+      {
+        "question": "Considering the image alone, what is the apparent size of the bread loaf shown?",
+        "answer": "Standard"
+      },
+      {
+        "question": "Describe the visible design style of the product's packaging label.",
+        "answer": "Simple"
+      },
+      {
+        "question": "What brand name is clearly visible on the bread packaging?",
+        "answer": "365"
+      },
+      {
+        "question": "What is the visible texture of the seeds and grains embedded in the bread?",
+        "answer": "Uneven"
+      },
+      {
+        "question": "What is the overall visual impression of the bread, considering its color and texture?",
+        "answer": "Rustic"
+      },
+      {
+        "question": "Considering the packaging's visual cues, is this bread likely a whole-grain type?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

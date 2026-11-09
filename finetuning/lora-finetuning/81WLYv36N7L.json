@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e5/e5ad4095.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the USB-C to USB-A cable shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the USB cable, considering its physical form?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What material appears to constitute the exterior of the USB cable?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What type of connector is visible at the end connecting to the laptop?",
+        "answer": "USB-C"
+      },
+      {
+        "question": "What type of connector is visible at the end connecting to the cellphone?",
+        "answer": "USB-A"
+      },
+      {
+        "question": "Considering the image, what is the apparent length of the cable?",
+        "answer": "Short"
+      },
+      {
+        "question": "Describe the surface texture of the USB cable as shown in the image.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent thickness or diameter of the cable itself?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Based on the image, what appears to be the cable's overall flexibility?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "What device is the USB-C connector attached to in the image?",
+        "answer": "Laptop"
+      },
+      {
+        "question": "What device is the USB-A connector attached to in the image?",
+        "answer": "Phone"
+      },
+      {
+        "question": "Considering the cable's design, is it braided or unbraided?",
+        "answer": "Unbraided"
+      },
+      {
+        "question": "Does the cable show any visible markings or logos in the provided image?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image, what is the apparent condition of the cable?",
+        "answer": "New"
+      },
+      {
+        "question": "Based on the image, does the cable appear to be shielded or unshielded?",
+        "answer": "Unshielded"
+      }
+    ]
+  }
+]

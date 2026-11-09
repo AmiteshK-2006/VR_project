@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4f/4f495fad.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary textual information conveyed on the depicted rectangular product?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Considering the layout, what is the most prominent numerical value displayed in bold?",
+        "answer": "150"
+      },
+      {
+        "question": "What unit of measurement is consistently associated with the quantities listed?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Describe the overall color palette predominantly used in this product's presentation.",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the shape of the item displayed, based on its outer edges?",
+        "answer": "Rectangle"
+      },
+      {
+        "question": "Considering the typeface, what is the general style of the lettering used?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the text, what food item does this nutrition label describe?",
+        "answer": "Muffin"
+      },
+      {
+        "question": "What is the texture implied by the visual presentation of the text?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the general condition or state of the visible surface, such as glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the product's design incorporate any visible graphical elements beyond text?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the lines, are they consistently straight or do they show any curvature?",
+        "answer": "Straight"
+      },
+      {
+        "question": "What is the apparent overall condition of the text, indicating wear or freshness?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Considering the visual hierarchy, which nutritional component receives the highest emphasis?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Does the image reveal any discernible markings or logos besides the textual content?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the type of surface of the nutrition label?",
+        "answer": "Paper"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3d/3de8324b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the displayed fabric?",
+        "answer": "Cream"
+      },
+      {
+        "question": "Considering the drape and texture, what is the fabric's likely feel?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on its appearance, what is the most probable material of this sheet?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Judging by the image, what is the overall texture of the fabric?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Does the fabric exhibit any visible patterns or designs?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the general shape or form of the displayed textile item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Observing the edges, are there any visible seams or hems?",
+        "answer": "Yes"
+      },
+      {
+        "question": "From the image, what appears to be the primary purpose of this item?",
+        "answer": "Sheet"
+      },
+      {
+        "question": "Is the fabric's sheen matte, glossy, or semi-glossy?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Describe the visual appearance of the textile's surface, considering its smoothness?",
+        "answer": "Unblemished"
+      },
+      {
+        "question": "Considering the folds, how would you describe the fabric's drape?",
+        "answer": "Fluid"
+      },
+      {
+        "question": "Analyzing the folds and creases, how does the fabric seem to handle draping?",
+        "answer": "Well"
+      },
+      {
+        "question": "Judging by the lighting and shadows, what level of shine does the fabric have?",
+        "answer": "Low"
+      },
+      {
+        "question": "Based purely on visual cues, does the fabric appear to be of high quality?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent weight or density of the fabric, judging by its appearance?",
+        "answer": "Light"
+      }
+    ]
+  }
+]

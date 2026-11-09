@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/7b/7b349383.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the packaging's primary display area?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What type of food product is contained within the packaging, as indicated on the label?",
+        "answer": "Granola"
+      },
+      {
+        "question": "What is the specific flavor variant of the granola bar indicated on the packaging?",
+        "answer": "Chocolate"
+      },
+      {
+        "question": "What is the overall shape of the packaged food item as depicted on the packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the primary material of the flexible food packaging?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the main color of the text on the packaging's nutrition facts label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the orientation of the nutrition facts label relative to the bar?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What type of nutritional information is clearly displayed on the packaging?",
+        "answer": "Facts"
+      },
+      {
+        "question": "What is the shape of the color-coded bars in the nutrition facts panel?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Is there a barcode present on the packaging, what is it's basic shape?",
+        "answer": "Linear"
+      },
+      {
+        "question": "What is the color of the smaller text at the bottom of the label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall texture of the packaging material shown in the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Besides the text, is there any other significant visual element on the packaging besides the nutritional panel?",
+        "answer": "Logo"
+      },
+      {
+        "question": "What seems to be the general transparency level of the packaging material?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Considering the overall design, what is the most prominent design element?",
+        "answer": "Color"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a7/a7216e04.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual structure, what is the dominant shape of this product's label, considering its rectangular boundaries and the structured arrangement of data within the frame?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visual attributes, what is the primary color scheme employed across the surface of the product's packaging?",
+        "answer": "White"
+      },
+      {
+        "question": "Observing the detailed text and numerical values, what is the overall content presented on the label?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Given the visual characteristics of the font and its layout, how would you classify the overall style of the text presented?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Judging solely by the visual texture, what is the general tactile quality of the label's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the visual clarity and contrast of text and background, what is the overall legibility of the information displayed?",
+        "answer": "High"
+      },
+      {
+        "question": "Based on the visual organization, what is the mode of presentation of the nutritional information on this product's label?",
+        "answer": "Tabular"
+      },
+      {
+        "question": "Based on the visual elements, what is the language used to present the nutritional information on the package?",
+        "answer": "English"
+      },
+      {
+        "question": "Considering the visual presentation, what units of measurement are primarily used for quantitative data?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Observing the visual data, what is the highest value listed for total fat, presented in grams?",
+        "answer": "7.5"
+      },
+      {
+        "question": "What is the primary method of data visualization used for representing different nutritional values, based solely on visual observation?",
+        "answer": "Tables"
+      },
+      {
+        "question": "Considering the visual layout, what is the primary focus of the information presented?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Judging by visual prominence, what is the main title or header present on the label?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Based on visual examination, what is the primary material the label appears to be printed on?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Based on visual characteristics, what is the relative size of the label, relative to a common object of comparison?",
+        "answer": "Small"
+      }
+    ]
+  }
+]

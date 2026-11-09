@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/42/4213562a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the presented battery?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What dominant color is visible on the battery's body?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What type of battery is depicted in the provided image?",
+        "answer": "AA"
+      },
+      {
+        "question": "What specific brand is indicated on the battery's label?",
+        "answer": "Amazonbasics"
+      },
+      {
+        "question": "What is the primary material indicated by the battery's appearance?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What text is prominently displayed vertically on the battery?",
+        "answer": "Amazonbasics"
+      },
+      {
+        "question": "What is the description of the battery's chemical composition?",
+        "answer": "Alkaline"
+      },
+      {
+        "question": "What symbol indicates the battery's positive terminal?",
+        "answer": "Plus"
+      },
+      {
+        "question": "What is the text indicating the battery size, aside from the brand?",
+        "answer": "AA"
+      },
+      {
+        "question": "What is the texture of the cylindrical surface of the battery?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is visible at the top of the battery, besides the '+' symbol?",
+        "answer": "Flat"
+      },
+      {
+        "question": "What is the color of the top portion of the battery?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the label, what is the battery's intended use?",
+        "answer": "Industrial"
+      },
+      {
+        "question": "What symbol represents the negative terminal of the battery?",
+        "answer": "Zero"
+      },
+      {
+        "question": "What is the overall finish of the battery's surface?",
+        "answer": "Matte"
+      }
+    ]
+  }
+]

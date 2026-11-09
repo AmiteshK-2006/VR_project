@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/99/99aaa39a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the depicted shipping labels?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the image, what is the overall shape of each individual label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visual appearance, what material are these labels likely made of?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Judging from the image, what is the surface texture of the labels?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the image show any noticeable design elements or patterns on the labels?",
+        "answer": "None"
+      },
+      {
+        "question": "Are there any visible markings or text printed directly on the labels themselves?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent size of the label sheet, as a whole?",
+        "answer": "Large"
+      },
+      {
+        "question": "Can you observe any perforations or separation lines between individual labels?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging by the image, how many labels are visibly contained within one sheet?",
+        "answer": "Many"
+      },
+      {
+        "question": "What is the brand name printed on the packaging?",
+        "answer": "Amazonbasics"
+      },
+      {
+        "question": "Considering the packaging, what language(s) are used for product information?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "Is the packaging predominantly glossy or matte in appearance?",
+        "answer": "Matte"
+      },
+      {
+        "question": "From the image, what is the primary intended use of the product?",
+        "answer": "Shipping"
+      },
+      {
+        "question": "What is the overall visual impression of the product's packaging?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Based on the image, can you tell if the labels are adhesive?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

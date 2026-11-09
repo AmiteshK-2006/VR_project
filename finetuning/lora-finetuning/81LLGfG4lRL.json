@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ed/ed68814a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the text displayed on the nutrition label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the nutrition facts panel shown in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the font style, what is the apparent nature of the text on the label?",
+        "answer": "Informative"
+      },
+      {
+        "question": "What is the textual format in which the nutritional information is presented?",
+        "answer": "Tabular"
+      },
+      {
+        "question": "What unit of measurement is used to quantify the serving size of this product?",
+        "answer": "Ounces"
+      },
+      {
+        "question": "What numerical value is indicated for the total amount of fat per serving?",
+        "answer": "Seventeen"
+      },
+      {
+        "question": "Based on the label, how many servings are contained within the packaging?",
+        "answer": "Four"
+      },
+      {
+        "question": "What is the stated amount of protein provided per serving of this food item?",
+        "answer": "Twenty-one"
+      },
+      {
+        "question": "What is the approximate weight of one serving, expressed in grams?",
+        "answer": "One-hundred-twelve"
+      },
+      {
+        "question": "What is the unit of measurement used to express the amount of cholesterol?",
+        "answer": "Milligrams"
+      },
+      {
+        "question": "What is the stated amount of cholesterol per serving in the nutrition facts?",
+        "answer": "Seventy-five"
+      },
+      {
+        "question": "What percentage of the daily value of sodium is provided per serving?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the unit of measurement used for total fat in the nutrition information?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the general layout style of the nutritional facts, with regards to organization?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the total number of calories per serving listed on this nutrition label?",
+        "answer": "Two-hundred-forty"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f6/f65fd7f7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the container holding the product?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the overall shape of the product container?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What material appears to constitute the product container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the apparent texture of the product container's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describing the lid, what color is it primarily?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the apparent finish of the product container's surface?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Considering the size, is the product container large or small?",
+        "answer": "Small"
+      },
+      {
+        "question": "Does the container have any noticeable markings or text?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the shape of the product container's lid?",
+        "answer": "Circular"
+      },
+      {
+        "question": "What is the visible color of the product inside the container?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Judging by the image, what type of product does this container appear to hold?",
+        "answer": "Cream"
+      },
+      {
+        "question": "Based solely on the image, is the product container transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What is the apparent material of the container's lid?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the hand in the image, how would you describe the container's size?",
+        "answer": "Compact"
+      },
+      {
+        "question": "Is there any noticeable branding or labeling visible on the container?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

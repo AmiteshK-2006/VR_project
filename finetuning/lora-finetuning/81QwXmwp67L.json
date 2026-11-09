@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/cb/cb401264.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall design, what is the primary style of this footwear, based purely on visual observation?",
+        "answer": "Oxford"
+      },
+      {
+        "question": "Judging solely from the image, what appears to be the dominant color of the shoe's exterior?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Based on visual inspection, what material seems to constitute the shoe's upper?",
+        "answer": "Leather"
+      },
+      {
+        "question": "From the image alone, what type of closure mechanism is visible on the shoe?",
+        "answer": "Lace-up"
+      },
+      {
+        "question": "What is the visible shape of the toe cap on the presented shoe, if any?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Examining the image carefully, what design feature, besides the laces, is most prominent on the shoe's vamp?",
+        "answer": "Brogueing"
+      },
+      {
+        "question": "Based on visual assessment, describe the apparent texture of the shoe's leather surface.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Analyzing the image, what appears to be the general condition of the shoe's leather, without reference to metadata?",
+        "answer": "New"
+      },
+      {
+        "question": "What is the apparent finish of the leather visible on the shoe, as observed only in the image?",
+        "answer": "Shiny"
+      },
+      {
+        "question": "From the visible aspects of the presented shoe, what is the apparent design of the heel counter?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Judging exclusively from the image, what is the visible color of the shoe's laces?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the shape of the shoe's sole as viewed from above, disregarding any metadata?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Based on visual cues alone, what material seems to be used for the visible part of the shoe's insole?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Observing only the image, what is the number of eyelets visible on one side of the shoe's lacing system?",
+        "answer": "Five"
+      },
+      {
+        "question": "In the provided image, is the shoe shown with any visible branding details?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e9/e95bab81.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the nutrition facts label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the text format of the serving size information?",
+        "answer": "Numerical"
+      },
+      {
+        "question": "What unit of measurement is used for the serving size?",
+        "answer": "Tablespoons"
+      },
+      {
+        "question": "What is the specified amount in milliliters for one serving?",
+        "answer": "30ml"
+      },
+      {
+        "question": "What is the total number of servings per container?",
+        "answer": "24"
+      },
+      {
+        "question": "What is the number of calories per serving stated on the label?",
+        "answer": "100"
+      },
+      {
+        "question": "What is the primary font style used for the header 'Nutrition Facts'?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What nutrient is indicated as having 32% of daily value per serving?",
+        "answer": "Sugars"
+      },
+      {
+        "question": "What is the amount of total carbohydrates per serving, in grams?",
+        "answer": "26g"
+      },
+      {
+        "question": "What is the amount of sodium present per serving, in milligrams?",
+        "answer": "50mg"
+      },
+      {
+        "question": "What is the amount of total fat per serving, in grams?",
+        "answer": "0g"
+      },
+      {
+        "question": "What is the amount of protein found per serving, in grams?",
+        "answer": "0g"
+      },
+      {
+        "question": "What is the main purpose of this rectangular label?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the general shape of the nutritional information panel?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the style of the text primarily used within the panel?",
+        "answer": "Sans-serif"
+      }
+    ]
+  }
+]

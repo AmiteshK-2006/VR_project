@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/7e/7ec3bb3d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the background on which the product text is printed?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "Considering the overall appearance, what is the most probable shape of the product depicted?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visual characteristics, what is the likely material of this product's substrate?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Observing the typography, what style of text is predominantly used for the presented information?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the color of the ink used to print the text on the product's surface?",
+        "answer": "Black"
+      },
+      {
+        "question": "Judging from its appearance, what is the primary function of this product?",
+        "answer": "Informational"
+      },
+      {
+        "question": "What is the visual texture of the rectangular area of the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the visual contrast between the text and the background of the image.",
+        "answer": "High"
+      },
+      {
+        "question": "What is the overall appearance of the writing on the product?",
+        "answer": "Legible"
+      },
+      {
+        "question": "Does the text align in a certain manner, horizontally or vertically, on the surface?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Considering the printed text, what kind of information does the label impart?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "In terms of its visual layout, how is the content arranged within the label's bounds?",
+        "answer": "Linear"
+      },
+      {
+        "question": "What is the visual size of the text on the rectangular product relative to its background?",
+        "answer": "Small"
+      },
+      {
+        "question": "Does the product display any other graphical elements or illustrations beyond the text?",
+        "answer": "No"
+      },
+      {
+        "question": "How many lines of text are visible on the product image in total?",
+        "answer": "Two"
+      }
+    ]
+  }
+]

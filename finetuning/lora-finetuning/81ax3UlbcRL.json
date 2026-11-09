@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f1/f150591c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the bath mat, as shown in the product image?",
+        "answer": "Pink"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent material of the bath mat?",
+        "answer": "Fuzzy"
+      },
+      {
+        "question": "Based on its form, what is the overall shape of the depicted bath mat?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging by the image, does the bath mat appear to be thick or thin?",
+        "answer": "Thick"
+      },
+      {
+        "question": "What is the general visual texture of the rolled-up portion of the bath mat?",
+        "answer": "Plush"
+      },
+      {
+        "question": "Observing the edges, does the bath mat have a defined or frayed appearance?",
+        "answer": "Defined"
+      },
+      {
+        "question": "From the image, can you describe the visible pile of the bath mat?",
+        "answer": "Short"
+      },
+      {
+        "question": "Considering the image, is the bath mat's surface uniformly colored or patterned?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Does the image show any noticeable design elements on the bath mat's surface?",
+        "answer": "None"
+      },
+      {
+        "question": "Judging from the way it is rolled, is the mat easily portable?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent absorbency level suggested by its texture?",
+        "answer": "High"
+      },
+      {
+        "question": "From the photo, is the mat fully expanded or partially rolled?",
+        "answer": "Partially"
+      },
+      {
+        "question": "Based on the image, what is the overall condition of the bath mat?",
+        "answer": "New"
+      },
+      {
+        "question": "Judging by its appearance, is this a large or small bath mat?",
+        "answer": "Small"
+      },
+      {
+        "question": "Observing the image closely, is the backing of the mat visible?",
+        "answer": "No"
+      }
+    ]
+  }
+]

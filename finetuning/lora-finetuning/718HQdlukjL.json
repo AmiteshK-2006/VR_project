@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c1/c1e0071f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the packaging, predominantly visible on the carton's top and sides?",
+        "answer": "Green"
+      },
+      {
+        "question": "What type of dairy product is explicitly stated on the carton's central label?",
+        "answer": "Milk"
+      },
+      {
+        "question": "Considering the text on the carton, what is the fat percentage of this milk?",
+        "answer": "1%"
+      },
+      {
+        "question": "Based on the text, what is the indicated quality grade of the milk?",
+        "answer": "A"
+      },
+      {
+        "question": "What is the shape of the carton containing the milk product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the material used to package this dairy product, evident from its overall appearance?",
+        "answer": "Carton"
+      },
+      {
+        "question": "What is the dominant illustration on the carton, depicting a farmyard animal?",
+        "answer": "Cow"
+      },
+      {
+        "question": "Describing the cow in the illustration, what are the predominant colors of its markings?",
+        "answer": "Black"
+      },
+      {
+        "question": "Observing the top of the carton, what is the color of the cap?",
+        "answer": "White"
+      },
+      {
+        "question": "What single word best describes the label's overall aesthetic style, as seen in the typeface and graphics?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Based on the packaging, what is the brand name of the milk?",
+        "answer": "365"
+      },
+      {
+        "question": "According to the text, what additional vitamins are added to the milk?",
+        "answer": "A&D"
+      },
+      {
+        "question": "What word on the label indicates the milk's treatment method for fat distribution?",
+        "answer": "Homogenized"
+      },
+      {
+        "question": "According to the label, what is the milk's processing status concerning heat treatment?",
+        "answer": "Pasteurized"
+      },
+      {
+        "question": "What word on the packaging signifies that the product adheres to agricultural standards?",
+        "answer": "Organic"
+      }
+    ]
+  }
+]

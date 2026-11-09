@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/31/312b0c0c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual layout, what is the primary purpose of this rectangular label?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the dominant color used in the text of this product's ingredient list?",
+        "answer": "Black"
+      },
+      {
+        "question": "Describing the font style employed in the 'INGREDIENTS' heading, what typeface is used?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Focusing on the textual elements, what is the primary language used to present the product's composition?",
+        "answer": "English"
+      },
+      {
+        "question": "Regarding the presentation of the ingredient list, what format is used to organize the various components?",
+        "answer": "List"
+      },
+      {
+        "question": "Concerning the text's visual appearance, what is the general case of the lettering used throughout the label?",
+        "answer": "Upper"
+      },
+      {
+        "question": "Observing the label's structure, what is the overall orientation of the textual information presented?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "In terms of spacing, how would you characterize the gap between lines of text on this label?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Considering the background, what is the primary shade of the area behind the textual information?",
+        "answer": "White"
+      },
+      {
+        "question": "In relation to the label's structure, what is the shape of the printed area containing the ingredients?",
+        "answer": "Rectangle"
+      },
+      {
+        "question": "Considering the textual details, what specific type of cheese is listed among the ingredients?",
+        "answer": "Cheddar"
+      },
+      {
+        "question": "Regarding the food items, what type of pasta is explicitly mentioned in the ingredient list?",
+        "answer": "Macaroni"
+      },
+      {
+        "question": "Focusing on the ingredients, what is the main sweetener specified in this product's composition?",
+        "answer": "Sugar"
+      },
+      {
+        "question": "In the list of ingredients, what is one common spice that is specifically listed?",
+        "answer": "Paprika"
+      },
+      {
+        "question": "In terms of the ingredients mentioned, what kind of powder is identified as a flavoring agent?",
+        "answer": "Garlic"
+      }
+    ]
+  }
+]

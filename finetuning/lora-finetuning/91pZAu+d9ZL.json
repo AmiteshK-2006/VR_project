@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/db/dbcab1a1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed textile?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the apparent texture of the towel's surface?",
+        "answer": "Fluffy"
+      },
+      {
+        "question": "What type of textile appears to be used in the product's construction?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Describe the overall shape of the presented textile item.",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the visible hem, what is the apparent construction method?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Judging by the image, what is the general feel of the towel?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What is the apparent style of the towel's border or hem?",
+        "answer": "Double"
+      },
+      {
+        "question": "Based on the image, what is the main function of this product?",
+        "answer": "Towel"
+      },
+      {
+        "question": "What is the visible pattern or design present on the textile?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Describe the visible weight or density of the towel’s fabric.",
+        "answer": "Thick"
+      },
+      {
+        "question": "Judging by the image, how is the towel finished at the edges?",
+        "answer": "Hemmed"
+      },
+      {
+        "question": "Considering its appearance, what is the likely absorbency of the towel?",
+        "answer": "High"
+      },
+      {
+        "question": "Describe the visual appearance of the towel's fabric loops.",
+        "answer": "Dense"
+      },
+      {
+        "question": "What kind of visual impression is created by the color of the towel?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Considering the image, is the towel noticeably sheer or opaque?",
+        "answer": "Opaque"
+      }
+    ]
+  }
+]

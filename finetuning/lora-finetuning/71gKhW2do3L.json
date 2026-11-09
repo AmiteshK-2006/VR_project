@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/16/16fe3947.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the displayed envelope?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What shape best describes the overall form of this mailing item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material appears to constitute the primary body of the envelope?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Considering the visible surface, what is the apparent texture of the envelope?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Is there a window or transparent area present on the envelope's front?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent shape of the transparent viewing area on the envelope?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "How many visible rectangular transparent areas are present on the envelope?",
+        "answer": "One"
+      },
+      {
+        "question": "Describe the color of the visible window area in the envelope's design.",
+        "answer": "White"
+      },
+      {
+        "question": "What is the apparent orientation of the address window on the envelope?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Based on its size and form, what is the most likely intended use for this item?",
+        "answer": "Mailing"
+      },
+      {
+        "question": "Does the envelope's surface exhibit any noticeable pattern or design beyond its primary color?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent finish of the envelope's surface, e.g., glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Are there any visible fasteners or closures attached to this envelope?",
+        "answer": "No"
+      },
+      {
+        "question": "Excluding the window, what single color dominates the envelope's presentation?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "Judging from the image, does the envelope appear to be pre-printed or blank?",
+        "answer": "Blank"
+      }
+    ]
+  }
+]

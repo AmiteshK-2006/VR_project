@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/37/37cc516d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the depicted rectangular item?",
+        "answer": "Green"
+      },
+      {
+        "question": "What seems to be the primary material composition of the flat surface?",
+        "answer": "Mesh"
+      },
+      {
+        "question": "Describe the overall shape of the presented planar product, ignoring any minor details?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What kind of subtle curves are visible at the four corners of the item shown?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Considering the visible texture, what is the apparent surface quality of this textile?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Based on its appearance, what is the likely intended function of this product?",
+        "answer": "Cover"
+      },
+      {
+        "question": "Judging by the image, how would you describe the overall visual tone of the article?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Considering its texture and apparent function, what is the probable use case?",
+        "answer": "Protective"
+      },
+      {
+        "question": "Describe the consistency of color across the entire visible surface area?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What visual characteristic suggests a degree of transparency or openness in the fabric?",
+        "answer": "See-through"
+      },
+      {
+        "question": "What is the apparent level of sheen or glossiness exhibited by the item’s surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Regarding the edges, describe how they are finished or treated in the image?",
+        "answer": "Hemmed"
+      },
+      {
+        "question": "Based solely on visual inspection, what is the apparent weight of the product?",
+        "answer": "Lightweight"
+      },
+      {
+        "question": "What is the implied function based on the product's dimensions and apparent material?",
+        "answer": "Screening"
+      },
+      {
+        "question": "Describe the visible weave or pattern of the fabric if any is present?",
+        "answer": "Loose"
+      }
+    ]
+  }
+]

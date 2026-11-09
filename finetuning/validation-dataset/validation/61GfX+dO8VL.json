@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/7c/7c4c535f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the visual presentation, what is the dominant textual characteristic of this product's displayed information?",
+        "answer": "List"
+      },
+      {
+        "question": "What is the primary function or purpose explicitly communicated on this product's image?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Based on the visual appearance, what is the overall orientation of the textual content?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Judging by the visual details, what is the apparent size of the individual textual elements?",
+        "answer": "Small"
+      },
+      {
+        "question": "From a visual standpoint, what color predominantly characterizes the text displayed?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What visual font style is utilized for the presented information, judging by its appearance?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based solely on its visual properties, what typeface weight or boldness can you attribute to the text?",
+        "answer": "Light"
+      },
+      {
+        "question": "What is the apparent arrangement of the textual elements, as observed visually in the image?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Describe the visual kerning or spacing between the characters of the written content.",
+        "answer": "Tight"
+      },
+      {
+        "question": "What visual format or structure is utilized to present the individual components or items within the information display?",
+        "answer": "List"
+      },
+      {
+        "question": "In the visual display, how many distinct sections or groupings of textual elements appear?",
+        "answer": "One"
+      },
+      {
+        "question": "In terms of visual presentation, is there any apparent hierarchy or structure among the elements?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the visual presentation of this product's details utilize any specific formatting for emphasis or distinction?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on visual examination, is the background of the displayed text uniform and consistent?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the visual aesthetics, what descriptive term best captures the overall style of the text presentation?",
+        "answer": "Plain"
+      }
+    ]
+  }
+]

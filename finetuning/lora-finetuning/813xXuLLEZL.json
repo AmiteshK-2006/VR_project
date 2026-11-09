@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3e/3eab8694.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the presented rectangular tile?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What appears to be the primary material composition of this flat tile?",
+        "answer": "Ceramic"
+      },
+      {
+        "question": "Considering its surface, what is the overall textural feel of this tile?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the image, what is the general shape of the displayed tile?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on visual observation, does the tile exhibit any noticeable patterns?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the tile's surface appear to have a glossy or matte finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "From the image, is there any visible evidence of texture variation across the tile?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "Based on the color and finish, how would you describe the tile's overall aesthetic?",
+        "answer": "Subdued"
+      },
+      {
+        "question": "Given the image provided, does the tile display any noticeable imperfections?",
+        "answer": "No"
+      },
+      {
+        "question": "Examining the tile, what is its apparent thickness relative to its other dimensions?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Judging from the image, is this tile suitable for indoor or outdoor use?",
+        "answer": "Indoor"
+      },
+      {
+        "question": "Does the image suggest any specific type of decorative element present on the tile?",
+        "answer": "None"
+      },
+      {
+        "question": "From the visual perspective, what is the approximate aspect ratio of this tile?",
+        "answer": "Wide"
+      },
+      {
+        "question": "Based on its appearance, is this tile designed for walls or floors specifically?",
+        "answer": "Wall"
+      },
+      {
+        "question": "Based purely on visual analysis, what is the tile's apparent level of reflectivity?",
+        "answer": "Low"
+      }
+    ]
+  }
+]

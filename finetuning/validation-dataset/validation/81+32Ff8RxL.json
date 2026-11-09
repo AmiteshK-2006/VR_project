@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/da/da71fe8c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the packaging, as visually observed?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary food item depicted on the packaging, based on the visual image?",
+        "answer": "Broccoli"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent packaging material?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What shape best describes the overall form of the product packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visible text, what is the preparation style of the broccoli?",
+        "answer": "Florets"
+      },
+      {
+        "question": "What color are the broccoli florets shown on the packaging, considering the visual cues?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the primary text color visible on the front of the product packaging?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering visual cues, is the package sealed or open?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "What type of label appears on the packaging, based on its visual characteristics?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What type of seal appears at the top of the bag, based solely on the image?",
+        "answer": "Heat"
+      },
+      {
+        "question": "What is the apparent condition of the product packaging, based on visual assessment?",
+        "answer": "New"
+      },
+      {
+        "question": "Are there any visible brand logos or identifying marks on the packaging?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the general visual texture of the packaging material, considering the image provided?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the visible format of the nutrition information on the package?",
+        "answer": "Table"
+      },
+      {
+        "question": "Based on visual inspection, what is the overall visual condition of the packaging?",
+        "answer": "Clean"
+      }
+    ]
+  }
+]

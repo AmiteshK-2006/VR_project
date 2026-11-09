@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/45/45b1f6c5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the depicted chewing gum?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "What is the overall geometric shape of this piece of gum?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the visual texture, how would you describe the gum's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image, what seems to be the primary material of this item?",
+        "answer": "Wax"
+      },
+      {
+        "question": "Does the chewing gum exhibit any noticeable patterns or markings?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the image, what is the approximate size of the gum?",
+        "answer": "Small"
+      },
+      {
+        "question": "What flavor is indicated by the product's label?",
+        "answer": "Mint"
+      },
+      {
+        "question": "Does the product appear to have any visible layers or distinct parts?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent finish or sheen on the gum's surface?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Is the product shown in a wrapper or any type of packaging?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the visual presentation suggest the gum is hard or soft?",
+        "answer": "Solid"
+      },
+      {
+        "question": "What is the background color behind the chewing gum in the image?",
+        "answer": "Green"
+      },
+      {
+        "question": "Does the product show any visible imperfections or damage?",
+        "answer": "No"
+      },
+      {
+        "question": "Is the gum depicted in isolation or with other objects?",
+        "answer": "Isolated"
+      },
+      {
+        "question": "Considering its form, does this item appear to be flexible or rigid?",
+        "answer": "Rigid"
+      }
+    ]
+  }
+]

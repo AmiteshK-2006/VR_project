@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ad/adbbaced.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the circular base visible in the provided image?",
+        "answer": "Brass"
+      },
+      {
+        "question": "Considering the object's form, what geometrical shape best describes its overall structure?",
+        "answer": "Circular"
+      },
+      {
+        "question": "Based on the visual texture, what material appears to have been used in the construction of this item?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Focusing on the central area, what type of feature is noticeable in the center of the circular top?",
+        "answer": "Hole"
+      },
+      {
+        "question": "Examining the image closely, how many distinct levels or tiers can be clearly identified in the product's design?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the apparent finish of the item's surface; is it matte, glossy, or something else?",
+        "answer": "Matte"
+      },
+      {
+        "question": "In terms of its intended function, what might this object be used for, based solely on its visible features?",
+        "answer": "Base"
+      },
+      {
+        "question": "Describe the relative size of this product compared to an average adult human hand shown for scale?",
+        "answer": "Small"
+      },
+      {
+        "question": "Judging by the image, is the object's surface uniformly colored or does it present any noticeable variations?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What is the apparent overall condition of the object, displaying any signs of wear or damage?",
+        "answer": "New"
+      },
+      {
+        "question": "Based on its appearance, does the item seem to be made of a lightweight or heavy material?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "Does the object's design include any embellishments, engravings, or other decorative elements?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the visible structural components, does the object appear to be assembled or a single piece?",
+        "answer": "Single"
+      },
+      {
+        "question": "Is the outer edge of the item's top surface sharply defined or does it show any rounding or curves?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Does the object's overall shape and form suggest any specific type of use or application?",
+        "answer": "Decorative"
+      }
+    ]
+  }
+]

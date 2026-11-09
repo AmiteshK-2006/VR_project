@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ee/eeb2517b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the prominent textual arrangement, what is the primary subject matter conveyed by the image?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Regarding the text's presentation, what is the overall visual style of the lettering in the image?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Based on the visual appearance, what is the general color scheme of the provided text?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Observing the text closely, what is the case of the lettering used for the word 'Ingredients'?",
+        "answer": "Upper"
+      },
+      {
+        "question": "In terms of typography, what is the apparent font type utilized for the ingredient list?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Examining the image, what is the orientation of the ingredient list presented in the image?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "With respect to the visual display, what is the size of the text relative to the image dimensions?",
+        "answer": "Large"
+      },
+      {
+        "question": "Focusing on the visual arrangement of text, is there a discernable hierarchy or formatting to the displayed information?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging from the visual appearance, does the text appear printed or handwritten in nature?",
+        "answer": "Printed"
+      },
+      {
+        "question": "According to the visible text, what is the denoted primary ingredient in this list?",
+        "answer": "Starch"
+      },
+      {
+        "question": "As shown by the text, what appears to be a secondary element used in this product?",
+        "answer": "Kaolin"
+      },
+      {
+        "question": "According to the image, what is one of the natural extracts listed within the ingredient list?",
+        "answer": "Aloe"
+      },
+      {
+        "question": "Based on the textual information provided, what is one of the flower extracts included in this mixture?",
+        "answer": "Calendula"
+      },
+      {
+        "question": "Considering the visual information available, what type of ingredient is 'Polysorbate 20'?",
+        "answer": "Additive"
+      },
+      {
+        "question": "From the provided image, what does the label describe the fragrance as?",
+        "answer": "Natural"
+      }
+    ]
+  }
+]

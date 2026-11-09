@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/09/095bfa67.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the packaging's background, as shown in the provided image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What appears to be the primary material used for the outer packaging of this coffee product?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Describe the overall geometric pattern printed on the coffee package's surface.",
+        "answer": "Abstract"
+      },
+      {
+        "question": "Considering the image, what color are the geometric shapes printed on the package?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Based on the visible text, what type of coffee is contained within this packaging?",
+        "answer": "Arabica"
+      },
+      {
+        "question": "What is the overall shape of the packaging based on visual inspection of the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging by the image, what is the texture of the outer packaging, rough or smooth?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What is the visible color of the text printed on the packaging of this coffee product?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Based on the visible text, who is the distributor of this coffee product?",
+        "answer": "Amazon"
+      },
+      {
+        "question": "What is the style of the font used for the text on the packaging, as evident in the image?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Does the packaging display any other colors aside from brown and dark shades?",
+        "answer": "No"
+      },
+      {
+        "question": "Is the text on the package primarily descriptive or decorative in nature?",
+        "answer": "Descriptive"
+      },
+      {
+        "question": "Judging from the image, is the printing on the packaging high or low resolution?",
+        "answer": "Low"
+      },
+      {
+        "question": "What is the orientation of the text blocks shown on the packaging; vertical or horizontal?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Does the packaging seem to include any images beyond the text and geometric patterns?",
+        "answer": "No"
+      }
+    ]
+  }
+]

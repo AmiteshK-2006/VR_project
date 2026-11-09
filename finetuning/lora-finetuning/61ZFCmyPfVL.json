@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/69/699bdbe5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the depicted item, considering its rectangular boundaries and uniform thickness?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the dominant color observed across the entire surface of the presented item?",
+        "answer": "White"
+      },
+      {
+        "question": "What numerical digit is prominently displayed within the central area of the pictured item?",
+        "answer": "1"
+      },
+      {
+        "question": "What appears to be the primary material composing the item, based on its smooth, matte appearance?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Considering the fine lines and crisp edges, what is the apparent print quality of the number on the item?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the apparent texture of the surface, given its uniformly smooth and unblemished visual appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the item exhibit any visible patterns, textures, or markings besides the centrally positioned number?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the sharpness of the number's edges and the clean white background, what is the apparent printing method employed?",
+        "answer": "Digital"
+      },
+      {
+        "question": "Given the lack of any visible embellishments, what is the overall design aesthetic of the item?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Based on the overall appearance of the item, what is the inferred function of the product?",
+        "answer": "Label"
+      },
+      {
+        "question": "What is the apparent condition of the item depicted, exhibiting no visible damage or alterations?",
+        "answer": "New"
+      },
+      {
+        "question": "Considering its size relative to the provided dimensions, what is the overall size of the depicted item?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the apparent thickness of the shown item given that it appears to be a single sheet of paper?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Given the visual representation and surrounding metadata, is the item seemingly intended for single use or multiple uses?",
+        "answer": "Single"
+      },
+      {
+        "question": "Considering the absence of any visible folds or creases, what is the overall flatness of the depicted item?",
+        "answer": "Flat"
+      }
+    ]
+  }
+]

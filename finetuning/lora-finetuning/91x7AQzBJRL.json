@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/54/54d7fbd7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color observed across the entire surface of the item?",
+        "answer": "Navy"
+      },
+      {
+        "question": "Considering the image's resolution, what is the apparent texture of the displayed product?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on visual inspection, what is the most likely material of this item?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Does the product exhibit any visible patterns, designs, or logos?",
+        "answer": "No"
+      },
+      {
+        "question": "Ignoring any potential lighting effects, describe the uniformity of the product's shade.",
+        "answer": "Consistent"
+      },
+      {
+        "question": "From the image, what is the overall shape of the displayed product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging from the image, is there any visible sheen or glossiness on the surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the visual data, does the object appear to have any discernible thickness?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based solely on the visual information, what is the level of detail visible in the image?",
+        "answer": "Low"
+      },
+      {
+        "question": "From the provided image, can you identify any visible seams, stitching, or joins?",
+        "answer": "No"
+      },
+      {
+        "question": "If the image is representative, what is the general aesthetic impression of the product?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Does the displayed object's color suggest any specific use or function?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the visible surface, is the product likely to be rigid or flexible?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Considering the visual information available, is the item seemingly opaque or translucent?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Can any significant markings, such as writing or branding, be visually identified?",
+        "answer": "No"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6f/6f71a478.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the depicted pharmaceutical item?",
+        "answer": "Oval"
+      },
+      {
+        "question": "Considering its dimensions, what is the most apparent size characteristic of this item?",
+        "answer": "Small"
+      },
+      {
+        "question": "Based on visual inspection, what is the dominant color of the object shown?",
+        "answer": "PaleYellow"
+      },
+      {
+        "question": "Judging by the image, what appears to be the texture of the surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What seems to be the primary material composition of the presented object?",
+        "answer": "Tablet"
+      },
+      {
+        "question": "Does the object exhibit any discernible markings or patterns on its surface?",
+        "answer": "None"
+      },
+      {
+        "question": "From the image provided, how many individual items are shown?",
+        "answer": "One"
+      },
+      {
+        "question": "Considering the context, what is the probable function or use of this item?",
+        "answer": "Supplement"
+      },
+      {
+        "question": "What is the relative visual opacity of the object, considering light transmission?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Judging solely by the visual appearance, what is the object's apparent consistency?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Does the object demonstrate any evidence of gloss or shine?",
+        "answer": "Slight"
+      },
+      {
+        "question": "Does the object appear to possess any visible structural irregularities?",
+        "answer": "No"
+      },
+      {
+        "question": "Given its appearance, what might be the object's probable form factor?",
+        "answer": "Pill"
+      },
+      {
+        "question": "Considering the provided scale, what is the approximate length of this item?",
+        "answer": "One"
+      },
+      {
+        "question": "Is there any visible evidence of coatings or layers on this object?",
+        "answer": "No"
+      }
+    ]
+  }
+]

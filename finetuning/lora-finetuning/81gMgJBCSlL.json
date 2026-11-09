@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/75/753c44a3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the jar's contents, as directly observed?",
+        "answer": "Red"
+      },
+      {
+        "question": "What primary material constitutes the product's container?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Considering the overall shape, what geometric form best describes the product's packaging?",
+        "answer": "Cylinder"
+      },
+      {
+        "question": "What is the apparent texture of the sauce visible through the jar?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the color of the lid affixed to the top of the jar?",
+        "answer": "Gold"
+      },
+      {
+        "question": "What is the overall style of the labeling on the jar, based on the visible design elements?",
+        "answer": "Rustic"
+      },
+      {
+        "question": "Considering the label's graphics, what appears to be a central theme or motif?",
+        "answer": "Plants"
+      },
+      {
+        "question": "Based on the label's visual characteristics, what is the overall color scheme used for the text?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What type of closure mechanism is used on the top of the jar, as visually apparent?",
+        "answer": "Screw-on"
+      },
+      {
+        "question": "What type of print seems to have been used for the label's design, from its visual appearance?",
+        "answer": "Letterpress"
+      },
+      {
+        "question": "Judging from the visual clarity, what is the overall condition of the jar's labelling?",
+        "answer": "Intact"
+      },
+      {
+        "question": "From the image, what is the discernible level of sauce within the container?",
+        "answer": "Full"
+      },
+      {
+        "question": "What is the general appearance of the sauce's consistency as seen through the jar?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Based on the visual cues in the image, is the jar's label opaque or transparent?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Considering the visible textual elements, what is the language used on the jar's label?",
+        "answer": "English"
+      }
+    ]
+  }
+]

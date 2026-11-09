@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b6/b671601e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the text displayed on the nutrition facts label shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the overall layout, what is the dominant orientation of the text blocks in the image?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the typeface used for the header 'Nutrition Facts' at the top of the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the overall shape of the nutrition facts label depicted?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the material that the nutrition facts label seems to be printed on, judging from its appearance?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the background color of the provided nutrition facts label?",
+        "answer": "White"
+      },
+      {
+        "question": "How many columns are visibly present in the nutrition facts table shown in the image?",
+        "answer": "Two"
+      },
+      {
+        "question": "Based on visual analysis, what is the apparent texture of the label\u2019s surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Focusing solely on the visual aspects, what is the main subject depicted within the image?",
+        "answer": "Label"
+      },
+      {
+        "question": "What is the style of the text, which appears bold and prominent, used in the nutrition facts label?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Can you identify any visible borders or lines present in the nutrition facts label?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is there any discernible logo or branding visible on the image of the food label?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by visual cues alone, what is the general condition or quality of the image of the label shown?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What appears to be the printing technique employed for the text on the label\u2014for example, offset or inkjet?",
+        "answer": "Offset"
+      },
+      {
+        "question": "Based only on the visual data, what seems to be the size of the font used for most of the nutrition details on the label?",
+        "answer": "Small"
+      }
+    ]
+  }
+]

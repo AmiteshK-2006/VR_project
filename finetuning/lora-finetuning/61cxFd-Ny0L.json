@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/24/24697b24.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular layout and textual information densely packed within a clearly defined border, what is the primary purpose indicated by the visual design of this product?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the prominent numerical value displayed, likely representing a nutritional component of the food product, shown in a large, bold typeface?",
+        "answer": "190"
+      },
+      {
+        "question": "Based on the visual arrangement of the information, which nutritional component's value is emphasized with higher visual prominence and bolding?",
+        "answer": "Calories"
+      },
+      {
+        "question": "What is the dominant color scheme of the text labels and numbers used to present the information on nutritional facts?",
+        "answer": "Black"
+      },
+      {
+        "question": "Observing the detailed breakdown of fats, what descriptive term indicates the absence of a particular type of fat?",
+        "answer": "Og"
+      },
+      {
+        "question": "Focusing on the carbohydrate section, what specific type of carbohydrate content has a significantly higher percentage compared to the total carbohydrate value?",
+        "answer": "Fiber"
+      },
+      {
+        "question": "What is the unit of measurement consistently used to quantify the values for fat, carbohydrates, and proteins throughout the provided information?",
+        "answer": "g"
+      },
+      {
+        "question": "Based on the format of this visual product, what type of food product's nutritional information is presented?",
+        "answer": "Food"
+      },
+      {
+        "question": "In reference to the presented nutritional facts, what specific type of sugar is explicitly indicated as having a zero value?",
+        "answer": "Added"
+      },
+      {
+        "question": "What is the overall shape of the container that holds the information displayed?",
+        "answer": "Rectangle"
+      },
+      {
+        "question": "Considering the type and organization of information in this visual product, what is the dominant textual format used to convey the data?",
+        "answer": "Table"
+      },
+      {
+        "question": "What unit is used for the measurement of Potassium in the displayed nutrition information?",
+        "answer": "mg"
+      },
+      {
+        "question": "What is the general layout style used to present the nutrition information, described by its arrangement and structure?",
+        "answer": "Columnar"
+      },
+      {
+        "question": "What is the textual element prominently displayed at the top, suggesting the content and nature of the following data?",
+        "answer": "Facts"
+      },
+      {
+        "question": "What is the background color of the label on which the nutritional information is printed?",
+        "answer": "White"
+      }
+    ]
+  }
+]

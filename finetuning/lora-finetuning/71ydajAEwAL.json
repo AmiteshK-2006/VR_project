@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e9/e97dc2d1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the doll's dress, as clearly visible in the provided image?",
+        "answer": "Purple"
+      },
+      {
+        "question": "Considering the image, what material appears to be used for the doll's hat and dress?",
+        "answer": "Velvet"
+      },
+      {
+        "question": "Based on the image, what color are the doll's shoes, neglecting any potential shadows or lighting effects?",
+        "answer": "Green"
+      },
+      {
+        "question": "Observing the image closely, what is the main shape of the doll's hat, ignoring minor details?",
+        "answer": "Round"
+      },
+      {
+        "question": "What is the color of the band around the doll's hat, as observed in the image?",
+        "answer": "Lime"
+      },
+      {
+        "question": "From the image, describe the style of the doll's hair, considering its length and arrangement.",
+        "answer": "Pigtails"
+      },
+      {
+        "question": "Based on visual inspection of the provided image, what color is the doll's hair?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the overall texture of the doll's clothing, as visually evident in the given image?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Describe the shape of the doll's dress as shown in the photograph, disregarding fine details.",
+        "answer": "A-line"
+      },
+      {
+        "question": "Judging from the image, what seems to be the material of the doll's legs and arms?",
+        "answer": "Plush"
+      },
+      {
+        "question": "What is the color of the doll's face as visually apparent in the image?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What design element is present on the doll's dress at the neck, as shown in the image?",
+        "answer": "Collar"
+      },
+      {
+        "question": "From the image, what is the apparent texture of the doll's hat?",
+        "answer": "Fuzzy"
+      },
+      {
+        "question": "Based on the visual features in the provided image, is the doll's hat detachable or fixed?",
+        "answer": "Fixed"
+      },
+      {
+        "question": "What is the shape of the doll's body, excluding head and limbs, as presented in the image?",
+        "answer": "Cylindrical"
+      }
+    ]
+  }
+]

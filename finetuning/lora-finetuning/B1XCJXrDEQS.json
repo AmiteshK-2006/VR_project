@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/50/50833fdd.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color observed across the entire fabric sample?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent material of this textile?",
+        "answer": "Linen"
+      },
+      {
+        "question": "Based on the image, what is the overall weave structure of this fabric?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Describe the visual impression of the fabric's surface in terms of texture.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the image, how would you characterize the fabric's surface sheen?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the fabric exhibit a visible pattern or design element?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the general color uniformity throughout the fabric sample?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Does the provided image suggest any visible imperfections or irregularities in the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the visual characteristics, what is the likely weight of the fabric?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Is the fabric displaying any signs of sheen or luster?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the image, how would you classify the apparent density of the fabric?",
+        "answer": "Tight"
+      },
+      {
+        "question": "Does the visual analysis suggest any obvious fiber blends?",
+        "answer": "No"
+      },
+      {
+        "question": "Based solely on visual observation, how would you describe the fabric's drape?",
+        "answer": "Moderate"
+      },
+      {
+        "question": "From the image alone, what is the apparent thickness of the fabric?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Considering the weave, what is the apparent level of fabric transparency?",
+        "answer": "Opaque"
+      }
+    ]
+  }
+]

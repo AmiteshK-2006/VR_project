@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/7e/7e837b8d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color scheme of the presented nutrition facts label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the nutritional information panel displayed in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the font style used for the 'Calories' value on the label?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the texture of the surface on which the nutritional information is printed?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the dominant material used for the nutrition facts label?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the orientation of the text on the nutrition facts label?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Considering the layout, what is the overall arrangement of data presented?",
+        "answer": "tabular"
+      },
+      {
+        "question": "What is the unit of measurement used for the 'Serving Size' specification?",
+        "answer": "Ounces"
+      },
+      {
+        "question": "What is the style of the numbers indicating percentage daily values?",
+        "answer": "Regular"
+      },
+      {
+        "question": "What is the overall style of the text on the nutrition label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the method of data presentation used for the nutritional components?",
+        "answer": "List"
+      },
+      {
+        "question": "What is the visual prominence given to the 'Calories' value?",
+        "answer": "High"
+      },
+      {
+        "question": "Does the label include any graphic elements beyond text and numbers?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the visual emphasis placed on the daily value percentages?",
+        "answer": "Low"
+      },
+      {
+        "question": "What is the overall visual impression of the nutritional label's design?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

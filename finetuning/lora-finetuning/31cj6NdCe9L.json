@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b1/b1166b0c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the outer packaging, as shown in the image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the visible text, what is the primary material indicated for this product?",
+        "answer": "Bamboo"
+      },
+      {
+        "question": "Based solely on the image, what shape best describes the product's packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent texture of the outer packaging, based on visual observation?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the packaging display any noticeable logo or branding elements?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging from the visible text, what is the product contained within the box?",
+        "answer": "Toilet"
+      },
+      {
+        "question": "Considering the visible text on the box, what quantity of the item is inside?",
+        "answer": "24"
+      },
+      {
+        "question": "What type of printing technique seems to have been used for the text on the packaging?",
+        "answer": "Letterpress"
+      },
+      {
+        "question": "From the image, can you discern the overall size of the packaging relative to a human figure?",
+        "answer": "Large"
+      },
+      {
+        "question": "Based on the visual characteristics, what is the overall style of the product packaging?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Does the packaging show any visible damage or imperfections in the image provided?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the general orientation of the text and labels on the package?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the apparent weight of the packaging based on the dimensions shown?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "Considering the image, does the packaging have any visible seams or joins?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Are there any noticeable patterns or designs besides text on the box?",
+        "answer": "No"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ac/acbfe7e7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the packaging?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What kind of food product is depicted in the image?",
+        "answer": "Mix"
+      },
+      {
+        "question": "What is the primary material of the product's packaging?",
+        "answer": "Pouch"
+      },
+      {
+        "question": "What is the shape of each individual package of the product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "How many individual units of the product are shown in the image?",
+        "answer": "Four"
+      },
+      {
+        "question": "What text is prominently displayed on the front of each package?",
+        "answer": "Fruit"
+      },
+      {
+        "question": "What secondary ingredient is prominently mentioned on the packaging?",
+        "answer": "Nut"
+      },
+      {
+        "question": "Besides nuts, what other ingredient is explicitly named on the label?",
+        "answer": "Seed"
+      },
+      {
+        "question": "What appears to be the overall texture of the product inside?",
+        "answer": "Dry"
+      },
+      {
+        "question": "What is the approximate weight of each individual package, as shown on the label?",
+        "answer": "200g"
+      },
+      {
+        "question": "What kind of graphic design elements are present on the packaging?",
+        "answer": "Fruits"
+      },
+      {
+        "question": "Is there a brand logo visible on the packaging?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the orientation of the individual packages in the image?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Describe the seal or closure type of the product packaging.",
+        "answer": "Sealed"
+      },
+      {
+        "question": "What is the overall visual impression of the product’s packaging design?",
+        "answer": "Clean"
+      }
+    ]
+  }
+]

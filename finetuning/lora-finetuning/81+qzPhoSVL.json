@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/07/07d3bd87.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the visible fabric section?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering the visible seams, what is the primary construction technique?",
+        "answer": "Sewn"
+      },
+      {
+        "question": "Based on the image texture, what is the likely material type?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Observing the edges, what is the general finish of the fabric?",
+        "answer": "Clean"
+      },
+      {
+        "question": "What is the approximate width of the visible seam in millimeters?",
+        "answer": "Narrow"
+      },
+      {
+        "question": "What type of seam is visible joining the two layers together?",
+        "answer": "Flat"
+      },
+      {
+        "question": "From the image, can you identify any visible pattern on the fabric?",
+        "answer": "None"
+      },
+      {
+        "question": "Based on the visible drape, what is the likely fabric weight?",
+        "answer": "Light"
+      },
+      {
+        "question": "What is the overall visual texture of the displayed fabric section?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the visible folds, is the material rigid or flexible?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Considering the light reflection, is the fabric sheen matte or glossy?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Are there any visible embellishments or additional decorative elements?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent thickness of the folded fabric in the image?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Describe the general shape of the displayed fabric section.",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What color is the seam used to join the top and bottom layers?",
+        "answer": "White"
+      }
+    ]
+  }
+]

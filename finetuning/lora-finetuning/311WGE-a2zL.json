@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5b/5badaa4a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the bottle's contents?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What primary material constitutes the bottle itself?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Describe the overall shape of the product's container?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the apparent texture of the bottle's label?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the color of the bottle cap or lid?",
+        "answer": "Black"
+      },
+      {
+        "question": "What kind of closure is present at the top of the bottle?",
+        "answer": "Cap"
+      },
+      {
+        "question": "Is the bottle label predominantly text or graphic?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the overall transparency level of the bottle?",
+        "answer": "Translucent"
+      },
+      {
+        "question": "What is the apparent viscosity of the liquid inside?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Does the bottle exhibit any noticeable curves or indentations?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the general style of the bottle's label design?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Is the label predominantly horizontal or vertical?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Based on the visual, what might be inside the container?",
+        "answer": "Dressing"
+      },
+      {
+        "question": "Are there any visible markings other than text on the label?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent size of the product relative to a human hand?",
+        "answer": "Tall"
+      }
+    ]
+  }
+]

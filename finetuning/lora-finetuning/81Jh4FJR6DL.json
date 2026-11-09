@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1c/1c13b165.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the loaf's overall appearance, what dominant color best describes the multigrain bread?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Based on visual texture, what is the surface of the bread like, considering the visible seeds and grains?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What is the primary shape of the bread loaf as presented in its plastic packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What type of bread is explicitly stated on the label visible on the packaging?",
+        "answer": "Multigrain"
+      },
+      {
+        "question": "Describe the apparent texture of the bread's crust, as shown in the provided image?",
+        "answer": "Crispy"
+      },
+      {
+        "question": "Observing the numerous small inclusions throughout the bread, what can you identify amongst them?",
+        "answer": "Seeds"
+      },
+      {
+        "question": "What packaging material primarily encloses the multigrain bread loaf shown in the image?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Judging from the image, what is the general condition of the bread shown, considering the packaging and the loaf itself?",
+        "answer": "Fresh"
+      },
+      {
+        "question": "Disregarding the label, considering its visual attributes, what is the apparent category of food product?",
+        "answer": "Bread"
+      },
+      {
+        "question": "What appears to be the primary method of preserving and packaging this food item?",
+        "answer": "Wrapping"
+      },
+      {
+        "question": "What is the color of the visible text on the label of the product, excluding the brand logo?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What kind of material is the primary component of the secondary label of the product, excluding the plastic?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the color of the brand logo visible on the label of the product packaging?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the overall appearance, what can be inferred about the baking method of this bread?",
+        "answer": "Baked"
+      },
+      {
+        "question": "What is the visible weight measurement displayed on the product's packaging, referring to the net weight of the bread?",
+        "answer": "24oz"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c0/c00529b7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the predominant shape of the product container, as depicted in the provided image?",
+        "answer": "Bottle"
+      },
+      {
+        "question": "What color is the primary container material of the presented product, as directly observable from the image?",
+        "answer": "Amber"
+      },
+      {
+        "question": "Based purely on visual inspection, what appears to be the material composition of the product's container?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Judging solely from the provided image, what color is the cap or closure of the depicted product container?",
+        "answer": "Gold"
+      },
+      {
+        "question": "From a purely visual assessment, what is the apparent texture of the bottle's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the prominent design element visible on the bottle's side, as determined exclusively from the image?",
+        "answer": "Label"
+      },
+      {
+        "question": "Based on the provided visual data, what color scheme dominates the label artwork on the product?",
+        "answer": "Green"
+      },
+      {
+        "question": "What shape best describes the form of the label on the bottle, as directly visible in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "From the visual information alone, what seems to be the primary graphic element depicted on the label?",
+        "answer": "Leaves"
+      },
+      {
+        "question": "Observing only the visible aspects, what seems to be the nature of the content inside the bottle?",
+        "answer": "Liquid"
+      },
+      {
+        "question": "What seems to be the general transparency level of the liquid contained inside the bottle?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Based on visual analysis only, what seems to be the apparent viscosity of the product within the bottle?",
+        "answer": "Viscous"
+      },
+      {
+        "question": "What is the apparent finish of the bottle's cap, as directly observable in the supplied image?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Based solely on visual cues, what is the visible condition of the product container?",
+        "answer": "Full"
+      },
+      {
+        "question": "What type of closure does the bottle in the image seem to have?",
+        "answer": "Screw"
+      }
+    ]
+  }
+]

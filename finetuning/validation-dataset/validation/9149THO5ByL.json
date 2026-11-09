@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ee/eef3d409.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed material sample?",
+        "answer": "Burgundy"
+      },
+      {
+        "question": "What is the apparent texture of the presented surface?",
+        "answer": "Grained"
+      },
+      {
+        "question": "What material is suggested by the visual characteristics of the sample?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Considering its appearance, what is the likely finish of this material?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging by the image, what is the overall tone of the color shown?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Does the material appear to have a uniform or inconsistent coloring?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Based on visual inspection, what is the general appearance of the sample?",
+        "answer": "Solid"
+      },
+      {
+        "question": "From the picture, how would you describe the surface sheen?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "What is the primary visual element present in the given image?",
+        "answer": "Material"
+      },
+      {
+        "question": "What seems to be the shape of the displayed material sample?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "How would you characterize the visual depth of the surface texture?",
+        "answer": "Moderate"
+      },
+      {
+        "question": "What sort of pattern is visible on the surface of the material?",
+        "answer": "None"
+      },
+      {
+        "question": "Describe the apparent level of reflectivity of the material sample",
+        "answer": "Low"
+      },
+      {
+        "question": "Judging by the image, is the material notably smooth or rough?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Based on its look, what is the likely overall condition of this material?",
+        "answer": "New"
+      }
+    ]
+  }
+]

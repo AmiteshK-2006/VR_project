@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8c/8cbac795.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant visual texture apparent across all the stacked items?",
+        "answer": "Heathered"
+      },
+      {
+        "question": "Considering the arrangement, what is the overall shape of the product stack?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the most prominent color present among the stacked items?",
+        "answer": "Grey"
+      },
+      {
+        "question": "Disregarding the stacking, what is the likely shape of each individual item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on visual appearance, what is the most probable material composition?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "What is the most subtle color visible within the stacked arrangement?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Observing the image, describe the apparent weave structure of the fabric.",
+        "answer": "Knit"
+      },
+      {
+        "question": "What is the general visual impression regarding the fabric's thickness?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Considering the color palette, what feeling does the product invoke?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "From the image, how many distinct shades of grey are shown?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the most noticeable visual characteristic of the fabric's surface?",
+        "answer": "Slubby"
+      },
+      {
+        "question": "What is the most frequent color repeated in the product stack?",
+        "answer": "Grey"
+      },
+      {
+        "question": "Describe the arrangement of the items in the provided image.",
+        "answer": "Stacked"
+      },
+      {
+        "question": "Ignoring the color, what is the most obvious feature of the fabric?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What is the overall visual impression of the product's color scheme?",
+        "answer": "Muted"
+      }
+    ]
+  }
+]

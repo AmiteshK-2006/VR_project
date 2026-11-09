@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/34/34ee3eb0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the shown material sample?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the overall textural appearance of the displayed material?",
+        "answer": "Leathery"
+      },
+      {
+        "question": "Considering the visual details, what material type does the sample most closely resemble?",
+        "answer": "Leatherette"
+      },
+      {
+        "question": "Based on its appearance, what is the apparent finish of this material sample?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Describe the visual pattern or grain present across the entire material sample.",
+        "answer": "Veined"
+      },
+      {
+        "question": "Considering its texture, what is the likely surface feel of this material?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the visual evidence, is the material’s surface uniformly colored?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the color variations, what depth does the color show?",
+        "answer": "Deep"
+      },
+      {
+        "question": "Judging by the visual texture, how would you describe its tactile quality?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Given the overall look, what is the presumed manufacturing process involved?",
+        "answer": "Synthetic"
+      },
+      {
+        "question": "What is the apparent visual consistency in terms of material appearance?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What is the primary visual characteristic that defines this material's appearance?",
+        "answer": "Texture"
+      },
+      {
+        "question": "Does the image depict any visible stitching or seams on the material?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on visual inspection, is this a woven or non-woven fabric type?",
+        "answer": "Non-woven"
+      },
+      {
+        "question": "What is the apparent sheen level of the displayed material sample?",
+        "answer": "Low"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/84/84579ed9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color prominently displayed on the packaging?",
+        "answer": "Purple"
+      },
+      {
+        "question": "What is the overall shape of the product's packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the texture of the packaging material, based on its visual appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent material of the product's outer packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What word describes the most visible branding element on the package?",
+        "answer": "Basic"
+      },
+      {
+        "question": "What type of health concern does the packaging claim to address?",
+        "answer": "Heartburn"
+      },
+      {
+        "question": "What is the primary descriptor of the frequency of the condition addressed?",
+        "answer": "Frequent"
+      },
+      {
+        "question": "What is the type of product suggested by the explicit health claim?",
+        "answer": "Medicine"
+      },
+      {
+        "question": "What is the shape of the highlighted text area on the packaging?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What visual element is used to complement the brand name?",
+        "answer": "Plus"
+      },
+      {
+        "question": "What type of code is present for product identification?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "What is the implied condition's minimal occurrence frequency stated?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the unit of time specified concerning the condition's frequency?",
+        "answer": "Days"
+      },
+      {
+        "question": "Considering the layout, what is the orientation of the text?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the style of the brand name typography?",
+        "answer": "Sans-serif"
+      }
+    ]
+  }
+]

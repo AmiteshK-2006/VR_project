@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ae/ae841532.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the bottle's body?",
+        "answer": "White"
+      },
+      {
+        "question": "What material appears to constitute the bottle?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the shape of the container holding the product?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What color is the cap or lid on top of the bottle?",
+        "answer": "Black"
+      },
+      {
+        "question": "Is the bottle's surface visibly glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the bottle exhibit any noticeable texture?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What type of printing is visible on the bottle's label?",
+        "answer": "Text"
+      },
+      {
+        "question": "Considering the overall size, is this a travel or large-format bottle?",
+        "answer": "Large"
+      },
+      {
+        "question": "What is the apparent closure mechanism of the container?",
+        "answer": "Screw"
+      },
+      {
+        "question": "Are there any noticeable embossed or indented details on the bottle?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the primary purpose suggested by the presence of a barcode?",
+        "answer": "Retail"
+      },
+      {
+        "question": "Based on the label's appearance, what information is displayed?",
+        "answer": "Text"
+      },
+      {
+        "question": "Excluding the label, does the bottle have other decorations?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent condition of the bottle in the image?",
+        "answer": "New"
+      },
+      {
+        "question": "Does the bottle's shape show significant tapering at the top or bottom?",
+        "answer": "No"
+      }
+    ]
+  }
+]

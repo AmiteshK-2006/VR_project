@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1e/1e4a8328.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall shape of the bottle, what best describes its form, as it appears in the provided image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What specific color is the cap of the bottle, as visibly depicted in the image?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "Based on the image, what is the predominant color of the bottle itself, excluding the cap?",
+        "answer": "Black"
+      },
+      {
+        "question": "Examining the label, what is the name of the brand of the product shown?",
+        "answer": "Synpol"
+      },
+      {
+        "question": "What single word describes the texture of the label on the bottle, as suggested by the image?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "According to the label in the image, what is one of the primary functions of this product?",
+        "answer": "Polish"
+      },
+      {
+        "question": "Referring to the label, what is another key function of the product depicted in this image?",
+        "answer": "Protect"
+      },
+      {
+        "question": "Based solely on the visible text, what word on the label best captures the product's versatility?",
+        "answer": "One"
+      },
+      {
+        "question": "What is the apparent material of the bottle, as observed in the image?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the depicted material that the product is intended to be used on, as showcased in the image?",
+        "answer": "Metal"
+      },
+      {
+        "question": "As seen on the label, in what language is the secondary product description printed?",
+        "answer": "Italian"
+      },
+      {
+        "question": "What word describes the type of product depicted, as indicated by the label?",
+        "answer": "Deluxe"
+      },
+      {
+        "question": "Judging by the image, what is the visible consistency of the liquid product inside?",
+        "answer": "Liquid"
+      },
+      {
+        "question": "What is the visible design element on the label that might represent a seal of quality or approval?",
+        "answer": "Logo"
+      },
+      {
+        "question": "Based on the image, what type of vehicle is shown on the label, in addition to a car?",
+        "answer": "Motorcycle"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6b/6b03c727.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the visible surface, based on the image's hues and shades?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the image's texture, what material best describes the surface's visual appearance?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Judging by the visible grain patterns, what type of wood is visually suggested?",
+        "answer": "Walnut"
+      },
+      {
+        "question": "Considering the image's consistent visual pattern, what is the overall grain direction?",
+        "answer": "Linear"
+      },
+      {
+        "question": "What is the general visual texture of the surface depicted in the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image, what is the visible pattern formed by the wood grain?",
+        "answer": "Striped"
+      },
+      {
+        "question": "What is the visual tone observed across the entirety of the surface area shown?",
+        "answer": "Warm"
+      },
+      {
+        "question": "What is the apparent visual finish of the wooden surface in the provided image?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Describe the visual uniformity of the grain across the depicted surface area.",
+        "answer": "Consistent"
+      },
+      {
+        "question": "What is the apparent visual depth of the wood grain patterns in the image?",
+        "answer": "Shallow"
+      },
+      {
+        "question": "Based on the image, what is the perceived visual density of the wood grain?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the visual saturation of the brown color displayed throughout the image?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Considering the lightness and darkness of the wood, what is its overall visual shade?",
+        "answer": "Light"
+      },
+      {
+        "question": "Based on the visible patterns, what is the apparent visual direction of the wood grain?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the visual homogeneity of the color across the surface in the image?",
+        "answer": "Uniform"
+      }
+    ]
+  }
+]

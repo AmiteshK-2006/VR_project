@@ -1,0 +1,11 @@
+{
+  "timestamp": "2025-05-16 16:24:27",
+  "checkpoint_path": "./working_2/checkpoints/checkpoint-156022-images",
+  "epoch": 2,
+  "global_step": 73136,
+  "datapoints_processed": 2340344,
+  "images_processed": 156022,
+  "train_loss": 8.127406821876537,
+  "learning_rate": 8.545488546049556e-05,
+  "val_loss": null
+}

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a7/a7d040a7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the food containers shown in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "What appears to be the primary material used in the construction of these containers?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Considering the overall structure, what is the shape of each individual container?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visible texture, what is the surface feel likely to be?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Do the containers exhibit any noticeable patterns or designs on their surfaces?",
+        "answer": "Ribbed"
+      },
+      {
+        "question": "Judging by the image, are the containers designed to be disposable or reusable?",
+        "answer": "Disposable"
+      },
+      {
+        "question": "Considering the design, how many compartments does each container appear to have?",
+        "answer": "Two"
+      },
+      {
+        "question": "Looking at the image, are the containers stacked or arranged in any specific manner?",
+        "answer": "Stacked"
+      },
+      {
+        "question": "What is the apparent thickness of the material of each individual container?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Judging from the visible edges, are the containers designed with sharp or rounded corners?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Based on the image's perspective, how many containers are clearly visible in the stack?",
+        "answer": "Eight"
+      },
+      {
+        "question": "Judging by the image, what is the general size of each food container relative to a standard hand?",
+        "answer": "Small"
+      },
+      {
+        "question": "Considering the overall design and appearance, what is the likely intended use for these containers?",
+        "answer": "Food"
+      },
+      {
+        "question": "Judging by the image, are there any visible markings, logos, or branding on the containers?",
+        "answer": "None"
+      },
+      {
+        "question": "Based on the visible design, how would you describe the overall style of the containers?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fe/fefe6400.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color scheme of the product's packaging?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What appears to be the primary language used for the ingredient list on this product?",
+        "answer": "English"
+      },
+      {
+        "question": "Based on the text visible, what kind of flour is predominantly featured in the ingredient list?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "Judging by the font style and layout, what is the overall tone or style of the text on the packaging?",
+        "answer": "Informative"
+      },
+      {
+        "question": "What secondary language appears in the visible ingredient listing on the product's label?",
+        "answer": "French"
+      },
+      {
+        "question": "Considering the length and detail, what could be inferred about the nature of the ingredient list presented?",
+        "answer": "Comprehensive"
+      },
+      {
+        "question": "From the visual texture, what kind of material does the packaging appear to be made from?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the apparent orientation of the text on the packaging, relative to its vertical axis?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Considering the typeface, what type of overall feel is communicated by the text's design?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What appears to be the format of the displayed information about the ingredients?",
+        "answer": "List"
+      },
+      {
+        "question": "What is the overall visual impression of the product's packaging \u2013 is it minimalist, ornate, or something else?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Based on visual cues, what is the visible structural shape of the product's package?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging solely by appearance, is the label\u2019s appearance modern or vintage-inspired?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What is the apparent condition of the packaging depicted in the image\u2014is it damaged or pristine?",
+        "answer": "Pristine"
+      },
+      {
+        "question": "Based on visual assessment, are there any noticeable illustrations or graphics besides the text on the packaging?",
+        "answer": "No"
+      }
+    ]
+  }
+]

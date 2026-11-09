@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fa/facea29d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the device's main body?",
+        "answer": "Black"
+      },
+      {
+        "question": "What geometric shape best describes the device's overall form?",
+        "answer": "Square"
+      },
+      {
+        "question": "What material appears to constitute the outer casing of the device?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What color is the accent trim encircling the device?",
+        "answer": "Orange"
+      },
+      {
+        "question": "Is the display screen on the device primarily monochrome or color?",
+        "answer": "Color"
+      },
+      {
+        "question": "What type of connector is visible at the end of the shorter cable?",
+        "answer": "Hose"
+      },
+      {
+        "question": "What is the apparent texture of the device's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "How many visible buttons or controls are present on the device's face?",
+        "answer": "Two"
+      },
+      {
+        "question": "Does the device show any visible branding or logos?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the general visual impression of the product's quality?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What is the visible material of the longer connecting cable?",
+        "answer": "Wire"
+      },
+      {
+        "question": "What is the color of the displayed text or numbers on the screen?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What kind of connection is used between the device and the vehicle?",
+        "answer": "Cable"
+      },
+      {
+        "question": "Based on the image, what appears to be the primary function of this device?",
+        "answer": "Inflation"
+      },
+      {
+        "question": "Considering the components, what is the inferred usage environment?",
+        "answer": "Automotive"
+      }
+    ]
+  }
+]

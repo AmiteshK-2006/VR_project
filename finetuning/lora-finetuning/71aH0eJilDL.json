@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0d/0dcb0717.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the depicted labels, as visibly shown on the product packaging?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the packaging's depiction, what is the overall shape of a single label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the image's visual texture, what is the likely surface finish of the labels?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent material of the labels, judging from the package's visual cues?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Judging from the packaging, what is the primary intended use of these labels, as visually suggested?",
+        "answer": "Printing"
+      },
+      {
+        "question": "What is the visual indication on the packaging regarding the quantity of labels per package?",
+        "answer": "8000"
+      },
+      {
+        "question": "Does the packaging show any perforations or other separation aids for individual labels?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the packaging, what language(s) are used for labeling information?",
+        "answer": "English"
+      },
+      {
+        "question": "What brand is prominently displayed on the product's packaging, based on the visual image?",
+        "answer": "Amazonbasics"
+      },
+      {
+        "question": "Judging by the packaging's visual details, what is the apparent size of a single label?",
+        "answer": "Small"
+      },
+      {
+        "question": "Does the packaging image display any visual design elements beyond text and brand logo?",
+        "answer": "No"
+      },
+      {
+        "question": "What kind of adhesive is visually implied (or not) in the packaging for these labels?",
+        "answer": "Adhesive"
+      },
+      {
+        "question": "Considering visual aspects of the packaging, is there any obvious indication of label thickness?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on visual assessment, are the labels depicted as being pre-cut or sheet-fed?",
+        "answer": "Sheet"
+      },
+      {
+        "question": "Based on visual cues, what is the overall visual impression created by the product's packaging?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

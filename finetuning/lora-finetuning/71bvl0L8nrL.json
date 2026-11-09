@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ce/ce57b396.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape and the dense textual content, what is the primary function indicated by the label's design?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Observing the prominent numerical value displayed, what is the total caloric content per serving as explicitly stated?",
+        "answer": "110"
+      },
+      {
+        "question": "Based on the structured layout and text, what specific dietary information is comprehensively detailed?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Analyzing the typography and its arrangement, what is the overall style of text employed throughout the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Focusing on the quantitative data provided, what is the total fat content, in grams, per serving?",
+        "answer": "9g"
+      },
+      {
+        "question": "Examining the detailed breakdown of fats, what is the saturated fat content in grams per serving?",
+        "answer": "5g"
+      },
+      {
+        "question": "From the nutritional breakdown, what is the protein content in grams per serving?",
+        "answer": "6g"
+      },
+      {
+        "question": "Looking at the specified serving size, what is the weight of a single serving, expressed in ounces and grams?",
+        "answer": "1oz"
+      },
+      {
+        "question": "Based on the label's content, what is the total number of servings contained within the package?",
+        "answer": "32"
+      },
+      {
+        "question": "Considering the information provided, what is the cholesterol content per serving measured in milligrams?",
+        "answer": "30mg"
+      },
+      {
+        "question": "What is the total carbohydrate content, measured in grams, according to the label's data?",
+        "answer": "<1g"
+      },
+      {
+        "question": "By inspecting the label's dietary information, what is the amount of sodium in milligrams per serving?",
+        "answer": "180mg"
+      },
+      {
+        "question": "What is the color of the text used throughout this nutritional fact label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the background color of this nutritional facts label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of the nutrition facts label?",
+        "answer": "Rectangle"
+      }
+    ]
+  }
+]

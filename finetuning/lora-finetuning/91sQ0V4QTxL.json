@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0e/0e71c055.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall shape and configuration, what is the primary function suggested by the item's design?",
+        "answer": "Mop"
+      },
+      {
+        "question": "Observing the central component, what material appears to constitute the primary attachment mechanism?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Focusing on the dominant hue, what single word best describes the color of the visible fabric?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Regarding the dominant fabric type, what textile category does it most closely resemble in terms of texture and weave?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Based on the visible stitching, what type of seam finish is predominantly used on this product?",
+        "answer": "Serged"
+      },
+      {
+        "question": "Judging by the structural design, what part of a larger assembly does this component seemingly belong to?",
+        "answer": "Handle"
+      },
+      {
+        "question": "Examining the secondary component's appearance, what material seems to have been used in its construction?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Observing the small tag, what kind of information might this tag convey about the product?",
+        "answer": "Label"
+      },
+      {
+        "question": "Judging by the visual appearance of the material, what is its likely texture—smooth, rough, or something else?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Looking at the item's overall construction, what production technique is most likely employed in the creation of this product?",
+        "answer": "Sewn"
+      },
+      {
+        "question": "Considering the size and form of the component, what is its probable role within the larger system?",
+        "answer": "Attachment"
+      },
+      {
+        "question": "Based on the item's design, what is the primary method of fastening this component to the main assembly?",
+        "answer": "Slots"
+      },
+      {
+        "question": "Looking closely at the fabric's surface, does it appear to exhibit any noticeable pattern or design?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Given the construction and design of this item, what is its probable primary use or application?",
+        "answer": "Cleaning"
+      },
+      {
+        "question": "Considering the small, circular component, what could be its purpose in relation to the whole?",
+        "answer": "Support"
+      }
+    ]
+  }
+]

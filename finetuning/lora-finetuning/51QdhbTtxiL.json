@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/da/dade7a2f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the food product contained within the jar?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What is the overall shape of the glass jar containing the product?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What material appears to be used for the primary container holding the product?",
+        "answer": "Glass"
+      },
+      {
+        "question": "What is the apparent texture of the product visible through the glass jar?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What type of closure is visible on top of the glass jar?",
+        "answer": "Screw-top"
+      },
+      {
+        "question": "Considering the product's presentation, what is the most likely form of the contained food?",
+        "answer": "Preserved"
+      },
+      {
+        "question": "Is there any visible labeling on the back of the jar providing product information?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the general appearance of the text on the jar's label?",
+        "answer": "Printed"
+      },
+      {
+        "question": "What is the most prominent color of the label text printed on the jar?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the image, can you discern if the jar appears transparent or opaque?",
+        "answer": "Transparent"
+      },
+      {
+        "question": "Does the glass jar appear to show any noticeable imperfections or irregularities?",
+        "answer": "No"
+      },
+      {
+        "question": "Is there a barcode visible on the product's packaging?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent color of the jar's lid?",
+        "answer": "Silver"
+      },
+      {
+        "question": "Considering the overall presentation, is this product likely a luxury item or a common one?",
+        "answer": "Common"
+      },
+      {
+        "question": "Does the packaging suggest a focus on natural or artificial ingredients?",
+        "answer": "Natural"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3a/3ae777bc.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the handbag shown in the image?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What is the primary material apparent from the handbag's surface texture?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Considering the overall shape, what kind of bag is depicted in the provided image?",
+        "answer": "Tote"
+      },
+      {
+        "question": "What is the apparent finish of the handbag's exterior material, considering its reflection?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Describe the shape of the handbag's main body, based on its visible curves and edges?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What color are the two visible metallic accents near the bag's top handle attachment?",
+        "answer": "Gold"
+      },
+      {
+        "question": "What is the apparent function of the two straps seen extending from the top of the bag?",
+        "answer": "Handles"
+      },
+      {
+        "question": "What is the apparent texture of the bag's material, smooth or rough, judging by its appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What kind of closure mechanism is visible on the side of the handbag, judging by its shape?",
+        "answer": "Zip"
+      },
+      {
+        "question": "What kind of design element is present on the front of the bag, just below the handles?",
+        "answer": "Logo"
+      },
+      {
+        "question": "Considering the overall style and functionality, what is the most likely use of this handbag?",
+        "answer": "Work"
+      },
+      {
+        "question": "Describe the shape of the bottom of the handbag, based on its visible curvature?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Judging from the image, how many main carrying straps are visibly attached to this handbag?",
+        "answer": "Two"
+      },
+      {
+        "question": "Considering the available visual data, what is the apparent size of this handbag?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the design of the zipper pull, judging by its shape and material?",
+        "answer": "Loop"
+      }
+    ]
+  }
+]

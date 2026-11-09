@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ec/ec392166.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the main fabric section visible in the image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What color is the visible trim or binding along the edge of the main fabric?",
+        "answer": "White"
+      },
+      {
+        "question": "What appears to be the texture of the primary fabric section shown?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent material of the main fabric, judging by its visual appearance?",
+        "answer": "Synthetic"
+      },
+      {
+        "question": "What is the overall shape of the visible portion of the product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the visible texture of the label attached to the product?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image, what seems to be the primary function of this item (based solely on visuals)?",
+        "answer": "Storage"
+      },
+      {
+        "question": "What is the color of the branding label affixed to the product?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the apparent style or design of this product?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Considering the image, does the product appear to have any visible patterns?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the visible finish of the main fabric section; is it glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is depicted on the visible label attached to the item?",
+        "answer": "Text"
+      },
+      {
+        "question": "Is the visible seam between the main fabric and trim straight or curved?",
+        "answer": "Straight"
+      },
+      {
+        "question": "What is the apparent weight or thickness of the primary fabric?",
+        "answer": "Lightweight"
+      },
+      {
+        "question": "Considering only visual aspects, does the product appear to be easily foldable?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

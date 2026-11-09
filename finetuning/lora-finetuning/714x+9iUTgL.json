@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ae/ae18e02f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the phone case, as visually apparent in the provided image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary material used in the construction of this phone case?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the image, what design pattern is prominently featured on the phone case's surface?",
+        "answer": "Carbon"
+      },
+      {
+        "question": "Based solely on the visual depiction, what is the general shape of the phone case?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Does the phone case's finish appear matte or glossy, judging from the image?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Observing the image closely, what type of texture is suggested by the case's surface?",
+        "answer": "Striated"
+      },
+      {
+        "question": "From the image, are there visible cutouts or openings present in the phone case design?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging by the image, does the phone case seem to offer any protective properties?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the image display any branding or logos on the phone case itself?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent thickness of the phone case's protective layer, as observed in the picture?",
+        "answer": "Thin"
+      },
+      {
+        "question": "As shown in the image, how many cameras does the phone's rear appear to accommodate?",
+        "answer": "Two"
+      },
+      {
+        "question": "Based on the image, is the phone case design symmetric or asymmetric?",
+        "answer": "Symmetric"
+      },
+      {
+        "question": "What color are the accent elements visible on the edges of the phone case?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Does the image suggest the case's material is flexible or rigid?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Judging from the image, is the phone case's fit described as snug or loose fitting?",
+        "answer": "Snug"
+      }
+    ]
+  }
+]

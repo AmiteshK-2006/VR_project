@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a3/a33a42ae.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the provided text, what is the minimum percentage of crude protein guaranteed in this product?",
+        "answer": "8.5%"
+      },
+      {
+        "question": "Based on the label, what is the maximum guaranteed percentage of moisture content in this product?",
+        "answer": "7%"
+      },
+      {
+        "question": "According to the label, what is the maximum guaranteed percentage of crude fiber in this product?",
+        "answer": "15%"
+      },
+      {
+        "question": "As indicated on the label, what is the minimum guaranteed percentage of crude fat content in this product?",
+        "answer": "6%"
+      },
+      {
+        "question": "What is the unit of measurement used to express the guaranteed analysis components?",
+        "answer": "Percent"
+      },
+      {
+        "question": "What is the term used to describe the guaranteed compositional analysis provided on the product label?",
+        "answer": "Analysis"
+      },
+      {
+        "question": "From the label, what is the type of analysis being described regarding the product's composition?",
+        "answer": "Guaranteed"
+      },
+      {
+        "question": "What word precedes the specification of minimum crude protein percentage on this product label?",
+        "answer": "Crude"
+      },
+      {
+        "question": "What word precedes the specification of maximum moisture percentage on this product label?",
+        "answer": "Moisture"
+      },
+      {
+        "question": "What word precedes the specification of maximum crude fiber percentage on the product label?",
+        "answer": "Fiber"
+      },
+      {
+        "question": "What word precedes the specification of minimum crude fat percentage on this product label?",
+        "answer": "Fat"
+      },
+      {
+        "question": "What word follows the description of crude protein in the guaranteed analysis?",
+        "answer": "Min"
+      },
+      {
+        "question": "What word follows the description of crude fiber in the guaranteed analysis?",
+        "answer": "Max"
+      },
+      {
+        "question": "What word follows the description of crude fat in the guaranteed analysis?",
+        "answer": "Min"
+      },
+      {
+        "question": "What word follows the description of moisture in the guaranteed analysis?",
+        "answer": "Max"
+      }
+    ]
+  }
+]

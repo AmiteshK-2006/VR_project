@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/75/752bae90.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed fabric sample?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the weave and texture, what is the apparent material type?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Based on visual inspection, what is the overall texture of the material?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Describe the visual appearance of the fabric's surface, in terms of evenness?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Judging from the image, how would you characterize the fabric's visual weight?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Does the fabric appear to have any discernible patterns or designs?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the implied finish of the textile, based on its visual sheen?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the image, what is the suggested level of the fabric's density?",
+        "answer": "Close"
+      },
+      {
+        "question": "From the image, describe the visual appearance of the fiber structure?",
+        "answer": "Intertwined"
+      },
+      {
+        "question": "What is the apparent visual softness or stiffness of this fabric?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Based on the visible texture, what is the implied drape of this textile?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the image display any visible blemishes or imperfections in the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the visual characteristics, is the fabric's color consistent?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging by the image, is the textile visibly thick or thin?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Does the fabric show any visible signs of piling or fuzziness?",
+        "answer": "No"
+      }
+    ]
+  }
+]

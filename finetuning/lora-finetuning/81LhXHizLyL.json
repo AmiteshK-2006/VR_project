@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3c/3c3a740c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color scheme of this product's nutritional information panel?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the image, what is the primary font style used to display the 'Nutrition Facts' heading?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Observing the layout, what is the arrangement of the nutritional information presented?",
+        "answer": "Table"
+      },
+      {
+        "question": "Focusing on the text size, how would you describe the font size of the 'Calories' label?",
+        "answer": "Large"
+      },
+      {
+        "question": "Considering the visual prominence of the elements, what is the most visually striking numerical value?",
+        "answer": "150"
+      },
+      {
+        "question": "Analyzing the visual structure, how many distinct columns are used to organize the nutritional data?",
+        "answer": "Three"
+      },
+      {
+        "question": "Examining the graphic elements, what type of visual element is used to separate the 'dry mix' and 'as prepared' sections?",
+        "answer": "Line"
+      },
+      {
+        "question": "Based on the image's visual hierarchy, which nutritional component is given the most visual emphasis?",
+        "answer": "Calories"
+      },
+      {
+        "question": "In the context of the visual layout, what is the format of the serving size information?",
+        "answer": "Fraction"
+      },
+      {
+        "question": "Considering the visual style, what is the overall aesthetic impression given by the information panel?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the visual format of the percentage values presented next to the nutrient amounts?",
+        "answer": "Number"
+      },
+      {
+        "question": "What is the visible textual element that indicates serving quantity?",
+        "answer": "Servings"
+      },
+      {
+        "question": "What is the visual characteristic of the numbers in terms of their format or arrangement?",
+        "answer": "Aligned"
+      },
+      {
+        "question": "What is the overall shape of the information panel?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the background color of the nutritional information panel?",
+        "answer": "White"
+      }
+    ]
+  }
+]

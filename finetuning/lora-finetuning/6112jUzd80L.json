@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a8/a8f8fdcb.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the visual layout, what is the primary text displayed prominently across the top of the nutritional information panel?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Observing the overall design, what is the dominant color scheme used throughout the entire nutrition facts panel?",
+        "answer": "Black"
+      },
+      {
+        "question": "Focusing on the numerical values, what is the total amount of calories listed per serving, as shown in large font size?",
+        "answer": "160"
+      },
+      {
+        "question": "Examining the text format, what type of nutritional data is presented in a tabular format, organized into rows and columns?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Based on the visual structure, what measurement unit is consistently employed to quantify various nutritional components?",
+        "answer": "g"
+      },
+      {
+        "question": "Regarding the textual elements, what is the specific unit used to express the serving size of this particular food product?",
+        "answer": "cup"
+      },
+      {
+        "question": "Judging from the visible text, what specific nutrient value is presented in the form of percentages (%), indicating daily value?",
+        "answer": "Fat"
+      },
+      {
+        "question": "Analyzing the text style, what kind of measurement unit is indicated beside the values for various vitamins and minerals?",
+        "answer": "mg"
+      },
+      {
+        "question": "In terms of visual design, what is the type of font used predominantly across the label, considering thickness and style?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "By examining the text formatting, what word is used to describe the number of servings in the container as shown in the image?",
+        "answer": "Servings"
+      },
+      {
+        "question": "According to the textual information presented, what is the total number of servings contained within the package?",
+        "answer": "32"
+      },
+      {
+        "question": "Considering the visual presentation, what is the term used to label the amount of each nutrient component per single serving?",
+        "answer": "Amount"
+      },
+      {
+        "question": "Based on the visual composition of the panel, what word precedes the detailed breakdown of individual nutritional components?",
+        "answer": "Total"
+      },
+      {
+        "question": "Judging by the visible text, what is the term used to quantify the amount of protein present in a single serving of the product?",
+        "answer": "Protein"
+      },
+      {
+        "question": "In the context of the given text, what word describes the quantitative measure of the carbohydrates found in each portion of the food?",
+        "answer": "Carbohydrate"
+      }
+    ]
+  }
+]

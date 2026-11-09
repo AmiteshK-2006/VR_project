@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c9/c9f9b249.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall color of the depicted fabric sample?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent fabric type?",
+        "answer": "Fleece"
+      },
+      {
+        "question": "Based on the image, what is the predominant visual texture of the material?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Judging by the image, how would you describe the surface finish of the fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the fabric sample show any visible patterns or designs?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent thickness of the displayed fabric sample?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Considering the image, can you identify any visible sheen or gloss?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the fabric appear to have a uniform or varied color throughout?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What is the general shape of the presented fabric sample?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging from the image, how would you describe the apparent drape of the fabric?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the fabric sample show signs of visible stitching or seams?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image, what appears to be the level of fabric density?",
+        "answer": "High"
+      },
+      {
+        "question": "Does the color appear to have any significant variation in tone?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by its appearance, what is the likely intended use of this fabric?",
+        "answer": "Clothing"
+      },
+      {
+        "question": "Based on the visual characteristics, is the fabric's pile length consistent?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

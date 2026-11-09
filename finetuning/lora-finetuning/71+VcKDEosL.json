@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9d/9d88ae38.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the visual text, what primary ingredient is prominently listed?",
+        "answer": "Cream"
+      },
+      {
+        "question": "Based on the image's textual content, which secondary ingredient is explicitly mentioned?",
+        "answer": "Milk"
+      },
+      {
+        "question": "What additive, present in less than 0.5%, is visually identifiable in the product details?",
+        "answer": "Carrageenan"
+      },
+      {
+        "question": "According to the visible text, what other additive, also in trace amounts, is listed?",
+        "answer": "Diglycerides"
+      },
+      {
+        "question": "From the provided text, what emulsifier is visually present in the ingredient list?",
+        "answer": "Polysorbate"
+      },
+      {
+        "question": "What is the overall textual format of the ingredient declaration displayed?",
+        "answer": "List"
+      },
+      {
+        "question": "What is the case of the lettering used to display the ingredient list?",
+        "answer": "Upper"
+      },
+      {
+        "question": "What punctuation mark appears after each listed ingredient?",
+        "answer": "Comma"
+      },
+      {
+        "question": "How many lines are used to visually present the complete ingredient list?",
+        "answer": "Four"
+      },
+      {
+        "question": "What word introduces the list of major ingredients in the image?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What word appears before the list of minor components in the image?",
+        "answer": "Contains"
+      },
+      {
+        "question": "What term precedes the percentage value specifying minor ingredients' proportion?",
+        "answer": "Less"
+      },
+      {
+        "question": "Describe the font style used in the visual presentation of the ingredient list.",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Describe the visual text's alignment relative to the edges of the image.",
+        "answer": "Left"
+      },
+      {
+        "question": "Considering the visible content, what is the general color of the printed text?",
+        "answer": "Black"
+      }
+    ]
+  }
+]

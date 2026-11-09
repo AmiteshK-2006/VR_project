@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c5/c51ee7c3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the cable's outer sheath?",
+        "answer": "Black"
+      },
+      {
+        "question": "What type of connector is present at the cable's end?",
+        "answer": "HDMI"
+      },
+      {
+        "question": "What material appears to constitute the cable's main body?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the shape of the HDMI connector housing on the cable?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the texture of the cable's outer covering, based on visual observation?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What secondary connector type is visible on the other end of the cable?",
+        "answer": "Mini-HDMI"
+      },
+      {
+        "question": "What is the apparent overall length of the displayed cable?",
+        "answer": "Long"
+      },
+      {
+        "question": "Is the branding visible and legible on the cable's body?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent construction type of the cable (single or multiple wires)?",
+        "answer": "Single"
+      },
+      {
+        "question": "What color is the metallic connector of the Mini-HDMI end?",
+        "answer": "Gold"
+      },
+      {
+        "question": "Describe the cable's flexibility based on its appearance in the image.",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Does the cable exhibit any visible signs of damage or wear?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on its appearance, is the cable shielded or unshielded?",
+        "answer": "Unshielded"
+      },
+      {
+        "question": "What is the orientation of the connector on the HDMI end of the cable?",
+        "answer": "Straight"
+      },
+      {
+        "question": "Considering the image, is the cable likely intended for high-bandwidth applications?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

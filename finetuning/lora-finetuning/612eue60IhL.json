@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d8/d8f3247f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout and typography, what is the dominant textual style used throughout the provided nutritional information panel?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the primary color used for the headings within the nutritional fact table, contrasting against the background?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the shape of the individual data cells within the nutritional fact table, where the numerical values are presented?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Observing the texture of the paper visually, what would you describe as its tactile quality, based on the image alone?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the predominant color of the background on which the nutrition facts are printed, ignoring any text or other markings?",
+        "answer": "White"
+      },
+      {
+        "question": "Focusing on the 'Serving Size' entry, what unit of measurement is specified for the food quantity?",
+        "answer": "Cup"
+      },
+      {
+        "question": "Looking at the 'Calories' section, what numerical value is listed for a single serving of the product, before preparation with fat?",
+        "answer": "200"
+      },
+      {
+        "question": "What is the orientation of the nutritional facts panel in relation to the viewer, is it portrait or landscape?",
+        "answer": "Portrait"
+      },
+      {
+        "question": "What is the numerical value listed for the amount of 'Total Carbohydrate' in grams per serving, according to the image?",
+        "answer": "36g"
+      },
+      {
+        "question": "Concentrating on the 'Sodium' entry, what is the numerical value provided in milligrams (mg) per serving?",
+        "answer": "540mg"
+      },
+      {
+        "question": "What is the format for presenting the percentage daily values (% Daily Value) in this nutrition facts panel?",
+        "answer": "Numeric"
+      },
+      {
+        "question": "What is the stated serving size, in grams (g), according to the nutritional information?",
+        "answer": "151g"
+      },
+      {
+        "question": "Focusing on the nutritional information section, what are the two key preparation options presented to the consumer?",
+        "answer": "Prepared"
+      },
+      {
+        "question": "What is the overall layout style used to organize the nutritional information presented on the panel?",
+        "answer": "Tabular"
+      },
+      {
+        "question": "What is the word at the very top of the nutrition facts panel indicating the type of information contained therein?",
+        "answer": "Nutrition"
+      }
+    ]
+  }
+]

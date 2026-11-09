@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a6/a67ded29.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape and the detailed text layout, what is the dominant form factor of this product's packaging?",
+        "answer": "Rectangle"
+      },
+      {
+        "question": "Observing the fine print and the structured nutritional data, what is the primary content or information conveyed on the presented surface?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Examining the typography and its arrangement, what is the overall style that characterizes the text presentation?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Based on the clearly visible text and the uniform font, what kind of document is depicted in the image?",
+        "answer": "Supplement"
+      },
+      {
+        "question": "Considering the presence of both numbers and text, specifying nutritional data, what type of labeling is clearly visible?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Considering the bold text size and prominence, what is the main category described for this product?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Analyzing the text's structure and the use of bold fonts, what prominent element stands out from other textual elements?",
+        "answer": "Supplement"
+      },
+      {
+        "question": "Given the distinct blocks and rows of numbers, what method is used to display the data?",
+        "answer": "Table"
+      },
+      {
+        "question": "Assessing the overall color palette, what is the prevailing shade?",
+        "answer": "White"
+      },
+      {
+        "question": "Noticing the absence of other colors beyond black text on white background, what can be described about the color scheme?",
+        "answer": "Monochrome"
+      },
+      {
+        "question": "Considering the clear, sans-serif typeface, what is the font style used throughout the text?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Given the consistent text size within different sections, what can be observed regarding the typography's uniformity?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Judging the overall presentation, what is the primary tone conveyed by the visual design?",
+        "answer": "Formal"
+      },
+      {
+        "question": "Considering the presence of tables and well-organized text blocks, what is the overall visual organization?",
+        "answer": "Structured"
+      },
+      {
+        "question": "Based on the overall layout and information displayed, what is the purpose of this displayed information?",
+        "answer": "Informational"
+      }
+    ]
+  }
+]

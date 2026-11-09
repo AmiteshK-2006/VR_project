@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3f/3f3003ff.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the image, considering its overall hue and saturation?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the drape and the subtle textural variations, what is the apparent weave structure of this textile?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Based on the image, what is the most noticeable visual characteristic of the fabric's surface texture?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the way the fabric folds, what is the overall tactile impression conveyed by its visual appearance?",
+        "answer": "Soft"
+      },
+      {
+        "question": "From the image, what is the implied weight or thickness of the fabric, relative to other common textiles?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Considering the visual uniformity, is there a discernible pattern or print on the fabric's surface?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the apparent luster or shine of the fabric, as suggested by its reflection of light in the photograph?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on its visual characteristics, what is the most likely primary material composition of this fabric?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Judging by the image, does the fabric exhibit a visible sheen or glossiness, indicative of certain finishes?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the folds, what is the apparent degree of stiffness or drape in this fabric sample?",
+        "answer": "Drapey"
+      },
+      {
+        "question": "Does the image show any discernible imperfections or irregularities in the fabric's weave or surface?",
+        "answer": "No"
+      },
+      {
+        "question": "From the visual properties, how would you describe the overall visual appeal or aesthetic quality of this material?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the suggested density or compactness of the fabric's structure, based on its visual appearance?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Considering the image, what is the visible level of transparency or opacity of this fabric?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Based on the visual texture, what kind of feeling would touching this fabric likely produce?",
+        "answer": "Soft"
+      }
+    ]
+  }
+]

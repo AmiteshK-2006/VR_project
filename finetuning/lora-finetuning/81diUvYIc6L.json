@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a1/a11fb8b1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual layout, what is the dominant orientation of the product's label?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Based on the prominent textual information, what is the primary ingredient highlighted on this food product?",
+        "answer": "Apple"
+      },
+      {
+        "question": "Observing the text's typeface, what would you describe as its overall style?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the primary color used in the background of the label's text, based on visual observation?",
+        "answer": "White"
+      },
+      {
+        "question": "Judging from the text's structure, what is the type of information primarily conveyed?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Considering the textual density, how would you describe the amount of information presented?",
+        "answer": "Extensive"
+      },
+      {
+        "question": "From a visual perspective, what is the overall texture of the label's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "If you were to describe the text's visual weight, how would you characterize it?",
+        "answer": "Light"
+      },
+      {
+        "question": "Based on the visual prominence of specific words, what is a clear allergen indicated?",
+        "answer": "Coconut"
+      },
+      {
+        "question": "Judging from the typography, what is the size of the text in relation to the label?",
+        "answer": "Small"
+      },
+      {
+        "question": "Considering the color palette employed, what is the main contrasting color?",
+        "answer": "Black"
+      },
+      {
+        "question": "From an observational standpoint, what is the perceived readability of the text?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the general format of the ingredient listing?",
+        "answer": "List"
+      },
+      {
+        "question": "From what you can see, is the font style consistent throughout the entire text?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Describe the general shape of the label based on what is visible in the image.",
+        "answer": "Rectangular"
+      }
+    ]
+  }
+]

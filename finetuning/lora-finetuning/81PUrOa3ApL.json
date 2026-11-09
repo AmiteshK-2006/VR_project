@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4b/4bda8df3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color scheme of this product's packaging?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Based on the image's text, what primary ingredient is prominently featured in this food product?",
+        "answer": "Apples"
+      },
+      {
+        "question": "Examining the text closely, what specific type of sweetener is listed among the ingredients?",
+        "answer": "Glucose"
+      },
+      {
+        "question": "Judging from the visual details, what kind of information is conveyed on the label?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Analyzing the typography and layout, what is the overall style of the text presentation?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Considering the textual information, what specific type of flour is mentioned multiple times?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "From the image, can you identify if any other types of nuts are mentioned besides peanuts?",
+        "answer": "Tree"
+      },
+      {
+        "question": "What kind of oil is indicated as being part of the ingredients?",
+        "answer": "Sunflower"
+      },
+      {
+        "question": "According to the text, what type of gum is included in the ingredient list?",
+        "answer": "Xanthan"
+      },
+      {
+        "question": "Does the label clearly state if milk is included as an ingredient or produced in a facility that handles it?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What additional spice is mentioned within the product's ingredient list?",
+        "answer": "Cinnamon"
+      },
+      {
+        "question": "What is the general shape and form factor of the item with the shown label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the label, what type of sugar is also listed besides cane sugar?",
+        "answer": "Invert"
+      },
+      {
+        "question": "What type of extract or essence is included among the listed ingredients?",
+        "answer": "Natural"
+      },
+      {
+        "question": "Does the label clearly state if eggs are included as an ingredient or produced in a facility that handles them?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

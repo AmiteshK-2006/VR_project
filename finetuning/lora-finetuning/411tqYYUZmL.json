@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/75/7509f6b1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's prominent and repeated presence, what is the primary ingredient showcased on this product label?",
+        "answer": "Pistachios"
+      },
+      {
+        "question": "Based on the textual information, what additional seasoning is mentioned as a component of the product?",
+        "answer": "Salt"
+      },
+      {
+        "question": "Judging by the label's explicit statement, what type of nut is explicitly named as a constituent?",
+        "answer": "Pistachio"
+      },
+      {
+        "question": "According to the visible text, what preparation method is applied to the primary ingredient?",
+        "answer": "Roasted"
+      },
+      {
+        "question": "As indicated by the label, what type of salt is used in the product's composition?",
+        "answer": "Sea"
+      },
+      {
+        "question": "As per the warning provided on the label, what other nut type could potentially be present?",
+        "answer": "Peanuts"
+      },
+      {
+        "question": "What allergenic substance is mentioned aside from peanuts and tree nuts in the cautionary statement?",
+        "answer": "Milk"
+      },
+      {
+        "question": "Does the label claim the product is produced in a facility handling wheat?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Aside from wheat and milk, which other allergen is mentioned in the facility-related warning?",
+        "answer": "Soy"
+      },
+      {
+        "question": "What is the overall color scheme of the visible text displayed on the product label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the predominant color of the background against which the text appears on this product label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the visual style of the text font on the product label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Is the text on the label primarily presented in upper case or lowercase lettering?",
+        "answer": "Upper"
+      },
+      {
+        "question": "What is the general layout of the text on this food product label?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Is the text on the label single-spaced or double-spaced in appearance?",
+        "answer": "Single"
+      }
+    ]
+  }
+]

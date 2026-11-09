@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a3/a39ce77c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed fabric sample?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the visual texture, what is the fabric's apparent weave type?",
+        "answer": "Linen"
+      },
+      {
+        "question": "Based on the image, how would you describe the overall visual texture of the fabric?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the image, what is the general shade or tone of the blue presented?",
+        "answer": "Light"
+      },
+      {
+        "question": "Does the fabric show any discernible patterns or designs across its surface?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent level of sheen or glossiness exhibited by the fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "From the image's perspective, what is the fabric's implied weight or density?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Given the visual evidence, what is the most prominent visual characteristic of this fabric?",
+        "answer": "Texture"
+      },
+      {
+        "question": "Judging solely by appearance, what is the likely material composition of this textile?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "If you had to classify the visual appearance, how would you describe the fabric's drape?",
+        "answer": "Slight"
+      },
+      {
+        "question": "Considering the displayed sample, is there any visible piling or fuzziness?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image, does the fabric seem to have a high or low thread count?",
+        "answer": "Medium"
+      },
+      {
+        "question": "From visual inspection, is there significant color variation within the fabric sample?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall impression of the fabric's visual uniformity?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "What is the shape of the presented piece of fabric in this image?",
+        "answer": "Square"
+      }
+    ]
+  }
+]

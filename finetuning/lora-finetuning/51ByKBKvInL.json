@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c0/c0bc7e06.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout, what is the primary language used for the main instructions?",
+        "answer": "English"
+      },
+      {
+        "question": "Focusing on the color scheme, what is the dominant color used for the background of the instruction panel?",
+        "answer": "Purple"
+      },
+      {
+        "question": "Examining the text boxes, what is the shape consistently used to represent measurement quantities?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the metric unit of volume consistently used to quantify the detergent amount?",
+        "answer": "Milliliter"
+      },
+      {
+        "question": "Considering the information provided for the laundry type, what is the term used for machine washing?",
+        "answer": "Normal"
+      },
+      {
+        "question": "What is the term used for the type of water that requires a higher dosage of detergent, indicated by the darker color?",
+        "answer": "Hard"
+      },
+      {
+        "question": "Looking at the illustrated washing instructions, what clothing type is depicted for the demonstration?",
+        "answer": "Shirt"
+      },
+      {
+        "question": "Regarding the hand washing section, what action is instructed for dissolving the detergent, according to the English version?",
+        "answer": "Dissolve"
+      },
+      {
+        "question": "What is the weight range, in kilograms, specified for 'normal loads' in the instructions?",
+        "answer": "Kilograms"
+      },
+      {
+        "question": "What is the secondary language used in the multilingual instructions, in addition to English?",
+        "answer": "Italian"
+      },
+      {
+        "question": "Based on the image, what is the third language present in the instructions?",
+        "answer": "Spanish"
+      },
+      {
+        "question": "What is the measurement of water specified for hand washing, in liters?",
+        "answer": "Liters"
+      },
+      {
+        "question": "Observing the illustrations, what is the type of stain illustrated on the shirt?",
+        "answer": "Spot"
+      },
+      {
+        "question": "Considering the instructions given for hand washing, what is the quantity of detergent to use in milliliters?",
+        "answer": "Milliliters"
+      },
+      {
+        "question": "What is the visual element used to distinguish between soft/medium water and hard water?",
+        "answer": "Color"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4e/4e6c51a3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the packaging's main text, prominently displaying the product name and dosage?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the overall design, what is the primary shape of the container depicted (excluding the label itself)?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the texture implied by the visual representation of the packaging's surface, especially considering its matte quality?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the label's text, what specific vitamin does the product contain, as a primary ingredient?",
+        "answer": "Vitamin"
+      },
+      {
+        "question": "What is the release mechanism of the vitamin C, as explicitly stated on the packaging's main label?",
+        "answer": "Slow"
+      },
+      {
+        "question": "What is the form of the supplementary product as displayed in the labeling and packaging, specifically as a unit of consumption?",
+        "answer": "Tablets"
+      },
+      {
+        "question": "Based on the visible text, what numerical value indicates the quantity of the active substance per unit of product, expressed in milligrams?",
+        "answer": "500"
+      },
+      {
+        "question": "What is the color of the prominent brand logo present at the top of the label, characterized by its bold font and typography?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the background color of the branding, particularly encompassing the logo and brand name at the top of the packaging?",
+        "answer": "Black"
+      },
+      {
+        "question": "What language, in addition to English, is used on the label to describe the product's composition and other relevant details?",
+        "answer": "German"
+      },
+      {
+        "question": "What is the overall tone or style of the packaging design, as observed in terms of its color palette and typography?",
+        "answer": "Clean"
+      },
+      {
+        "question": "What word, in uppercase letters, is repeated on the top and bottom of the label, providing emphasis on the key feature of this product?",
+        "answer": "SLOW"
+      },
+      {
+        "question": "What is the brand name most prominently displayed on the packaging, clearly identifiable by font size and location?",
+        "answer": "AMFIT"
+      },
+      {
+        "question": "What is the word following 'Vitamin' in the product's title, describing its release property?",
+        "answer": "Release"
+      },
+      {
+        "question": "Excluding the brand name, what word appears in bold, largest, and most frequently on the front of the product's container?",
+        "answer": "VITAMIN"
+      }
+    ]
+  }
+]

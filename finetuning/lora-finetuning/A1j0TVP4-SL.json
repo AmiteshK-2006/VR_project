@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/14/14696902.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the image?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent material of this textile?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Based on the image's visual details, what is the overall weave structure of the fabric?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Describing the visual surface, what is the noticeable texture of the fabric?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging from the image, what is the general appearance or look of this material?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "From the image, what would you describe as the fabric's sheen or luster?",
+        "answer": "Slight"
+      },
+      {
+        "question": "Considering the image, how would you describe the visual density of the fabric's weave?",
+        "answer": "Close"
+      },
+      {
+        "question": "What is the visible color variation or shading across the entire fabric sample?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What is the main visual impression of the fabric's feel or hand, based on the image?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Examining the image, can you identify any visible patterns or prints on the fabric?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the visual clarity and definition of the fabric's weave structure shown?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Based on the image, how would you describe the overall visual weight of the fabric?",
+        "answer": "Light"
+      },
+      {
+        "question": "Considering the visual characteristics, what is the general drape or fall of the fabric?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent visual thickness or thinness of the textile shown in the image?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Judging by the image, how would you characterize the visual opacity of this fabric sample?",
+        "answer": "Opaque"
+      }
+    ]
+  }
+]

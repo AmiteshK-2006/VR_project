@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bf/bf91ce5f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the displayed item?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent surface finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on the image, what seems to be the overall shape of the product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging by the image's clarity, what is the apparent material of the object?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Does the object exhibit any noticeable patterns or designs?",
+        "answer": "None"
+      },
+      {
+        "question": "From the image, are there any visible markings or text on the item?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the level of reflectivity observed on the product's surface?",
+        "answer": "Low"
+      },
+      {
+        "question": "Considering the image, how would you describe the product's thickness?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Based on the visual information, what is the general size of this item?",
+        "answer": "Small"
+      },
+      {
+        "question": "Does the image show any apparent folds or creases in the object?",
+        "answer": "None"
+      },
+      {
+        "question": "Is the product's surface uniformly colored across the image?",
+        "answer": "Yes"
+      },
+      {
+        "question": "From the visual data, is there evidence of any embossing on the item?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the picture, how would you describe the product's weight?",
+        "answer": "Light"
+      },
+      {
+        "question": "Is there any visible damage or imperfections apparent on the surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on appearance, is this item rigid or flexible?",
+        "answer": "Rigid"
+      }
+    ]
+  }
+]

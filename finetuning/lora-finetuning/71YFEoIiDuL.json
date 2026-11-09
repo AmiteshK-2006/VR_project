@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6a/6acdd907.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the primary depicted food item?",
+        "answer": "Cranberries"
+      },
+      {
+        "question": "Observing the packaging, what is the dominant color scheme primarily used in the design?",
+        "answer": "Red"
+      },
+      {
+        "question": "Based on visual inspection, what is the physical form of the cranberries presented on the package?",
+        "answer": "Dried"
+      },
+      {
+        "question": "Judging by the visible text, what language(s) are predominantly used in the product labeling?",
+        "answer": "English"
+      },
+      {
+        "question": "From the image, what other ingredients besides cranberries are explicitly mentioned on the label?",
+        "answer": "Sugar"
+      },
+      {
+        "question": "Judging by the visual text, what is the oil used in the product's preparation as shown on the package?",
+        "answer": "Sunflower"
+      },
+      {
+        "question": "What percentage of cranberries is specified visually in the ingredients list on the product packaging?",
+        "answer": "Sixty"
+      },
+      {
+        "question": "What kind of farming practice is indicated visually on the product's label?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the overall shape of the product packaging displayed in the given image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "According to the visually presented allergy advice, is this product suitable for people with nut allergies?",
+        "answer": "No"
+      },
+      {
+        "question": "What type of allergy is explicitly mentioned, in addition to nut allergies, as a contraindication?",
+        "answer": "Milk"
+      },
+      {
+        "question": "Besides nuts and milk, what other allergen is listed visually as a potential concern?",
+        "answer": "Sesame"
+      },
+      {
+        "question": "What condition, besides allergies, does the package visually warn against consumption for?",
+        "answer": "Coeliac"
+      },
+      {
+        "question": "What is the texture of the cranberries visually implied, given that they are described as 'dried'?",
+        "answer": "Dry"
+      },
+      {
+        "question": "What is the material of the packaging based on visual observation?",
+        "answer": "Paper"
+      }
+    ]
+  }
+]

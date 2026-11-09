@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b0/b07011d8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape and the dense textual content, what is the primary function of this item as depicted in the image?",
+        "answer": "Label"
+      },
+      {
+        "question": "Focusing on the typography, what is the prominent style used for the header text 'Nutrition Facts'?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Observing the visual hierarchy, what is the most significant piece of information conveyed, excluding the header?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Examining the text blocks carefully, what specific nutrient is prominently highlighted with its percentage daily value?",
+        "answer": "Protein"
+      },
+      {
+        "question": "Based on the visual layout, what measurement unit is consistently used for the quantities of various nutrients?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Analyzing the textual arrangement, what is the organizational method used to present the nutritional information?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the background color of this item, as perceived directly from the image?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the typeface used, what can you characterize the font style as?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Judging from the visual density of the text, what is the general level of detail about nutritional information?",
+        "answer": "High"
+      },
+      {
+        "question": "Considering the layout's dimensions, what is the overall shape of the label, as visually observed?",
+        "answer": "Rectangle"
+      },
+      {
+        "question": "What is the texture of the label, judging from its appearance in the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the printing style, what is the printing process mostly used?",
+        "answer": "Digital"
+      },
+      {
+        "question": "Is there any use of color besides black and white in the main textual content?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the general condition of the label based on its visible appearance?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Given the information presented, what is the purpose of the label?",
+        "answer": "Informational"
+      }
+    ]
+  }
+]

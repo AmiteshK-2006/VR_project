@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c3/c3a365cb.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall shape and dimensions, what geometric form best describes the primary structure of this product?",
+        "answer": "Tablet"
+      },
+      {
+        "question": "Based on the visual texture and apparent surface properties, what is the predominant material composition of this item?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Examining the coloration, what single word accurately captures the primary hue exhibited by this product?",
+        "answer": "White"
+      },
+      {
+        "question": "Observing the fine details, what type of marking or printing is present on the item's surface?",
+        "answer": "Text"
+      },
+      {
+        "question": "Considering the visual presentation of the text, is the print style primarily serif or sans-serif?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "From the product's design, are there any visible symbols or logos that are clearly identifiable?",
+        "answer": "None"
+      },
+      {
+        "question": "Given the product's form and presentation, what single word describes the overall physical state of the item?",
+        "answer": "Dry"
+      },
+      {
+        "question": "Focusing on the printed elements, what is the primary language used for labeling or instructions?",
+        "answer": "English"
+      },
+      {
+        "question": "Analyzing the texture, is the product's surface predominantly smooth, rough, or something else?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the item's characteristics, what is its primary intended use?",
+        "answer": "Supplement"
+      },
+      {
+        "question": "From visual examination, can you tell if there are any visible coats or coatings applied to the item?",
+        "answer": "No"
+      },
+      {
+        "question": "Looking at the labeling, are there any discernible warnings or cautions provided?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Can you tell from the image if there are any obvious signs of damage or wear on the product?",
+        "answer": "No"
+      },
+      {
+        "question": "Based solely on visual examination, how many distinct visible faces or sides does the item possess?",
+        "answer": "Two"
+      },
+      {
+        "question": "Based on the size and apparent weight, what would you say is the overall density of the object?",
+        "answer": "High"
+      }
+    ]
+  }
+]

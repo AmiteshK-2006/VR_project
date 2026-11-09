@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/14/1482894d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout and text organization, what is the primary function of this rectangular label?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Observing the prominent numerical value presented, what is the total caloric count per serving?",
+        "answer": "50"
+      },
+      {
+        "question": "Focusing on the textual information provided, what is the serving size in volume units?",
+        "answer": "mL"
+      },
+      {
+        "question": "Based on the visual presentation of this nutritional data, what is the unit of measurement for total fat?",
+        "answer": "g"
+      },
+      {
+        "question": "Considering the visual information, what is the percentage daily value for saturated fat?",
+        "answer": "15%"
+      },
+      {
+        "question": "Examining the numerical values, what is the amount of cholesterol, in milligrams, per serving?",
+        "answer": "15mg"
+      },
+      {
+        "question": "Considering the nutritional data, what is the sodium content in milligrams per serving?",
+        "answer": "5mg"
+      },
+      {
+        "question": "From the visible text, what is the total carbohydrate content, in grams, per serving?",
+        "answer": "0g"
+      },
+      {
+        "question": "Based on the visual information, what is the amount of dietary fiber, in grams, per serving?",
+        "answer": "0g"
+      },
+      {
+        "question": "Looking at the text, what is the total amount of sugars, in grams, per serving?",
+        "answer": "0g"
+      },
+      {
+        "question": "Considering the visible text, what is the amount of protein in grams per serving?",
+        "answer": "0g"
+      },
+      {
+        "question": "Examining the presented data, what is the amount of Vitamin D in micrograms per serving?",
+        "answer": "0mcg"
+      },
+      {
+        "question": "Based on the visual data, what is the amount of Calcium in milligrams per serving?",
+        "answer": "0mg"
+      },
+      {
+        "question": "From the visual data provided, what is the amount of iron in milligrams per serving?",
+        "answer": "0mg"
+      },
+      {
+        "question": "Considering the text, what is the amount of potassium in milligrams per serving?",
+        "answer": "0mg"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0c/0ce0adbd.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the image's visual content, what is the primary textual element displayed prominently across the provided image?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Based on a visual inspection, what is the overall shape of the item shown in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "From the image, what appears to be the predominant color of the textual information presented?",
+        "answer": "Black"
+      },
+      {
+        "question": "Judging only from the image, what seems to be the background color of the label or text?",
+        "answer": "White"
+      },
+      {
+        "question": "Observing the image closely, what is the apparent surface texture of the label on which the text is printed?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on visual characteristics alone, what is the general style of the typography used in the image?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What does the visual inspection of the image suggest is the primary format of the information presented?",
+        "answer": "List"
+      },
+      {
+        "question": "From the provided image, what can be visually identified as the main subject depicted?",
+        "answer": "Label"
+      },
+      {
+        "question": "What is the size of the text in the image relative to the image's dimensions?",
+        "answer": "Small"
+      },
+      {
+        "question": "What appears to be the visual arrangement of the text elements within the image?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Focusing only on what is visually apparent, is the text consistently spaced throughout the image?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the image display any visually noticeable logos, brand markings, or symbols?",
+        "answer": "No"
+      },
+      {
+        "question": "Visually assess the overall clarity and legibility of the text presented in the image.",
+        "answer": "Clear"
+      },
+      {
+        "question": "According to the visual features, what is the likely method of printing the text on the item in the image?",
+        "answer": "Digital"
+      },
+      {
+        "question": "Judging solely from the image, is there any visual indication of special effects or embellishments used in the text?",
+        "answer": "No"
+      }
+    ]
+  }
+]

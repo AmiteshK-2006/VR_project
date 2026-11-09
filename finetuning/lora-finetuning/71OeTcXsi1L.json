@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5a/5a443d85.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall shape and form factor of each individual unit displayed in the image, what single word best describes its geometry?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What primary color is predominantly displayed across the visible surfaces of all packaged units shown?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the visible surface texture, what descriptive term best characterizes the feel of the packaging material?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Examining the labeling on the packaging, what single word represents the most prominent brand name featured?",
+        "answer": "Amazon"
+      },
+      {
+        "question": "Focusing on the design aspect, what is the most noticeable graphical element incorporated into the labeling?",
+        "answer": "Rectangle"
+      },
+      {
+        "question": "What type of material appears to constitute the majority of the packaging's visible composition?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Considering the arrangement, what term best describes the way the individual units are spatially presented in the image?",
+        "answer": "Stacked"
+      },
+      {
+        "question": "What color is the secondary color used on the packaging's label, contrasting against the main color?",
+        "answer": "Black"
+      },
+      {
+        "question": "Observing the labeling, what kind of text is present aside from the brand logo, hinting at contents?",
+        "answer": "Label"
+      },
+      {
+        "question": "Examining the image, what single word best describes the visual condition or state of the depicted units?",
+        "answer": "New"
+      },
+      {
+        "question": "Based purely on the visible packaging, is there any clear indication of the contained item's fragility?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the visible packaging show any signs of damage, wear, or tampering?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the packaging design and information, how many units seem to comprise the showcased product?",
+        "answer": "Six"
+      },
+      {
+        "question": "If one were to describe the general aesthetic of the package using a single word, what would that word be?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Does the visible surface display any distinct patterns, textures, or unique markings beyond the basic design?",
+        "answer": "No"
+      }
+    ]
+  }
+]

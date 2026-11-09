@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1c/1c86b3bf.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what is the primary function of this item, as visually depicted?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the dominant color scheme used throughout this item's visual layout?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Based on the typeface and text organization, what is the style of the presented information?",
+        "answer": "Informative"
+      },
+      {
+        "question": "What is the format of the presented nutritional data, judging solely by its visual appearance?",
+        "answer": "Table"
+      },
+      {
+        "question": "Describe the overall visual texture or surface quality of the information presented on this item.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent orientation of the majority of text blocks on this nutrition label?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What specific type of information does the largest heading on the product visually convey?",
+        "answer": "Facts"
+      },
+      {
+        "question": "What is the visual nature of the text used to present the quantitative nutritional data?",
+        "answer": "Numeric"
+      },
+      {
+        "question": "What is the visual condition of the nutrition information (e.g., damaged, clean)?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Considering the visual presentation, does it primarily display qualitative or quantitative information?",
+        "answer": "Quantitative"
+      },
+      {
+        "question": "What visual element separates different components of the nutritional information?",
+        "answer": "Lines"
+      },
+      {
+        "question": "Based on the text size variations, what is the visual hierarchy of information communicated?",
+        "answer": "Hierarchical"
+      },
+      {
+        "question": "What is the overall visual density of this nutrition label—sparse, moderate, or dense?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Judging by the visual layout, how many servings are indicated per container?",
+        "answer": "Eight"
+      },
+      {
+        "question": "What is the visual style of the primary headline in terms of its font weight?",
+        "answer": "Bold"
+      }
+    ]
+  }
+]

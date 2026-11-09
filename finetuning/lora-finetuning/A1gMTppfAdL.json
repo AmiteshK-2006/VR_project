@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/23/237ce473.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the displayed fabric sample?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent fabric type?",
+        "answer": "Linen"
+      },
+      {
+        "question": "Based on the image, what is the overall visual texture of the material?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the directionality of the visible weave or grain in the fabric.",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Judging from the image, how would you characterize the sheen or luster of the fabric?",
+        "answer": "Slight"
+      },
+      {
+        "question": "What is the most apparent characteristic of the fabric's surface?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Can you identify any obvious patterns or designs on the fabric sample?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the image, what is the implied drape or stiffness of the material?",
+        "answer": "Slight"
+      },
+      {
+        "question": "If you were to touch the fabric, what would be the most prominent tactile quality?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What single word best describes the overall visual impression of this fabric?",
+        "answer": "Subdued"
+      },
+      {
+        "question": "Based on the image, does the fabric appear to be tightly or loosely woven?",
+        "answer": "Tightly"
+      },
+      {
+        "question": "What is the visual appearance of the fabric's surface coloration?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Does the image show any noticeable irregularities in the fabric's texture?",
+        "answer": "No"
+      },
+      {
+        "question": "From the image, does the fabric appear thick or thin?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Describe the visual clarity or definition of the fabric's texture.",
+        "answer": "Clear"
+      }
+    ]
+  }
+]

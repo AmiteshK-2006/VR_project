@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/42/42c3c93c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall shape and form, what geometric descriptor best captures the container's primary structure?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Based on the visual texture, what is the dominant surface characteristic of the bottle?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the predominant color of the label displayed prominently on the container?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary material used in the construction of the container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the color of the text on the label, excluding any design elements?",
+        "answer": "Black"
+      },
+      {
+        "question": "Focusing on the label, what is the most prominent text style used for headings?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Judging by the appearance, what kind of closure does the container utilize at the top?",
+        "answer": "Screw-top"
+      },
+      {
+        "question": "What is the most apparent type of visual aid used to support data legibility?",
+        "answer": "Table"
+      },
+      {
+        "question": "Describe the general orientation and placement of the textual information on the label surface.",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the visible font style used for the bulk of the detailed information on the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Observing the label, what is the style of the main title indicating the product's function?",
+        "answer": "Capitalized"
+      },
+      {
+        "question": "From the image, can you identify any explicit warnings or cautionary statements?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the overall visual tone of the labeling, considering its color scheme and style?",
+        "answer": "Informative"
+      },
+      {
+        "question": "What is the dominant structural component of the container shown in this product image?",
+        "answer": "Bottle"
+      },
+      {
+        "question": "What is the visual appearance of the label's background, taking into account its color and texture?",
+        "answer": "Plain"
+      }
+    ]
+  }
+]

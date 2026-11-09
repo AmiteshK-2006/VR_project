@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/73/73c7a781.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall hue and saturation, what single word best describes the dominant color of the depicted beverage?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the primary shape of the bottle containing the product, ignoring the cap?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visual texture, what material appears to constitute the main body of the product container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the label design, what style best encapsulates the visual theme and aesthetic employed?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Focusing on the label, what single word best summarizes the depicted image that accompanies the product name?",
+        "answer": "Beetroot"
+      },
+      {
+        "question": "What is the most prominent single word on the label, signifying the product's name and nature?",
+        "answer": "Juice"
+      },
+      {
+        "question": "What descriptive word best captures the apparent consistency of the beverage inside the bottle?",
+        "answer": "Liquid"
+      },
+      {
+        "question": "What single word concisely communicates the brand associated with this bottled beverage product?",
+        "answer": "Wholefoods"
+      },
+      {
+        "question": "What is the predominant design element on the beverage's label besides text, in terms of visual representation?",
+        "answer": "Leaf"
+      },
+      {
+        "question": "Observing the cap closely, what single word describes its construction material?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Regarding the beverage's ingredients, as listed on the label, what fruit is prominently included?",
+        "answer": "Orange"
+      },
+      {
+        "question": "Considering the packaging design elements, is there any visual indicator of the volume contained?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What single word best describes the type of cap on the juice bottle in the image?",
+        "answer": "Screw"
+      },
+      {
+        "question": "What vegetable, besides beet, is explicitly mentioned on the product label as an ingredient?",
+        "answer": "Carrot"
+      },
+      {
+        "question": "Disregarding the text, is there a discernible pattern on the label's graphic design?",
+        "answer": "Circular"
+      }
+    ]
+  }
+]

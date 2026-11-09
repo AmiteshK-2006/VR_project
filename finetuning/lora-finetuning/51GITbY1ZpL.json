@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/82/82d37682.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the textual information provided, what is the primary ingredient explicitly listed as a component of this product?",
+        "answer": "Caraway"
+      },
+      {
+        "question": "Based on the clearly visible text, what additional food items were processed in the same facility as this product?",
+        "answer": "Nuts"
+      },
+      {
+        "question": "What is the text's font style presented in the upper section of the image?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the text's case style that the word 'INGREDIENTS' appears in?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "What is the text's color used to denote the details of the ingredients and processing information?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the text alignment applied to both the 'INGREDIENTS' and processing details?",
+        "answer": "Left"
+      },
+      {
+        "question": "What is the overall background color of the image containing the product details?",
+        "answer": "White"
+      },
+      {
+        "question": "Aside from caraway seed, what other ingredient's processing is mentioned in the text, relating to facility operations?",
+        "answer": "Milk"
+      },
+      {
+        "question": "What is the word used to describe the type of facility that handled the product's processing?",
+        "answer": "Facility"
+      },
+      {
+        "question": "In the context of allergen information, what additional grain is mentioned in relation to facility processing?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "What single word identifies another potential allergen mentioned due to shared facility processing?",
+        "answer": "Soy"
+      },
+      {
+        "question": "What is the text formatting style used to indicate that it details the contents of the product?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the type of statement employed to inform consumers about potential cross-contamination?",
+        "answer": "Warning"
+      },
+      {
+        "question": "Disregarding the ingredients, what type of information is communicated after the ingredients line?",
+        "answer": "Allergen"
+      },
+      {
+        "question": "Considering the textual information, what is the nature of the warning related to facility processing?",
+        "answer": "Allergen"
+      }
+    ]
+  }
+]

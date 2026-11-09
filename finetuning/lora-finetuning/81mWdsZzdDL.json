@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3c/3c94e078.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall dimensions and shape, what best describes the product's form factor?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the dominant color displayed prominently on the packaging's main area?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the predominant material that seems to constitute the packaging of this product?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Based on the textual information visible on the packaging, what is the product weight in grams?",
+        "answer": "300"
+      },
+      {
+        "question": "What type of visual code is shown, typically used for retail inventory tracking?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "Describe the textual content's arrangement: is it uniformly organized or scattered?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What is the overall texture impression provided by the packaging's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "In the context of the product's label, what is the prominent font style?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Are there any symbols or logos other than the barcode that appear in the image?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the visual elements, is there any imagery besides the text?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the general aesthetic or design style evident in the product's packaging?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Does the packaging show any noticeable creases, dents, or imperfections?",
+        "answer": "No"
+      },
+      {
+        "question": "Regarding the packaging's color palette, is it monochromatic or multicolored?",
+        "answer": "Monochromatic"
+      },
+      {
+        "question": "Considering the text size and style, does it appear to be easily readable?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Observing the visual, is there any evidence of tamper-evident sealing?",
+        "answer": "No"
+      }
+    ]
+  }
+]

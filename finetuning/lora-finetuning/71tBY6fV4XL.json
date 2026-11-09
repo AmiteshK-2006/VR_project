@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b5/b588cfee.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall structure, what is the dominant geometric form of this item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visible lines and dimensions, what material seems most likely for the construction of this product?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Observing the detailed line drawing, how many discrete shelf compartments are clearly depicted within the structure?",
+        "answer": "Two"
+      },
+      {
+        "question": "Judging by the image's depiction, what is the apparent overall height of the assembled product in centimeters?",
+        "answer": "188"
+      },
+      {
+        "question": "From the provided drawing, what is the width of the main upright component, excluding the side cabinet, in centimeters?",
+        "answer": "33"
+      },
+      {
+        "question": "Examining the dimensions provided, what is the depth of the smaller side cabinet, in centimeters?",
+        "answer": "40"
+      },
+      {
+        "question": "According to the visual representation, what is the height of the side cabinet component, in centimeters?",
+        "answer": "48"
+      },
+      {
+        "question": "Judging from the line drawing, what is the width of the small side cabinet, in centimeters?",
+        "answer": "29"
+      },
+      {
+        "question": "What seems to be the implied functional purpose of the top horizontal section, given its position?",
+        "answer": "Shelf"
+      },
+      {
+        "question": "Based on the schematic, what is the most apparent visual characteristic of the main vertical component?",
+        "answer": "Slender"
+      },
+      {
+        "question": "Considering the image's details, what is the style that best describes the design of the item?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Based on the drawing, what design element is used to separate the shelves in the small side cabinet?",
+        "answer": "Dividers"
+      },
+      {
+        "question": "What seems to be the most likely primary color of the finished product, given the schematic nature of the image?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the apparent intended use of the smaller cabinet portion based on its dimensions and location?",
+        "answer": "Storage"
+      },
+      {
+        "question": "Considering the image, what kind of drawing is this to convey the design and measurements?",
+        "answer": "Technical"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0c/0c1669ef.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual texture, what is the predominant textural characteristic of the depicted product, as observed in the image?",
+        "answer": "Granular"
+      },
+      {
+        "question": "Based on the image's visual presentation, what single word best describes the apparent color of the depicted product?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What single word precisely captures the form factor of the presented item, as demonstrably apparent in the provided image?",
+        "answer": "Powder"
+      },
+      {
+        "question": "Judging solely from the image, what is the most prominent text style used for conveying product information?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "As visually evident from the image, what is the primary ingredient of this item, if any, as displayed in the image?",
+        "answer": "Cinnamon"
+      },
+      {
+        "question": "What is the certification status explicitly mentioned on the packaging, using only a single word?",
+        "answer": "Certified"
+      },
+      {
+        "question": "Given the image's depiction, what is the single word indicating the farming practice used in the product's origin?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the most noticeable adjective describing the product's origin method, judging only by the visual information?",
+        "answer": "Fair"
+      },
+      {
+        "question": "What single word describes the manufacturing process declared on the product label visible in the picture?",
+        "answer": "Processed"
+      },
+      {
+        "question": "Considering the textual presentation alone, what is the most descriptive word used to describe the product\u2019s labeling style?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What single word best describes the overall style of the presented text on the product's packaging?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Based solely on the image, what is the most prominent color used in the displayed text?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the most visually significant warning mentioned regarding other processed items, stated as a single word?",
+        "answer": "Soy"
+      },
+      {
+        "question": "According to the visible label, name a significant allergen found in this product's processing facility, using a single word",
+        "answer": "Milk"
+      },
+      {
+        "question": "Using only a single word from the image, indicate another nut allergen identified in the processing facility",
+        "answer": "Nuts"
+      }
+    ]
+  }
+]

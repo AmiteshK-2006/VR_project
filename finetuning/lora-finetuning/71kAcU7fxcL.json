@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/96/962784e0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the primary textual feature dominating the image?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the predominant color of the text presented on the rectangular label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Focusing on the typeface used, what style best describes the font of the label's text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Examining the visual layout, how would you categorize the arrangement of the text on the label?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Disregarding size, what is the visual format of this information label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based purely on visual analysis, what language appears to be used on the label?",
+        "answer": "English"
+      },
+      {
+        "question": "If you had to classify the texture of the label's surface based on its visual appearance, what term would you use?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the visual presentation of the text regarding capitalization?",
+        "answer": "Mixed"
+      },
+      {
+        "question": "Concentrating on the text, what is the visual appearance of the information on the label?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Observing the text's visual characteristics, what is the visual contrast between the text and background?",
+        "answer": "High"
+      },
+      {
+        "question": "Considering the textual information, what is the overall visual tone of the message conveyed?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "Analyzing the visual properties, is the text aligned to the left, right, or center?",
+        "answer": "Left"
+      },
+      {
+        "question": "Does the visual appearance suggest the presence of any graphics or logos aside from the text?",
+        "answer": "No"
+      },
+      {
+        "question": "What appears to be the surface on which the information is printed?",
+        "answer": "Paper"
+      },
+      {
+        "question": "If considering the image's composition, what is the dominant visual element?",
+        "answer": "Words"
+      }
+    ]
+  }
+]

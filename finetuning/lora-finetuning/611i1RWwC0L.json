@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b0/b061a17a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form and packaging, what is the primary shape of the product's container?",
+        "answer": "Bag"
+      },
+      {
+        "question": "What is the dominant color of the primary label, visually apparent on the bag's surface?",
+        "answer": "White"
+      },
+      {
+        "question": "Disregarding the text, what is the color of the prominent image, pictorially representing the product's contents?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Based on the visible portion of the package's material, what is it primarily constructed from?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Observing the bag's form, what design element is evident along the top edge, providing an opening mechanism?",
+        "answer": "Seal"
+      },
+      {
+        "question": "What color is the secondary color block displayed at the bottom of the main label?",
+        "answer": "Green"
+      },
+      {
+        "question": "Considering the image's depiction of food items, what is the suggested texture of the product contained within?",
+        "answer": "Crispy"
+      },
+      {
+        "question": "Judging from the picture on the bag, what is the apparent form of the individual food items?",
+        "answer": "Pieces"
+      },
+      {
+        "question": "What is the overall visual impression of the bag's surface texture, evident in the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the bag's label imagery, what descriptive term best characterizes the product inside?",
+        "answer": "Snacks"
+      },
+      {
+        "question": "If we consider the style of the label design, what overall visual impression does it project?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Disregarding text content, what is the type of image displayed primarily on the package?",
+        "answer": "Photo"
+      },
+      {
+        "question": "If we ignore text elements, what is the overall visual style of the food depicted on the package?",
+        "answer": "Rustic"
+      },
+      {
+        "question": "What is the shape of the smaller graphic design elements scattered on the label background?",
+        "answer": "Dots"
+      },
+      {
+        "question": "Considering the overall appearance of the bag, what is its visual presentation style?",
+        "answer": "Minimalist"
+      }
+    ]
+  }
+]

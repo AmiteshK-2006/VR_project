@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3e/3e18587b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the product's packaging?",
+        "answer": "White"
+      },
+      {
+        "question": "What appears to be the primary material of the product itself?",
+        "answer": "Flour"
+      },
+      {
+        "question": "What is the overall shape of the item contained within the packaging?",
+        "answer": "Round"
+      },
+      {
+        "question": "What is the apparent texture of the product visible through the packaging?",
+        "answer": "Powdery"
+      },
+      {
+        "question": "What color is the primary text on the product's packaging?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the apparent form of the product inside the packaging?",
+        "answer": "Disk"
+      },
+      {
+        "question": "What kind of packaging encloses the product?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the presumed state of the product shown, solid or liquid?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Considering the visible packaging, is the product transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Does the packaging show any noticeable markings besides text?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the general size range of the packaged product, based on the visual comparison?",
+        "answer": "Large"
+      },
+      {
+        "question": "Considering the packaging style and labeling, what is the product's likely form?",
+        "answer": "Dry"
+      },
+      {
+        "question": "Based on its visual presentation, what could be the product's likely use?",
+        "answer": "Cooking"
+      },
+      {
+        "question": "What is the visible brand name featured prominently on the packaging?",
+        "answer": "Vedaka"
+      },
+      {
+        "question": "Judging by the product's presentation, what is its likely consistency?",
+        "answer": "Fine"
+      }
+    ]
+  }
+]

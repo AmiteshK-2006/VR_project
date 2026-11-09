@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/af/afe24d23.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's font and overall arrangement, what is the primary style of this product's labeling?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Based on the visual appearance of the listed ingredients, what is the overall impression of the product's composition?",
+        "answer": "Complex"
+      },
+      {
+        "question": "Judging solely by the text's visual attributes, what is the most prominent color used in the ingredient list?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the apparent texture of the text within the provided image of the ingredients list?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the text's density and formatting, what would you describe the overall readability as?",
+        "answer": "Good"
+      },
+      {
+        "question": "Focusing on the font family, what is the most suitable descriptor to classify the typeface used?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "If you were to categorize this text's alignment, how would you characterize it?",
+        "answer": "Left"
+      },
+      {
+        "question": "Given the text's visual characteristics, how would you classify the product information presentation?",
+        "answer": "Detailed"
+      },
+      {
+        "question": "Considering the visual prominence of ingredient information, how would you describe the product's transparency?",
+        "answer": "High"
+      },
+      {
+        "question": "Observing the text's case, how can the style be described?",
+        "answer": "Sentence"
+      },
+      {
+        "question": "Based purely on visual observation, what is the apparent font size?",
+        "answer": "Small"
+      },
+      {
+        "question": "Examining the image, is the text's spacing consistent throughout?",
+        "answer": "Yes"
+      },
+      {
+        "question": "By examining the visual properties, what is the text's orientation?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "How would you describe the visual prominence of allergen warnings in the provided text?",
+        "answer": "Clear"
+      },
+      {
+        "question": "In terms of visual hierarchy, what is the apparent structural organization of the information presented?",
+        "answer": "Linear"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a6/a6afa790.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the bag's main surface, as shown in the provided image?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of the product's packaging, as depicted in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the image, what appears to be the primary material of the product packaging?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on the image, what is the apparent texture of the product packaging surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What language is predominantly used on the visible text of the product's packaging?",
+        "answer": "Japanese"
+      },
+      {
+        "question": "Focusing on the image, what type of seal or closure is visible on the packaging?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "What is the overall visual presentation or style of the packaging's design, from the image?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Judging from the image, does the packaging show any noticeable patterns or graphics?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent size of the product's packaging, relative to common household items (from the image)?",
+        "answer": "Large"
+      },
+      {
+        "question": "Based on the image, is the product packaging transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Observing the image, are there any visible barcodes or QR codes on the packaging?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the color of the text on the packaging, according to the given image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What seems to be the apparent condition of the product's packaging, based on the image provided?",
+        "answer": "New"
+      },
+      {
+        "question": "From the image provided, is the product's packaging flexible or rigid?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Examining the image, are there any visible logos or branding elements on the packaging?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

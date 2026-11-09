@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ce/ce301328.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme used throughout the presented nutrition facts label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the primary typeface style employed for the text on the nutrition label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the visual layout, what is the organizational structure of the nutritional information?",
+        "answer": "tabular"
+      },
+      {
+        "question": "What is the general shape of the entire nutrition facts panel displayed in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the overall texture of the nutrition label's surface based on the image alone?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent material of the nutritional information panel depicted?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Considering only the visual evidence, what is the visual prominence of the calorie count?",
+        "answer": "High"
+      },
+      {
+        "question": "Does the label contain any noticeable graphic elements besides text?",
+        "answer": "No"
+      },
+      {
+        "question": "What appears to be the primary method of text organization within each section of the nutrition label?",
+        "answer": "List"
+      },
+      {
+        "question": "What appears to be the overall visual style of the nutritional information presentation?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the most prominent piece of nutritional information displayed?",
+        "answer": "Calories"
+      },
+      {
+        "question": "How many columns are visibly present in the arrangement of the data in the nutrition facts?",
+        "answer": "Two"
+      },
+      {
+        "question": "Describe the relative size of the text presenting the calorie count compared to other textual elements.",
+        "answer": "Large"
+      },
+      {
+        "question": "What is the visible unit of measurement primarily used for quantities of various nutrients?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Is there any visible indication of a brand name or product name on this nutrition label?",
+        "answer": "No"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4c/4c6afda8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the dominant shape of the presented object?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the predominant color exhibited by the product's surface?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "What appears to be the physical texture of the item's visible surface, based on the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent material composition of the object shown in the provided image?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Observing the object's surface closely, what can be described as the visual layout of its markings?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Considering the detailed arrangement of elements, what is the text style printed on the object?",
+        "answer": "Serif"
+      },
+      {
+        "question": "Judging from the image, how would you classify the density or compactness of the text's print?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Based on its look, what is the object's inferred primary function or purpose?",
+        "answer": "Label"
+      },
+      {
+        "question": "Examining the fine detail, is there any discernible pattern or organization of the text's content?",
+        "answer": "Organized"
+      },
+      {
+        "question": "Considering the visual clarity, what is the level of legibility of the printed text on the item?",
+        "answer": "Low"
+      },
+      {
+        "question": "What is the apparent orientation of the text printed on the presented object?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Judging from the image, what is the general size or scale of the object?",
+        "answer": "Small"
+      },
+      {
+        "question": "From what you see, what is the implied thickness of the depicted object?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Describe the visual contrast between the markings and the object's background color.",
+        "answer": "Low"
+      },
+      {
+        "question": "What type of printing process seems to be used in the object shown in the image?",
+        "answer": "Inkjet"
+      }
+    ]
+  }
+]

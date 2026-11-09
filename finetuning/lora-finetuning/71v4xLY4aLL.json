@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ed/ed1ca665.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the product's label, as visibly shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the product container, judging solely by its visible portion?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What appears to be the primary material of the product's container, based on visual inspection?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Considering the visible text, what is explicitly named as a key ingredient?",
+        "answer": "Olive"
+      },
+      {
+        "question": "Judging from the visible text, is the product presented as refined, extra virgin, or both?",
+        "answer": "Both"
+      },
+      {
+        "question": "What kind of nutritional information is prominently displayed on the product's label?",
+        "answer": "Facts"
+      },
+      {
+        "question": "What is the color of the smaller text visible on the label, contrasting with the main text?",
+        "answer": "White"
+      },
+      {
+        "question": "Based solely on the image, what is the visible format of the nutritional information?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the color of the smallest text indicating the distributor information?",
+        "answer": "Black"
+      },
+      {
+        "question": "Does the visible label contain any images aside from text, according to the provided image?",
+        "answer": "No"
+      },
+      {
+        "question": "What appears to be the overall condition of the product's label, based on visual inspection?",
+        "answer": "Clean"
+      },
+      {
+        "question": "What is the approximate number of servings indicated on the product label?",
+        "answer": "33"
+      },
+      {
+        "question": "Based on the image, what seems to be the approximate height of the product container, considering its orientation?",
+        "answer": "Tall"
+      },
+      {
+        "question": "What is the visible style of the lettering on the product's nutrition label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Does the product's label appear to have any noticeable damage or imperfections, visually?",
+        "answer": "No"
+      }
+    ]
+  }
+]

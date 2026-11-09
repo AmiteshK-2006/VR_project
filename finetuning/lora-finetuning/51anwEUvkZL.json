@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/99/990b4aee.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the gummy observed in the provided image?",
+        "answer": "Red"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent surface finish of the gummy?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on its visual appearance, what is the overall three-dimensional shape of the product?",
+        "answer": "Round"
+      },
+      {
+        "question": "Judging from the image, what seems to be the primary material composing this item?",
+        "answer": "Gummy"
+      },
+      {
+        "question": "Does the gummy show any visible markings, patterns, or surface irregularities?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the implied consistency or form of the product presented in the image?",
+        "answer": "Solid"
+      },
+      {
+        "question": "What kind of glossiness does the exterior of this gummy candy exhibit?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "In relation to a US quarter, what is the approximate size of this single gummy?",
+        "answer": "Small"
+      },
+      {
+        "question": "Considering the image provided, what is the general appearance of the product's surface?",
+        "answer": "Translucent"
+      },
+      {
+        "question": "What is the suggested level of transparency of the shown gummy?",
+        "answer": "Slight"
+      },
+      {
+        "question": "Based on the image, what is the suggested texture of the product shown?",
+        "answer": "Chewy"
+      },
+      {
+        "question": "If you were to describe the product's form, what single word would best encapsulate it?",
+        "answer": "Sphere"
+      },
+      {
+        "question": "Analyzing the provided picture, is the gummy visibly segmented or uniformly formed?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "From its visual characteristics, what is the apparent state of this product?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Observing the visual details, what is the suggested physical nature of the item?",
+        "answer": "Flexible"
+      }
+    ]
+  }
+]

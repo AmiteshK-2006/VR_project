@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/26/269db7f6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary ingredient explicitly declared on the product's label?",
+        "answer": "Currants"
+      },
+      {
+        "question": "Based on the label, what is the weight of the product in grams?",
+        "answer": "250"
+      },
+      {
+        "question": "According to the label, is vegetable oil used in this product?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the product's label explicitly mention 'organic' as a descriptor?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the label provide information regarding potential allergens?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is this product suitable for vegetarians, as indicated on its label?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the format of the information presented on the label?",
+        "answer": "Text"
+      },
+      {
+        "question": "Does the packaging contain any visual elements beyond text?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall color scheme of the product's label?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Is there any visual indication of the product's manufacturing date?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the label include a barcode or other machine-readable identifier?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the texture of the label's surface indicated by its appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the label feature any graphic design elements?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the text's appearance, is the font style consistent throughout?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the overall shape of the packaging's visible portion in the image?",
+        "answer": "Rectangular"
+      }
+    ]
+  }
+]

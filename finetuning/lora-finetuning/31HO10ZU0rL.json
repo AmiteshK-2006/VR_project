@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0b/0bc030d3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the packaging visible on the product?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the apparent shape of the primary package containing the product?",
+        "answer": "Square"
+      },
+      {
+        "question": "What is the primary material appearing to constitute the product's outer packaging?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What word prominently features on the product's packaging, indicating brand or product line?",
+        "answer": "Wickooly"
+      },
+      {
+        "question": "Describe the apparent texture of the outer packaging material of the product.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What secondary color is visible in small portions on the product's packaging?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the overall visual impression of the packaging's design aesthetic?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Does the packaging show any noticeable illustrative or descriptive elements aside from text?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the size comparison to a hand, what is the approximate product size relative to a hand?",
+        "answer": "Small"
+      },
+      {
+        "question": "Is the primary packaging's seal or closure visibly apparent in the provided image?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the appearance of the text font style used on the product's packaging?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Judging from the image, what type of product does the packaging suggest?",
+        "answer": "Spice"
+      },
+      {
+        "question": "Does the packaging display any visible barcodes or other scannable markings?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent condition of the product's packaging in the image?",
+        "answer": "Unopened"
+      },
+      {
+        "question": "What is the relative size of the illustrated component within the main packaging?",
+        "answer": "Small"
+      }
+    ]
+  }
+]

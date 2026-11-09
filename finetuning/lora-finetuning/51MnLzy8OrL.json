@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/7b/7b6d5132.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the bread's crust, as visibly presented in the image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the visible texture, what is the predominant surface characteristic of the bread?",
+        "answer": "Grainy"
+      },
+      {
+        "question": "Based on the image, what type of bread is depicted, according to the product label?",
+        "answer": "Sandwich"
+      },
+      {
+        "question": "What kind of seeds are predominantly visible on the bread's exterior?",
+        "answer": "Sesame"
+      },
+      {
+        "question": "Describe the overall shape of the bread loaf as seen within its packaging.",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the material of the primary packaging containing the bread loaf?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is indicated on the packaging regarding the bread's agricultural status?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Based solely on visual inspection, what is the apparent density of the bread?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What brand is prominently displayed on the bread's packaging, as visible in the image?",
+        "answer": "365"
+      },
+      {
+        "question": "What appears to be the main ingredient indicated on the packaging, based on the image?",
+        "answer": "Multigrain"
+      },
+      {
+        "question": "Considering the visual presentation, what is the inferred slicing of the bread?",
+        "answer": "Sliced"
+      },
+      {
+        "question": "Describe the visual style of the branding or label design on the package.",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the visible format of the product as displayed within the packaging?",
+        "answer": "Loaf"
+      },
+      {
+        "question": "What type of packaging is predominantly used to contain the bread loaf?",
+        "answer": "Bag"
+      },
+      {
+        "question": "What is the overall color scheme of the packaging design, as seen in the image?",
+        "answer": "Green"
+      }
+    ]
+  }
+]

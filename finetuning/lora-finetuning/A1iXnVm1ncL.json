@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9d/9d14d4eb.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed fabric sample?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the apparent texture of the fabric, considering its weave?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Considering the visible fibers, what natural material is suggested?",
+        "answer": "Grass"
+      },
+      {
+        "question": "Describe the overall visual pattern present in the fabric sample.",
+        "answer": "Linear"
+      },
+      {
+        "question": "Based on the image, what is the general appearance of the fabric's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From the visible weave, what is the implied structural integrity?",
+        "answer": "Durable"
+      },
+      {
+        "question": "Describe the visual consistency of the color throughout the sample.",
+        "answer": "Uniform"
+      },
+      {
+        "question": "How would you characterize the visual weight or density of the fabric?",
+        "answer": "Light"
+      },
+      {
+        "question": "Considering the image, what is the apparent sheen or luster of the fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "If you were to touch it, what would be the likely tactile feel?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Judging from the image, what type of textile is represented?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Considering the visible weave, is the fabric's structure open or dense?",
+        "answer": "Dense"
+      },
+      {
+        "question": "What is the visible predominant direction of the fabric's weave?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the general appearance of the visible weave structure?",
+        "answer": "Regular"
+      },
+      {
+        "question": "From the image, what is the visible quality of the fabric's finish?",
+        "answer": "Natural"
+      }
+    ]
+  }
+]

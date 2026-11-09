@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/be/bec3d670.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout and textual organization, what is the primary function of this displayed information?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Observing the prominent heading at the top, what specific dietary aspect is detailed in this document?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Based on the font style and size variations, what is the unit used to measure the quantity of each component?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Focusing on the numerical data presented, what is the primary unit of measurement for energy content?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Looking at the detailed breakdown of fats, what is the category with the highest percentage value?",
+        "answer": "Saturated"
+      },
+      {
+        "question": "Analyzing the micronutrient information, which vitamin shows a non-zero percentage daily value?",
+        "answer": "A"
+      },
+      {
+        "question": "Examining the mineral content, which of the listed minerals has the highest percentage daily value?",
+        "answer": "Iron"
+      },
+      {
+        "question": "Considering the provided data, what is the total number of servings in the container?",
+        "answer": "Two"
+      },
+      {
+        "question": "Based on the serving size indication, what is the weight of a single serving in grams?",
+        "answer": "227"
+      },
+      {
+        "question": "In reference to the carbohydrate section, what is the type of carbohydrate with the lowest quantity shown?",
+        "answer": "Fiber"
+      },
+      {
+        "question": "Looking at the values presented for each nutrient, what is the unit of measurement used for cholesterol?",
+        "answer": "Milligrams"
+      },
+      {
+        "question": "Considering the arrangement of information, what is the category directly below 'Total Fat'?",
+        "answer": "Saturated"
+      },
+      {
+        "question": "According to the nutritional data, what is the approximate amount of protein per serving in grams?",
+        "answer": "Five"
+      },
+      {
+        "question": "Referring to the table layout, what is the category located to the right of the nutrient names?",
+        "answer": "Percent"
+      },
+      {
+        "question": "Focusing on the bottom section, what is the unit for daily values of cholesterol?",
+        "answer": "Milligrams"
+      }
+    ]
+  }
+]

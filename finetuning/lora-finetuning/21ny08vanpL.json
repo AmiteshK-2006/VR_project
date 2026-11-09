@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/88/88fae579.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the light bulb, as depicted in the provided image?",
+        "answer": "Pear"
+      },
+      {
+        "question": "Based on the image, what is the predominant color of the light bulb's exterior?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the image, what material appears to constitute the majority of the light bulb's body?",
+        "answer": "Glass"
+      },
+      {
+        "question": "What is the apparent finish or texture of the light bulb's surface, as seen in the product image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging from the visual provided, what type of base does the light bulb possess?",
+        "answer": "Bayonet"
+      },
+      {
+        "question": "Does the image show any visible markings or branding on the light bulb's surface?",
+        "answer": "Yes"
+      },
+      {
+        "question": "As shown in the image, what is the general size of the light bulb relative to a human hand?",
+        "answer": "Large"
+      },
+      {
+        "question": "Based on the provided image, is the light bulb's shape uniformly symmetrical?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Observing the image, are there any noticeable imperfections or irregularities in the bulb's construction?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from its appearance in the image, what is the likely light emission type of this bulb?",
+        "answer": "Diffuse"
+      },
+      {
+        "question": "From the picture, what can be said about the bulb's transparency or opacity?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Does the image suggest the presence of any internal components visible through the glass?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the picture, what seems to be the intended application of the light bulb?",
+        "answer": "Lighting"
+      },
+      {
+        "question": "Based on the visual detail of the image, is the light bulb's design simple or ornate?",
+        "answer": "Simple"
+      },
+      {
+        "question": "From the image, what can we conclude about the light bulb's overall condition: new or used?",
+        "answer": "New"
+      }
+    ]
+  }
+]

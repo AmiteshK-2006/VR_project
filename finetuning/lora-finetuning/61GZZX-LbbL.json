@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b1/b109505b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular layout and the detailed tabular structure, what is the predominant shape of this food product's nutritional information panel?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Observing the clear, black lettering against the off-white background, what is the primary color scheme used for the text on this nutrition facts label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Focusing on the typeface and style of the text, what can be described as the overall appearance of the lettering on this nutrition label?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Analyzing the visual density of the information presented, what is the overall organizational structure of the data on this nutrition facts panel?",
+        "answer": "Tabular"
+      },
+      {
+        "question": "Examining the text's readability and clarity, what is the overall visual impact of the font choice on the label?",
+        "answer": "Legible"
+      },
+      {
+        "question": "Considering the content of the information provided, what is the type of information detailed on this rectangular food product label?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Based on the visual presentation of data, what is the style of representation for the nutritional components of this food item?",
+        "answer": "Quantitative"
+      },
+      {
+        "question": "Given the absence of any other prominent colors, besides the black text and off-white background, what is the background color of the nutritional information?",
+        "answer": "White"
+      },
+      {
+        "question": "Assessing the physical characteristics of the label, what appears to be the material of the surface on which the information is printed?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Judging from the visual elements and text's placement, what is the primary function of this nutrition facts panel?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Noting the precision of the numerical data provided, what is the level of detail of the values presented for each nutritional component?",
+        "answer": "Specific"
+      },
+      {
+        "question": "Observing the fine lines and borders, describe the visual texture of the nutritional information label.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image, describe the overall visual condition of the nutrition information panel.",
+        "answer": "Clean"
+      },
+      {
+        "question": "Focusing on the arrangement of the information, what is the overall visual alignment of data in each column?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Examining the style of the heading, what describes the visual prominence of the words 'Nutrition Facts'?",
+        "answer": "Bold"
+      }
+    ]
+  }
+]

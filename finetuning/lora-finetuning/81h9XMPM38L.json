@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f1/f1677494.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular layout, what is the primary orientation of this nutrition facts panel, as visually apparent?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Observing the textual elements, what is the dominant color used for the 'Nutrition Facts' heading?",
+        "answer": "Black"
+      },
+      {
+        "question": "Focusing on the typography, what font style predominantly appears throughout the information presented?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Regarding the color palette, what secondary color is consistently used for background and certain text elements?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Examining the arrangement of data, what is the visual method used to organize the nutritional components?",
+        "answer": "Tables"
+      },
+      {
+        "question": "Considering the textual content, what is the unit used to express the 'Serving Size' measurement?",
+        "answer": "Cup"
+      },
+      {
+        "question": "Based on the displayed numerical values, what is the total fat content per serving, as visually confirmed?",
+        "answer": "5g"
+      },
+      {
+        "question": "Looking at the textual units, what measurement is used for the cholesterol content in each serving?",
+        "answer": "mg"
+      },
+      {
+        "question": "Observing the presented data, what is the sodium content indicated for a single serving?",
+        "answer": "125mg"
+      },
+      {
+        "question": "Regarding the information provided on sugars, what is the quantity in grams per serving?",
+        "answer": "12g"
+      },
+      {
+        "question": "Analyzing the layout of the percentage daily values, how are they represented visually?",
+        "answer": "Numbers"
+      },
+      {
+        "question": "Considering the visual representation, what is the protein content in grams per serving?",
+        "answer": "8g"
+      },
+      {
+        "question": "Focusing on the nutritional information presented, what vitamin is highlighted with a percentage daily value of 10%?",
+        "answer": "A"
+      },
+      {
+        "question": "Based on the visual information, what is the percentage daily value of Vitamin D per serving?",
+        "answer": "25%"
+      },
+      {
+        "question": "Considering the bottom section of the panel, what unit is used to express the 'Calories per gram' data?",
+        "answer": "g"
+      }
+    ]
+  }
+]

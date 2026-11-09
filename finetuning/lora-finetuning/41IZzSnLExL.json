@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c8/c8c8ca57.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the visual presentation, what is the dominant textual characteristic of this product image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the primary type of information conveyed by the visible text, based on its context and style?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Judging by the image's visual characteristics, what is the textual arrangement predominantly?",
+        "answer": "List"
+      },
+      {
+        "question": "Regarding the visual details, what is the font style that is predominantly displayed in the image?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "If you analyze the visual elements, what is the general size of the font used in the product’s image?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Focusing on the visual appearance, what color is the background against which the text appears?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the image's visual characteristics, what is the general spacing or line height of the text?",
+        "answer": "Single"
+      },
+      {
+        "question": "What is the overall visual impression of the text's alignment, looking at the image only?",
+        "answer": "Left"
+      },
+      {
+        "question": "In terms of visual perception, does the text block appear dense or spaced out?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Looking at the visual details, does the text's presentation suggest a formal or informal style?",
+        "answer": "Formal"
+      },
+      {
+        "question": "Observing the image, does the text incorporate any particular visual effects like bolding or italics?",
+        "answer": "No"
+      },
+      {
+        "question": "From the visual inspection of this image, what would you describe as the overall visual tone or mood?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Judging by the visual evidence, does the text show any signs of special formatting or structural divisions?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the visual structure and hierarchy, is the information structured clearly and easily readable?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Examining the image purely visually, what could be inferred about the target audience for this textual information?",
+        "answer": "Consumers"
+      }
+    ]
+  }
+]

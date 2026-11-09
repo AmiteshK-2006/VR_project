@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/06/06f3ff91.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the food product contained within the bottle, as visually apparent from the image?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the overall shape of the bottle containing the product, as directly observed in the provided image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the visual texture of the product, what is its apparent consistency based solely on the image?",
+        "answer": "Creamy"
+      },
+      {
+        "question": "What primary material is the bottle visibly constructed from, ignoring any labels or markings?",
+        "answer": "Glass"
+      },
+      {
+        "question": "What color is the cap or lid atop the bottle, as directly observable from the image?",
+        "answer": "Green"
+      },
+      {
+        "question": "Based on the visual appearance of the product, what is its presumed culinary function or intended use?",
+        "answer": "Dressing"
+      },
+      {
+        "question": "Does the product exhibit a homogenous or heterogeneous visual texture, based on the image provided?",
+        "answer": "Heterogeneous"
+      },
+      {
+        "question": "What is the overall form factor of the bottle containing the food product, as seen in the image?",
+        "answer": "Bottle"
+      },
+      {
+        "question": "Are there any discernible solid ingredients or particles visibly embedded within the product, based on the provided image?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the image, does the bottle's design incorporate any visible text aside from labels and nutritional information?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent level of filling of the bottle, as determined directly from the visual evidence?",
+        "answer": "Full"
+      },
+      {
+        "question": "Based on the visual clarity of the bottle, is it transparent, translucent, or opaque?",
+        "answer": "Translucent"
+      },
+      {
+        "question": "Based on the image, are there any significant visual imperfections or damage observable on the bottle itself?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the visual attributes, does the product display a high level of gloss or shine?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the image show any external markings on the bottle beyond the label containing textual information?",
+        "answer": "No"
+      }
+    ]
+  }
+]

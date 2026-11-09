@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d7/d7efd37e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color scheme of the nutritional information panel?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the overall rectangular shape, what is the dominant orientation of the panel?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Observing the text, what is the font style used for 'Nutrition Facts'?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the primary unit of measurement used for various nutritional components?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the background color of the panel, providing a contrast to the text?",
+        "answer": "White"
+      },
+      {
+        "question": "Focusing on the quantitative data, what is the numerical value indicated for 'Calories' per serving?",
+        "answer": "120"
+      },
+      {
+        "question": "What is the descriptive term used to quantify the proportion of a nutrient relative to daily intake?",
+        "answer": "Percent"
+      },
+      {
+        "question": "Based on the text layout, what is the organizational structure used to present nutritional details?",
+        "answer": "Table"
+      },
+      {
+        "question": "In terms of the text arrangement, what is the most prominent element in terms of font size?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Observing the values next to the nutrients, what unit is associated with 'Cholesterol'?",
+        "answer": "Milligrams"
+      },
+      {
+        "question": "Regarding the textual information, what is the term used for sugars intrinsically present in the food?",
+        "answer": "Total"
+      },
+      {
+        "question": "Looking at the numerical data, how many grams of 'Total Fat' are present in a single serving?",
+        "answer": "Five"
+      },
+      {
+        "question": "What is the term used to specify the amount of a nutrient in relation to a daily recommended intake?",
+        "answer": "Daily"
+      },
+      {
+        "question": "Considering the layout and type of information, what is the overall purpose of this panel?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Examining the detailed information on sugars, what is the specific type of sugar highlighted?",
+        "answer": "Added"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1c/1cbf96eb.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the fabric shown in the image?",
+        "answer": "Indigo"
+      },
+      {
+        "question": "What textile is depicted, based purely on its visual characteristics?",
+        "answer": "Denim"
+      },
+      {
+        "question": "Considering the weave and texture, what is the apparent material type?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Describe the visual texture of the fabric; is it smooth or rough?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Based on the image, what is the overall appearance of the fabric's surface?",
+        "answer": "Woven"
+      },
+      {
+        "question": "What is the most noticeable pattern visible on the fabric's surface?",
+        "answer": "Twilled"
+      },
+      {
+        "question": "Considering the image, what is the predominant shade of the fabric?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Does the fabric appear to have a high or low thread count?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the apparent direction of the fabric's warp and weft threads?",
+        "answer": "Diagonal"
+      },
+      {
+        "question": "What subtle variations in color are discernible across the fabric?",
+        "answer": "Shades"
+      },
+      {
+        "question": "Describe the visible irregularities or imperfections in the fabric's weave?",
+        "answer": "Slight"
+      },
+      {
+        "question": "Is the fabric's texture uniform or variegated throughout the shown area?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What is the visual impression of the fabric's weight or density?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Describe the fabric’s visual level of sheen or glossiness",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging solely by the image, what is the fabric's apparent finish?",
+        "answer": "Washed"
+      }
+    ]
+  }
+]

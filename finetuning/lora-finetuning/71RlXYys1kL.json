@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9a/9a84771b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the primary color of the food product shown in the transparent package?",
+        "answer": "Red"
+      },
+      {
+        "question": "Based on its visual appearance and texture, what is the most likely form or preparation of this food item?",
+        "answer": "Slices"
+      },
+      {
+        "question": "Judging from the image, what appears to be the dominant texture of the food product contained within the packaging?",
+        "answer": "Layered"
+      },
+      {
+        "question": "Analyzing the image, what seems to be the primary material used for the outer packaging of this product?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "From a visual inspection, can you describe the general shape or form factor of the food item in its packaged state?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent general form or arrangement of the multiple pieces of the product?",
+        "answer": "Stacked"
+      },
+      {
+        "question": "Considering its visible attributes in the packaging, what would best describe the overall consistency of the product?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Given its visual characteristics, how would you describe the surface appearance of each individual piece in the food product?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "By examining the product's visual presentation, what is the implied level of processing for this food item?",
+        "answer": "Processed"
+      },
+      {
+        "question": "Based on its visual appearance, what is the apparent state of this food item, fresh, cooked, etc.?",
+        "answer": "Cooked"
+      },
+      {
+        "question": "Considering the visual elements present, what type of preparation of food is this product consistent with?",
+        "answer": "Meat"
+      },
+      {
+        "question": "Based on visual characteristics, what is the product's perceived level of moisture content?",
+        "answer": "Dry"
+      },
+      {
+        "question": "Judging from the image, what is the visible state of the food product?",
+        "answer": "Sliced"
+      },
+      {
+        "question": "Considering its appearance and shape, which adjective accurately describes this food product?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Observing the overall visual presentation, what is the apparent degree of translucency in the packaging?",
+        "answer": "Clear"
+      }
+    ]
+  }
+]

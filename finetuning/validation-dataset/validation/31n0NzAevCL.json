@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/20/208cee44.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the primary shape of the container holding the product?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What color is the dominant hue of the main body of the container?",
+        "answer": "White"
+      },
+      {
+        "question": "Observing the bottom section, what is the color of the flip-top cap?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Based on the visual texture, what is the apparent surface finish of the container?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the material most likely used to make the container based on its appearance?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What kind of text is prominently featured on the back of the container?",
+        "answer": "Instructional"
+      },
+      {
+        "question": "Describe the visual style of the text found on the product packaging.",
+        "answer": "Informative"
+      },
+      {
+        "question": "Is there a barcode visible on the package?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the size, what is the likely intended use of the contained product?",
+        "answer": "Personal"
+      },
+      {
+        "question": "Based on the container's design, what is the most probable dispensing method?",
+        "answer": "Squeeze"
+      },
+      {
+        "question": "What is the overall impression of the packaging design in terms of visual complexity?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Ignoring the text, what is the main color besides white and blue?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the visual state of the container – new or used?",
+        "answer": "New"
+      },
+      {
+        "question": "What is the apparent level of fill of the container?",
+        "answer": "Full"
+      },
+      {
+        "question": "What is the visual form of the cap?",
+        "answer": "Flip-top"
+      }
+    ]
+  }
+]

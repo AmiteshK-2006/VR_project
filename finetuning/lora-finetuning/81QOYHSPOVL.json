@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ce/cea02997.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color scheme of the label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary font style utilized for the prominent headings like 'Nutrition Facts'?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Describe the texture of the surface where the nutritional information is printed.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the shape of the individual blocks providing details for each nutrient?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the material that appears to constitute the label's base?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Based on the visual appearance, what is the overall layout design of the nutrition facts label?",
+        "answer": "Tabular"
+      },
+      {
+        "question": "What is the visual style of the percentages associated with each nutrient's daily value?",
+        "answer": "Numeric"
+      },
+      {
+        "question": "Focusing on the text, what is the method used to differentiate between headings and data values?",
+        "answer": "Bolding"
+      },
+      {
+        "question": "Describe the visual weight distribution across the nutritional data on the label.",
+        "answer": "Even"
+      },
+      {
+        "question": "What kind of visual cues are employed to highlight the 'Calories' information?",
+        "answer": "Size"
+      },
+      {
+        "question": "Is there any visible use of visual elements like icons or images on the label?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the alignment of the nutritional information within each rectangular block?",
+        "answer": "Left"
+      },
+      {
+        "question": "What is the visual prominence of the 'Serving Size' declaration on the label?",
+        "answer": "High"
+      },
+      {
+        "question": "Describe the visual clarity and legibility of the text on the label.",
+        "answer": "Clear"
+      },
+      {
+        "question": "Considering the entirety of the label's design, what is the overall impression it conveys?",
+        "answer": "Informative"
+      }
+    ]
+  }
+]

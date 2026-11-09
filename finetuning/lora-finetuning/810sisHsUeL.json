@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/22/2269cd04.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color of the packaging?",
+        "answer": "Grey"
+      },
+      {
+        "question": "What is the primary material visibly composing the flexible packaging?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on the text printed on the bag, what is the product's net weight?",
+        "answer": "1kg"
+      },
+      {
+        "question": "Observing the bag's design, what is the primary shape of the packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Does the bag display a brand name, and if so, what is it?",
+        "answer": "Vedaka"
+      },
+      {
+        "question": "Judging by the visual texture, what is the surface texture of the packaging?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What type of printing technique is predominantly used to display information on the bag?",
+        "answer": "Flexographic"
+      },
+      {
+        "question": "What is the general style or design of the text on the packaging in terms of its typography?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Does the bag include a prominent seal or closure mechanism?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Ignoring any text, considering the overall aesthetic, what style would you describe the bag's design as?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the orientation of the principal text on the package?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Based on the appearance, what is the perceived opacity of the packaging material?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Does the bag show any additional markings or symbols besides text?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the general condition of the packaging material, based on its visible condition?",
+        "answer": "New"
+      },
+      {
+        "question": "What is the visible position of the brand logo or name on the bag?",
+        "answer": "Top"
+      }
+    ]
+  }
+]

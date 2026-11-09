@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e1/e1f9c18a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the packaging visible in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of the food product's packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What kind of material appears to constitute the product's packaging?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the visual texture, what is the packaging's surface like?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What type of blend is indicated on the packaging, based on its label?",
+        "answer": "Pepper"
+      },
+      {
+        "question": "Based on the packaging, what is the preparation method suggested?",
+        "answer": "Microwave"
+      },
+      {
+        "question": "What is the most noticeable feature on the back of the package?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the cooking method explicitly shown besides microwaving?",
+        "answer": "Skillet"
+      },
+      {
+        "question": "Besides 'Skillet', what alternative cooking approach is specified on the bag?",
+        "answer": "Stovetop"
+      },
+      {
+        "question": "What is visible at the bottom right corner of the package?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "What certifications are shown on the packaging of the product?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the word directly above the 'Nutrition Facts' section?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Describe the graphic design style of the information on the packaging.",
+        "answer": "Simple"
+      },
+      {
+        "question": "What's the implied serving size for one portion, numerically?",
+        "answer": "20"
+      },
+      {
+        "question": "What's the color of the text 'Nutrition Facts' on the packaging?",
+        "answer": "Green"
+      }
+    ]
+  }
+]

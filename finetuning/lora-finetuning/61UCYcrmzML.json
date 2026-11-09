@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4a/4a5d14b7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the textual nature of the provided image, what is the primary language used in the provided text?",
+        "answer": "Japanese"
+      },
+      {
+        "question": "Focusing solely on the visual aspects, what is the dominant color palette observed throughout the image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Based on the image content, can you determine whether the textual material is handwritten or printed?",
+        "answer": "Printed"
+      },
+      {
+        "question": "In relation to the overall composition, can you define the structural organization of the text presented in the image?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Given the visual characteristics, what is the apparent density or compactness of the textual information within the image?",
+        "answer": "Dense"
+      },
+      {
+        "question": "From a visual standpoint, what kind of typeface or font style seems to be used in the presented text?",
+        "answer": "Serif"
+      },
+      {
+        "question": "Considering the visual appearance, what is the overall orientation or layout of the text within the image?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Regarding the visual attributes, what can you describe the average size of the characters or letters?",
+        "answer": "Small"
+      },
+      {
+        "question": "From visual analysis only, what kind of document does the image appear to represent?",
+        "answer": "Text"
+      },
+      {
+        "question": "By purely visual assessment, what is the apparent quality or clarity of the printed text?",
+        "answer": "Blurry"
+      },
+      {
+        "question": "Considering the presentation, is there any notable visual pattern or arrangement in the text beyond the basic lines?",
+        "answer": "None"
+      },
+      {
+        "question": "From a visual inspection, are there any evident symbols or punctuations in the text besides standard lettering?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on visual inspection, can you determine if any form of highlighting or emphasis is applied to the presented text?",
+        "answer": "No"
+      },
+      {
+        "question": "Analyzing the image visually, is there any visible damage or alteration affecting the readability of the text?",
+        "answer": "No"
+      },
+      {
+        "question": "Given solely the image, what is the background color or shade against which the text is presented?",
+        "answer": "White"
+      }
+    ]
+  }
+]

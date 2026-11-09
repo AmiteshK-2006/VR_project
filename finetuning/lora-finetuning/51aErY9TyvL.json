@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d6/d6596d35.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary ingredient explicitly stated on the product label?",
+        "answer": "Leaves"
+      },
+      {
+        "question": "Considering the text, what type of leaves are mentioned as the sole ingredient?",
+        "answer": "Bay"
+      },
+      {
+        "question": "Based on the text, where was this product manufactured or packaged?",
+        "answer": "Facility"
+      },
+      {
+        "question": "Aside from bay leaves, what other allergens are mentioned in the production note?",
+        "answer": "Nuts"
+      },
+      {
+        "question": "In addition to nuts, what other allergen is listed as processed in the same facility?",
+        "answer": "Milk"
+      },
+      {
+        "question": "What other grain is noted as being processed alongside nuts and milk?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "Besides wheat, which additional allergen shares the processing facility?",
+        "answer": "Soy"
+      },
+      {
+        "question": "What is the font style used for the ingredient information on the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the overall case (uppercase, lowercase, etc.) of the printed text?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "What color is the text on the image's label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the background color of the product's label?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe the text's alignment on the label (left, center, right, justified)?",
+        "answer": "Left"
+      },
+      {
+        "question": "What is the general format of the presented information (list, paragraph, etc.)?",
+        "answer": "List"
+      },
+      {
+        "question": "Considering the image, is there any imagery or logo included alongside the text?",
+        "answer": "No"
+      },
+      {
+        "question": "How many lines of text are visibly present on the label?",
+        "answer": "Three"
+      }
+    ]
+  }
+]

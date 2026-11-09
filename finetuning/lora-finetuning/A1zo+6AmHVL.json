@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/12/12f1e7c8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed fabric sample?",
+        "answer": "Olive"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent fabric type?",
+        "answer": "Suede"
+      },
+      {
+        "question": "Based on the image, what is the overall surface feel of the material?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Does the fabric exhibit a noticeable pattern or print?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the image, what is the main visual characteristic of this fabric?",
+        "answer": "Solid"
+      },
+      {
+        "question": "What kind of sheen or luster is observed on the fabric's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Describe the visual uniformity of the color across the fabric sample.",
+        "answer": "Even"
+      },
+      {
+        "question": "What is the apparent thickness or weight of the fabric sample shown?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Can you describe the visual granularity or texture of the surface?",
+        "answer": "Fine"
+      },
+      {
+        "question": "Based on the image, what is the visual impression of the fabric's drape?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the fabric sample in the image show any visible imperfections?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the implied primary use of this type of fabric?",
+        "answer": "Upholstery"
+      },
+      {
+        "question": "Judging by the image, how would you characterize the fabric's visual density?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Is there any discernible pile or nap visible on the fabric?",
+        "answer": "Short"
+      },
+      {
+        "question": "What is the general visual impression of the fabric's appearance?",
+        "answer": "Subdued"
+      }
+    ]
+  }
+]

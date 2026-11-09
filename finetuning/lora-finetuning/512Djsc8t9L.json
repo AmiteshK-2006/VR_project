@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f9/f9c54d2b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the USB adapter's casing, as visually apparent in the provided image?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the image, what type of USB connector is prominently featured on the adapter's larger end?",
+        "answer": "USB-A"
+      },
+      {
+        "question": "Based on the image, what specific type of USB connector is visible at the adapter's smaller end?",
+        "answer": "USB-C"
+      },
+      {
+        "question": "What is the apparent overall shape of this USB adapter, as directly observed in the product image?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Observing the image closely, what material appears to compose the main body of the USB adapter?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Judging from the image, what is the texture of the cable connecting the two USB ends?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What small symbol, clearly visible on the adapter's larger end, suggests its functionality?",
+        "answer": "Symbol"
+      },
+      {
+        "question": "Focusing on the larger connector's face, what color is the interior section of the USB-A port?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Based on visual inspection of the provided image, is the cable connecting the USB ends thick or thin?",
+        "answer": "Thin"
+      },
+      {
+        "question": "In the product image, can you determine the brand name printed on the smaller USB-C connector?",
+        "answer": "Belkin"
+      },
+      {
+        "question": "Examining the image, what is the apparent length of the cable connecting the two connectors?",
+        "answer": "Short"
+      },
+      {
+        "question": "What is the overall form factor of the USB adapter depicted in the image; is it compact or large?",
+        "answer": "Compact"
+      },
+      {
+        "question": "From a visual assessment of the image, is the design of the adapter sleek or bulky?",
+        "answer": "Sleek"
+      },
+      {
+        "question": "Based on the provided image, what is the apparent finish of the adapter casing: glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Describe the visibility of any noticeable markings or text besides the brand name on the adapter's body",
+        "answer": "Minimal"
+      }
+    ]
+  }
+]

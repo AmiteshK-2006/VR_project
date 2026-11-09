@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/42/42ae8fe4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the textual information provided in the image, what is the primary color additive mentioned?",
+        "answer": "Turmeric"
+      },
+      {
+        "question": "Based on the image's textual content, what is one of the listed ingredients acting as a flow agent?",
+        "answer": "Silicon"
+      },
+      {
+        "question": "What is one of the main carbohydrate components listed among the ingredients, according to the image?",
+        "answer": "Fructose"
+      },
+      {
+        "question": "As per the text in the image, what is identified as a vegetable-sourced ingredient?",
+        "answer": "Stearic"
+      },
+      {
+        "question": "What is identified as a vegetable-sourced ingredient that helps with product flow, according to the image's text?",
+        "answer": "Magnesium"
+      },
+      {
+        "question": "What is one of the additives mentioned in the image that helps in maintaining product texture?",
+        "answer": "Cellulose"
+      },
+      {
+        "question": "What is a potential allergen listed in the image's text due to shared production facilities?",
+        "answer": "Soy"
+      },
+      {
+        "question": "Considering the text in the image, name one flavoring agent present in the product?",
+        "answer": "Orange"
+      },
+      {
+        "question": "According to the textual information, what type of acid is used as an ingredient?",
+        "answer": "Stearic"
+      },
+      {
+        "question": "What is listed as a potential allergen due to cross-contamination in the facility described in the image?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "Based on the textual information, what is another potential allergen present due to shared facility processing?",
+        "answer": "Milk"
+      },
+      {
+        "question": "What is identified as a potential allergen in the image's text due to cross-contamination?",
+        "answer": "Fish"
+      },
+      {
+        "question": "What is a potential allergen listed in the text of the image due to shared facility processing?",
+        "answer": "Eggs"
+      },
+      {
+        "question": "What is another potential allergen present, based on the image's text, due to the facility's processing?",
+        "answer": "Nuts"
+      },
+      {
+        "question": "Based on the image's text, what is a potential allergen present due to shared processing in the facility?",
+        "answer": "Shellfish"
+      }
+    ]
+  }
+]

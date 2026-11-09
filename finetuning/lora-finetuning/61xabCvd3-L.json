@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/34/3458a67e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the device shown in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "What primary material appears to constitute the device's outer casing?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the device's shape, what geometric term best describes it?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "How many distinct ports are visibly present on the device's surface?",
+        "answer": "Two"
+      },
+      {
+        "question": "What type of USB port is positioned towards the bottom of the device?",
+        "answer": "USB-C"
+      },
+      {
+        "question": "What is the apparent finish of the device's exterior, glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Describing the overall texture, is it smooth or rough to the touch?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the color of the visible USB ports on the device?",
+        "answer": "Silver"
+      },
+      {
+        "question": "Is there any noticeable text or branding visible on the device's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the shape of the small, singular opening at the top of the unit?",
+        "answer": "Circular"
+      },
+      {
+        "question": "Considering the ports, what is the device's most likely function?",
+        "answer": "Charging"
+      },
+      {
+        "question": "What type of USB port is located in the upper-middle section of the device?",
+        "answer": "USB-A"
+      },
+      {
+        "question": "Observing the edges, are they sharply defined or rounded?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Does the device appear to have any visible screws or seams?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on its size and features, what is the device's probable use?",
+        "answer": "Adapter"
+      }
+    ]
+  }
+]

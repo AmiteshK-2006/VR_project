@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/40/40cc4f04.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color observed across the entire product surface?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the visible texture, what is the apparent surface finish of the material?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on the image, what kind of material appears to constitute the product?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Describe the overall visual texture perceived from the product's surface appearance?",
+        "answer": "Grainy"
+      },
+      {
+        "question": "Judging by the image, what is the most apparent visual characteristic of the material?",
+        "answer": "Rough"
+      },
+      {
+        "question": "If you were to touch the surface, how would you describe its tactile quality?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Does the image reveal any visible patterns or designs on the product's surface?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the general visual impression of the color depth or intensity?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Analyzing the image, does the product exhibit any noticeable sheen or gloss?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the image suggest any other colors aside from the prominent one?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the visual characteristics, what is the apparent weight of the material?",
+        "answer": "Light"
+      },
+      {
+        "question": "What is the overall visual impression of the product's surface?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Does the product's image show any noticeable imperfections or irregularities?",
+        "answer": "No"
+      },
+      {
+        "question": "How would you describe the subtle variations in the dark color?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "What is the overall visual form or shape of the product as presented?",
+        "answer": "Rectangular"
+      }
+    ]
+  }
+]

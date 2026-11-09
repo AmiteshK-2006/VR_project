@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0b/0b87dab0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual appearance, what dominant color best describes the primary shade of the item depicted in the provided image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Based on the image's texture, what is the apparent surface finish of the object, considering its visual properties?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging from the image, what is the most apparent geometric shape that defines the overall form of the pictured object?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "From the image alone, what material appears to be primarily used in the construction of the item in question?",
+        "answer": "Wood"
+      },
+      {
+        "question": "What is the visible arrangement or configuration of elements on the surface of the item, concerning its design?",
+        "answer": "Linear"
+      },
+      {
+        "question": "From the visual characteristics, is there any notable sheen or gloss evident on the surface of the product?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging by the image, what is the general visual quality and refinement of the item's construction, regarding the precision of its features?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Based on the visual impression, how would you characterize the item's overall visual appeal or aesthetic?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the apparent or visually suggested grain direction shown on the visible surface of the item?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Judging from the image alone, does the item appear to be made from a single piece of material, or multiple components?",
+        "answer": "Single"
+      },
+      {
+        "question": "What visual impression does the color and its saturation give about the item’s visual feel?",
+        "answer": "Subdued"
+      },
+      {
+        "question": "Considering the visible structure, is there evidence of any visible texturing, patterns, or markings on the surface?",
+        "answer": "None"
+      },
+      {
+        "question": "Based on the image, what is the general visual impression of the object's apparent weight or density?",
+        "answer": "Solid"
+      },
+      {
+        "question": "From a purely visual perspective, how would you characterize the size or scale of the item based on its image dimensions?",
+        "answer": "Tall"
+      },
+      {
+        "question": "Judging from visual cues, what level of reflectivity does the surface seem to exhibit?",
+        "answer": "Low"
+      }
+    ]
+  }
+]

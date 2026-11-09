@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/15/15ad5fbd.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary function explicitly stated on the product's label, visually confirmed in the image?",
+        "answer": "Sanitizer"
+      },
+      {
+        "question": "Considering the image, what is the predominant color of the bottle containing the product?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the image, what appears to be the shape of the hand sanitizer bottle?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Judging from the visual details, what is the apparent material of the bottle?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What flavor, indicated on the label and visually depicted in the image, is this hand sanitizer?",
+        "answer": "Mint"
+      },
+      {
+        "question": "Does the product's label show any graphical depiction of a lime, as visible in the provided image?",
+        "answer": "Yes"
+      },
+      {
+        "question": "According to the label image, what is the brand name printed on the hand sanitizer bottle?",
+        "answer": "365"
+      },
+      {
+        "question": "What specific type of mint is mentioned on the label image as a flavor component?",
+        "answer": "Mojito"
+      },
+      {
+        "question": "Based on the image, what is the approximate size of the product packaging, indicating a small or large format?",
+        "answer": "Small"
+      },
+      {
+        "question": "Considering the image and label, does the bottle have a flip-top or screw-on cap?",
+        "answer": "Flip-top"
+      },
+      {
+        "question": "Looking at the image, does the label feature any depictions of leaves related to the mint flavor?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the label have any text indicating the product volume in fluid ounces?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging by the image, is the label design primarily minimalistic or highly detailed?",
+        "answer": "Minimalistic"
+      },
+      {
+        "question": "Does the image show any noticeable text indicating the percentage of alcohol content?",
+        "answer": "Yes"
+      },
+      {
+        "question": "From the image, can you ascertain if the bottle's surface appears glossy or matte?",
+        "answer": "Matte"
+      }
+    ]
+  }
+]

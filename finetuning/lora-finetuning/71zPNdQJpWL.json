@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b3/b32ef7a9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the handbag, as visually apparent in the provided image?",
+        "answer": "Burgundy"
+      },
+      {
+        "question": "Judging solely from the image, what appears to be the primary material of the handbag's construction?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Based on the visual details, what is the overall shape of the presented handbag?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering only the visual appearance, what kind of closure mechanism does the handbag seem to possess?",
+        "answer": "Zip"
+      },
+      {
+        "question": "Does the image reveal any noticeable textural elements on the handbag's surface?",
+        "answer": "Stitched"
+      },
+      {
+        "question": "From the visual evidence, what type of handle does the handbag seem to have?",
+        "answer": "Double"
+      },
+      {
+        "question": "What style of strap, if any, is visible on the handbag in the provided image?",
+        "answer": "Shoulder"
+      },
+      {
+        "question": "What kind of embellishments or decorative elements, if any, are visible on the handbag?",
+        "answer": "Studs"
+      },
+      {
+        "question": "Observing the image carefully, does the bag appear to have any visible pockets or compartments on the exterior?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the general size or scale of the handbag relative to the model?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Does the visual inspection suggest any noticeable wear or damage on the handbag?",
+        "answer": "No"
+      },
+      {
+        "question": "Based purely on what can be seen in the picture, what is the apparent sheen or finish of the handbag's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "According to the visual data alone, what is the style of the bag's bottom?",
+        "answer": "Flat"
+      },
+      {
+        "question": "What is the apparent style of the handbag's top line, as suggested by the image?",
+        "answer": "Straight"
+      },
+      {
+        "question": "From the visible details alone, what appears to be the overall design aesthetic of the handbag?",
+        "answer": "Classic"
+      }
+    ]
+  }
+]

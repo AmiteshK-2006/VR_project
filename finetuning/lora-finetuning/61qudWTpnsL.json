@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2b/2baa88d6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the liquid inside the glass bottle, as prominently displayed on the product image?",
+        "answer": "Orange"
+      },
+      {
+        "question": "Considering the overall shape of the bottle, what geometrical term best describes its form, excluding the cap?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Based on the visible portion in the product image, what appears to be the material composition of the bottle?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Observing the label closely, what specific type of fruit is primarily highlighted in the product's description?",
+        "answer": "Peach"
+      },
+      {
+        "question": "What secondary fruit is depicted alongside the primary fruit on the label's illustration?",
+        "answer": "Melon"
+      },
+      {
+        "question": "Describe the texture of the label, based solely on the visual information presented in the image.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent finish of the glass bottle, as suggested by its reflective qualities in the product picture?",
+        "answer": "Shiny"
+      },
+      {
+        "question": "What kind of closure mechanism is visible atop the beverage bottle, as seen in the provided image?",
+        "answer": "Cap"
+      },
+      {
+        "question": "Considering the label design, what word immediately precedes \"Peach\" in the drink's name?",
+        "answer": "Melon"
+      },
+      {
+        "question": "What word follows \"Melon Peach\" on the label's central text, describing the product's type?",
+        "answer": "Soda"
+      },
+      {
+        "question": "What term, located on the upper label section, indicates that the product's ingredients are naturally grown?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What word, positioned near the bottom of the label, denotes the drink's origin?",
+        "answer": "Italy"
+      },
+      {
+        "question": "Disregarding the graphics, what additional word is present on the upper label, specifying a production detail?",
+        "answer": "Produced"
+      },
+      {
+        "question": "Based on the label design, what is the name of the brand producing this beverage?",
+        "answer": "Whole"
+      },
+      {
+        "question": "Describe the overall style of the labeling, taking into account the font and graphics style displayed on the bottle.",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

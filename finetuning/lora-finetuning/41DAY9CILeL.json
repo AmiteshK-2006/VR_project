@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a6/a6c72608.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall design, what single word best describes the format of the presented energy efficiency label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Focusing on the color-coded scale, what color represents the highest energy efficiency rating indicated?",
+        "answer": "Green"
+      },
+      {
+        "question": "What letter grade denotes the highest energy efficiency level shown within the visualized ranking scheme?",
+        "answer": "A"
+      },
+      {
+        "question": "Observing the visual representation of energy consumption, what is the numerical value shown for energy consumption per 1000 hours?",
+        "answer": "5,5"
+      },
+      {
+        "question": "Based on the visual depiction, what is the unit of measurement used to quantify energy consumption indicated on the label?",
+        "answer": "kWh"
+      },
+      {
+        "question": "What is the shape of each individual energy efficiency rating indicator within the provided color-coded bar graph?",
+        "answer": "Arrow"
+      },
+      {
+        "question": "In the context of energy consumption values, what is the lowest rating indicated on the visualized energy efficiency scale?",
+        "answer": "E"
+      },
+      {
+        "question": "What is the primary language used for the large text header on the provided energy label?",
+        "answer": "English"
+      },
+      {
+        "question": "Considering the color scheme, what is the color of the rating indicator representing the second-highest energy efficiency level?",
+        "answer": "Green"
+      },
+      {
+        "question": "Based solely on the visual information, what is the color of the energy efficiency rating that is selected or highlighted?",
+        "answer": "Black"
+      },
+      {
+        "question": "Examining the graphic, which other language is prominently displayed alongside the English text on the energy label?",
+        "answer": "Russian"
+      },
+      {
+        "question": "What is the color of the lowest energy efficiency rating indicator in the shown energy efficiency scale?",
+        "answer": "Red"
+      },
+      {
+        "question": "Considering the text on the energy label, what is one of the other languages besides English and Russian displayed?",
+        "answer": "Greek"
+      },
+      {
+        "question": "What is the background color of the energy label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the color of the border surrounding the energy label?",
+        "answer": "Blue"
+      }
+    ]
+  }
+]

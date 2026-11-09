@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d5/d5053e16.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the product's main body, as visually apparent in the image?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Considering the overall shape and design, what is the most accurate single-word description of the product's form factor?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material is primarily used for the product's carrying or attaching component, based purely on its appearance?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based solely on visual observation, what is the primary function or purpose of the carabiner-like attachment feature on the product?",
+        "answer": "Portable"
+      },
+      {
+        "question": "What is the apparent texture of the product's primary body, as directly observed from the image provided?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Disregarding any text, what is the most noticeable design element of the product's back panel, observable directly in the image?",
+        "answer": "Label"
+      },
+      {
+        "question": "Describe the visible shape of the product's dispensing component as shown directly in the photograph.",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Considering the complete visual presentation, what is the overall aesthetic style of this product, in one word?",
+        "answer": "Functional"
+      },
+      {
+        "question": "From visual inspection alone, what material seems to constitute the product's dispensing nozzle or tip?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on visual characteristics alone, what is the most apparent style of the container's top?",
+        "answer": "Hook"
+      },
+      {
+        "question": "What is the apparent color of the product's carrying or attaching mechanism, as depicted in the provided image?",
+        "answer": "Silver"
+      },
+      {
+        "question": "Based purely on visual assessment of the image, what kind of surface does the main container appear to have?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Focusing solely on visual attributes, what is the product's primary visible textual characteristic?",
+        "answer": "Print"
+      },
+      {
+        "question": "What is the overall size and scale of the item, visually determined in a single word?",
+        "answer": "Small"
+      },
+      {
+        "question": "Based on the visual elements, what is the most likely purpose of the transparent area on the product?",
+        "answer": "Liquid"
+      }
+    ]
+  }
+]

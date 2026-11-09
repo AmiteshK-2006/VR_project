@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/08/0821db11.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the nutritional information panel, predominantly observed in the text and borders?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the text's alignment, what is the general arrangement of the nutritional data presented on the panel?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the formatting style employed to distinctly separate the different nutritional components listed on the food label?",
+        "answer": "Columns"
+      },
+      {
+        "question": "In terms of font characteristics, what is the overall typeface utilized for displaying the nutrition facts?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Observing the labeling, what is the unit of measurement consistently used for quantifying the weight of the food item?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Based on the visible text, what is the specified serving size of this food product, presented as a quantity?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the descriptive term used on the label to indicate the quantity per package of the nutritional product?",
+        "answer": "Servings"
+      },
+      {
+        "question": "What is the primary unit used to measure the energy content of the food shown on the nutrition label?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Considering the labeling style, what is the term that denotes the proportion of daily nutrient intake provided by each serving?",
+        "answer": "Percentage"
+      },
+      {
+        "question": "What is the specific macro-nutrient highlighted as the primary source of calories indicated in the provided nutrition facts?",
+        "answer": "Fat"
+      },
+      {
+        "question": "What is the common mineral, listed among others on the nutritional label, that is essential for various bodily functions?",
+        "answer": "Sodium"
+      },
+      {
+        "question": "What vital nutrient, essential for energy production and cellular processes, is quantitatively shown on the nutritional label?",
+        "answer": "Carbohydrate"
+      },
+      {
+        "question": "What nutrient, relevant to maintaining healthy blood sugar levels, is included in the nutritional breakdown?",
+        "answer": "Sugars"
+      },
+      {
+        "question": "In the context of the food labeling, what component crucial for building and repairing tissues is measured and detailed?",
+        "answer": "Protein"
+      },
+      {
+        "question": "What essential micronutrient, playing a significant role in immune function, is explicitly mentioned in the nutritional details?",
+        "answer": "Vitamin"
+      }
+    ]
+  }
+]

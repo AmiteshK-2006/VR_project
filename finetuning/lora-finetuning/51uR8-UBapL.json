@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6d/6d77b28b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the capsule's body?",
+        "answer": "White"
+      },
+      {
+        "question": "What color is the visible band encircling the capsule?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the overall shape of the depicted pharmaceutical unit?",
+        "answer": "Capsule"
+      },
+      {
+        "question": "Considering the image, what appears to be the capsule's texture?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on visual inspection, what is the apparent material of the capsule?",
+        "answer": "Gelatin"
+      },
+      {
+        "question": "Does the capsule exhibit any visible markings beyond the band?",
+        "answer": "No"
+      },
+      {
+        "question": "How many distinct color sections are present on the capsule?",
+        "answer": "Two"
+      },
+      {
+        "question": "Judging by the image, what is the approximate length of the capsule in centimeters?",
+        "answer": "One"
+      },
+      {
+        "question": "Is the capsule depicted in the image showing a single unit or multiple?",
+        "answer": "Single"
+      },
+      {
+        "question": "Considering the image, is the capsule shown in a full-frontal view or angled?",
+        "answer": "Frontal"
+      },
+      {
+        "question": "What is the apparent size of the object relative to the ruler?",
+        "answer": "Small"
+      },
+      {
+        "question": "Describe the background color surrounding the capsule and ruler.",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What type of measuring instrument is used in the image?",
+        "answer": "Ruler"
+      },
+      {
+        "question": "What is the orientation of the capsule relative to the ruler?",
+        "answer": "Parallel"
+      },
+      {
+        "question": "Based solely on the image, is the capsule likely to be transparent or opaque?",
+        "answer": "Opaque"
+      }
+    ]
+  }
+]

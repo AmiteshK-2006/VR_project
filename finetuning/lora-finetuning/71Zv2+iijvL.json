@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/56/562f03df.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what is the primary visual characteristic of this item?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the apparent color scheme predominantly used throughout the visual?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the visual layout, what type of information is shown in the image?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the apparent font style predominantly used throughout the visual?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Judging by the visual appearance, what is the text's orientation or alignment?",
+        "answer": "Left"
+      },
+      {
+        "question": "What is the background color of the visual containing the printed information?",
+        "answer": "White"
+      },
+      {
+        "question": "What appears to be the visual texture of the surface on which the text is printed?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the visual density or spacing of the text within the presented visual.",
+        "answer": "Dense"
+      },
+      {
+        "question": "What is the general visual style of the text's presentation, such as formal or informal?",
+        "answer": "Formal"
+      },
+      {
+        "question": "Considering the overall visual composition, what is the text's visual weight or prominence?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "Describe the visual arrangement of the information; is it organized into columns or paragraphs?",
+        "answer": "Paragraphs"
+      },
+      {
+        "question": "Describe the visual clarity of the information presented in the image, such as clear or blurred?",
+        "answer": "Clear"
+      },
+      {
+        "question": "From the visual perspective, what is the apparent size of the text in relation to other elements?",
+        "answer": "Small"
+      },
+      {
+        "question": "Is there any visual indication of borders or frames surrounding the text?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the visual characteristics, is the overall style of the text presentation consistent?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

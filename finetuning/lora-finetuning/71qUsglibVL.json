@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b1/b170fad1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the nutrition facts label, primarily considering the text and background?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the overall layout, what is the most prominent textual element on the label?",
+        "answer": "Calories"
+      },
+      {
+        "question": "What is the numerical value directly associated with the 'Calories' label on the nutritional information panel?",
+        "answer": "120"
+      },
+      {
+        "question": "What is the unit of measurement used for the 'Serving size' indicated on the food label?",
+        "answer": "Tbsp."
+      },
+      {
+        "question": "What is the weight, in grams, listed for a single serving as indicated on the nutritional label?",
+        "answer": "14g"
+      },
+      {
+        "question": "Focusing on the 'Total Fat' section, what is the quantitative value presented in grams?",
+        "answer": "14g"
+      },
+      {
+        "question": "What is the percentage daily value (%DV) listed for 'Total Fat' on the nutrition label?",
+        "answer": "18%"
+      },
+      {
+        "question": "Regarding the 'Saturated Fat' section, what is the listed amount in grams?",
+        "answer": "2g"
+      },
+      {
+        "question": "What is the quantitative value, in grams, given for 'Polyunsaturated Fat' on the nutrition facts panel?",
+        "answer": "8g"
+      },
+      {
+        "question": "Observing the label, what is the value shown for 'Monounsaturated Fat' in grams?",
+        "answer": "4g"
+      },
+      {
+        "question": "What is the quantitative value, in milligrams, stated for 'Sodium' on the nutrition facts panel?",
+        "answer": "0mg"
+      },
+      {
+        "question": "What is the quantitative value stated for 'Total Carbohydrate' in grams on the nutrition label?",
+        "answer": "0g"
+      },
+      {
+        "question": "Observing the label, what is the quantitative value in grams given for 'Protein'?",
+        "answer": "0g"
+      },
+      {
+        "question": "What is the shape of the overall label, disregarding any minor irregularities or text?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the general texture implied by the appearance of the nutrition facts label?",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

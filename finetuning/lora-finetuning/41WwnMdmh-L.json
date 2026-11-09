@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8a/8af3eacc.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what is the primary subject depicted in the image?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the dominant color scheme used throughout the label's textual content?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on visual observation, what is the background color of the nutritional information panel?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the shape of the nutritional fact panel, considering its overall outline and borders?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the text's typeface or font style used for the nutritional values?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Describe the visual texture of the information panel: is it smooth, rough, or something else?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the layout, how is the nutritional information structured (e.g., columns, rows)?",
+        "answer": "Columns"
+      },
+      {
+        "question": "What units of measurement are predominantly used in the representation of nutritional values?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Examining the numerical values, what is the general measurement scale (e.g., single digits, double digits)?",
+        "answer": "Double"
+      },
+      {
+        "question": "What is the style of the numeric values (e.g., bold, italic)?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the visual weight of the 'Calories' value compared to other nutritional values?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "What are the primary visual elements used to separate different categories of nutrients?",
+        "answer": "Lines"
+      },
+      {
+        "question": "What is the visual appearance of the percentage daily values section (e.g., bold)?",
+        "answer": "Regular"
+      },
+      {
+        "question": "Are there any visual symbols or icons used to highlight certain nutritional facts?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the layout, what is the overall visual alignment of the text blocks?",
+        "answer": "Left"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/82/825bbc93.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's visual characteristics, what is the overall style of the lettering depicted in the provided image?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the visual details, what specific term is prominently displayed, indicating the nature of the product's ingredients?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Observing the image carefully, what type of sugar is explicitly mentioned as a component in the product?",
+        "answer": "Cane"
+      },
+      {
+        "question": "From a visual perspective, what is the precise spelling of the prominently displayed word signifying the product's contents?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What single word describes the visual color palette used in this image?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Analyzing the image, what is the visual condition of the text shown (e.g., its physical state)?",
+        "answer": "Printed"
+      },
+      {
+        "question": "What natural element is visually identified as an ingredient in this product?",
+        "answer": "Salt"
+      },
+      {
+        "question": "Based solely on visual observation, is the text aligned left, center, or right?",
+        "answer": "Left"
+      },
+      {
+        "question": "Considering the visual clarity, is the text shown clearly legible or difficult to read?",
+        "answer": "Legible"
+      },
+      {
+        "question": "What is the primary visual method used to convey the product's ingredient information?",
+        "answer": "Text"
+      },
+      {
+        "question": "From a visual assessment, is the font style in the image consistently uniform?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What word visually stands out as a certification or labeling detail?",
+        "answer": "Certified"
+      },
+      {
+        "question": "From the visual analysis, what is the case of the lettering used: uppercase, lowercase, or mixed?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "What kind of nut is explicitly mentioned visually as an ingredient?",
+        "answer": "Coconut"
+      },
+      {
+        "question": "Focusing on visual characteristics, what is the text's overall visual density: sparse, moderate, or dense?",
+        "answer": "Moderate"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fc/fc168483.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape and the clearly defined sections, what is the primary format of the presented nutritional information?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the prominently displayed numerical value representing the energy content of a single serving, typically expressed in kilocalories?",
+        "answer": "70"
+      },
+      {
+        "question": "Considering the font style used throughout, what is the general textual appearance of the nutritional information, considering its consistent formatting and capitalization?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What is the color of the text and numbers that provide specific details about the composition of the product, contrasting against the background?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the presence of various quantitative data points, how would you best describe the nature of the information provided?",
+        "answer": "Numerical"
+      },
+      {
+        "question": "What is the descriptor immediately preceding the amount of total fat, providing context to the following value?",
+        "answer": "Total"
+      },
+      {
+        "question": "In terms of textual organization, how are the diverse nutritional aspects, such as carbohydrates and proteins, organized, considering the use of separate rows?",
+        "answer": "Categorized"
+      },
+      {
+        "question": "What is the single word used to describe the serving size in terms of how the food is typically consumed, specifically mentioning a number of pieces?",
+        "answer": "Slices"
+      },
+      {
+        "question": "What is the weight of the food item in grams, as stated within the serving size description, representing the quantity of product in each serving?",
+        "answer": "56g"
+      },
+      {
+        "question": "What is the term used to indicate the quantity of servings that may be obtained from the entire container of the food product?",
+        "answer": "Servings"
+      },
+      {
+        "question": "What is the common unit of measurement used to denote the quantity of various components like sodium, and cholesterol in food composition?",
+        "answer": "mg"
+      },
+      {
+        "question": "What is the primary measurement used for the energy value of a single serving, representing calories per serving?",
+        "answer": "Calories"
+      },
+      {
+        "question": "What is the term used to specify the weight in ounces of the food item corresponding to the stated serving size?",
+        "answer": "Oz"
+      },
+      {
+        "question": "Considering the context of the text, what is the overarching label indicating that the displayed information pertains to the nutritional aspects of the food?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the unit of measurement applied to the protein content, indicating its mass in grams?",
+        "answer": "g"
+      }
+    ]
+  }
+]

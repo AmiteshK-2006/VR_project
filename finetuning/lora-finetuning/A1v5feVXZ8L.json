@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/24/249da108.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant visual texture displayed across the product's surface?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Considering the image, what is the primary color of the object shown?",
+        "answer": "Grey"
+      },
+      {
+        "question": "Based on the visual texture, what material is likely used in the product's construction?",
+        "answer": "Concrete"
+      },
+      {
+        "question": "What is the overall shape of the object, disregarding minor details?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "Describe the visual appearance of the bottom edge of the cylindrical form.",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What is the predominant visual pattern observed on the item's surface?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Considering the subtle variations in shade, how would you characterize the color's intensity?",
+        "answer": "Light"
+      },
+      {
+        "question": "What is the apparent finish of the outer surface of the item, as indicated by its visual appearance?",
+        "answer": "Matte"
+      },
+      {
+        "question": "From the image, what seems to be the general style of the product design?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Judging from its texture and coloring, what kind of visual effect does the surface produce?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "Does the product's surface display any obvious visual imperfections or irregularities?",
+        "answer": "No"
+      },
+      {
+        "question": "What single word best describes the overall visual impression of the item's surface?",
+        "answer": "Textured"
+      },
+      {
+        "question": "If you were to describe the surface design, what single term would best capture its essence?",
+        "answer": "Linear"
+      },
+      {
+        "question": "What is the visual impression of the product's surface regarding its smoothness?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Based on the visual evidence, what seems to be the overall visual weight of the item?",
+        "answer": "Heavy"
+      }
+    ]
+  }
+]

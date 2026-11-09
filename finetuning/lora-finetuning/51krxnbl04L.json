@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/72/72f6a469.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the textual information provided in the image, what is the primary ingredient?",
+        "answer": "Pork"
+      },
+      {
+        "question": "Based on the image's content, what secondary ingredient is explicitly mentioned after water?",
+        "answer": "Syrup"
+      },
+      {
+        "question": "Referring to the text, what additive is listed in the image as present in less than 2% of the product?",
+        "answer": "Salt"
+      },
+      {
+        "question": "According to the image, what other additive, besides salt, is listed among those present in less than 2% of the product?",
+        "answer": "Dextrose"
+      },
+      {
+        "question": "Based on the image's content, what is listed as one of the flavor enhancing additives?",
+        "answer": "Flavorings"
+      },
+      {
+        "question": "What preservative, as indicated in the image's text, is present in the product in small amounts?",
+        "answer": "BHA"
+      },
+      {
+        "question": "As shown in the image, what other additive is indicated as being present in a small quantity?",
+        "answer": "Gallate"
+      },
+      {
+        "question": "Based on the provided text, what acid is listed as an ingredient?",
+        "answer": "Citric"
+      },
+      {
+        "question": "What is the format of the presented information regarding the product's composition?",
+        "answer": "List"
+      },
+      {
+        "question": "What is the general topic that the image's text describes?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the overall style of the text presentation shown in the image?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Considering the text's font, what is its overall appearance?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Based on the image, what is the overall color scheme of the text?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the text within the image, how many additives are specified as being present in less than 2%?",
+        "answer": "Six"
+      },
+      {
+        "question": "What is the nature of the information found in the image?",
+        "answer": "Textual"
+      }
+    ]
+  }
+]

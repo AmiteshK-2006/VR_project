@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9e/9e181a98.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what is the primary color scheme predominantly used on the nutritional supplement facts label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the shape of the individual data sections within the nutrition facts panel, each displaying specific nutrient information?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Observing the text formatting on the label, what is the font style predominantly employed throughout the supplement facts?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on visual inspection, what is the orientation of the text blocks within the supplement facts label?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Disregarding the numerical values, what is the style of the textual units used for presenting the nutrient names?",
+        "answer": "Capitalized"
+      },
+      {
+        "question": "What is the dominant visual texture of the surface on which the nutrition information is printed?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall layout organization of the information blocks within the nutritional supplement facts panel?",
+        "answer": "tabular"
+      },
+      {
+        "question": "What is the general physical form of the informational content, as displayed on the product's label?",
+        "answer": "Printed"
+      },
+      {
+        "question": "Excluding numerical figures, what is the type of textual information presented to describe each item?",
+        "answer": "Alphanumeric"
+      },
+      {
+        "question": "In terms of visual appearance, what is the typical form of the numerical data values used for each listed item?",
+        "answer": "Numeric"
+      },
+      {
+        "question": "What is the visible visual characteristic of the line separating the sections of the nutrient list?",
+        "answer": "Straight"
+      },
+      {
+        "question": "What is the text alignment used for the majority of the textual content within each section?",
+        "answer": "Left"
+      },
+      {
+        "question": "Based on the visual information, what is the visual style of the headings (e.g., 'Serving Size') in the supplement facts panel?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the character style used for the units of measurement (e.g., mg, IU) shown within the nutrition information?",
+        "answer": "Standard"
+      },
+      {
+        "question": "Ignoring the numerical values, what is the text style used for the descriptions of the nutritional components?",
+        "answer": "Regular"
+      }
+    ]
+  }
+]

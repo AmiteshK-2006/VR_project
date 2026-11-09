@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c1/c15e9c9e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the provided text, what primary ingredient is explicitly listed as contained within this product?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "Based on the textual information, which allergenic substance is specifically mentioned as present in this product?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "According to the label, what additional ingredient is included aside from wheat flour and yeast?",
+        "answer": "Salt"
+      },
+      {
+        "question": "What type of flour is explicitly mentioned in the ingredients as a component of the bread flour?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "The label states that this product includes a type of malt; what is the specific grain used in that malt?",
+        "answer": "Barley"
+      },
+      {
+        "question": "Aside from wheat, what other grain is explicitly noted in the composition of the bread flour?",
+        "answer": "Barley"
+      },
+      {
+        "question": "What chemical compound, acting as a vitamin, is identified within the ingredient list?",
+        "answer": "Niacin"
+      },
+      {
+        "question": "What type of nutrient is listed, vital for red blood cell formation and oxygen transport?",
+        "answer": "Iron"
+      },
+      {
+        "question": "What vitamin of the B-complex group is present within the listed ingredients?",
+        "answer": "Riboflavin"
+      },
+      {
+        "question": "Referring to the label, which other B-vitamin, crucial for cell growth and function, is included?",
+        "answer": "Folic"
+      },
+      {
+        "question": "What is the term used to describe an additive present in the malt composition, a simple sugar?",
+        "answer": "Dextrose"
+      },
+      {
+        "question": "The label states that this product is made in a facility that also processes several allergens; name one of them.",
+        "answer": "Milk"
+      },
+      {
+        "question": "What is a common leavening agent explicitly included among the ingredients?",
+        "answer": "Yeast"
+      },
+      {
+        "question": "The label lists the product's ingredients, what is listed first in the bread flour blend?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "What other nut is listed as being potentially processed in the same facility as this product?",
+        "answer": "Peanut"
+      }
+    ]
+  }
+]

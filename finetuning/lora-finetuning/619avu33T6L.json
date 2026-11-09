@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/95/950ca9f6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular layout and the dense textual information presented, what is the dominant shape of this product's packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Focusing on the visual presentation of nutritional values, what is the primary color used for the text and numbers against the off-white background?",
+        "answer": "Black"
+      },
+      {
+        "question": "Given the clear organization and structured presentation of data within defined sections and columns, what is the primary format used for displaying information?",
+        "answer": "Table"
+      },
+      {
+        "question": "Observing the distinct segment at the top of this product information label, what is the title of the segment describing nutritional composition?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Examining the specific details regarding the recommended serving size, how many fluid ounces of the product constitute one serving?",
+        "answer": "Eight"
+      },
+      {
+        "question": "Analyzing the information on calories per serving displayed prominently, what is the numerical value of calories listed for one serving?",
+        "answer": "Forty"
+      },
+      {
+        "question": "Considering the detailed breakdown of macronutrients, what is the total amount of grams of fat present in one serving of this product?",
+        "answer": "Three"
+      },
+      {
+        "question": "Looking at the section regarding carbohydrates, what is the amount, in grams, of dietary fiber present in a single serving?",
+        "answer": "One"
+      },
+      {
+        "question": "Checking the composition details for protein, how many grams of protein does a single serving contain?",
+        "answer": "One"
+      },
+      {
+        "question": "Based on the clear typography and font styles used throughout the text, what is the overall style of the lettering?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Examining the detailed nutritional information provided, what is the amount of sodium, in milligrams, contained in one serving?",
+        "answer": "180"
+      },
+      {
+        "question": "Considering the overall look and feel of the product's label, what is the overall texture of the printed surface of the product?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the presentation of the percentages beside each nutritional value, what percentage of the recommended daily intake of Vitamin D is provided by one serving?",
+        "answer": "25"
+      },
+      {
+        "question": "Looking at the presented information, what is the unit of measurement used for the Vitamin A content?",
+        "answer": "mcg"
+      },
+      {
+        "question": "Considering the detailed breakdown of vitamins and minerals, what is the unit of measurement used for the calcium content?",
+        "answer": "mg"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9c/9c2b7972.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the external adapter casing, as visually apparent from the product image?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the image, what type of connector is prominently featured on the adapter's external surface?",
+        "answer": "VGA"
+      },
+      {
+        "question": "Based on the visual depiction, what material seems to constitute the majority of the cable's exterior?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Judging from the provided image, what is the geometric shape of the adapter's main body?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "As shown in the picture, what specific connector type is visible at the opposite end of the adapter's cable?",
+        "answer": "Mini-DisplayPort"
+      },
+      {
+        "question": "From the visual inspection of the provided image, what is the overall texture of the adapter's casing?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "In the image, what appears to be the dominant color of the connector pins on the VGA port?",
+        "answer": "Blue"
+      },
+      {
+        "question": "According to the visual representation, what is the length of the cable, in terms of its general description?",
+        "answer": "Short"
+      },
+      {
+        "question": "What appears to be the overall design style of the adapter, based on the visual evidence?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Based on its appearance in the image, describe the cable's flexibility.",
+        "answer": "Flexible"
+      },
+      {
+        "question": "What is the arrangement of the pins on the VGA connector as visibly depicted in the image?",
+        "answer": "Grid"
+      },
+      {
+        "question": "As observed from the image, is the cable's connection to the adapter fixed or detachable?",
+        "answer": "Fixed"
+      },
+      {
+        "question": "Referring to the visual details, what seems to be the finish of the adapter's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging by the image, is the adapter's design primarily characterized by curves or straight lines?",
+        "answer": "Straight"
+      },
+      {
+        "question": "What small details are visible on the Mini-DisplayPort connector, if any, as shown in the picture?",
+        "answer": "None"
+      }
+    ]
+  }
+]

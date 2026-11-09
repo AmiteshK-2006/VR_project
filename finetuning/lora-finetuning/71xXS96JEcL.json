@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/17/17352878.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the visible portion of the product?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary material apparent from the image's texture and translucence?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What word is repeatedly printed on each individual strip?",
+        "answer": "amazonbasics"
+      },
+      {
+        "question": "Describing the overall form factor of each individual piece, what shape are they?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the function suggested by the evenly spaced holes along the edge?",
+        "answer": "Binding"
+      },
+      {
+        "question": "Based on the visible surface, what is the general texture of the product?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent level of transparency or opacity of the sheets?",
+        "answer": "Translucent"
+      },
+      {
+        "question": "Considering the branding and apparent use, what is the likely purpose of this product?",
+        "answer": "Organizing"
+      },
+      {
+        "question": "Describe the style of the printed text on the sheets (e.g., serif, sans-serif)",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the color of the printed text on the plastic strips?",
+        "answer": "Black"
+      },
+      {
+        "question": "Judging from the image, how many individual strips are visibly present in the stack?",
+        "answer": "Eight"
+      },
+      {
+        "question": "What is the orientation of the text relative to the longer side of each strip?",
+        "answer": "Parallel"
+      },
+      {
+        "question": "Are the holes along the edge uniformly spaced and sized?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the image suggest a single or multiple-part product?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "Considering the visible attributes, is the product seemingly flexible or rigid?",
+        "answer": "Flexible"
+      }
+    ]
+  }
+]

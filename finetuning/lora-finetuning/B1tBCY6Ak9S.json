@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1d/1d3c70f2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric depicted in the provided image?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering the visible weave, what is the apparent texture of the fabric shown?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Based on the image's visual details, what kind of material does the fabric seem to be made from?",
+        "answer": "Linen"
+      },
+      {
+        "question": "Judging from the image's visual depiction, what is the general appearance of the fabric's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the most noticeable characteristic of the visible fabric threads, in terms of directionality?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the overall visual impression of the fabric sample, regarding its color uniformity?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Considering the image, what level of sheen does the depicted fabric appear to possess?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Can you describe the visual density of the weave, as observed in the provided image?",
+        "answer": "Tight"
+      },
+      {
+        "question": "Judging by the image, does the fabric seem to exhibit any visible patterns or designs?",
+        "answer": "None"
+      },
+      {
+        "question": "Based on the visual representation, what is the overall look and feel suggested by the fabric?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "What is the predominant visual direction of the fabric's structural elements?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Considering the close-up image, what can be said about the uniformity of the fabric's color?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "What seems to be the primary visual characteristic conveyed by the fabric's texture?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Does the fabric, in this particular image, appear to possess any noticeable irregularities?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the general visual impression of the fabric's color saturation?",
+        "answer": "Low"
+      }
+    ]
+  }
+]

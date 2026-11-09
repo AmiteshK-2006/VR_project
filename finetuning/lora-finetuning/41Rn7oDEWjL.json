@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/99/990c2248.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall lightness and darkness gradients, what is the predominant shade observed across the entire surface?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the most apparent visual effect, created by varying intensities of the primary shade, across the entire product's surface?",
+        "answer": "Gradient"
+      },
+      {
+        "question": "Based on the visual texture shown, what might be the material of the depicted item, considering its smooth appearance and reflective qualities?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Judging by the smooth transitions in tone, is the product's surface visibly rough or uniformly smooth?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the image's overall shape and proportions, what simple geometric form does it most closely resemble?",
+        "answer": "Rectangle"
+      },
+      {
+        "question": "Does the depicted object display any significant three-dimensional features, or is it predominantly flat in appearance?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Observing the edges, are they sharply defined or do they exhibit a softer, less precise outline?",
+        "answer": "Sharp"
+      },
+      {
+        "question": "Considering the image's clarity, how would you describe the overall level of detail shown?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "From the visual evidence provided, what are the most noticeable surface imperfections or irregularities shown on the object?",
+        "answer": "None"
+      },
+      {
+        "question": "Based on the image's color scheme, is the product characterized by a vivid chromatic range or does it exhibit a monochromatic nature?",
+        "answer": "Monochromatic"
+      },
+      {
+        "question": "Can you identify any discernible patterns, textures, or markings present across the surface of the object?",
+        "answer": "None"
+      },
+      {
+        "question": "Does the object's surface show evidence of visible wear, scratches, or discoloration?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering its shape and appearance, what could be a probable use or application for this object?",
+        "answer": "Decorative"
+      },
+      {
+        "question": "In terms of visual prominence, how noticeable are the object's boundaries or borders against the background?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Given the absence of any explicit features or designs, how would you describe the visual style of this product?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

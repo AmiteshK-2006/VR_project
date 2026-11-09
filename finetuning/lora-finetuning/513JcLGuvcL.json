@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ae/ae481bcb.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the container holding the product?",
+        "answer": "Cylinder"
+      },
+      {
+        "question": "What is the dominant color of the product's packaging?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary texture of the packaging?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What kind of printing or design is visible on the product's container?",
+        "answer": "Floral"
+      },
+      {
+        "question": "What is the apparent material of the product's packaging?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What type of writing appears on the product label?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What language is used for the product's ingredient list?",
+        "answer": "English"
+      },
+      {
+        "question": "What is the overall style of the product's labeling?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Does the product container have a lid or cap visible in the image?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What seems to be the consistency of the substance inside?",
+        "answer": "Liquid"
+      },
+      {
+        "question": "Are there any visible product certifications or seals?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the font type used for the text on the packaging?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Is the text on the label primarily uppercase or lowercase?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "What is the approximate height to width ratio of the product packaging?",
+        "answer": "Tall"
+      },
+      {
+        "question": "What is the overall feeling or impression created by the product's visual design?",
+        "answer": "Clean"
+      }
+    ]
+  }
+]

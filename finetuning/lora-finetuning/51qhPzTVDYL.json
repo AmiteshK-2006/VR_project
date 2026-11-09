@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8e/8e067820.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary substance listed in the prominent ingredients declaration on the displayed product label?",
+        "answer": "Whey"
+      },
+      {
+        "question": "What secondary ingredient, following whey protein isolate, is explicitly mentioned in the provided image of the product's label?",
+        "answer": "Lecithin"
+      },
+      {
+        "question": "Based on the visible text, what specific type of lecithin is included within this product, as indicated on the label?",
+        "answer": "Sunflower"
+      },
+      {
+        "question": "According to the visible label, what crucial allergen does this product contain, requiring clear notification?",
+        "answer": "Milk"
+      },
+      {
+        "question": "What is the style of the lettering for 'INGREDIENTS' as visibly displayed on the product label shown in the image?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the color of the text on the product label, as observed in the provided image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall background color of the product label shown in this image?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe the case of the text used for 'INGREDIENTS' and 'CONTAINS' on the food label shown in the provided image.",
+        "answer": "Upper"
+      },
+      {
+        "question": "What is the orientation of the text on the provided product label?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Considering the visual details, what is the formatting of the ingredient list on the product's label?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What punctuation mark follows 'Isolate' in the ingredient list shown in the provided image?",
+        "answer": "Comma"
+      },
+      {
+        "question": "Considering the provided image, what punctuation mark concludes the 'Ingredients' section of the label?",
+        "answer": "Period"
+      },
+      {
+        "question": "Based on the image, what is the typeface (or font) style of the text on the provided label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Describe the visual presentation of the text; is it cramped or spaced out on the label shown?",
+        "answer": "Spaced"
+      },
+      {
+        "question": "Describe the texture of the label's surface as observed in the provided image (assuming a printed label).",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

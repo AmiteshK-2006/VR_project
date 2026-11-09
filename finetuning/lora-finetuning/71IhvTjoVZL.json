@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e7/e7b6540c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual layout, what is the dominant textual element depicted on the presented nutritional facts label?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Based on the visual appearance, what is the primary color used for the text throughout the nutritional information panel?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the numerical value indicated for calories per serving, clearly visible near the bottom-left?",
+        "answer": "230"
+      },
+      {
+        "question": "Analyzing the visual structure, what is the prominent typeface used for the 'Nutrition Facts' heading?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the total number of servings per container, as depicted in the visual information?",
+        "answer": "Nine"
+      },
+      {
+        "question": "Focusing on the numerical data, what is the gram amount specified for total fat per serving?",
+        "answer": "Twelve"
+      },
+      {
+        "question": "Observing the layout, what is the unit of measurement consistently used for cholesterol values?",
+        "answer": "Milligrams"
+      },
+      {
+        "question": "What is the quantitative value assigned to dietary fiber, presented in grams, as visually observed?",
+        "answer": "Zero"
+      },
+      {
+        "question": "Examining the visual information, what is the unit of measure consistently used for vitamin D?",
+        "answer": "Micrograms"
+      },
+      {
+        "question": "Looking at the visual presentation of data, what is the percent daily value indicated for saturated fat?",
+        "answer": "Thirty-five"
+      },
+      {
+        "question": "From the visual text data, what is the total amount of protein, in grams, per serving?",
+        "answer": "Five"
+      },
+      {
+        "question": "What is the unit of measure displayed after sodium quantity on the nutritional label?",
+        "answer": "Milligrams"
+      },
+      {
+        "question": "Based solely on visual observation, what is the serving size specified in the given nutritional facts?",
+        "answer": "Half-cup"
+      },
+      {
+        "question": "What is the visible percentage daily value for potassium as shown within the nutritional label?",
+        "answer": "Four"
+      },
+      {
+        "question": "In the visual depiction, what is the format used to display the nutritional information?",
+        "answer": "Table"
+      }
+    ]
+  }
+]

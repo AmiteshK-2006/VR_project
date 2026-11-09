@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9c/9c332d54.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the textual information presented, what primary ingredient is prominently featured in this product?",
+        "answer": "Cucumbers"
+      },
+      {
+        "question": "Based on the visible text, what ingredient is specifically mentioned for providing color to the product?",
+        "answer": "Turmeric"
+      },
+      {
+        "question": "Observing the provided text, which acidic ingredient can be identified as a component?",
+        "answer": "Vinegar"
+      },
+      {
+        "question": "According to the label, which common cooking ingredient is included in its dehydrated form?",
+        "answer": "Garlic"
+      },
+      {
+        "question": "What is the likely purpose of the ingredient 'Calcium Chloride' as indicated on the label?",
+        "answer": "Preservative"
+      },
+      {
+        "question": "What text is presented prominently on the image, suggesting the nature of the content?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What flavor profiles might be imparted by the unidentifiable 'Natural Flavors' listed in the image?",
+        "answer": "Unknown"
+      },
+      {
+        "question": "What crucial additive is mentioned on the ingredients list, which is essential in culinary applications?",
+        "answer": "Salt"
+      },
+      {
+        "question": "Judging by the textual details provided, what is another important ingredient listed besides the already mentioned ones?",
+        "answer": "Water"
+      },
+      {
+        "question": "Based on the text, what is the descriptive qualifier used to characterize several of the ingredients?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Based on the provided text, which component is used as a textural enhancer, although its type remains unspecified?",
+        "answer": "Flavors"
+      },
+      {
+        "question": "From the label, how is the turmeric functionally categorized within the product?",
+        "answer": "Color"
+      },
+      {
+        "question": "What style of typography is predominantly adopted for the presentation of the text elements?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What form of description is used to present a complete listing of the individual parts that constitute this product?",
+        "answer": "List"
+      },
+      {
+        "question": "Considering the information in the image, what is the general nature of the listed compounds and items?",
+        "answer": "Ingredients"
+      }
+    ]
+  }
+]

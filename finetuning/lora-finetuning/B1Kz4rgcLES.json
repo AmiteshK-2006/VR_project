@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/56/5667c6fd.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed fabric sample?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the overall visual texture of the fabric sample?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Considering the weave structure, what kind of material is suggested?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Does the fabric exhibit a noticeable pattern or design?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the uniformity of the color across the fabric sample.",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Is there any visible sheen or glossiness on the fabric surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image, how tightly is the fabric woven?",
+        "answer": "Tightly"
+      },
+      {
+        "question": "Can you identify any visible imperfections or irregularities in the weave?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the visual appearance, what is the general weight of this fabric?",
+        "answer": "Medium"
+      },
+      {
+        "question": "From the image, does the fabric appear to be soft or stiff?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Considering the visual texture, what is the probable fiber type?",
+        "answer": "Unknown"
+      },
+      {
+        "question": "Does the weave show any visible slubs or unevenness in the yarn?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the appearance of the individual fibers in the fabric?",
+        "answer": "Intertwined"
+      },
+      {
+        "question": "Can you describe the directionality of the weave pattern?",
+        "answer": "Straight"
+      },
+      {
+        "question": "Does the sample display any prominent color variations within the gray?",
+        "answer": "No"
+      }
+    ]
+  }
+]

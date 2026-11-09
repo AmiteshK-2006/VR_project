@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/62/62b26aab.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant textual characteristic displayed prominently on the product?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Considering the overall text layout, what is the primary organizational structure used to present information?",
+        "answer": "List"
+      },
+      {
+        "question": "What is the most prevalent font style used across the entire text of the product?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the general color of the background on which the text is printed?",
+        "answer": "White"
+      },
+      {
+        "question": "In terms of the text's visual presentation, what is the overall color of the printed text?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the case used for the majority of the words within the product's description?",
+        "answer": "Title"
+      },
+      {
+        "question": "Ignoring punctuation, what is the most commonly appearing word in the text describing the item?",
+        "answer": "Corn"
+      },
+      {
+        "question": "Observing the text's visual properties, what is the size of the font used for the 'Ingredients' label?",
+        "answer": "Large"
+      },
+      {
+        "question": "Given the overall image, what is the text alignment used throughout the entire product information?",
+        "answer": "Left"
+      },
+      {
+        "question": "Regarding the visual aspects, what is the approximate number of lines of text used to list the item's ingredients?",
+        "answer": "Four"
+      },
+      {
+        "question": "Concerning the text's arrangement, what is the spacing between the words and lines of text?",
+        "answer": "Regular"
+      },
+      {
+        "question": "Based on visual inspection, what is the overall visual clarity of the printed text?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the text's apparent weight or boldness, considering its visual appearance?",
+        "answer": "Regular"
+      },
+      {
+        "question": "What is the overall texture or visual appearance of the surface upon which the text is printed?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Regarding the visual presentation, is the text consistently legible and easy to read?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

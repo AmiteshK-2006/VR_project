@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/04/04876da0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the textual information provided, what primary seafood ingredient is prominently featured in this product?",
+        "answer": "Salmon"
+      },
+      {
+        "question": "Based on the ingredient list, what type of rice is used in the preparation of this food item?",
+        "answer": "Arborio"
+      },
+      {
+        "question": "What type of cheese, as explicitly stated in the ingredients, is incorporated into this food product?",
+        "answer": "Mascarpone"
+      },
+      {
+        "question": "According to the provided text, what aromatic herb is included among the ingredients?",
+        "answer": "Basil"
+      },
+      {
+        "question": "What citrus fruit is listed among the ingredients of this food item?",
+        "answer": "Lemon"
+      },
+      {
+        "question": "From the ingredient list, identify a specific type of legume included in the recipe.",
+        "answer": "Peas"
+      },
+      {
+        "question": "What pungent vegetable is mentioned as part of the recipe's composition?",
+        "answer": "Garlic"
+      },
+      {
+        "question": "What dairy product, apart from cheese, is explicitly listed in the ingredient composition?",
+        "answer": "Cream"
+      },
+      {
+        "question": "Based on the provided text, what type of shellfish is explicitly mentioned as an ingredient?",
+        "answer": "Clam"
+      },
+      {
+        "question": "What acidic ingredient is explicitly included in the provided ingredients list?",
+        "answer": "Vinegar"
+      },
+      {
+        "question": "What other culinary herb is listed alongside basil and garlic in the recipe?",
+        "answer": "Fennel"
+      },
+      {
+        "question": "What common kitchen staple acts as a flavor enhancer and preservative, according to the text?",
+        "answer": "Salt"
+      },
+      {
+        "question": "What dairy ingredient, according to the text, is used to make the mascarpone cheese?",
+        "answer": "Milk"
+      },
+      {
+        "question": "According to the list of ingredients, what is the source of the clam juice?",
+        "answer": "Sea"
+      },
+      {
+        "question": "Based on the allergen warning, what common grain is mentioned as a potential cross-contaminant?",
+        "answer": "Wheat"
+      }
+    ]
+  }
+]

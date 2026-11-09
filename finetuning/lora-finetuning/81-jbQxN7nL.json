@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ce/ce30a72b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular layout, what is the dominant shape of this nutritional facts label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Observing the textual content, what is the primary subject of this detailed description?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Focusing on the color scheme, what is the predominant color used for the text and values?",
+        "answer": "Black"
+      },
+      {
+        "question": "Examining the text's visual presentation, what font style is consistently used throughout?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the appearance of the text blocks, what organizational method is used to structure the data?",
+        "answer": "tabular"
+      },
+      {
+        "question": "Regarding the material implied by the image, what physical medium would this information be printed on?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Analyzing the size, what is the approximate physical size of this nutritional information panel?",
+        "answer": "Small"
+      },
+      {
+        "question": "By observing the numbers, what is the total caloric value indicated per serving?",
+        "answer": "60"
+      },
+      {
+        "question": "Looking at the label elements, what is the unit of measurement for serving size?",
+        "answer": "Cup"
+      },
+      {
+        "question": "Considering the descriptive text, what nutrient is listed with the highest percentage daily value?",
+        "answer": "Fiber"
+      },
+      {
+        "question": "Examining the layout, what is the position of the 'Calories' section relative to the other sections?",
+        "answer": "Top"
+      },
+      {
+        "question": "Looking at the data presentation, what is the unit used to denote the weight of the serving?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Analyzing the textual elements, what is the name of the last nutrient listed?",
+        "answer": "Potassium"
+      },
+      {
+        "question": "Considering the font sizes, which numerical data has the largest font size?",
+        "answer": "60"
+      },
+      {
+        "question": "Focusing on the label's structure, what is the name of the section that provides a summary of nutrient content?",
+        "answer": "Nutrition"
+      }
+    ]
+  }
+]

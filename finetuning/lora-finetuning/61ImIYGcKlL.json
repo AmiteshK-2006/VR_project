@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/38/38f681d6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the primary geometrical shape exhibited by the container?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Observing the label's design, what color prominently features on the container's surface?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "Analyzing the visible text, what is the brand name explicitly displayed on the packaging?",
+        "answer": "Amazon"
+      },
+      {
+        "question": "Based on the image, what instruction is clearly stated regarding post-opening storage?",
+        "answer": "Refrigerate"
+      },
+      {
+        "question": "Examining the label's textual information, what is the predominant ingredient listed?",
+        "answer": "Cucumbers"
+      },
+      {
+        "question": "Focusing on the label's text, what type of food product does this item represent?",
+        "answer": "Pickles"
+      },
+      {
+        "question": "What is the visible barcode's general format, characterized by parallel lines and numbers?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Considering the label's overall design, is the primary text orientation vertical or horizontal?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the color of the primary text on the nutritional label, excluding graphic elements?",
+        "answer": "Black"
+      },
+      {
+        "question": "What kind of visual representation is prominently presented on the container, aside from textual data?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "Considering the container's appearance, what is the approximate number of visible sides?",
+        "answer": "Six"
+      },
+      {
+        "question": "Based on the image, does the container appear to be transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What material seems to be the most likely used for the product container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Judging by the visual elements, is the label's design simple or highly ornate?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Based on the text and image, what is the total number of servings as stated on the label?",
+        "answer": "Ten"
+      }
+    ]
+  }
+]

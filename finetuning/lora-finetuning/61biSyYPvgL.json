@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/53/53bea788.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form and arrangement of the visible components, what is the primary shape of the product as a whole?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the dominant color exhibited by the majority of the visible surface area of the product?",
+        "answer": "Pink"
+      },
+      {
+        "question": "Based on the visual texture and apparent consistency, what is the most likely material or substance constituting this item?",
+        "answer": "Meat"
+      },
+      {
+        "question": "Disregarding any packaging, what is the apparent textural quality of the product's surface, as observed in the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Given the visual evidence, what is the apparent state or condition of the product – fresh, cooked, or otherwise?",
+        "answer": "Raw"
+      },
+      {
+        "question": "What is the most noticeable type of visible marking or patterning on the visible parts of the product?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the apparent level of moisture or wetness on the surface of this product as depicted in this image?",
+        "answer": "Moist"
+      },
+      {
+        "question": "Does the image reveal any clear signs of artificial coloring or enhancement on the product itself?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging only by visual attributes, what is the likely culinary use or preparation method best suited for this product?",
+        "answer": "Cooking"
+      },
+      {
+        "question": "From a visual standpoint, does the image suggest a high degree of internal homogeneity or a varied internal structure within the item?",
+        "answer": "Homogeneous"
+      },
+      {
+        "question": "What is the visible packaging material encasing the product—plastic, paper, or other?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Does the image show any visible signs of damage, spoilage, or imperfection affecting the product's overall quality?",
+        "answer": "No"
+      },
+      {
+        "question": "Based purely on visual analysis, what is the approximate size range of the product within its package?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the primary method of presentation employed to display the product within the confines of its packaging?",
+        "answer": "Folded"
+      },
+      {
+        "question": "What is the apparent degree of cleanliness or hygiene demonstrated in the manner in which the product is presented?",
+        "answer": "Clean"
+      }
+    ]
+  }
+]

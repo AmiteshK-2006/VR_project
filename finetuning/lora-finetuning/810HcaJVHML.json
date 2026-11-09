@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e9/e9980ba7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the chair cover, as shown in the image?",
+        "answer": "Green"
+      },
+      {
+        "question": "What appears to be the primary material used for constructing this chair cover?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Considering the overall form, what is the most apparent shape of the product shown?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visible image, what is the texture of the chair cover's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the image, what seems to be the general style or design of the chair cover?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Examining the base, what color are the visible legs or supports of the chair cover?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the apparent function of this item, based on its visual attributes?",
+        "answer": "Protection"
+      },
+      {
+        "question": "In the provided image, what appears to be the level of detail in the product's design?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "Looking at the image, is the chair cover design visibly patterned or plain?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Does the image indicate the presence of any noticeable seams or stitching on the cover?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Observing the cover, how would you describe its overall fit or snugness?",
+        "answer": "Loose"
+      },
+      {
+        "question": "Based on the visible features, does the cover appear to have any added embellishments?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image's perspective, what is the cover's approximate height relative to its width?",
+        "answer": "Tall"
+      },
+      {
+        "question": "What is the visible state of the cover; is it new or used?",
+        "answer": "New"
+      },
+      {
+        "question": "Based on its appearance, is this cover suitable for indoor or outdoor use?",
+        "answer": "Outdoor"
+      }
+    ]
+  }
+]

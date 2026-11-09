@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f1/f1de27a5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the box's background, as shown in the image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What word prominently features on the box's front, indicating the product type?",
+        "answer": "Lasagne"
+      },
+      {
+        "question": "What is the apparent material of the outer packaging, based on its visual texture and appearance?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Considering the image, what is the overall shape of the product's packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What term on the packaging suggests the noodles' nature or quality?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What specific type of pasta is indicated on the packaging, as shown in the image?",
+        "answer": "Macaroni"
+      },
+      {
+        "question": "What is the color of the prominent text on the box, such as the product name?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Based on the image, what brand name is visible on the product's packaging?",
+        "answer": "365"
+      },
+      {
+        "question": "Describe the color scheme employed on the smaller rectangular blocks near the brand name.",
+        "answer": "Multicolored"
+      },
+      {
+        "question": "What is the apparent texture of the box's surface, as seen in the provided image?",
+        "answer": "SlightlyRough"
+      },
+      {
+        "question": "What word, in addition to 'Lasagne', describes the product type?",
+        "answer": "Product"
+      },
+      {
+        "question": "What design element separates the brand name from the other text on the box?",
+        "answer": "Lines"
+      },
+      {
+        "question": "What color is the smaller rectangular block to the left of the brand name?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the general orientation of the text on the packaging shown in the image?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the color of the smaller rectangular block to the right of the brand name?",
+        "answer": "Green"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ce/ce9f7eed.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the pictured piece of furniture?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary material used in its construction?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Describe the overall shape of the presented item based on its visible dimensions?",
+        "answer": "Cuboid"
+      },
+      {
+        "question": "Considering its design, what is the most apparent intended function of this object?",
+        "answer": "Storage"
+      },
+      {
+        "question": "What is the noticeable texture of the visible surfaces of this item?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "How many visible compartments or shelves does this furniture piece possess?",
+        "answer": "One"
+      },
+      {
+        "question": "What is the visible style of the edges or framing of the item?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Considering the image, is there any visible pattern or grain on the surface?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the apparent finish of the visible surfaces of this storage unit?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the object showcase any visible handles or knobs for access?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on its visual aspects, what is the size relative to human scale?",
+        "answer": "Small"
+      },
+      {
+        "question": "Does the item display any visible decorative elements or embellishments?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the visible construction, is the unit assembled or unassembled?",
+        "answer": "Assembled"
+      },
+      {
+        "question": "Judging by its appearance, what is the likely weight of this object?",
+        "answer": "Light"
+      },
+      {
+        "question": "Is the presented object a freestanding piece of furniture?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/31/31feb597.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's overall appearance, what is the primary color of the background on which the product information is printed?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the principal style of typeface used for the text detailing the product's ingredients and allergy advice?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Disregarding capitalization, what is the exact, single-word description of the main ingredient stated on the packaging?",
+        "answer": "Figs"
+      },
+      {
+        "question": "What is the single word adjective used to modify the product's primary ingredient?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Based on the text's presentation, what is the style in which potential allergen information is presented?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Considering the labeling's visual design, what is the single word that best describes the overall text layout?",
+        "answer": "Block"
+      },
+      {
+        "question": "Considering the text on the image, what is the single-word term used to describe the information concerning potential hazards to those with allergies?",
+        "answer": "Advice"
+      },
+      {
+        "question": "What single word best describes the overall texture of the printed surface (text and background)?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From the visual aspects of the text, what is the size of the text?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the overall visual impression of the legibility of the product's description?",
+        "answer": "Clear"
+      },
+      {
+        "question": "In what format is the text provided?",
+        "answer": "Lines"
+      },
+      {
+        "question": "Considering the visual attributes, what is the visual density of the written information presented?",
+        "answer": "Low"
+      },
+      {
+        "question": "What is the format used to list multiple ingredients, or allergy warnings?",
+        "answer": "List"
+      },
+      {
+        "question": "What is the case of the lettering used in the section of the packaging that identifies the product's ingredients?",
+        "answer": "Upper"
+      },
+      {
+        "question": "What is the color of the text?",
+        "answer": "Black"
+      }
+    ]
+  }
+]

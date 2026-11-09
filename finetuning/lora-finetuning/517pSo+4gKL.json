@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/24/2493889f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the primary text on the nutrition facts label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the overall layout, what is the shape of the nutrition facts panel?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary material or surface that the nutrition facts are printed on?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Based on the visual clarity, what is the overall text font style?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the most prominent descriptive term displayed on the product label?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Considering the layout of information, what is the format of the nutritional data presentation?",
+        "answer": "tabular"
+      },
+      {
+        "question": "In reference to the printed text size, how would you describe the size of the calorie count?",
+        "answer": "Large"
+      },
+      {
+        "question": "Considering the number of sections, how many separate nutritional categories are listed?",
+        "answer": "Eight"
+      },
+      {
+        "question": "Looking at the information's structure, what is the unit of measurement used for serving sizes?",
+        "answer": "Cups"
+      },
+      {
+        "question": "What is the prominent type of information presented in the largest font size?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Observing the text, what is the unit used to measure total fat content?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the descriptive term used for the milk's production process listed on the top line?",
+        "answer": "Pasteurized"
+      },
+      {
+        "question": "Regarding the text organization, what is the unit for measuring cholesterol content?",
+        "answer": "Milligrams"
+      },
+      {
+        "question": "Looking at the nutritional information's structure, what percentage of the daily value is calcium presented as?",
+        "answer": "25"
+      },
+      {
+        "question": "Considering the information's structure, what is the unit used to measure the sodium content?",
+        "answer": "Milligrams"
+      }
+    ]
+  }
+]

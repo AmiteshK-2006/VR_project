@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/13/13b73b74.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the primary geometric shape best describing the clutch's visible profile?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What color is predominantly displayed on the exterior surface of the displayed clutch?",
+        "answer": "Blush"
+      },
+      {
+        "question": "Based on visual texture, how would you categorize the apparent surface finish of the clutch?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What material appears to be used in the construction of the presented clutch based on visual observation?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Considering the closure mechanism, what type of fastening system seems to be employed on this clutch?",
+        "answer": "Snap"
+      },
+      {
+        "question": "Considering the overall style, what design aesthetic best reflects the clutch's visual features?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Is there any discernible pattern or design detail visibly present on the clutch's exterior?",
+        "answer": "No"
+      },
+      {
+        "question": "In terms of its visible features, what type of closure does the clutch appear to have?",
+        "answer": "Magnetic"
+      },
+      {
+        "question": "Judging from its appearance, what is the overall size of this clutch (small, medium or large)?",
+        "answer": "Small"
+      },
+      {
+        "question": "Based on the image, what is the apparent weight of the clutch (heavy, light, or medium)?",
+        "answer": "Light"
+      },
+      {
+        "question": "Describe the visible sheen of the clutch's material; is it matte, glossy, or satin?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the visible portion of the clutch exhibit any noticeable embellishments or decorative elements?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the handling, what is the perceived flexibility of the clutch (rigid or soft)?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Based on the visible seams, what is the construction method of this clutch (stitched or glued)?",
+        "answer": "Stitched"
+      },
+      {
+        "question": "Judging by its visual features, is the clutch primarily designed for formal or casual occasions?",
+        "answer": "Formal"
+      }
+    ]
+  }
+]

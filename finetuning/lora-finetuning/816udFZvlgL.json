@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bf/bf1d0814.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme used throughout the entire nutrition facts panel?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the overall layout, what is the primary textual orientation of the nutritional information?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Based on the visual presentation, what is the style of the numerical data in terms of its formatting?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Examining the structure of the text, what is the font type employed to list each nutritional element?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the general shape or geometry of the complete nutrition label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Looking at the visual elements, what is the background color of the nutritional fact panel?",
+        "answer": "White"
+      },
+      {
+        "question": "In terms of visual hierarchy, what is the size of the 'Calories' value relative to other values?",
+        "answer": "Larger"
+      },
+      {
+        "question": "What is the textual style applied to the title, \"Nutrition Facts\"?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Regarding the visual design, what is the style of the lines separating the categories within the panel?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Focusing on the text, what is the unit of measurement consistently used for the quantity of fat?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Observing the data, what is the unit of measurement for the cholesterol content?",
+        "answer": "Mg"
+      },
+      {
+        "question": "In terms of visual prominence, how is the percentage daily value indicated?",
+        "answer": "Smaller"
+      },
+      {
+        "question": "Considering the arrangement, what is the placement of the serving size information relative to other details?",
+        "answer": "Top"
+      },
+      {
+        "question": "What is the visual texture of the label, considering its overall surface appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the visual design, what is the font weight used for the 'Nutrition Facts' header?",
+        "answer": "Bold"
+      }
+    ]
+  }
+]

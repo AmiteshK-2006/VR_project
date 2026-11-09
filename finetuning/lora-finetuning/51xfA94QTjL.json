@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e8/e84333f0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form and arrangement of the visible elements, what is the dominant shape of this object as depicted in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the image's visual cues, what appears to be the primary color of this item?",
+        "answer": "Black"
+      },
+      {
+        "question": "Judging by the image's visual texture and sheen, what material is most likely used in the construction of the displayed object?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Analyzing the image's visual details, what is the most noticeable surface characteristic of the object shown?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the visual appearance of the item in the image, what can be identified as its principal design feature?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What seems to be the orientation of the object presented in the image, relative to the viewer?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Focusing on the visible elements, how many distinct sections or compartments can be observed on this product?",
+        "answer": "Three"
+      },
+      {
+        "question": "Based on the visual features of the item in the image, describe the apparent finish of the material in one word.",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Given the visual impression from the image, what best characterizes the overall look of the object shown?",
+        "answer": "Sleek"
+      },
+      {
+        "question": "Considering the visual representation, what is the apparent relative size of the item relative to a human?",
+        "answer": "Small"
+      },
+      {
+        "question": "Judging solely from its visual attributes, what is the most apparent visual function of this object?",
+        "answer": "Display"
+      },
+      {
+        "question": "Describe the visible spatial relationship between the three components of the product in the image.",
+        "answer": "Linear"
+      },
+      {
+        "question": "Considering the visual attributes, what is the perceived state of the depicted object—new or used?",
+        "answer": "New"
+      },
+      {
+        "question": "What term best describes the implied visual weight or density of this object?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "Given the image's visual indications, how would you characterize the visual complexity of the product's design?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/54/54531078.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual layout, what is the dominant orientation of the presented information within the image?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the primary function indicated by the textual content in this image?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Considering the font style, what kind of text is predominantly used throughout the image?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the text blocks, what is the predominant visual characteristic of each line of text?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Observing the text, what is the general color scheme of the textual information presented in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the text's visual texture, considering the typeface and its apparent printing method?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Regarding the visible text, what is the size of the lettering relative to the available space within the image's boundaries?",
+        "answer": "Small"
+      },
+      {
+        "question": "Given the overall composition, what is the perceived spatial arrangement of textual elements within the rectangular frame?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Considering the type of information given, what is the category of this text, e.g., instructions, details, warnings, etc.?",
+        "answer": "Details"
+      },
+      {
+        "question": "Focusing on the text, what is the overall visual weight or prominence of the text in relation to the background?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "What is the visual state of the text, i.e., crisp, blurry, faded, etc.?",
+        "answer": "Crisp"
+      },
+      {
+        "question": "What is the apparent print method used for the provided textual information in the picture?",
+        "answer": "Digital"
+      },
+      {
+        "question": "Regarding the style and appearance of the text blocks, how is the information visually organized and presented?",
+        "answer": "Paralleled"
+      },
+      {
+        "question": "Considering the visual presentation of the text, what is its overall visual clarity or legibility?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the visual contrast between the text and the background in the given image?",
+        "answer": "High"
+      }
+    ]
+  }
+]

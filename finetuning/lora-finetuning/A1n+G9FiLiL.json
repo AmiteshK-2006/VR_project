@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/15/15bf3e13.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the image?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the overall texture of the presented fabric sample?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Describe the visual appearance of the fabric's weave pattern?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What kind of fiber does the fabric appear to be constructed from?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "Considering the image's close-up view, how would you describe the fabric's grain?",
+        "answer": "Even"
+      },
+      {
+        "question": "Based solely on the visual evidence, what is the fabric's general feel?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the image, is there a noticeable pattern or design in the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "What level of sheen or glossiness does the fabric display in the close-up?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging by the image, how would you characterize the thickness or weight of the fabric?",
+        "answer": "Medium"
+      },
+      {
+        "question": "From the visual characteristics of this image, what is the fabric's apparent density?",
+        "answer": "High"
+      },
+      {
+        "question": "Does the image show any visible imperfections or flaws in the fabric's weave?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image, does the fabric appear to have a directionality?",
+        "answer": "No"
+      },
+      {
+        "question": "If you were to describe the overall visual style of the fabric, what would it be?",
+        "answer": "Plain"
+      },
+      {
+        "question": "In terms of its look, how would you classify the color variation in the fabric?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Observing the visible fibers, what is the fabric's apparent level of translucency?",
+        "answer": "Opaque"
+      }
+    ]
+  }
+]

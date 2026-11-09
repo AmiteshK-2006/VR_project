@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/81/818958af.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the textual information displayed, what primary ingredient is prominently featured in this product?",
+        "answer": "Cornmeal"
+      },
+      {
+        "question": "Based on the visible text, what type of oil is used as a component in this product's composition?",
+        "answer": "Vegetable"
+      },
+      {
+        "question": "As indicated by the label, what specific variety of cheese is a key component of this item's flavor profile?",
+        "answer": "Cheddar"
+      },
+      {
+        "question": "According to the textual details, what dairy derivative is included in the ingredient list?",
+        "answer": "Whey"
+      },
+      {
+        "question": "What type of plant-based extract is added for color enhancement, as shown in the text?",
+        "answer": "Annatto"
+      },
+      {
+        "question": "As per the label, what additional spice extract is utilized to contribute to the product's coloring?",
+        "answer": "Turmeric"
+      },
+      {
+        "question": "Does the displayed text list 'Milk' as a potential allergen or component?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What specific type of salt is mentioned amongst the ingredient list?",
+        "answer": "Sea"
+      },
+      {
+        "question": "Based on the text, what dairy byproduct is part of the product's formulation?",
+        "answer": "Buttermilk"
+      },
+      {
+        "question": "The text mentions 'Cheese Cultures'; what is the role of these cultures in cheesemaking?",
+        "answer": "Fermentation"
+      },
+      {
+        "question": "The image text mentions 'Enzymes'; what role do these play in cheese production?",
+        "answer": "Coagulation"
+      },
+      {
+        "question": "What is listed in the text as a component of the butter in this product?",
+        "answer": "Cream"
+      },
+      {
+        "question": "What additional flavor is mentioned in the ingredients list?",
+        "answer": "Natural"
+      },
+      {
+        "question": "Considering the text,  what is the preparation method of the cheddar cheese in the ingredients?",
+        "answer": "Pasteurized"
+      },
+      {
+        "question": "What is stated in the text as being contained in this product?",
+        "answer": "Milk"
+      }
+    ]
+  }
+]

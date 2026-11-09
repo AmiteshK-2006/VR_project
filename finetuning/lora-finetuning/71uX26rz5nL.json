@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/13/13fe089b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular layout and text organization, what is the dominant shape of the depicted nutrition facts label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Examining the font style used for 'Nutrition Facts,' what best describes its visual appearance?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Focusing on the color palette, what is the predominant shade used for the background of this nutrition label?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the visual texture, how would you describe the surface of the nutrition facts label itself?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the text's arrangement, what is the primary method used to organize and present the nutritional information?",
+        "answer": "tabular"
+      },
+      {
+        "question": "Given the visual prominence of the caloric data, what is the numerical value displayed for the 'Calories' per serving?",
+        "answer": "130"
+      },
+      {
+        "question": "Considering the distinct visual sections, what is the name of the section clearly shown at the top of this label?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Based on the visual presentation of numerical data, what is the percentage daily value indicated for 'Total Fat'?",
+        "answer": "8%"
+      },
+      {
+        "question": "Considering the visual style of the text, what is the unit of measurement shown alongside the 'Total Fat' value?",
+        "answer": "g"
+      },
+      {
+        "question": "By observing the visual hierarchy, what is the name of the section where the 'Total Sugars' value is visually presented?",
+        "answer": "Carbohydrate"
+      },
+      {
+        "question": "Observing the detailed numerical values, what is the amount of 'Protein' listed per serving, in grams?",
+        "answer": "1"
+      },
+      {
+        "question": "Looking at the visual display of the nutritional components, what is the vitamin shown with its corresponding percentage daily value?",
+        "answer": "D"
+      },
+      {
+        "question": "Considering the text's visual clarity, what mineral is listed with 'Omg' and its percentage daily value?",
+        "answer": "Calcium"
+      },
+      {
+        "question": "Based on the visual presentation of the footnote, what is the daily calorie intake reference used for the percentage values?",
+        "answer": "2000"
+      },
+      {
+        "question": "Examining the visual layout, what term describes the overall informational purpose of this visual product?",
+        "answer": "Facts"
+      }
+    ]
+  }
+]

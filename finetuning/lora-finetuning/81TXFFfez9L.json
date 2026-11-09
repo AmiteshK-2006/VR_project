@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/98/980956c7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color scheme employed in this product's packaging?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the image, what primary font style is predominantly used for the text elements?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What specific type of information is prominently displayed across the majority of the presented surface area?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Observing the visual structure, what is the format in which the nutritional data is arranged?",
+        "answer": "Table"
+      },
+      {
+        "question": "Focusing on the textual content, what metric is highlighted and quantified for both \"as packaged\" and \"prepared\" states?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Regarding the visual layout, what is the arrangement style of the values within each nutrient category?",
+        "answer": "Columns"
+      },
+      {
+        "question": "What are the units used to quantify the amount of total fat present in this food product?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the formatting convention for the percentages next to each macronutrient in the image?",
+        "answer": "Numerical"
+      },
+      {
+        "question": "Within the context of the nutritional information, which mineral's quantity is notably displayed?",
+        "answer": "Potassium"
+      },
+      {
+        "question": "Based on visual observation, what is the orientation of the text blocks containing the nutritional data?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the general visual tone or style conveyed by the design of this food product's label?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Does the image depict any visual elements besides text, such as logos or graphics?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the visual texture of the surface area on which the nutritional information is printed?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Focusing on the visual aspects of the image, what is the general condition of the nutritional information presented?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Observing the numerical values, what is the range of values used to represent the percentage of daily value?",
+        "answer": "Numerical"
+      }
+    ]
+  }
+]

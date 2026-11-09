@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/75/7504a06c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual texture, what is the dominant surface feel of the fabric?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Based on the image's color profile, what single word best describes the fabric's shade?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Judging solely from the visual appearance, what is the apparent material composition of the fabric?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "From the image's visual details, what's the most apparent weave style of the fabric?",
+        "answer": "Knit"
+      },
+      {
+        "question": "Analyzing the visual uniformity, how would you describe the fabric's overall pattern?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Considering the visual density of the fibers, what term best describes the fabric's weight?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Judging by the visual appearance of the fibers, what is the fabric's likely level of softness?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Based on the visible characteristics, how would you describe the fabric's visual drape?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Given the image, what's the most noticeable visual characteristic of the fiber arrangement?",
+        "answer": "Interwoven"
+      },
+      {
+        "question": "What's the predominant color nuance observed in the fabric's visual presentation?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "From the image, what's the overall visual impression of the fabric's thickness?",
+        "answer": "Moderate"
+      },
+      {
+        "question": "What's the visible state of the fabric’s surface: smooth or rough?",
+        "answer": "Rough"
+      },
+      {
+        "question": "From the image, describe the visual clarity of the fabric’s texture",
+        "answer": "Clear"
+      },
+      {
+        "question": "Does the fabric appear to have any discernible sheen in the provided image?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the apparent visual finish of the fabric's surface?",
+        "answer": "Frosted"
+      }
+    ]
+  }
+]

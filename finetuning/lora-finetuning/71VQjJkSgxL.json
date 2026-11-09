@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3e/3e42b7aa.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the container's label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of the product container?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What material appears to constitute the product container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the primary text color on the label's nutrition facts section?",
+        "answer": "Black"
+      },
+      {
+        "question": "What prominent brand logo is displayed on the container?",
+        "answer": "WholeFoods"
+      },
+      {
+        "question": "What is the general texture of the container's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describing the label's design style, is it modern or vintage?",
+        "answer": "Vintage"
+      },
+      {
+        "question": "What is the color of the small design elements on the label?",
+        "answer": "Green"
+      },
+      {
+        "question": "What type of information is prominently featured on the label?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Is the label predominantly featuring graphics or text?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the overall tone of the label's design?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "What kind of seal or certification mark is visible?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Does the container have a visible lid or closure?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is the text on the label predominantly serif or sans-serif?",
+        "answer": "Serif"
+      },
+      {
+        "question": "Considering the graphics, is the overall aesthetic minimalist or detailed?",
+        "answer": "Detailed"
+      }
+    ]
+  }
+]

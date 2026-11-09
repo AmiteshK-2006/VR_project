@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9f/9f29875e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the textual content displayed, what is the primary ingredient explicitly mentioned on the label?",
+        "answer": "Avocado"
+      },
+      {
+        "question": "What is the overall textual format used to present the ingredient information, in terms of its capitalization and arrangement?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Based on the visual appearance, what seems to be the background color of the label on which the text is printed?",
+        "answer": "White"
+      },
+      {
+        "question": "Disregarding any other text, what is the font style used for the word 'Ingredients'?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Focusing solely on the visual aspects, what is the text alignment employed for the ingredient details?",
+        "answer": "Left"
+      },
+      {
+        "question": "Judging by the image, what appears to be the general style and tone of the label's typography?",
+        "answer": "Simple"
+      },
+      {
+        "question": "In reference to the label's visual properties, what is the visible texture of the labeling surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What can you visually confirm as the primary color used in the printed text detailing the ingredients?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the case of the letters forming the words 'Persea Gratissima' in the provided image?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Based on the image, how is the word 'oil' presented in the labeling context, in terms of its letter case?",
+        "answer": "Lowercase"
+      },
+      {
+        "question": "If only relying on what is visible, what appears to be the overall visual impression of the label's design and layout?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Ignoring additional details, what is the apparent style of the parentheses surrounding 'avocado' in the displayed label?",
+        "answer": "Standard"
+      },
+      {
+        "question": "From a visual standpoint, how many lines of text are used to explicitly display the ingredients information?",
+        "answer": "Two"
+      },
+      {
+        "question": "Focusing on what is visually observable, what appears to be the overall contrast between the text and background?",
+        "answer": "High"
+      },
+      {
+        "question": "Considering only visible aspects, how many words comprise the full ingredient information listed?",
+        "answer": "Four"
+      }
+    ]
+  }
+]

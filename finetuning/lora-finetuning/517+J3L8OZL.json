@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e7/e7552fa5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what is the dominant color scheme employed in this product's labeling?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary textual information conveyed on the label, focusing on the product's composition?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Disregarding decorative elements, what is the typeface style predominantly used for the label's text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the color contrast, what is the hue of the textual information printed on the label?",
+        "answer": "Black"
+      },
+      {
+        "question": "In terms of its visual structure, what is the overall geometric form of the label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Observing the text alignment, how is the content arranged vertically along the label?",
+        "answer": "Centered"
+      },
+      {
+        "question": "Based on the visual appearance of the text, what is the apparent weight or thickness of the font used?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Analyzing the texture, is the label's surface visibly smooth or rough to the touch (inferred from the image)?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Regarding the text's visual density, is the textual information sparsely or densely populated on the label?",
+        "answer": "Sparse"
+      },
+      {
+        "question": "What is the material that appears to be used as the primary substrate for this product's labeling?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Is there any noticeable embossing or debossing technique applied to the label's surface?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the overall presentation, what can be observed regarding the presence or absence of any imagery on the label?",
+        "answer": "None"
+      },
+      {
+        "question": "Examining the label's borders, what can be said about the visual style of its edge treatment?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What specific type of information is prominently featured, concerning the product's contents?",
+        "answer": "Soybeans"
+      },
+      {
+        "question": "What is the general condition of the labeling, in terms of visible damage or wear?",
+        "answer": "Clean"
+      }
+    ]
+  }
+]

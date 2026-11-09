@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a3/a31407e8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the nutritional information panel, primarily considering the background and text?",
+        "answer": "Green"
+      },
+      {
+        "question": "Considering the textual layout, what is the primary organizational method used to present the nutritional information?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the shape of the outlined box containing the supplemental facts?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the material of the surface on which the nutritional information is printed?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the font style predominantly used for the labels and values within the nutritional information?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What measurement unit is used to denote the serving size of this product?",
+        "answer": "Ounces"
+      },
+      {
+        "question": "What is the textual descriptor indicating the total amount of servings contained within the product packaging?",
+        "answer": "Container"
+      },
+      {
+        "question": "What is the specific type of juice, indicated as extracted from a concentrated source, listed near the bottom?",
+        "answer": "Cranberry"
+      },
+      {
+        "question": "What term is used to quantify the relative contribution of a nutrient to the recommended daily intake?",
+        "answer": "Daily"
+      },
+      {
+        "question": "What unit is used to express the amount of sodium, in milligrams, present in one serving of this product?",
+        "answer": "Milligrams"
+      },
+      {
+        "question": "What is the numeric value representing the percentage of the daily recommended value for sodium in one serving?",
+        "answer": "One"
+      },
+      {
+        "question": "What unit is used to quantify total carbohydrates in a single serving, based on the image?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What ingredient is indicated as an integral part of this product, listed as coming from a whole leaf?",
+        "answer": "Aloe"
+      },
+      {
+        "question": "What type of juice is mentioned as filtered from its original source?",
+        "answer": "Aloe"
+      },
+      {
+        "question": "What is the specific unit of measurement employed to quantify the volume of organic whole leaf content?",
+        "answer": "Milliliters"
+      }
+    ]
+  }
+]

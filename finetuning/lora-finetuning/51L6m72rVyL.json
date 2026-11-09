@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/19/193096c4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary ingredient explicitly mentioned on the product label, which is visually prominent?",
+        "answer": "Poppy"
+      },
+      {
+        "question": "Considering the label's text, what is the single-word description of the seed type prominently featured?",
+        "answer": "Seed"
+      },
+      {
+        "question": "Based on the visible text, what single word best describes the manufacturing process's location?",
+        "answer": "Facility"
+      },
+      {
+        "question": "What is the single word describing one of the other ingredients processed in the same facility?",
+        "answer": "Nuts"
+      },
+      {
+        "question": "What single-word type of allergen is mentioned as processed in the same facility?",
+        "answer": "Milk"
+      },
+      {
+        "question": "Name the grain type from the product label processed at the same site in a single word.",
+        "answer": "Wheat"
+      },
+      {
+        "question": "What single word represents the other allergen processed at the manufacturing facility?",
+        "answer": "Soy"
+      },
+      {
+        "question": "What is the single word describing the overall style of the printed label's text?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What single-word descriptor best describes the label's background color?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe the font color used for the textual information on the label using a single word.",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall case of the visible text on the label, described in a single word?",
+        "answer": "Upper"
+      },
+      {
+        "question": "Considering the visible details, what is the single-word descriptor of the label's orientation?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the single word describing the apparent style of the textual information?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Give a single-word description of the text alignment displayed on the food label.",
+        "answer": "Left"
+      },
+      {
+        "question": "Focusing on the visual presentation, what single word indicates the text's density?",
+        "answer": "Dense"
+      }
+    ]
+  }
+]

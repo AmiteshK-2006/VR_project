@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6b/6bd83859.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the container holding the product, considering its design and dimensions?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the predominant color of the bottle's main body, excluding the cap and label?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What material appears to compose the primary container for the product, based on its visual properties?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What color is the cap or lid on top of the product's container?",
+        "answer": "Black"
+      },
+      {
+        "question": "Describe the texture of the bottle's surface, considering its visible smoothness or roughness.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the most apparent form of text displayed on the product's packaging, concerning its content?",
+        "answer": "Labels"
+      },
+      {
+        "question": "Considering the entirety of the label, what is the most visually prominent color band or section?",
+        "answer": "Gold"
+      },
+      {
+        "question": "What is the general format of the text on the product's label, referring to style and layout?",
+        "answer": "Paragraphed"
+      },
+      {
+        "question": "What is the apparent primary function of this product, indicated visually on the container?",
+        "answer": "Cleaning"
+      },
+      {
+        "question": "Disregarding the text, what is the most easily noticeable feature of the bottle's design?",
+        "answer": "Cap"
+      },
+      {
+        "question": "Considering the overall visual presentation, what seems to be the target market or user of this product?",
+        "answer": "Consumers"
+      },
+      {
+        "question": "Based on the visual characteristics, does the product's packaging look premium, basic, or other?",
+        "answer": "Basic"
+      },
+      {
+        "question": "Describe the visible consistency or state of the product inside the container.",
+        "answer": "Liquid"
+      },
+      {
+        "question": "What seems to be the primary method of dispensing the product from its container?",
+        "answer": "Pouring"
+      },
+      {
+        "question": "What is the general size or scale of the container, relative to common household items?",
+        "answer": "Medium"
+      }
+    ]
+  }
+]

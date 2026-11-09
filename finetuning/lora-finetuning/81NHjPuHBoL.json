@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5e/5e51b2dd.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the text detailing the bread ingredients?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the background color of the ingredient list panel?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the font style, what is the overall impression of the text?",
+        "answer": "Clean"
+      },
+      {
+        "question": "What is the case of the lettering used for 'INGREDIENTS'?",
+        "answer": "Upper"
+      },
+      {
+        "question": "Describe the visual arrangement of the ingredient list, vertically or horizontally?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the apparent texture of the surface bearing the ingredient information?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What kind of font is used for the ingredient list (e.g., serif, sans-serif)?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Is the text on the ingredient label bold or light?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Considering its placement and size, what is the apparent function of the label?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Does the text appear to be printed or hand-written?",
+        "answer": "Printed"
+      },
+      {
+        "question": "What is the overall shape of the ingredient list area?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging by the clarity of the text, is the print quality high or low?",
+        "answer": "High"
+      },
+      {
+        "question": "Are there any images or symbols accompanying the text on the label?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the visual information available, what is the likely material of the label itself?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the visual density of the text, sparse or dense?",
+        "answer": "Dense"
+      }
+    ]
+  }
+]

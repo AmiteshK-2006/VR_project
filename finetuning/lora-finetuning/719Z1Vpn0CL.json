@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/31/314dbfbc.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary ingredient explicitly mentioned in the provided textual information?",
+        "answer": "Beans"
+      },
+      {
+        "question": "Considering the textual information, what adjective describes the beans?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the text, what liquid is listed as an ingredient in the product?",
+        "answer": "Water"
+      },
+      {
+        "question": "What common seasoning is included among the listed ingredients?",
+        "answer": "Salt"
+      },
+      {
+        "question": "According to the text, which chemical compound is added to preserve the product's texture?",
+        "answer": "Chloride"
+      },
+      {
+        "question": "What is the purpose of including calcium chloride in the product, as stated in the text?",
+        "answer": "Firmness"
+      },
+      {
+        "question": "What is the overall style of the text presentation, judging by its font and layout?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the grammatical form used to present the list of ingredients?",
+        "answer": "List"
+      },
+      {
+        "question": "What is the case of the letters used in the words of the ingredient list?",
+        "answer": "Upper"
+      },
+      {
+        "question": "What is the color used for the text of the ingredient list?",
+        "answer": "Black"
+      },
+      {
+        "question": "What punctuation mark follows the closing parenthesis in the last line?",
+        "answer": "Period"
+      },
+      {
+        "question": "Considering the text's visual features, how many distinct words are used in the ingredient description?",
+        "answer": "Seven"
+      },
+      {
+        "question": "Does the text visually display any form of explicit labeling or branding?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the format, how many lines of text are used in the ingredient list?",
+        "answer": "Four"
+      },
+      {
+        "question": "What is the orientation of the words in the ingredient list?",
+        "answer": "Horizontal"
+      }
+    ]
+  }
+]

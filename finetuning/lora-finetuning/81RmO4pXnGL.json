@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2a/2af8b42f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the fabric shown in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the apparent texture of the fabric, based solely on visual observation?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describing the central design element, what is its geometric form?",
+        "answer": "Circular"
+      },
+      {
+        "question": "Considering the image, what is the overall visual impression of the material?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What is the primary visual feature suggesting the fabric's construction?",
+        "answer": "Pleats"
+      },
+      {
+        "question": "What type of pattern is created by the pleats radiating from the center?",
+        "answer": "Radial"
+      },
+      {
+        "question": "Based on the visible details, what is the likely feel of the fabric?",
+        "answer": "Silky"
+      },
+      {
+        "question": "Considering the subtle folds, what is the overall appearance of the fabric?",
+        "answer": "Crisp"
+      },
+      {
+        "question": "Focusing on the way the light reflects, is the fabric's surface glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "From visual inspection alone, what does the fabric seem to be made of?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Considering the image's composition, how many main pleats are present?",
+        "answer": "Four"
+      },
+      {
+        "question": "Based on the sharpness of the pleats, what is the material's apparent stiffness?",
+        "answer": "Slight"
+      },
+      {
+        "question": "Regarding the visible folds, what is the quality of the fabric's drape?",
+        "answer": "Fluid"
+      },
+      {
+        "question": "How would you describe the arrangement of the fabric's folds or creases?",
+        "answer": "Symmetrical"
+      },
+      {
+        "question": "Disregarding any context, what is the overall visual appearance of the item?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

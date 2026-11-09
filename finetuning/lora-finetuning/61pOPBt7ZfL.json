@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2d/2d8e242c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual design, what is the primary function indicated on the product's label?",
+        "answer": "Antiseptic"
+      },
+      {
+        "question": "Based on the text displayed, what is the main active ingredient present in the product?",
+        "answer": "Alcohol"
+      },
+      {
+        "question": "What percentage of the active ingredient is specified on the product label?",
+        "answer": "62%"
+      },
+      {
+        "question": "What type of information is predominantly visible on the product's surface?",
+        "answer": "Text"
+      },
+      {
+        "question": "Considering the label's structure, what can be observed as a crucial component for product identification?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "What is the color of the primary text on the product label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall background color of the product label?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe the orientation of the text information presented on the product's packaging.",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Regarding the presentation of warnings, are they provided on the product's label?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the overall shape of the product's label, based solely on visual observation?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visible text, what is the product intended to help reduce?",
+        "answer": "Bacteria"
+      },
+      {
+        "question": "Focusing on the textual layout, what is the format of the warnings section?",
+        "answer": "Paragraph"
+      },
+      {
+        "question": "From a purely visual standpoint, what type of font is used for the product's name and ingredients?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Is there any graphic element other than text on the label?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the textual content, what is specified as the product's usage?",
+        "answer": "Skin"
+      }
+    ]
+  }
+]

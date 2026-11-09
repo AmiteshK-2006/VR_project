@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/59/59b762fc.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the outer covering of this item?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What appears to be the primary material used for the outer layer?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Considering the overall form, what is the most accurate geometrical description of the product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging by the image, what seems to be the texture of the exterior material?",
+        "answer": "Fuzzy"
+      },
+      {
+        "question": "Based on the visual evidence, is there any prominent branding visible on the package?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What specific brand name is printed on the packaging, if any?",
+        "answer": "Amazonbasics"
+      },
+      {
+        "question": "What kind of packaging is the product visibly contained within?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Does the packaging appear sealed, based solely on the image provided?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging by its appearance, what might be the intended use of this item?",
+        "answer": "Storage"
+      },
+      {
+        "question": "Considering the visual characteristics, would you describe it as a hard or soft item?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What is the overall visual impression of the item's design; simple or elaborate?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Based purely on visuals, is the product's packaging transparent or opaque?",
+        "answer": "Translucent"
+      },
+      {
+        "question": "What does the inner label show; a single item or a product set?",
+        "answer": "Set"
+      },
+      {
+        "question": "What is the visual state of the product; new or used?",
+        "answer": "New"
+      },
+      {
+        "question": "Can you see any visible seams or stitching on the outer layer?",
+        "answer": "No"
+      }
+    ]
+  }
+]

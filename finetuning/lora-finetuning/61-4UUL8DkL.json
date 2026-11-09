@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e3/e3c3fc23.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what best describes the three-dimensional shape of this item, as shown in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the image, what appears to be the predominant color of the displayed product?",
+        "answer": "Black"
+      },
+      {
+        "question": "Judging from the image's visual texture, what is the apparent surface finish of this product?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the image, what material seems to constitute the main body of the depicted object?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "From the photograph, what small features are visible on the underside of the main body?",
+        "answer": "Feet"
+      },
+      {
+        "question": "Analyzing the image, how would you describe the overall design aesthetic of this item?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Based on the image, what is the approximate length-to-width ratio of the pictured object?",
+        "answer": "Long"
+      },
+      {
+        "question": "Judging by the image, does the product exhibit any visible seams, stitching, or other joining elements?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent thickness or depth of the product, as it is visibly presented in the image?",
+        "answer": "Thin"
+      },
+      {
+        "question": "As shown in the provided image, does this product appear to have any patterns, logos, or markings on its surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on its visible features, what is the likely function or purpose of this item, as suggested by the image?",
+        "answer": "Cover"
+      },
+      {
+        "question": "Does the image reveal any significant reflectivity or glossiness on the product's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from visual cues in the image, what level of detail or complexity does the product's design possess?",
+        "answer": "Simple"
+      },
+      {
+        "question": "From visual inspection, are there any noticeable signs of wear, damage, or imperfections on the product?",
+        "answer": "No"
+      },
+      {
+        "question": "In the image, are the edges of the product sharp, rounded, or a combination of both?",
+        "answer": "Rounded"
+      }
+    ]
+  }
+]

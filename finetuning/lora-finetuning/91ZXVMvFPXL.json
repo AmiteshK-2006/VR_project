@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8f/8f3457c8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color scheme employed in the design of this nutritional information panel?",
+        "answer": "Black"
+      },
+      {
+        "question": "Examining the text's visual attributes, what typeface is predominantly used to display the nutritional data and supporting text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on a visual assessment, what is the structural format that organizes the nutritional components' data?",
+        "answer": "Table"
+      },
+      {
+        "question": "Judging from the visual characteristics, what is the primary method of delineating individual nutritional facts from each other?",
+        "answer": "Lines"
+      },
+      {
+        "question": "From a purely visual standpoint, how does the panel visually highlight the 'Calories' value from other nutritional data points?",
+        "answer": "Size"
+      },
+      {
+        "question": "Visually inspecting the text, what unit is predominantly used to denote the quantity of various nutrients within the table?",
+        "answer": "Grams"
+      },
+      {
+        "question": "In terms of its visual texture, what is the general appearance of the background of the nutritional information panel?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Looking at the visual elements, how does the panel visually represent percentages concerning daily values for each nutrient?",
+        "answer": "Numbers"
+      },
+      {
+        "question": "Judging from the visual aspects, what type of information is provided in the bottom section of the panel, below the main nutritional table?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Based solely on visual cues, how are the different sections of the nutritional facts organized to enhance readability?",
+        "answer": "Blocks"
+      },
+      {
+        "question": "From a visual assessment, what is the relative size of the 'Serving Size' information compared to the rest of the data presented?",
+        "answer": "Smaller"
+      },
+      {
+        "question": "What visual cue is used to denote the serving size's measurement (e.g., grams, ounces)?",
+        "answer": "Parentheses"
+      },
+      {
+        "question": "What is the visual characteristic used to present the serving size's quantitative value?",
+        "answer": "Number"
+      },
+      {
+        "question": "Visually, how are the data points that represent the daily values for various nutrients displayed?",
+        "answer": "Percentages"
+      },
+      {
+        "question": "By examining the panel's overall structure, what is the primary visual style that characterizes the overall design?",
+        "answer": "Minimalist"
+      }
+    ]
+  }
+]

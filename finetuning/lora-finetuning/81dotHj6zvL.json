@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6a/6a5b794e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what is the dominant color scheme visually apparent on this food label?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Based on the visual layout, what is the primary textual element dominating this image?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Observing the typography, what kind of font style is predominantly used for the product details?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Focusing on the structure, what is the organizational format adopted to present the ingredient list?",
+        "answer": "List"
+      },
+      {
+        "question": "Examining the textual content, what is the key information conveyed regarding potential allergens?",
+        "answer": "Shellfish"
+      },
+      {
+        "question": "Analyzing the visual density, what is the overall impression of the information presentation style?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Judging by the color and font choice, what is the general tone conveyed by the label design?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Regarding the information hierarchy, what is the visual emphasis placed on the 'Non-GMO' statement?",
+        "answer": "Prominent"
+      },
+      {
+        "question": "Looking at the text blocks, what is the style of capitalization used for the ingredient headings?",
+        "answer": "Title"
+      },
+      {
+        "question": "Considering the visual prominence, what type of statement is given secondary emphasis below the ingredient list?",
+        "answer": "Allergen"
+      },
+      {
+        "question": "From the visual layout, what is the primary method used to separate various ingredient sections?",
+        "answer": "Spacing"
+      },
+      {
+        "question": "Based on the visual features, what is the overall format of this product label's information display?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Observing the image, what is the general layout style employed to present the list of ingredients?",
+        "answer": "Columnar"
+      },
+      {
+        "question": "From the visual appearance, what is the general arrangement of the ingredient names within each section?",
+        "answer": "Sequential"
+      },
+      {
+        "question": "Considering the visual cues, what kind of information does the small-print text at the bottom convey?",
+        "answer": "Warnings"
+      }
+    ]
+  }
+]

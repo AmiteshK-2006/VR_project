@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/50/503c26e7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the dominant shape of the product container?",
+        "answer": "Bottle"
+      },
+      {
+        "question": "Describe the primary color of the liquid visible within the container?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the apparent material of the bottle's construction, based on its visual properties?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What type of dispensing mechanism is visibly present at the top of the bottle?",
+        "answer": "Pump"
+      },
+      {
+        "question": "Focusing on the label, what is the most prominent color used in the illustrative design element?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What is the depicted plant or botanical element on the label's main graphic?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "Examining the label, what other color is used to prominently accentuate the illustration?",
+        "answer": "Green"
+      },
+      {
+        "question": "Based on the visible text, what seems to be the general type of product inside?",
+        "answer": "Liquid"
+      },
+      {
+        "question": "What is the general appearance of the label's text and design style, considering its formatting and font?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Considering the presence of a barcode, what does this suggest about the product's purpose?",
+        "answer": "Retail"
+      },
+      {
+        "question": "What is the overall texture of the bottle, judging by its visual appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the presence of the pump, what is the intended method of product usage?",
+        "answer": "Pour"
+      },
+      {
+        "question": "What is the general condition of the product packaging, based on its visual integrity?",
+        "answer": "New"
+      },
+      {
+        "question": "Considering the label, what kind of product information is mainly displayed on the back?",
+        "answer": "Details"
+      },
+      {
+        "question": "Does the bottle have any noticeable surface imperfections or scratches visible on it?",
+        "answer": "No"
+      }
+    ]
+  }
+]

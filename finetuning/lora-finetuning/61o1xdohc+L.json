@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0a/0ada0ceb.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall design and layout, what is the primary function of this product's label?",
+        "answer": "Informational"
+      },
+      {
+        "question": "What is the dominant color used for the text on this nutrition facts label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on visual observation, what is the background color of the label?",
+        "answer": "White"
+      },
+      {
+        "question": "Observing the text blocks, what is the font style predominantly used?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the shape of the nutritional facts panel as depicted?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Does the label show a prominent brand logo or other visual branding elements?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the texture of the label based on the image's visual appearance.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the arrangement of the text, how would you describe the label's overall visual organization?",
+        "answer": "Structured"
+      },
+      {
+        "question": "What is the apparent material of the surface on which the nutrition information is printed?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Judging solely from the image, what is the overall visual aesthetic style of this label?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Does the nutritional information use any visual cues (e.g., icons or symbols) beyond the text?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on visual characteristics, how would you describe the overall legibility of the text?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Is there any noticeable shading or gradient effect used in the label's design?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the nutrition panel use any bolding or highlighting to emphasize certain data points?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the visual layout, does the label incorporate any decorative elements?",
+        "answer": "No"
+      }
+    ]
+  }
+]

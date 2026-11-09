@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/40/40b14793.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the item inside the packaging, as shown in the image?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering the packaging and the item's shape, what is the item's most likely form factor?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the image, what material appears to constitute the main body of the packaging box?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Judging by its appearance, what is the most likely material of the item within the packaging?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Describe the surface texture of the item inside the packaging, based on visual inspection.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "How many individual pieces are visibly contained within the cardboard box, according to the image?",
+        "answer": "Three"
+      },
+      {
+        "question": "Considering the proportions, what is the overall shape of the item within its packaging?",
+        "answer": "Long"
+      },
+      {
+        "question": "What is the apparent overall condition of the packaging box containing the product?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "What is the general color tone of the cardboard box, considering its lighting and visual appearance?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Based solely on visual inspection, what kind of seams or closures does the packaging box have?",
+        "answer": "Folded"
+      },
+      {
+        "question": "What is the dominant aspect ratio of the item(s) displayed inside the package, based on the image?",
+        "answer": "Narrow"
+      },
+      {
+        "question": "Describe the visual appearance of the edges of the item visible inside the packaging box.",
+        "answer": "Straight"
+      },
+      {
+        "question": "What appears to be the relative thickness of the item located inside the cardboard container?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Based on the visible portion, what is the general orientation of the item inside the box?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Considering its packaging and visible characteristics, what is the likely application or usage of the product?",
+        "answer": "Unknown"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0c/0cb3ef4b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the sweater displayed in the image?",
+        "answer": "Navy"
+      },
+      {
+        "question": "What appears to be the primary material of the shown sweater?",
+        "answer": "Knit"
+      },
+      {
+        "question": "Describe the overall shape and fit of the sweater shown on the model?",
+        "answer": "Relaxed"
+      },
+      {
+        "question": "What is the neckline style of the navy-colored sweater?",
+        "answer": "Crew"
+      },
+      {
+        "question": "What is the apparent sleeve length of the displayed sweater?",
+        "answer": "Long"
+      },
+      {
+        "question": "What color are the jeans the model is wearing?",
+        "answer": "Dark"
+      },
+      {
+        "question": "What is the apparent fit of the jeans worn by the model?",
+        "answer": "Skinny"
+      },
+      {
+        "question": "What is the overall style of the jeans shown on the model?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What is the color of the boots visible in the image?",
+        "answer": "Tan"
+      },
+      {
+        "question": "What type of footwear is being modeled with the outfit?",
+        "answer": "Boots"
+      },
+      {
+        "question": "What is the apparent material of the boots the model is wearing?",
+        "answer": "Suede"
+      },
+      {
+        "question": "What kind of hem is visible at the bottom of the jeans?",
+        "answer": "Cuffed"
+      },
+      {
+        "question": "What is the visible texture of the sweater, considering the image's resolution?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Considering the image, what is the general style of the outfit presented?",
+        "answer": "Casual"
+      },
+      {
+        "question": "What is the overall fit of the jeans, considering their leg shape?",
+        "answer": "Slim"
+      }
+    ]
+  }
+]

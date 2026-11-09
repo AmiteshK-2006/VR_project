@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/70/70af2329.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed textile sample?",
+        "answer": "Red"
+      },
+      {
+        "question": "Considering the visible fibers, what is the apparent texture of the fabric?",
+        "answer": "Fuzzy"
+      },
+      {
+        "question": "Based on the image, what is the most noticeable characteristic of the material's surface?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Judging by the image, what kind of material does the sample appear to be made of?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "From the visual details, what is the general appearance of the fabric's surface?",
+        "answer": "Plush"
+      },
+      {
+        "question": "What is the overall visual impression conveyed by the color of the fabric?",
+        "answer": "Warm"
+      },
+      {
+        "question": "What is the visual impression of the density of fibers in the fabric sample?",
+        "answer": "High"
+      },
+      {
+        "question": "Considering the image, how would you describe the length of the fabric fibers?",
+        "answer": "Long"
+      },
+      {
+        "question": "Can you identify any discernible patterns within the fabric's structure?",
+        "answer": "None"
+      },
+      {
+        "question": "Does the image show any visible weaving or knitting patterns in the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the texture, is the surface of the fabric smooth or rough?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What single word describes the overall feel suggested by the fabric's appearance?",
+        "answer": "Cozy"
+      },
+      {
+        "question": "Based on the image, how even is the color distribution across the fabric?",
+        "answer": "Even"
+      },
+      {
+        "question": "Describe the visual quality of the fabric sample in terms of its density.",
+        "answer": "Thick"
+      },
+      {
+        "question": "In a single word, what is the visual impression of the fabric's pile?",
+        "answer": "Dense"
+      }
+    ]
+  }
+]

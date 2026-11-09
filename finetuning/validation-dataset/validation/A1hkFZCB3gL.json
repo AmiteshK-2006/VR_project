@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/50/50d9e70f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color displayed across the entire fabric sample?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the visible weave, what is the primary textural characteristic of this fabric?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Based on the image, what type of fiber arrangement is apparent in the fabric's structure?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Judging by the visual texture, how would you describe the fabric's surface feel?",
+        "answer": "Textured"
+      },
+      {
+        "question": "From the image's detail, what is the apparent density of the woven threads?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Considering the uniformity, how consistent is the color across the fabric sample?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "What is the overall visual impression of the color's saturation in the displayed sample?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Describe the directionality of the visible weave lines within the fabric structure?",
+        "answer": "Intertwined"
+      },
+      {
+        "question": "Considering the weave style, what is the fabric's apparent weight or thickness?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Does the fabric exhibit any noticeable pattern besides the basic weave?",
+        "answer": "No"
+      },
+      {
+        "question": "Is there any visible sheen or glossiness to the fabric’s surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image detail, are there any visible imperfections in the weave?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the weave, what kind of drape would this fabric likely have?",
+        "answer": "Structured"
+      },
+      {
+        "question": "What is the apparent visual uniformity of the color and texture?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the overall visual impression of the fabric’s surface appearance?",
+        "answer": "Even"
+      }
+    ]
+  }
+]

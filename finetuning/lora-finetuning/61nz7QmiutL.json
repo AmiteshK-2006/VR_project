@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ab/ab8fc46a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the dominant shape of the presented item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What primary color dominates the largest visible area of the product?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Based on its appearance, what material is the item's outer covering seemingly made of?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Observing the text present, what seems to be the name or brand of this product?",
+        "answer": "Fettuccine"
+      },
+      {
+        "question": "Is there a secondary color band visible on the item, and if so, what color is it?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "Considering the image details, what might this item's function or intended use be?",
+        "answer": "Packaging"
+      },
+      {
+        "question": "What kind of texture can be visually inferred from the image of the item's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the item display any visible markings, and if so, what type are they?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the general appearance of the ends of the item presented in the image?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Focusing on the visible text, is there any numerical data present on the package?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Besides the brand name, are there other words clearly visible on the packaging?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging from the image, is there any indication of a seal or closure present?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the item appear to be rigid or flexible based on how it's presented?",
+        "answer": "Rigid"
+      },
+      {
+        "question": "Does the packaging show any signs of damage or wear as presented in the image?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the size relative to a standard object, what can you estimate about the dimensions of the item?",
+        "answer": "Small"
+      }
+    ]
+  }
+]

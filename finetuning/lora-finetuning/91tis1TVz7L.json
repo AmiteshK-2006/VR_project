@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/03/03662128.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape and the textual information displayed prominently, what is the primary function of this item?",
+        "answer": "Label"
+      },
+      {
+        "question": "Given the extensive text detailing ingredients and nutritional facts, predominantly in multiple languages, what is the likely nature of the product this label describes?",
+        "answer": "Food"
+      },
+      {
+        "question": "Observing the dense, small typeface of the textual content, what can be inferred about the information density of the label?",
+        "answer": "High"
+      },
+      {
+        "question": "Based on the visual appearance of the text, specifically the variations in font size and style, what can you conclude about the structural organization of the information?",
+        "answer": "Layered"
+      },
+      {
+        "question": "Considering the multilingual nature of the text, and the presence of both Italian and English words, where might this product be sold?",
+        "answer": "Europe"
+      },
+      {
+        "question": "Focusing on the bottom right corner, what quantitative information is clearly visible concerning the product's weight?",
+        "answer": "190g"
+      },
+      {
+        "question": "Analyzing the visual characteristics of the typography used in the text, what can you observe regarding the typeface?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the predominant color scheme of the label's textual content?",
+        "answer": "Black"
+      },
+      {
+        "question": "Noticing the consistent style and density of text, what could be assumed about the printing method used?",
+        "answer": "Digital"
+      },
+      {
+        "question": "Considering the compactness and uniformity of the text, what can be inferred about the design's emphasis?",
+        "answer": "Information"
+      },
+      {
+        "question": "From the style of the labeling, what can you conclude about the target audience's assumed reading proficiency?",
+        "answer": "High"
+      },
+      {
+        "question": "Given the amount of text, what could be assumed about the potential legal requirements related to the product?",
+        "answer": "Strict"
+      },
+      {
+        "question": "Observing the presence of both ingredient lists and nutritional facts, what purpose does this text likely serve?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Judging by the extensive, multi-lingual detail, what is the likely complexity of the product's composition?",
+        "answer": "High"
+      },
+      {
+        "question": "Given the density and detail of the provided information, what can be inferred about the regulatory standards for the product?",
+        "answer": "Stringent"
+      }
+    ]
+  }
+]

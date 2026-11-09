@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d5/d50b5e06.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall shape and form, what best describes the product's primary geometric configuration?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What color is the dominant background hue that surrounds the instructions?",
+        "answer": "Red"
+      },
+      {
+        "question": "Disregarding any text, what is the predominant material apparent from the packaging's visual attributes?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the general texture portrayed on the surface of the outer packaging?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the visual features, what style of lettering is utilized for the main heading \"Instructions\"?",
+        "answer": "Serif"
+      },
+      {
+        "question": "Observing the top, is there a visual cue indicating how to properly open the packaging?",
+        "answer": "Arrow"
+      },
+      {
+        "question": "Focusing only on the visual elements, what type of printing process seems to have been used for the text?",
+        "answer": "Offset"
+      },
+      {
+        "question": "What is the word shown at the top near an upward pointing arrow?",
+        "answer": "Lift"
+      },
+      {
+        "question": "Inspecting the bottom, what identifying code is present, comprised of numbers and lines?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "What is the color of the text which provides instructions on preparing the food?",
+        "answer": "Black"
+      },
+      {
+        "question": "What appears to be the primary language used in the provided textual directions?",
+        "answer": "English"
+      },
+      {
+        "question": "Describe the overall appearance of the text blocks containing instructions.",
+        "answer": "Organized"
+      },
+      {
+        "question": "What appears to be the general tone or style of the instructions, e.g., formal, informal?",
+        "answer": "Formal"
+      },
+      {
+        "question": "Ignoring the text, describe the image's overall aesthetic impression.",
+        "answer": "Simple"
+      },
+      {
+        "question": "Based on visual cues only, what could this package potentially contain?",
+        "answer": "Food"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d4/d43b6c07.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the displayed material sample?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the overall texture impression conveyed by the material's surface?",
+        "answer": "Grainy"
+      },
+      {
+        "question": "Based on visual appearance, what seems to be the primary material used?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Does the material exhibit a consistent or varied surface pattern?",
+        "answer": "Varied"
+      },
+      {
+        "question": "Judging from the image, how would you characterize the material's finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the visual characteristics, what is the apparent grain direction of the material?",
+        "answer": "Random"
+      },
+      {
+        "question": "What is the overall visual impression of the material's surface depth?",
+        "answer": "Textured"
+      },
+      {
+        "question": "From the image, is the material's color uniform throughout the visible area?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the visible texture, how would you describe the material's tactile feel?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Does the material's surface seem to show any visible fibers or weave patterns?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image's resolution, how smooth or uneven is the surface's appearance?",
+        "answer": "Uneven"
+      },
+      {
+        "question": "What is the apparent sheen or gloss level of this material sample?",
+        "answer": "Low"
+      },
+      {
+        "question": "Judging by the image, would you consider the color of this sample dark or light?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Considering the image's clarity, what is the apparent thickness of the material?",
+        "answer": "Unknown"
+      },
+      {
+        "question": "Does the visual presentation suggest any patterns or designs embossed in the material?",
+        "answer": "No"
+      }
+    ]
+  }
+]

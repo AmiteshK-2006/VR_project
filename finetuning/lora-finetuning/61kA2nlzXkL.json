@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d4/d4b937ea.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant textual element depicted across the entirety of the presented image?",
+        "answer": "Text"
+      },
+      {
+        "question": "Considering the overall layout, what kind of information is primarily conveyed within the rectangular frame?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Based on the displayed information, what specific food item is this nutritional data related to?",
+        "answer": "Bun"
+      },
+      {
+        "question": "What is the precise numerical value indicated for the total number of calories per serving?",
+        "answer": "130"
+      },
+      {
+        "question": "What is the color of the text in the nutrition facts label, predominantly?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the presented nutritional information panel?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What seems to be the background color of the nutritional information box?",
+        "answer": "White"
+      },
+      {
+        "question": "In terms of the textual arrangement, what is the style employed for the headers?",
+        "answer": "Bold"
+      },
+      {
+        "question": "How many total servings are indicated on the package, as shown in the text?",
+        "answer": "Eight"
+      },
+      {
+        "question": "What is the weight, in grams, of a single serving of this food item as indicated on the label?",
+        "answer": "57"
+      },
+      {
+        "question": "What unit of measurement is used to describe the amount of Sodium in the food?",
+        "answer": "Mg"
+      },
+      {
+        "question": "What is the listed amount of total sugars, in grams, per serving?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the listed amount of protein, in grams, per serving, as stated?",
+        "answer": "Six"
+      },
+      {
+        "question": "What is the style of the font used predominantly throughout the nutritional information?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Observing the visual structure, is the layout of the information organized into rows and columns?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

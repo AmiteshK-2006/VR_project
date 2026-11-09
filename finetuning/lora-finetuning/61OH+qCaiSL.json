@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/20/20f15cb6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what single word best describes the formatting style of the provided text?",
+        "answer": "List"
+      },
+      {
+        "question": "Based on the visual appearance, what is the predominant color of the text displayed on the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Focusing solely on visual characteristics, what is the apparent background color of the text?",
+        "answer": "White"
+      },
+      {
+        "question": "Examining the text closely, what is the primary font style employed throughout the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Judging by the image, what kind of information is predominantly presented in the text?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the visual text alignment on the background?",
+        "answer": "Left"
+      },
+      {
+        "question": "Describe the visual arrangement of the text, specifically how it is arranged and presented?",
+        "answer": "Lines"
+      },
+      {
+        "question": "Considering the visual design, how many distinct sections of text can be visually identified?",
+        "answer": "Three"
+      },
+      {
+        "question": "Considering the text's overall appearance, what is its approximate length?",
+        "answer": "Long"
+      },
+      {
+        "question": "What is the general visual case of the lettering?",
+        "answer": "Upper"
+      },
+      {
+        "question": "What single word best describes the visual density of the text?",
+        "answer": "Dense"
+      },
+      {
+        "question": "What word, judging only from the visuals, best describes the visual weight of the text?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Observing the text's visual elements, describe its apparent readability?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Based on visual elements alone, what is the text's overall style?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Looking only at the visual details, what term describes the appearance of the typeface?",
+        "answer": "Plain"
+      }
+    ]
+  }
+]

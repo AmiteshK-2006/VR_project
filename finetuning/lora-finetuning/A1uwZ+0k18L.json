@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/7d/7d2b9eb1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the provided image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the weave and fibers, what is the apparent texture of this fabric sample?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Based on visual inspection, what is the most likely material composition of the fabric?",
+        "answer": "Linen"
+      },
+      {
+        "question": "Observing the image closely, what is the overall visual appearance of the fabric's surface?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Describe the pattern formed by the interwoven threads, considering the image's clarity?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Considering the image's resolution, what is the apparent thickness or weight of the fabric?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Does the fabric exhibit any noticeable sheen or glossiness in the provided image?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging from the image, what is the uniformity of the fabric's weave structure?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Focusing on the image, is there evidence of any visible imperfections in the fabric?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the predominant visual characteristic of the fabric's fibers, given the image?",
+        "answer": "Straight"
+      },
+      {
+        "question": "From the provided close-up, what is the overall visual impression of the fabric?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "Describe the color saturation of the fabric shown in the close-up image provided.",
+        "answer": "Low"
+      },
+      {
+        "question": "Based on the visible fibers, what is the fabric's apparent level of density?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Based on the weave, what is the likely drape of this type of fabric?",
+        "answer": "Slight"
+      },
+      {
+        "question": "Judging by the image, what is the overall visual appeal of the fabric?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

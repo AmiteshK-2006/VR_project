@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/25/258ce857.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overarching color of the displayed material sample?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent material type?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Based solely on the image's visual texture, how would you describe the surface feel?",
+        "answer": "Grained"
+      },
+      {
+        "question": "Does the material exhibit a consistent or varied color across its surface?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Considering the visual texture and the image's close-up view, what is the surface's apparent finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging from the image, does the material appear to be highly reflective or non-reflective?",
+        "answer": "Non-reflective"
+      },
+      {
+        "question": "In terms of visual texture, how fine or coarse are the visible grains on the material surface?",
+        "answer": "Fine"
+      },
+      {
+        "question": "What is the overall impression of the material's visual depth or thickness based on the image alone?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Examining the image closely, are there any noticeable surface imperfections or irregularities?",
+        "answer": "None"
+      },
+      {
+        "question": "Does the material appear to have any discernible pattern, repeating design, or print?",
+        "answer": "No"
+      },
+      {
+        "question": "If you were to touch this material, what would be the probable surface tactile quality?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From the visual presentation, what would you infer about the material's likely weight?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "Analyzing the image, how uniform is the color distribution of the displayed sample?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Based on the visible characteristics, is the material likely natural or synthetic?",
+        "answer": "Synthetic"
+      },
+      {
+        "question": "From the image only, is the texture of the material predominantly smooth or rough?",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

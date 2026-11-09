@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/be/be0b7401.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme of the nutritional information panel, considering the background and text?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering the overall layout, what is the primary orientation of the text blocks on this food product's packaging?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the shape of the individual blocks containing nutritional data values, as visually depicted?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the typeface, what is the style of the text used to display 'NUTRITION INFORMATION'?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Describe the visual texture or appearance of the background behind the nutritional information, based solely on the image.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the visual appearance of the lines separating the different nutritional components?",
+        "answer": "Thin"
+      },
+      {
+        "question": "What appears to be the primary language used in this nutritional information section of the packaging?",
+        "answer": "English"
+      },
+      {
+        "question": "What kind of visual elements are used to visually separate the different nutritional information categories?",
+        "answer": "Lines"
+      },
+      {
+        "question": "Describe the visual style of the numbers representing the nutritional values (e.g., bold, italic, etc.)",
+        "answer": "Bold"
+      },
+      {
+        "question": "Is there any noticeable visual pattern or design element present in the background of the nutritional information panel?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the color of the smaller text blocks specifying the units of measurement (e.g., 'g', 'kcal')?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Considering the visual design, is there a visible border around the entire nutritional information panel?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the visual appearance of the text, what size is the font primarily used for the nutritional values?",
+        "answer": "Large"
+      },
+      {
+        "question": "Describe the overall visual density or amount of information presented on the panel?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the visual weight of the header 'NUTRITION INFORMATION' compared to the other text on the panel?",
+        "answer": "Heavy"
+      }
+    ]
+  }
+]

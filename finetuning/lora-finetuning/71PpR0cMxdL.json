@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a8/a869460c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color scheme used in the visual representation of the nutritional information presented on this food label?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the text's arrangement and layout, what is the overall shape of the nutritional facts panel?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visual characteristics of the type face, what is the style of the font used to display the nutrition data on this package?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the apparent texture of the background surface upon which the nutrition facts are printed?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the clarity of the typography, what is the general legibility of the printed nutrition information?",
+        "answer": "High"
+      },
+      {
+        "question": "Observing the nutritional information layout, what is the primary method used to organize and categorize the dietary data?",
+        "answer": "Tabular"
+      },
+      {
+        "question": "What is the visual appearance of the lines separating various categories within the nutritional data table?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Judging solely by its visual aspects, is the overall design of this nutrition facts panel minimalistic or ornate?",
+        "answer": "Minimalistic"
+      },
+      {
+        "question": "Given the visual presentation of the information, what is the apparent level of detail included within the nutrition facts section?",
+        "answer": "High"
+      },
+      {
+        "question": "Based on its visual characteristics, what is the perceived contrast between the text and its background on this label?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the visual style used for the heading 'Nutrition Facts' at the top of this panel?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Considering the visual prominence of certain elements, which nutritional aspect seems to be highlighted more than others?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Based on the visual elements used, what is the apparent method of conveying the percentage of daily values for each nutrient?",
+        "answer": "Numerical"
+      },
+      {
+        "question": "Examining the text's visual appearance, what seems to be the primary unit of measurement utilized for the quantities of nutrients?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Considering the visual features of the text, what is the case of the lettering used to present the nutrition information?",
+        "answer": "Uppercase"
+      }
+    ]
+  }
+]

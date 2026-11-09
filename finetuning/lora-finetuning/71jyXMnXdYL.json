@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/18/18e06ba3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the detailed text visible, what specific nut is prominently listed as an ingredient?",
+        "answer": "Cashews"
+      },
+      {
+        "question": "Based on the provided text, what other type of nut is explicitly mentioned as a component?",
+        "answer": "Almonds"
+      },
+      {
+        "question": "According to the text, what less common nut is included in the product's composition?",
+        "answer": "Pecans"
+      },
+      {
+        "question": "What tropical nut is clearly identified among the ingredients displayed?",
+        "answer": "Brazil"
+      },
+      {
+        "question": "Focusing on the visible text, what type of nut is listed alongside pecans as an ingredient?",
+        "answer": "Hazelnuts"
+      },
+      {
+        "question": "What type of oil, explicitly mentioned, might be used in the product's preparation?",
+        "answer": "Canola"
+      },
+      {
+        "question": "What is the additional oil that could possibly be used, as indicated by the text?",
+        "answer": "Peanut"
+      },
+      {
+        "question": "What other potential oil, alongside canola and peanut, may be found in the product?",
+        "answer": "Cottonseed"
+      },
+      {
+        "question": "What common seasoning, indicated by the visible text, is included among the ingredients?",
+        "answer": "Salt"
+      },
+      {
+        "question": "What word precedes the list of nuts in the 'Ingredients' section?",
+        "answer": "Cashews"
+      },
+      {
+        "question": "What word directly follows the word 'Brazil' in the 'Ingredients' section?",
+        "answer": "Nuts"
+      },
+      {
+        "question": "Observing the text, what word appears before 'and/or' in the description of oils?",
+        "answer": "Canola"
+      },
+      {
+        "question": "Examining the text, what word is the last ingredient in the 'ingredients' section?",
+        "answer": "Salt"
+      },
+      {
+        "question": "In the 'Contains' section, what word comes after 'Almonds'?",
+        "answer": "Brazil"
+      },
+      {
+        "question": "What is the second to last item mentioned in the 'Contains' section?",
+        "answer": "Hazelnuts"
+      }
+    ]
+  }
+]

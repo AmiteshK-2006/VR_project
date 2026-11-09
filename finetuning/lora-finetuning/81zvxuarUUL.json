@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c5/c5e15f14.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the bread loaf, as shown in the product image?",
+        "answer": "White"
+      },
+      {
+        "question": "What type of bread is explicitly indicated on the packaging label?",
+        "answer": "Sourdough"
+      },
+      {
+        "question": "What is the apparent shape of the bread loaf within its packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visual texture, what is the apparent bread surface texture?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the overall visual tone of the packaging's color scheme.",
+        "answer": "Neutral"
+      },
+      {
+        "question": "What kind of bread is suggested for its intended use, as depicted on the package?",
+        "answer": "Sandwich"
+      },
+      {
+        "question": "What word describes the overall visual appearance of the bread's crust?",
+        "answer": "Pale"
+      },
+      {
+        "question": "What is the visible branding or label featured prominently on the packaging?",
+        "answer": "365"
+      },
+      {
+        "question": "What descriptive term is used to qualify the type of bread, according to the package?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the material that appears to comprise the bread loaf's outer covering?",
+        "answer": "Crust"
+      },
+      {
+        "question": "What is the apparent visual state of the bread's surface, considering any imperfections?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Considering the packaging, what appears to be the method of preservation?",
+        "answer": "Wrapped"
+      },
+      {
+        "question": "What visual feature suggests the bread loaf's internal structure?",
+        "answer": "Porous"
+      },
+      {
+        "question": "What is depicted on the packaging that suggests a natural ingredient source?",
+        "answer": "Leaves"
+      },
+      {
+        "question": "What is the apparent style of the text used on the packaging label?",
+        "answer": "Sans-serif"
+      }
+    ]
+  }
+]

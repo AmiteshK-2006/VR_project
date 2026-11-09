@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a1/a190145c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular layout and the detailed nutritional information presented, what is the primary function of this item, as visually evident?",
+        "answer": "Label"
+      },
+      {
+        "question": "Focusing on the prominent number at the top, what is the quantitative value for calories per serving, based solely on the image?",
+        "answer": "210"
+      },
+      {
+        "question": "Observing the text formatting, what is the general style of the font used throughout the nutrition facts label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Analyzing the color palette, what is the predominant color used for the text and numerical values in the label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Examining the background, what color is the primary background of the nutrition label?",
+        "answer": "White"
+      },
+      {
+        "question": "Looking at the structure, what is the shape of the nutritional information panel depicted?",
+        "answer": "Rectangle"
+      },
+      {
+        "question": "Considering the presence of numerical data and units, what is the type of information displayed on the label?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Observing the text hierarchy, what is the primary heading for the displayed data, based solely on visual cues?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Inspecting the layout, what is the organizational approach of the various components of nutritional information?",
+        "answer": "Tabular"
+      },
+      {
+        "question": "Examining the detailed listings, what is the nutrient category that has the largest numerical value presented?",
+        "answer": "Sodium"
+      },
+      {
+        "question": "Based on the textual content, what is the unit used for measuring the total carbohydrate content?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Observing the layout again, what is the format of the percentage values associated with the daily value of various nutrients?",
+        "answer": "Numeric"
+      },
+      {
+        "question": "Considering the overall look, what is the general tone or style of the label design (e.g., formal, informal)?",
+        "answer": "Formal"
+      },
+      {
+        "question": "Looking at the detailed breakdown, what is the nutrient measured in milligrams (mg)?",
+        "answer": "Sodium"
+      },
+      {
+        "question": "Based solely on visual inspection, what word signals the start of a new category of nutrients?",
+        "answer": "Protein"
+      }
+    ]
+  }
+]

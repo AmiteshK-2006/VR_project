@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e8/e827ee91.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual presentation, what is the primary font style employed throughout the entire label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the visible text, what specific ingredient is prominently declared as the main component?",
+        "answer": "Tarragon"
+      },
+      {
+        "question": "Examining the textual layout, what is the word directly preceding the ingredient specification?",
+        "answer": "INGREDIENTS"
+      },
+      {
+        "question": "Focusing on the lower portion of the text, what type of nuts are mentioned in the processing facility disclosure?",
+        "answer": "Tree"
+      },
+      {
+        "question": "In the facility processing details, which dairy product is listed among the processed items?",
+        "answer": "Milk"
+      },
+      {
+        "question": "Referring to the allergen statement, which grain is explicitly mentioned as being processed?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "According to the text, what legume is included in the facility\u2019s processing operations?",
+        "answer": "Soy"
+      },
+      {
+        "question": "What is the grammatical function of the word 'produced' within the secondary statement?",
+        "answer": "Participle"
+      },
+      {
+        "question": "What preposition links the statement about production to the facility\u2019s operations?",
+        "answer": "In"
+      },
+      {
+        "question": "Describe the case of the nouns 'nuts', 'milk', 'wheat', and 'soy' within the allergy warning statement?",
+        "answer": "Nominative"
+      },
+      {
+        "question": "What is the punctuation immediately following the ingredient declaration?",
+        "answer": "Period"
+      },
+      {
+        "question": "What punctuation mark concludes the statement concerning the processing facility?",
+        "answer": "Period"
+      },
+      {
+        "question": "Describe the overall orientation of the text on the label (horizontal or vertical)?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the approximate number of lines of text visible on this image?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the color of the text, contrasting against the background?",
+        "answer": "Black"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f6/f613f946.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's visual characteristics, what is the overall color of the product's label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the predominant font style used in the product labeling based on the image?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Judging by the visual appearance, what is the case of the lettering on the label?",
+        "answer": "Upper"
+      },
+      {
+        "question": "Based on the image, what kind of text alignment is predominantly used throughout the label?",
+        "answer": "Left"
+      },
+      {
+        "question": "In terms of its visual appearance, what is the texture of the label surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent orientation of the text blocks on the label, relative to the vertical axis?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Considering the visual details, is the text on the label densely packed or widely spaced?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Judging from the visual characteristics, what is the general size of the text blocks?",
+        "answer": "Small"
+      },
+      {
+        "question": "What kind of visual structure is apparent in the text presentation, e.g., paragraphs or lists?",
+        "answer": "Paragraph"
+      },
+      {
+        "question": "Based on the image, what visual element separates the different segments of text information?",
+        "answer": "Spacing"
+      },
+      {
+        "question": "What is the apparent number of distinct text blocks on this specific product label?",
+        "answer": "Two"
+      },
+      {
+        "question": "Considering the label's design, what is the style of punctuation used?",
+        "answer": "Standard"
+      },
+      {
+        "question": "Based on the visual cues, what type of paper seems to be used for the label?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the label include any visual graphic elements besides text?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on visual inspection, is the label's background transparent or opaque?",
+        "answer": "Opaque"
+      }
+    ]
+  }
+]

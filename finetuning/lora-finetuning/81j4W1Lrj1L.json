@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/93/93bcaf62.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme depicted on the nutrition label's background?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the textual layout, what is the overall shape of the nutrition information panel?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What primary material appears to constitute the nutrition label?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Focusing on the typography, what is the style of the font used for the header 'Nutrition Facts'?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Based on visual inspection of the text blocks, what is the overall organization of the data presented?",
+        "answer": "tabular"
+      },
+      {
+        "question": "Observing the listed nutritional components, what is the unit of measurement consistently used for quantities?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Considering the textual content, what type of food product does this label describe?",
+        "answer": "Chicken"
+      },
+      {
+        "question": "What is the predominant visual texture of the nutrition facts panel's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Examining the header's visual prominence, what is its relative size compared to the body text?",
+        "answer": "Larger"
+      },
+      {
+        "question": "Observing the arrangement of the data within the label, what is the primary method of information categorization?",
+        "answer": "Sections"
+      },
+      {
+        "question": "Considering the visual representation of percentages, what is the reference value for daily intake?",
+        "answer": "2000"
+      },
+      {
+        "question": "What is the visual style of the lines separating different data categories within the panel?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Considering the color palette, what is the color of the text used for the numerical values?",
+        "answer": "Black"
+      },
+      {
+        "question": "Judging by visual density, what is the level of detail provided regarding the nutritional composition?",
+        "answer": "High"
+      },
+      {
+        "question": "Considering the visual presentation of the data, what is the overall readability of the nutrition label?",
+        "answer": "Good"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ce/ce3372e3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what is the dominant color scheme of the nutritional information panel?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the textual language used for the labels describing the nutritional components?",
+        "answer": "Japanese"
+      },
+      {
+        "question": "Observing the visual structure, what is the shape of the nutritional information panel?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on its visual attributes, what appears to be the primary material of the nutrition label?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Focusing on the typography, what is the font style primarily used in the panel?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Regarding the data format, what is the primary unit used for energy measurement?",
+        "answer": "kcal"
+      },
+      {
+        "question": "In the provided image, what is the unit of measurement for protein content?",
+        "answer": "g"
+      },
+      {
+        "question": "What is the unit of measurement for carbohydrate content within the displayed data?",
+        "answer": "g"
+      },
+      {
+        "question": "What is the unit of measurement for the sodium equivalent in the presented nutritional facts?",
+        "answer": "g"
+      },
+      {
+        "question": "What unit is used for potassium content quantification in the shown data?",
+        "answer": "mg"
+      },
+      {
+        "question": "What is the unit of measurement for calcium content indicated on the image?",
+        "answer": "mg"
+      },
+      {
+        "question": "What is the unit of measurement employed for magnesium content display in the image?",
+        "answer": "mg"
+      },
+      {
+        "question": "What is the visual texture of the nutrition facts label?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describe the visual layout of the nutritional information components.",
+        "answer": "Tabular"
+      },
+      {
+        "question": "What is the overall visual style of this nutritional information panel?",
+        "answer": "Minimalist"
+      }
+    ]
+  }
+]

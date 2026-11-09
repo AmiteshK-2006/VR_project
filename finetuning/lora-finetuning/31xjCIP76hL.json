@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3e/3e1b5529.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the packaging box?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What material appears to constitute the product's outer layer?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the overall shape of the product's packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the visible text, what is the brand name depicted?",
+        "answer": "Glad"
+      },
+      {
+        "question": "Based on the packaging, what is the product type indicated?",
+        "answer": "Bags"
+      },
+      {
+        "question": "What size or quantity is prominently displayed on the box?",
+        "answer": "60"
+      },
+      {
+        "question": "What is the general texture of the outer packaging?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Are there any noticeable graphic elements or logos on the box besides text?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the font style used for the product's size indication",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the overall impression of the packaging's design?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Is there any visible indication of the bag material (e.g., plastic, paper)?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the packaging seem to be primarily oriented vertically or horizontally?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Are there any perforations, flaps, or seams visible on the box's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the packaging suggest a specific bag usage or intended purpose?",
+        "answer": "Trash"
+      },
+      {
+        "question": "What is the predominant color of the text on the packaging?",
+        "answer": "White"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/af/af6b7f9f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the textual content's overall arrangement, what is the primary language used for the label's main ingredient declaration?",
+        "answer": "English"
+      },
+      {
+        "question": "What secondary language is employed for the product's ingredient listing, positioned beneath the primary language?",
+        "answer": "French"
+      },
+      {
+        "question": "Focusing solely on the visual presentation, what is the typeface style used for both language versions of the ingredient declaration?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "In terms of visual layout, describe the orientation of the textual content that communicates the ingredients of the product.",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Examining the visual characteristics, determine the textual case of the word 'INGREDIENTS' in both English and French.",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Disregarding any contextual knowledge, what is the color of the text detailing the product's constituent components?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based solely on the visual presentation, what is the background color of the area where the ingredients are listed?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the style of the text, describe the visual weight of the word 'INGREDIENTS' in relation to the ingredient list.",
+        "answer": "Bold"
+      },
+      {
+        "question": "Analyzing the label's composition, describe the relative position of the English ingredient list compared to its French counterpart.",
+        "answer": "Above"
+      },
+      {
+        "question": "Considering only what is visually apparent, what punctuation mark separates the word 'INGREDIENTS' from the list of ingredients?",
+        "answer": "Colon"
+      },
+      {
+        "question": "From a purely visual standpoint, what is the approximate number of words used to list the ingredients in English?",
+        "answer": "Three"
+      },
+      {
+        "question": "What is the character that concludes each of the ingredient lists both visually and in terms of grammar?",
+        "answer": "Period"
+      },
+      {
+        "question": "Based on visual inspection, what is the word that appears directly after the word 'INGREDIENTS' in the French version?",
+        "answer": "Chou"
+      },
+      {
+        "question": "Considering only visible text, how many words compose the French version of the ingredients description?",
+        "answer": "Four"
+      },
+      {
+        "question": "From a visual perspective, is there any visual separation, such as a line or box, separating the ingredient lines from each other?",
+        "answer": "No"
+      }
+    ]
+  }
+]

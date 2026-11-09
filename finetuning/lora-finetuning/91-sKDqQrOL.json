@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b5/b5c9a5b2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the packaging shown in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "What primary language is used on the packaging's informational text?",
+        "answer": "Japanese"
+      },
+      {
+        "question": "What type of graphic is prominently featured illustrating product use?",
+        "answer": "Diagram"
+      },
+      {
+        "question": "What kind of code is displayed for product identification?",
+        "answer": "QR"
+      },
+      {
+        "question": "Considering the graphic instructions, what is the product's primary function?",
+        "answer": "Protection"
+      },
+      {
+        "question": "What kind of markings are visible on the lower section of the packaging?",
+        "answer": "Barcode"
+      },
+      {
+        "question": "Based on the packaging design, what is the overall aesthetic of the product?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What shape does the product package primarily take?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent material of the product's packaging, judging by the image?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Is the packaging predominantly matte or glossy in its finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is depicted at the top of the instruction manual?",
+        "answer": "Filter"
+      },
+      {
+        "question": "What is shown on the packaging regarding how to use the product?",
+        "answer": "Steps"
+      },
+      {
+        "question": "What is indicated below the main product illustration?",
+        "answer": "Instructions"
+      },
+      {
+        "question": "Can you identify any logos or branding on the packaging?",
+        "answer": "Prestol"
+      },
+      {
+        "question": "What type of information is conveyed through the smaller text on the package?",
+        "answer": "Details"
+      }
+    ]
+  }
+]

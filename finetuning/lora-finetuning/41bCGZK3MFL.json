@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a2/a2f12cc0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the highest energy efficiency rating displayed on the label?",
+        "answer": "A++"
+      },
+      {
+        "question": "What color is the bar representing the highest energy efficiency rating?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the lowest energy efficiency rating shown on the energy label?",
+        "answer": "E"
+      },
+      {
+        "question": "What color is the bar representing the lowest energy efficiency rating?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the shape of the main energy efficiency rating indicator?",
+        "answer": "Arrow"
+      },
+      {
+        "question": "What is the overall shape of the energy label itself?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What unit is used to measure energy consumption?",
+        "answer": "kWh"
+      },
+      {
+        "question": "What is the value of the energy consumption indicated on the label?",
+        "answer": "3.0"
+      },
+      {
+        "question": "What is the timeframe given for the energy consumption value?",
+        "answer": "1000h"
+      },
+      {
+        "question": "What language is used to represent 'energy' on the label?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "What is the color of the text indicating energy efficiency ratings?",
+        "answer": "Black"
+      },
+      {
+        "question": "What type of information is displayed at the bottom of the label?",
+        "answer": "Numerical"
+      },
+      {
+        "question": "What kind of background color is used for the energy efficiency rating bars?",
+        "answer": "Graded"
+      },
+      {
+        "question": "What is the general theme of the information displayed on the label?",
+        "answer": "Energy"
+      },
+      {
+        "question": "Does the label include a unique product identifier or code?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/15/15cbf806.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary ingredient explicitly declared on the product label?",
+        "answer": "Oregano"
+      },
+      {
+        "question": "Considering the production note, what tree-based product was processed in the same facility?",
+        "answer": "Nuts"
+      },
+      {
+        "question": "Besides nuts, what other dairy product was processed alongside oregano in the facility?",
+        "answer": "Milk"
+      },
+      {
+        "question": "What grain-based product shares production space with the oregano, as indicated on the label?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "What legume was processed in the same facility where the oregano was manufactured?",
+        "answer": "Soy"
+      },
+      {
+        "question": "What is the overall text color used for the product's label information?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the general background color on which the product information is printed?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall style of the font used for ingredients and production information?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Describing the label's format, is the text arranged in a single column or multiple?",
+        "answer": "Single"
+      },
+      {
+        "question": "What is the case of lettering used for the 'INGREDIENTS' heading on the product label?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "What punctuation mark ends the ingredients list and the production note on the label?",
+        "answer": "Period"
+      },
+      {
+        "question": "What word is used to introduce the list of ingredients present in the product?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What word connects the statement about ingredients to the processing facility details?",
+        "answer": "Produced"
+      },
+      {
+        "question": "What preposition is used before the list of tree nuts, milk, wheat and soy?",
+        "answer": "And"
+      },
+      {
+        "question": "What word introduces the statement about the processing of multiple items in the facility?",
+        "answer": "Processes"
+      }
+    ]
+  }
+]

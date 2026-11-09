@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5e/5e5634d7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape, what is the dominant orientation of the nutritional information panel shown in the image?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Observing the text blocks, what language is predominantly used to convey the nutritional information?",
+        "answer": "English"
+      },
+      {
+        "question": "Focusing on the color scheme, what is the predominant background color of the nutritional information panel?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Examining the typography, what typeface is primarily used for the headings describing macronutrients?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Analyzing the text layout, how are the values for 100g and 30g portions numerically presented relative to each other?",
+        "answer": "Aligned"
+      },
+      {
+        "question": "Looking at the data organization, what metric system is used for the quantities of fat, carbohydrates, and protein listed?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Considering the textual content, what is the unit of measurement utilized for the energy content of the food product?",
+        "answer": "kJ"
+      },
+      {
+        "question": "Based on the visual appearance, what is the overall tone or style of the presentation of the nutritional information?",
+        "answer": "Formal"
+      },
+      {
+        "question": "Inspecting the graphic design, are there any distinct visual separators or borders used to segment different nutrient categories?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the color palette,  what secondary color is used sparingly on the nutritional facts panel?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Regarding the information structure, what nutrient is consistently listed and prominently displayed, demonstrating significance?",
+        "answer": "Fat"
+      },
+      {
+        "question": "Analyzing the text clarity, how is the information on serving sizes, specifically the number of servings per pack, visually presented?",
+        "answer": "Numerically"
+      },
+      {
+        "question": "Considering the textual content, what specific unit of measure is used to quantify the salt content?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Examining the overall layout, how is the information regarding 'of which saturates' presented in relation to the total fat content?",
+        "answer": "Subsequently"
+      },
+      {
+        "question": "Based on the visual structure, what aspect of the nutritional information panel suggests a focus on clarity and readability?",
+        "answer": "Alignment"
+      }
+    ]
+  }
+]

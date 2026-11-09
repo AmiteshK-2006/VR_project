@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bf/bff5b265.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What appears to be the primary material of the textile?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "What type of fasteners are visible along the edge of the fabric?",
+        "answer": "Buttons"
+      },
+      {
+        "question": "Describing the overall texture, is the fabric smooth or rough?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the gathered fabric, what is the general shape of the folds?",
+        "answer": "Knotted"
+      },
+      {
+        "question": "What is the apparent sheen or luster of the fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on the image, what is the visible weave type of the textile?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Does the fabric appear to have any noticeable patterns or prints?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the visible arrangement of the buttons on the fabric?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Judging by the image, how thick does the fabric appear to be?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the approximate size of the visible buttons on the fabric?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the color of the buttons visible on the fabric?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe the visual state of the fabric – is it wrinkled or flat?",
+        "answer": "Wrinkled"
+      },
+      {
+        "question": "Observing the creases, how tightly is the fabric gathered?",
+        "answer": "Loosely"
+      },
+      {
+        "question": "Does the image reveal any additional details besides the fabric and buttons?",
+        "answer": "No"
+      }
+    ]
+  }
+]

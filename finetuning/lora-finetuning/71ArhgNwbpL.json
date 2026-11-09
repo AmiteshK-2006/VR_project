@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/43/43dbdcca.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the prominent rectangular label on the product packaging, visually apparent from the presented angle?",
+        "answer": "Green"
+      },
+      {
+        "question": "What appears to be the primary material composing the flexible packaging of the product, visually assessed from its overall form and texture?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Considering the overall form and dimensions of the item presented in the image, what is its most apparent geometric shape?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What seems to be the texture of the visibly apparent surface of the product's packaging, as discernible from the image's details?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the product’s packaging from the provided image, can you determine whether there is any visible text present on it?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the overall shape of the packaging, accounting for any subtle curves and folds observable from the depicted perspective?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Based on the visible information provided, what appears to be the orientation of the text on the product’s packaging?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Focusing solely on the product’s packaging, what seems to be the state of its seal, open or closed, as inferred from the image’s visual details?",
+        "answer": "Closed"
+      },
+      {
+        "question": "Judging from the image, what is the approximate size of the product, referring to its overall length relative to average human hand size?",
+        "answer": "Tall"
+      },
+      {
+        "question": "What seems to be the condition of the product's packaging, considering visible imperfections, wrinkles, or damage from the image provided?",
+        "answer": "Intact"
+      },
+      {
+        "question": "Looking at the product, what is the overall design style of the packaging, focusing on the label's design elements and color scheme?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Based solely on visual aspects from the provided image, what is the apparent style of the labeling on the packaging, e.g., modern, vintage, etc.?",
+        "answer": "Modern"
+      },
+      {
+        "question": "Observing the overall presentation, what could be the suggested use case of the product based purely on visual cues?",
+        "answer": "Food"
+      },
+      {
+        "question": "Judging by the packaging's features, what kind of product does the packaging seem to contain, considering texture, material, and shape?",
+        "answer": "Dry"
+      },
+      {
+        "question": "Based on the visual information available, what seems to be the general aesthetic quality of the product's packaging, e.g., high-end, budget-friendly, etc.?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

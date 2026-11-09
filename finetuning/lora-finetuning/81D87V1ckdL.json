@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f3/f399209a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the nutritional information panel, as shown in the image?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What is the primary font style used for the title 'Nutrition Facts' on the label?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Considering the image, what numerical value is prominently displayed in large font size, representing the total calories per serving?",
+        "answer": "110"
+      },
+      {
+        "question": "Based on the visual data, what is the unit of measurement indicated for 'Serving Size'?",
+        "answer": "Tbsp"
+      },
+      {
+        "question": "What is the listed value, in grams, for 'Total Fat' per serving, as shown in the image?",
+        "answer": "1.5g"
+      },
+      {
+        "question": "What is the value, in grams, given for 'Dietary Fiber' per serving according to the image's data?",
+        "answer": "4g"
+      },
+      {
+        "question": "What is the indicated value for 'Total Carbohydrate' per serving in grams?",
+        "answer": "22g"
+      },
+      {
+        "question": "Based on the image, what is the value, in grams, for 'Protein' per serving?",
+        "answer": "3g"
+      },
+      {
+        "question": "What is the visual presentation style for the percentage daily values, e.g., numbers and placement?",
+        "answer": "Aligned"
+      },
+      {
+        "question": "What is the shape of the nutritional information panel as visually presented?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What kind of textual information is predominantly displayed on the presented panel?",
+        "answer": "Numerical"
+      },
+      {
+        "question": "What is the overall visual design style of the nutritional facts display?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Considering the image, what is the approximate number of servings indicated per container?",
+        "answer": "26"
+      },
+      {
+        "question": "What is the visual texture of the presented nutritional information panel?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent material of the surface on which the nutritional information is printed?",
+        "answer": "Paper"
+      }
+    ]
+  }
+]

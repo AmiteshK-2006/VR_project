@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d7/d7abf34e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the font style and overall presentation, what is the primary text's alignment across the visible area?",
+        "answer": "Left"
+      },
+      {
+        "question": "What is the color of the text detailing the product's ingredients and other information?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the visual appearance, what is the background color of the ingredient list section?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Judging by the text's density and structure, what type of information is presented?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the case of the lettering utilized for the word \"INGREDIENTS\" at the top of the listing?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Observe the overall textual layout—is it arranged in a single column or multiple columns?",
+        "answer": "Single"
+      },
+      {
+        "question": "Does the visual presentation of the ingredient list use any special formatting elements besides basic text?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the typography, is the font used for ingredient list serif or sans-serif?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the apparent size of the text in terms of its relative scale compared to the background?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the general format of the ingredient list, such as bulleted, numbered, or unformatted?",
+        "answer": "Unformatted"
+      },
+      {
+        "question": "Judging by the image, is the presented text predominantly in a single font type or multiple fonts?",
+        "answer": "Single"
+      },
+      {
+        "question": "Considering the text's clarity, is the ingredient list easy or difficult to read based on visual cues?",
+        "answer": "Easy"
+      },
+      {
+        "question": "Describe the visual texture of the background surface against which the text is printed.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the overall visual elements, what is the predominant visual style of the product information?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Based on the visual appearance of the text and its layout, what is the product type this information describes?",
+        "answer": "Food"
+      }
+    ]
+  }
+]

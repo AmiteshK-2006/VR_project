@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a1/a1c88df0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall color of the depicted item?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent surface finish?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image, what seems to be the primary material used?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Judging by the lack of visible markings, is the item decorated or plain?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Does the image reveal any obvious folds or creases in the object?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the edges, what shape best describes the product's form?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "From the picture, is the item visibly thick or thin in its presentation?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Considering the image's resolution, does the object show a glossy or matte sheen?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on its visual characteristics, what's the apparent weight of the item?",
+        "answer": "Light"
+      },
+      {
+        "question": "Considering its size and shape, what is the likely function of this item?",
+        "answer": "Sheet"
+      },
+      {
+        "question": "Does the image show any visible perforations or holes in the sheet?",
+        "answer": "No"
+      },
+      {
+        "question": "From its appearance, is the item transparent, translucent, or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Based on the visible qualities, what kind of texture is suggested?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the image's background, is there anything else printed on the sheet?",
+        "answer": "No"
+      },
+      {
+        "question": "Given the overall uniformity, is the item consistent or inconsistent in color?",
+        "answer": "Consistent"
+      }
+    ]
+  }
+]

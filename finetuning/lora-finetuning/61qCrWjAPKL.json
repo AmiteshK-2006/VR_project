@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2e/2e3fc79c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual layout, what is the dominant orientation of the presented information on the surface?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the primary textual style employed throughout the visible content?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Given the context, what is the general category of the documented information?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Disregarding punctuation, what is the approximate number of distinct words included?",
+        "answer": "Seventy"
+      },
+      {
+        "question": "Observing the text's density, is the information presentation compact or sparse?",
+        "answer": "Compact"
+      },
+      {
+        "question": "Focusing on the text's typeface, is the font weight predominantly light, medium, or bold?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Considering the text's overall visual appearance, is it clean and easy to read or cluttered and illegible?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Based on the content, what is the single most frequently mentioned animal product?",
+        "answer": "Turkey"
+      },
+      {
+        "question": "Analyzing the listed components, what is one prevalent type of dietary supplement?",
+        "answer": "Vitamins"
+      },
+      {
+        "question": "Judging from the text's length, is the product's ingredient list brief or extensive?",
+        "answer": "Extensive"
+      },
+      {
+        "question": "What is one type of fruit mentioned in this ingredient list?",
+        "answer": "Cranberries"
+      },
+      {
+        "question": "What is one type of plant-based oil included in this ingredient list?",
+        "answer": "Sunflower"
+      },
+      {
+        "question": "What is one type of vegetable included in this ingredient list?",
+        "answer": "Potatoes"
+      },
+      {
+        "question": "Based on the textual content, what is one type of carbohydrate present in the product?",
+        "answer": "Flaxseed"
+      },
+      {
+        "question": "Observing the text's kerning, is the spacing between letters tight or loose?",
+        "answer": "Tight"
+      }
+    ]
+  }
+]

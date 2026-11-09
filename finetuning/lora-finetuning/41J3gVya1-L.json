@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3b/3b10e68d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant visible color of the depicted capsule?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What is the overall shape of the pharmaceutical product shown?",
+        "answer": "Oval"
+      },
+      {
+        "question": "Considering its visual properties, what seems to be the capsule's texture?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on its appearance, what is the apparent material composition of this item?",
+        "answer": "Gelatin"
+      },
+      {
+        "question": "What is the apparent size of the product, relative to the scale provided?",
+        "answer": "Small"
+      },
+      {
+        "question": "Does the capsule show any visible markings or imprints on its surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from its color and form, is this capsule likely coated or uncoated?",
+        "answer": "Coated"
+      },
+      {
+        "question": "Considering the visual context, what is the probable function of this object?",
+        "answer": "Medicine"
+      },
+      {
+        "question": "What is the predominant shade or hue of the pink coloring observed?",
+        "answer": "Light"
+      },
+      {
+        "question": "Observing the edges of this item, is its form perfectly regular?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the visual appearance suggest any significant irregularities in shape?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent gloss level of the displayed medicinal capsule?",
+        "answer": "High"
+      },
+      {
+        "question": "Judging from the image, what is the general condition of this object?",
+        "answer": "Intact"
+      },
+      {
+        "question": "In the given visual representation, how many capsules are clearly visible?",
+        "answer": "One"
+      },
+      {
+        "question": "Considering its visual characteristics, does the object appear transparent or opaque?",
+        "answer": "Opaque"
+      }
+    ]
+  }
+]

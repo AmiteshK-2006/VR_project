@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9b/9be218e0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's presentation, what is the primary visual element conveying the product's composition?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the dominant color palette used in presenting the ingredient list?",
+        "answer": "Black"
+      },
+      {
+        "question": "Regarding the textual layout, what is the organizational style used to list the ingredients?",
+        "answer": "List"
+      },
+      {
+        "question": "What is the overall shape of the area containing the product's ingredient information?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Observing the text closely, what is the font style used to present the ingredient list?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "In the context of the visual presentation, what is the textual hierarchy conveying ingredient categories?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Judging from the visual presentation, what is the primary method of conveying information about the product's ingredients?",
+        "answer": "Words"
+      },
+      {
+        "question": "Considering the image's structure, what is the textual alignment used for presenting the ingredient list?",
+        "answer": "Left"
+      },
+      {
+        "question": "Based on visual examination, what is the formatting style used to separate different ingredient categories?",
+        "answer": "Lines"
+      },
+      {
+        "question": "From the image, what is the visual medium used to represent the ingredient list?",
+        "answer": "Print"
+      },
+      {
+        "question": "In terms of visual design, what is the overall style of the ingredient presentation?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the visual characteristic of the lettering used in specifying the product's ingredients?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Considering the textual density, what is the visual characteristic of the displayed text's arrangement?",
+        "answer": "Dense"
+      },
+      {
+        "question": "What visual clue denotes the separation between the ingredients and the allergy information?",
+        "answer": "Spacing"
+      },
+      {
+        "question": "Based on the visual layout, what is the characteristic of the textual information presented regarding allergens?",
+        "answer": "Separate"
+      }
+    ]
+  }
+]

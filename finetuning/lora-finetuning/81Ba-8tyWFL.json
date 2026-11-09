@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c3/c3804998.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary textual element displayed prominently across the top of this nutritional label?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Considering the overall design, what is the dominant color scheme employed for this nutritional information panel?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the specified serving size, expressed both in ounces and grams, as detailed in the second line of the label?",
+        "answer": "Ounces"
+      },
+      {
+        "question": "What specific unit of measurement is consistently used to quantify the amounts of fat, sugars, proteins, and other nutritional components?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What numerical value is prominently displayed, representing the total caloric content per serving, as clearly shown in the upper right?",
+        "answer": "160"
+      },
+      {
+        "question": "What percentage of the daily recommended value of total fat is provided by a single serving of this food item, as indicated alongside the total fat amount?",
+        "answer": "18%"
+      },
+      {
+        "question": "What is the indicated amount, in milligrams, of cholesterol present in a single serving of this food product, as identified in the nutrition facts?",
+        "answer": "0"
+      },
+      {
+        "question": "How many grams of dietary fiber are contained within a single serving, as clearly shown next to its label on the panel?",
+        "answer": "4"
+      },
+      {
+        "question": "What is the total amount of sugar, in grams, per serving, as explicitly presented on the panel?",
+        "answer": "1"
+      },
+      {
+        "question": "How many grams of protein are listed as a component of a single serving within this item's nutritional information?",
+        "answer": "6"
+      },
+      {
+        "question": "What is the quantity of calcium, measured in milligrams, included in a single serving, as presented within the nutritional information?",
+        "answer": "80"
+      },
+      {
+        "question": "According to this nutritional panel, how much iron, in milligrams, is provided per serving?",
+        "answer": "1"
+      },
+      {
+        "question": "What is the amount of potassium in milligrams present in one serving of this food, as indicated near the bottom of the label?",
+        "answer": "210"
+      },
+      {
+        "question": "What is the overall rectangular shape of this particular nutrition label?",
+        "answer": "Rectangle"
+      },
+      {
+        "question": "What is the type of font predominantly used throughout the nutrition facts panel?",
+        "answer": "Sans-serif"
+      }
+    ]
+  }
+]

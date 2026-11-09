@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/24/2414504e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what single word best describes the product's primary shape as depicted in the provided image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visible design, what is the most prominent color band present on the product's packaging?",
+        "answer": "Green"
+      },
+      {
+        "question": "What material is most likely used for the primary packaging, judging by its visual appearance and typical product packaging?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Observing the product's image, what kind of surface texture does the packaging seem to have, taking into account lighting and image quality?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "If focusing specifically on the central area of the product, does the image reveal any text or branding element on the packaging?",
+        "answer": "Text"
+      },
+      {
+        "question": "In terms of the product's visual presentation, can you describe the style of the packaging using a single descriptive word that indicates its look?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Focusing on the packaging's structural components, how many distinct panels can be visually distinguished, considering any visible folds or seams?",
+        "answer": "Two"
+      },
+      {
+        "question": "Referring only to visible details, what kind of seal or closure seems to be used at the top of the product packaging?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Is there a noticeable logo or emblem, or any distinguishing graphic markings visually present on the product's packaging?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the image's clarity, what shade of green is most noticeable on the product's packaging, keeping in mind it could be influenced by lighting?",
+        "answer": "Light"
+      },
+      {
+        "question": "Judging by the image and typical packaging conventions, what seems to be the primary function of the product packaging as shown here?",
+        "answer": "Protection"
+      },
+      {
+        "question": "Observing the visible text, does the packaging display any nutritional or ingredient information that is visible to the viewer?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the overall design, would you describe the packaging's visual appearance as predominantly plain or ornate?",
+        "answer": "Plain"
+      },
+      {
+        "question": "In terms of the visible text on the packaging, how would you describe the size of the font used, compared to the product dimensions?",
+        "answer": "Small"
+      },
+      {
+        "question": "Examining the image, does the product packaging feature any visible perforations, tear lines, or special openings?",
+        "answer": "No"
+      }
+    ]
+  }
+]

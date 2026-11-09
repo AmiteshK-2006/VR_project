@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/cd/cdbc137c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant visual characteristic of the product's primary material?",
+        "answer": "Transparent"
+      },
+      {
+        "question": "Considering the overall form, what is the most accurate geometric description of each individual product unit?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based solely on the visual appearance, what seems to be the primary intended function of the product?",
+        "answer": "Packaging"
+      },
+      {
+        "question": "Disregarding the box, what is the apparent texture of the product surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the most visually apparent physical state of the product units?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Judging from the image alone, what is the apparent primary material composing the product units?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "From the perspective of packaging, what is the most prominent visual feature of the product's presentation?",
+        "answer": "Rolls"
+      },
+      {
+        "question": "Considering the number of units, how many individual product pieces are depicted in the image?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the primary color observed in the product units, ignoring any potential variations due to lighting?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the visual appearance of the ends of the rolled product units?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Ignoring any labeling, what is the overall visual impression of the packaging's material?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the dominant color of the product's packaging box?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Describing the box's label, what is the most prominent visual element?",
+        "answer": "Logo"
+      },
+      {
+        "question": "Based on the visual presentation, what is the likely purpose of the product's packaging?",
+        "answer": "Protection"
+      },
+      {
+        "question": "Considering the visual context, what is the probable function of the product as shown in the image?",
+        "answer": "Food"
+      }
+    ]
+  }
+]

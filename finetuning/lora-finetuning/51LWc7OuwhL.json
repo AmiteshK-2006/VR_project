@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f8/f806275e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the depicted object, as seen in the provided image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the image, what appears to be the primary material used in the construction of this item?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Based on the visual evidence in the photograph, what is the general three-dimensional form of the product shown?",
+        "answer": "Oval"
+      },
+      {
+        "question": "Judging solely from the provided image, what kind of surface texture does the item seem to possess?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the object's surface show any noticeable patterns, markings, or text, according to the image?",
+        "answer": "No"
+      },
+      {
+        "question": "As shown in the image, how many distinct components or parts comprise this item, visually?",
+        "answer": "One"
+      },
+      {
+        "question": "Based only on visual observation of the photograph, does the item appear to have any visible seams or joints?",
+        "answer": "No"
+      },
+      {
+        "question": "From the image alone, what is the apparent size or scale of the item relative to a human hand?",
+        "answer": "Small"
+      },
+      {
+        "question": "Judging from the image, does the object's form suggest any specific functionality or use?",
+        "answer": "Toy"
+      },
+      {
+        "question": "Considering the visual details in the provided image, is the item's surface uniformly colored or variegated?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Does the object, as depicted, exhibit any signs of significant wear or damage based on the image alone?",
+        "answer": "No"
+      },
+      {
+        "question": "According to the image, is the item's shape consistently symmetrical or asymmetrical?",
+        "answer": "Symmetrical"
+      },
+      {
+        "question": "Does the product, as visually presented, seem to have a shiny or matte finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "From the provided image, is the object's overall design simple or complex in its visual appearance?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Based on the image, does the object's color appear deep, light, or intermediate in intensity?",
+        "answer": "Deep"
+      }
+    ]
+  }
+]

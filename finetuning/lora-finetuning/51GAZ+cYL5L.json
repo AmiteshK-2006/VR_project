@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e6/e6001fb3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary substance explicitly mentioned as an ingredient, based on the visible text within the provided image?",
+        "answer": "Milk"
+      },
+      {
+        "question": "Considering the visible text, what vitamin is listed as a component, appearing after 'Vitamin A Palmitate'?",
+        "answer": "D3"
+      },
+      {
+        "question": "Observing the textual information, what specific type of vitamin is mentioned, in combination with 'Palmitate'?",
+        "answer": "A"
+      },
+      {
+        "question": "What is the color of the background surface on which the text is printed, judging solely from the visible portion of the image?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "What is the general style of the typeface used in the visible text, in terms of its characteristics such as the thickness or thinness of the strokes?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Disregarding any specific words, what is the case of all the letters in the visible text, whether uppercase or lowercase?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Judging only from the visible portion, what is the overall arrangement of the lines of text, is it vertically stacked or horizontally aligned?",
+        "answer": "Stacked"
+      },
+      {
+        "question": "Based on visual observation, what is the alignment of the text blocks in relation to the edges of the image, is it centered or aligned to one side?",
+        "answer": "Left"
+      },
+      {
+        "question": "Considering the image solely, what appears to be the nature of the surface, is it smooth or textured judging from the image, or is there not enough information for a judgment?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the tone or shade of the ink used in the visible text?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Excluding the content of the message itself, what is the general shape or form of the text, is it rectangular or another shape?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the overall style of the text's visual presentation; is it formal or informal?",
+        "answer": "Formal"
+      },
+      {
+        "question": "What seems to be the material of the surface that bears the text, paper or another material?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Considering only the visual information, is the font used serif or sans-serif?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the approximate number of lines of text that are entirely visible in the image?",
+        "answer": "Two"
+      }
+    ]
+  }
+]

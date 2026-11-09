@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f0/f0aee0a1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the predominant shape of this footwear item as observed from the sole?",
+        "answer": "Pointed"
+      },
+      {
+        "question": "Based on the visible texture, what material appears to be used in the construction of the main body of this shoe?",
+        "answer": "Suede"
+      },
+      {
+        "question": "Examining the color palette, what single word best describes the overall hue of this shoe?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Focusing on the sole's edge, what design element is noticeable along the perimeter?",
+        "answer": "Stitching"
+      },
+      {
+        "question": "What distinct feature is visible on the heel, indicating the brand or maker of this shoe?",
+        "answer": "Label"
+      },
+      {
+        "question": "Observing the heel counter, what is its shape in relation to the shoe's overall silhouette?",
+        "answer": "Block"
+      },
+      {
+        "question": "Looking at the sole, what is the apparent texture or finish of the insole?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Inspecting the construction, what type of footwear is shown—a boot, sandal, or other type?",
+        "answer": "Slipper"
+      },
+      {
+        "question": "Considering the manufacturing, what appears to be the dominant material used for the sole?",
+        "answer": "Leather"
+      },
+      {
+        "question": "What type of design element appears to be used to separate the insole and outer sole regions?",
+        "answer": "Seam"
+      },
+      {
+        "question": "Analyzing the visual appeal, which descriptor best describes the style of this shoe: casual, formal, or other?",
+        "answer": "Casual"
+      },
+      {
+        "question": "Considering the components, which part seems to provide the primary support and structure?",
+        "answer": "Heel"
+      },
+      {
+        "question": "Observing the material at the edge of the sole, what finishing technique is used?",
+        "answer": "Stitched"
+      },
+      {
+        "question": "What aspect of the heel's design is particularly noticeable regarding its shape or form?",
+        "answer": "Square"
+      },
+      {
+        "question": "Based on the image, what is the visible state or condition of this shoe; new or worn?",
+        "answer": "New"
+      }
+    ]
+  }
+]

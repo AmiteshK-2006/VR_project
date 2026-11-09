@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/96/96835be2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the displayed fabric swatch?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the visual texture, what is the fabric's apparent feel?",
+        "answer": "Fuzzy"
+      },
+      {
+        "question": "Based on the image, what is the overall shape of this item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging by the visual texture, what is the likely material type?",
+        "answer": "Fleece"
+      },
+      {
+        "question": "Does the fabric exhibit a noticeable pattern or design?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the visual uniformity of the fabric's color and texture.",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Considering the visible fibers, how thick does the fabric appear?",
+        "answer": "Thick"
+      },
+      {
+        "question": "What is the apparent level of sheen or glossiness of the fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "From the image, does the fabric seem soft or stiff to the touch?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Is there any visible stitching, weaving, or other textural details?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the visual impression of the fabric's density or compactness?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Judging by the appearance, is the fabric likely to be lightweight or heavy?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "Does the color appear vibrant or muted in the given image?",
+        "answer": "Muted"
+      },
+      {
+        "question": "Based solely on the image, how would you describe the fabric's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the displayed fabric show any visible irregularities or imperfections?",
+        "answer": "No"
+      }
+    ]
+  }
+]

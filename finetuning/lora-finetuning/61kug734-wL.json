@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d7/d78f8bfd.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout and text arrangement, what is the primary function indicated by the visual elements?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Based on the textual information presented, what is the product type or category?",
+        "answer": "Cosmetic"
+      },
+      {
+        "question": "Examining the text formatting, what is the dominant font style used throughout the list?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the prevalent color scheme employed in the visual presentation of this product's description?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Focusing on the textual elements, what is the predominant text size employed for the ingredient list?",
+        "answer": "Small"
+      },
+      {
+        "question": "Judging from the visual presentation, what is the overall structure of this list's organization?",
+        "answer": "List"
+      },
+      {
+        "question": "What is the overall visual arrangement of the text blocks, if any, observed?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Considering the presented text, what is the text's alignment on the page or container?",
+        "answer": "Left"
+      },
+      {
+        "question": "Judging by the visual elements, what is the level of visual clarity and legibility of the textual content?",
+        "answer": "High"
+      },
+      {
+        "question": "Based on the textual content, what is the overall tone of the information conveyed?",
+        "answer": "Informative"
+      },
+      {
+        "question": "What is the background color of the packaging or label in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the visual texture of the listed text, i.e. is it bold, italicized, etc.?",
+        "answer": "Plain"
+      },
+      {
+        "question": "What is the apparent line spacing between each line in the list?",
+        "answer": "Single"
+      },
+      {
+        "question": "Observe the visual presentation of the words. What is the type of capitalization used?",
+        "answer": "Sentence"
+      },
+      {
+        "question": "Considering the provided text, what is the overall visual density or compactness of the information?",
+        "answer": "Dense"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fd/fdd13ab3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual layout, what is the primary function of this visually presented information?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Focusing on the textual blocks, what specific aspect of food is the top section primarily dedicated to detailing?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Regarding the detailed composition of the food item, what is the primary ingredient listed in the ingredients section?",
+        "answer": "Chickpeas"
+      },
+      {
+        "question": "Within the ingredients list, what oil is explicitly mentioned as a component of the food?",
+        "answer": "Olive"
+      },
+      {
+        "question": "In the list of ingredients, what type of pepper is specified as a component?",
+        "answer": "Red"
+      },
+      {
+        "question": "Examining the ingredients list, what acidic compound is explicitly mentioned as an ingredient?",
+        "answer": "Citric"
+      },
+      {
+        "question": "What common seasoning or spice is listed among the ingredients of this food item?",
+        "answer": "Garlic"
+      },
+      {
+        "question": "What other type of oil is listed besides olive oil amongst the ingredients?",
+        "answer": "Canola"
+      },
+      {
+        "question": "Looking at the ingredients list, what kind of seeds are explicitly part of the composition?",
+        "answer": "Sesame"
+      },
+      {
+        "question": "What is the specified serving size for this particular food product, as indicated by the text?",
+        "answer": "Tablespoons"
+      },
+      {
+        "question": "According to the nutrition facts, how many servings are present in a container of this food product?",
+        "answer": "Servings"
+      },
+      {
+        "question": "Based on the nutrition facts, what is the approximate total fat content of a single serving?",
+        "answer": "Grams"
+      },
+      {
+        "question": "In the nutritional information, what specific mineral is identified and listed with its corresponding DV percentage?",
+        "answer": "Sodium"
+      },
+      {
+        "question": "Focusing on the nutrition facts, what vitamin is specifically mentioned along with its daily value percentage?",
+        "answer": "Vitamin"
+      },
+      {
+        "question": "What type of dietary component is included with its specific percentage in the daily value information?",
+        "answer": "Fiber"
+      }
+    ]
+  }
+]

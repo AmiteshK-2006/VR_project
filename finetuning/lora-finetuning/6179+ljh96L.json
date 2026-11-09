@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/84/843bd6fc.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout and typography, what is the primary function of this product's labeling?",
+        "answer": "Information"
+      },
+      {
+        "question": "What is the prominent textual element displayed at the top of this nutritional label?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Focusing on the numerical data, what is the total number of calories per serving?",
+        "answer": "150"
+      },
+      {
+        "question": "In terms of the textual content, what type of food product is this label for?",
+        "answer": "Bun"
+      },
+      {
+        "question": "Based solely on the visual information, what is the serving size specified?",
+        "answer": "One"
+      },
+      {
+        "question": "Observing the nutrition facts, what is the total amount of saturated fat per serving?",
+        "answer": "1.5g"
+      },
+      {
+        "question": "According to the label, how many servings are included in the container?",
+        "answer": "Six"
+      },
+      {
+        "question": "What is the total amount of protein, in grams, per single serving?",
+        "answer": "4g"
+      },
+      {
+        "question": "What is the color palette primarily used on the nutrition facts label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the measurement unit consistently used to denote the quantity of various nutrients?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the shape of the nutrition label depicted in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the text's orientation in regards to the layout's overall direction?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the texture implied by the appearance of this label's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall style of the typography and font used on the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the background color of the Nutrition Facts label?",
+        "answer": "White"
+      }
+    ]
+  }
+]

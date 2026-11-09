@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e3/e34f4b8b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the rolled-up product shown in the image?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering its pliable form, what is the most likely material composition of the item?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Based on its visual texture, how would you describe the surface of the product?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall shape of the product when it is displayed as shown in the image?",
+        "answer": "Rolled"
+      },
+      {
+        "question": "Describing the product's form, what adjective best conveys its flexibility?",
+        "answer": "Pliable"
+      },
+      {
+        "question": "Judging by the image, what is the approximate thickness of each individual layer?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What is the apparent state of the item; is it new or used?",
+        "answer": "New"
+      },
+      {
+        "question": "What material appears to be used for the bundling of the product shown?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Observing the image carefully, how many distinct layers does this item have?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "Considering the image, what is the most noticeable characteristic of this item's form?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What can be observed about the color consistency throughout the entire product?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Does the product display any visible markings, logos or textures apart from its color and form?",
+        "answer": "None"
+      },
+      {
+        "question": "Based on its appearance, what is the implied function of this long, flexible object?",
+        "answer": "Sealing"
+      },
+      {
+        "question": "How would you describe the overall visual presentation of the product in the image?",
+        "answer": "Neat"
+      },
+      {
+        "question": "What is the visible condition of the edges of the layers of the item?",
+        "answer": "Clean"
+      }
+    ]
+  }
+]

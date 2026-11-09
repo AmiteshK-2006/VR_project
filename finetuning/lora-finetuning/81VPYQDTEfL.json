@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f6/f66cfc65.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the text on the product's ingredient list?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the typeface and overall presentation, what is the style of the text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the background color of the ingredient list panel shown?",
+        "answer": "White"
+      },
+      {
+        "question": "Judging by the density of the text, how much information is conveyed on the label?",
+        "answer": "Much"
+      },
+      {
+        "question": "What is the overall shape of the area containing the list of ingredients?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the text's organization, what is the primary function of this section?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Describe the texture of the ingredient list's textual surface shown in the image.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the orientation of the text blocks within the displayed area?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Based on its visual characteristics, what kind of surface is the text printed on?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Considering the content displayed, what kind of food is the ingredient list associated with?",
+        "answer": "Baked"
+      },
+      {
+        "question": "What is the general style of the labeling design for the ingredient list?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Considering the visual elements, how prominent are the ingredient names?",
+        "answer": "High"
+      },
+      {
+        "question": "Judging by its visual appearance, is the overall text block easy to read?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the image suggest the presence of any graphics alongside the text?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the size and placement, is the text legible at a typical viewing distance?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

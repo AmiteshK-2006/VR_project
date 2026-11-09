@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ab/abecedec.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual layout, what is the dominant orientation of the product's ingredient list?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the primary color used for the text detailing the ingredients of the food item?",
+        "answer": "Black"
+      },
+      {
+        "question": "Examining the textual arrangement, what kind of typography is predominantly used for the ingredient list?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the visual appearance of the text, what is the approximate font size of the words 'INGREDIENTS:'?",
+        "answer": "Large"
+      },
+      {
+        "question": "Observing the text block, what is the case of the lettering used in the ingredient list (uppercase, lowercase, or a mix)?",
+        "answer": "Mixed"
+      },
+      {
+        "question": "What is the visual characteristic of the text's formatting regarding the individual ingredients' separation?",
+        "answer": "Indented"
+      },
+      {
+        "question": "Considering the presence of various ingredient names, what is the overall style that best describes the text's formatting?",
+        "answer": "List"
+      },
+      {
+        "question": "Based on the appearance of the text, what is the visual texture conveyed by the font style?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging from the visual density of the text, how would you describe the product information's presentation style?",
+        "answer": "Compact"
+      },
+      {
+        "question": "What is the visual characteristic of the text's alignment along the vertical axis (left, center, right, justified)?",
+        "answer": "Left"
+      },
+      {
+        "question": "What appears to be the textual style used for the title 'INGREDIENTS:'?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the visual format used to separate the main ingredients list from the allergy information?",
+        "answer": "Spacing"
+      },
+      {
+        "question": "What is the color of the background against which the ingredients are listed?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the image, what type of information is primarily communicated on the product?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Describe the visual appearance of the word 'CONTAINS' in relation to the rest of the text.",
+        "answer": "Capitalized"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/29/290e776f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the text on the supplement facts label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the supplement facts label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the texture of the supplement facts label?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the material of the supplement facts label?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the predominant font style used for the header?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the color of the 'Supplement Facts' header?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the unit of measurement used for the dosages?",
+        "answer": "mg"
+      },
+      {
+        "question": "What is the term used to indicate an unestablished daily value?",
+        "answer": "Not"
+      },
+      {
+        "question": "What is listed as the serving size?",
+        "answer": "Capsules"
+      },
+      {
+        "question": "What is one of the listed ingredients?",
+        "answer": "Gelatin"
+      },
+      {
+        "question": "What type of ingredient is explicitly mentioned as present?",
+        "answer": "Shellfish"
+      },
+      {
+        "question": "What is the number of servings per container?",
+        "answer": "120"
+      },
+      {
+        "question": "What other ingredient is listed, besides Gelatin?",
+        "answer": "Rice"
+      },
+      {
+        "question": "What is the type of information presented on this label?",
+        "answer": "Facts"
+      },
+      {
+        "question": "What is the name of the section at the top of the label?",
+        "answer": "Supplement"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/02/02e774e8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the extensive list of ingredients, what is the primary ingredient visibly prominent in this product's composition, as shown in the provided image?",
+        "answer": "Pumpkin"
+      },
+      {
+        "question": "Based on the image, what is the text's dominant color, indicating the product's overall branding or aesthetic?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Examining the textual layout, what is the overall orientation of the text blocks describing the product's ingredients?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "From the visual information available, what type of font is used to present the detailed list of ingredients?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Given the image, what is the general texture of the background surface where the ingredient list is printed?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the case of the lettering used to display the word 'INGREDIENTS' at the beginning of the list?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Focusing on the visual presentation, what is the general arrangement of the ingredient list, such as single or multi-column layout?",
+        "answer": "Single"
+      },
+      {
+        "question": "Analyzing the image, what is the style of the text, considering its simplicity or elaborateness in its design?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Based purely on the visual aspects of the image, is the font of the text bold or light, as visually observed?",
+        "answer": "Light"
+      },
+      {
+        "question": "Judging from the image, what kind of printing or labeling technique seems to have been used to reproduce this ingredient list?",
+        "answer": "Offset"
+      },
+      {
+        "question": "Considering the image, what is the visual size of the text, relative to the overall size of the image presented?",
+        "answer": "Small"
+      },
+      {
+        "question": "Observing the visible text, what is the spacing of the lines between the ingredient names?",
+        "answer": "Single"
+      },
+      {
+        "question": "Considering the visible text, does the text exhibit any noticeable visual distortions or irregularities?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the provided image, is there any visible use of decorative elements or graphics aside from the text?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on visual cues, does the provided text use any specific formatting elements such as italics or bolding for emphasis?",
+        "answer": "No"
+      }
+    ]
+  }
+]

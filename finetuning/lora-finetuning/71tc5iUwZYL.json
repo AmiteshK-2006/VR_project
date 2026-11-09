@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/97/97b62405.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the visible food product?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What appears to be the overall shape of the food item?",
+        "answer": "Round"
+      },
+      {
+        "question": "What kind of packaging is immediately surrounding the product?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Is the surface of the product smooth or does it show any texture?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Considering the visible portion, what is the approximate size of the product?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Based on appearance, what might be the food's general consistency?",
+        "answer": "Semi-soft"
+      },
+      {
+        "question": "What seems to be interspersed within the food's primary color?",
+        "answer": "Specks"
+      },
+      {
+        "question": "Describe the overall impression of the product's visual appearance.",
+        "answer": "Natural"
+      },
+      {
+        "question": "Does the packaging provide any clear view of the product's other side?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the most prominent visual characteristic of the product's surface?",
+        "answer": "Uneven"
+      },
+      {
+        "question": "What is the apparent state of the packaging; sealed or opened?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Considering its form, what might be the method used for portioning?",
+        "answer": "Slicing"
+      },
+      {
+        "question": "Does the packaging suggest a product intended for immediate consumption?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Are there any noticeable labels or markings directly on the product?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the visual attributes, what is the likely type of food product?",
+        "answer": "Cheese"
+      }
+    ]
+  }
+]

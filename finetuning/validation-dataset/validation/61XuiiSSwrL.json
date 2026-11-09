@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d1/d1d14fdc.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the depicted bedding item, as visually apparent?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the visible texture, what is the apparent material of the blanket?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "What is the overall shape of the product when fully extended, judging by the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visual display, what is the apparent primary function of this item?",
+        "answer": "Bedding"
+      },
+      {
+        "question": "Describing the visible structure, how does the blanket appear to be constructed?",
+        "answer": "Quilted"
+      },
+      {
+        "question": "Judging from the image, what is the observed softness level of the fabric?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Based on the visual cues, what is the apparent thickness of this item?",
+        "answer": "Thick"
+      },
+      {
+        "question": "What is the discernible state of the product in the provided photograph?",
+        "answer": "Rolled"
+      },
+      {
+        "question": "Considering the visual folds, what is the implied level of wrinkle resistance?",
+        "answer": "Wrinkled"
+      },
+      {
+        "question": "Based on the image's presentation, what is the product's suggested use case?",
+        "answer": "Sleeping"
+      },
+      {
+        "question": "Judging by the image, how many distinct layers or sections make up the visual composition?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the general visual impression of the item's warmth, judging from the appearance?",
+        "answer": "Warm"
+      },
+      {
+        "question": "Based on visual inspection, how would you describe the overall feel of the item?",
+        "answer": "Plush"
+      },
+      {
+        "question": "Considering the visible details, is the product designed for single or multiple users?",
+        "answer": "Single"
+      },
+      {
+        "question": "What is the visual impression regarding the level of comfort that this product exudes?",
+        "answer": "Cozy"
+      }
+    ]
+  }
+]

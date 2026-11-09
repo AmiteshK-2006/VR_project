@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f4/f4f0817e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color exhibited across the entire surface of the displayed material?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering the visual texture, what is the most apparent surface characteristic of the material?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based solely on visual inspection, what is the overall impression of the material's sheen or lack thereof?",
+        "answer": "Matte"
+      },
+      {
+        "question": "From the image, what would you describe the primary visible grain or fiber direction of the material as?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Judging from the provided image, how would one characterize the apparent uniformity of the material's color and texture?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Considering the image, what is the most evident visual characteristic describing the subtle surface variations?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "What is the most accurate single-word description of the material's apparent visual weight or density?",
+        "answer": "Light"
+      },
+      {
+        "question": "If you were to describe the material's visual texture using only one word, what would it be?",
+        "answer": "Fine"
+      },
+      {
+        "question": "What single word best captures the overall visual impression of the material's surface quality?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Given the image, how would you describe the visible level of detail or intricacy in the material's pattern?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "Based purely on visual assessment, what is the material's apparent level of translucency or opacity?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What single word describes the overall visual tone or hue of the material shown?",
+        "answer": "Warm"
+      },
+      {
+        "question": "In one word, how would you characterize the visible surface treatment or finish of the material?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Considering the presented image, what word best describes the material's visual cleanliness or lack of imperfection?",
+        "answer": "Clean"
+      },
+      {
+        "question": "What single word best describes the apparent visual saturation or intensity of the material's color?",
+        "answer": "Pale"
+      }
+    ]
+  }
+]

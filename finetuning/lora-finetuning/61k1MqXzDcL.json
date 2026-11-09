@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ff/ffe656db.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the text detailing the product's ingredients and distribution information?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the overall textual layout, what is the dominant orientation of the text blocks?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the apparent font style used throughout the majority of the text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Examining the text, what is the size relative to each other of the 'INGREDIENTS' and 'DISTRIBUTED BY' headings?",
+        "answer": "Similar"
+      },
+      {
+        "question": "Based on the visual appearance, what seems to be the background's texture of the informational text?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the general tone or appearance of the text's visual style; formal or informal?",
+        "answer": "Formal"
+      },
+      {
+        "question": "Observing the text closely, what is the primary typeface weight employed throughout?",
+        "answer": "Regular"
+      },
+      {
+        "question": "Judging from the text's visual clarity, what is the condition of the printing or legibility of the nutritional information?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Considering the visual presentation, what is the overall style of the label's arrangement; modern, classic, or other?",
+        "answer": "Modern"
+      },
+      {
+        "question": "What is the relative size of the text blocks describing the 'Ingredients' and 'Distributed By' sections?",
+        "answer": "Large"
+      },
+      {
+        "question": "What is the most prominent labeling style or convention used to present the product's components?",
+        "answer": "List"
+      },
+      {
+        "question": "Based purely on the image, what is the type of surface where the product information is printed?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Observing the visual characteristics of the text, is the text alignment primarily left-justified or centered?",
+        "answer": "Left"
+      },
+      {
+        "question": "What appears to be the overall density of the text, considering the blank space and text quantity?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Considering the image's visual details, what is the apparent print method used (e.g., inkjet, laser)?",
+        "answer": "Unknown"
+      }
+    ]
+  }
+]

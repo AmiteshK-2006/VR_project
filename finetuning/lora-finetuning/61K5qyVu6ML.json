@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/da/da78fd92.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the dominant three-dimensional shape of the packaged product shown?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent primary color of the food product inside the packaging, as observed through the transparent plastic?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What material is predominantly used for the primary packaging of the item shown, enclosing the meat product?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Judging from the visual texture, what seems to be the surface consistency of the meat product in the image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image alone, what kind of product does the packaging seem most likely to contain?",
+        "answer": "Meat"
+      },
+      {
+        "question": "What kind of structural integrity or support does the transparent package appear to provide to the contained product?",
+        "answer": "Form-fitting"
+      },
+      {
+        "question": "Describe the visual clarity or transparency of the material used for the outer packaging of the product.",
+        "answer": "Clear"
+      },
+      {
+        "question": "Given the image, how many distinct sections or compartments are evident in the plastic packaging provided?",
+        "answer": "One"
+      },
+      {
+        "question": "Does the packaging display any labels or markings which are immediately apparent in the provided image?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on visual assessment alone, is there any evidence of additional sealing or closure mechanisms visible on the packaged product?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image, how would you describe the general condition of the packaging displayed, based purely on its appearance?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "What appears to be the orientation of the packaged food item within its containment, as visually presented in the image?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the apparent level of fill of the product in its package, considering the space visible within the packaging?",
+        "answer": "Full"
+      },
+      {
+        "question": "From the image provided, determine the overall size of the packaging, describing it qualitatively.",
+        "answer": "Medium"
+      },
+      {
+        "question": "Considering only visible features, does the packaging have any noticeable folds or creases in the plastic film?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4c/4c0a904e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form and packaging, what is the primary shape of this product container?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What appears to be the predominant color of the spice contained within the jar?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Based on the visual texture, what is the apparent consistency of the contents?",
+        "answer": "Granular"
+      },
+      {
+        "question": "Judging from the image, what material seems to be used for the container?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Can you describe the nature of the label's design, particularly its overall aesthetic?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Observing the label, what brand is prominently displayed on this product?",
+        "answer": "Wholefoods"
+      },
+      {
+        "question": "From the visible features, is there a noticeable lid or closure on this container?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent type of closure present on the jar, from a visual inspection?",
+        "answer": "Screw-top"
+      },
+      {
+        "question": "Does the jar appear to have any clear markings beyond text and the barcode, such as symbols?",
+        "answer": "Yes"
+      },
+      {
+        "question": "In terms of the label design, what color is the main stripe at the bottom of the container?",
+        "answer": "Red"
+      },
+      {
+        "question": "From visual observation, what seems to be the dominant texture of the spice itself?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What is the apparent size of the spice granules, according to the visual evidence?",
+        "answer": "Small"
+      },
+      {
+        "question": "Can you identify the type of barcode displayed on the product's label?",
+        "answer": "UPC"
+      },
+      {
+        "question": "Regarding the label's design, what style is the font used for the product description?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on visual attributes, what kind of product does this appear to be?",
+        "answer": "Spice"
+      }
+    ]
+  }
+]

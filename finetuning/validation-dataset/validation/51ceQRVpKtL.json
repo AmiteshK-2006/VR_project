@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/95/955d9951.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the device's visible surface?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the shape and form factor, what is the device's overall design?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material appears to constitute the majority of the device's casing?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Examining the image, how many prongs are visibly present on the device's plug?",
+        "answer": "Two"
+      },
+      {
+        "question": "Describe the finish of the device's surface; is it glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering its shape and size, what is the probable function of the object?",
+        "answer": "Adapter"
+      },
+      {
+        "question": "What is the apparent texture of the device's outer surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image, are there any visible markings or text on the device?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the shape of the prongs extending from the device's plug?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Is the device's overall form compact and space-saving or bulky and large?",
+        "answer": "Compact"
+      },
+      {
+        "question": "Judging by the image, does the device appear to be portable or stationary?",
+        "answer": "Portable"
+      },
+      {
+        "question": "What is the visual appearance of the text printed on the device's back?",
+        "answer": "Etched"
+      },
+      {
+        "question": "Does the device show any noticeable signs of wear or damage in the image?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the arrangement of the prongs in relation to one another.",
+        "answer": "Parallel"
+      },
+      {
+        "question": "Based solely on the visible features, what is the likely purpose of the device?",
+        "answer": "Charging"
+      }
+    ]
+  }
+]

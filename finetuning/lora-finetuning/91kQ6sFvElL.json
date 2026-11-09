@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/80/80a309da.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color displayed across the entire fabric sample?",
+        "answer": "Teal"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent weave structure of this fabric?",
+        "answer": "Linen"
+      },
+      {
+        "question": "Based on the image, what is the overall visual impression of the fabric's texture?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Judging from the image, what is the most noticeable surface characteristic of this material?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Does the fabric show any visually apparent pattern or motif within its structure?",
+        "answer": "Solid"
+      },
+      {
+        "question": "From visual observation, how would you describe the overall finish of the fabric sample?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What level of sheen or glossiness can be visually observed on the fabric's surface?",
+        "answer": "Low"
+      },
+      {
+        "question": "Considering the visual characteristics, what is the apparent weight or density of the fabric?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Does the fabric show any significant irregularities or imperfections to the naked eye?",
+        "answer": "No"
+      },
+      {
+        "question": "From the visual inspection, what is the apparent thickness or slenderness of the textile?",
+        "answer": "Moderate"
+      },
+      {
+        "question": "Based solely on its visual appearance, is the fabric opaque, translucent, or transparent?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What is the apparent visual uniformity of color and texture across the image?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Judging by the visual details, is the fabric's surface smooth or rough to the touch?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Given the visual clues, would the fabric likely drape stiffly or softly when hung?",
+        "answer": "Softly"
+      },
+      {
+        "question": "What is the visible form or shape presented by the presented textile sample?",
+        "answer": "Rectangular"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4e/4e801d11.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the product's container as depicted in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What primary color dominates the product packaging's background?",
+        "answer": "Purple"
+      },
+      {
+        "question": "What material appears to be used for the product's primary packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Considering the text's density, what is the overall text layout style on the package?",
+        "answer": "Dense"
+      },
+      {
+        "question": "What is the predominant font style used for the large text on the packaging?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the visual cues, what is the probable product category indicated by the packaging?",
+        "answer": "Medication"
+      },
+      {
+        "question": "Observing the text, what language is predominantly used on the product packaging?",
+        "answer": "English"
+      },
+      {
+        "question": "Judging from the image, what is the texture of the packaging's surface likely to be?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the color of the smaller text blocks and graphics on the product container?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the overall design, is the packaging minimalist or ornate in its style?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the apparent finish of the printing on the product packaging?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the general size of the font used for the directions?",
+        "answer": "Small"
+      },
+      {
+        "question": "Judging by the image, does the packaging show any obvious images or illustrations aside from text?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the visible overall orientation of the text on the product container?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Excluding the product name, are there any other prominent brand markings visible?",
+        "answer": "No"
+      }
+    ]
+  }
+]

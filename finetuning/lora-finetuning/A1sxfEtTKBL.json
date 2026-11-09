@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1e/1e758afd.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the close-up image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the visible texture, what is the most likely material of this fabric?",
+        "answer": "Fleece"
+      },
+      {
+        "question": "Based on the image, what is the overall feel or texture of the fabric?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Describe the appearance of the pile, observing its length and consistency.",
+        "answer": "Short"
+      },
+      {
+        "question": "What is the apparent sheen or glossiness level of this textile?",
+        "answer": "Low"
+      },
+      {
+        "question": "What is the visible pattern or design on this piece of fabric?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Judging by the image, what is the density of the fabric's weave?",
+        "answer": "High"
+      },
+      {
+        "question": "Describe the uniformity of the fabric's color and texture.",
+        "answer": "Even"
+      },
+      {
+        "question": "What is the implied drape or flow of the fabric based on the folds?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What single word best describes the visible nap direction?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What is the apparent thickness or weight of the material shown?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Describe the fabric’s visible surface character, such as matte, or glossy.",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based solely on visual appearance, what is the general style of the fabric?",
+        "answer": "Simple"
+      },
+      {
+        "question": "How would you describe the visual appeal of the fabric’s texture?",
+        "answer": "Plush"
+      },
+      {
+        "question": "Considering the image, what is the overall impression of the fabric’s quality?",
+        "answer": "High"
+      }
+    ]
+  }
+]

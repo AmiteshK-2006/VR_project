@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b0/b057196d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual presentation, what is the primary function of the displayed text on the product?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the apparent color of the background surface holding the ingredient information?",
+        "answer": "White"
+      },
+      {
+        "question": "Focusing solely on the typography, what style of typeface is predominantly used for the text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Describe the visual arrangement of the words 'Ingredients:' and the following ingredient list.",
+        "answer": "Aligned"
+      },
+      {
+        "question": "What is the approximate size of the text relative to the container's visible area?",
+        "answer": "Small"
+      },
+      {
+        "question": "Regarding the word 'Ingredients', is it capitalized or lowercase, and what is its font weight?",
+        "answer": "Capitalized"
+      },
+      {
+        "question": "What is the color of the ink used to print the ingredient information?",
+        "answer": "Black"
+      },
+      {
+        "question": "Observing the textual density, would you describe the text block as sparse or compact?",
+        "answer": "Compact"
+      },
+      {
+        "question": "Considering the text's structure, is the arrangement of ingredients in a list format or paragraphs?",
+        "answer": "List"
+      },
+      {
+        "question": "Looking at the text's visual appearance, does it suggest a handwritten or machine-printed origin?",
+        "answer": "Printed"
+      },
+      {
+        "question": "Does the text appear crisp and clear, or blurry and indistinct based solely on visual analysis?",
+        "answer": "Crisp"
+      },
+      {
+        "question": "What is the overall visual style of the label, modern or vintage, based only on the image?",
+        "answer": "Modern"
+      },
+      {
+        "question": "Given the image alone, is the label's design complex or minimalistic?",
+        "answer": "Minimalistic"
+      },
+      {
+        "question": "Disregarding context, what is the most prominent visual element on the label?",
+        "answer": "Text"
+      },
+      {
+        "question": "Based solely on what can be visually seen, is the text layout horizontal or vertical?",
+        "answer": "Horizontal"
+      }
+    ]
+  }
+]

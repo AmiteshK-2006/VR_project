@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fc/fccab26e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual appearance, what is the dominant color scheme of the product label?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the visual texture, what printing technique seems to have been predominantly used for the product information?",
+        "answer": "Offset"
+      },
+      {
+        "question": "Judging by the font style and size, what is the likely purpose of the text displayed on the label?",
+        "answer": "Informative"
+      },
+      {
+        "question": "What is the primary language used on the label, evident from its orthography and character set?",
+        "answer": "English"
+      },
+      {
+        "question": "Observing the arrangement of the information, what organizational structure is used to display the product details?",
+        "answer": "Paragraphic"
+      },
+      {
+        "question": "Considering the density of the text, what level of detail about the product composition is provided on the label?",
+        "answer": "Extensive"
+      },
+      {
+        "question": "What type of text is predominantly used: uppercase, lowercase, or a mixture thereof?",
+        "answer": "Mixed"
+      },
+      {
+        "question": "From the text layout, does the label primarily aim to inform the consumer or to persuade them?",
+        "answer": "Inform"
+      },
+      {
+        "question": "Given the overall visual style, would you classify the label as minimalistic or detailed in its presentation?",
+        "answer": "Detailed"
+      },
+      {
+        "question": "What is the general condition of the label based on its visual sharpness and lack of smudges or damage?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Looking at the text's alignment, is it primarily left-aligned, right-aligned, centered, or justified?",
+        "answer": "Left"
+      },
+      {
+        "question": "Based on the text's clarity, is the product information easy or difficult to decipher at a glance?",
+        "answer": "Easy"
+      },
+      {
+        "question": "Considering the presence or absence of illustrations or graphics, is the label text-heavy or image-heavy?",
+        "answer": "Text-heavy"
+      },
+      {
+        "question": "Examining the visual representation of the barcode, is it a 1D or 2D type of barcode?",
+        "answer": "1D"
+      },
+      {
+        "question": "From the style of the typeface, would you describe the overall tone of the label as formal or informal?",
+        "answer": "Formal"
+      }
+    ]
+  }
+]

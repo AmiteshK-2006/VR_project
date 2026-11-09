@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f3/f3da973d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color displayed across the entire fabric sample?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent material type?",
+        "answer": "Suede"
+      },
+      {
+        "question": "Based on the image, what is the overall visual texture of the fabric?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the fabric exhibit a noticeable pattern or print in the image provided?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the image, is the color uniform throughout the sample?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the general shade of the shown fabric, considering its hue?",
+        "answer": "Tan"
+      },
+      {
+        "question": "Describe the subtle tonal variations present in the fabric sample shown.",
+        "answer": "Uniform"
+      },
+      {
+        "question": "From visual observation, is the texture consistent across the visible area?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the fabric appear to have a matte or glossy finish based on image reflection?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering its visual properties, is the fabric likely to be heavy or light?",
+        "answer": "Light"
+      },
+      {
+        "question": "Is there any noticeable sheen or shine observed on the displayed fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the image suggest the presence of any visible fibers or weaves?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the color, is the fabric suitable for a neutral palette?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the texture appear natural or synthetic in the shown sample?",
+        "answer": "Synthetic"
+      },
+      {
+        "question": "Observing the sample, does the color seem warm or cool in tone?",
+        "answer": "Warm"
+      }
+    ]
+  }
+]

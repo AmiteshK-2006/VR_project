@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/01/017e7149.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the rectangular speaker?",
+        "answer": "Purple"
+      },
+      {
+        "question": "What seems to be the primary material composing the speaker's casing?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the speaker's grilles, what is the texture of the speaker surface?",
+        "answer": "Mesh"
+      },
+      {
+        "question": "What shape best describes the overall form of this audio device?",
+        "answer": "Cuboid"
+      },
+      {
+        "question": "Observing the front, how many visible buttons are present on the speaker?",
+        "answer": "Three"
+      },
+      {
+        "question": "Based on the image, what appears to be the pattern of the speaker grille?",
+        "answer": "Grid"
+      },
+      {
+        "question": "Judging by its appearance, what is the overall size of the speaker?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the apparent finish of the speaker's outer shell?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What seems to be the type of sound output this device produces?",
+        "answer": "Audio"
+      },
+      {
+        "question": "What does the symbol in the center of the device seem to represent?",
+        "answer": "Bluetooth"
+      },
+      {
+        "question": "Considering the design elements, what is the style of the speaker?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Judging by the image, is the speaker portable or stationary?",
+        "answer": "Portable"
+      },
+      {
+        "question": "Based on its form, what is the likely orientation of this speaker?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Given its appearance, is the speaker design sleek or bulky?",
+        "answer": "Sleek"
+      },
+      {
+        "question": "What is the implied functionality of the buttons visible on the speaker?",
+        "answer": "Control"
+      }
+    ]
+  }
+]

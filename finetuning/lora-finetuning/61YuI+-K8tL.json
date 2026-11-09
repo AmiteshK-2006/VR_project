@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/88/883b2c37.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape and the presence of textual information predominantly occupying its surface, what is the primary form of this item?",
+        "answer": "Box"
+      },
+      {
+        "question": "Observing the color palette of the text and background, what would you describe as the dominant hue of the packaging?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Given the detailed layout of the information printed on the surface, what specific type of data is prominently featured?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Focusing on the textual content, what is the apparent subject matter of the prominently displayed information?",
+        "answer": "Facts"
+      },
+      {
+        "question": "Analyzing the stylistic characteristics of the typography, what descriptor best captures the font's general look?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Regarding the visual hierarchy of the elements, what is the most visually prominent graphical element displayed?",
+        "answer": "Logo"
+      },
+      {
+        "question": "Based on the style of the text and imagery, what is the intended target audience for this product's information?",
+        "answer": "Consumers"
+      },
+      {
+        "question": "By examining the type of data presented, what is the main purpose of the item being depicted?",
+        "answer": "Inform"
+      },
+      {
+        "question": "Considering the structural elements, what is the type of material used for this item's composition?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "In reference to the overall aesthetic, what term would best describe the visual presentation style?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Regarding the visible information, what is the specific unit of measurement repeatedly used?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Observing the textual content of the list, what is a major category among the listed components?",
+        "answer": "Protein"
+      },
+      {
+        "question": "Based on the data provided, what is a category listed among the other nutrients provided?",
+        "answer": "Fat"
+      },
+      {
+        "question": "By noting the small symbols in the bottom right, what is indicated regarding product certifications?",
+        "answer": "Vegan"
+      },
+      {
+        "question": "Given the presence of specific nutritional data, what is a primary characteristic of the product being described?",
+        "answer": "Food"
+      }
+    ]
+  }
+]

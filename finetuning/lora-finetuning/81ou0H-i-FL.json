@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/64/6484e97f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the food product visible through the jar?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the apparent texture of the food product inside the jar?",
+        "answer": "Shredded"
+      },
+      {
+        "question": "What kind of container holds the food product, considering its shape and material?",
+        "answer": "Jar"
+      },
+      {
+        "question": "What material seems to constitute the lid of the jar, judging by its sheen?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What color is the visible portion of the jar's lid, based on the image?",
+        "answer": "Gold"
+      },
+      {
+        "question": "Considering the jar's overall shape, what geometric term best describes it?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What seems to be the primary ingredient visible within the food product based on color and texture?",
+        "answer": "Pickles"
+      },
+      {
+        "question": "What is the color of the label's background on the jar, as shown on the rear?",
+        "answer": "Black"
+      },
+      {
+        "question": "Describe the shape of the printed text on the label, specifically the nutritional information?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent finish of the jar's surface, based on the visible light reflection?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Judging by the visible contents, what is the probable consistency of this product?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Does the jar appear to be made of glass or another material, based on its transparency?",
+        "answer": "Glass"
+      },
+      {
+        "question": "What is the visible pattern on the jar's label, near the nutritional facts?",
+        "answer": "Circular"
+      },
+      {
+        "question": "What branding is noticeable on the lower section of the jar's back label?",
+        "answer": "Amazon"
+      },
+      {
+        "question": "Considering the style of labeling, what might be the category of this product?",
+        "answer": "Food"
+      }
+    ]
+  }
+]

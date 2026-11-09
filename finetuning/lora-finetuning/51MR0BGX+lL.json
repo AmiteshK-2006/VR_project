@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/98/984c3e91.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the text displayed on the product's packaging?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the overall textual layout, what is the dominant orientation of the text on the packaging?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Based on the font style used for the header 'INGREDIENTS:', what is the general aesthetic or tone communicated?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Describe the background color against which the ingredient list is prominently displayed.",
+        "answer": "Teal"
+      },
+      {
+        "question": "What is the text's appearance in terms of its boldness or weight (e.g., thin, bold, regular)?",
+        "answer": "Regular"
+      },
+      {
+        "question": "Considering the length and density of the text, what can you say about the product's overall composition?",
+        "answer": "Complex"
+      },
+      {
+        "question": "What kind of list structure is used to present the product's ingredients?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the case (uppercase, lowercase, title case) of the word 'INGREDIENTS' in the header?",
+        "answer": "Title"
+      },
+      {
+        "question": "What is the overall formatting style of the ingredient list (e.g., bulleted, numbered, paragraph)?",
+        "answer": "Paragraph"
+      },
+      {
+        "question": "Describe the spacing between the lines of text within the ingredient list. Is it tight, loose, or standard?",
+        "answer": "Standard"
+      },
+      {
+        "question": "What is the typeface or font family used for the ingredient list (e.g., sans-serif, serif)?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "If there are any parentheses used in the ingredient list, what is their purpose?",
+        "answer": "Clarification"
+      },
+      {
+        "question": "Is there any visual hierarchy, such as headings or subheadings, in the ingredient list?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the visual distinction between the header and the ingredient list itself?",
+        "answer": "Size"
+      },
+      {
+        "question": "Is the text aligned to the left, right, or center?",
+        "answer": "Left"
+      }
+    ]
+  }
+]

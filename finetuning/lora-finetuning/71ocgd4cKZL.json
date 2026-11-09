@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8b/8b976589.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the presented textile item?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the folds, what is the apparent texture of the fabric?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on its form, what is the likely use of this rectangular cloth?",
+        "answer": "Sheet"
+      },
+      {
+        "question": "Judging by its dimensions and fold, what is the overall shape of the item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Does the fabric appear to have a high or low sheen, based on light reflection?",
+        "answer": "Low"
+      },
+      {
+        "question": "What is the general impression of the material's weight or drape, given the image?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "Considering the image, how many visible seams are present in the product?",
+        "answer": "Zero"
+      },
+      {
+        "question": "From the visible portion, is the weave of the fabric noticeably coarse or fine?",
+        "answer": "Fine"
+      },
+      {
+        "question": "Excluding folds, does the product show any patterns or embellishments?",
+        "answer": "None"
+      },
+      {
+        "question": "Does the image suggest the material's composition is natural or synthetic?",
+        "answer": "Synthetic"
+      },
+      {
+        "question": "Judging by the way it's folded, is this item stiff or flexible?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Based solely on the appearance, what is the material's likely level of transparency?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Does the image reveal any visible signs of wear or damage to the item?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the folded edges, does the fabric fray or unravel easily?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the overall aesthetic, what is the product's style?",
+        "answer": "Minimalist"
+      }
+    ]
+  }
+]

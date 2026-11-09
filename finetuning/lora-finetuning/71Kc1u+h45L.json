@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/d0/d0caea98.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed paper sheet?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the texture, what is the apparent surface finish of the paper?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on visual observation, what seems to be the paper's overall thickness?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Judging by the image, what is the apparent material of the shown item?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Does the paper exhibit a noticeable pattern or grain in its appearance?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the general shape of the presented paper piece?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Does the paper's color appear uniform across the visible surface area?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the image, is the paper's color matte or glossy?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Is the displayed sheet of paper folded or creased in any visible way?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the image, does the paper seem to have any noticeable markings?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent visual weight or density of the paper based on the picture?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "Judging by the image, is the color of the paper vibrant or subdued?",
+        "answer": "Subdued"
+      },
+      {
+        "question": "Based solely on visual assessment, is the paper translucent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "From the image, how would you characterize the overall look of the paper?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Observing the visible edge, does the paper exhibit a noticeable layered structure?",
+        "answer": "No"
+      }
+    ]
+  }
+]

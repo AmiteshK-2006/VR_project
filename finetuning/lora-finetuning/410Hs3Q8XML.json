@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/44/44a5a528.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's visual presentation, what is the primary stated ingredient depicted prominently in the image?",
+        "answer": "Acai"
+      },
+      {
+        "question": "Based on the image, what is the declared nature of the acai powder ingredient?",
+        "answer": "Organic"
+      },
+      {
+        "question": "From the image, what is the explicit textual form of the information presented?",
+        "answer": "List"
+      },
+      {
+        "question": "Examining the image, what is the most visible word or term on the label?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "In the image, what kind of production facility is mentioned regarding the product's manufacturing?",
+        "answer": "Shared"
+      },
+      {
+        "question": "What major allergen is stated as being processed in the facility that created this product, as shown in the image?",
+        "answer": "Peanuts"
+      },
+      {
+        "question": "Besides peanuts, what other tree-based allergen does the image's text mention was processed in the same production facility?",
+        "answer": "Nuts"
+      },
+      {
+        "question": "Based on the image, what dairy product is mentioned as being processed in the facility where this product was manufactured?",
+        "answer": "Milk"
+      },
+      {
+        "question": "Judging from the image, what grain is listed as processed in the facility where this product originated?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "What legume is listed as processed in the production facility that handled the product shown in the image?",
+        "answer": "Soy"
+      },
+      {
+        "question": "According to the image, what other food-based ingredient is explicitly stated as being processed in the same facility?",
+        "answer": "Eggs"
+      },
+      {
+        "question": "What is the general appearance of the textual information on the product in the provided image?",
+        "answer": "Printed"
+      },
+      {
+        "question": "Focusing on the image, what seems to be the font style used for the text in the image?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the overall color of the text displayed in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the apparent background color of the label, as seen in the provided image?",
+        "answer": "White"
+      }
+    ]
+  }
+]

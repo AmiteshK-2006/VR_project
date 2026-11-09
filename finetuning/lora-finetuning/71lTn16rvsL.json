@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b9/b9167faf.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the product's label, as shown in the provided image?",
+        "answer": "Red"
+      },
+      {
+        "question": "Considering the product's packaging, what is the primary shape of the container depicted?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visual details, what material is predominantly used in the product's packaging?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the most prominent font style used on the main label of the product shown?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Observing the label's design elements, what is the primary text color used in the main label's headings?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the apparent texture of the label shown in the product image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What style of nutrition information layout is used on the label?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the overall color scheme of the label aside from the dominant color?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the text size relative to the label's dimensions on the label?",
+        "answer": "Large"
+      },
+      {
+        "question": "What is the visual prominence of the product's brand name (if any) on the label?",
+        "answer": "Low"
+      },
+      {
+        "question": "What type of information is prominently displayed in the provided label image?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the apparent method of applying the label to the product container?",
+        "answer": "Wrapped"
+      },
+      {
+        "question": "Can any images or illustrations be visually confirmed on the packaging?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the visual aspect ratio of the main label section?",
+        "answer": "Tall"
+      },
+      {
+        "question": "Based on visual inspection, what is the overall style of the product packaging?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

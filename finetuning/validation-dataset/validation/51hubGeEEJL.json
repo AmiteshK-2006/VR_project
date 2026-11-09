@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/00/006d055f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the primary type of information conveyed in the image?",
+        "answer": "Text"
+      },
+      {
+        "question": "Observing the text's arrangement, what is the most prominent organizational pattern utilized?",
+        "answer": "Lines"
+      },
+      {
+        "question": "Focusing on the textual content, what is the main subject explicitly mentioned?",
+        "answer": "Haddock"
+      },
+      {
+        "question": "Describe the typeface style used throughout the image's textual information.",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on visual characteristics, what color is the text displayed in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "From the visual appearance, what is the background color on which the text is printed?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the apparent case (uppercase or lowercase) of the words 'INGREDIENTS' and 'CONTAINS'?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Considering the text's density, what is the descriptive nature of the text's presentation?",
+        "answer": "Dense"
+      },
+      {
+        "question": "What is the general stylistic characteristic of the text's formatting?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the visual quality of the text in terms of sharpness and definition?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Focusing on the visual layout, what is the alignment of the two main lines of text?",
+        "answer": "Left"
+      },
+      {
+        "question": "Disregarding the content, is there any noticeable visual distortion in the text's presentation?",
+        "answer": "None"
+      },
+      {
+        "question": "Based on the style, what is the presumed medium for displaying this textual information?",
+        "answer": "Print"
+      },
+      {
+        "question": "Considering the visual context, what is the likely purpose of the displayed text?",
+        "answer": "Informative"
+      },
+      {
+        "question": "What is the visual format of the provided information (i.e., image, video, etc.)?",
+        "answer": "Image"
+      }
+    ]
+  }
+]

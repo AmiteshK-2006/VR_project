@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fc/fc14a300.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the dominant shape of the container holding the product?",
+        "answer": "Bottle"
+      },
+      {
+        "question": "What color is the liquid product visibly contained inside the bottle?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the visual texture, what is the apparent consistency of the contained liquid?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What material appears to compose the primary body of the product container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the predominant color of the cap or lid situated atop the container?",
+        "answer": "Black"
+      },
+      {
+        "question": "Judging by the image, is the container transparent or opaque in nature?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What is the general shape of the body of the container, excluding the cap?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Does the container exhibit any visible textural irregularities or patterns on its surface?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the apparent finish of the plastic making up the container's body?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Is there any noticeable text or branding visible on the container's label?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Describing the cap, what is its overall design in terms of its form?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the visual appearance of the surface area of the plastic container?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Looking at the container's base, what is its profile?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Observing the product label, what is the dominant color scheme used?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the apparent material of the container's cap?",
+        "answer": "Plastic"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/56/56195b0c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the product's outer surface, as shown in the image?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What is the overall shape of the product container, ignoring any minor irregularities?",
+        "answer": "Round"
+      },
+      {
+        "question": "Considering the image, what appears to be the primary material of the product's container?",
+        "answer": "Wax"
+      },
+      {
+        "question": "Based on the image, what is the texture of the product's surface\u2014smooth, rough, or something else?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the visible design element on the bottom surface of the product, excluding text?",
+        "answer": "Circle"
+      },
+      {
+        "question": "Judging by the visual clarity, what appears to be the level of sheen or gloss on the product's exterior?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Is there any visible pattern or texture discernible on the product's main surface area?",
+        "answer": "None"
+      },
+      {
+        "question": "What color is the text and safety warnings printed on the product's base?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the packaging, what kind of product is suggested by the shape and labeling?",
+        "answer": "Candle"
+      },
+      {
+        "question": "Does the image show any obvious imperfections or damage to the product's container?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the general form factor of the item, e.g., cylindrical, spherical, etc.?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What kind of graphic or symbol is present near the warning text on the base?",
+        "answer": "Triangle"
+      },
+      {
+        "question": "Does the image show any significant markings other than text and symbols?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the visual appearance, is the product's container transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "What is the color family of the dominant shade of the item?",
+        "answer": "Rose"
+      }
+    ]
+  }
+]

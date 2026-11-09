@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/64/6487c5a6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color scheme of this nutritional label?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Focusing on the typography, what is the primary font style used for the heading 'Nutrition Facts'?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Regarding the layout, how many distinct columns are present in the provided nutritional information?",
+        "answer": "Two"
+      },
+      {
+        "question": "Analyzing the numerical data, what is the total calorie count per serving as indicated in the label?",
+        "answer": "160"
+      },
+      {
+        "question": "Examining the label's content, what is the serving size specified in terms of food items?",
+        "answer": "Clams"
+      },
+      {
+        "question": "Based on the nutritional facts provided, what is the number of servings contained in the package?",
+        "answer": "4.5"
+      },
+      {
+        "question": "Looking at the detailed values, what is the total amount of fat, in grams, per serving?",
+        "answer": "7"
+      },
+      {
+        "question": "According to the label's information, what is the amount of sodium, in milligrams, per serving?",
+        "answer": "710"
+      },
+      {
+        "question": "Observing the nutritional breakdown, what is the quantity of total carbohydrates, in grams, per serving?",
+        "answer": "17"
+      },
+      {
+        "question": "Referring to the data regarding proteins, what is the amount of protein, in grams, per serving?",
+        "answer": "7"
+      },
+      {
+        "question": "Analyzing the label's composition, what is the size of the label relative to common food packages?",
+        "answer": "Small"
+      },
+      {
+        "question": "Based on the text's characteristics, what is the overall appearance of the font used in the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the data, what is the percentage of daily value for sodium indicated on the label?",
+        "answer": "31"
+      },
+      {
+        "question": "Observing the overall presentation, what is the style of the box that encloses the nutritional data?",
+        "answer": "Rectangle"
+      },
+      {
+        "question": "Considering the text's clarity and legibility, what is the overall readability of the data presented on this label?",
+        "answer": "High"
+      }
+    ]
+  }
+]

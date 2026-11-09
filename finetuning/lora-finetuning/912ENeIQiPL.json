@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ad/ad0b5efe.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color visibly present across the entire surface of the shown material sample?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the image's resolution, what appears to be the overall texture of the material?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based solely on visual inspection, what is the apparent finish of the displayed material?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Judging from the image, what kind of material does the sample seem to be made of?",
+        "answer": "Leather"
+      },
+      {
+        "question": "From the visual evidence, what is the most apparent characteristic of the material's surface?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Does the pictured material exhibit any visually perceptible patterns or designs?",
+        "answer": "No"
+      },
+      {
+        "question": "Given the appearance, what might be the likely feel of the product to the touch?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Does the image indicate any visible blemishes or imperfections on the material's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the visual information, how would you describe the shade of brown displayed?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Does the provided image show any variation in the material's color or tone?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall visual impression of the material\u2019s uniformity and consistency?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Considering the image quality, what is the apparent thickness of the material sample?",
+        "answer": "Unknown"
+      },
+      {
+        "question": "Based solely on the image, what is the suggested application of this material?",
+        "answer": "Unknown"
+      },
+      {
+        "question": "Based on visual appearance, is the material shiny or dull?",
+        "answer": "Dull"
+      },
+      {
+        "question": "From visual observation, is the material pliable or rigid?",
+        "answer": "Unknown"
+      }
+    ]
+  }
+]

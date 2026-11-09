@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/20/2068878b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary textual information conveyed across the entirety of the depicted product?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Considering the dominant color scheme, what single color best describes the visual presentation of the nutrition facts label?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the textual format predominantly utilized for the presentation of nutritional data on the product?",
+        "answer": "Columns"
+      },
+      {
+        "question": "Based on the visual layout, what specific nutritional component is highlighted most prominently?",
+        "answer": "Fat"
+      },
+      {
+        "question": "Disregarding the numerical values, what is the most frequent textual element appearing on the product's label?",
+        "answer": "Percent"
+      },
+      {
+        "question": "What is the general shape of the area displaying the nutritional information?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary material indicated by the appearance of the product's surface?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the overall texture of the visible nutritional facts display on the product?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the most common font style used throughout the nutritional information on the product?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What descriptive term best captures the style of the informational layout on the nutrition facts?",
+        "answer": "Tabular"
+      },
+      {
+        "question": "Judging by the visible details, what is the type of product containing the depicted nutrition information?",
+        "answer": "Food"
+      },
+      {
+        "question": "What is the relative size of the displayed text, compared to typical printed material?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the primary method used to organize the nutritional content within the label?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the level of detail provided concerning the individual nutritional components?",
+        "answer": "Specific"
+      },
+      {
+        "question": "What is the overall visual impression created by the design and presentation of the nutritional facts?",
+        "answer": "Informative"
+      }
+    ]
+  }
+]

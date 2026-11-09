@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/62/624d2edb.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the pillowcase shown in the image?",
+        "answer": "Navy"
+      },
+      {
+        "question": "Considering the visible texture, what is the apparent material of the pillowcase?",
+        "answer": "Linen"
+      },
+      {
+        "question": "Based on the image, what is the overall shape of the presented pillowcase?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging from the visible seams, what type of construction does the pillowcase appear to have?",
+        "answer": "Envelope"
+      },
+      {
+        "question": "Does the pillowcase's fabric exhibit a smooth or textured surface based on visual inspection?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What is the general apparent level of sheen or glossiness of the pillowcase's fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Observing the edges, are the hems of the pillowcase finished with a clean or raw edge?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Considering the visual details, what is the apparent weave structure of the linen fabric?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Does the pillowcase show any visible patterns, prints, or embroideries?",
+        "answer": "None"
+      },
+      {
+        "question": "From the image, can you determine the approximate depth of the pillowcase's hems?",
+        "answer": "Deep"
+      },
+      {
+        "question": "Does the provided image suggest the pillowcase is made from a single or multiple pieces of fabric?",
+        "answer": "Single"
+      },
+      {
+        "question": "Judging by the image, what is the overall visual style of the pillowcase?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Based solely on the visible details, does the pillowcase appear to be lightweight or heavyweight?",
+        "answer": "Heavyweight"
+      },
+      {
+        "question": "What is the visible state of the pillowcase in the provided image (e.g., crumpled, folded, etc.)?",
+        "answer": "Folded"
+      },
+      {
+        "question": "Based on visual inspection, what is the apparent softness of the pillowcase's fabric?",
+        "answer": "Soft"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6d/6d798e07.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what three-dimensional geometric primitive best describes the object's primary shape, disregarding minor details?",
+        "answer": "Cylinder"
+      },
+      {
+        "question": "What is the dominant color observed across the majority of the object's visible surface?",
+        "answer": "Silver"
+      },
+      {
+        "question": "Based on visual texture and reflectivity, what material seems most likely to constitute the majority of the object's composition?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What is the visual appearance of the object's surface; is it rough, smooth, or something else?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the edges, are they sharply defined, or do they exhibit a more gradual transition?",
+        "answer": "Sharp"
+      },
+      {
+        "question": "What is the general lightness or darkness observed in the product's main body, disregarding any highlights or shadows?",
+        "answer": "Grey"
+      },
+      {
+        "question": "Considering the object's visual properties, would you characterize its surface as matte or glossy?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Observing the subtle gradient visible in the central region, how would you describe the progression of tones, based solely on the visual impression?",
+        "answer": "Gradual"
+      },
+      {
+        "question": "Are there any visibly distinct patterns, textures, or markings present on the primary surface of the cylindrical object?",
+        "answer": "None"
+      },
+      {
+        "question": "Do you observe any noticeable texturing, such as lines, grooves, or any other surface variations on the object's side?",
+        "answer": "Lines"
+      },
+      {
+        "question": "Does the image show any evidence of embellishments, engravings, or other decorative elements on the item's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "What color are the narrow bands running along the cylinder, contrasting subtly with the main body?",
+        "answer": "Darker"
+      },
+      {
+        "question": "Considering the object's shape and apparent material, what is the most likely function it might serve?",
+        "answer": "Structural"
+      },
+      {
+        "question": "What seems to be the overall visual condition of this object; is it visibly worn or damaged?",
+        "answer": "New"
+      },
+      {
+        "question": "Judging by the image, how would you characterize the level of visual detailing present on the object's surface?",
+        "answer": "Minimal"
+      }
+    ]
+  }
+]

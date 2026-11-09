@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/80/80cdcf36.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the background on which the ingredients are listed?",
+        "answer": "Green"
+      },
+      {
+        "question": "Considering the font style, what is the most likely type of product information displayed?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the typeface used for the prominently displayed text 'INGREDIENTS'?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the overall visual layout of the presented ingredient list?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Based on the text's visual presentation, what is the implied reading direction?",
+        "answer": "Left-to-right"
+      },
+      {
+        "question": "What is the general shape of the area where the ingredient list is printed?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the font weight, how would you describe the overall emphasis of the text?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Disregarding the content, what is the visual texture of the background?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Given the neat arrangement of words, how would you describe the text's visual alignment?",
+        "answer": "Justified"
+      },
+      {
+        "question": "Based purely on visual cues, what language is used in the text?",
+        "answer": "English"
+      },
+      {
+        "question": "Considering the capitalization of words, what style is utilized in the provided text?",
+        "answer": "Title"
+      },
+      {
+        "question": "Observing the spacing, how is the text separated across multiple lines?",
+        "answer": "Even"
+      },
+      {
+        "question": "Ignoring the content, what is the general visual clarity of the text presented?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the color of the text within the rectangular ingredient list area?",
+        "answer": "Black"
+      },
+      {
+        "question": "Given the text density and line height, how would you describe the readability?",
+        "answer": "Good"
+      }
+    ]
+  }
+]

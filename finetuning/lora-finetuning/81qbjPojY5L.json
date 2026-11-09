@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4f/4fa7aeaf.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the visual presentation, what is the primary color scheme of the label's text?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the image, what is the overall shape of the nutrition facts label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging by the image, what appears to be the background color of the nutrition facts panel?",
+        "answer": "White"
+      },
+      {
+        "question": "From the image, what is the dominant font style used throughout the nutrition facts?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the apparent material the nutrition facts are printed on, judging by the image's visual texture?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the descriptive term for the visual arrangement of information on the label, based on the image?",
+        "answer": "tabular"
+      },
+      {
+        "question": "Based on the image's visual details, what is the primary information category emphasized on the label?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the most prominent visual element displayed at the top of the label, as shown in the image?",
+        "answer": "Heading"
+      },
+      {
+        "question": "What appears to be the textual style of the 'Nutrition Facts' heading, based on the image?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the visual size of the 'Calories' value relative to other numerical values, as seen in the image?",
+        "answer": "Large"
+      },
+      {
+        "question": "Judging by the visual appearance in the image, what is the format of the values representing nutritional information?",
+        "answer": "Numerical"
+      },
+      {
+        "question": "Based on the image's visual cues, what is the text's overall legibility?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the apparent visual alignment of data in the nutrition facts columns, as depicted in the image?",
+        "answer": "Left"
+      },
+      {
+        "question": "What is the apparent contrast between the label's text and background, based on the image?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the overall visual clarity and readability of the information presented, based on the image?",
+        "answer": "Clear"
+      }
+    ]
+  }
+]

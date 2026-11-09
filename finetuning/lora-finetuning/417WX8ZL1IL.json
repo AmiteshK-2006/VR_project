@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/88/881fe499.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what single word best describes the primary textual content depicted on the item?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Based on the text's visual appearance, what adjective accurately reflects the style of the lettering used?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What color is the background on which the text is printed, judging solely from visual appearance?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "From a purely visual perspective, what is the most prominent color of the text itself?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Examining the image, what specific type of bean is mentioned in the text, focusing only on the visual information?",
+        "answer": "Pinto"
+      },
+      {
+        "question": "What word precedes the list of ingredients, considering only the visible text in the image?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Considering the visual appearance of the textual elements, what word immediately follows 'Organic'?",
+        "answer": "Pinto"
+      },
+      {
+        "question": "If you were to describe the texture of the background visually, what single word best encapsulates its appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the image's visual elements, what is the shape of the area containing the text?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What word, visually present, is placed at the end of the list of ingredients?",
+        "answer": "Beans"
+      },
+      {
+        "question": "Looking only at the image, what is the overall visual quality of the printing and text?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Considering the text's visual properties, what word indicates the nature of the beans?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Judging from the visual details, what is the general orientation of the text on the surface?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Based solely on the visible text, how many different words are present in the ingredient list shown?",
+        "answer": "Three"
+      },
+      {
+        "question": "Focusing on the visual appearance of the lettering, what is the font's approximate size relative to the whole area?",
+        "answer": "Medium"
+      }
+    ]
+  }
+]

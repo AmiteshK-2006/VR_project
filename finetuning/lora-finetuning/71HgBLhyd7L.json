@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1b/1bf6f126.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color observed across the entire surface area of the presented item?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the visible texture, what would you describe the overall surface feel of the object as?",
+        "answer": "Rough"
+      },
+      {
+        "question": "Based on the image, what is the most apparent material composition of the displayed object?",
+        "answer": "Stone"
+      },
+      {
+        "question": "What is the most prominent visual characteristic of the surface, regarding its irregularities?",
+        "answer": "Veined"
+      },
+      {
+        "question": "Disregarding the edges, what is the most accurately descriptive shape of the item's visible surface?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the apparent finish of the item, as indicated by the light reflection?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Describe the overall visual consistency of the color distribution across the object's surface.",
+        "answer": "Inconsistent"
+      },
+      {
+        "question": "Based on the appearance, what is the likely natural formation process of this material?",
+        "answer": "Natural"
+      },
+      {
+        "question": "Given the visible surface characteristics, how would you describe the overall aesthetic?",
+        "answer": "Natural"
+      },
+      {
+        "question": "What is the most noticeable visual element besides the base color, running through the item?",
+        "answer": "Streaks"
+      },
+      {
+        "question": "Considering the image, what kind of pattern is most visible on the object?",
+        "answer": "Random"
+      },
+      {
+        "question": "Describe the general level of visual complexity of this object's surface design.",
+        "answer": "Low"
+      },
+      {
+        "question": "Observing the visible area of the item, does it show any signs of artificial modifications?",
+        "answer": "No"
+      },
+      {
+        "question": "How would you describe the visual clarity of the object's surface pattern?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "What is the apparent overall dimensional aspect ratio of the presented item?",
+        "answer": "Vertical"
+      }
+    ]
+  }
+]

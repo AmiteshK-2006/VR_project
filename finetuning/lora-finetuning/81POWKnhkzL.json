@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1f/1ff85e02.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what is the primary color scheme employed in the design of this food label?",
+        "answer": "White"
+      },
+      {
+        "question": "What specific font style is predominantly used for the text detailing the nutritional information?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Focusing on the textual content, what is the main topic conveyed by the visible information?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Based on the visual layout, what is the most striking feature of the label design, likely to grab a consumer's attention?",
+        "answer": "Numbers"
+      },
+      {
+        "question": "What is the general shape or format of the nutritional information panel displayed on this item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the texture of the paper or material upon which this nutritional information is printed.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the orientation of the text blocks providing the nutritional data on this food product?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Examining the visual elements, what type of graphic or design elements are used to separate the different sections of information?",
+        "answer": "Lines"
+      },
+      {
+        "question": "Observing the visual hierarchy, which section has the largest and most prominent text size?",
+        "answer": "Calories"
+      },
+      {
+        "question": "What is the most prominent visual characteristic distinguishing the different nutritional components listed on the label?",
+        "answer": "Columns"
+      },
+      {
+        "question": "In terms of visual prominence, how does the 'Serving Size' information relate to other data?",
+        "answer": "Prominent"
+      },
+      {
+        "question": "What is the visual style used to represent the percentage daily values within the nutrition facts?",
+        "answer": "Numbers"
+      },
+      {
+        "question": "Describe the visual way in which the various nutritional components, such as fats, carbohydrates, proteins, etc., are categorized on the label.",
+        "answer": "Listed"
+      },
+      {
+        "question": "What is the apparent visual condition or state of this nutrition label (e.g., pristine, damaged, wrinkled)?",
+        "answer": "Pristine"
+      },
+      {
+        "question": "Judging from the visual appearance, what is the general aesthetic or style of this nutrition label's design?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

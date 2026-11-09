@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bf/bf3f0b1f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "What appears to be the primary texture of the displayed textile?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the visible drape, what is the likely weight of the fabric?",
+        "answer": "Lightweight"
+      },
+      {
+        "question": "Based on the image, what kind of finish does the fabric seem to possess?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the apparent weave structure visible in the fabric's close-up?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Judging by the image, how would you describe the overall sheen of the fabric?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "What kind of stitching or seam is noticeable along the edge of the fabric?",
+        "answer": "Overlocked"
+      },
+      {
+        "question": "From the visual details, what is the presumed fiber content of this material?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Based on its appearance, is the fabric noticeably transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Does the textile exhibit any visible patterns or prints?",
+        "answer": "None"
+      },
+      {
+        "question": "Judging by the image, is the fabric noticeably rigid or flexible?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Considering the fabric's drape, is it likely to crease easily or resist creasing?",
+        "answer": "Wrinkle"
+      },
+      {
+        "question": "What is the most obvious characteristic of the fabric’s surface?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Does the material present any visible imperfections or irregularities?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image, does the fabric seem breathable or dense?",
+        "answer": "Breathable"
+      }
+    ]
+  }
+]

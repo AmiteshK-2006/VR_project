@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3a/3a83cc2e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed fabric swatch?",
+        "answer": "Beige"
+      },
+      {
+        "question": "What is the apparent texture of the fabric sample shown?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Considering the weave, what type of material is suggested by the image?",
+        "answer": "Linen"
+      },
+      {
+        "question": "Describe the visual pattern of the fabric's weave structure?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Is there an obvious sheen or gloss visible on the fabric's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on the image, what is the overall visual appearance of the material?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Considering the color and texture, what is the perceived softness of the material?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "How would you describe the density of the fabric's weave?",
+        "answer": "Tight"
+      },
+      {
+        "question": "Considering its weave and color, what is the implied weight of this fabric?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Does the image reveal any visible imperfections in the material's construction?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the apparent uniformity of the color across the fabric swatch?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Does the material appear to have a discernible pile or nap?",
+        "answer": "No"
+      },
+      {
+        "question": "How would you describe the overall visual appeal of the fabric swatch?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "Considering the visual attributes, does the material appear natural or synthetic?",
+        "answer": "Natural"
+      },
+      {
+        "question": "Based solely on the image, what is the implied drape of this fabric?",
+        "answer": "Straight"
+      }
+    ]
+  }
+]

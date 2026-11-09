@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/16/162b7a61.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the product packaging shown in the image?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What is the overall shape of the visible portion of the product container?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary text displayed on the visible portion of the product packaging?",
+        "answer": "Drug"
+      },
+      {
+        "question": "What is the primary purpose of the product, as indicated on the label?",
+        "answer": "Anti-itch"
+      },
+      {
+        "question": "What is the text style used for the 'Drug Facts' header on the label?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the listed active ingredient in the product?",
+        "answer": "Hydrocortisone"
+      },
+      {
+        "question": "What is the concentration percentage of the active ingredient?",
+        "answer": "1%"
+      },
+      {
+        "question": "What color is the text on the product label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the background color of the label section on the product packaging?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall style of the text on the label \u2013 serif or sans-serif?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Does the label have a clearly defined border around the text?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the texture of the background in the image, assuming it represents the product container?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Is the product labeling predominantly horizontal or vertical?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the relative size of the text regarding the active ingredient compared to other text?",
+        "answer": "Larger"
+      },
+      {
+        "question": "What is the general appearance of the image background, in terms of its shading?",
+        "answer": "Gradient"
+      }
+    ]
+  }
+]

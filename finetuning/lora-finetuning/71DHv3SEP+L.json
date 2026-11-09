@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b2/b2a68d99.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual layout, what is the predominant orientation of the text on the product's packaging?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Focusing on the typography used for the ingredient list, what is the dominant font weight?",
+        "answer": "Regular"
+      },
+      {
+        "question": "Regarding the font style employed for the ingredient list, is it serif or sans-serif?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Observing the text's color, what shade is used for the majority of the ingredient information?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the background color of the main ingredient panel where the ingredients are listed?",
+        "answer": "White"
+      },
+      {
+        "question": "Analyzing the text's capitalization, how is the word \"INGREDIENTS\" styled?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "In terms of formatting, what type of list is used to present the ingredients?",
+        "answer": "Bulleted"
+      },
+      {
+        "question": "Regarding the section on allergens, how is the text indicating potential allergens formatted?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "What is the color of the text in the \"Contains\" and \"Prepared on Shared Equipment\" sections?",
+        "answer": "Black"
+      },
+      {
+        "question": "What style is used to separate the main ingredient list from the 'Contains' section?",
+        "answer": "Line"
+      },
+      {
+        "question": "Considering the overall presentation, what is the general tone conveyed by the text's formatting?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Judging by the text's density, does the description appear concise or verbose?",
+        "answer": "Verbose"
+      },
+      {
+        "question": "How many distinct sections can be visually identified in the main text block?",
+        "answer": "Three"
+      },
+      {
+        "question": "Based on the visual appearance of the text block, what is its approximate length in relation to the packaging?",
+        "answer": "Long"
+      },
+      {
+        "question": "What is the text alignment style used for most of the ingredient information?",
+        "answer": "Left"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/49/49653a36.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall appearance, what type of food product does this label describe, based purely on visual evidence?",
+        "answer": "Cheese"
+      },
+      {
+        "question": "Based on the text shown, what specific variety of cheese is listed as the primary ingredient?",
+        "answer": "Muenster"
+      },
+      {
+        "question": "Examining the text's style and font, what is the predominant color used for the label's text?",
+        "answer": "Black"
+      },
+      {
+        "question": "Disregarding any context outside the image, what is the background color of this label?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the visual arrangement, what is the label's text primarily oriented in terms of direction?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Focusing on the text itself, what is the overall arrangement of the words on the label's surface?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Regarding text formatting, what type of capitalization is used for the main 'INGREDIENTS' heading?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Looking at the text's size and spacing, what is the approximate size of the text on this food label?",
+        "answer": "Small"
+      },
+      {
+        "question": "From a purely visual perspective, how many distinct sections or blocks of text are there on the label?",
+        "answer": "Two"
+      },
+      {
+        "question": "Considering the visual presentation, what word introduces the list of ingredients?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Observing the visual presentation, what word introduces the allergens?",
+        "answer": "Contains"
+      },
+      {
+        "question": "Focusing on the text, what word indicates a coloring agent in the ingredient list?",
+        "answer": "Annatto"
+      },
+      {
+        "question": "Based on what is visible, what is written within brackets next to 'Annatto'?",
+        "answer": "Color"
+      },
+      {
+        "question": "From visual inspection, what additional component, besides the cheese, is explicitly mentioned in the ingredient list?",
+        "answer": "Milk"
+      },
+      {
+        "question": "According to the text's visual presentation, how many ingredients are explicitly listed in the parentheses?",
+        "answer": "Five"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5e/5ed4d219.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary textual information conveyed across the entire product image?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Considering the layout, what is the prominent numerical value displayed on the food label?",
+        "answer": "100"
+      },
+      {
+        "question": "What is the unit of measurement for the 'Calories' value specified on the food label?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Based on the label, what is the recommended serving size of this food product?",
+        "answer": "Slice"
+      },
+      {
+        "question": "What is the total number of servings contained within the product packaging, as stated on the label?",
+        "answer": "17"
+      },
+      {
+        "question": "In terms of weight, how many grams constitute a single serving size of the food item?",
+        "answer": "40g"
+      },
+      {
+        "question": "What is the total amount of fat, in grams, present in a single serving, as listed in the nutrition facts?",
+        "answer": "1.5g"
+      },
+      {
+        "question": "According to the nutrition facts, what is the quantity of saturated fat, in grams, per serving?",
+        "answer": "0g"
+      },
+      {
+        "question": "How much sodium, in milligrams, is contained within each serving of the product, as indicated by the food label?",
+        "answer": "140mg"
+      },
+      {
+        "question": "What is the total amount of carbohydrates, expressed in grams, per serving, according to the nutrition label?",
+        "answer": "19g"
+      },
+      {
+        "question": "As per the nutritional information provided, how many grams of dietary fiber are included in a single serving?",
+        "answer": "3g"
+      },
+      {
+        "question": "According to the food label, how many grams of total sugars are present in each serving of the product?",
+        "answer": "2g"
+      },
+      {
+        "question": "Based on the label, what is the amount of protein, in grams, provided by one serving of the food item?",
+        "answer": "5g"
+      },
+      {
+        "question": "What is the overall shape of the product's label or nutritional information section?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What color is the primary text used to display the nutritional information on the food label?",
+        "answer": "Black"
+      }
+    ]
+  }
+]

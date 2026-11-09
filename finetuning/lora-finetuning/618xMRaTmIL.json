@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fc/fc5f7eed.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what is the primary function of this rectangular item shown in the image?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the main color scheme used throughout the majority of the textual content on this rectangular item?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the font style used to display the caloric value in large, prominent font size?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What numerical value does the product prominently display to indicate its energy content per serving?",
+        "answer": "270"
+      },
+      {
+        "question": "Describing the layout, what is the organization style of the information presented, using columns and rows?",
+        "answer": "Table"
+      },
+      {
+        "question": "Observing the structure, what is the text orientation of all the nutritional values provided on the item?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Looking at the text units, what is the unit of measurement used to quantify the quantity of total fat in grams?",
+        "answer": "g"
+      },
+      {
+        "question": "Considering the nutritional details, what is the unit employed to express the measure of cholesterol present?",
+        "answer": "mg"
+      },
+      {
+        "question": "From the presented values, what is the unit used to represent the amount of dietary fiber listed?",
+        "answer": "g"
+      },
+      {
+        "question": "Examining the sugar information, what metric is used for the quantity of added sugars within the product?",
+        "answer": "g"
+      },
+      {
+        "question": "Based on the nutritional breakdown, what is the unit of measurement utilized for the quantity of protein?",
+        "answer": "g"
+      },
+      {
+        "question": "What is the unit of measurement used to display the amount of Vitamin D in the nutritional facts?",
+        "answer": "mcg"
+      },
+      {
+        "question": "In examining the mineral content, what unit is used for the amount of calcium indicated on the label?",
+        "answer": "mg"
+      },
+      {
+        "question": "What unit is used for measuring the amount of Potassium displayed on the nutritional label?",
+        "answer": "mg"
+      },
+      {
+        "question": "What is the unit of measurement utilized for the serving size of the food item described?",
+        "answer": "g"
+      }
+    ]
+  }
+]

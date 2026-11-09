@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e0/e035b8d5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the wider stripe running diagonally across the fabric?",
+        "answer": "Lime"
+      },
+      {
+        "question": "What color is the narrower stripe that borders the lime-colored stripe?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent material of this fabric?",
+        "answer": "Silk"
+      },
+      {
+        "question": "Based on the image, what is the overall pattern of the fabric depicted?",
+        "answer": "Striped"
+      },
+      {
+        "question": "Describe the orientation of the prominent stripes relative to the image frame?",
+        "answer": "Diagonal"
+      },
+      {
+        "question": "What is the general visual impression of the lime-colored stripe's shading?",
+        "answer": "Gradient"
+      },
+      {
+        "question": "How many distinct colors are prominently displayed within the image?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the apparent width variation of the two stripes?",
+        "answer": "Unequal"
+      },
+      {
+        "question": "What is the implied surface texture of the grey stripe, based on the image?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Does the lime stripe appear uniform in its color saturation?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the visual sheen or gloss of the fabric in the provided image?",
+        "answer": "Shiny"
+      },
+      {
+        "question": "What is the general weave pattern of the visible fabric?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Judging by visual appearance alone, how would you describe the fabric's drape?",
+        "answer": "Flowy"
+      },
+      {
+        "question": "What is the closest visual resemblance of the texture of the gray stripes?",
+        "answer": "Coarse"
+      },
+      {
+        "question": "What kind of visual detail is suggested by the color variations within the main stripe?",
+        "answer": "Depth"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/80/800a1dc4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual layout, what dominant structural element is immediately apparent in this image?",
+        "answer": "Rectangle"
+      },
+      {
+        "question": "Based on the textual information presented, what is the primary nutritional data category showcased?",
+        "answer": "Calories"
+      },
+      {
+        "question": "What is the descriptive term used to categorize the numerical data presented, indicating a daily reference?",
+        "answer": "Value"
+      },
+      {
+        "question": "What specific component is highlighted, representing a percentage of daily intake for a particular nutrient?",
+        "answer": "Percent"
+      },
+      {
+        "question": "Disregarding the numerical values, what broad category of food information is displayed prominently in the upper section?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Considering the visual design, what color is primarily used for the background of the numerical data area?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the dominant color scheme in the text, denoting titles, headers, and labels?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the font style predominantly used throughout the textual content?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What unit of measurement is used to express the quantity of the serving size of this product?",
+        "answer": "Ounces"
+      },
+      {
+        "question": "Focusing only on the visual presentation, what numerical value is most prominently displayed?",
+        "answer": "120"
+      },
+      {
+        "question": "Referring to the visual information, what is the designated serving unit for this product?",
+        "answer": "Serving"
+      },
+      {
+        "question": "Observing the textual elements, what unit of volume is employed to represent the serving size of the product?",
+        "answer": "Milliliter"
+      },
+      {
+        "question": "What is the visual representation used to separate and organize different dietary data points?",
+        "answer": "Lines"
+      },
+      {
+        "question": "Focusing on the image's visual structure, what format is utilized for presenting the information, similar to an organized chart?",
+        "answer": "Table"
+      },
+      {
+        "question": "What term describes the overall type of product information this image showcases, related to health and diet?",
+        "answer": "Facts"
+      }
+    ]
+  }
+]

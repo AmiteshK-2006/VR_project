@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5c/5ca3cfbe.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric depicted in the provided image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent weave type of this fabric?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Based solely on the image, what is the overall visual appearance of the fabric's surface?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Judging from the image, what kind of material does this fabric most closely resemble?",
+        "answer": "Polyester"
+      },
+      {
+        "question": "Does the image show any noticeable pattern or print on the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "Describe the visual density of the fabric's weave from the image provided?",
+        "answer": "Tight"
+      },
+      {
+        "question": "What is the primary visual characteristic of the fabric's color?",
+        "answer": "Solid"
+      },
+      {
+        "question": "Considering the image, what would you describe the level of sheen or gloss on the fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on the image, how would you classify the thickness of the displayed fabric?",
+        "answer": "Medium"
+      },
+      {
+        "question": "From the image, describe the fabric's surface in terms of tactile sensation (roughness/smoothness)?",
+        "answer": "SlightlyRough"
+      },
+      {
+        "question": "What is the apparent visual uniformity of the fabric's color and texture throughout the image?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Does the image reveal any visible imperfections or irregularities in the fabric's structure?",
+        "answer": "No"
+      },
+      {
+        "question": "In the provided image, what is the visible directionality or grain of the fabric's weave?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Does the image suggest the fabric has any visible stretch or give?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the image, would you describe the general color tone as warm or cool?",
+        "answer": "Cool"
+      }
+    ]
+  }
+]

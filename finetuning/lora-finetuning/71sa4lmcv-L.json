@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/86/86e0e6fc.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the main packaging of this food product, as shown in the provided image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the overall shape of the product's primary container, as depicted in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the image, what material appears to constitute the outer layer of the product packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Based on the visual details in the image, what is the apparent texture of the outer packaging surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the image, what is the primary method of opening the food product's container?",
+        "answer": "Pouring"
+      },
+      {
+        "question": "From the image, what type of information is prominently displayed on the primary label, besides the branding?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Judging by the image, is there any noticeable embossing or texturing on the product's primary label?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the provided image, what is the size of the product's carton, relative to other items?",
+        "answer": "Tall"
+      },
+      {
+        "question": "What is the general design style of the packaging label, as shown in the provided product image?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the color of the text on the nutrition facts label, as displayed in the provided image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based solely on the image, does the container appear to be sealed or resealable in any way?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Judging by the visual data, is the food product's packaging designed with any handles or carrying mechanisms?",
+        "answer": "No"
+      },
+      {
+        "question": "From the image, can you describe the print quality of the label on the product's container?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Based on the image, what is the orientation of the nutrition facts panel on the container?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "From the image, what is the general style of the branding logo featured on the product's container?",
+        "answer": "Circular"
+      }
+    ]
+  }
+]

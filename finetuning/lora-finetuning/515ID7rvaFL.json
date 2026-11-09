@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/27/2768f4c0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the textual information provided, what is the primary oil used in this product?",
+        "answer": "Soybean"
+      },
+      {
+        "question": "Based on the ingredient list, what type of cheese is included in this food item?",
+        "answer": "Blue"
+      },
+      {
+        "question": "As per the label, what dairy product besides cheese is a component of this food?",
+        "answer": "Buttermilk"
+      },
+      {
+        "question": "What acidic ingredient, besides vinegar, is mentioned among the ingredients?",
+        "answer": "Sugar"
+      },
+      {
+        "question": "According to the label, what spice is included in the recipe's composition?",
+        "answer": "Garlic"
+      },
+      {
+        "question": "What type of vinegar is explicitly listed as an ingredient?",
+        "answer": "White"
+      },
+      {
+        "question": "From the list of ingredients, what type of vinegar, aside from white, is used?",
+        "answer": "Apple"
+      },
+      {
+        "question": "What is the main thickening agent, according to the displayed ingredients?",
+        "answer": "Xanthan"
+      },
+      {
+        "question": "Does the ingredient list reveal any type of seed among its components?",
+        "answer": "Mustard"
+      },
+      {
+        "question": "Based on the label, what type of sugar is used as an ingredient?",
+        "answer": "Cane"
+      },
+      {
+        "question": "According to the ingredient list, what kind of egg product is added to the recipe?",
+        "answer": "Yolks"
+      },
+      {
+        "question": "What is the stated form of soybean oil used in the product?",
+        "answer": "Expeller"
+      },
+      {
+        "question": "Does the ingredient list mention any flavoring agents?",
+        "answer": "Flavors"
+      },
+      {
+        "question": "What is the main liquid medium or ingredient?",
+        "answer": "Water"
+      },
+      {
+        "question": "Which nut is mentioned as potentially present due to processing in the same facility?",
+        "answer": "Peanuts"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f0/f01f21cd.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what best describes the dominant color scheme of this product's packaging?",
+        "answer": "White"
+      },
+      {
+        "question": "Focusing on the textual elements, what is the primary font style used throughout the product's label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the image, what is the primary shape of the container or package shown?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Analyzing the material of the packaging, what appears to be the primary material used?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Regarding the product's label, what is the most prominent word or phrase immediately visible?",
+        "answer": "Supplement"
+      },
+      {
+        "question": "Concentrating on the informational content of the label, what section provides detailed nutritional information?",
+        "answer": "Facts"
+      },
+      {
+        "question": "What is the most frequent type of information listed in the central panel in columns?",
+        "answer": "Numbers"
+      },
+      {
+        "question": "Observing the textual content, what type of measurement unit is most prominently displayed within the data section?",
+        "answer": "mg"
+      },
+      {
+        "question": "Looking at the fine print of the label, what legal information is explicitly mentioned?",
+        "answer": "Warnings"
+      },
+      {
+        "question": "What appears to be the overall texture of the visible part of the package?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What are the most prevalent symbols found on the packaging or label of this product?",
+        "answer": "Percentages"
+      },
+      {
+        "question": "Examining the design elements, are there any notable graphics or illustrations aside from text?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the main function of the item as stated on the label?",
+        "answer": "Supplement"
+      },
+      {
+        "question": "Is the text on the product label primarily presented in uppercase or lowercase letters?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "What is the apparent form of the product itself, based solely on the label and its container?",
+        "answer": "Tablets"
+      }
+    ]
+  }
+]

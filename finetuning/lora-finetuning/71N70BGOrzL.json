@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a1/a1f9b81a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what best describes the product's primary shape?",
+        "answer": "Bottle"
+      },
+      {
+        "question": "Examining the dispensing mechanism, what type of top does the bottle have?",
+        "answer": "Pump"
+      },
+      {
+        "question": "Focusing on the bottle's body, what material appears to be used in its construction?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on the visible liquid, what would you describe its general appearance?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Observing the label design, what is the predominant color scheme?",
+        "answer": "White"
+      },
+      {
+        "question": "Looking at the text on the bottle, what is the overall style of the typography?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Analyzing the label's imagery, are there any illustrations or patterns present?",
+        "answer": "Floral"
+      },
+      {
+        "question": "Considering the label's content, is any specific certification or logo visible?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the label's overall look, which adjective captures its design aesthetic?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Focusing on the bottle's base, what is its shape and design characteristic?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Examining the pump's design, what is its construction material?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Observing the liquid's level, is it completely full or partially filled?",
+        "answer": "Full"
+      },
+      {
+        "question": "Based on the label design, what seems to be the bottle's overall purpose or use?",
+        "answer": "Soap"
+      },
+      {
+        "question": "Observing the label's text, is there any indication of the product's volume or size?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Analyzing the label's texture, is it glossy or matte?",
+        "answer": "Matte"
+      }
+    ]
+  }
+]

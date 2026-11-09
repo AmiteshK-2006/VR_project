@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/90/9072ac83.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form and packaging, what is the dominant shape of this product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visible color, what is the primary hue of the main packaging?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What appears to be the primary material used for the product's outer wrapping?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Observing the text on the package, what type of food does it seem to contain?",
+        "answer": "Chocolate"
+      },
+      {
+        "question": "Judging by the texture visible on the wrapper, would you describe its surface as smooth or rough?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Examining the packaging details, what kind of information is prominently displayed?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "Focusing on the color accents, what minor colors are present besides the main color?",
+        "answer": "Multicolored"
+      },
+      {
+        "question": "Judging from the visible information, what seems to be the product's net weight?",
+        "answer": "70g"
+      },
+      {
+        "question": "Based on the visual elements, what type of product is this: candy, baked goods, or something else?",
+        "answer": "Candy"
+      },
+      {
+        "question": "By observing the seal or closure, does it appear to be resealable or non-resealable?",
+        "answer": "Non-resealable"
+      },
+      {
+        "question": "Considering the graphics and labeling, does it appear to be a single serving or bulk package?",
+        "answer": "Bulk"
+      },
+      {
+        "question": "Analyzing the printed text on the label, can you identify the brand or manufacturer?",
+        "answer": "Unidentifiable"
+      },
+      {
+        "question": "Examining the fine print on the wrapper, is there any indication of expiration dates?",
+        "answer": "No"
+      },
+      {
+        "question": "What kind of seal is present at the seams of the package?",
+        "answer": "Heat"
+      },
+      {
+        "question": "Judging by its general appearance, is the packaging design minimalist or elaborate?",
+        "answer": "Minimalist"
+      }
+    ]
+  }
+]

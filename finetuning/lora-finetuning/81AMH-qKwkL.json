@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/50/50d6ca44.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the device shown connecting to the laptop?",
+        "answer": "White"
+      },
+      {
+        "question": "What type of connector is on the end of the cable closest to the laptop?",
+        "answer": "Mini"
+      },
+      {
+        "question": "What type of connector is on the other end of the cable?",
+        "answer": "HDMI"
+      },
+      {
+        "question": "What appears to be the primary function of this device, judging by its connectors?",
+        "answer": "Adapter"
+      },
+      {
+        "question": "Considering the device's shape, what geometric term best describes it?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material does the device's casing appear to be made of, based on its visual characteristics?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Observing the surface, what would you describe the texture of the device's outer shell as?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the device show any visible branding or logos, and if so, what is its apparent placement?",
+        "answer": "Top"
+      },
+      {
+        "question": "What is the apparent length of the cable connecting the device to the laptop, relative to the device itself?",
+        "answer": "Long"
+      },
+      {
+        "question": "Considering the cable, what is the overall apparent flexibility or rigidity of the cable?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "What color is the cable connecting the HDMI port to the adapter?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the image, does the cable seem to be braided or solid?",
+        "answer": "Solid"
+      },
+      {
+        "question": "What is the apparent condition of the device and cables shown in the image?",
+        "answer": "New"
+      },
+      {
+        "question": "Considering the image, is the device shown plugged in or unplugged from the laptop?",
+        "answer": "Plugged"
+      },
+      {
+        "question": "Does the device appear to have any visible screws or fasteners?",
+        "answer": "No"
+      }
+    ]
+  }
+]

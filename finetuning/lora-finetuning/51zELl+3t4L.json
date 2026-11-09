@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/96/96a78d26.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color scheme used in the presentation of the nutritional information?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the font style predominantly used for the text on the nutrition facts label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What specific measurement unit is used to quantify the serving size of the cupcake?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What numerical value indicates the total amount of calories per serving, as presented in prominent font size?",
+        "answer": "220"
+      },
+      {
+        "question": "What is the numerical value that represents the percentage of the daily value for total fat contained in one serving?",
+        "answer": "22"
+      },
+      {
+        "question": "What is the numerical value that represents the total amount of grams of saturated fat present in one serving?",
+        "answer": "3"
+      },
+      {
+        "question": "What numerical value, in milligrams, represents the cholesterol content in one serving?",
+        "answer": "10"
+      },
+      {
+        "question": "What is the numerical value indicating the total amount of sodium in milligrams, contained in one serving?",
+        "answer": "220"
+      },
+      {
+        "question": "What is the numerical value for total carbohydrates in grams per serving, as displayed in the label?",
+        "answer": "13"
+      },
+      {
+        "question": "What is the numerical value indicating the amount of total sugars in grams, per serving?",
+        "answer": "1"
+      },
+      {
+        "question": "What is the numerical value representing the percentage of the daily value for added sugars in one serving?",
+        "answer": "61"
+      },
+      {
+        "question": "What is the numerical value indicating the amount of protein, in grams, present in one serving?",
+        "answer": "4"
+      },
+      {
+        "question": "What is the numerical value representing the percentage of the daily value for calcium in one serving?",
+        "answer": "3"
+      },
+      {
+        "question": "What is the numerical value in milligrams representing the amount of potassium present in one serving?",
+        "answer": "35"
+      },
+      {
+        "question": "What is the word displayed prominently at the top of the nutritional information panel?",
+        "answer": "Nutrition"
+      }
+    ]
+  }
+]

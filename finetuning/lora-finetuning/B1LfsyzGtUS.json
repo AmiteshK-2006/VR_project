@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/75/75ecb3e3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color observed across the entire fabric sample?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the visual texture, what is the dominant weave type apparent in this fabric?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Based on the image, what kind of fiber seems to constitute the majority of this material?",
+        "answer": "Textile"
+      },
+      {
+        "question": "Describe the general visual pattern of the threads forming the material's structure?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Judging by the image, how would you describe the general visual appearance of the fabric's surface?",
+        "answer": "Rough"
+      },
+      {
+        "question": "From a visual standpoint, what is the overall visual density of the woven material shown?",
+        "answer": "Dense"
+      },
+      {
+        "question": "What is the apparent surface quality or feel of the displayed fabric sample, considering its visual details?",
+        "answer": "Uneven"
+      },
+      {
+        "question": "Considering its visible texture, how might the fabric's touch feel to the hand?",
+        "answer": "Coarse"
+      },
+      {
+        "question": "Does the visual examination of this fabric reveal any noticeable design features or repeating patterns?",
+        "answer": "None"
+      },
+      {
+        "question": "What would you say is the visual level of shine present on this fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the most noticeable visual characteristic of this fabric's color arrangement?",
+        "answer": "Multitoned"
+      },
+      {
+        "question": "Does the fabric exhibit a visible directionality in its woven pattern or fiber arrangement?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the appearance, would you describe this fabric's structure as being loosely or tightly woven?",
+        "answer": "Tightly"
+      },
+      {
+        "question": "What is the most visually prominent shade or tone within the overall color range of the sample?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering visual characteristics alone, what is the implied thickness of this textile sample?",
+        "answer": "Medium"
+      }
+    ]
+  }
+]

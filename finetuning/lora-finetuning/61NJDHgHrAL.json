@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b0/b01d94e4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the primary color scheme dominating the nutrition facts label?",
+        "answer": "Purple"
+      },
+      {
+        "question": "Based on the visual appearance, what language(s) are prominently displayed on this nutrition label?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "Judging by the visual layout, what is the primary organizational structure used to present the nutritional information?",
+        "answer": "Table"
+      },
+      {
+        "question": "Observing the image, what seems to be the unit of measurement consistently used for nutritional values?",
+        "answer": "Grams"
+      },
+      {
+        "question": "From a visual perspective, what is the format of the presented nutritional data: raw numbers or graphical representation?",
+        "answer": "Numbers"
+      },
+      {
+        "question": "Considering the image, what type of food product does this nutrition label likely pertain to, based on the color scheme and layout?",
+        "answer": "Berry"
+      },
+      {
+        "question": "Based solely on visual analysis, is the font style used for the nutritional values consistent throughout the label?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What visual element separates the nutritional values for 'per 100g' and 'per 25g' sections?",
+        "answer": "Line"
+      },
+      {
+        "question": "Does the label's visual design suggest a focus on providing detailed information or highlighting a specific nutritional aspect?",
+        "answer": "Detailed"
+      },
+      {
+        "question": "In terms of visual prominence, which nutritional value category occupies the largest area on the label?",
+        "answer": "Carbohydrate"
+      },
+      {
+        "question": "Considering the visual layout, what is the relative size of the text used for the header 'NUTRITION' compared to other text elements?",
+        "answer": "Larger"
+      },
+      {
+        "question": "Based on visual observation, how many distinct columns are used to organize the nutritional information on this label?",
+        "answer": "Three"
+      },
+      {
+        "question": "From a visual perspective, is there an image or graphic element on the label other than text and lines?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering visual aspects, what is the general shape of the nutrition facts label in this image?",
+        "answer": "Rectangle"
+      },
+      {
+        "question": "Judging by the visual style, would you describe the overall aesthetic of the label as modern, classic, or something else?",
+        "answer": "Modern"
+      }
+    ]
+  }
+]

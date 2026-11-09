@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/68/68b91ab1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the primary shape of the depicted product?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the predominant color of the container, as observed in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on visual inspection, what appears to be the material of the product container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the surface texture of the bottle, as visually apparent in the photograph?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the shape of the topmost part of the product container, as seen in the image?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Are there any noticeable patterns or designs printed on the main body of the container?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the size, is this a large or small volume product container?",
+        "answer": "Large"
+      },
+      {
+        "question": "What kind of labeling is visibly present on the container's side?",
+        "answer": "Text"
+      },
+      {
+        "question": "Is the bottle's label primarily single-colored, or does it involve multiple colors?",
+        "answer": "Single"
+      },
+      {
+        "question": "Focusing only on what is shown, is the container transparent or opaque?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Are there any visible seals or tamper-evident features on the container's cap?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image, is the container's cap attached or detached from the bottle?",
+        "answer": "Attached"
+      },
+      {
+        "question": "Judging from the visible text, what kind of product does the label seem to suggest?",
+        "answer": "Liquid"
+      },
+      {
+        "question": "Can you determine if any visible barcode is present on the container?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the overall visual impression conveyed by this product's packaging design?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

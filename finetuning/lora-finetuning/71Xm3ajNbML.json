@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/13/13806c68.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the dominant shape of this item, as visually apparent from the provided image?",
+        "answer": "Oval"
+      },
+      {
+        "question": "Based on the visible texture, what can be inferred about the surface of the object displayed?",
+        "answer": "Wavy"
+      },
+      {
+        "question": "Judging from the visual appearance, what material seems to have been used for the construction of this product?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Considering the color palette, what single word best describes the hue of the item shown?",
+        "answer": "Black"
+      },
+      {
+        "question": "From a purely visual perspective, what is the primary design feature of the item's surface?",
+        "answer": "Pattern"
+      },
+      {
+        "question": "Observing the item's presentation in the image, what can be said regarding its apparent physical condition?",
+        "answer": "New"
+      },
+      {
+        "question": "Analyzing the visible surface, what is the overall impression conveyed by the texture and its arrangement?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Based on the image, what can be deduced about the item's apparent flexibility or rigidity?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Judging by the visible details, what is the implied purpose or functionality of the object?",
+        "answer": "Sole"
+      },
+      {
+        "question": "Given the image, what could be suggested about the item's intended usage or application?",
+        "answer": "Footwear"
+      },
+      {
+        "question": "Based on the image, can you describe the depth or thickness of the product?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Considering the visual details, is the pattern of the product uniform or varied?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Based on the image, does the object exhibit any visible marks, imperfections or damages?",
+        "answer": "None"
+      },
+      {
+        "question": "From a purely visual standpoint, is the object's overall design simplistic or complex?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the apparent size relative to a human foot, considering the image's perspective?",
+        "answer": "Large"
+      }
+    ]
+  }
+]

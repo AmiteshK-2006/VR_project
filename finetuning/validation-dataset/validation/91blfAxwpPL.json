@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/7d/7d544f31.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the primary image area?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the visible texture, what is the apparent material of the displayed fabric?",
+        "answer": "Canvas"
+      },
+      {
+        "question": "Based on the visible stitching, what type of seam construction is predominantly used?",
+        "answer": "Topstitch"
+      },
+      {
+        "question": "What is the overall shape of the displayed fabric sample, disregarding the label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the visible texture of the fabric surface, as shown in the image?",
+        "answer": "Woven"
+      },
+      {
+        "question": "What is the primary visible feature located at the lower left corner?",
+        "answer": "Logo"
+      },
+      {
+        "question": "What is the main text featured prominently at the top-center of the label?",
+        "answer": "Washing"
+      },
+      {
+        "question": "What is the descriptive term that modifies the word 'Instructions' on the label?",
+        "answer": "Washing"
+      },
+      {
+        "question": "What single word describes the visible cleaning method shown on the label?",
+        "answer": "Machine"
+      },
+      {
+        "question": "Regarding the temperature limit on the label, what is the maximum temperature stated?",
+        "answer": "30°C"
+      },
+      {
+        "question": "Referring to bleaching, what instruction is given concerning the treatment of the fabric?",
+        "answer": "Do"
+      },
+      {
+        "question": "What is the term for the cleaning method specifically disallowed on the label?",
+        "answer": "Tumble"
+      },
+      {
+        "question": "What is the suggested level of temperature for iron use as stated on the label?",
+        "answer": "Low"
+      },
+      {
+        "question": "What is the type of professional dry cleaning option stated on the label?",
+        "answer": "Professional"
+      },
+      {
+        "question": "What is the adjective used to describe the nature of the dry cleaning?",
+        "answer": "Dry"
+      }
+    ]
+  }
+]

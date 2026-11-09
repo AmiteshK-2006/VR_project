@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/51/51a154a9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed item's cover?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What appears to be the primary material of the item's construction?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the item's overall geometry, what is its shape?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describing the item's texture, what would you say it feels like?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What color is the visible binding or edge of the item?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the apparent finish of the item's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Observing the item's features, what is its apparent function?",
+        "answer": "Storage"
+      },
+      {
+        "question": "Does the item exhibit any visible patterns or designs?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on visual inspection, what is the thickness of the item?",
+        "answer": "Thin"
+      },
+      {
+        "question": "What is the presence of any discernible text or labeling on the item?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is the item's appearance consistent throughout its visible surfaces?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the color of the small label at the bottom?",
+        "answer": "Black"
+      },
+      {
+        "question": "What kind of barcode is visible at the bottom of the item?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Judging by the image, how many sides of the item are visible?",
+        "answer": "Three"
+      },
+      {
+        "question": "Considering its size, is the object likely large or small?",
+        "answer": "Small"
+      }
+    ]
+  }
+]

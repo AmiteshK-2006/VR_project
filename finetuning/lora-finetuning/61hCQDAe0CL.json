@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e1/e11b6e0e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color visually dominating the product packaging?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the textual layout, what is the overall shape of the packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the image, what appears to be the material of the product's packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the dominant text style or font used across the packaging?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the most prominent information displayed on the packaging?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Considering the size and prominence, what is the second most notable section of text?",
+        "answer": "Warnings"
+      },
+      {
+        "question": "Does the packaging prominently display any brand logo or name?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the color of the brand logo or name?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Is there any noticeable texture visible on the package surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the general tone or style of the packaging design?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Are there any visible graphics or illustrations on the product packaging?",
+        "answer": "No"
+      },
+      {
+        "question": "What appears to be the overall size of the product's packaging?",
+        "answer": "Small"
+      },
+      {
+        "question": "Does the label feature any warning statements or disclaimers?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Are there any nutritional facts listed on the packaging?",
+        "answer": "No"
+      },
+      {
+        "question": "What type of print is primarily used on the packaging?",
+        "answer": "Text"
+      }
+    ]
+  }
+]

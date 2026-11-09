@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0b/0bf9bd3b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the depicted structural component?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What geometric shape best describes the cross-section of the main vertical member?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material appears to constitute the majority of the visible structure?",
+        "answer": "Metal"
+      },
+      {
+        "question": "What is the overall shape of the base plate affixed to the lower end?",
+        "answer": "Triangular"
+      },
+      {
+        "question": "How many visible holes are present within the base plate of this item?",
+        "answer": "Three"
+      },
+      {
+        "question": "Considering the finish, what is the apparent surface texture of the post?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the apparent angle of the corners along the post's length?",
+        "answer": "Sharp"
+      },
+      {
+        "question": "Based on the visible features, what is the likely function of this object?",
+        "answer": "Support"
+      },
+      {
+        "question": "Describing the profile of the base, is it concave or convex?",
+        "answer": "Concave"
+      },
+      {
+        "question": "What is the general appearance of the material; matte, glossy, or something else?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the relative height of this component compared to its width?",
+        "answer": "Tall"
+      },
+      {
+        "question": "Does the structural element exhibit any visible signs of joints or welds?",
+        "answer": "No"
+      },
+      {
+        "question": "In terms of visual weight, how would you describe the item?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "What is the primary visual characteristic of the holes present in the base?",
+        "answer": "Round"
+      },
+      {
+        "question": "What seems to be the manufacturing process used for this element, casting or extrusion?",
+        "answer": "Extrusion"
+      }
+    ]
+  }
+]

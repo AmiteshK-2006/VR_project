@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f4/f45e4d21.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the predominant shape of this item, as observed in its entirety?",
+        "answer": "Oval"
+      },
+      {
+        "question": "Based on the visual texture, what material appears to be used in constructing this object's surface?",
+        "answer": "Rubber"
+      },
+      {
+        "question": "Describe the primary color visually apparent across the item's surface.",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the texture of the surface, if considering the visual details?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What kind of pattern is visible on the object's surface, regarding the visual details shown?",
+        "answer": "Diamond"
+      },
+      {
+        "question": "Judging by the visible features, does this item seem to be designed for a specific purpose or function?",
+        "answer": "Footwear"
+      },
+      {
+        "question": "Examining the bottom, what kind of sole design is visible on the object, based on the appearance?",
+        "answer": "Grip"
+      },
+      {
+        "question": "Based on the image provided, is there any visible branding or logo present on this item?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the overall impression of the object's surface finish, considering its appearance?",
+        "answer": "Matte"
+      },
+      {
+        "question": "If you look closely at the surface, are there visible irregularities or imperfections?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the visual appearance, is this item likely to be flexible or rigid in nature?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "From the image, is there any indication of stitching or seams on this item's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on its visual characteristics, is this object waterproof or water-resistant?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the visuals, what is the approximate size of this object relative to a human foot?",
+        "answer": "Small"
+      },
+      {
+        "question": "From the image, is this item one piece or composed of multiple parts?",
+        "answer": "One"
+      }
+    ]
+  }
+]

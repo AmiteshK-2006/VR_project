@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/96/9684caba.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color scheme employed in the product's labeling?",
+        "answer": "Black"
+      },
+      {
+        "question": "What specific textual element is prominently displayed, signifying the product's nutritional information?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Based on the visual layout, what is the format of this nutritional information?",
+        "answer": "Table"
+      },
+      {
+        "question": "Observing the textual elements, what is the unit of measurement consistently used for various nutritional components?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the primary font style used for the most significant numerical values, like caloric content?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Describe the overall shape and layout of the presented nutritional facts panel.",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the texture of the surface on which the nutritional information is printed?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What term visually stands out, denoting the amount of protein content per serving?",
+        "answer": "Protein"
+      },
+      {
+        "question": "What is the font type primarily used for the labeling of various nutritional components?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What measurement unit is utilized in the label to express the quantity of servings?",
+        "answer": "Number"
+      },
+      {
+        "question": "What word visually distinguishes the section related to the amount of fat content?",
+        "answer": "Fat"
+      },
+      {
+        "question": "Judging by the image, what is the orientation of the nutrition facts label?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the type of visual elements used for the section headings?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the contrast between the text and the background of the nutrition label?",
+        "answer": "High"
+      },
+      {
+        "question": "Excluding numbers and units, what is the most frequently occurring word on this label?",
+        "answer": "DV"
+      }
+    ]
+  }
+]

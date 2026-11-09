@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/30/30c252ef.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the font style and overall presentation, what is the primary purpose of this image, as visually conveyed?",
+        "answer": "Information"
+      },
+      {
+        "question": "What is the dominant color scheme employed throughout the text and background of the image?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the typeface or font family predominantly used for displaying the textual content in this product image?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Describe the text alignment used for the primary sections of the text, such as \"Ingredients\" and \"Prepared On...\"",
+        "answer": "Left"
+      },
+      {
+        "question": "What is the visual style of the text's capitalization, considering the usage of uppercase and lowercase letters?",
+        "answer": "Sentence"
+      },
+      {
+        "question": "What is the overall structural organization of the textual elements within the image, looking at their positioning and hierarchy?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Considering the visual hierarchy, what is the text's most prominent section in terms of size and location?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the text's visual appearance in relation to its density and spacing (compact or spacious)?",
+        "answer": "Spacious"
+      },
+      {
+        "question": "Describe the visual consistency of the text's formatting characteristics throughout the image?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Based on visual appearance, what kind of document or information does the image's structure and content suggest?",
+        "answer": "Label"
+      },
+      {
+        "question": "Given the visual style, is the information intended for a consumer or for industrial use?",
+        "answer": "Consumer"
+      },
+      {
+        "question": "What is the overall visual tone or mood projected by the design and presentation?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Considering the level of detail, what is the visual complexity of the image as a whole?",
+        "answer": "Low"
+      },
+      {
+        "question": "Describe the visual prominence of the warnings regarding allergens in relation to other text blocks.",
+        "answer": "Prominent"
+      },
+      {
+        "question": "What is the visual style of the ingredient list: bullet points, numbered list, or paragraph?",
+        "answer": "Paragraph"
+      }
+    ]
+  }
+]

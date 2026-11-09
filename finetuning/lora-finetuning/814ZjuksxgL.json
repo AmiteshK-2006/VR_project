@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/26/26aa0134.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the text displayed on the product packaging?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the overall visual presentation, what is the primary language used on the label?",
+        "answer": "English"
+      },
+      {
+        "question": "What is the overall shape of the text block containing the ingredients list?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the font style used for the 'INGREDIENTS' heading, considering its weight and appearance?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the apparent texture of the surface on which the text is printed, based solely on visual observation?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on visual observation, what is the apparent background color of the printed text?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary organizational method used to present the ingredient information on the packaging?",
+        "answer": "List"
+      },
+      {
+        "question": "Judging from the image, what is the case of the lettering used in the ingredients list?",
+        "answer": "Upper"
+      },
+      {
+        "question": "What kind of punctuation is predominantly used to separate individual ingredients?",
+        "answer": "Comma"
+      },
+      {
+        "question": "Observing the image, what is the orientation of the text on the product packaging?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What appears to be the printing method used for the product label's text?",
+        "answer": "Offset"
+      },
+      {
+        "question": "From a visual perspective, does the text appear to be embossed, debossed, or neither?",
+        "answer": "Neither"
+      },
+      {
+        "question": "What word immediately follows the word 'INGREDIENTS' on the label?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Judging by the visual characteristics, is the font serif or sans-serif?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the visual characteristics, does the overall presentation suggest a premium or budget-friendly approach?",
+        "answer": "Premium"
+      }
+    ]
+  }
+]

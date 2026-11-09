@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6f/6f338b68.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color of the text displayed on the label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the apparent text style used for the product's ingredient list, considering its uniformity and simplicity?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the visual information provided, what is the label's background color, seemingly consistent throughout?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "If observing the text closely, what appears to be the overall orientation of the words on the food label?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Judging from the image, what is the approximate length-to-width ratio of the rectangular label itself?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the visual clarity of the label, what would you say is the primary function of this particular rectangular object?",
+        "answer": "Informative"
+      },
+      {
+        "question": "What is the material that the label appears to be printed on, judging from the texture and overall visual appearance?",
+        "answer": "Paper"
+      },
+      {
+        "question": "When analyzing the image, what seems to be the primary purpose of the text in this presentation, based on its content?",
+        "answer": "Listing"
+      },
+      {
+        "question": "Based on the visual appearance alone, what would you assess to be the overall texture of the label\u2019s surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the visual prominence of the text, what single word best describes the arrangement of information provided?",
+        "answer": "Linear"
+      },
+      {
+        "question": "What kind of information is predominantly featured on the visual display of this product label?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "From the image, what term best describes the arrangement of words on the label, suggesting a systematic order?",
+        "answer": "Organized"
+      },
+      {
+        "question": "Judging by the image, what single word best describes the general appearance of the text font used on the label?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Based solely on the visual characteristics of the label, what word describes its overall visual style?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the case of the lettering on the label?",
+        "answer": "Uppercase"
+      }
+    ]
+  }
+]

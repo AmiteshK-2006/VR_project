@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/46/46fb668d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the primary visual element depicted in the image?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the predominant color of the text presented in the product image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the image, what appears to be the background color of the text?",
+        "answer": "White"
+      },
+      {
+        "question": "What style of font is predominantly used for the textual content shown?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the apparent size of the text relative to the visible area in the image?",
+        "answer": "Large"
+      },
+      {
+        "question": "Considering the textual content, what is the subject of the displayed information?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the format in which the ingredient information is presented?",
+        "answer": "List"
+      },
+      {
+        "question": "What descriptive term is used to categorize the listed ingredients?",
+        "answer": "Other"
+      },
+      {
+        "question": "Observing the visual arrangement, how many lines of text are visible in the image?",
+        "answer": "Six"
+      },
+      {
+        "question": "Judging by the visual appearance, is the text uniformly spaced?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the text exhibit any noticeable visual characteristics like italics or bolding?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the general tone or style of the text based on visual observation?",
+        "answer": "Informative"
+      },
+      {
+        "question": "What is the visual alignment of the text within the image?",
+        "answer": "Left"
+      },
+      {
+        "question": "Judging by the image, is the text easily legible?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the visual information alone, is the text enclosed in a border or box?",
+        "answer": "No"
+      }
+    ]
+  }
+]

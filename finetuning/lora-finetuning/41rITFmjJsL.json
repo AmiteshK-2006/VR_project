@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fe/fe4450dd.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the primary form of this product's labeling?",
+        "answer": "Text"
+      },
+      {
+        "question": "Focusing on the textual content, what is the dominant subject matter conveyed?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Describe the font style used for the principal text section, specifically in terms of its weight or boldness.",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the case style predominantly used for the descriptive ingredient labels?",
+        "answer": "Upper"
+      },
+      {
+        "question": "What is the most noticeable text color scheme used across the labeling components?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the visual appearance, how would you classify the background of the presented label?",
+        "answer": "White"
+      },
+      {
+        "question": "Observing the text structure, can you identify the method utilized for listing individual ingredients?",
+        "answer": "List"
+      },
+      {
+        "question": "Describe the overall visual organization, layout, or arrangement of the information presented.",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Examining the text blocks, what punctuation is extensively used to separate or demarcate elements?",
+        "answer": "Comma"
+      },
+      {
+        "question": "Considering the overall design and organization, what is the implied purpose of the displayed information?",
+        "answer": "Informational"
+      },
+      {
+        "question": "Given the visual style, what is the implied target audience or user group?",
+        "answer": "Consumers"
+      },
+      {
+        "question": "Considering the visual format, what is the likely medium or material the label is printed on?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What level of detail is exhibited in the textual information regarding the product's components?",
+        "answer": "Detailed"
+      },
+      {
+        "question": "Considering the visible text, can you determine the style of the informational structure regarding potential allergens?",
+        "answer": "Warning"
+      },
+      {
+        "question": "What visual element is prominently featured in the lower portion of the image?",
+        "answer": "Text"
+      }
+    ]
+  }
+]

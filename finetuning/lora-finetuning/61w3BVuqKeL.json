@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/53/53732bb8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the product's packaging?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the primary material of the product's packaging?",
+        "answer": "Foil"
+      },
+      {
+        "question": "What is the overall shape of the product container?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Does the packaging feature a resealable closure or zipper?",
+        "answer": "No"
+      },
+      {
+        "question": "Is the text on the bag predominantly printed or embossed?",
+        "answer": "Printed"
+      },
+      {
+        "question": "What is the approximate weight of the product indicated on the packaging?",
+        "answer": "500g"
+      },
+      {
+        "question": "What language(s) is the text on the packaging written in?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "Does the packaging display any nutritional information?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is there a barcode present on the package?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the packaging show any logos or brand names?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the texture of the packaging material; smooth or rough?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Is the overall appearance of the packaging matte or glossy?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the product packaging have any noticeable graphics?",
+        "answer": "No"
+      },
+      {
+        "question": "Is the product contained in a bag, box, or other container?",
+        "answer": "Bag"
+      },
+      {
+        "question": "Considering the overall design, what's the packaging style?",
+        "answer": "Minimalist"
+      }
+    ]
+  }
+]

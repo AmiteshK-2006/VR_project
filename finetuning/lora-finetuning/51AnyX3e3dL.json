@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fd/fd9f92bd.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the depicted chewing gum piece?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering its dimensions relative to the scale, what is the overall shape of the item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on its visual appearance, what is the apparent texture of the chewing gum?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging from the image, does the gum exhibit any noticeable surface markings or patterns?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent physical state of the product; solid, liquid, or gas?",
+        "answer": "Solid"
+      },
+      {
+        "question": "From its visual characteristics, what might be the likely material composition?",
+        "answer": "Gum"
+      },
+      {
+        "question": "In terms of its presentation, does the gum appear individually wrapped or unwrapped?",
+        "answer": "Unwrapped"
+      },
+      {
+        "question": "Considering the visual clarity, does the product have a translucent or opaque quality?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Judging solely by the visual details, what is the suggested flavor profile based on its appearance?",
+        "answer": "Original"
+      },
+      {
+        "question": "Does the visual representation showcase any visible imperfections or flaws in the item?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the approximate size of the chewing gum in relation to the scale provided?",
+        "answer": "One"
+      },
+      {
+        "question": "Does the visual presentation of the product incorporate additional elements besides the gum?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What appears to be the background color used for the visual product representation?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the apparent level of gloss or shine demonstrated by the product's surface?",
+        "answer": "Slight"
+      },
+      {
+        "question": "Given the visual details provided, is the product clearly and distinctly defined?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

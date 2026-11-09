@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/00/00ca2c70.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the chair's fabric?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Describe the texture of the upholstery fabric, considering its weave?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What appears to be the primary material of the chair's legs?",
+        "answer": "Wood"
+      },
+      {
+        "question": "What is the overall shape of the chair's backrest, considering its curvature?",
+        "answer": "Curved"
+      },
+      {
+        "question": "Considering the armrests' design, what is their overall shape?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "What kind of pattern is visible in the fabric's weave?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Judging by the image, what is the chair's style?",
+        "answer": "Traditional"
+      },
+      {
+        "question": "What is the general appearance of the chair's upholstery?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on visual cues, what is the chair's primary function?",
+        "answer": "Seating"
+      },
+      {
+        "question": "What color are the chair legs, based solely on visual observation?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the image's detail, what is the chair's backrest height?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the visual impression of the seat cushions' firmness?",
+        "answer": "Plush"
+      },
+      {
+        "question": "What is the visual impression of the seat's depth?",
+        "answer": "Deep"
+      },
+      {
+        "question": "What is the overall visual impression of the chair's design?",
+        "answer": "Elegant"
+      },
+      {
+        "question": "Based on the image, describe the chair's armrest height relative to the seat?",
+        "answer": "High"
+      }
+    ]
+  }
+]

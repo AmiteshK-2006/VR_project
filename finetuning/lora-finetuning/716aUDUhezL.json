@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/62/6291ffed.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant shade observed across the entire surface of the item?",
+        "answer": "Aqua"
+      },
+      {
+        "question": "Considering the visual texture, how would you describe the surface's feel?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image, what is the most apparent visual characteristic of this item?",
+        "answer": "Solid"
+      },
+      {
+        "question": "If you were to describe the overall tone of the color presented, what would it be?",
+        "answer": "Pastel"
+      },
+      {
+        "question": "Judging from the image, what is the primary color family to which this item belongs?",
+        "answer": "Blue"
+      },
+      {
+        "question": "What is the apparent physical form or shape of the displayed item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Does the image suggest any visible patterns or designs on the item's surface?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the visual uniformity, how consistent is the item's coloration?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Can you describe the perceived luminosity or brightness of the item's color?",
+        "answer": "Light"
+      },
+      {
+        "question": "Based on visual observation, what is the implied dimensionality of the object?",
+        "answer": "Two-dimensional"
+      },
+      {
+        "question": "From the image, can you determine if the item's surface is glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What would you say is the most striking visual characteristic of the displayed item's color?",
+        "answer": "Pale"
+      },
+      {
+        "question": "Is there any visible sign of texture variation across the image's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the image reveal any distinguishing marks, logos, or text on the product?",
+        "answer": "No"
+      },
+      {
+        "question": "What single adjective best captures the apparent visual saturation of the item's color?",
+        "answer": "Subtle"
+      }
+    ]
+  }
+]

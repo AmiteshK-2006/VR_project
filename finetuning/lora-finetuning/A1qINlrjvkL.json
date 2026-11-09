@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/67/679d5a7f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the fabric shown in the image?",
+        "answer": "Purple"
+      },
+      {
+        "question": "What is the primary material indicated on the label attached to the fabric?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "What brand is identified on the care label attached to this textile?",
+        "answer": "Amazonbasics"
+      },
+      {
+        "question": "Considering the texture, what is the likely weave type of this fabric?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Based on the image, what is the overall shape or form of the presented item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Observing the fabric's appearance, is its surface smooth or rough to the touch?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the primary manufacturing location of this product as indicated on the label?",
+        "answer": "China"
+      },
+      {
+        "question": "Does the fabric show any visible patterns, prints, or embellishments?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the image, is the fabric thick, thin, or medium in weight?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the primary use of the visible care symbols present in the label?",
+        "answer": "Washing"
+      },
+      {
+        "question": "Can you identify any visible seams, hems, or edges in the presented fabric sample?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the appearance of the fabric's visible edges, are they raw or finished?",
+        "answer": "Finished"
+      },
+      {
+        "question": "Does the label feature any cautionary or safety-related symbols?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What appears to be the overall condition of the fabric shown?",
+        "answer": "New"
+      },
+      {
+        "question": "Considering the image's clarity, can you determine the exact thread count?",
+        "answer": "No"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1e/1ea179c1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the visual depiction of supported ports, what is the dominant color signifying compatibility?",
+        "answer": "Green"
+      },
+      {
+        "question": "Observing the image, what color indicates the absence of a specific port type?",
+        "answer": "Red"
+      },
+      {
+        "question": "Based on the visual representation, what shape best describes the majority of the depicted ports?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging by the visual characteristics, what is the apparent material of the depicted ports?",
+        "answer": "Metallic"
+      },
+      {
+        "question": "From a purely visual perspective, what type of connection is indicated by a green checkmark icon?",
+        "answer": "Supported"
+      },
+      {
+        "question": "Based on the image alone, what graphic symbol denotes incompatibility?",
+        "answer": "Cross"
+      },
+      {
+        "question": "Considering the visuals, what textual element labels the different connection types?",
+        "answer": "Text"
+      },
+      {
+        "question": "From what is shown in the image, what is the overall layout of the presented port information?",
+        "answer": "Linear"
+      },
+      {
+        "question": "What is the apparent style of the visual depiction of the ports, simple or complex?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Based solely on the image's visual elements, what is the overall appearance of the design?",
+        "answer": "Schematic"
+      },
+      {
+        "question": "What is the visual texture of the ports represented in the image; smooth or rough?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the image alone, what is the general size of the ports, large or small?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the form factor of the information representation; horizontal or vertical?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Considering the image's details, what level of detail is present; high or low?",
+        "answer": "Low"
+      },
+      {
+        "question": "Based on what is visibly depicted, what is the overall tone of the image; dark or light?",
+        "answer": "Dark"
+      }
+    ]
+  }
+]

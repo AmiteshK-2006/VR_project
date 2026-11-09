@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9f/9fcc1c69.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the text on the product packaging, as shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the overall appearance, what is the primary background color of the label?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Based on the image, what is the apparent texture of the label's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by its appearance in the image, what is the general shape of the product's label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the font style, what is the overall impression of the label's typography?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the principal style of text arrangement used on the product label as depicted?",
+        "answer": "List"
+      },
+      {
+        "question": "Observing the image, what appears to be the primary language of the text on the label?",
+        "answer": "English"
+      },
+      {
+        "question": "Considering the label's layout, what is the main visual element besides the text?",
+        "answer": "None"
+      },
+      {
+        "question": "Based on visual observation, does the label exhibit any noticeable visual effects such as embossing?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the size of the font used for the main text block in relation to the rest of the label?",
+        "answer": "Large"
+      },
+      {
+        "question": "Judging from the image, is the label's design minimalist or ornate?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What style of capitalization is used for the product's ingredient list?",
+        "answer": "Sentence"
+      },
+      {
+        "question": "How many distinct text blocks are clearly identifiable on the label, visually?",
+        "answer": "Two"
+      },
+      {
+        "question": "Does the image reveal any kind of graphics or illustrations on the product packaging?",
+        "answer": "No"
+      },
+      {
+        "question": "Is there evidence of any other prominent colors apart from black and beige in the product image?",
+        "answer": "No"
+      }
+    ]
+  }
+]

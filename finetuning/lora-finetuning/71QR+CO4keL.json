@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/7d/7d2766e5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color scheme of the product packaging, as visibly displayed in the image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the visible text, what primary ingredient is prominently featured on the product's label?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "Based on the image, what kind of font is used for the product's ingredients list?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Judging from the image, what is the overall texture of the label's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the packaging prominently display any certifications or logos, based on what is visible?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent orientation of the text on the label; is it primarily vertical or horizontal?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "In the image, what is the visible color of the printed text on the label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Judging from the visible details, what is the background color of the product's packaging?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "Examining the image, what shape does the overall packaging of the product take?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the visual details, what is the apparent size of the visible text on the packaging?",
+        "answer": "Small"
+      },
+      {
+        "question": "Does the image provide evidence of any additional graphics or illustrations other than the text?",
+        "answer": "No"
+      },
+      {
+        "question": "What style of capitalization is used in the product's ingredients list, according to the visible information?",
+        "answer": "Sentence"
+      },
+      {
+        "question": "Based on the image, does the text on the label appear to be printed or handwritten?",
+        "answer": "Printed"
+      },
+      {
+        "question": "What is the apparent density of the text on the product's packaging, based on the image provided?",
+        "answer": "High"
+      },
+      {
+        "question": "Observing the product image, is the label on the product primarily descriptive or promotional in nature?",
+        "answer": "Descriptive"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/2f/2ff91766.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the illuminated structure presented in the image?",
+        "answer": "Star"
+      },
+      {
+        "question": "What color is the light emitted by the LED component of the star?",
+        "answer": "White"
+      },
+      {
+        "question": "What appears to be the primary material used in the construction of the star's frame?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the texture of the visible surface of the star's frame?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "How many distinct points does the star's geometric structure possess?",
+        "answer": "Five"
+      },
+      {
+        "question": "What is the apparent design pattern within each arm of the star?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Is there an inner circular element within the star's design?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the image, what is the inferred method of hanging or positioning the star?",
+        "answer": "Hanging"
+      },
+      {
+        "question": "Does the star's frame exhibit any visible seams or joints?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What appears to be the light source integrated within the star's structure?",
+        "answer": "LEDs"
+      },
+      {
+        "question": "Based on its structure, what is the most likely application of this item?",
+        "answer": "Decoration"
+      },
+      {
+        "question": "Judging by the image, what is the overall transparency of the star's frame?",
+        "answer": "Translucent"
+      },
+      {
+        "question": "What is the apparent degree of flexibility exhibited by the star's frame?",
+        "answer": "Rigid"
+      },
+      {
+        "question": "Observing the image carefully, are there any visible markings or patterns on the frame?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image, what is the overall light distribution pattern of the light source?",
+        "answer": "Diffuse"
+      }
+    ]
+  }
+]

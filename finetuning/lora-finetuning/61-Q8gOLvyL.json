@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5c/5cc45769.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what is the dominant textual element displayed on the product?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Regarding the typography, what is the font style predominantly used to list the various components?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the primary color used for the text detailing the product's composition?",
+        "answer": "Black"
+      },
+      {
+        "question": "Observing the text's arrangement, what organizational structure is employed to present the ingredients?",
+        "answer": "List"
+      },
+      {
+        "question": "In terms of visual hierarchy, what is the size of the font used for the title 'Ingredients'?",
+        "answer": "Large"
+      },
+      {
+        "question": "Focusing on the content, what specific food item is identified first in the ingredient list?",
+        "answer": "Pork"
+      },
+      {
+        "question": "Based on the text's visual layout, what is the style of the text's presentation?",
+        "answer": "Block"
+      },
+      {
+        "question": "What is the formatting of the ingredients list, specifically examining line breaks and spacing?",
+        "answer": "Compact"
+      },
+      {
+        "question": "Considering the information conveyed, what is the label specifically listing?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Examining the text's visual characteristics, what is the case of the letters used in the ingredient list?",
+        "answer": "Title"
+      },
+      {
+        "question": "Considering the image's structure, what is the orientation of the text?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the visual appearance of the lines separating the different ingredient sections?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the overall visual tone or feeling conveyed by the text's design?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Considering the textual information, what is one of the listed allergens?",
+        "answer": "Milk"
+      },
+      {
+        "question": "Disregarding the size, what is the overall shape of the text block?",
+        "answer": "Rectangular"
+      }
+    ]
+  }
+]

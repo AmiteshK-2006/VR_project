@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4b/4b26f0f0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the visual design, what single letter grade represents the product's energy efficiency rating, as prominently displayed?",
+        "answer": "A+"
+      },
+      {
+        "question": "What is the color of the rectangular area denoting the highest energy efficiency level on the scale?",
+        "answer": "Green"
+      },
+      {
+        "question": "Observing the color-coded energy efficiency scale, what color is assigned to the 'E' energy efficiency rating?",
+        "answer": "Red"
+      },
+      {
+        "question": "What is the shape of each individual colored rectangular element in the visual energy efficiency scale?",
+        "answer": "Arrow"
+      },
+      {
+        "question": "What is the overall shape of the displayed energy efficiency rating label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visual presentation, what is the color of the background surrounding the energy efficiency rating information?",
+        "answer": "Cyan"
+      },
+      {
+        "question": "Examining the top part of the label, what language(s) are visually apparent besides English?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "What text is shown prominently at the top of the energy label, indicating a European standard?",
+        "answer": "Energ"
+      },
+      {
+        "question": "Reading the text visually, what brand is associated with the product's energy efficiency label?",
+        "answer": "AmazonBasics"
+      },
+      {
+        "question": "What numerical value, representing the energy consumption, is provided in kilowatt-hours per 1000 hours?",
+        "answer": "20"
+      },
+      {
+        "question": "What is the format of the numerical value given for the energy consumption of the product?",
+        "answer": "Numeric"
+      },
+      {
+        "question": "What is the color of the text indicating the brand name of the energy efficient product shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Looking at the label, what is the overall visual texture of the label's background?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Regarding the color of the letter indicating the product's energy rating, what is its shade?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the visual elements of the label, what is the overall style of the displayed information?",
+        "answer": "Informative"
+      }
+    ]
+  }
+]

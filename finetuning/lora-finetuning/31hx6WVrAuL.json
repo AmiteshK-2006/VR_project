@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/06/06423ff5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's overall presentation, what is the predominant color of the text describing the ingredients?",
+        "answer": "Black"
+      },
+      {
+        "question": "What single word best describes the style of the lettering used to present the ingredient information?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the visual characteristics, what is the type of text displayed, indicating the product's contents?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "If you were to characterize the text's visual density, what single descriptor would apply to it?",
+        "answer": "Sparse"
+      },
+      {
+        "question": "In terms of its structure, what type of statement is presented concerning the food product's composition?",
+        "answer": "List"
+      },
+      {
+        "question": "What is the single word denoting the key agricultural component listed among the product ingredients?",
+        "answer": "Kale"
+      },
+      {
+        "question": "Considering the wording shown, what qualifying adjective precedes the primary ingredient mentioned?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What punctuation mark appears at the end of the ingredient declaration?",
+        "answer": "Period"
+      },
+      {
+        "question": "What visual element is used to separate the label's introductory word from the description?",
+        "answer": "Colon"
+      },
+      {
+        "question": "Judging by the style, what is the overall presentation format of the visible ingredient information?",
+        "answer": "Label"
+      },
+      {
+        "question": "What single word best captures the overall texture of the visual representation of the written information?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describing the text's visual weight and prominence, what single word would accurately characterize it?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Considering the image as a whole, what single word characterizes the overall background tone?",
+        "answer": "Light"
+      },
+      {
+        "question": "What single word describes the case of the letters used in the displayed text?",
+        "answer": "Upper"
+      },
+      {
+        "question": "Considering the formatting of the text, what single word best describes its alignment?",
+        "answer": "Left"
+      }
+    ]
+  }
+]

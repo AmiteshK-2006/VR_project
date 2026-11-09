@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/33/338c55b6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary text displayed on the label, concerning the product's composition?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Considering the listed ingredients, what substance is prominently mentioned as a primary component?",
+        "answer": "Gelatin"
+      },
+      {
+        "question": "What additional substance, commonly used as a humectant, is included in the product's formulation?",
+        "answer": "Glycerin"
+      },
+      {
+        "question": "What fundamental liquid is identified as an ingredient in the item's makeup?",
+        "answer": "Water"
+      },
+      {
+        "question": "Based on the declaration, what specific legume is indicated as a potential allergen?",
+        "answer": "Soy"
+      },
+      {
+        "question": "Does the label state if the product's manufacturing involves potential cross-contamination with tree nuts?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What dairy product is identified as potentially present due to shared processing facilities?",
+        "answer": "Milk"
+      },
+      {
+        "question": "According to the warning, what poultry product might lead to cross-contamination risks?",
+        "answer": "Eggs"
+      },
+      {
+        "question": "Does the warning include seafood as a potential cross-contaminant from the production site?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What type of aquatic life is mentioned as a potential cross-contaminant in production?",
+        "answer": "Fish"
+      },
+      {
+        "question": "What grain is listed as potentially present due to cross-contamination during processing?",
+        "answer": "Wheat"
+      },
+      {
+        "question": "What is the overall style of the text labeling on the product image?",
+        "answer": "Block"
+      },
+      {
+        "question": "What color is the text used predominantly on the product label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the general background color of the product label or packaging?",
+        "answer": "White"
+      },
+      {
+        "question": "What type of font is used for the text on the label?",
+        "answer": "Sans-serif"
+      }
+    ]
+  }
+]

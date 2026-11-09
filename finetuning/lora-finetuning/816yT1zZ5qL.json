@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c1/c1d2cc96.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the presented nutritional information panel, as clearly depicted in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the provided image, what is the predominant color scheme used for the text and background of the nutrition facts panel?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Based on visual inspection of the image, what is the primary font style used for the 'Nutrition Facts' header?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Focusing solely on the image, what appears to be the material of the surface upon which the nutrition facts are printed?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "From a visual standpoint, what is the primary method of information organization within the nutrition facts panel?",
+        "answer": "tabular"
+      },
+      {
+        "question": "What is the main visual element used to highlight the 'Calories' value within the panel, as seen in the image?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Judging from the image alone, what is the overall text alignment employed throughout the nutrition facts panel?",
+        "answer": "Left"
+      },
+      {
+        "question": "As evident in the image, what is the visual style of the percentage daily values indicated next to each nutrient?",
+        "answer": "Right-aligned"
+      },
+      {
+        "question": "What specific visual indicator is used to differentiate the 'Total Fat' section from other sections, if any?",
+        "answer": "None"
+      },
+      {
+        "question": "According to the image, what is the visual representation of the unit measurements for nutrients, such as grams or milligrams?",
+        "answer": "lowercase"
+      },
+      {
+        "question": "In the image, what visual feature is used to separate different categories of nutrients within the nutrition facts?",
+        "answer": "Lines"
+      },
+      {
+        "question": "Visually assessing the provided image, how is the 'Serving Size' information presented in terms of visual prominence?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What kind of visual formatting (e.g., bold, italics) is used for the serving size information shown in the image?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What visual style is used for the numerical values representing nutrient amounts, as visible in the image?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the visual style (e.g., uppercase, lowercase, sentence case) used for the nutrient names within the panel, as depicted in the image?",
+        "answer": "Sentence"
+      }
+    ]
+  }
+]

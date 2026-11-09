@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0b/0b112fd4.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the visible food inside the container?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the predominant material used for the product's container?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What type of sauce is explicitly mentioned on the label?",
+        "answer": "Ranch"
+      },
+      {
+        "question": "What is the primary protein component of this food item, as indicated on the label?",
+        "answer": "Chicken"
+      },
+      {
+        "question": "Describe the shape of the transparent food container.",
+        "answer": "Round"
+      },
+      {
+        "question": "What is the color of the text on the label primarily?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What brand is prominently displayed on the product's label?",
+        "answer": "Amazon"
+      },
+      {
+        "question": "What is the overall texture of the visible chicken pieces?",
+        "answer": "Chunky"
+      },
+      {
+        "question": "What is the style of the label's design, relative to its minimalism?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the visible color of the label's background area?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the shape of the container's overall structure?",
+        "answer": "Cup"
+      },
+      {
+        "question": "Does the label display a weight for the product; if yes, what is the unit?",
+        "answer": "Ounces"
+      },
+      {
+        "question": "What is the general appearance of the visible green elements in the food?",
+        "answer": "Herbs"
+      },
+      {
+        "question": "Considering the container's design, is it primarily transparent or opaque?",
+        "answer": "Transparent"
+      },
+      {
+        "question": "What is the preparation method mentioned for the chicken on the label?",
+        "answer": "Grilled"
+      }
+    ]
+  }
+]

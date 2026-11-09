@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f2/f20f8e71.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the device shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "What primary material appears to constitute the external casing of this item?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the overall form factor, what is the most accurate geometric description of this object?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Focusing on the visible ports, what type of connector is located on the upper portion of the device?",
+        "answer": "USB-A"
+      },
+      {
+        "question": "Observing the lower connector, which USB standard is depicted by its form factor?",
+        "answer": "USB-C"
+      },
+      {
+        "question": "What is the apparent finish of the device's surface, indicating its textural properties?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Based on its size and features, what is the likely function of the object shown?",
+        "answer": "Adapter"
+      },
+      {
+        "question": "Disregarding the ports, what is the general shape of the device's body?",
+        "answer": "Oblong"
+      },
+      {
+        "question": "Inspecting the image closely, does the product exhibit any visible logos or branding?",
+        "answer": "No"
+      },
+      {
+        "question": "Are there any noticeable seams, molding lines, or structural features apparent on the outer casing?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the device seem to be composed of a single piece or multiple assembled components?",
+        "answer": "Single"
+      },
+      {
+        "question": "What is the apparent texture of the plastic used in the device's construction?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering its dimensions, is it a relatively large or small device?",
+        "answer": "Small"
+      },
+      {
+        "question": "Excluding ports, are there any other notable external design elements on the casing?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering its ports, what is the main purpose of the presented device?",
+        "answer": "Conversion"
+      }
+    ]
+  }
+]

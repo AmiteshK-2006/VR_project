@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/00/00fb1221.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form and dimensions, what is the dominant shape of the product packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What primary color is used for the background of the product's packaging?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the visual texture, what is the apparent material of the outer packaging?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Observing the textual details, what type of information is predominantly displayed?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the overall color scheme of the printed textual information on the packaging?",
+        "answer": "Black"
+      },
+      {
+        "question": "Judging by the design elements, is this packaging primarily for informational purposes?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the most prominent feature of the package design regarding informational structure?",
+        "answer": "Blocks"
+      },
+      {
+        "question": "Do the printing elements appear to be sharp and defined, or blurred and indistinct?",
+        "answer": "Sharp"
+      },
+      {
+        "question": "Considering the packaging's construction, is it sealed or open at the top?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "What kind of barcode system is visible on the package for identification purposes?",
+        "answer": "UPC"
+      },
+      {
+        "question": "Examining the textual details, is there an expiration date or manufacturing date mentioned?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is there any noticeable embossing or debossing on the surface of the package?",
+        "answer": "No"
+      },
+      {
+        "question": "Are there any images or icons aside from the textual content and barcode?",
+        "answer": "No"
+      },
+      {
+        "question": "Is there evidence of any perforations or tear lines on the package?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the packaging display any prominent logos or brand names?",
+        "answer": "No"
+      }
+    ]
+  }
+]

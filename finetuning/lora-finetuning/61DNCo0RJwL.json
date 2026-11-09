@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/95/95e3bb47.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout and organization, what is the primary function of this product label?",
+        "answer": "Informative"
+      },
+      {
+        "question": "What is the dominant color scheme used throughout this nutrition facts panel?",
+        "answer": "Black"
+      },
+      {
+        "question": "What specific measurement unit is consistently used for the quantities listed for each nutrient?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the shape of the bounding box encompassing the entire nutrition facts table?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the typeface used for the main heading 'Nutrition Facts'.",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the style of the text used for the individual nutrient values (e.g., '100 Calories')?",
+        "answer": "Large"
+      },
+      {
+        "question": "Describe the style of the lines used to separate the nutrient categories (e.g., separating 'Total Fat' from 'Sat. Fat')?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What is the relative size of the 'Calories' value compared to other nutrient values?",
+        "answer": "Larger"
+      },
+      {
+        "question": "What is the background color of the text within the nutrition facts panel?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the text alone, what is the indicated serving size for this product?",
+        "answer": "One"
+      },
+      {
+        "question": "Is there visual emphasis (e.g., bolding, larger font) on specific nutrient values?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the visual layout, how are the individual nutrient entries presented?",
+        "answer": "Listed"
+      },
+      {
+        "question": "What is the textual style used for the nutritional values expressed as percentages?",
+        "answer": "Parenthetical"
+      },
+      {
+        "question": "What kind of information is predominantly presented in this product image?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the overall visual impression of the information presented (e.g., cluttered, organized)?",
+        "answer": "Organized"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ae/ae213ae5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the picture frame's visible exterior?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What material appears to constitute the frame's visible structure?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Judging by the image, what is the overall shape of the frame?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What seems to be the material of the backing board, visible at the base?",
+        "answer": "MDF"
+      },
+      {
+        "question": "Based on the layered image, what is positioned beneath the glass?",
+        "answer": "Photo"
+      },
+      {
+        "question": "What material is used to protect the displayed photograph?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Considering the image's components, what is the frame's apparent function?",
+        "answer": "Display"
+      },
+      {
+        "question": "What is the apparent finish or texture of the frame's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the frame exhibit visible decorative elements or patterns?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the frame's structure, what is its apparent style?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Based on the visible components, what is the frame's construction type?",
+        "answer": "Layered"
+      },
+      {
+        "question": "What type of image is displayed within the frame's visible area?",
+        "answer": "Portrait"
+      },
+      {
+        "question": "From the image, what is the approximate aspect ratio of the frame?",
+        "answer": "Landscape"
+      },
+      {
+        "question": "What is the visible depth of the frame's profile?",
+        "answer": "Shallow"
+      },
+      {
+        "question": "Are there any visible fasteners or mounting hardware on the frame?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c9/c9f2324a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what dominant color characterizes the product packaging?",
+        "answer": "Purple"
+      },
+      {
+        "question": "Examining the text on the packaging, what metric is specified in grams for product weight?",
+        "answer": "100g"
+      },
+      {
+        "question": "Based on the image, what appears to be the primary material of the product's packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Judging by the visible text, what language(s) appear to be used on the package for labeling?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "Looking closely at the label's design, what type of information does the majority of the text provide?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "From a visual perspective, what is the general shape of the product's container?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the label's design, what is the predominant text orientation on the package?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Based on the image, what type of graphic design elements are prominently displayed?",
+        "answer": "Text"
+      },
+      {
+        "question": "Observing the package, does the product packaging show any form of certification or logo?",
+        "answer": "Yes"
+      },
+      {
+        "question": "From the image, what seems to be the print quality of the text and graphics on the package?",
+        "answer": "High"
+      },
+      {
+        "question": "Analyzing the provided image, what kind of barcode is visible on the packaging?",
+        "answer": "EAN"
+      },
+      {
+        "question": "Is the product packaging matte or glossy?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the overall visual impression of the packaging's design?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Observing the text, what is the dominant font style?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Looking at the image, is there any visible texture or surface finish on the package?",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

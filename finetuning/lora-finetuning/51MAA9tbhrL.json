@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f6/f6e47233.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the food items contained within the transparent packaging, as visually apparent?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the overall form, what best describes the shape of the product's packaging?",
+        "answer": "Bag"
+      },
+      {
+        "question": "What appears to be the primary material of the packaging that encloses the product?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on visual texture, how would you describe the appearance of the food items inside the package?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What is the apparent overall form factor of the individual food pieces visible within the packaging?",
+        "answer": "Irregular"
+      },
+      {
+        "question": "Judging from the image, what is the apparent physical state of the contents\u2014solid, liquid, or gas?",
+        "answer": "Solid"
+      },
+      {
+        "question": "From the visible portion, what seems to be the approximate size range of the individual food pieces?",
+        "answer": "Small"
+      },
+      {
+        "question": "What color is the label affixed to the side of the product's packaging?",
+        "answer": "Purple"
+      },
+      {
+        "question": "Based solely on visual inspection, what appears to be the texture of the food inside the bag?",
+        "answer": "Dry"
+      },
+      {
+        "question": "Considering the arrangement of the contents, what is the apparent density of the food items within the bag?",
+        "answer": "High"
+      },
+      {
+        "question": "Describe the visual transparency level of the packaging material used for this product.",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the apparent condition of the contents\u2014fresh, dried, or processed?",
+        "answer": "Dried"
+      },
+      {
+        "question": "Does the image reveal any discernible markings or patterns on the food items themselves?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the perceived uniformity of the size and shape of the contents inside the package?",
+        "answer": "Low"
+      },
+      {
+        "question": "Considering the bag's closure, does it appear to be resealable or non-resealable?",
+        "answer": "Non-resealable"
+      }
+    ]
+  }
+]

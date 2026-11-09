@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/72/72aa5b4b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the bread's crust, as shown in the provided image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the visible texture, what is the apparent bread type?",
+        "answer": "Multigrain"
+      },
+      {
+        "question": "Based on the image, what kind of packaging is the bread presented in?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Observing the loaf's shape, what geometrical form best describes it?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging by the visible ingredients, what type of seeds are predominantly visible on the bread's surface?",
+        "answer": "Seeds"
+      },
+      {
+        "question": "What is the apparent primary visible ingredient embedded within the bread's structure?",
+        "answer": "Grains"
+      },
+      {
+        "question": "Describe the overall visual texture of the bread's exterior surface as shown in the picture.",
+        "answer": "Rough"
+      },
+      {
+        "question": "Based on the image, does the bread appear to be sliced or unsliced?",
+        "answer": "Unsliced"
+      },
+      {
+        "question": "From the provided image, what is the visible color of the nutrition facts label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the material of the visible label containing nutritional information on the bread's packaging?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What appears to be the primary method of sealing/closing the bread's packaging?",
+        "answer": "Twist-tie"
+      },
+      {
+        "question": "What is the visible color of the twist-tie securing the bread's packaging?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Judging from the image, is the bread's packaging transparent or opaque?",
+        "answer": "Transparent"
+      },
+      {
+        "question": "Describe the overall visual appearance of the bread's surface, considering its texture and color.",
+        "answer": "Speckled"
+      },
+      {
+        "question": "What is the general visual condition of the bread's packaging, judging from the image provided?",
+        "answer": "Sealed"
+      }
+    ]
+  }
+]

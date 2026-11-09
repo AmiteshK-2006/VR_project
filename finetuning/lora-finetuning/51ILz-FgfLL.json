@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/31/316ea1d3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall presentation, what is the primary color of the text displayed on the product?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the dominant text style used throughout the label based on visual observation?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Observing the text arrangement, what is the general orientation of the label's text?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Judging from the visual clarity, what can be described as the text's overall appearance concerning its legibility?",
+        "answer": "Clear"
+      },
+      {
+        "question": "Based on visual analysis, what is the background color of the surface where the text is printed?",
+        "answer": "White"
+      },
+      {
+        "question": "Analyzing the text's arrangement, how would you characterize the spacing between individual words?",
+        "answer": "Even"
+      },
+      {
+        "question": "Considering the image resolution, what level of detail is visible in the product's textual content?",
+        "answer": "High"
+      },
+      {
+        "question": "Considering the typeface, what can be described as the text's overall weight or thickness?",
+        "answer": "Medium"
+      },
+      {
+        "question": "From visual observation, does the label exhibit any noticeable patterns or decorative elements beyond the text?",
+        "answer": "No"
+      },
+      {
+        "question": "What can be visually described as the physical form factor of the product presented in the image?",
+        "answer": "Label"
+      },
+      {
+        "question": "Based on the visual appearance, what is the estimated size of the textual content on the product?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the apparent state of the text, in terms of whether it seems damaged, faded or otherwise impaired?",
+        "answer": "Intact"
+      },
+      {
+        "question": "Considering the visual texture, how would you describe the surface's texture of the product displaying the text?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging from the image provided, what is the apparent overall condition of the product's labeling?",
+        "answer": "New"
+      },
+      {
+        "question": "Based on a visual assessment, is the text printed using a single or multiple font styles?",
+        "answer": "Single"
+      }
+    ]
+  }
+]

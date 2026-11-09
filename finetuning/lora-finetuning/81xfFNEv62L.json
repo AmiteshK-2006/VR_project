@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ca/ca8288ed.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the mirror's frame?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the overall shape of the mirror including its frame?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the texture of the mirror's frame, based on visual appearance?",
+        "answer": "Textured"
+      },
+      {
+        "question": "What material appears to constitute the mirror's frame?",
+        "answer": "Wood"
+      },
+      {
+        "question": "Is the reflective surface of the mirror clearly visible and undistorted?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the frame's design exhibit any discernible patterns or motifs?",
+        "answer": "Swirled"
+      },
+      {
+        "question": "Considering the frame's finish, would you characterize it as matte or glossy?",
+        "answer": "Matte"
+      },
+      {
+        "question": "How many visible pieces comprise the frame of this mirror?",
+        "answer": "One"
+      },
+      {
+        "question": "What is the approximate width-to-height ratio of the mirror's frame?",
+        "answer": "Similar"
+      },
+      {
+        "question": "Does the frame appear to have a uniform or variable thickness throughout?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Judging from the image, how would you describe the style of the mirror?",
+        "answer": "Modern"
+      },
+      {
+        "question": "Considering the visual details, is the mirror frame ornate or simple?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Is there any visible evidence of embellishments or decorative elements on the frame?",
+        "answer": "No"
+      },
+      {
+        "question": "What kind of reflective surface does the mirror seem to possess?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Based on the image, is the mirror designed for hanging or tabletop use?",
+        "answer": "Hanging"
+      }
+    ]
+  }
+]

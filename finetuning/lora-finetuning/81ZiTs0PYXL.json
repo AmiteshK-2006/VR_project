@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a3/a36ba601.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the text displayed on the product label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the product's label as depicted in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the text's arrangement, what is the primary orientation of the listed ingredients?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Based on the image, what appears to be the background color of the product label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the font style predominantly used for the ingredient list?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Does the label's text include any section headers, such as 'Ingredients'?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging by the visual details, is the text size uniform across the entire label?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the case of the lettering used throughout the ingredient list?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Does the label include a statement indicating potential allergens or dietary concerns?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the visual texture of the label's surface judging from its appearance?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From the picture, what is the approximate length of the text block describing ingredients?",
+        "answer": "Long"
+      },
+      {
+        "question": "In the image, are any logos or brand markings clearly visible on the label?",
+        "answer": "No"
+      },
+      {
+        "question": "What kind of visual formatting is used to separate the list of ingredients into lines?",
+        "answer": "Spacing"
+      },
+      {
+        "question": "Is the text on the label presented in a single column or multiple columns?",
+        "answer": "Single"
+      },
+      {
+        "question": "Based on the image, does the label provide any nutritional information or serving size?",
+        "answer": "No"
+      }
+    ]
+  }
+]

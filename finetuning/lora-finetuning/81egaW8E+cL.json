@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/32/3241a3c0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color of the product depicted in the image, which appears to be a foodstuff in sealed packaging?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "Based on the image, what seems to be the primary material of the packaging used for the product shown, which is a bag containing a foodstuff?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Observing the image closely, what is the shape of the primary container holding the product, which appears to be a food item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "From a purely visual perspective, what is the apparent texture of the product inside the packaging, as seen in the image?",
+        "answer": "Grainy"
+      },
+      {
+        "question": "Judging from the image, what seems to be the state of the product shown; is it solid, liquid, or gaseous?",
+        "answer": "Solid"
+      },
+      {
+        "question": "What is the apparent overall visual form of the product illustrated in the image, as in, what is its general form?",
+        "answer": "Granular"
+      },
+      {
+        "question": "Based on the provided image, what appears to be the primary method of packaging used for the product; is it a bag, a box, a jar etc?",
+        "answer": "Bag"
+      },
+      {
+        "question": "Considering what is visibly apparent in the image, is the product sealed or unsealed?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Observing the image, what seems to be the type of label displayed on the product's packaging?",
+        "answer": "Text"
+      },
+      {
+        "question": "Judging by the image, what is the apparent condition of the packaging; is it damaged, clean, or otherwise?",
+        "answer": "Clean"
+      },
+      {
+        "question": "From a purely visual standpoint, what descriptive term would best describe the overall appearance of the product in the image; is it messy, or organized?",
+        "answer": "Organized"
+      },
+      {
+        "question": "Based on what is visually evident in the image, what is the approximate number of units of the product being showcased?",
+        "answer": "Three"
+      },
+      {
+        "question": "Judging from the image, what term best describes the level of filling of the product in its container; is it full, half full, etc.?",
+        "answer": "Full"
+      },
+      {
+        "question": "Based on the image, what is the apparent size of the text on the label; is it large or small?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Considering the image, does the product's packaging include any visual markings, besides text; are there images, etc.?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

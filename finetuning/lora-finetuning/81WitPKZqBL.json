@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f3/f37c9e1d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall appearance, what is the dominant shape of the food item depicted?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the visible textual information, what is the primary ingredient listed?",
+        "answer": "Baguette"
+      },
+      {
+        "question": "Observing the textual details, what is the total number of calories per serving?",
+        "answer": "550"
+      },
+      {
+        "question": "From the provided text, what is the approximate weight of a single serving in grams?",
+        "answer": "254"
+      },
+      {
+        "question": "Analyzing the text, what is the predominant protein source in this food item?",
+        "answer": "Chicken"
+      },
+      {
+        "question": "According to the label, what is one of the vegetables included in the ingredients?",
+        "answer": "Carrots"
+      },
+      {
+        "question": "What is the flavor profile indicated by the presence of cilantro and jalapeno?",
+        "answer": "Spicy"
+      },
+      {
+        "question": "What ingredient is used as an emulsifier in the mayonnaise based on the text?",
+        "answer": "Egg"
+      },
+      {
+        "question": "Judging from the ingredients list, what type of oil is included in the recipe?",
+        "answer": "Canola"
+      },
+      {
+        "question": "What type of bread is mentioned specifically in the ingredient list?",
+        "answer": "Baguette"
+      },
+      {
+        "question": "What spice is listed as an ingredient, typically used to add a distinctive flavour?",
+        "answer": "Cilantro"
+      },
+      {
+        "question": "Based solely on the visual information provided, what is the primary color of the text on the label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the background color of the nutrition facts panel shown in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the visual and textual data, what is a significant ingredient beyond the main bread?",
+        "answer": "Chicken"
+      },
+      {
+        "question": "What is one herb clearly identified in the detailed ingredient list?",
+        "answer": "Cilantro"
+      }
+    ]
+  }
+]

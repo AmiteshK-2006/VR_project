@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/60/60058d3a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the prominent design element on the product?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "What appears to be the primary material used in the construction of this item?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering the overall form, what is the most descriptive geometrical shape of this object?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What specific texture is predominantly visible on the surface of this product?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging from the image, what seems to be the general size classification of this object?",
+        "answer": "Small"
+      },
+      {
+        "question": "Based on visual features, what is the likely function or purpose of this product?",
+        "answer": "Storage"
+      },
+      {
+        "question": "Does the product exhibit any visible markings, such as text or logos?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the most noticeable color of the main body of the product?",
+        "answer": "White"
+      },
+      {
+        "question": "Does the product display a glossy or matte finish?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "What is the most apparent design element other than its basic shape?",
+        "answer": "Lid"
+      },
+      {
+        "question": "What material appears to be used for the lid of this item?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the overall transparency or opacity of this product.",
+        "answer": "Opaque"
+      },
+      {
+        "question": "How many primary compartments or sections are visually apparent in this item?",
+        "answer": "One"
+      },
+      {
+        "question": "Based on the image alone, does this product seem durable or fragile?",
+        "answer": "Durable"
+      },
+      {
+        "question": "Is there any visible evidence of assembly or multiple parts?",
+        "answer": "No"
+      }
+    ]
+  }
+]

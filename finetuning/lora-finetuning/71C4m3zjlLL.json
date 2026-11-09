@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/48/48f9ea38.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the plastic cup shown in the image?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the overall form, what is the geometrical shape of this drinking vessel?",
+        "answer": "Conical"
+      },
+      {
+        "question": "Based on its appearance, what is the most likely material used to manufacture this cup?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Examining the base, what color is the visible rim or band around the bottom?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe the surface texture of the cup's exterior, considering its apparent smoothness or roughness?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Focusing on the top, is there a noticeable lip or edge around the opening of the cup?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the cup display any visible patterns, designs, or markings on its surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image, how would you describe the overall finish or sheen of the cup?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Considering the cup's size, would you classify it as large, medium, or small?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the apparent capacity of the cup based on visual observation of its dimensions?",
+        "answer": "16oz"
+      },
+      {
+        "question": "Considering its design, is the cup intended for single-use or repeated use applications?",
+        "answer": "Single"
+      },
+      {
+        "question": "Judging from its appearance, is this cup disposable or reusable, given its construction?",
+        "answer": "Disposable"
+      },
+      {
+        "question": "Observing the cup's construction, does it have a handle or other ergonomic features?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the image suggest any specific brand markings or logos on the cup itself?",
+        "answer": "No"
+      },
+      {
+        "question": "From the image, can you determine if the cup is transparent or opaque in nature?",
+        "answer": "Opaque"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/31/310e1033.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary textual element dominating the visual field of the provided image, detailing essential nutritional components per serving?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Considering the prominent textual block, what key dietary information is prominently displayed, indicating the energy content of a single serving?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Focusing on the nutritional breakdown, what specific macronutrient's quantity is clearly stated in grams, alongside its percentage daily value?",
+        "answer": "Fat"
+      },
+      {
+        "question": "Observing the detailed nutritional facts, what essential mineral's content is specified in milligrams, along with its daily value percentage?",
+        "answer": "Sodium"
+      },
+      {
+        "question": "Based on the provided image, what vital macronutrient's amount, measured in grams, is explicitly listed, with its corresponding daily value percentage?",
+        "answer": "Protein"
+      },
+      {
+        "question": "According to the image, what specific dietary component's value is represented as less than one gram, implying a minimal contribution to the total daily intake?",
+        "answer": "Sugars"
+      },
+      {
+        "question": "Examining the detailed nutritional data, what specific vitamin's percentage daily value is conspicuously displayed as zero percent?",
+        "answer": "Vitamin"
+      },
+      {
+        "question": "Based solely on the provided visual information, what essential mineral's quantity is listed in milligrams, including its corresponding percentage daily value?",
+        "answer": "Calcium"
+      },
+      {
+        "question": "From the given image, what dietary fiber's measured quantity, represented in grams, shows minimal contribution to the daily required amount?",
+        "answer": "Fiber"
+      },
+      {
+        "question": "What is the specified serving size, indicated in both grams and approximate tablespoons, as clearly visible in the image?",
+        "answer": "Ounces"
+      },
+      {
+        "question": "What is the total number of servings contained within the product's packaging, as indicated within the nutrition facts section?",
+        "answer": "Six"
+      },
+      {
+        "question": "What is the total number of grams per serving indicated on the label, directly relating to the serving size information?",
+        "answer": "Twenty-eight"
+      },
+      {
+        "question": "What is the overall color scheme of the provided textual information within the image; primarily white or black?",
+        "answer": "Black"
+      },
+      {
+        "question": "In the provided image, what is the overall shape of the nutritional facts label, rectangular or otherwise?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the visible text in the image, what is the general typeface or font style of the nutrition facts information?",
+        "answer": "Sans-serif"
+      }
+    ]
+  }
+]

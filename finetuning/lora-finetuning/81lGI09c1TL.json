@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/01/01142161.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall packaging, what is the dominant color visually presented on the product?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Based on the text prominently displayed, what is the primary ingredient listed?",
+        "answer": "Chicken"
+      },
+      {
+        "question": "What additional flavor component is explicitly mentioned alongside chicken, indicated by the text on the packaging?",
+        "answer": "Blueberry"
+      },
+      {
+        "question": "What type of food item is this product, as suggested by the packaging description?",
+        "answer": "Sausage"
+      },
+      {
+        "question": "Referring to the textual information, what is the product's intended use, as denoted by a descriptive phrase?",
+        "answer": "Breakfast"
+      },
+      {
+        "question": "Observing the lower section of the packaging, which brand's logo is displayed?",
+        "answer": "365"
+      },
+      {
+        "question": "What is the overall shape of the food package, based on the image provided?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging from the visual details, what appears to be the texture of the packaging material?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the image, what seems to be the material that the product's outer packaging is made from?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Focusing on the brand logo, what colors make up the small rectangular blocks within it?",
+        "answer": "Multicolored"
+      },
+      {
+        "question": "Looking at the typography used, what is the overall style of the text labeling, describing the product's contents and brand?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the general orientation of the text displayed on the packaging?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Describe the appearance of the text font, specifically its weight or thickness.",
+        "answer": "Bold"
+      },
+      {
+        "question": "Describe the visual layout of the text elements on the packaging; are they organized in a specific pattern?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Is the visual design of the packaging predominantly simple or complex?",
+        "answer": "Simple"
+      }
+    ]
+  }
+]

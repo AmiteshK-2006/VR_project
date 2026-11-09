@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a2/a2200861.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary ingredient visibly listed on the product packaging, based on its prominent placement and font size?",
+        "answer": "Water"
+      },
+      {
+        "question": "Considering the ingredient list's prominence, which secondary ingredient is clearly denoted after 'Water'?",
+        "answer": "Cabbage"
+      },
+      {
+        "question": "Based on the ingredient list's clarity, what type of pepper is specifically mentioned as an ingredient?",
+        "answer": "Banana"
+      },
+      {
+        "question": "What type of vinegar, identifiable from the ingredient list, is used in this product?",
+        "answer": "White"
+      },
+      {
+        "question": "According to the ingredient list, what mineral compound is explicitly included among the listed ingredients?",
+        "answer": "Calcium"
+      },
+      {
+        "question": "From the ingredient list, what chemical compound derived from peppers is noted as an ingredient?",
+        "answer": "Capsicum"
+      },
+      {
+        "question": "What is the word that is directly adjacent to the word 'organic' in the label?",
+        "answer": "Distilled"
+      },
+      {
+        "question": "What compound is described as 'chloride' in the ingredient list?",
+        "answer": "Calcium"
+      },
+      {
+        "question": "What is the one-word description of the form of vinegar included in the item?",
+        "answer": "White"
+      },
+      {
+        "question": "What single word describes the type of pepper used, as listed in the product ingredients?",
+        "answer": "Banana"
+      },
+      {
+        "question": "What is the status of the vinegar that is listed as an ingredient?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the additional word describing the vinegar used in this product?",
+        "answer": "Distilled"
+      },
+      {
+        "question": "What is the additive that is listed just before the Capsicum Extract?",
+        "answer": "Salt"
+      },
+      {
+        "question": "What is the chemical compound mentioned in the ingredient list, following the word 'Calcium'?",
+        "answer": "Chloride"
+      },
+      {
+        "question": "Excluding water, cabbage, and peppers, what is the first ingredient listed?",
+        "answer": "Vinegar"
+      }
+    ]
+  }
+]

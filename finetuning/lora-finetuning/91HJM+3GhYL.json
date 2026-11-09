@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0e/0e51f5e2.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color observed across the entire fabric swatch?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visible texture, what is the apparent weave type of this fabric?",
+        "answer": "Knit"
+      },
+      {
+        "question": "Based on visual inspection, what is the overall surface texture of the material shown?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging from the image, what is the most apparent material composition of the displayed textile?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "From a visual standpoint, how would you describe the overall sheen or luster of the fabric?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the fabric show any visible patterns or distinct design elements?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the implied thickness or weight of the fabric depicted in the provided sample?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Considering the visual characteristics, what is the likely drape of this fabric?",
+        "answer": "Soft"
+      },
+      {
+        "question": "If you were to touch this fabric, what would be the likely tactile sensation?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Does the fabric sample show any visible imperfections or irregularities?",
+        "answer": "No"
+      },
+      {
+        "question": "Is there any noticeable pile or raised surface on the presented fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the image, what is the approximate density of the fabric weave?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the dominant visual directionality of the texture shown?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Is the fabric displayed exhibiting any noticeable degree of transparency?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Based purely on visuals, what type of finish does the fabric seem to possess?",
+        "answer": "Plain"
+      }
+    ]
+  }
+]

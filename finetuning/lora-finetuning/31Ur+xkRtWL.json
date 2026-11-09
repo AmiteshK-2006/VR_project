@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1e/1e096631.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the packaging's background?",
+        "answer": "Green"
+      },
+      {
+        "question": "What type of tea is indicated on the box?",
+        "answer": "Green"
+      },
+      {
+        "question": "What is the primary material of the product packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "What is the overall shape of the tea box?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the texture of the packaging, based on its visual appearance.",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What color is the text on the main label of the box?",
+        "answer": "Black"
+      },
+      {
+        "question": "What brand name is prominently displayed on the box?",
+        "answer": "SOEMO"
+      },
+      {
+        "question": "Considering the size shown, is the packaging large or small?",
+        "answer": "Small"
+      },
+      {
+        "question": "Is there a visible indication of the number of tea bags?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Describe the design style of the packaging: minimalist or ornate?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What is the general tone or aesthetic conveyed by the packaging?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Are there any noticeable illustrations or graphics besides text?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the approximate weight of the product indicated on the package?",
+        "answer": "50g"
+      },
+      {
+        "question": "Does the packaging use glossy or matte finish?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Excluding the brand name, what other information is displayed?",
+        "answer": "Ingredients"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/68/68a264d9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the text on the product packaging?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the primary font style used for the ingredient list?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the background color of the ingredient label?",
+        "answer": "White"
+      },
+      {
+        "question": "Does the text on the product packaging appear to be printed or handwritten?",
+        "answer": "Printed"
+      },
+      {
+        "question": "Considering the overall appearance, what is the presumed product type?",
+        "answer": "Food"
+      },
+      {
+        "question": "What is the case of the word 'INGREDIENTS' at the start of the list?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "What is the text style of 'CONTAINS MILK' at the end of the list?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Is there a visible product image alongside the text information?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the text, what is one of the ingredients used?",
+        "answer": "Water"
+      },
+      {
+        "question": "Judging from the ingredients list, what dairy product is present?",
+        "answer": "Milk"
+      },
+      {
+        "question": "What is the type of information provided in the primary text block?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the text alignment of the ingredients' list?",
+        "answer": "Left"
+      },
+      {
+        "question": "Based on the ingredients list, is this product vegetarian?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the case of the word 'CONTAINS' in the allergy information?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "Is the ingredient list structured as a numbered or bulleted list?",
+        "answer": "Neither"
+      }
+    ]
+  }
+]

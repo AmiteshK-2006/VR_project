@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ab/abdb6e7c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the provided image, what is the overall textual arrangement of the presented ingredients?",
+        "answer": "Linear"
+      },
+      {
+        "question": "Based on visual inspection, what is the dominant color of the text detailing the ingredients?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the apparent font style used to list the components present in the product, as shown in the image?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Judging from the image, what seems to be the background color against which the ingredient list is printed?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "Observing the image, what appears to be the size of the text font utilized for the ingredient label?",
+        "answer": "Small"
+      },
+      {
+        "question": "From the visual evidence, what is the text's alignment in relation to the horizontal axis on the label?",
+        "answer": "Left"
+      },
+      {
+        "question": "Based solely on visual analysis, does the text appear to be neatly formatted or haphazardly placed?",
+        "answer": "Neat"
+      },
+      {
+        "question": "Examining the image carefully, what is the apparent style of capitalization employed in the ingredient list?",
+        "answer": "Sentence"
+      },
+      {
+        "question": "Based on the image, what seems to be the overall tone of the text conveying the ingredients?",
+        "answer": "Informative"
+      },
+      {
+        "question": "In the image, does the text in the ingredient list demonstrate any visual distortions or blurring?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image, how many lines of text are dedicated to listing the constituents of the food item?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the visual indication of the spacing between words in the ingredient list on the product label?",
+        "answer": "Even"
+      },
+      {
+        "question": "Does the image show any additional markings besides the listed ingredients?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the textual nature of the secondary line of text in the image?",
+        "answer": "Statement"
+      },
+      {
+        "question": "Judging by the visual appearance, what is the text's density, in terms of word packing?",
+        "answer": "Compact"
+      }
+    ]
+  }
+]

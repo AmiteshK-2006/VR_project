@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b5/b599c8ad.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the product's label, as visually apparent?",
+        "answer": "Pink"
+      },
+      {
+        "question": "What is the overall shape of the container holding the product?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What appears to be the primary material of the product's bottle?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describe the texture of the label design visible on the product container?",
+        "answer": "Geometric"
+      },
+      {
+        "question": "What is the type of closure or lid visible at the top of the bottle?",
+        "answer": "Cap"
+      },
+      {
+        "question": "Considering the label, what kind of design pattern is prominently featured?",
+        "answer": "Repeating"
+      },
+      {
+        "question": "What is the general color scheme of the label design, besides pink?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the image, what seems to be the product's form?",
+        "answer": "Liquid"
+      },
+      {
+        "question": "Considering the visual presentation, what is the apparent size relative to a hand?",
+        "answer": "Small"
+      },
+      {
+        "question": "What graphic element is repeatedly used on the label to create a pattern?",
+        "answer": "Bubbles"
+      },
+      {
+        "question": "What kind of font style appears on the main label of the product?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Is there any transparency evident in the bottle itself, judging by its image?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent finish of the plastic bottle (glossy or matte)?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Describe the position of the brand name on the product label?",
+        "answer": "Center"
+      },
+      {
+        "question": "Based on the image, is the bottle completely opaque or translucent?",
+        "answer": "Translucent"
+      }
+    ]
+  }
+]

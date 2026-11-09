@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ec/ecaf4050.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color scheme of this nutritional information panel?",
+        "answer": "Black"
+      },
+      {
+        "question": "Examining the text's organization, what is the primary textual formatting style used throughout this food label?",
+        "answer": "tabular"
+      },
+      {
+        "question": "Based on the visual appearance of the text, what is the font style of the text?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Looking at the numerical data presented, what is the unit of measurement used for the 'Calories' value?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Observing the arrangement of values, what is the unit of measurement for 'Total Fat'?",
+        "answer": "g"
+      },
+      {
+        "question": "From a visual standpoint, what is the unit used to express the 'Sodium' content?",
+        "answer": "mg"
+      },
+      {
+        "question": "Considering the visual layout, what is the unit of measurement used to represent 'Total Carbohydrate'?",
+        "answer": "g"
+      },
+      {
+        "question": "Judging by its visual prominence, what is the nutritional component displayed with the largest font size?",
+        "answer": "Calories"
+      },
+      {
+        "question": "Based on the visual information provided, what is the serving size stated on the label?",
+        "answer": "5"
+      },
+      {
+        "question": "What is the type of food or unit for which nutritional information is provided?",
+        "answer": "croutons"
+      },
+      {
+        "question": "What is the approximate number of servings indicated per container?",
+        "answer": "18"
+      },
+      {
+        "question": "What is the weight in grams of the stated serving size?",
+        "answer": "7g"
+      },
+      {
+        "question": "What is the visual representation of the percentage values throughout the label?",
+        "answer": "numbers"
+      },
+      {
+        "question": "What is the visual appearance of the information panel?",
+        "answer": "rectangular"
+      },
+      {
+        "question": "What is the type of information visually displayed on this panel?",
+        "answer": "Nutritional"
+      }
+    ]
+  }
+]

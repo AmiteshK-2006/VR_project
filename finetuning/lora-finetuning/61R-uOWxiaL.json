@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a2/a2afb6a1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the dominant geometric shape of this product container?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What primary color characterizes the majority of the visible container surface?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Observing the topmost section, what is the color of the cap or lid?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the visual appearance, what seems to be the primary material of the container body?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Describe the apparent texture of the container's primary surface\u2014is it smooth, rough, or patterned?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the container exhibit any noticeable text, labels, or markings on its surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the color saturation, would you describe the blue as a light or dark shade?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Regarding the cap, does it appear to be attached directly to the container or removable?",
+        "answer": "Attached"
+      },
+      {
+        "question": "From the image, is there evidence of any noticeable seams or joints in the product's structure?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the overall design of the container suggest functionality as a dispenser or storage?",
+        "answer": "Storage"
+      },
+      {
+        "question": "Inspecting the container's base, is it uniformly colored or does it exhibit variations?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Observing the transition between the top and body, is it a smooth curve or a sharp angle?",
+        "answer": "Sharp"
+      },
+      {
+        "question": "Considering the container's shape and size, would you classify it as petite, medium, or large?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Considering its color and form, what is the most likely function of this product container?",
+        "answer": "Cosmetic"
+      },
+      {
+        "question": "Is the surface of the blue container glossy or matte in appearance?",
+        "answer": "Glossy"
+      }
+    ]
+  }
+]

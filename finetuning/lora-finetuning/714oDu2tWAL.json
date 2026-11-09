@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fe/fe81de5c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the primary purpose of this product's packaging?",
+        "answer": "Information"
+      },
+      {
+        "question": "What is the predominant color scheme used throughout the text blocks on this package?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the apparent font style employed for the prominent 'INGREDIENTS' header?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Judging by the visual layout, what is the intended method of reading this product information?",
+        "answer": "Sequential"
+      },
+      {
+        "question": "Observing the visual arrangement of text, what is the structural element used to organize individual ingredients?",
+        "answer": "List"
+      },
+      {
+        "question": "What type of text formatting is visibly used to denote specific ingredient additives or processing?",
+        "answer": "Brackets"
+      },
+      {
+        "question": "What is the formatting style used for highlighting the section indicating potential allergens?",
+        "answer": "Bold"
+      },
+      {
+        "question": "In terms of text style, how is the 'CONTAINS' section visually differentiated from the 'INGREDIENTS' section?",
+        "answer": "Alignment"
+      },
+      {
+        "question": "What is the text case used for listing the individual components in the ingredient and allergen sections?",
+        "answer": "Title"
+      },
+      {
+        "question": "Based on the visual appearance, what is the overall tone conveyed by the packaging's typography?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "What is the visible background color of the primary ingredient list and allergen statement?",
+        "answer": "White"
+      },
+      {
+        "question": "What could be inferred about the target audience from the information density on the packaging?",
+        "answer": "Adults"
+      },
+      {
+        "question": "In terms of visual clarity, what is the overall legibility of the text on this product's packaging?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the apparent size relationship between the 'INGREDIENTS' and 'CONTAINS' headers?",
+        "answer": "Equal"
+      },
+      {
+        "question": "Considering visual prominence, what is the implied hierarchical relationship between the list of ingredients and the allergen statement?",
+        "answer": "Parallel"
+      }
+    ]
+  }
+]

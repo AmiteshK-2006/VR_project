@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/c4/c4246522.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form and packaging, what is the primary shape of the product presented?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What appears to be the dominant color of the product's packaging and the paper rolls themselves?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on visual texture, what is the most likely material of the rolls shown?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Observing the packaging, what seems to be its main function or purpose?",
+        "answer": "Protection"
+      },
+      {
+        "question": "Judging by the packaging clarity, what level of product visibility is provided?",
+        "answer": "High"
+      },
+      {
+        "question": "Analyzing the printed text on the packaging, what seems to be the predominant style of the font?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Given the product's presentation, what is its likely unit of sale or packaging quantity?",
+        "answer": "Double"
+      },
+      {
+        "question": "From the image, what appears to be the method of securing or sealing the product within the packaging?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Focusing on the packaging, are there any noticeable logos or branding elements displayed?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Regarding the text displayed on the packaging, what kind of information is prominently featured?",
+        "answer": "Details"
+      },
+      {
+        "question": "Considering the presence of multiple rolls, what is their likely arrangement within the packaging?",
+        "answer": "Stacked"
+      },
+      {
+        "question": "Observing the barcodes, what is their implied function on the packaging?",
+        "answer": "Identification"
+      },
+      {
+        "question": "What type of warning or informational symbols are printed on the package?",
+        "answer": "Recycling"
+      },
+      {
+        "question": "Is the plastic packaging completely opaque or does it offer some degree of transparency?",
+        "answer": "Transparent"
+      },
+      {
+        "question": "From the image's perspective, is the product shown fully assembled or in a ready-to-use state?",
+        "answer": "Ready"
+      }
+    ]
+  }
+]

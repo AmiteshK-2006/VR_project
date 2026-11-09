@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/91/9167e2c6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the presented food item, based purely on visual observation?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the image, what is the most apparent shape of the dairy product shown?",
+        "answer": "Round"
+      },
+      {
+        "question": "From a visual perspective, what appears to be the primary texture of the displayed food item?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based solely on the visual evidence, what type of foodstuff does the image seem to depict?",
+        "answer": "Cheese"
+      },
+      {
+        "question": "Judging only by the image, what is the apparent consistency of the product, considering its form?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What is the apparent overall appearance of the product's surface, as evident in the image?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Considering the image, can you describe the visible state of the product's packaging?",
+        "answer": "Open"
+      },
+      {
+        "question": "Based only on visual examination, what material seems to be used for the visible portion of the wrapping?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the general condition of the product's surface, as observed visually?",
+        "answer": "Unblemished"
+      },
+      {
+        "question": "Observing the image alone, what is the visible form of the product, considering its shape?",
+        "answer": "Disc"
+      },
+      {
+        "question": "Judging purely from the image, what is the apparent weight of the cheese?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "Based solely on the visual presentation, what would you characterize the product's size as?",
+        "answer": "Large"
+      },
+      {
+        "question": "Considering the image alone, describe the product's visible surface gloss or shine.",
+        "answer": "Slight"
+      },
+      {
+        "question": "From only the image, how would you describe the apparent moisture content of the food?",
+        "answer": "Moist"
+      },
+      {
+        "question": "Based purely on the provided image, what can you visually determine about the product's structural integrity?",
+        "answer": "Intact"
+      }
+    ]
+  }
+]

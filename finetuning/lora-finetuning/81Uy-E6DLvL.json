@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ee/eea2ae6b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the bottle's body?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the dominant text color on the label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What specific vitamin does the product contain?",
+        "answer": "C"
+      },
+      {
+        "question": "What is the shape of the container holding the supplement?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the dosage of the vitamin in milligrams indicated on the label?",
+        "answer": "1000"
+      },
+      {
+        "question": "What is the material of the container the supplement is in?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the prominent brand name displayed on the label?",
+        "answer": "365"
+      },
+      {
+        "question": "What term describes the vitamin's concentration as stated on the label?",
+        "answer": "High"
+      },
+      {
+        "question": "What is indicated regarding the number of tablets or capsules?",
+        "answer": "250"
+      },
+      {
+        "question": "What type of product is indicated at the bottom of the label?",
+        "answer": "Supplement"
+      },
+      {
+        "question": "What color is the secondary text on the bottle’s label?",
+        "answer": "Orange"
+      },
+      {
+        "question": "What is the texture of the plastic bottle (glossy or matte)?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Describing the label design, what style is predominantly used?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What type of seal is visible on the top of the container?",
+        "answer": "Tamper"
+      },
+      {
+        "question": "What is indicated on the label about the vitamin’s function?",
+        "answer": "Support"
+      }
+    ]
+  }
+]

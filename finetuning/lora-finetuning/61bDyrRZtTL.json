@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8b/8b9a0677.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color displayed across the entire product surface?",
+        "answer": "Teal"
+      },
+      {
+        "question": "Considering the overall dimensions, what is the dominant shape of the item?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on visual texture, what is the apparent finish of the product's surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What kind of printing appears on the back, conveying product information?",
+        "answer": "Text"
+      },
+      {
+        "question": "Judging by its form and material, what is the likely primary function of this item?",
+        "answer": "Packaging"
+      },
+      {
+        "question": "What is the overall visual impression regarding the material of the product?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Disregarding text, are there any other significant design elements on the surface?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the color saturation of the dominant shade covering most of the item?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Considering the presence of text, what is the implied use for this rectangular object?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Does the image suggest any noticeable irregularities in the surface texture?",
+        "answer": "No"
+      },
+      {
+        "question": "Ignoring the printed text, what is the dominant visual characteristic of the item?",
+        "answer": "Color"
+      },
+      {
+        "question": "Describe the visual style of the text printed on the product's surface?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Based on its construction, is the item likely flexible or rigid in nature?",
+        "answer": "Rigid"
+      },
+      {
+        "question": "What is the general perceived weight of the item based on its appearance?",
+        "answer": "Light"
+      },
+      {
+        "question": "Is the item\u2019s primary visible aspect more uniform or heterogeneous in its texture?",
+        "answer": "Uniform"
+      }
+    ]
+  }
+]

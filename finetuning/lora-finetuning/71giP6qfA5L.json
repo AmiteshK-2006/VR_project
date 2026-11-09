@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/46/462b4bf1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual layout, what is the primary subject described in detail across multiple lines?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the specified measurement unit for the serving size, as explicitly written within the text?",
+        "answer": "ml"
+      },
+      {
+        "question": "Focusing on the nutritional information, what is the exact quantitative value assigned to total carbohydrates, in grams?",
+        "answer": "13"
+      },
+      {
+        "question": "What is the numerical value indicated for the total calorie count per serving, as depicted in the text?",
+        "answer": "90"
+      },
+      {
+        "question": "According to the provided text, what is the numerical value for the amount of total sugars, in grams, per serving?",
+        "answer": "12"
+      },
+      {
+        "question": "In grams, what is the numerical value shown for the amount of protein provided per serving, based on the text?",
+        "answer": "8"
+      },
+      {
+        "question": "What is the numerical percentage of the Daily Value (%DV) assigned to the total fat content, as indicated in the nutrition facts?",
+        "answer": "0"
+      },
+      {
+        "question": "What is the numerical percentage of the Daily Value (%DV) indicated for the cholesterol content in the nutrition facts?",
+        "answer": "2"
+      },
+      {
+        "question": "Based solely on the provided text, what is the specified amount of sodium, in milligrams (mg), per serving?",
+        "answer": "130"
+      },
+      {
+        "question": "What is the numerical percentage of the Daily Value (%DV) represented for the Vitamin D content, as displayed within the text?",
+        "answer": "15"
+      },
+      {
+        "question": "As indicated in the text, what is the numerical percentage of the Daily Value (%DV) associated with the calcium content?",
+        "answer": "30"
+      },
+      {
+        "question": "What is the numerical percentage of the Daily Value (%DV) for iron, according to the nutrition information?",
+        "answer": "0"
+      },
+      {
+        "question": "What is the numerical percentage of the Daily Value (%DV) indicated for potassium (Potas) in the nutrition facts?",
+        "answer": "8"
+      },
+      {
+        "question": "What is the numerical percentage of the Daily Value (%DV) associated with Vitamin A content, as shown in the text?",
+        "answer": "15"
+      },
+      {
+        "question": "What is the style of the text that provides the nutritional information; for example, is it bold, italic, underlined etc.?",
+        "answer": "Normal"
+      }
+    ]
+  }
+]

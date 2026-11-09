@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/f8/f8272dfe.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the fabric shown in the image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visual texture, what is the apparent weave type of this fabric?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Based on the image, what kind of finish does the fabric appear to have?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the image, what is the general visual density of the fabric?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Describe the overall visual tone of the fabric's color in the provided image?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "What is the most apparent visual characteristic of the fabric's surface?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Does the image suggest the presence of any noticeable patterns in the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "What seems to be the main visual component presented in the image?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "What is the apparent visual level of sheen or gloss on the fabric surface?",
+        "answer": "Low"
+      },
+      {
+        "question": "Considering the visible details, what is the implied visual weight of the fabric?",
+        "answer": "Medium"
+      },
+      {
+        "question": "From the image alone, does the fabric appear to be visually thick or thin?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Does the image clearly display any visible irregularities in the fabric?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on visual inspection, what is the general appearance of the fabric's fibers?",
+        "answer": "Fine"
+      },
+      {
+        "question": "Judging by the image, is the fabric visually uniform or variegated in appearance?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What is the apparent visual drape or stiffness suggested by the fabric's presentation?",
+        "answer": "Soft"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/10/10786dd8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the primary form of information conveyed on the container?",
+        "answer": "Nutritional"
+      },
+      {
+        "question": "What is the dominant color scheme of the text blocks on the food label?",
+        "answer": "Black"
+      },
+      {
+        "question": "In terms of design, what kind of layout do the nutritional facts follow?",
+        "answer": "tabular"
+      },
+      {
+        "question": "What is the format in which the serving size is presented, in terms of units?",
+        "answer": "Grams"
+      },
+      {
+        "question": "Based on the visual appearance, which part of the container is mostly white?",
+        "answer": "Background"
+      },
+      {
+        "question": "What type of font is used predominantly for the textual information on the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Describe the visual texture of the label's surface, based on the provided image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What shape does the overall nutritional information panel take?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the visual style of the headers in the nutrition facts section?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Describe the general appearance of the text style in the ingredients list?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Considering the visual information, what is the overall style of the label design?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the primary method used to separate different nutritional categories?",
+        "answer": "Lines"
+      },
+      {
+        "question": "What is the visual method used to highlight daily values?",
+        "answer": "Percentage"
+      },
+      {
+        "question": "What is the visual format for expressing serving sizes?",
+        "answer": "Fraction"
+      },
+      {
+        "question": "Judging from the image, what's the overall color profile of the label?",
+        "answer": "Monochromatic"
+      }
+    ]
+  }
+]

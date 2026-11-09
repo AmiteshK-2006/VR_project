@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ee/ee51c4bb.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant visual texture portrayed in the image?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Considering the visual properties, what is the overall color of the displayed material?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Based solely on the image, what is the apparent material composition?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Judging by the image, what is the most prominent visual characteristic of the texture?",
+        "answer": "Linear"
+      },
+      {
+        "question": "What kind of weave pattern is most apparent in the provided sample image?",
+        "answer": "Plain"
+      },
+      {
+        "question": "If one were to describe the visual density, what term best suits the fabric's weave?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Considering the image's clarity, what is the visible sheen of the material?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the general visual impression of the fabric's weight based on its texture?",
+        "answer": "Medium"
+      },
+      {
+        "question": "From a visual standpoint, what can be inferred about the fiber type used in the fabric?",
+        "answer": "Natural"
+      },
+      {
+        "question": "Observing the image, how would you describe the visual uniformity of the weave?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Based solely on the image, what visual aspects suggest the type of fabric?",
+        "answer": "Textile"
+      },
+      {
+        "question": "What is the most apparent visual characteristic related to the threads' arrangement?",
+        "answer": "Interlaced"
+      },
+      {
+        "question": "From visual observation, how would you describe the fabric's overall appearance?",
+        "answer": "Solid"
+      },
+      {
+        "question": "What visual cues suggest a subtle variation in the fabric's color?",
+        "answer": "Shading"
+      },
+      {
+        "question": "In terms of visual structure, how can you describe the arrangement of the threads?",
+        "answer": "Regular"
+      }
+    ]
+  }
+]

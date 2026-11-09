@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9b/9bfebf43.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the main surface of the depicted item?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What color is the visible edge bordering the main surface?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "Considering the visible texture, what material appears to constitute the primary component?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Based on the image, what is the overall shape of the object presented?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Describe the visible texture of the primary surface area of the product shown.",
+        "answer": "Rough"
+      },
+      {
+        "question": "What is the apparent thickness of the presented item, relative to its other dimensions?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Judging from the image, how would you characterize the overall surface finish of this item?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Can you identify any patterns or designs printed or embossed on the visible surface?",
+        "answer": "None"
+      },
+      {
+        "question": "Does the image suggest any noticeable flaws or imperfections on the product's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the visible materials, how flexible does the item seem to be?",
+        "answer": "Stiff"
+      },
+      {
+        "question": "What is the apparent state of the visible edges, are they cleanly finished or rough?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Does the object seem to be made of a single layer or multiple?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "Based purely on visual inspection, what is the item's apparent weight?",
+        "answer": "Light"
+      },
+      {
+        "question": "Observing the image, are there any visible signs of adhesive or bonding agents?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the object appear to have any additional components beyond its main body?",
+        "answer": "No"
+      }
+    ]
+  }
+]

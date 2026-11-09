@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/3a/3ac66f9e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the primary purpose of this rectangular item?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the primary color used for the text on this product's informational panel?",
+        "answer": "Black"
+      },
+      {
+        "question": "Observing the layout, what specific dietary component is prominently highlighted in bold?",
+        "answer": "Calories"
+      },
+      {
+        "question": "What is the numerical value shown for the total number of calories per serving?",
+        "answer": "140"
+      },
+      {
+        "question": "What is the stated serving size indicated on the informational label?",
+        "answer": "Bar"
+      },
+      {
+        "question": "Based on the visual layout, what is the total number of servings contained within this item's packaging?",
+        "answer": "Six"
+      },
+      {
+        "question": "Judging by the text's visual arrangement, what is the unit of weight indicated for a single serving?",
+        "answer": "Gram"
+      },
+      {
+        "question": "Focusing on the visible data, what is the weight given for a single serving of the item?",
+        "answer": "37"
+      },
+      {
+        "question": "Looking at the text's formatting, what specific type of fats are listed in the nutrition facts?",
+        "answer": "Total"
+      },
+      {
+        "question": "Regarding the layout, what is the specific term used for the non-digestible portion of the product?",
+        "answer": "Fiber"
+      },
+      {
+        "question": "Based on the visible values, what is the amount of total sugars, in grams, per serving?",
+        "answer": "17"
+      },
+      {
+        "question": "From the visible data, what vitamin is denoted as 'B1' within this nutrition information panel?",
+        "answer": "Thiamin"
+      },
+      {
+        "question": "What is the numerical value associated with the percentage of the daily value for total carbohydrate?",
+        "answer": "10"
+      },
+      {
+        "question": "What is the amount of protein, in grams, as shown on this nutrition label per serving?",
+        "answer": "2"
+      },
+      {
+        "question": "What is the specific unit used to quantify the amount of Vitamin D in this food's nutrition label?",
+        "answer": "mcg"
+      }
+    ]
+  }
+]

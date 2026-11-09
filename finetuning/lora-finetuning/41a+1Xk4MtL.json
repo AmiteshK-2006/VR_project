@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/da/daeb3faf.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the primary material of the displayed item?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Based on the visible text, what is one of the ingredients explicitly listed?",
+        "answer": "Barley"
+      },
+      {
+        "question": "Judging by the printed text, what type of labeling is predominantly featured?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the overall shape and form of the package as observed in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What color is the background of the displayed label, based on visual inspection?",
+        "answer": "White"
+      },
+      {
+        "question": "What color is the font used for the ingredient list as shown in the image?",
+        "answer": "Black"
+      },
+      {
+        "question": "Regarding the text's arrangement, what is the prominent writing style observed?",
+        "answer": "Serif"
+      },
+      {
+        "question": "Does the packaging display a brand name or logo that is clearly visible?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the appearance of the text, what is the likely printing method used?",
+        "answer": "Ink"
+      },
+      {
+        "question": "What is the visible text size relative to the image?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the orientation of the label's text relative to the packaging?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Based on the image, what is the condition of the displayed packaging?",
+        "answer": "Damaged"
+      },
+      {
+        "question": "Describe the visual quality of the printed text on the packaging.",
+        "answer": "Clear"
+      },
+      {
+        "question": "Is there any indication of specific production or certification labels?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the texture of the surface where the text is printed, based on the image?",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

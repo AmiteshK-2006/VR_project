@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/90/90bb558c.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the dominant visual element, what is the primary pattern depicted across the entire surface of the product?",
+        "answer": "Curved"
+      },
+      {
+        "question": "What is the most prominent color observed in the product's design, forming the base of its pattern?",
+        "answer": "Dark"
+      },
+      {
+        "question": "Based on visual analysis, what secondary color is interwoven with the dominant color in the repeating design?",
+        "answer": "Gold"
+      },
+      {
+        "question": "What is the apparent texture of the product, suggested by the image's visual representation?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the overall shape and form of the product, as presented in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the design's intricacies, what is the most descriptive term to categorize the style of the product's pattern?",
+        "answer": "ArtDeco"
+      },
+      {
+        "question": "From the visual representation, what appears to be the product's intended material or composition?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Describe the visual arrangement of the colored elements within the overall pattern on the product's surface.",
+        "answer": "Repeating"
+      },
+      {
+        "question": "What small geometric shapes are interspersed amongst the larger curved patterns on the product?",
+        "answer": "Diamonds"
+      },
+      {
+        "question": "Considering the visual details, how would you best describe the lines making up the main pattern on the product?",
+        "answer": "Striped"
+      },
+      {
+        "question": "Judging from the image alone, what seems to be the function or intended purpose of the product?",
+        "answer": "Wrapping"
+      },
+      {
+        "question": "What is the visual appearance of the edge or border of the product as shown in the picture?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Analyzing the visual presentation, what is the relative thickness of the product based on its appearance?",
+        "answer": "Thin"
+      },
+      {
+        "question": "What is the visible state of the product as depicted in the provided image, is it used or unused?",
+        "answer": "Unused"
+      },
+      {
+        "question": "Describe the visual intensity or vibrancy of the colors used in the product's design.",
+        "answer": "Muted"
+      }
+    ]
+  }
+]

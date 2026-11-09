@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4b/4ba342e3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual layout, what is the primary function of this rectangular element, clearly structured with text in rows and columns?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Based on the textual information provided, what is the total number of servings indicated per container of the food item?",
+        "answer": "Three"
+      },
+      {
+        "question": "As depicted in the text, what is the recommended serving size in terms of number of slices and weight?",
+        "answer": "Four"
+      },
+      {
+        "question": "Referring solely to the large, bold font numerical value in the bottom-left, what is the caloric content per serving?",
+        "answer": "Sixty"
+      },
+      {
+        "question": "What specific nutrient's quantity is presented with its corresponding percentage daily value (DV) in large, bold font?",
+        "answer": "Sodium"
+      },
+      {
+        "question": "Looking at the data on fat, what is the numerical value for Total Fat in grams per serving?",
+        "answer": "1.5"
+      },
+      {
+        "question": "Focusing on the carbohydrate information, how many grams of total carbohydrates are present per serving?",
+        "answer": "One"
+      },
+      {
+        "question": "What is the quantitative value, in milligrams (mg), given for cholesterol per serving?",
+        "answer": "Forty"
+      },
+      {
+        "question": "What is the amount of protein, in grams, as indicated per serving of the product?",
+        "answer": "Eleven"
+      },
+      {
+        "question": "Based on the label's visual presentation, what is the quantitative value for dietary fiber (in grams) shown per serving?",
+        "answer": "Zero"
+      },
+      {
+        "question": "What is the value for total sugars, in grams, as displayed per serving of this product?",
+        "answer": "One"
+      },
+      {
+        "question": "According to the visual text, what is the amount of saturated fat, in grams, contained within one serving?",
+        "answer": "Zero"
+      },
+      {
+        "question": "Referring to the image, what is the amount of added sugars (in grams) included in one serving?",
+        "answer": "One"
+      },
+      {
+        "question": "What is the quantity, in milligrams, for potassium (Potas.) indicated per serving?",
+        "answer": "120"
+      },
+      {
+        "question": "Observing the provided data, what is the percentage daily value (%) of iron included in a single serving?",
+        "answer": "Four"
+      }
+    ]
+  }
+]

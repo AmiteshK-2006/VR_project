@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/cf/cf3e54e9.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color scheme of the displayed text on the product label?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Based on the visible text, what specific ingredient is prominently featured as an organic component of this product?",
+        "answer": "Lemon"
+      },
+      {
+        "question": "Observing the text's arrangement and style, what is the overall font type used for presenting the product's ingredient list?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "In terms of text formatting, how is the word 'INGREDIENTS' visually distinguished from the subsequent ingredient list?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the general textual formatting style used for listing all the individual ingredients within this product's description?",
+        "answer": "Sentence"
+      },
+      {
+        "question": "From the label's visual cues, what appears to be the purpose of the text's presentation as a list of the individual ingredients?",
+        "answer": "Information"
+      },
+      {
+        "question": "Analyzing the label, what is the nature of the information provided concerning the specific ingredients within this product?",
+        "answer": "Declarative"
+      },
+      {
+        "question": "Looking at the arrangement of text on the label, is there any clear visual indication of additional text or information beyond the listed ingredients?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based solely on the label's appearance, what is the apparent size of the printed text in relation to the label's overall area?",
+        "answer": "Small"
+      },
+      {
+        "question": "By observing the text, can you identify any specific vitamin mentioned as being included in this product's composition?",
+        "answer": "C"
+      },
+      {
+        "question": "Judging by the visual appearance, what kind of process is stated for the water used in the composition of this particular product?",
+        "answer": "Filtered"
+      },
+      {
+        "question": "What is the visible state of the listed ingredients regarding their origin, as indicated on the product label's visual representation?",
+        "answer": "Organic"
+      },
+      {
+        "question": "From a visual standpoint, what is the most prominent element besides the ingredient list shown on the product label?",
+        "answer": "Background"
+      },
+      {
+        "question": "Observing the visual texture, what is the apparent printing method used to create the text on this product's label?",
+        "answer": "Offset"
+      },
+      {
+        "question": "Judging by the visible text's structure, what is the primary language used for communication on this product's ingredient label?",
+        "answer": "English"
+      }
+    ]
+  }
+]

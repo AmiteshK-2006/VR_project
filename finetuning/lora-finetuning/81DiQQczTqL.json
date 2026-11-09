@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1f/1fb3d93f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the product packaging, as observed in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of the product's packaging, ignoring minor variations?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material appears to constitute the majority of the product's packaging?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What is the dominant text color prominently displayed on the package?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Based on the visual, what seems to be the weight of the product contained within?",
+        "answer": "1kg"
+      },
+      {
+        "question": "What is the texture of the visible portion of the packaging, considering any visible details?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the packaging show any significant creases or folds that might indicate handling?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent brand name as presented on the packaging?",
+        "answer": "Vedaka"
+      },
+      {
+        "question": "What kind of information, predominantly, is presented on the back of the product?",
+        "answer": "Text"
+      },
+      {
+        "question": "Are there any noticeable images or logos besides the text on the product packaging?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the image, what seems to be the overall condition of the product's packaging?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Does the product packaging display a seal or any indication of tampering?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the type of printing observed on the product packaging, considering its style and precision?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the apparent orientation of the packaging in the image, considering its positioning?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Does the packaging appear to be transparent or opaque, from the visual inspection?",
+        "answer": "Opaque"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/07/07457790.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall textual layout, what is the primary purpose of this rectangular area, as visually evident?",
+        "answer": "Label"
+      },
+      {
+        "question": "Based on the visual appearance, what is the most prominent feature of the text displayed, regarding its formatting?",
+        "answer": "List"
+      },
+      {
+        "question": "What is the font style primarily used throughout the visible text block, considering its visual traits?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Judging by its visual characteristics, what appears to be the general color palette employed for the text's presentation?",
+        "answer": "Black"
+      },
+      {
+        "question": "Given the visual context, what is the predominant background color of the text, observing its overall visual tone?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the textual content displayed, what specific type of information is visually prominent, relating to food products?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "From a visual perspective, does the text maintain consistent spacing and alignment, providing a well-structured appearance?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Judging solely by its visual structure, how many distinct textual sections or blocks are noticeably present on the label?",
+        "answer": "Two"
+      },
+      {
+        "question": "What appears to be the visual orientation of the displayed text, relative to its position on the label?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Considering the overall appearance, does the text demonstrate any visual evidence of being handwritten or digitally generated?",
+        "answer": "Digital"
+      },
+      {
+        "question": "What appears to be the relative size of the text displayed, taking into account visual cues from the presented layout?",
+        "answer": "Small"
+      },
+      {
+        "question": "Based on the visible text, what type of statement follows the ingredients list, providing supplementary information?",
+        "answer": "Warning"
+      },
+      {
+        "question": "Visually inspecting the textual content, what specific ingredient appears multiple times in the provided list?",
+        "answer": "Tomatoes"
+      },
+      {
+        "question": "In terms of textual density, would you characterize the visible information as sparse, moderate or dense?",
+        "answer": "Dense"
+      },
+      {
+        "question": "Considering the visual presentation, is there any noticeable use of bolding or italics within the text?",
+        "answer": "No"
+      }
+    ]
+  }
+]

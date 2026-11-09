@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0a/0a6e30a7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color scheme employed in the design of this food label, considering the text and background?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering the font style and size, what level of readability is achieved for the nutritional information presented?",
+        "answer": "High"
+      },
+      {
+        "question": "Based on the visual presentation, what is the primary method used to organize the nutritional components?",
+        "answer": "Columns"
+      },
+      {
+        "question": "What is the overall shape of the nutrition facts panel as depicted in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary method of displaying the numerical values associated with each nutritional element?",
+        "answer": "Digits"
+      },
+      {
+        "question": "Given the visual arrangement, does the label use a consistent font style for the various nutritional elements?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the texture implied by the visual appearance of the label, considering the surface and print quality?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the image, how many distinct sections are visible within the overall structure of the label, each containing related data?",
+        "answer": "Two"
+      },
+      {
+        "question": "What is the apparent material of the surface on which the nutritional information is printed, based solely on visual observation?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Considering the visual details, is there any discernible pattern or texture to the background of the label?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the overall aesthetic style of the nutrition facts label as depicted in the provided image?",
+        "answer": "Simple"
+      },
+      {
+        "question": "In what units are the 'serving size' and 'calories per serving' values presented on the food label shown?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What visual element appears immediately to the left of the word 'Facts' in the nutrition label?",
+        "answer": "Word"
+      },
+      {
+        "question": "What is the format of the values listed for various nutrients in the label's right-hand column, in terms of units and abbreviations?",
+        "answer": "Numeric"
+      },
+      {
+        "question": "Examining the visual presentation, does the label employ any distinct visual cues such as symbols or icons to highlight specific nutritional information?",
+        "answer": "No"
+      }
+    ]
+  }
+]

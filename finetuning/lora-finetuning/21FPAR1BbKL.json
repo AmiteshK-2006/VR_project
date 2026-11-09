@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/30/303b966a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the light bulb, as shown in the provided image?",
+        "answer": "A-shape"
+      },
+      {
+        "question": "What is the predominant color of the visible exterior of the bulb?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the image, what appears to be the material of the light bulb's outer covering?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Based on the image, what kind of base does the light bulb possess?",
+        "answer": "Screw"
+      },
+      {
+        "question": "What is the visible texture of the bulb's outer surface, according to the provided image?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the image, what is the apparent finish of the light bulb's exterior?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the image show any noticeable markings or branding on the bulb's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent size of the light bulb in relation to the hand holding it?",
+        "answer": "Small"
+      },
+      {
+        "question": "Considering the image, does the light bulb appear to have any visible internal components?",
+        "answer": "No"
+      },
+      {
+        "question": "From the image, is the bulb's exterior uniformly colored or does it show any variations?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "What is the visible overall condition of the light bulb in the provided image?",
+        "answer": "New"
+      },
+      {
+        "question": "Based on the provided image, what is the light bulb's apparent transparency?",
+        "answer": "Opaque"
+      },
+      {
+        "question": "Does the image reveal any visible imperfections or damage on the light bulb?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image's perspective, what is the bulb's approximate diameter relative to the hand?",
+        "answer": "Small"
+      },
+      {
+        "question": "Based on visual observation from the image, what is the general style of the light bulb?",
+        "answer": "Standard"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/e3/e313cc46.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall shape of the primary container depicted in the provided image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the dominant color of the label on the product container?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the primary textual element displayed prominently on the product container?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Considering the textual content, what is one of the listed main ingredients?",
+        "answer": "Water"
+      },
+      {
+        "question": "Based on the visible text, what type of vinegar is included in the product's ingredients?",
+        "answer": "Balsamic"
+      },
+      {
+        "question": "What spice powder, explicitly mentioned on the label, is included in the list of ingredients?",
+        "answer": "Paprika"
+      },
+      {
+        "question": "What type of oil, according to the label, is included in this product's composition?",
+        "answer": "Olive"
+      },
+      {
+        "question": "Which aromatic spice, noted in the ingredient list, is commonly used in baking and savory dishes?",
+        "answer": "Cinnamon"
+      },
+      {
+        "question": "What type of powder, used as a thickening agent, is listed among the ingredients?",
+        "answer": "Xanthan"
+      },
+      {
+        "question": "What is the texture of the label, judging from the image's visual characteristics?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the font style of the text on the product's label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the visible text, which spice is listed near the end of the ingredients list?",
+        "answer": "Cloves"
+      },
+      {
+        "question": "What is the apparent material of the label shown on the packaging in the provided image?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the overall visual style of the label design, considering its simplicity?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Considering the text, what type of pepper is listed as one of the ingredients?",
+        "answer": "Black"
+      }
+    ]
+  }
+]

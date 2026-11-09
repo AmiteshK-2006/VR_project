@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/bc/bcfc3978.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant visual characteristic of the object's overall form?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What single word best describes the apparent material composition?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Considering its transparency, what color best represents its appearance?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the most apparent surface texture visible across the object?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Ignoring minor irregularities, what geometric shape defines the product's outline?",
+        "answer": "Oblong"
+      },
+      {
+        "question": "Describe the apparent finish of the product's outer surfaces?",
+        "answer": "Glossy"
+      },
+      {
+        "question": "Based on its visual properties, what is the item's likely function?",
+        "answer": "Tray"
+      },
+      {
+        "question": "What is the primary color presented by the object shown in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe the visual thickness of the product, ignoring perspective distortions?",
+        "answer": "Thin"
+      },
+      {
+        "question": "What is the overall visual impression of the object's edges and corners?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Does the item exhibit any visible markings, patterns or textures besides its basic shape?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the image alone, what is the object's implied lightness or weight?",
+        "answer": "Lightweight"
+      },
+      {
+        "question": "What is the predominant visual shade or hue observed in the product?",
+        "answer": "Translucent"
+      },
+      {
+        "question": "Judging by its size and appearance, what is the most probable use?",
+        "answer": "Storage"
+      },
+      {
+        "question": "What descriptive term best captures the object's aesthetic simplicity?",
+        "answer": "Minimalist"
+      }
+    ]
+  }
+]

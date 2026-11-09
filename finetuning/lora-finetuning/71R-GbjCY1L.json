@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/1f/1f280293.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the power inverter's casing?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What type of electrical outlet does the inverter feature?",
+        "answer": "US"
+      },
+      {
+        "question": "How many USB ports are visibly present on the inverter's surface?",
+        "answer": "Two"
+      },
+      {
+        "question": "What shape best describes the overall form factor of the device?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What appears to be the primary material used for the inverter's body?",
+        "answer": "Metal"
+      },
+      {
+        "question": "Considering the visible texture, what is the surface finish of the inverter?",
+        "answer": "Brushed"
+      },
+      {
+        "question": "What color is the indicator light on the inverter's front panel?",
+        "answer": "Green"
+      },
+      {
+        "question": "Does the device show any visible branding or model markings?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What kind of connector is attached to the input end of the device?",
+        "answer": "AC"
+      },
+      {
+        "question": "Besides the AC connector, what other cable is connected to the inverter?",
+        "answer": "USB"
+      },
+      {
+        "question": "Are the USB ports individually labeled or marked?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on the image, what electronic devices are being charged?",
+        "answer": "Phone"
+      },
+      {
+        "question": "What seems to be the device's main functionality?",
+        "answer": "Charging"
+      },
+      {
+        "question": "What is the orientation of the power inverter in the image?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "What appears to be the length of the attached AC cable?",
+        "answer": "Short"
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ca/ca45ee6e.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary textual information conveyed regarding the product's composition?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Considering the provided text, what specific substance is mentioned as a component?",
+        "answer": "Cellulose"
+      },
+      {
+        "question": "Based on the label, what processing-related detail is highlighted about the product's manufacturing?",
+        "answer": "Facility"
+      },
+      {
+        "question": "In terms of the manufacturing process, what type of nuts are mentioned as having been processed in the same facility?",
+        "answer": "Tree"
+      },
+      {
+        "question": "What is one specific type of seafood noted as being processed in the same facility as the product?",
+        "answer": "Shellfish"
+      },
+      {
+        "question": "Apart from tree nuts and shellfish, what other type of food item's processing is mentioned?",
+        "answer": "Soy"
+      },
+      {
+        "question": "What word modifies the term 'vegetable' in describing the cellulose ingredient?",
+        "answer": "Modified"
+      },
+      {
+        "question": "What is the descriptor of the cellulose, indicating its origin?",
+        "answer": "Vegetable"
+      },
+      {
+        "question": "What is the overall text format observed on the label?",
+        "answer": "Block"
+      },
+      {
+        "question": "What is the grammatical structure of the introductory phrase regarding ingredients?",
+        "answer": "Phrase"
+      },
+      {
+        "question": "Considering the layout, what is the relative position of 'Other Ingredients'?",
+        "answer": "Top"
+      },
+      {
+        "question": "Considering the given text, what is the general state of the product's information?",
+        "answer": "Labeled"
+      },
+      {
+        "question": "What is the font style primarily used for the text on the label?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the typeface, what is the general weight of the font used?",
+        "answer": "Regular"
+      },
+      {
+        "question": "Describing the text's color, what would be the appropriate single word?",
+        "answer": "Black"
+      }
+    ]
+  }
+]

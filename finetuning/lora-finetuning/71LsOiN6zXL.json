@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/8a/8a199d81.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape and the detailed layout of the text, what is the primary function suggested by this visual?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the predominant color scheme of the background used to display this information?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the style of font employed throughout the text to present the nutritional values?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the textual layout, what is the method of information presentation used to display nutritional data?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the material the label appears to be printed on, given its visual properties?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Focusing on the text, what is the stated serving size of the product described?",
+        "answer": "Cup"
+      },
+      {
+        "question": "What is the unit of measurement used to quantify the various components of the product's nutritional profile?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the specific measurement method used to indicate the amount of liquid in a serving?",
+        "answer": "Milliliters"
+      },
+      {
+        "question": "What is the metric measurement associated with the provided serving size?",
+        "answer": "240ml"
+      },
+      {
+        "question": "What is the text located at the top of the provided nutritional information?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "Observing the text, what is the given number of servings per container?",
+        "answer": "Four"
+      },
+      {
+        "question": "What is the descriptive term used to classify the fats listed in the nutrition facts?",
+        "answer": "Total"
+      },
+      {
+        "question": "What is the single-word label for the fats that have saturated carbon atoms?",
+        "answer": "Saturated"
+      },
+      {
+        "question": "Looking at the text, what is the category for the nutritional content of carbohydrates?",
+        "answer": "Dietary"
+      },
+      {
+        "question": "What is the single-word term for the total sugars present in the food product, as shown in the text?",
+        "answer": "Sugars"
+      }
+    ]
+  }
+]

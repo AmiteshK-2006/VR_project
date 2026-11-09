@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/42/4243286f.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the textile item shown?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the apparent texture of the fabric, based on the image?",
+        "answer": "Loop"
+      },
+      {
+        "question": "Considering the visual appearance, what is the most likely material?",
+        "answer": "Cotton"
+      },
+      {
+        "question": "Based on its shape and folding, what type of textile is pictured?",
+        "answer": "Towel"
+      },
+      {
+        "question": "Judging from the image, does the towel appear to be plush or thin?",
+        "answer": "Plush"
+      },
+      {
+        "question": "What is the overall shape of the presented textile product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Are there any visible patterns or designs on the towel's surface?",
+        "answer": "None"
+      },
+      {
+        "question": "Does the image suggest a high or low level of absorbency?",
+        "answer": "High"
+      },
+      {
+        "question": "What is the visual appearance of the towel's edges or hems?",
+        "answer": "Neat"
+      },
+      {
+        "question": "How many visible layers does the folded towel present in the image?",
+        "answer": "Two"
+      },
+      {
+        "question": "Considering the folded state, is the item designed for single or multiple uses?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "Does the towel show any visible signs of damage or wear?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the image suggest a soft or harsh hand-feel for the fabric?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Is the towel presented as thick or thin in appearance?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Based purely on visual examination, what is its apparent size relative to a hand?",
+        "answer": "Large"
+      }
+    ]
+  }
+]

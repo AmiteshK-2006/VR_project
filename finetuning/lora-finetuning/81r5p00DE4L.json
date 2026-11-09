@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/71/715d6741.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall layout and typography, what is the primary purpose of this visually presented information, as evidenced by prominent text and numerical data organization?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the predominant color scheme used for the text and background, focusing on the stark visual contrast presented?",
+        "answer": "Black"
+      },
+      {
+        "question": "What specific food item does the provided nutritional information pertain to, based on its explicit mention in the serving size description?",
+        "answer": "Pizza"
+      },
+      {
+        "question": "Describe the shape of the individual data blocks containing nutritional values, focusing on the consistent geometric pattern observed.",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the visual texture of the text displayed across the entire nutrition facts panel, referencing its uniformity and readability?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What is the most frequently used visual element for separating and organizing different categories of nutritional information, based on its repeated appearance?",
+        "answer": "Lines"
+      },
+      {
+        "question": "Focusing solely on the visual presentation, what is the format used to represent the percentage daily values for various nutrients, observable in the numerical representations?",
+        "answer": "Numeric"
+      },
+      {
+        "question": "Based on the size and prominence of the displayed numbers, what is the most visually emphasized nutritional metric displayed?",
+        "answer": "Calories"
+      },
+      {
+        "question": "What visual style is employed for the presentation of the nutrient values, focusing on the method used to denote individual units of measurement?",
+        "answer": "Gram"
+      },
+      {
+        "question": "Describe the visual hierarchy of the different nutritional component categories, observing their placement and relative sizes within the layout.",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Based on the visual appearance, is the information structured using tables or lists, primarily focusing on the consistent organization of elements?",
+        "answer": "Table"
+      },
+      {
+        "question": "Ignoring any textual content, what is the overall visual density of the presented nutrition data, observing the spacing and arrangement of elements?",
+        "answer": "High"
+      },
+      {
+        "question": "Observing the color variation, what is the most prominent contrasting color other than the main text color?",
+        "answer": "White"
+      },
+      {
+        "question": "Disregarding the context, what is the dominant visual pattern observed across the entire nutritional information layout?",
+        "answer": "Grid"
+      },
+      {
+        "question": "What is the visual orientation of the nutrition facts, considering the layout and arrangement of the data?",
+        "answer": "Vertical"
+      }
+    ]
+  }
+]

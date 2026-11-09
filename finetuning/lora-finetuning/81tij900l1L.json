@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/89/89ea2835.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the packaging visible in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall shape of the product's packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What type of material appears to constitute the product packaging?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Describing the texture, is the packaging glossy or matte?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the dominant text color on the food packaging?",
+        "answer": "Black"
+      },
+      {
+        "question": "Is there a noticeable logo or branding visible on this food package?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What kind of information is prominently displayed on the back of the package?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the suggested use of the product based on the package information?",
+        "answer": "Baking"
+      },
+      {
+        "question": "Does the packaging show any certifications or seals?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the color of the smaller text near the larger text blocks?",
+        "answer": "Green"
+      },
+      {
+        "question": "Considering the overall design, is the packaging simple or elaborate?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Does the image show a barcode or similar identification marks?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is there any image or graphic representation on the package front?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the general condition of the visible product packaging?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "Is the text on the packaging primarily in uppercase or lowercase letters?",
+        "answer": "Uppercase"
+      }
+    ]
+  }
+]

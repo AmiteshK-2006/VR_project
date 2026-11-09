@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a4/a4b33ba5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the primary color scheme of this product's packaging?",
+        "answer": "Green"
+      },
+      {
+        "question": "Examining the textual content, what is the prominently displayed word, indicating the item's nature?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Focusing on the textual details, which ingredient is listed first, indicating a likely primary component?",
+        "answer": "Sugar"
+      },
+      {
+        "question": "Based on the textual information provided, what kind of sugar is utilized as an ingredient?",
+        "answer": "Cane"
+      },
+      {
+        "question": "What is the percentage of hazelnuts, as visually apparent in the ingredient list, suggesting their proportion?",
+        "answer": "18"
+      },
+      {
+        "question": "Observing the ingredients, which oil is explicitly stated to be part of this product's composition?",
+        "answer": "Sunflower"
+      },
+      {
+        "question": "Referring to the cocoa content, what percentage of fat-reduced cocoa powder is present in the product?",
+        "answer": "95"
+      },
+      {
+        "question": "According to the ingredient list, what type of milk is used in the manufacturing process?",
+        "answer": "Milk"
+      },
+      {
+        "question": "What cocoa-derived ingredient, aside from cocoa powder, is mentioned among the listed components?",
+        "answer": "Butter"
+      },
+      {
+        "question": "What emulsifier is specified as being sourced from organic agriculture, as stated in the ingredients?",
+        "answer": "Lecithins"
+      },
+      {
+        "question": "What is the specified percentage of cocoa butter, a key ingredient used in the product?",
+        "answer": "2.5"
+      },
+      {
+        "question": "From the text, which type of allergy is specifically mentioned as a contraindication for consumption?",
+        "answer": "Nut"
+      },
+      {
+        "question": "Observing the provided information, what other type of allergy is cautioned against, relating to manufacturing?",
+        "answer": "Soy"
+      },
+      {
+        "question": "What language, besides English, is used prominently on the packaging to describe ingredients?",
+        "answer": "German"
+      },
+      {
+        "question": "Besides German, what other language is present in the description of the product ingredients?",
+        "answer": "French"
+      }
+    ]
+  }
+]

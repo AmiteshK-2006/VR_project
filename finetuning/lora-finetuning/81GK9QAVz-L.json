@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/39/393d5428.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular shape and the textual content predominantly focused on product details and warnings, what is the primary function of this item's packaging?",
+        "answer": "Container"
+      },
+      {
+        "question": "Observing the color palette used on the packaging, primarily featuring off-white and light blue, what is the dominant hue?",
+        "answer": "White"
+      },
+      {
+        "question": "Analyzing the text layout, is the text primarily organized in a structured manner, such as using headings, subheadings, and bulleted lists, to convey information?",
+        "answer": "Structured"
+      },
+      {
+        "question": "Considering the various text blocks that contain detailed information, such as usage instructions, warnings, and ingredient lists, what is the general theme of this text?",
+        "answer": "Medical"
+      },
+      {
+        "question": "Focusing on the print quality and the clarity of the text, what can be said about the legibility of the text on the container?",
+        "answer": "Legible"
+      },
+      {
+        "question": "Analyzing the material, noting its slight gloss, and its apparent stiffness, what type of material is primarily used in constructing this container?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Given the presence of recycling symbols at the bottom of the container, what is the environmental consideration indicated?",
+        "answer": "Recyclable"
+      },
+      {
+        "question": "Observing the design elements, does the packaging employ any images or illustrations to enhance its visual appeal beyond the text?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the numerous text blocks detailing the active ingredients, inactive ingredients, uses, warnings, and directions, what is the overall purpose of the text?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Examining the top section of the container, what concise label is displayed to clearly identify the nature of the contents' specifications?",
+        "answer": "DrugFacts"
+      },
+      {
+        "question": "Looking at the bottom of the container, is there any indication of the product's manufacturing or distribution?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the size and shape of the packaging, is this product likely intended for single-use or multiple uses?",
+        "answer": "Single"
+      },
+      {
+        "question": "Does the textual information on the packaging suggest whether this product is for internal or external use?",
+        "answer": "External"
+      },
+      {
+        "question": "Considering the overall tone of the text, would you describe the communication style as formal or informal?",
+        "answer": "Formal"
+      },
+      {
+        "question": "Observing the color of the smaller text details, what secondary color is used in contrast with the off-white background?",
+        "answer": "Blue"
+      }
+    ]
+  }
+]

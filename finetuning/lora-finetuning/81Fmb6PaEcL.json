@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/4e/4e29d0b1.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color scheme of the box's design, visually dominant on the packaging?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "Considering the overall shape, what geometric form best describes the product's packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What type of food product is depicted on the box's front panel, visually indicated by the images of the product and the prominent text?",
+        "answer": "Granola"
+      },
+      {
+        "question": "Based on the visible image, what fruit is prominently featured as an ingredient in the granola bites?",
+        "answer": "Blueberry"
+      },
+      {
+        "question": "What material appears to be used for the primary packaging of the granola bites?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Describe the texture of the granola bites shown on the package, judging by their visual appearance?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What secondary ingredient, aside from blueberries, is explicitly mentioned on the product label?",
+        "answer": "Banana"
+      },
+      {
+        "question": "What descriptor is used to further define the type of granola bites shown in the packaging image?",
+        "answer": "Muffin"
+      },
+      {
+        "question": "What brand name is clearly displayed, as a central identifier for the food product?",
+        "answer": "365"
+      },
+      {
+        "question": "What is the overall design style of the packaging, observing its use of color, font, and imagery?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What other ingredient is subtly suggested by the visual depiction of the granola bites?",
+        "answer": "Oatmeal"
+      },
+      {
+        "question": "What is indicated as the net weight of the total product, found on the bottom of the packaging?",
+        "answer": "350g"
+      },
+      {
+        "question": "What number is prominently displayed within a circular design element, likely denoting serving size or package count?",
+        "answer": "10"
+      },
+      {
+        "question": "What additional descriptor accompanies the brand name, providing context to the brand's affiliation?",
+        "answer": "Market"
+      },
+      {
+        "question": "Considering the visual arrangement, how many individual packages of granola bites are mentioned on the packaging?",
+        "answer": "Five"
+      }
+    ]
+  }
+]

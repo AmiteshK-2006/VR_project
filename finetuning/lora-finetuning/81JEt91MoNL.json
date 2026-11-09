@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/5f/5f84c571.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form and stitching, what is the primary style of this footwear?",
+        "answer": "Loafer"
+      },
+      {
+        "question": "Based on the visible texture and sheen, what material appears to constitute the shoe's upper?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Judging by its shade and depth, how would you describe the dominant color of the shoe?",
+        "answer": "Tan"
+      },
+      {
+        "question": "Observing the sole's edge and construction, what is the apparent material composition of this component?",
+        "answer": "Synthetic"
+      },
+      {
+        "question": "From the image, how is the interior of the shoe primarily finished; is it plain or patterned?",
+        "answer": "Plain"
+      },
+      {
+        "question": "Focusing on the toe's form, what shape does the shoe's foremost portion exhibit?",
+        "answer": "Rounded"
+      },
+      {
+        "question": "Examining the brand marking near the heel, what is the name of the brand visible in the shoe?",
+        "answer": "Zervis"
+      },
+      {
+        "question": "By visual inspection, does the shoe feature any prominent decorative elements or embellishments?",
+        "answer": "No"
+      },
+      {
+        "question": "What style of closure is evident, indicating how the shoe fastens or secures to the foot?",
+        "answer": "Slip-on"
+      },
+      {
+        "question": "Analyzing the heel's structure, is this shoe's heel design notably high or low?",
+        "answer": "Low"
+      },
+      {
+        "question": "From your observation, is the shoe's construction primarily stitched, cemented, or molded?",
+        "answer": "Stitched"
+      },
+      {
+        "question": "Considering its general look, would you classify this shoe as casual, formal, or something else?",
+        "answer": "Formal"
+      },
+      {
+        "question": "Examining the shoe's upper, are any noticeable creases or folds apparent on its surface?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Is there any visible pattern or texture other than the basic leather grain on the shoe's upper?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging by the visible components and style, is this a left or right shoe?",
+        "answer": "Right"
+      }
+    ]
+  }
+]

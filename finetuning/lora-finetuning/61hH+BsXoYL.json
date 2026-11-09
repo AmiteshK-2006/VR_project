@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/00/000edae6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the main body of the pet food packaging, as shown in the provided image?",
+        "answer": "Orange"
+      },
+      {
+        "question": "Considering the image, what is the primary text displayed prominently on the packaging, which appears to be the brand name?",
+        "answer": "WHolePAWS"
+      },
+      {
+        "question": "Based on the visual details of the image, what appears to be the flavor variety of the pet food being depicted?",
+        "answer": "Chicken"
+      },
+      {
+        "question": "Judging from the image, what is the overall shape of the pet food package, which resembles a rectangular parallelepiped?",
+        "answer": "Bag"
+      },
+      {
+        "question": "What is the apparent texture of the main colored section of the packaging, which suggests a smooth and slightly matte finish?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What seems to be the material of the packaging, judging solely from the visual features in the image provided?",
+        "answer": "Paper"
+      },
+      {
+        "question": "Focusing only on the visual elements of the image, what additional protein source is mentioned, alongside chicken, in the product description?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the apparent style of the brand's lettering as depicted on the packaging, observed from the image?",
+        "answer": "Casual"
+      },
+      {
+        "question": "Considering the image, what seems to be the overall design aesthetic of the packaging, based on color and font choice?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the apparent format of the product details text on the packaging, observed from the image provided?",
+        "answer": "Block"
+      },
+      {
+        "question": "Based on the visual details in the image, what is the size of the pet food package presented in the picture?",
+        "answer": "Large"
+      },
+      {
+        "question": "What seems to be the overall condition of the pet food packaging, judging from the image?",
+        "answer": "New"
+      },
+      {
+        "question": "Based on the visuals, what is the color of the secondary text section in the pet food packaging shown in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering only the image, what is the visible pattern of the main colored area of the packaging, excluding the text?",
+        "answer": "Solid"
+      },
+      {
+        "question": "What is the apparent background color on which the brand name and details are printed, observed from the image?",
+        "answer": "White"
+      }
+    ]
+  }
+]

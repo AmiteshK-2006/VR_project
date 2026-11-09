@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b6/b6177651.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's visual characteristics, what specific type of pepper is indicated on the label?",
+        "answer": "White"
+      },
+      {
+        "question": "Based on the label's appearance, what adjective describes the origin of the pepper?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the primary word displayed prominently on the product's label, as observed visually?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Describe the overall font style used for the text on the product label, considering its visual presentation?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Judging from the visual appearance, what color is the text printed on the product label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Analyzing the image, what is the background color of the label on which the text is printed?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "From a visual standpoint, what punctuation mark concludes the ingredient list on the label?",
+        "answer": "Period"
+      },
+      {
+        "question": "Considering the label's visual design, what is the case of the lettering used for 'Ingredients'?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "What word follows 'Ingredients' on the label, considering the text's visual attributes?",
+        "answer": "Organic"
+      },
+      {
+        "question": "Describe the visual alignment of the text on the product's label, considering its presentation?",
+        "answer": "Left"
+      },
+      {
+        "question": "From visual observation, what is the approximate size of the text compared to other printed elements?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What is the visual spacing between the words on the product's label?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Considering the text's visual attributes, describe the overall style of the lettering in terms of its visual properties?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the visual weight or density of the text on the product's label, considering its appearance?",
+        "answer": "Solid"
+      },
+      {
+        "question": "From a visual analysis of the label, what is the visual clarity of the text printed on the label?",
+        "answer": "Clear"
+      }
+    ]
+  }
+]

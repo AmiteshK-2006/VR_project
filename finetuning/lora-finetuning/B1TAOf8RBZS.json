@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fa/fa59e905.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color of the fabric shown in the image?",
+        "answer": "Gray"
+      },
+      {
+        "question": "What is the apparent texture of the displayed fabric sample?",
+        "answer": "Woven"
+      },
+      {
+        "question": "What is the overall visual impression of the fabric's weave pattern?",
+        "answer": "Textured"
+      },
+      {
+        "question": "Considering the image, what kind of material is primarily evident?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Based solely on the image, what is the general tone of the fabric's color?",
+        "answer": "Dark"
+      },
+      {
+        "question": "What is the most visually prominent feature of the weave structure?",
+        "answer": "Intertwined"
+      },
+      {
+        "question": "Judging from the image, what is the implied density of the fabric's weave?",
+        "answer": "Tight"
+      },
+      {
+        "question": "What is the appearance of the individual threads or fibers within the fabric?",
+        "answer": "Fine"
+      },
+      {
+        "question": "What kind of effect does the light seem to have on the fabric's surface?",
+        "answer": "Subtle"
+      },
+      {
+        "question": "Considering the image, what is the visual uniformity of the fabric's color?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "What is the apparent level of shine or glossiness on the fabric's surface?",
+        "answer": "Slight"
+      },
+      {
+        "question": "What can be visually inferred about the fabric's softness based on the image?",
+        "answer": "Unknown"
+      },
+      {
+        "question": "What is the visible directionality or grain of the fabric's weave?",
+        "answer": "Indistinct"
+      },
+      {
+        "question": "What is the degree of visible pattern variation in the fabric's weave?",
+        "answer": "Minimal"
+      },
+      {
+        "question": "What is the apparent thickness or weight of the fabric shown in the image?",
+        "answer": "Medium"
+      }
+    ]
+  }
+]

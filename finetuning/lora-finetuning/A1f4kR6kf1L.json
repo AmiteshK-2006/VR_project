@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/12/121f65f3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed fabric sample?",
+        "answer": "Beige"
+      },
+      {
+        "question": "Considering the weave, what is the apparent texture of this material?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Based on visual inspection, what kind of fiber seems to constitute the fabric?",
+        "answer": "Textile"
+      },
+      {
+        "question": "Judging by the image, what is the overall appearance of the fabric's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Describing the visual structure, what is the pattern of the fabric's threads?",
+        "answer": "Textured"
+      },
+      {
+        "question": "From the image, what is the perceived grain direction of the fabric's weave?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What is the visual impression of the fabric's weight or density?",
+        "answer": "Medium"
+      },
+      {
+        "question": "Considering the image, does the material show a significant sheen or gloss?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the uniformity of the color and texture across the sample?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "What is the predominant visual characteristic of the fabric's surface?",
+        "answer": "Even"
+      },
+      {
+        "question": "What visual impression of softness does the fabric give?",
+        "answer": "Soft"
+      },
+      {
+        "question": "What is the suggested visual application of this type of fabric?",
+        "answer": "Upholstery"
+      },
+      {
+        "question": "What could be the visual feel if one touched the fabric?",
+        "answer": "Soft"
+      },
+      {
+        "question": "How would you describe the visual tone of the fabric's color?",
+        "answer": "Neutral"
+      },
+      {
+        "question": "What is the implied visual drape of this fabric?",
+        "answer": "Drapable"
+      }
+    ]
+  }
+]

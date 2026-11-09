@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/81/812aa311.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the text's overall visual presentation, what is the most prominent label category displayed?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "Based on the visual appearance, what primary ingredient is explicitly mentioned?",
+        "answer": "Coconut"
+      },
+      {
+        "question": "Judging by the text's formatting, what is the indicated status regarding allergens?",
+        "answer": "Warning"
+      },
+      {
+        "question": "What specific dietary restriction is explicitly addressed concerning suitability?",
+        "answer": "Vegetarians"
+      },
+      {
+        "question": "Examining the visual layout, what other potential allergens are listed?",
+        "answer": "Nuts"
+      },
+      {
+        "question": "From the image, which additional allergen is mentioned besides nuts?",
+        "answer": "Sesame"
+      },
+      {
+        "question": "What other allergy-related information is visually present?",
+        "answer": "Soy"
+      },
+      {
+        "question": "Based on the image, what fourth allergen is listed?",
+        "answer": "Gluten"
+      },
+      {
+        "question": "Considering the visual organization, what is the secondary prominent text section?",
+        "answer": "Allergy"
+      },
+      {
+        "question": "In terms of its visual style, what is the overall text orientation?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Judging from the typography, what is the font type used?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Considering the text size, what is the relative size of 'Ingredients' compared to other sections?",
+        "answer": "Larger"
+      },
+      {
+        "question": "Based on the appearance of the text, is the text bold?",
+        "answer": "No"
+      },
+      {
+        "question": "Regarding the text clarity, is the printing sharp or blurry?",
+        "answer": "Sharp"
+      },
+      {
+        "question": "From the overall visual impression, what is the general color of the text?",
+        "answer": "Black"
+      }
+    ]
+  }
+]

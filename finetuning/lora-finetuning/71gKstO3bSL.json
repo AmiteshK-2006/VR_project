@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fb/fb01583b.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary ingredient explicitly mentioned on the product's label, as visibly depicted in the image?",
+        "answer": "Nutmeg"
+      },
+      {
+        "question": "Considering the visible text, what is the certification status of the nutmeg showcased on this product's label?",
+        "answer": "Certified"
+      },
+      {
+        "question": "Based on the image, what adjective describes the source of the nutmeg ingredient as clearly indicated on the label?",
+        "answer": "Organic"
+      },
+      {
+        "question": "What is the overall background color of the visible label, as shown in the product image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What is the visible text color on the product label shown in the image?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the apparent text font style used on the product label, visually observed in the image?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Judging from the image, what is the text case style predominantly used on the label?",
+        "answer": "Uppercase"
+      },
+      {
+        "question": "What is the apparent orientation of the text on the product label as presented in the image?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "According to the visible information on the product label, what kind of trade practice is the nutmeg sourced from?",
+        "answer": "Fair"
+      },
+      {
+        "question": "What is the texture of the product\u2019s label surface, as visible in the provided image?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What is the visible condition of the printing on the product label in the image?",
+        "answer": "Clear"
+      },
+      {
+        "question": "What is the general style of the label design in the provided image, considering its simplicity and information delivery?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "In terms of the labeling, what additional information is included regarding potential allergens?",
+        "answer": "Warning"
+      },
+      {
+        "question": "What term in the visible text denotes the origin of the nutmeg?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the visible format of the ingredient list shown on the label in the image?",
+        "answer": "List"
+      }
+    ]
+  }
+]

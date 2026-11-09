@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b5/b56b0dea.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color observed across the entire surface of the presented textile?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Considering the visual texture, what is the most apparent tactile characteristic of the material?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Based on the image's visual cues, what material seems to constitute this displayed product?",
+        "answer": "Leather"
+      },
+      {
+        "question": "Judging by the image's resolution and visible texture, what is the overall finish of the material?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the image reveal any visible pattern or design on the material's surface?",
+        "answer": "None"
+      },
+      {
+        "question": "What is the general perceived tone or shade of the gray color presented?",
+        "answer": "Light"
+      },
+      {
+        "question": "From a visual standpoint, how would you describe the surface uniformity of the material?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Considering the overall visual presentation, does the material appear to be thick or thin?",
+        "answer": "Thick"
+      },
+      {
+        "question": "Based on visual observation, is the surface of the material glossy or non-glossy?",
+        "answer": "Non-glossy"
+      },
+      {
+        "question": "Can you identify any significant visual imperfections or irregularities on the material?",
+        "answer": "None"
+      },
+      {
+        "question": "Does the visual texture suggest a coarse or fine-grained material?",
+        "answer": "Fine"
+      },
+      {
+        "question": "Judging from the image, is the color distribution across the material even or uneven?",
+        "answer": "Even"
+      },
+      {
+        "question": "What is the apparent visual depth or dimensionality of the material's texture?",
+        "answer": "Shallow"
+      },
+      {
+        "question": "If one were to touch this material, what would the predominant visual texture suggest?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Considering the visual details provided, how would you classify the displayed material’s appearance?",
+        "answer": "Solid"
+      }
+    ]
+  }
+]

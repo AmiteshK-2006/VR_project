@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b5/b519f743.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the dominant color scheme used throughout the nutritional facts panel?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the primary font style employed for the prominent headings such as 'Nutrition Facts', 'Calories', and 'Total Fat'?",
+        "answer": "Bold"
+      },
+      {
+        "question": "Based solely on visual observation, what is the textual arrangement style of the various nutritional components presented?",
+        "answer": "Columnar"
+      },
+      {
+        "question": "Observing the image, what is the shape of the nutritional information panel as a whole?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Focusing on the 'Calories' section, what is the numerical value prominently displayed for a single serving?",
+        "answer": "170"
+      },
+      {
+        "question": "Regarding the visual elements, what is the primary formatting used to denote percentages within the nutritional facts?",
+        "answer": "Numerical"
+      },
+      {
+        "question": "Considering the visual hierarchy, what is the prominent descriptor for the quantity of servings contained within the package?",
+        "answer": "About"
+      },
+      {
+        "question": "From the image, what measurement unit is used to indicate serving size?",
+        "answer": "Cup"
+      },
+      {
+        "question": "What is the visual style of the text in terms of its weight or thickness?",
+        "answer": "Heavy"
+      },
+      {
+        "question": "What type of visual element is predominantly used to delineate the various nutritional components?",
+        "answer": "Lines"
+      },
+      {
+        "question": "From a purely visual perspective, ignoring the context, what is the dominant visual texture of this product display?",
+        "answer": "Flat"
+      },
+      {
+        "question": "What is the numerical value shown next to 'Total Fat' in grams?",
+        "answer": "12"
+      },
+      {
+        "question": "Describe visually the formatting of the 'Daily Value' percentages.",
+        "answer": "Right-aligned"
+      },
+      {
+        "question": "What is the visual method used to separate the 'Nutrition Facts' header from the data?",
+        "answer": "Spacing"
+      },
+      {
+        "question": "Describe the visual presentation of the 'Added Sugars' value.",
+        "answer": "Indented"
+      }
+    ]
+  }
+]

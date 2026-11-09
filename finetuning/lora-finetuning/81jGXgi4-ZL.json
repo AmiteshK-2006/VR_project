@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b2/b2db3582.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall shape and dimensions, what best describes the container's form factor?",
+        "answer": "Bottle"
+      },
+      {
+        "question": "Based on the image, what appears to be the primary material of the bottle?",
+        "answer": "Glass"
+      },
+      {
+        "question": "Judging by the visual texture, what is the surface feel of the bottle?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What color is the primary body of the bottle, excluding the cap?",
+        "answer": "Amber"
+      },
+      {
+        "question": "Describe the color of the cap on top of the bottle.",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the apparent material of the cap, judging from its appearance?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Based on the label's visual presentation, what is the stated product type?",
+        "answer": "Oil"
+      },
+      {
+        "question": "What is the apparent color of the label's background or main field?",
+        "answer": "Green"
+      },
+      {
+        "question": "Disregarding any text, what is the overall shape of the label itself?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging by the visible text, what specific type of oil is indicated?",
+        "answer": "Rose"
+      },
+      {
+        "question": "Does the bottle exhibit any noticeable markings or logos besides text?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the label's design, what kind of visual element is prominently displayed?",
+        "answer": "Logo"
+      },
+      {
+        "question": "What is the apparent shape of the bottle's opening or neck area?",
+        "answer": "Cylindrical"
+      },
+      {
+        "question": "What is the overall design style of the label; simple, ornate etc?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Describe the visual texture of the label's surface.",
+        "answer": "Smooth"
+      }
+    ]
+  }
+]

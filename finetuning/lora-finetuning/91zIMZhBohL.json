@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/fb/fb01fc78.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the predominant color observed across the entire visible surface?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Considering the visual texture, what material best describes the product's apparent surface?",
+        "answer": "Suede"
+      },
+      {
+        "question": "Based on the image's resolution, what is the apparent overall shape or form of the product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Does the visible surface exhibit a consistent or varied texture across the entire area?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "Judging by the visual appearance, what is the general level of sheen or glossiness?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Observing the image closely, are there any discernible patterns or markings on the surface?",
+        "answer": "None"
+      },
+      {
+        "question": "From the visual details, what is the apparent thickness or depth of the product?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Based on the color saturation, how intense or deep is the primary color displayed?",
+        "answer": "Deep"
+      },
+      {
+        "question": "Considering the image, does the product show any signs of visible damage or wear?",
+        "answer": "No"
+      },
+      {
+        "question": "From this visual representation, what seems to be the overall finish of the product?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Considering the visual texture, how soft or rough does the material seem to the touch?",
+        "answer": "Soft"
+      },
+      {
+        "question": "Judging by the visual evidence, what might be the product's primary intended use?",
+        "answer": "Decorative"
+      },
+      {
+        "question": "Does the image suggest the presence of any additional components or elements?",
+        "answer": "No"
+      },
+      {
+        "question": "Considering the image quality and resolution, is the visible area uniformly colored?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Does the image clearly reveal any visible stitching, seams or joins?",
+        "answer": "No"
+      }
+    ]
+  }
+]

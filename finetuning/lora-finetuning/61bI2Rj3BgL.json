@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/9e/9eb933c8.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color of the supplement facts label's text?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape of the individual supplement containers as depicted in the label's text?",
+        "answer": "Capsule"
+      },
+      {
+        "question": "Based on the label's text, what is the type of capsule used for the supplement?",
+        "answer": "Vegan"
+      },
+      {
+        "question": "What is the stated serving size of the supplement according to the label's text?",
+        "answer": "One"
+      },
+      {
+        "question": "What is the color of the 'Supplement Facts' heading on the label?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the background color of the supplement facts panel?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the type of ingredient primarily emphasized in the supplement facts panel?",
+        "answer": "Milk"
+      },
+      {
+        "question": "What plant species is the main ingredient derived from, as indicated on the label?",
+        "answer": "Thistle"
+      },
+      {
+        "question": "What is the indicated unit of measurement for the supplement's ingredient quantities?",
+        "answer": "mg"
+      },
+      {
+        "question": "What additional ingredient is listed in the 'Other Ingredients' section of the label?",
+        "answer": "Cellulose"
+      },
+      {
+        "question": "What is the descriptive term used to modify the type of cellulose employed as an ingredient?",
+        "answer": "Vegetable"
+      },
+      {
+        "question": "According to the label, what is the processing status of the manufacturing facility?",
+        "answer": "Modified"
+      },
+      {
+        "question": "What type of nut is mentioned in the label's production details?",
+        "answer": "Tree"
+      },
+      {
+        "question": "What type of seafood is listed among the processed items in the manufacturing facility?",
+        "answer": "Shellfish"
+      },
+      {
+        "question": "What other legume is mentioned regarding the processing of the manufacturing facility?",
+        "answer": "Soy"
+      }
+    ]
+  }
+]

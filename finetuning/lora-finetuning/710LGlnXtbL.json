@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/25/253ef81a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the visible fabric section?",
+        "answer": "Mustard"
+      },
+      {
+        "question": "What primary material appears to constitute the majority of the product?",
+        "answer": "Fabric"
+      },
+      {
+        "question": "Considering the visible zipper, what is its apparent function?",
+        "answer": "Closure"
+      },
+      {
+        "question": "What is the color of the interior lining visible near the zipper?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on its shape and design, what is the item's likely purpose?",
+        "answer": "Cover"
+      },
+      {
+        "question": "What seems to be the texture of the outer fabric; smooth or rough?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the bottom edge, what design element is present?",
+        "answer": "Drawstring"
+      },
+      {
+        "question": "What is the overall shape of the visible product section?",
+        "answer": "Hood"
+      },
+      {
+        "question": "Judging by the image, what is the garment's apparent condition; new or used?",
+        "answer": "New"
+      },
+      {
+        "question": "Does the product display any visible patterns or logos?",
+        "answer": "No"
+      },
+      {
+        "question": "What type of fastener is used to secure the product?",
+        "answer": "Zipper"
+      },
+      {
+        "question": "Judging from the image, what is the visible product's likely weight; heavy or light?",
+        "answer": "Light"
+      },
+      {
+        "question": "Considering its features, what is the most probable use-case of this item?",
+        "answer": "Protection"
+      },
+      {
+        "question": "What type of stitching is visibly apparent on the product?",
+        "answer": "Straight"
+      },
+      {
+        "question": "Is the visible fabric waterproof or water-resistant in appearance?",
+        "answer": "Waterproof"
+      }
+    ]
+  }
+]

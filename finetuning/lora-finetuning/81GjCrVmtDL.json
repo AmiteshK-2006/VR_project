@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/0c/0c572737.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the primary packaging box?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What appears to be the primary material of the outer box?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Considering the overall structure, what is the shape of the product's container?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the image, what seems to be the overall texture of the packaging?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Observing the box's design, is there a noticeable pattern or print on the box?",
+        "answer": "None"
+      },
+      {
+        "question": "What is depicted on the back panel, primarily conveying product information?",
+        "answer": "Image"
+      },
+      {
+        "question": "Judging by the image, what type of closure is used for this box?",
+        "answer": "None"
+      },
+      {
+        "question": "Examining the rear surface, are there any noticeable markings or labels apart from the image?",
+        "answer": "Text"
+      },
+      {
+        "question": "What seems to be the primary function of the printed illustration on the box?",
+        "answer": "Informative"
+      },
+      {
+        "question": "Judging by the appearance, how many individual components are seemingly within the box?",
+        "answer": "Many"
+      },
+      {
+        "question": "Based on the visual information, is this a pre-assembled kit or individual components?",
+        "answer": "Kit"
+      },
+      {
+        "question": "Considering the contents and box, is it most likely a single-serving item or a multiple serving?",
+        "answer": "Multiple"
+      },
+      {
+        "question": "From the visual analysis, what might the intended use of the product contained within be?",
+        "answer": "Cooking"
+      },
+      {
+        "question": "Considering the packaging size and details visible, what would be the appropriate description of the overall size?",
+        "answer": "Large"
+      },
+      {
+        "question": "Does the box show evidence of any visible damage or wear and tear?",
+        "answer": "No"
+      }
+    ]
+  }
+]

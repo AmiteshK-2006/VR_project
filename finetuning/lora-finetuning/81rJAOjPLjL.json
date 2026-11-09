@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6b/6b3e8478.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall rectangular structure, what is the primary shape of this nutritional facts label?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Observing the text's arrangement, what is the dominant orientation of the information presented?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "What color is predominantly used for the background of this nutritional information panel?",
+        "answer": "White"
+      },
+      {
+        "question": "Focusing on the textual elements, what color is primarily employed for the headings and subheadings?",
+        "answer": "Black"
+      },
+      {
+        "question": "Regarding the visual style, is the font used predominantly serif or sans-serif?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the visual details, what is the texture of the paper or material on which the information is printed?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Analyzing the layout, what is the primary method of organizing the data – tabular or paragraph?",
+        "answer": "Tabular"
+      },
+      {
+        "question": "Considering the overall design, is the style best characterized as minimalist, ornate, or cluttered?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "Focusing on the numbers, what is the unit predominantly used for measuring the quantity of various nutrients?",
+        "answer": "Grams"
+      },
+      {
+        "question": "In relation to daily intake, what is the unit used to show the nutritional value percentage?",
+        "answer": "Percent"
+      },
+      {
+        "question": "Observing the label, what specific information regarding carbohydrates is provided?",
+        "answer": "Total"
+      },
+      {
+        "question": "According to the visible information, what nutrient is measured in milligrams (mg)?",
+        "answer": "Sodium"
+      },
+      {
+        "question": "Considering the given nutrition facts, what type of sugar is specified?",
+        "answer": "Added"
+      },
+      {
+        "question": "What is the main subject conveyed within this rectangular frame?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the general type of data presented concerning food consumption?",
+        "answer": "Facts"
+      }
+    ]
+  }
+]

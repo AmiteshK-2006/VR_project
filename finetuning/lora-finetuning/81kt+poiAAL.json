@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/af/af89951a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the primary color dominating the box's design?",
+        "answer": "Green"
+      },
+      {
+        "question": "What kind of geometric pattern adorns the box sides?",
+        "answer": "Squares"
+      },
+      {
+        "question": "What is the overall shape of the product's packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What material appears to constitute the product's packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Considering the text, what type of beverage does this box contain?",
+        "answer": "Tea"
+      },
+      {
+        "question": "What secondary color accents the green on the packaging?",
+        "answer": "Orange"
+      },
+      {
+        "question": "Is the surface texture of the box predominantly smooth or rough?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Does the packaging display any images aside from text and patterns?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent print quality of the text and design elements?",
+        "answer": "High"
+      },
+      {
+        "question": "Are there any visible barcodes or similar markings on the box?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the predominant orientation of the text on the packaging?",
+        "answer": "Vertical"
+      },
+      {
+        "question": "Does the box appear to be sealed or openable?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "What is the apparent style of the typography used on the box?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Excluding the barcode, is there any other prominent numeric information?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What flavor variety of tea is prominently indicated on the box?",
+        "answer": "Green"
+      }
+    ]
+  }
+]

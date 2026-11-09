@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/58/586dd4b6.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall design, what is the primary function suggested by the visual presentation of this product?",
+        "answer": "Food"
+      },
+      {
+        "question": "Examining the text prominently displayed, what specific type of food is this item?",
+        "answer": "Soup"
+      },
+      {
+        "question": "Based on the visible text, what two main ingredients are explicitly named in the product's description?",
+        "answer": "Broccoli"
+      },
+      {
+        "question": "Based on the visible text, what other key ingredient is explicitly named in the product's description?",
+        "answer": "Cheddar"
+      },
+      {
+        "question": "Focusing on the textual information, what is the total calorie count per serving, as clearly indicated?",
+        "answer": "320"
+      },
+      {
+        "question": "Observing the textual data, what is the serving size, as specified in both units and weight?",
+        "answer": "Cup"
+      },
+      {
+        "question": "From the textual information provided, what is the primary dairy product component in this item?",
+        "answer": "Milk"
+      },
+      {
+        "question": "What is the color of the text used to present the nutritional facts, as visually apparent?",
+        "answer": "Black"
+      },
+      {
+        "question": "What is the overall shape and format of the information presented on the product packaging?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the general texture implied by the visual presentation of this food product, based on its description?",
+        "answer": "Creamy"
+      },
+      {
+        "question": "From the provided image, what is the visible background color of the primary label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the visual style of the text concerning the product's ingredients and nutritional information?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "In relation to cooking instructions, what cooking method is specifically highlighted for this product?",
+        "answer": "Microwave"
+      },
+      {
+        "question": "Observing the image, what is the dominant color presented in the printed text of the label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Based on the visible text, which company is this product made for?",
+        "answer": "Wholefoods"
+      }
+    ]
+  }
+]

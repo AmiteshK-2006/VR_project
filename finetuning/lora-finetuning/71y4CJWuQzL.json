@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/6f/6f935f48.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the prominent text displayed at the top of the rectangular label, indicating the nature of the information provided?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the numerical value, positioned prominently near the bottom of the label, representing the energy content of a serving?",
+        "answer": "170"
+      },
+      {
+        "question": "Considering the overall visual presentation, what is the primary format in which nutritional information is presented on this label?",
+        "answer": "Table"
+      },
+      {
+        "question": "What is the textual descriptor in the label indicating the approximate amount of servings in the entire container?",
+        "answer": "Servings"
+      },
+      {
+        "question": "What is the unit of measurement indicated, specifying the quantity of a single serving?",
+        "answer": "Cup"
+      },
+      {
+        "question": "What is the general shade or tone of the label's background, providing a visual context for the textual content?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the typeface of the primary textual information on the nutrition facts label, defining the overall visual style?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "What is the descriptive term that denotes the state of the serving size before preparation, indicating dry or liquid state?",
+        "answer": "Dry"
+      },
+      {
+        "question": "Considering the visual appearance, what is the overall shape of the label or area that the nutritional facts are presented on?",
+        "answer": "Rectangle"
+      },
+      {
+        "question": "What is the primary color of the textual content across the majority of the nutritional information section?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the design, what is the arrangement of the nutritional components or facts information on the label?",
+        "answer": "Columns"
+      },
+      {
+        "question": "Based on the visual design, what is the textual style used for the header labeling the nutrition facts?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the style of the numerical values for the grams of carbohydrates, fats, and proteins; bold or regular?",
+        "answer": "Regular"
+      },
+      {
+        "question": "What is the unit of measurement used to quantify the serving size, as depicted on the nutrition facts label?",
+        "answer": "Grams"
+      },
+      {
+        "question": "What is the term displayed below 'Calories', indicating what the calorie count refers to, for example, serving, container, etc?",
+        "answer": "Serving"
+      }
+    ]
+  }
+]

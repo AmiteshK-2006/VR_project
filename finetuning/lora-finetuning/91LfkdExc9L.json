@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/24/246b114a.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the stacked rectangular items?",
+        "answer": "Green"
+      },
+      {
+        "question": "Considering the overall arrangement, what is the primary shape of the product?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on visual texture, what is the apparent surface feel of each individual sheet?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "Judging by the image, what appears to be the primary material of these items?",
+        "answer": "Paper"
+      },
+      {
+        "question": "What is the most obvious visual characteristic of the individual sheets' edges?",
+        "answer": "Straight"
+      },
+      {
+        "question": "Considering the layering, how would you describe the uniformity of the sheets' dimensions?",
+        "answer": "Consistent"
+      },
+      {
+        "question": "What is the overall visual impression of the arrangement and its components?",
+        "answer": "Neat"
+      },
+      {
+        "question": "From the image, what would be the best descriptor of the displayed stack's structure?",
+        "answer": "Layered"
+      },
+      {
+        "question": "What is the observed condition of the edges across the entire stack?",
+        "answer": "Untorn"
+      },
+      {
+        "question": "Focusing on a single sheet, what is the most apparent feature of its design?",
+        "answer": "Plain"
+      },
+      {
+        "question": "If you were to describe the light reflection, what is the overall sheen of the paper?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Ignoring shadows, what is the most noticeable color variance observed?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering the stack's height, what is the implied count of the layered units?",
+        "answer": "Many"
+      },
+      {
+        "question": "Judging by the image, what could be the intended use of this product?",
+        "answer": "Household"
+      },
+      {
+        "question": "Based on the visual appearance, what is the implied thickness of each sheet?",
+        "answer": "Thin"
+      }
+    ]
+  }
+]

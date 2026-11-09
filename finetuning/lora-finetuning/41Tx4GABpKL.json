@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ec/ec3f6ece.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the displayed item, considering its overall appearance?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the visible surface, what seems to be the primary material used in the product's construction?",
+        "answer": "Ceramic"
+      },
+      {
+        "question": "Based on the image, what is the most apparent textural quality of the product's surface?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "From the visual representation, what is the most evident shape or form of the presented object?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Judging from the image, does the product exhibit any noticeable patterns or designs on its surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Observing the item's edges, what description best reflects their visual characteristics?",
+        "answer": "Sharp"
+      },
+      {
+        "question": "What is the overall impression of the item's finish, as shown in the visual representation?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Does the image show any visible signs of surface imperfections or irregularities on the object?",
+        "answer": "No"
+      },
+      {
+        "question": "Based on the image's resolution and clarity, what can be inferred about the product's thickness?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Observing the provided image, does the product appear to be uniformly colored throughout its visible surface?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Considering the image, what might be the intended use or function of the displayed item?",
+        "answer": "Tile"
+      },
+      {
+        "question": "From the visual representation, how would you describe the overall reflectivity of the product's surface?",
+        "answer": "Low"
+      },
+      {
+        "question": "Based on the image, is there any evidence of visible seams or joints on the product's surface?",
+        "answer": "No"
+      },
+      {
+        "question": "Judging from the visible area, what is the apparent size or scale of the object in relation to typical household items?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the apparent level of gloss or shine exhibited by the surface of the object in the image?",
+        "answer": "None"
+      }
+    ]
+  }
+]

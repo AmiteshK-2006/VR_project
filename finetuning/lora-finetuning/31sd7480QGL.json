@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/93/93448418.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the packaging shown in the provided image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "What appears to be the primary material used for the product's outer packaging?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Considering the overall dimensions, what is the best descriptor for the product's shape?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the image, what appears to be printed on the box's surface?",
+        "answer": "Text"
+      },
+      {
+        "question": "What is the apparent finish or texture of the outer packaging surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "Considering the size relative to the human silhouette, how would you describe the product's size?",
+        "answer": "Medium"
+      },
+      {
+        "question": "What brand name is prominently displayed on the product packaging?",
+        "answer": "SODIMO"
+      },
+      {
+        "question": "Judging by the image, does the packaging appear sealed or open?",
+        "answer": "Sealed"
+      },
+      {
+        "question": "What is the apparent style or design of the product's packaging?",
+        "answer": "Minimalist"
+      },
+      {
+        "question": "What type of information, besides the brand, is visible on the packaging?",
+        "answer": "Text"
+      },
+      {
+        "question": "Does the packaging show any apparent damage or imperfections?",
+        "answer": "No"
+      },
+      {
+        "question": "From the visible text, what seems to be the product's name or type?",
+        "answer": "Cleansant"
+      },
+      {
+        "question": "What is the apparent weight or density of the product based on size and material?",
+        "answer": "Light"
+      },
+      {
+        "question": "What units are used for height measurement of the product?",
+        "answer": "Inches"
+      },
+      {
+        "question": "Considering the overall presentation, what is the product's likely intended use?",
+        "answer": "Cleaning"
+      }
+    ]
+  }
+]

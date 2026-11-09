@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/64/64b66e0d.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall form, what is the primary shape of the product packaging as shown in the image?",
+        "answer": "Bag"
+      },
+      {
+        "question": "What is the dominant color used for the major portion of the product's packaging?",
+        "answer": "Teal"
+      },
+      {
+        "question": "Based on the visible texture, what material is most likely used for the product's outer packaging?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "Observing the product's labeling, what is the visible brand or product name printed on the packaging?",
+        "answer": "Chocol"
+      },
+      {
+        "question": "Describing the product inside the package by its appearance, what color is the product's visible part?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Looking at the package's design, what is the prominent style of the text and graphic elements on the bag?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What appears to be the primary function or purpose suggested by the image of this product?",
+        "answer": "Food"
+      },
+      {
+        "question": "Considering the visual information, does the product packaging show any type of seal or closure?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Analyzing the visible text, can you determine any dietary-related keywords or descriptions visible on the bag?",
+        "answer": "Gluten"
+      },
+      {
+        "question": "Observing the packaging, are there any visual indicators of certifications, such as logos?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Examining the package's structure, is there any visible indication of a resealable feature?",
+        "answer": "No"
+      },
+      {
+        "question": "Regarding the presentation, what seems to be the likely format of the product inside the bag?",
+        "answer": "Granular"
+      },
+      {
+        "question": "Judging by its appearance, what is the overall consistency of the product inside the packaging?",
+        "answer": "Powder"
+      },
+      {
+        "question": "Considering the labeling, are there any visible nutritional facts or ingredient lists?",
+        "answer": "Yes"
+      },
+      {
+        "question": "From the image, what type of barcode or identification code is printed on the bag?",
+        "answer": "UPC"
+      }
+    ]
+  }
+]

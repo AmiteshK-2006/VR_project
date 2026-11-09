@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/7e/7ecd0de5.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "Considering the overall visual presentation, what is the primary textual content depicted on the item?",
+        "answer": "Ingredients"
+      },
+      {
+        "question": "What is the dominant color scheme observed across the entire textual component?",
+        "answer": "Black"
+      },
+      {
+        "question": "Observing the typography, what typeface is predominantly utilized for the presented textual information?",
+        "answer": "Sans-serif"
+      },
+      {
+        "question": "Based on the visual details, what is the apparent size of the product's textual element compared to an average-sized finger?",
+        "answer": "Small"
+      },
+      {
+        "question": "What is the apparent background color that visibly surrounds the textual components?",
+        "answer": "White"
+      },
+      {
+        "question": "Considering the composition of the text, how many distinct lines of ingredients are explicitly listed?",
+        "answer": "Four"
+      },
+      {
+        "question": "What is the visual format of the information concerning potential allergenic substances?",
+        "answer": "Statement"
+      },
+      {
+        "question": "Considering the visual layout, does the presented information have a clear hierarchical structure?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Focusing solely on the image, what is the shape of the provided text's boundary?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Given the visual appearance, is the text presented in a neatly arranged or disorderly fashion?",
+        "answer": "Neat"
+      },
+      {
+        "question": "What is the orientation of the textual information within the provided visual data?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Based on the image, is the text printed with a high resolution or a low resolution?",
+        "answer": "High"
+      },
+      {
+        "question": "How would you visually characterize the style of the lettering used for the text?",
+        "answer": "Simple"
+      },
+      {
+        "question": "Judging by the image, is the text printed on a matte or a glossy surface?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What is the visual prominence of the words \"Fair Trade Certified\" within the text block?",
+        "answer": "Prominent"
+      }
+    ]
+  }
+]

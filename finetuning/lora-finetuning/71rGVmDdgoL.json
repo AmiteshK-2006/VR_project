@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/ad/ad1b52a7.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the visible fabric?",
+        "answer": "Black"
+      },
+      {
+        "question": "What type of textile is predominantly shown in the image?",
+        "answer": "Mesh"
+      },
+      {
+        "question": "Describe the texture of the mesh fabric section?",
+        "answer": "Netted"
+      },
+      {
+        "question": "What is the apparent weave structure of the solid fabric section?",
+        "answer": "Woven"
+      },
+      {
+        "question": "Considering the image, what is the overall feel of the material?",
+        "answer": "Smooth"
+      },
+      {
+        "question": "What kind of pattern is visible on the mesh portion?",
+        "answer": "Grid"
+      },
+      {
+        "question": "Based on visual inspection, what is the material's apparent weight?",
+        "answer": "Lightweight"
+      },
+      {
+        "question": "Does the image suggest the fabric has a noticeable sheen?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the general shape of the visible fabric section?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "What is the primary function implied by the mesh insert?",
+        "answer": "Ventilation"
+      },
+      {
+        "question": "Judging by appearance, is the fabric stretchy or rigid?",
+        "answer": "Stretchy"
+      },
+      {
+        "question": "Does the fabric exhibit any noticeable embroidery or printing?",
+        "answer": "No"
+      },
+      {
+        "question": "Can you describe the visible edge of the fabric?",
+        "answer": "Raw"
+      },
+      {
+        "question": "What is the apparent thickness of the solid fabric?",
+        "answer": "Thin"
+      },
+      {
+        "question": "Considering the image, does the material seem breathable?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

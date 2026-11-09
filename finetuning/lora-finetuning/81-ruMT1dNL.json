@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/11/11e717f3.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color of the bread loaf, as visually apparent in the product image?",
+        "answer": "Brown"
+      },
+      {
+        "question": "Considering the visible texture, what is the apparent surface texture of the bread?",
+        "answer": "Rough"
+      },
+      {
+        "question": "What is the overall shape of the bread package, as shown in the image?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Based on the image, what kind of packaging material is the bread contained within?",
+        "answer": "Plastic"
+      },
+      {
+        "question": "What type of grains are visibly embedded within the bread's structure?",
+        "answer": "Oat"
+      },
+      {
+        "question": "Observing the label, what is the primary ingredient explicitly mentioned on the packaging?",
+        "answer": "Bread"
+      },
+      {
+        "question": "Judging from its appearance, what is the likely consistency of the bread\u2014dense or airy?",
+        "answer": "Dense"
+      },
+      {
+        "question": "What is the color of the visible label on the bread packaging?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the overall size of the bread package relative to a typical loaf?",
+        "answer": "Standard"
+      },
+      {
+        "question": "Does the bread show evidence of any visible added ingredients?",
+        "answer": "Yes"
+      },
+      {
+        "question": "What is the apparent style of the packaging design on the bread wrapper?",
+        "answer": "Simple"
+      },
+      {
+        "question": "What is the primary method of packaging, bag or box?",
+        "answer": "Bag"
+      },
+      {
+        "question": "Does the image show any seal or closure mechanism for the bread packaging?",
+        "answer": "Yes"
+      },
+      {
+        "question": "Based on visual cues, is this bread sliced or unsliced?",
+        "answer": "Sliced"
+      },
+      {
+        "question": "Is there any visible branding or logo apparent on the package?",
+        "answer": "Yes"
+      }
+    ]
+  }
+]

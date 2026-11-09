@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/a3/a3fb30d0.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the overall color of the presented sheet?",
+        "answer": "Off-white"
+      },
+      {
+        "question": "What is the dominant texture observed across the sheet's surface?",
+        "answer": "Slightly-rough"
+      },
+      {
+        "question": "What seems to be the primary material used in the sheet's construction?",
+        "answer": "Cardboard"
+      },
+      {
+        "question": "Describing the sheet's form, what geometrical shape is most prominent?",
+        "answer": "Rectangular"
+      },
+      {
+        "question": "Considering the edges, what is the apparent thickness of the sheet?",
+        "answer": "Thin"
+      },
+      {
+        "question": "What is the general appearance of the edges of this sheet of material?",
+        "answer": "Clean"
+      },
+      {
+        "question": "Can you describe the surface finish of the presented sheet?",
+        "answer": "Matte"
+      },
+      {
+        "question": "What kind of visible markings or patterns are present on the sheet's surface?",
+        "answer": "None"
+      },
+      {
+        "question": "Considering its form, is the sheet flat or does it exhibit any curvature?",
+        "answer": "Flat"
+      },
+      {
+        "question": "Based on its visual appearance, what is the sheet's level of rigidity?",
+        "answer": "Flexible"
+      },
+      {
+        "question": "Judging by the image, how uniform is the sheet's color and texture?",
+        "answer": "Uniform"
+      },
+      {
+        "question": "Does the sheet exhibit any visible signs of damage or imperfection?",
+        "answer": "No"
+      },
+      {
+        "question": "Does the image reveal any discernible patterns in the sheet's texture?",
+        "answer": "No"
+      },
+      {
+        "question": "What is the apparent orientation of the sheet in the image provided?",
+        "answer": "Angled"
+      },
+      {
+        "question": "Is the sheet presented in the image fully or partially visible?",
+        "answer": "Partially"
+      }
+    ]
+  }
+]

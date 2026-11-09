@@ -1,0 +1,69 @@
+[
+  {
+    "path": "images/small/b7/b77d6f05.jpg"
+  },
+  {
+    "questions": [
+      {
+        "question": "What is the dominant color scheme used in the presented nutrition facts label?",
+        "answer": "Black"
+      },
+      {
+        "question": "Considering the label's overall design, what is the most prominent textual feature, denoting the nutritional information?",
+        "answer": "Calories"
+      },
+      {
+        "question": "What type of numerical data is extensively provided in the label's structured layout?",
+        "answer": "Values"
+      },
+      {
+        "question": "What is the unit of measurement used for the 'serving size' as indicated in the label's specifications?",
+        "answer": "Ounces"
+      },
+      {
+        "question": "What is the primary textual element at the top of the nutrition label identifying its contents?",
+        "answer": "Nutrition"
+      },
+      {
+        "question": "What is the visual formatting applied to the nutritional values, clearly separating individual components?",
+        "answer": "Columns"
+      },
+      {
+        "question": "What is the typeface utilized for presenting the prominent 'Calories' count on the label?",
+        "answer": "Bold"
+      },
+      {
+        "question": "In terms of labeling style, how are the percentages of daily values presented, relative to the nutrient amounts?",
+        "answer": "Adjacent"
+      },
+      {
+        "question": "What is the visual characteristic of the lines used to separate the different nutritional facts on the label?",
+        "answer": "Horizontal"
+      },
+      {
+        "question": "Considering the textual elements, what is the size relation of the 'Calories' number to other text on the label?",
+        "answer": "Larger"
+      },
+      {
+        "question": "What is the overall background appearance of the nutrition facts label?",
+        "answer": "White"
+      },
+      {
+        "question": "What is the visual format for presenting the 'Daily Value' percentage for each nutrient?",
+        "answer": "Number"
+      },
+      {
+        "question": "What is the text style used for the descriptor 'Nutrition Facts' at the top of the label?",
+        "answer": "Bold"
+      },
+      {
+        "question": "What is the layout organization style that structures the nutrition information on the label?",
+        "answer": "Table"
+      },
+      {
+        "question": "How is the nutrition information categorized, for example, into fats, carbohydrates, etc?",
+        "answer": "Sections"
+      }
+    ]
+  }
+]
