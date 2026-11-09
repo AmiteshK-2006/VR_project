@@ -1,0 +1,19 @@
+Datasets Information
+---------------------
+
+1. Zero-Shot Dataset:
+Link: https://www.kaggle.com/datasets/transyltoonia/zero-shot-dataset
+
+Description:
+This dataset contains 25,000 JSON files. Each JSON file corresponds to a single image and contains 15 Question-Answer (QA) pairs. The dataset was curated for evaluating Visual Question Answering (VQA) models in a zero-shot setting, meaning the model has not seen any training examples from this dataset.
+
+Use Case:
+Primarily used to benchmark the baseline performance of zero-shot VQA models such as BLIP. It includes diverse question types, encouraging fine-grained evaluation.
+
+---
+
+2. Berkley Dataset:
+Link: https://www.kaggle.com/datasets/transyltoonia/berkley-dataset
+
+Description:
+This dataset was adapted from the publicly available Berkley VQA dataset. It provides a standardized set of visual scenes and questions, making it suitable for both zero-shot and fine-tuned VQA model evaluation.
