@@ -9,3 +9,6 @@ venv/
 abo-images-small.tar
 abo-listings.tar
 API.json
+__pycache__/
+*.pyc
+.DS_Store
